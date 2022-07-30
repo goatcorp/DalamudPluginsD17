@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/goaaats/Dalamud.RichPresence.git"
-commit = "ed3cddfb8eb861a4e16296248cc736a375c4961c"
+commit = "b4559535abaad54dc0dcdd4c234bc6a0341b866e"
 owners = [
     "goaaats",
 ]
