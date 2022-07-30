@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://gitlab.com/jules/cl_showpos.git"
-commit = "462538227a240f087c2589125ad9aee621e8e38d"
+commit = "347079fed6ee4bbc3db760d8e01d4c17bfa4aff8"
 owners = [
     44414597, # NotNite
 ]
