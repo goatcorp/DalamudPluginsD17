@@ -39,5 +39,4 @@ jobs:
         --work-folder="/work" \
         --static-folder="/static" \
         --artifact-folder="/artifact" \
-        --ci \
-        --actor="${{ github.actor }}"
+        --ci --actor="${{ github.actor }}"
