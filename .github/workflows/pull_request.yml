@@ -3,6 +3,7 @@ on: [pull_request]
 
 jobs:
   run-plogon:
+    name: Build Plugins
     runs-on: ubuntu-latest
     steps:
     - name: Checkout manifests
@@ -36,3 +37,9 @@ jobs:
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifact" \
         --ci --actor="${{ github.actor }}"
+      
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: plugin-artifact
+        path: artifacts
