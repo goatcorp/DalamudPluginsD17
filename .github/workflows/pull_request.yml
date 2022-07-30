@@ -5,11 +5,18 @@ jobs:
   run-plogon:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    - name: Checkout manifests
       uses: actions/checkout@v3
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
+
+    - name: Checkout Plogon
+      uses: actions/checkout@v3
+      with:
+        repository: goatcorp/Plogon
+        ref: V1.0.6
+        path: Plogon
 
     - name: Create required folders
       run: |
@@ -18,24 +25,13 @@ jobs:
         mkdir static
         mkdir work
 
-    - name: Save entrypoint
-      run: |
-        wget -O static/entrypoint.sh https://github.com/goatcorp/Plogon/raw/master/Plogon/static/entrypoint.sh
-        chmod +x static/entrypoint.sh
-        cat "${{ github.workspace }}/static/entrypoint.sh"
-
     - name: Run Plogon
+      working-directory: Plogon/Plogon
       run: |
-        docker run --rm \
-        -v /var/run/docker.sock:/var/run/docker.sock \
-        -v "${{ github.workspace }}/work":/work \
-        -v "${{ github.workspace }}/output":/output \
-        -v "${{ github.workspace }}/manifests":/manifests \
-        -v "${{ github.workspace }}/artifacts":/artifacts \
-        ghcr.io/goatcorp/plogon:latest \
-        --manifest-folder="/manifests" \
-        --output-folder="/output" \
+        dotnet run -- \
+        --manifest-folder="${{ github.workspace }}/manifests" \
+        --output-folder="${{ github.workspace }}/output" \
         --work-folder="${{ github.workspace }}/work" \
-        --static-folder="${{ github.workspace }}/static" \
-        --artifact-folder="/artifact" \
+        --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
+        --artifact-folder="${{ github.workspace }}/artifact" \
         --ci --actor="${{ github.actor }}"
