@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/goaaats/Dalamud.RichPresence.git"
-commit = "7282242ee0afc4e57d6fdcf644526a6379f1138f"
-owners = [
-    goaaats,
-]
-project_path = "Dalamud.RichPresence"
