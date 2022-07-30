@@ -17,6 +17,7 @@ jobs:
         mkdir artifacts
         mkdir static
         mkdir work
+        wget -O static/entrypoint.sh https://github.com/goatcorp/Plogon/raw/master/Plogon/static/entrypoint.sh
 
     - name: Run Plogon
       run: |
@@ -24,6 +25,7 @@ jobs:
         -v /var/run/docker.sock:/var/run/docker.sock \
         -v "${{ github.workspace }}/work":"/work" \
         -v "${{ github.workspace }}/output":"/output" \
+        -v "${{ github.workspace }}/static":"/static" \
         -v "${{ github.workspace }}/manifests":"/manifests" \
         -v "${{ github.workspace }}/artifacts":"/artifacts" \
         ghcr.io/goatcorp/plogon:latest \
