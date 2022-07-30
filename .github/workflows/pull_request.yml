@@ -6,7 +6,6 @@ jobs:
     name: Build Plugins
     runs-on: ubuntu-latest
     steps:
-    - run: echo This is for ${{ github.event.pull_request.user.id }}
     - name: Checkout manifests
       uses: actions/checkout@v3
       with:
