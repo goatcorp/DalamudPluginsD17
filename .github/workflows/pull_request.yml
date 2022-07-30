@@ -17,7 +17,12 @@ jobs:
         mkdir artifacts
         mkdir static
         mkdir work
+
+    - name: Save entrypoint
+      run: |
         wget -O static/entrypoint.sh https://github.com/goatcorp/Plogon/raw/master/Plogon/static/entrypoint.sh
+        chmod +x static/entrypoint.sh
+        ls "${{ github.workspace }}/static"
 
     - name: Run Plogon
       run: |
