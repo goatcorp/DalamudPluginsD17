@@ -35,7 +35,7 @@ jobs:
         ghcr.io/goatcorp/plogon:latest \
         --manifest-folder="/manifests" \
         --output-folder="/output" \
-        --work-folder="/work" \
+        --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/static" \
         --artifact-folder="/artifact" \
         --ci --actor="${{ github.actor }}"
