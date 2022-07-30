@@ -10,12 +10,13 @@ jobs:
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
+        ref: ${{ github.event.pull_request.head.sha }}
 
     - name: Checkout Plogon
       uses: actions/checkout@v3
       with:
         repository: goatcorp/Plogon
-        ref: V1.0.6
+        #ref: V1.0.6
         path: Plogon
 
     - name: Create required folders
