@@ -1,1 +1,36 @@
+name: PR Checks
+on: [pull_request]
+
+jobs:
+  setup-docker:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout 
+      uses: actions/checkout@v3 # Required to mount the Github Workspace to a volume 
+      with:
+        repository: goatcorp/DalamudPluginsD17
+        path: manifests
+    - run: |
+        mkdir output
+        mkdir artifacts
+        mkdir static
+        mkdir work
+    - uses: addnab/docker-run-action@v3
+      with:
+        registry: ghcr.io
+        image: goatcorp/plogon:latest
+        options: |
+          -v ${{ github.workspace }}/work:/work \
+          -v ${{ github.workspace }}/output:/output \
+          -v ${{ github.workspace }}/static:/static \
+          -v ${{ github.workspace }}/manifests:/manifests \
+          -v ${{ github.workspace }}/artifacts:/artifacts \
+          -v /var/run/docker.sock:/var/run/docker.sock \
+          -- --manifest-folder="C:\repo\DalamudPluginsD17" \
+          --output-folder="C:\repo\plogonwork\output" \
+          --work-folder="C:\repo\plogonwork\work" \
+          --static-folder="C:\repo\Plogon\Plogon\static" \
+          --artifact-folder="C:\repo\plogonwork\artifact" \
+          --ci \
+          --actor="${{ github.actor }}"
 
