@@ -2,35 +2,37 @@ name: PR Checks
 on: [pull_request]
 
 jobs:
-  setup-docker:
+  run-plogon:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout 
-      uses: actions/checkout@v3 # Required to mount the Github Workspace to a volume 
+    - name: Checkout manifests
+      uses: actions/checkout@v3
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
-    - run: |
+        ref: ${{ github.event.pull_request.head.sha }}
+
+    - name: Checkout Plogon
+      uses: actions/checkout@v3
+      with:
+        repository: goatcorp/Plogon
+        #ref: V1.0.6
+        path: Plogon
+
+    - name: Create required folders
+      run: |
         mkdir output
         mkdir artifacts
         mkdir static
         mkdir work
-    - uses: addnab/docker-run-action@v3
-      with:
-        registry: ghcr.io
-        image: goatcorp/plogon:latest
-        options: |
-          -v ${{ github.workspace }}/work:/work \
-          -v ${{ github.workspace }}/output:/output \
-          -v ${{ github.workspace }}/static:/static \
-          -v ${{ github.workspace }}/manifests:/manifests \
-          -v ${{ github.workspace }}/artifacts:/artifacts \
-          -v /var/run/docker.sock:/var/run/docker.sock \
-          -- --manifest-folder="C:\repo\DalamudPluginsD17" \
-          --output-folder="C:\repo\plogonwork\output" \
-          --work-folder="C:\repo\plogonwork\work" \
-          --static-folder="C:\repo\Plogon\Plogon\static" \
-          --artifact-folder="C:\repo\plogonwork\artifact" \
-          --ci \
-          --actor="${{ github.actor }}"
 
+    - name: Run Plogon
+      working-directory: Plogon/Plogon
+      run: |
+        dotnet run -- \
+        --manifest-folder="${{ github.workspace }}/manifests" \
+        --output-folder="${{ github.workspace }}/output" \
+        --work-folder="${{ github.workspace }}/work" \
+        --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
+        --artifact-folder="${{ github.workspace }}/artifact" \
+        --ci --actor="${{ github.actor }}"
