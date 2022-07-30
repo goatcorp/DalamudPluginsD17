@@ -35,11 +35,11 @@ jobs:
         --output-folder="${{ github.workspace }}/output" \
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
-        --artifact-folder="${{ github.workspace }}/artifact" \
+        --artifact-folder="${{ github.workspace }}/artifacts" \
         --ci --actor="${{ github.event.pull_request.user.login }}"
       
     - name: Upload artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: plugin-artifact
         path: artifacts
