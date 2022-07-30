@@ -22,17 +22,17 @@ jobs:
       run: |
         wget -O static/entrypoint.sh https://github.com/goatcorp/Plogon/raw/master/Plogon/static/entrypoint.sh
         chmod +x static/entrypoint.sh
-        ls "${{ github.workspace }}/static"
+        cat "${{ github.workspace }}/static/entrypoint.sh"
 
     - name: Run Plogon
       run: |
         docker run --rm \
         -v /var/run/docker.sock:/var/run/docker.sock \
-        -v "${{ github.workspace }}/work":"/work" \
-        -v "${{ github.workspace }}/output":"/output" \
-        -v "${{ github.workspace }}/static":"/static" \
-        -v "${{ github.workspace }}/manifests":"/manifests" \
-        -v "${{ github.workspace }}/artifacts":"/artifacts" \
+        -v "${{ github.workspace }}/work":/work \
+        -v "${{ github.workspace }}/output":/output \
+        -v "${{ github.workspace }}/static":/static \
+        -v "${{ github.workspace }}/manifests":/manifests \
+        -v "${{ github.workspace }}/artifacts":/artifacts \
         ghcr.io/goatcorp/plogon:latest \
         --manifest-folder="/manifests" \
         --output-folder="/output" \
