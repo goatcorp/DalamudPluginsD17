@@ -24,7 +24,6 @@ jobs:
         -v /var/run/docker.sock:/var/run/docker.sock \
         -v "${{ github.workspace }}/work":"/work" \
         -v "${{ github.workspace }}/output":"/output" \
-        -v "${{ github.workspace }}/static":"/static" \
         -v "${{ github.workspace }}/manifests":"/manifests" \
         -v "${{ github.workspace }}/artifacts":"/artifacts" \
         ghcr.io/goatcorp/plogon:latest \
