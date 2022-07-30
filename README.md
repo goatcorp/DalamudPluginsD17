@@ -26,3 +26,15 @@ owners = [
 project_path = "SamplePlugin"
 changelog = "Added Herobrine"
 ```
+
+You'll also need to be using DalamudPackager, here's an excerpt from [the DIP](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md#reference-level-explanation):
+
+```xml
+<Target Name="PackagePlugin" AfterTargets="Build">
+    <DalamudPackager
+        ProjectDir="$(ProjectDir)"
+        OutputPath="$(OutputPath)"
+        AssemblyName="$(AssemblyName)"
+    />
+</Target>
+```
