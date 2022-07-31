@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NotNite/PizzaPlugin.git"
-commit = "990c3c4bc303cdc6bda2979bcfdc5291f2b61fb5"
+commit = "d7006f1bbc1abde508914442aaa441c74ee7faa1"
 owners = ["NotNite"]
 project_path = "PizzaPlugin"
