@@ -34,7 +34,7 @@ jobs:
     - name: Run Plogon
       working-directory: Plogon/Plogon
       env:
-        GITHUB_TOKEN: ${{ secrets.BOT_PAT }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         GITHUB_ACTOR: ${{ github.event.pull_request.user.login }}
         GITHUB_PR_NUM: ${{ github.event.number }}
