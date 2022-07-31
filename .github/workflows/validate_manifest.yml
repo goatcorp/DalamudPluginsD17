@@ -2,7 +2,8 @@ name: Validate Manifest
 on:
   pull_request:
     paths:
-      - '**/*.toml'
+      - 'stable/**/*.toml'
+      - 'testing/**/*.toml'
 
 jobs:
   lint-manifest:
@@ -17,7 +18,8 @@ jobs:
       uses: tj-actions/changed-files@v24
       with:
         files: |
-          *.toml
+          stable/**/*.toml
+          testing/**/*.toml
 
     - name: Setup Python 3.10
       uses: actions/setup-python@v4
