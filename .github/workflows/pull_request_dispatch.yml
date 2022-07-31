@@ -1,5 +1,8 @@
-name: PR Checks
-on: [pull_request]
+name: PR Checks Dispatch
+on:
+  repository_dispatch:
+    types: [start-pr-checks]
+
 permissions:
   issues: write
   pull-requests: write
@@ -15,7 +18,7 @@ jobs:
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
-        ref: ${{ github.event.pull_request.head.sha }}
+        ref: ${{ github.event.client_payload.ref }}
 
     - name: Checkout Plogon
       uses: actions/checkout@v3
@@ -36,8 +39,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
-        GITHUB_ACTOR: ${{ github.event.pull_request.user.login }}
-        GITHUB_PR_NUM: ${{ github.event.number }}
+        GITHUB_ACTOR: ${{ github.event.client_payload.actor }}
+        GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
