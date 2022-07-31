@@ -9,12 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
 
     - name: Check for manifest changes
       id: changed_manifests
-      run: echo "::set-output name=toml::$(git diff --name-only --diff-filter=ACMRT ${{ github.event.pull_request.base.sha }}) ${{ github.sha }} | grep '\.toml$' | xargs"
+      run: echo "::set-output name=toml::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep '\.toml$' | xargs)"
 
     - name: Setup Python 3.10
       uses: actions/setup-python@v4
