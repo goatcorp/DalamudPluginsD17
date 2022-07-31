@@ -29,6 +29,7 @@ jobs:
     - name: Install python deps
       run: python -mpip install pydantic==1.9.1 toml==0.10.2
 
+      # this does technically break on a filename with spaces, but nobody would do that, right? ...right?
     - name: Validate changed manifests
       run: python -mpyckager validate ${{ steps.changed-files.outputs.all_changed_files }}
   
