@@ -26,6 +26,7 @@ jobs:
         name: Build PR
         sha: ${{ github.event.client_payload.ref }}
         status: in_progress
+        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
     
     - name: Checkout manifests
       uses: actions/checkout@v3
@@ -76,3 +77,4 @@ jobs:
         token: ${{ steps.get-token.outputs.token }}
         check_id: ${{ steps.register_check.outputs.check_id }}
         conclusion: ${{ job.status }}
+        details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
