@@ -12,7 +12,7 @@ jobs:
 
     - name: Check for manifest changes
       id: changed_manifests
-      run: echo "::set-output name=toml::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep '\.toml$' | xargs)"
+      run: echo "::set-output name=toml::$(git diff --name-only --diff-filter=ACMRT ${{ github.event.pull_request.base.sha }}) ${{ github.sha }} | grep '\.toml$' | xargs"
 
     - name: Setup Python 3.10
       uses: actions/setup-python@v4
@@ -23,5 +23,5 @@ jobs:
       run: python -mpip install pydantic==1.9.1 toml==0.10.2
 
     - name: Validate changed manifests
-      run: python -mpyckager validate ${{ steps.changed_manifests.toml }}
+      run: python -mpyckager validate ${{ steps.changed_manifests.outputs.toml }}
   
