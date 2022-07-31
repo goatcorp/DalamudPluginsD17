@@ -13,6 +13,14 @@ jobs:
     name: Build Plugins
     runs-on: ubuntu-latest
     steps:
+    - uses: LouisBrunner/checks-action@v1.2.0
+      id: register_check
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        name: Build PR
+        sha: ${{ github.event.client_payload.ref }}
+        status: in_progress
+    
     - name: Checkout manifests
       uses: actions/checkout@v3
       with:
@@ -39,7 +47,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
-        GITHUB_ACTOR: ${{ github.event.client_payload.actor }}
+        PR_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
       run: |
         dotnet run -- \
@@ -55,3 +63,10 @@ jobs:
       with:
         name: plugin-artifact
         path: artifacts
+        
+    - uses: LouisBrunner/checks-action@v1.2.0
+      if: always()
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        check_id: ${{ steps.register_check.outputs.check_id }}
+        conclusion: ${{ job.status }}
