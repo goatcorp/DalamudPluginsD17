@@ -13,10 +13,16 @@ jobs:
     name: Build Plugins
     runs-on: ubuntu-latest
     steps:
+    - uses: navikt/github-app-token-generator@v1
+      id: get-token
+      with:
+        private-key: ${{ secrets.GH_APP_PK }}
+        app-id: ${{ secrets.GH_APP_ID }}
+    
     - uses: LouisBrunner/checks-action@v1.2.0
       id: register_check
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ steps.get-token.outputs.token }}
         name: Build PR
         sha: ${{ github.event.client_payload.ref }}
         status: in_progress
@@ -67,6 +73,6 @@ jobs:
     - uses: LouisBrunner/checks-action@v1.2.0
       if: always()
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ steps.get-token.outputs.token }}
         check_id: ${{ steps.register_check.outputs.check_id }}
         conclusion: ${{ job.status }}
