@@ -30,6 +30,7 @@ jobs:
         path: output
         ssh-key: ${{ secrets.DIST_SSH_KEY }}
         persist-credentials: true
+        ref: main
 
     - name: Create required folders
       run: |
