@@ -57,6 +57,15 @@ jobs:
         name: plugin-artifact
         path: artifacts
         
+    - name: Commit files
+      continue-on-error: true
+      run: |
+        cd ${{ github.workspace }}/output
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update distribute" -a
+        ${{ github.workspace }}
+        
     - name: Push plugin dist
       uses: ad-m/github-push-action@master
       with:
