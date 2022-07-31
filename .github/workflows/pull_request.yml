@@ -31,6 +31,9 @@ jobs:
       working-directory: Plogon/Plogon
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        GITHUB_ACTOR: ${{ github.event.pull_request.user.login }}
+        GITHUB_PR_NUM: ${{ github.event.number }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
@@ -38,8 +41,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci --actor="${{ github.event.pull_request.user.login }}" \
-        --repo-name="${{ github.repository }}" --pr-number=${{ github.event.number }}
+        --ci
       
     - name: Upload artifact
       uses: actions/upload-artifact@v3
