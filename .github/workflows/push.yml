@@ -1,5 +1,8 @@
 name: PR Checks
-on: [pull_request]
+on: [push]
+concurrency: 
+  group: plogon-deploy
+  cancel-in-progress: true
 
 jobs:
   run-plogon:
@@ -19,21 +22,25 @@ jobs:
         repository: goatcorp/Plogon
         #ref: V1.0.6
         path: Plogon
+        
+    - name: Checkout Dist
+      uses: actions/checkout@v3
+      with:
+        repository: goatcorp/PluginDistD17
+        path: output
+        ssh-key: ${{ secrets.DIST_SSH_KEY }}
+        persist-credentials: true
+        ref: main
 
     - name: Create required folders
       run: |
-        mkdir output
         mkdir artifacts
-        mkdir static
         mkdir work
 
     - name: Run Plogon
       working-directory: Plogon/Plogon
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_REPOSITORY: ${{ github.repository }}
-        GITHUB_ACTOR: ${{ github.event.pull_request.user.login }}
-        GITHUB_PR_NUM: ${{ github.event.number }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
@@ -41,10 +48,28 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci
+        --ci --actor="${{ github.event.pull_request.user.login }}" \
+        --repo-name="${{ github.repository }}" --pr-number=${{ github.event.number }}
       
     - name: Upload artifact
       uses: actions/upload-artifact@v3
       with:
         name: plugin-artifact
         path: artifacts
+        
+    - name: Commit files
+      continue-on-error: true
+      run: |
+        cd ${{ github.workspace }}/output
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update distribute" -a
+        ${{ github.workspace }}
+        
+    - name: Push plugin dist
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        directory: output
+        repository: goatcorp/PluginDistD17
+        ssh: true
