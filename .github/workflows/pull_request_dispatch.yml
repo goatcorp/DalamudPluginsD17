@@ -74,6 +74,7 @@ jobs:
 
         cat $GITHUB_STEP_SUMMARY
         echo ::set-output name=summary::$(cat $GITHUB_STEP_SUMMARY)
+        echo ::set-output name=summary_json::$(awk '{printf "%s\\n", $0}' $GITHUB_STEP_SUMMARY)
         echo ${{ steps.plogon_run.outputs.summary }}
 
     - name: Upload artifact
@@ -90,4 +91,4 @@ jobs:
         conclusion: ${{ job.status }}
         details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
         output: |
-          {"summary":"${{ steps.plogon_run.outputs.summary }}"}
+          {"summary":"${{ steps.plogon_run.outputs.summary_json }}"}
