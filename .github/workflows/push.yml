@@ -34,9 +34,7 @@ jobs:
 
     - name: Create required folders
       run: |
-        mkdir output
         mkdir artifacts
-        mkdir static
         mkdir work
 
     - name: Run Plogon
