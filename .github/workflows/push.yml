@@ -63,7 +63,8 @@ jobs:
         cd ${{ github.workspace }}/output
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Update distribute" -a
+        git add .
+        git commit -m "Update distribute"
         ${{ github.workspace }}
         
     - name: Push plugin dist
