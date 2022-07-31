@@ -39,7 +39,7 @@ jobs:
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
         --ci --actor="${{ github.event.pull_request.user.login }}" \
-        --repo-name="${GITHUB_REPOSITORY}" --pr-number=${{ github.event.number }}
+        --repo-name="${{ github.repository }}" --pr-number=${{ github.event.number }}
       
     - name: Upload artifact
       uses: actions/upload-artifact@v3
