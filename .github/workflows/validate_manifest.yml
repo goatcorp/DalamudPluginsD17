@@ -1,0 +1,27 @@
+name: Validate Manifest
+on:
+  pull_request:
+    paths:
+      - '**/*.toml'
+
+jobs:
+  lint-manifest:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Check for manifest changes
+      id: changed_manifests
+      run: echo "::set-output name=toml::$(git diff --name-only --diff-filter=ACMRT ${{ github.event.pull_request.base.sha }}) ${{ github.sha }} | grep '\.toml$' | xargs"
+
+    - name: Setup Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install python deps
+      run: python -mpip install pydantic==1.9.1 toml==0.10.2
+
+    - name: Validate changed manifests
+      run: python -mpyckager validate ${{ steps.changed_manifests.toml }}
+  
