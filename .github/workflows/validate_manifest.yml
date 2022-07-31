@@ -1,0 +1,35 @@
+name: Validate Manifest
+on:
+  pull_request:
+    paths:
+      - 'stable/**/*.toml'
+      - 'testing/**/*.toml'
+
+jobs:
+  lint-manifest:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v24
+      with:
+        files: |
+          stable/**/*.toml
+          testing/**/*.toml
+
+    - name: Setup Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install python deps
+      run: python -mpip install pydantic==1.9.1 toml==0.10.2
+
+      # this does technically break on a filename with spaces, but nobody would do that, right? ...right?
+    - name: Validate changed manifests
+      run: python -mpyckager validate ${{ steps.changed-files.outputs.all_changed_files }}
+  

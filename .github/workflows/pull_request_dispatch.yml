@@ -18,7 +18,7 @@ jobs:
       with:
         private-key: ${{ secrets.GH_APP_PK }}
         app-id: ${{ secrets.GH_APP_ID }}
-    
+
     - uses: LouisBrunner/checks-action@v1.2.0
       id: register_check
       with:
@@ -27,7 +27,7 @@ jobs:
         sha: ${{ github.event.client_payload.ref }}
         status: in_progress
         details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
-    
+
     - name: Checkout manifests
       uses: actions/checkout@v3
       with:
@@ -41,7 +41,7 @@ jobs:
         repository: goatcorp/Plogon
         #ref: V1.0.6
         path: Plogon
-        
+
     - name: Checkout Dist
       uses: actions/checkout@v3
       with:
@@ -71,15 +71,18 @@ jobs:
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
         --ci
-        
+
+        cat $GITHUB_STEP_SUMMARY
         echo ::set-output name=summary::$(cat $GITHUB_STEP_SUMMARY)
-      
+        echo ::set-output name=summary_json::$(awk '{printf "%s\\n", $0}' $GITHUB_STEP_SUMMARY)
+        echo ${{ steps.plogon_run.outputs.summary }}
+
     - name: Upload artifact
       uses: actions/upload-artifact@v3
       with:
         name: plugin-artifact
         path: artifacts
-        
+
     - uses: LouisBrunner/checks-action@v1.2.0
       if: always()
       with:
@@ -88,4 +91,4 @@ jobs:
         conclusion: ${{ job.status }}
         details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
         output: |
-          {"summary":"${{ steps.plogon_run.outputs.summary }}"}
+          {"summary":"${{ steps.plogon_run.outputs.summary_json }}"}
