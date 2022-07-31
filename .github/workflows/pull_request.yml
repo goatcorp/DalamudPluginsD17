@@ -5,6 +5,9 @@ jobs:
   run-plogon:
     name: Build Plugins
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
     steps:
     - name: Checkout manifests
       uses: actions/checkout@v3
