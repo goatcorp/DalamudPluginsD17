@@ -28,3 +28,7 @@ changelog = "Added Herobrine"
 ```
 
 You'll also need to be using DalamudPackager, please check the SamplePlugin for an example.
+
+## Updating your plugin
+
+Just edit the commit hash in your manifest. Please always make your updates from a new branch, to make it cleaner for us to review.
