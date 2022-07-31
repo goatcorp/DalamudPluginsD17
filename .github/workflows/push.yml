@@ -49,7 +49,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci
+        --ci --commit --build-all
       
     - name: Upload artifact
       uses: actions/upload-artifact@v3
