@@ -2,6 +2,6 @@
 repository = "https://gitlab.com/jules/cl_showpos.git"
 commit = "8ba2d9e6af9a0990d57693b73a3f311d7a70e3af"
 owners = [
-    44414597, # NotNite
+    "NotNite"
 ]
 project_path = "cl_showpos"
