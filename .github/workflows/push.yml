@@ -1,4 +1,4 @@
-name: PR Checks
+name: Deployment
 on: [push]
 concurrency: 
   group: plogon-deploy
@@ -48,8 +48,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci --actor="${{ github.event.pull_request.user.login }}" \
-        --repo-name="${{ github.repository }}" --pr-number=${{ github.event.number }}
+        --ci
       
     - name: Upload artifact
       uses: actions/upload-artifact@v3
