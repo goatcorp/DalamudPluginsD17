@@ -50,6 +50,7 @@ jobs:
         mkdir work
 
     - name: Run Plogon
+      id: plogon_run
       working-directory: Plogon/Plogon
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -64,6 +65,8 @@ jobs:
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
         --ci
+        
+        echo ::set-output name=summary::$(cat $GITHUB_STEP_SUMMARY)
       
     - name: Upload artifact
       uses: actions/upload-artifact@v3
@@ -78,3 +81,5 @@ jobs:
         check_id: ${{ steps.register_check.outputs.check_id }}
         conclusion: ${{ job.status }}
         details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
+        output: |
+          {"summary":"${{ steps.plogon_run.outputs.summary }}"}
