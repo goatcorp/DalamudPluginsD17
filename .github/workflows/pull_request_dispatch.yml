@@ -41,10 +41,16 @@ jobs:
         repository: goatcorp/Plogon
         #ref: V1.0.6
         path: Plogon
+        
+    - name: Checkout Dist
+      uses: actions/checkout@v3
+      with:
+        repository: goatcorp/PluginDistD17
+        path: output
+        ref: main
 
     - name: Create required folders
       run: |
-        mkdir output
         mkdir artifacts
         mkdir static
         mkdir work
