@@ -4,3 +4,4 @@ owners = [ "wolfcomp" ]
 project_path = ""
 commit = "fe1b68a36598ac249dd1ffdeeef18dc909f9f370"
 changelog = "just a test for now will be replaced with output from the action mathieudutour/github-tag-action"
+version = "1.7.0"
