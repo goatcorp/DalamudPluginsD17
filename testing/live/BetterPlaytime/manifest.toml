@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Infiziert90/BetterPlaytime.git"
+commit = "9e5f96c51b1e9318a0f9b142d30565b9439e0c9f"
+owners = [
+    "Infiziert90",
+]
+project_path = "BetterPlaytime"
+changelog = """
+Add images folder with icon.png
+"""

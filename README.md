@@ -27,14 +27,8 @@ project_path = "SamplePlugin"
 changelog = "Added Herobrine"
 ```
 
-You'll also need to be using DalamudPackager, here's an excerpt from [the DIP](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md#reference-level-explanation):
+You'll also need to be using DalamudPackager, please check the SamplePlugin for an example.
 
-```xml
-<Target Name="PackagePlugin" AfterTargets="Build">
-    <DalamudPackager
-        ProjectDir="$(ProjectDir)"
-        OutputPath="$(OutputPath)"
-        AssemblyName="$(AssemblyName)"
-    />
-</Target>
-```
+## Updating your plugin
+
+Just edit the commit hash in your manifest. Please always make your updates from a new branch, to make it cleaner for us to review.
