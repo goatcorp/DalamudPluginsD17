@@ -1,7 +1,7 @@
 from re import compile
 from typing import Optional
 
-from pydantic import BaseModel, validator
+from pydantic import BaseModel, Extra, validator
 
 
 NUMBERS_ONLY = compile(r'^\d+$')
@@ -31,6 +31,12 @@ class Plugin(BaseModel):
                 return segments
         raise ValueError(f'Value "{version}" is not a valid version')
 
+    class Config:
+        extra = Extra.forbid
+
 
 class Manifest(BaseModel):
     plugin: Plugin
+
+    class Config:
+        extra = Extra.forbid
