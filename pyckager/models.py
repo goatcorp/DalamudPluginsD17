@@ -38,4 +38,5 @@ class Plugin(BaseModel):
 class Manifest(BaseModel):
     plugin: Plugin
 
-    extra = Extra.forbid
+    class Config:
+        extra = Extra.forbid
