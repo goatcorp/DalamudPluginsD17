@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = ""
-commit = "fe1b68a36598ac249dd1ffdeeef18dc909f9f370"
+commit = "76479ba4ed89ba1163167db69ceccd55065aca8e"
 changelog = "just a test for now will be replaced with output from the action mathieudutour/github-tag-action"
 version = "1.7.0"
