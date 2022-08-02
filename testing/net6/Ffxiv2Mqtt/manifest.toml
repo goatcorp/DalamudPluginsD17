@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt"
+repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
 commit = "4404699a552944c5b01ce9ef23fe211e3fe6439d"
 owners = [
     "Xpahtalo",
