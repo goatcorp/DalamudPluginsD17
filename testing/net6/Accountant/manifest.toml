@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Ottermandias/Accountant.git"
+commit = "d287a40905e9619190ce864661b283acfecc0f00"
+owners = [
+    "Ottermandias",
+]
+project_path = "Accountant"
+changelog = "Updated for Dalamud staging."
