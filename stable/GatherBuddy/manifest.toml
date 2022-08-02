@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Ottermandias/GatherBuddy/"
+commit = "94d5005eca6e88ed61e2128b8a8b1da2987f7652"
+owners = [
+    "Ottermandias",
+]
+project_path = "GatherBuddy"
+changelog = "Updated for Dalamud staging."
