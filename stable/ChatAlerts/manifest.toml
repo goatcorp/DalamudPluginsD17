@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Ottermandias/ChatAlerts/"
+repository = "https://github.com/Ottermandias/ChatAlerts.git"
 commit = "aa5653190786766c9fbbeee3596e612a4292cfe5"
 owners = [
     "Ottermandias",
