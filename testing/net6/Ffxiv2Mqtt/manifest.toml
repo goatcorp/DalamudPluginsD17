@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "4404699a552944c5b01ce9ef23fe211e3fe6439d"
+commit = "bc9a661f3d6d8ac3c1acd15ad6a1436a2b98c05a"
 owners = [
     "Xpahtalo",
 ]
