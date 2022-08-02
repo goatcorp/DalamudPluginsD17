@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt"
+commit = "4404699a552944c5b01ce9ef23fe211e3fe6439d"
+owners = [
+    "Xpahtalo",
+]
+project_path = "ffxiv2Mqtt"
+changelog = "API7 support and some other accidental changes."
