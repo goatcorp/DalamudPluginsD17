@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
+commit = "f89e14b8303b236b2f8222185f75537c42273898"
+owners = ["SheepGoMeh"]
+project_path = "Visibility"
