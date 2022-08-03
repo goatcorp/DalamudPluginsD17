@@ -27,7 +27,7 @@ project_path = "SamplePlugin"
 changelog = "Added Herobrine"
 ```
 
-You'll also need to be using DalamudPackager, please check the SamplePlugin for an example.
+You'll also need to be using DalamudPackager, please check the SamplePlugin for an example. If you need help, please reach out.
 
 ## Updating your plugin
 
