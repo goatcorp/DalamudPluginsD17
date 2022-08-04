@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Meisterlala/NekoFans.git"
+commit = "b13b01605d592cc5ad29a2164e6e85d888a1c80a"
+owners = [
+    "Meisterlala",
+]
+project_path = "Neko"
+changelog = """
+- Queue system for preloading images
+- Reworked memory management system
+- Revert to .Net5
+"""
