@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/BitsOfAByte/KikoGuide.git"
+commit = "6fefb16d10be3335398a00aa76fa28840558c6b9"
+owners = [
+    "BitsOfAByte",
+]
+project_path = "src"
