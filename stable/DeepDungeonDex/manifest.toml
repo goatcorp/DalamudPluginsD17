@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
+owners = [ "wolfcomp" ]
+project_path = ""
+commit = "c731d2c5b43f2f76d1aec1b61bb40e228cba2b85"
+changelog = "1.8.1"
+version = ""
