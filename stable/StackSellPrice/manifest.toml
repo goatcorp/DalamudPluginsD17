@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/PrincessRTFM/StackSellPrice.git"
+commit = "27fa5a6e207e952e12ba8bef8d8e3d083b595f5e"
+owners = ["PrincessRTFM"]
+changelog = "Change how the vendor sale price line is edited to rewrite the whole thing"
