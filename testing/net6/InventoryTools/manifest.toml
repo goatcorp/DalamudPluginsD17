@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "e0e94d602778f834e9c332dc95285183b26285e0"
+commit = "1858897ec493355c09e9365b1537bcc127da787b"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
 changelog = "Added a literal kitchen sink to the plogon."
-version = "1.1.0.7"
+version = "1.1.0.8"
