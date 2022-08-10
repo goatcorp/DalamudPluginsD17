@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/KazWolfe/CollectorsAnxiety.git"
-commit = "0f91f5369c113c362cbcfa10f4de09a011a74aa2"
+commit = "6ee24f5a332d3cdd5df257f84029062163f91056"
 owners = [
     "KazWolfe",
 ]
