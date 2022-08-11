@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "4865e886186c3021e867fe003ea3e42139c48f53"
+commit = "da52d5a386c998234ffe7288f0156d4055f9413c"
 owners = [
     "Infiziert90",
 ]
@@ -8,4 +8,7 @@ project_path = "DeathRoll"
 changelog = """
 Blackjack Mode:
 + Fix calculation mistake
++ Config - Soft/Hard 16/17
++ Config - Dealers can draw cards
++ Adjust the copy buttons to be more useful
 """
