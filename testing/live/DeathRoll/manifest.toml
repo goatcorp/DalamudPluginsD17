@@ -1,22 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "e817fcfe4d25cba2325d2249f85831bb378e6952"
+commit = "4865e886186c3021e867fe003ea3e42139c48f53"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ Changed how random names work, now supported in every game mode
-+ New option to 'Add Target' for tournament mode
-
 Blackjack Mode:
-+ Support for all normal blackjack plays
-+ Automatic reward calculation based on standard blackjack rules
-+ Simplistic, visual view of cards in play
-+ Automatic drawing of cards, or manual player-based roll for cards
-+ Current players can be seamlessly moved to subsequent rounds
-
-> Further support for custom rules is planned (For example, the dealer can hit above 16)
-
-Feedback is highly welcome, especially from venue dealers that have more inside into how blackjack is played ingame
++ Fix calculation mistake
 """
