@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Aireil/FlyTextFilter.git"
+commit = "b17449f2f79ab58408340e4d464bcfc1718d31c5"
+owners = [
+    "Aireil",
+]
+project_path = "FlyTextFilter"
+changelog = ".NET6 and API7 upgrade"
