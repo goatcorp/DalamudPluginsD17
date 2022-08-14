@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "1b6d42f079e18e9a4aab99d0a0f96b623990d1f9"
+commit = "d2c6a5c337bc2988812fa61e168d1abb87f2fc3a"
 owners = [
     "BitsOfAByte",
 ]
