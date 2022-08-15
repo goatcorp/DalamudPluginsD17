@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "69cea6762f5466eeabdf1c5f779f77274998c869"
+commit = "6207c379f53c9271dce5758d946fb21bfef2d96b"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = "API7 support and some other accidental changes."
+changelog = "Added hacky support for setting retained flag and QoS options to messages published over IPC."
