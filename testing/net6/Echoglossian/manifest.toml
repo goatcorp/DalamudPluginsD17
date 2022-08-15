@@ -4,5 +4,4 @@ commit = "71b00ab4abb3247adc9dabcf369c2478b726c771"
 owners = [
     "lokinmodar",
 ]
-project_path = "Echoglossian"
 changelog = "Updated for Dalamud staging and minor invalid font char issue."
