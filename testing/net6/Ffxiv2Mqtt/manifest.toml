@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "6207c379f53c9271dce5758d946fb21bfef2d96b"
+commit = "3044b578966b6ab68ca76e61b5d7b0beb964f8b3"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = "Added hacky support for setting retained flag and QoS options to messages published over IPC."
+changelog = "Can now subscribe to MQTT topics and have them displayed in game. Cleaned up IPC so it easier to publish messages."
