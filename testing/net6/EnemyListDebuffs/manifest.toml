@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Felys1998/EnemyListDebuffs.git"
-commit = "https://github.com/Felys1998/EnemyListDebuffs.git"
+commit = "df7108408ce1c86215a6a18a5ccf0196f56732d8"
 owners = [
     "Felys1998",
 ]
