@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Felys1998/EnemyListDebuffs.git"
+commit = "https://github.com/Felys1998/EnemyListDebuffs.git"
+owners = [
+    "Felys1998",
+]
+project_path = "EnemyListDebuffs"
+changelog = "update for net6"
