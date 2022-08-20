@@ -7,4 +7,5 @@ owners = [
 project_path = "PriceInsight"
 changelog = """
 PriceInsight allows you to see items marketboard prices on hover using Universalis.app
+
 """
