@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Felys1998/EnemyListDebuffs.git"
-commit = "df7108408ce1c86215a6a18a5ccf0196f56732d8"
+commit = "efc588c5c6df94095d914ae8ca855643ebf16812"
 owners = [
     "Felys1998",
 ]
-changelog = "update for net6"
+changelog = "update for api7"
