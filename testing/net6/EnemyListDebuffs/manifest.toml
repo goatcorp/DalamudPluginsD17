@@ -4,5 +4,4 @@ commit = "df7108408ce1c86215a6a18a5ccf0196f56732d8"
 owners = [
     "Felys1998",
 ]
-project_path = "EnemyListDebuffs"
 changelog = "update for net6"
