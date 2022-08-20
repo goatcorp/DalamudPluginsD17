@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://git.annaclemens.io/ascclemens/remote-party-finder.git'
-commit = '255306e016fc977956d9c59ba97b75d34555770a'
+commit = '47437ecfefe9e86bbe6e2e58b085036a2ec25217'
 owners = [ 'ascclemens' ]
 project_path = 'csharp/RemotePartyFinder'
 changelog = 'API 7'
