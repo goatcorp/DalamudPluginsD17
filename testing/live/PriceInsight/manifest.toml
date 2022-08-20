@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-priceinsight"
+commit = "7abc709ce2a4a3f3a0973428d570b0e16426f4ee"
+owners = [
+    "Kouzukii",
+]
+project_path = "PriceInsight"
+changelog = """
+PriceInsight allows you to see items marketboard prices on hover using Universalis.app
+"""
