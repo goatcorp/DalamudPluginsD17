@@ -1,17 +1,12 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "775529a92bf408fe258de19e9833a25f1c48b543"
+commit = "9f8093bb66ffdaba9f030c5b85ec8a761f956e58"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ Add a button to open UI from settings menu
-
 Blackjack Mode:
-+ Fix calculation mistake
-+ Config - Soft/Hard 16/17
-+ Config - Dealers can draw cards
-+ Config - add venue mode
-+ Adjust the copy buttons to be more useful
++ Fix bug that prevents players from rolling
++ Only show table when needed
 """
