@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
+commit = "f1b373797a97ecfd28c1cbd25e340a5ff7828e74"
+owners = [
+    "LadyDefile"
+]
+changelog = "Updating to the new API7 system. Aded history system. Fixed several issues."
