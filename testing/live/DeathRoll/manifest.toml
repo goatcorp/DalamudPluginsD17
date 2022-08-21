@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Infiziert90/DeathRoll.git"
+commit = "4572554c9e313c87228dd1b7d3ba4015ef5813ac"
+owners = [
+    "Infiziert90",
+]
+project_path = "DeathRoll"
+changelog = """
+Tournament Mode:
++ Fix crash from the new debug names
++ Show debug names in bracket overview
+"""
