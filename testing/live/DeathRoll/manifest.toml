@@ -1,17 +1,12 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "775529a92bf408fe258de19e9833a25f1c48b543"
+commit = "4572554c9e313c87228dd1b7d3ba4015ef5813ac"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ Add a button to open UI from settings menu
-
-Blackjack Mode:
-+ Fix calculation mistake
-+ Config - Soft/Hard 16/17
-+ Config - Dealers can draw cards
-+ Config - add venue mode
-+ Adjust the copy buttons to be more useful
+Tournament Mode:
++ Fix crash from the new debug names
++ Show debug names in bracket overview
 """
