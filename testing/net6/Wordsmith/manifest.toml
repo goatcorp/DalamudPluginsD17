@@ -4,5 +4,5 @@ commit = "4196f72d14c77362331f16dc4bef3a1b1f6e2d33"
 owners = [
     "LadyDefile"
 ]
-plugin_path="Wordsmith"
+project_path="Wordsmith"
 changelog = "Updating to the new API7 system. Aded history system. Fixed several issues."
