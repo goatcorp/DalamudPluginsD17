@@ -33,6 +33,7 @@ jobs:
       # for this to work, `,` has to be a banned character for filepaths.
     - name: Validate changed manifests
       run: |
+        echo "Examining manifest(s): ${{ steps.changed-files.outputs.all_changed_files }}"
         IFS=','
         for manifest in ${{ steps.changed-files.outputs.all_changed_files }}; do
           echo "Validating '$manifest'"
