@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/KikoGuide.git"
-commit = "6fefb16d10be3335398a00aa76fa28840558c6b9"
+commit = "30f3846cbb36c2173538ff6f5874b749c04aa687"
 owners = [
     "BitsOfAByte",
 ]

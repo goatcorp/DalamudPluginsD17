@@ -32,3 +32,7 @@ You'll also need to be using DalamudPackager, please check the SamplePlugin for 
 ## Updating your plugin
 
 Just edit the commit hash in your manifest. Please always make your updates from a new branch, to make it cleaner for us to review.
+
+## Rebuilding in a PR
+
+If you want to trigger a re-build of your PR, just post a comment with the content "bleatbot, rebuild".
