@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/karashiiro/SoundSetter.git"
+commit = "6313ca12aa807bca007fad379f27ee5bc59a82b4"
+owners = ["karashiiro"]
+changelog = ""
