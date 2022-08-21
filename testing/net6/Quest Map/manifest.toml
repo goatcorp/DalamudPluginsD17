@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://git.annaclemens.io/ascclemens/QuestMap.git'
+commit = 'c85361eab3dd6392e7bfc19ea501473c1760dcf6'
+owners = [ 'ascclemens' ]
+changelog = 'API 7'
