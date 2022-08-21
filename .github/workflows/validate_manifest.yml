@@ -34,6 +34,6 @@ jobs:
     - name: Validate changed manifests
       run: |
         IFS=',' for manifest in "${{ steps.changed-files.outputs.all_changed_files }}"; do
-          python -mpyckager validate '${manifest}'
+          python -mpyckager validate "${manifest}"
         done
   
