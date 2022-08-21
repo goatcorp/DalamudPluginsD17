@@ -33,7 +33,8 @@ jobs:
       # for this to work, `,` has to be a banned character for filepaths.
     - name: Validate changed manifests
       run: |
-        IFS=',' for manifest in "${{ steps.changed-files.outputs.all_changed_files }}"; do
+        IFS=','
+        for manifest in ${{ steps.changed-files.outputs.all_changed_files }}; do
           python -mpyckager validate "${manifest}"
         done
   
