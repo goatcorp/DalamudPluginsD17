@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "9f8093bb66ffdaba9f030c5b85ec8a761f956e58"
+commit = "4572554c9e313c87228dd1b7d3ba4015ef5813ac"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-Blackjack Mode:
-+ Fix bug that prevents players from rolling
-+ Only show table when needed
+Tournament Mode:
++ Fix crash from the new debug names
++ Show debug names in bracket overview
 """
