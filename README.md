@@ -35,4 +35,4 @@ Just edit the commit hash in your manifest. Please always make your updates from
 
 ## Rebuilding in a PR
 
-If you want to trigger a re-build of your PR, for whatever reason, just post a comment with the content "bleatbot, rebuild".
+If you want to trigger a re-build of your PR, just post a comment with the content "bleatbot, rebuild".
