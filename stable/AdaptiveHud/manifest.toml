@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Helios747/AdaptiveHudPlugin.git"
+commit = "d6f39bd4bb2418588faeb4271807e427193cc5de"
+owners = [
+    "Helios747"
+]
+project_path = "AdaptiveHud"
+changelog = "Crash fix, code cleanup."
