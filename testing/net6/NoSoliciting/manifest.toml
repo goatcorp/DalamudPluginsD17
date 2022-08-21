@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://git.annaclemens.io/ascclemens/NoSoliciting.git'
-commit = '79449f5cfd95d221a1aefa9743a9f7545f95859e'
+commit = 'f170592ad18c26950a21ab78002d0bbfecfeaf32'
 owners = [ 'ascclemens' ]
 project_path = 'NoSoliciting'
 changelog = 'API 7'
