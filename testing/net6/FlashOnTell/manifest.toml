@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud-FlashOnTellPlugin.git"
-commit = "8fc78b57769922ce4bdf4948ba4690a19830eb74"
+commit = "40c07790bf26bb1f683de4c6f01dd89b889da35f"
 owners = [
     "reiichi001",
 ]
