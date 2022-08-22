@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/cairthenn/Redirect.git"
+commit = "33b69501d6e9f4fdad5429eb43832410f6745588"
+owners = [
+    "cairthenn",
+]
+project_path = "Redirect"
+changelog = "Upgrade build target to net6"
