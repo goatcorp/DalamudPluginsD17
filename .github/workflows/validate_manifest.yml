@@ -17,6 +17,7 @@ jobs:
       id: changed-files
       uses: tj-actions/changed-files@v24
       with:
+        separator: ","
         files: |
           stable/**/*.toml
           testing/**/*.toml
@@ -29,7 +30,13 @@ jobs:
     - name: Install python deps
       run: python -mpip install pydantic==1.9.1 toml==0.10.2
 
-      # this does technically break on a filename with spaces, but nobody would do that, right? ...right?
+      # for this to work, `,` has to be a banned character for filepaths.
     - name: Validate changed manifests
-      run: python -mpyckager validate ${{ steps.changed-files.outputs.all_changed_files }}
+      run: |
+        manifests="${{ steps.changed-files.outputs.all_changed_files }}"
+        IFS=','
+        for manifest in $manifests; do
+          echo "Validating '$manifest'"
+          python -mpyckager validate "${manifest}"
+        done
   
