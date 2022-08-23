@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
+commit = "7aecc698662ccd72701e78adac8a34a2c700b4bf"
+owners = [
+    "reiichi001",
+	"goaaats",
+]
+project_path = "Dalamud.DiscordBridge"
+changelog = "- Compatibility with D17.\n- Added Novice Network Notifications `nnn` chat type.\n- Duplicate message deduplication by squidmade"
