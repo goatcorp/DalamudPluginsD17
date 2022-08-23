@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/reiichi001/EldenRingDalamud.git"
+commit = "f2e9963c28263543e190f594952fc8569cf56ca9"
+owners = [
+	"Roselyyn",
+    "reiichi001",
+]
+project_path = "EldenRing"
+changelog = "Internal testing."

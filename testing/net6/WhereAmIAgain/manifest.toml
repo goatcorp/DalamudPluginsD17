@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/reiichi001/WhereAmIAgain.git"
+commit = "54a52d428a314ff0eedab45a2ea22c72722f06c1"
+owners = [
+	"cassandra308",
+    "reiichi001",
+]
+project_path = "WhereAmIAgain"
+changelog = "Don't merge this."
