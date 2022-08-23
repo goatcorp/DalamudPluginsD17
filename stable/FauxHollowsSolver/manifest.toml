@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://https://github.com/daemitus/FauxHollowsSolver.git"
+owners = [ "CHANGE ME",]
+project_path = "CHANGE ME"
+commit = "61ee8668c40a32d449783f62cc76650556929ed0"
+changelog = ""
