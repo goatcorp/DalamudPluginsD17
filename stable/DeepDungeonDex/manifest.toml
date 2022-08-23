@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
+owners = [ "wolfcomp" ]
+project_path = ""
+commit = "4d8d22f07b02181b3dccbe255302d4ff3258e976"
+changelog = "### 1.8.1 (2022-08-23)\n\n\n### Bug Fixes\n\n* Finalize .NET 6 and API7 update (4194254)"
+version = "1.8.1"
