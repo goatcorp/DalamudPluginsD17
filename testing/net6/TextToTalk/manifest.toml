@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/karashiiro/TextToTalk.git"
+commit = "57f90db11af32834758ed3580b0b9b9eef84cc4c"
+project_path= "src"
+owners = ["karashiiro"]
+changelog = "Updates for compatibility with the latest version of Dalamud."

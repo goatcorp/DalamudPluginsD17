@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/tesu/PennyPincher.git"
+commit = "51ec2c966ab3d00cf360ffb0a9d25e2c34d71b23"
+owners = [
+    "tesu",
+]
+changelog = ".NET 6 update"

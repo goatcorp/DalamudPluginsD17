@@ -1,5 +1,5 @@
 name: Deployment
-on: [push]
+on: [push, workflow_dispatch]
 concurrency: 
   group: plogon-deploy
   cancel-in-progress: true
