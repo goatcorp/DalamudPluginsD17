@@ -3,7 +3,7 @@
 # Must be visible to the external web, but doesn't have to be GitHub.
 # If `git clone` accepts it, it will work here, with the caveat that it
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
-repository = "https://github.com/NightmareXIV/NotificationMaster.git"
+repository = "https://github.com/NightmareXIV/JustBackup.git"
 # The commit to check out and build from the repository.
 commit = "4d833c1afd4ae769bd289b132105767576e83c40"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
