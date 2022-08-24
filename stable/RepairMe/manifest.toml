@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/chalkos/RepairMe.git"
+commit = "fae7e30c285f7cd7f7b8d77fff1496361938d09f"
+owners = [ "chalkos" ]
+changelog = "update to .net6 and api 7"
