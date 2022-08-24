@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "b3fd7152301bb0f2233e966e3c94c1a31a251359"
+commit = "1ed3dd8cddaa93b9ce84f95f2f5d780b90869aac"
 owners = [
     "Kouzukii",
 ]
