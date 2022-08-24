@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "8454550ba227a25dba96a6f2d0b10931167cf5c0"
-owners = [
-    "ItsBexy",
-]
-changelog = "Added feature to auto-fade the Cross Hotbar to a custom transparency outside of combat, and made changes so that the Expanded Hold bars should better match the Cross Hotbar's visibility state."
