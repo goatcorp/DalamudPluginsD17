@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/chalkos/RepairMe.git"
+commit = "a87eb7947b3196e80430b10fe0a4e3a58a4cfdfe"
+owners = [ "chalkos" ]
+project_path = "RepairMe"
+changelog = "remove dependency on XIVCommons"

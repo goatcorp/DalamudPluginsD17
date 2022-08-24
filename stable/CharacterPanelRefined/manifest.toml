@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "370c283ac265cc0b877c13b819c431f316fd03d2"
+owners = [
+    "Kouzukii",
+]
+project_path = ""
+changelog = """
+Update to .NET6
+"""

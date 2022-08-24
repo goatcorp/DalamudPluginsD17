@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/ItsBexy/CrossUp.git"
+commit = "2af86d2e7665955a63d241f8c764aa4aa2788792"
+owners = [
+    "ItsBexy",
+]
+changelog = "Updated for Net6/Api7 and corrected config IDs that changed in Patch 6.2"
