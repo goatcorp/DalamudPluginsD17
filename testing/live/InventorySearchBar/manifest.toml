@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "afa22ff9b58464b29b6c10b9d4af55bec2287246"
+commit = "1520e131d41a77a5842bba2db75d9fc52c652633"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
 changelog = "Added support for Patch 6.2 and Dalamud Api7."
