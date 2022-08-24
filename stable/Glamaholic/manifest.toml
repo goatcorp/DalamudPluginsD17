@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://git.annaclemens.io/ascclemens/Glamaholic.git'
+commit = 'a213baefb77c49aad62991fbf17c279558a35f48'
+owners = [ 'ascclemens' ]
+changelog = 'API 7'

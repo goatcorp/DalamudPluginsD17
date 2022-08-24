@@ -1,6 +1,0 @@
-[plugin]
-repository = 'https://git.annaclemens.io/ascclemens/ExtraChat.git'
-commit = '12c81bdceb4b1e5b41705a66a10f7d41dfcb91d9'
-owners = [ 'ascclemens' ]
-project_path = 'client'
-changelog = 'Internal adjustments.'

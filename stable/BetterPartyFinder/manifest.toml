@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://git.annaclemens.io/ascclemens/BetterPartyFinder.git'
+commit = '556666dc910dd0056298dbfa291d2f814e3cc51f'
+owners = [ 'ascclemens' ]
+changelog = 'API 7'
