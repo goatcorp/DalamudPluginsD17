@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://https://github.com/daemitus/FauxHollowsSolver.git"
-owners = [ "CHANGE ME",]
-project_path = "CHANGE ME"
-commit = "61ee8668c40a32d449783f62cc76650556929ed0"
+repository = "https://github.com/daemitus/FauxHollowsSolver.git"
+owners = [ "daemitus",]
+project_path = "FauxHollowsSolver"
+commit = "e762d26f2d9d37c9abe698f2d763810ae4f301df"
 changelog = ""
