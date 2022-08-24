@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "89b0301ec2b01c16e440b7a7db0e626875b20ee8"
-owners = ["Kouzukii"]
-project_path = ""
-changelog = """
-.NET6 Update
-"""

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Ottermandias/RezPls.git"
+commit = "9e43f1c9b0a9d0f6b158305a86e70253f97fdd38"
+owners = [
+    "Ottermandias",
+]
+project_path = "RezPls"
+changelog = "Updated for Dalamud staging."

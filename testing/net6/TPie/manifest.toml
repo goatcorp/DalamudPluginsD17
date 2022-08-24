@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/Tischel/TPie.git"
-commit = "065c1b4383a8530c77a557678b20c340e18c828f"
-owners = ["Tischel"]
-project_path = "TPie"

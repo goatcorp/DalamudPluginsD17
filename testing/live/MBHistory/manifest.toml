@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Infiziert90/MBHistory.git"
+commit = "31f57db15e0800ad53c100d07a1f8348e490cf41"
+owners = [
+    "Infiziert90",
+]
+project_path = "MBHistory"
+changelog = """
++ API7
+"""
