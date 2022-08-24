@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "edc236c6b55d869e9b1753080b35a47f86e897c3"
+commit = "370c283ac265cc0b877c13b819c431f316fd03d2"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Move Character Panel Refined to stable
+Update to .NET6
 """
