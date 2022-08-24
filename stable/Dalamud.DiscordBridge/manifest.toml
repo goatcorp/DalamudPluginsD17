@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "7aecc698662ccd72701e78adac8a34a2c700b4bf"
+commit = "81aeaa8b0f799420faeeb655ba03b862184801c8"
 owners = [
     "reiichi001",
 	"goaaats",
