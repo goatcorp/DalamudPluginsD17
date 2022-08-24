@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/MgAl2O4/FFTriadBuddyDalamud.git"
+commit = "d30af0140660356fb815794c912febc44600b7fd"
+owners = [
+    "MgAl2O4",
+]

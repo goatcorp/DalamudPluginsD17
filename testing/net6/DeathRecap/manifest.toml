@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "89b0301ec2b01c16e440b7a7db0e626875b20ee8"
+commit = "1a907d7bfaa88a0d0b29553a5552991b6905eac2"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-.NET6 Update
+Signatures for 6.2
 """
