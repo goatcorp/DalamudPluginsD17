@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://gitlab.com/jules/cl_showpos.git"
-commit = "4b54b648dea6b6451a3eee424a5fed632bd85f9c"
-owners = ["NotNite"]
-project_path = "cl_showpos"
