@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/marconsou/mp-tick-bar.git"
+commit = "7ea37ec1aa6c1c72496a97c398aed9c9a5bdfaed"
+owners = ["marconsou"]
+project_path = "MPTickBar"
+changelog = ".net6"
