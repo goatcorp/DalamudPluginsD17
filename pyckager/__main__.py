@@ -20,7 +20,7 @@ def to_manifest_path(str_path: str) -> Path | None:
         case '.toml':
             return path
         case _:
-            raise ArgumentTypeError(f'Extension {path.suffix} not supported')
+            raise ArgumentTypeError(f'Extension {path.suffix} not supported for {path}')
 
 
 def create_parser() -> ArgumentParser:
