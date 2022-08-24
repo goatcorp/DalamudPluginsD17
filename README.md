@@ -1,6 +1,6 @@
 # DalamudPluginsD17
 
-Hi! This is the DalamudPlugins playground for [DIP17](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md).
+Hi! This is the DalamudPlugins repository for [DIP17](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md).
 
 ## Publishing your plugin
 
@@ -10,7 +10,7 @@ Hi! This is the DalamudPlugins playground for [DIP17](https://github.com/goatcor
   - Use `$(DalamudLibPath)` if you aren't already, see <https://github.com/goatcorp/SamplePlugin/blob/master/SamplePlugin/SamplePlugin.csproj#L29-L63>
 - Build your plugin in Release, commit your `.csproj` + the newly generated lock file
 - Fork this reposistory
-- In your fork, make `stable/(plugin name)/manifest.toml` (or `testing/api6/(plugin name)/manifest.toml`)
+- In your fork, make `stable/(plugin name)/manifest.toml` (or `testing/live/(plugin name)/manifest.toml`)
   - See [here](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md#guide-level-explanation) for details
   - Example provided below!
 - Shove your images into that newly created folder
@@ -20,9 +20,7 @@ Hi! This is the DalamudPlugins playground for [DIP17](https://github.com/goatcor
 [plugin]
 repository = "https://github.com/goatcorp/SamplePlugin.git"
 commit = "765d9bb434ac99a27e9a3f2ba0a555b55fe6269d"
-owners = [
-    "goaaats",
-]
+owners = ["goaaats"]
 project_path = "SamplePlugin"
 changelog = "Added Herobrine"
 ```
