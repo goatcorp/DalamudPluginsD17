@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1753f7c509dac9df7a393286ef11b952b5cf89c9"
+commit = "fe66f62b8f0d326217b58d13853a99816ec59877"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "- API 7\n- Decreased non CS sig usage\n- Glamour Chest supports 800\n - Apologies if this is broken, trying to work out why it won't load"
-version = "1.2.0.0"
+changelog = "- API 7\n- Decreased non CS sig usage\n- Glamour Chest supports 800\n - Fixed reference issues"
+version = "1.2.0.1"
