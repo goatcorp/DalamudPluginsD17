@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
+commit = "fea83d2493d4871583a45437197a16c631275793"
+owners = ["fmauNeko"]
+project_path = "MarketBoardPlugin"
+changelog = "Settings window, shopping list, cosmetic changes, .NET 6.0 / API 7"
