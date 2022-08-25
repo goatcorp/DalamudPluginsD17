@@ -1,0 +1,15 @@
+[plugin]
+# The open-source Git repository that your code is hosted on.
+# Must be visible to the external web, but doesn't have to be GitHub.
+# If `git clone` accepts it, it will work here, with the caveat that it
+# must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
+repository = "https://github.com/jaycewhite/MiniMappingway.git"
+# The commit to check out and build from the repository.
+commit = "e6f6f5c13b05f3854086cc0ead90019243a2070c"
+# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+owners = [
+    "jaycewhite"
+]
+# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
+changelog = "Testing Release!"
+version = "0.9.0"
