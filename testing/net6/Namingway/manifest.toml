@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://git.annaclemens.io/ascclemens/Namingway.git'
-commit = '8a95b32794377d7be0b9f993270d3bb10f526212'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'

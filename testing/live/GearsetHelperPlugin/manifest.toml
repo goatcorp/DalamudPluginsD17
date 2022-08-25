@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/KhloeLeclair/GearsetHelperPlugin.git"
+commit = "8b9791358af4514c2e3c131c7419409a1d21ce08"
+owners = [ 
+	"KhloeLeclair"
+]
+project_path = "GearsetHelperPlugin"
+changelog = """
+Update to 6.2 / .NET 6
+"""

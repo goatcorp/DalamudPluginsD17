@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/PrincessRTFM/StackSellPrice.git"
-commit = "ff00e046d7c1321d5d009bb00ef7d127ee7fa71f"
+commit = "12598ccf8d209bde0a8b8142b3453056f98c11ac"
 owners = ["PrincessRTFM"]
-changelog = "Change how the vendor sale price line is edited to rewrite the whole thing"
+changelog = "Update everything to net6/API7"

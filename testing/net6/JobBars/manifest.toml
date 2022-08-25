@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/0ceal0t/JobBars.git"
-commit = "469db6f2ee2c656169dfa2c9d4f7cc98a1bd7ba0"
-owners = [
-    "0ceal0t",
-]
-project_path = "JobBars"
-changelog = "Updated for Dalamud staging."

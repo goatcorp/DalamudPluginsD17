@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/xorus/EngageTimer.git"
+commit = "6a5a50ad6eec3c122ac6c0606bbdbba71055e396"
+owners = ["xorus"]
+changelog = "Updated for new Dalamud version"

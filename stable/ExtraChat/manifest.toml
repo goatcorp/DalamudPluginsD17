@@ -1,0 +1,6 @@
+[plugin]
+repository = 'https://git.annaclemens.io/ascclemens/ExtraChat.git'
+commit = '8cd95f7b483358f88ac999ed0c9a0fa46a451e7c'
+owners = [ 'ascclemens' ]
+project_path = 'client'
+changelog = 'Fix message handling preventing connection.'
