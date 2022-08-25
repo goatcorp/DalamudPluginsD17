@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "11b91ea2ca3e0ad3541a74af6b52c90cafdadb17"
+owners = [
+    "Kouzukii",
+]
+project_path = ""
+changelog = """
+Fix an issue causing the wrong stat to be displayed
+"""

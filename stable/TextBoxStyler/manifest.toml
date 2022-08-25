@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://git.annaclemens.io/ascclemens/TextBoxStyler.git'
+commit = '475f52d88dd8f2c8ad3880be1545ae04f3c5f0dc'
+owners = [ 'ascclemens' ]
+changelog = 'API 7'
