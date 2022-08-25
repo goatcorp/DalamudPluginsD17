@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://git.annaclemens.io/ascclemens/ExpandedSearchInfo.git'
-commit = '878acb1db13bef6d3d456a5e576210320d3091be'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'

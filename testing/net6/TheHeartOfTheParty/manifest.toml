@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://git.annaclemens.io/ascclemens/TheHeartOfTheParty.git'
-commit = '6ce3bb4d0d99e5c4bb4d37435c40a30550f096cd'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'

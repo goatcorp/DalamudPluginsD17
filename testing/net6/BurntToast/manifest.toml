@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://git.annaclemens.io/ascclemens/BurntToast.git'
-commit = 'bc115c77c5b3d43a8104dd43faa2cca6a3759d2a'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'
