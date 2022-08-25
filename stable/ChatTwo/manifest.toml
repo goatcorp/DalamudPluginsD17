@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.annaclemens.io/ascclemens/ChatTwo.git'
-commit = 'e8211d9728bf1970dd15fae10d96b138de7063ff'
+commit = '5deb7a7f7bf04b1f73182aed159ca448f5767859'
 owners = [ 'ascclemens' ]
-changelog = 'https://git.annaclemens.io/ascclemens/ChatTwo/compare/v1.17.3...v1.17.4'
+changelog = 'Fixed linkshells and party invite crashes.'
