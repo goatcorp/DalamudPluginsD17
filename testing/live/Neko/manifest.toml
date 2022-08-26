@@ -19,4 +19,6 @@ Neko Fans now has a configuration menu, which you can open with /nekocfg
 - Added API: shibe.online
 - Added API: The Cat API
 - Added API: WAIFU.IM
-- Added API: Waifu.pics"""
+- Added API: Waifu.pics
+- Update to .Net6 and Dalamud API 7
+- Faster Json parsing with .Net6"""
