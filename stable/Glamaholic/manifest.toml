@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.annaclemens.io/ascclemens/Glamaholic.git'
-commit = 'a213baefb77c49aad62991fbf17c279558a35f48'
+commit = '3e8ebcb836c765c9fe849db9162442306ffc85b2'
 owners = [ 'ascclemens' ]
-changelog = 'API 7'
+changelog = 'The Glamour Dresser has 800 slots now! Accounted for that and fixed the problems arising because of that.'
