@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NotNite/ReSanctuary.git"
-commit = "d27e5bc9ffc719b7c623f6061afde8d36aa2025b"
+commit = "19a094469526f83f9e34bb716033094169b7782d"
 owners = ["NotNite"]
 project_path = "ReSanctuary"
