@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/InventoryTools.git"
+commit = "0fb1fa5cf02f39f0a25dba0ce8e4be94224956ea"
+owners = [
+    "Critical-Impact",
+]
+project_path = "InventoryTools"
+changelog = "- API 7\n- Decreased non CS sig usage\n- Glamour Chest supports 800\n - Fixed an issue that would cause the more info window to open regardless if no hot key was set."
+version = "1.2.0.2"
