@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/eja-git/thedotplugin.git"
+commit = "83e8490ad7572fbe705970b1a53e27dd7d64092a"
+owners = ["eja-git"]
+project_path = "TheDot"
+changelog = "Initial plugin for player dot"
