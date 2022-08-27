@@ -1,5 +1,7 @@
 [plugin]
 repository = 'https://git.annaclemens.io/ascclemens/ChatTwo.git'
-commit = '5deb7a7f7bf04b1f73182aed159ca448f5767859'
+commit = 'd3e924d34e4be137f9c4ebf13b291223fc689e18'
 owners = [ 'ascclemens' ]
-changelog = 'Fixed linkshells and party invite crashes.'
+changelog = '''\
+- Added ExtraChat channel filters
+'''
