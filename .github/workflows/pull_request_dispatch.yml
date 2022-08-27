@@ -61,6 +61,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
