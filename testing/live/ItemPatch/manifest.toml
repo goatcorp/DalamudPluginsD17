@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-itempatch.git"
+commit = "9fc0bf418f262bc0deb18db5b9878289196d7d73"
+owners = [
+    "Kouzukii",
+]
+project_path = "ItemPatch"
+changelog = """
+"""
