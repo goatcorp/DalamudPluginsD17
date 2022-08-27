@@ -1,6 +1,8 @@
 [plugin]
 repository = 'https://git.annaclemens.io/ascclemens/PeepingTom.git'
-commit = '1cdeffafe8c538d035c4c01a6530b719412b6281'
+commit = '1faa27e558971bcd048c099106b7eac77e82fb5b'
 owners = [ 'ascclemens' ]
 project_path = 'Peeping Tom'
-changelog = 'API 7'
+changelog = '''\
+- Fixed crash when using Alt-click to examine.
+'''
