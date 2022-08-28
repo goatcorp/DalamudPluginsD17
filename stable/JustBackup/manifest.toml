@@ -1,0 +1,14 @@
+[plugin]
+# The open-source Git repository that your code is hosted on.
+# Must be visible to the external web, but doesn't have to be GitHub.
+# If `git clone` accepts it, it will work here, with the caveat that it
+# must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
+repository = "https://github.com/NightmareXIV/JustBackup.git"
+# The commit to check out and build from the repository.
+commit = "faf62f368a516fe6921e3b5f49d3fb5349442880"
+# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+owners = [
+    "Eternita-S"
+]
+# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
+changelog = ".NET 6 update, this time correctly done" 

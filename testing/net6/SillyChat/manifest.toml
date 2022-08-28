@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/kalilistic/SillyChat.git"
-owners = [ "kalilistic" ]
-project_path = "src/SillyChat"
-commit = "9518de6cd4aaa0f7be4c4c462b204157647ed44e"

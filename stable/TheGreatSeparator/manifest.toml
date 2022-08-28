@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://git.annaclemens.io/ascclemens/TheGreatSeparator.git'
+commit = '746c91a0561aa4b3c185f891933ab9cb84a57bd1'
+owners = [ 'ascclemens' ]
+changelog = 'API 7'

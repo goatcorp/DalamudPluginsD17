@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://git.annaclemens.io/ascclemens/ChatTwo.git'
-commit = '50f02a5e527be843ad6bb1d0a62aa4ae560c5ac5'
-owners = [ 'ascclemens' ]
-changelog = 'https://git.annaclemens.io/ascclemens/ChatTwo/compare/v1.17.3...v1.17.4'

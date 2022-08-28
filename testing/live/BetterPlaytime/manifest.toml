@@ -1,10 +1,16 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "8a0ddc417c9f294975504c7403f9c9566319b9bf"
+commit = "e56ecd794f228780928ae152a30331bd8e6c988b"
 owners = [
     "Infiziert90",
 ]
 project_path = "BetterPlaytime"
 changelog = """
-Version Bump, also maybe fix missing icon ingame
++ API 7
+
++ Playtime tracking
++ AutoSave functionality
++ Further control over the output
+
+- Fix bug preventing the plugin from saving playtime
 """

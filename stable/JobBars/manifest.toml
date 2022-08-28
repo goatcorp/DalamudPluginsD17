@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/0ceal0t/JobBars.git"
+commit = "a4c14c2bae7cf6fadcb8d8f79faa5c57b57ce839"
+owners = [
+    "0ceal0t",
+]
+project_path = "JobBars"
+changelog = """
+- 6.2 update
+- UI updates
+- change some text appearance to match that of new large+centered cooldown text
+- fix more issues with Penumbra and MaterialUI
+- fix issue with party buffs, AST cards, and excog not being reflected properly
+- fix issue where party list glow remains visible
+- more UI options
+"""

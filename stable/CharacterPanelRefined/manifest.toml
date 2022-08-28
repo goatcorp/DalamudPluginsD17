@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "edc236c6b55d869e9b1753080b35a47f86e897c3"
+commit = "11b91ea2ca3e0ad3541a74af6b52c90cafdadb17"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Move Character Panel Refined to stable
+Fix an issue causing the wrong stat to be displayed
 """

@@ -1,0 +1,21 @@
+[plugin]
+# The open-source Git repository that your code is hosted on.
+# Must be visible to the external web, but doesn't have to be GitHub.
+# If `git clone` accepts it, it will work here, with the caveat that it
+# must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
+repository = "https://github.com/rgd87/BigPlayerDebuffs.git"
+# The commit to check out and build from the repository.
+commit = "29c97ed54a3ec472c1197b83bc2fbec810eae372"
+# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+owners = [
+    "d87"
+]
+# Optional: where your project/csproj is located within the repository.
+# If empty or unspecified, it will be assumed the project is in the root of the repository.
+# project_path = "plugin"
+# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
+changelog = "v1.1.0.7 - Bump to API 7"
+# Optional: the version of the plugin. If not present, the `<Version>` specified in the `csproj`
+# will be used. If this is specified, `<Version>` must not be specified - they are mutually
+# exclusive. This allows CI workflows to generate new manifests based on e.g. Git repo tags.
+# version = "1.42.0"

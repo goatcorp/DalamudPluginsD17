@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Aireil/FlyTextFilter.git"
+commit = "b637f3fbbe8043c0f3de823c4bcaab501e57347d"
+owners = [
+    "Aireil",
+]
+project_path = "FlyTextFilter"
+changelog = "Fix position adjustments not working"
