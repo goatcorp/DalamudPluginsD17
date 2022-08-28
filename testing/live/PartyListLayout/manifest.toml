@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Caraxi/PartyListLayout.git"
+commit = "193333a3fe8b4211052dbd31dd6bc29a94905e6b"
+owners = [
+    "Caraxi",
+]
