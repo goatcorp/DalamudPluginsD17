@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
+commit = "30a24d3754b752cfb17b54dbf614d8c53d51df0d"
+owners = ["Maia-Everett"]
+project_path = "Snooper"
+version = "0.3.0.0"
+changelog = """* Updated for Dalamud 7.
+* It is now possible to open additional, sticky Snooper windows for specific players or groups of players, independent of current target. To do so, click "New window for this target" in the main Snooper window.
+* By default, the main Snooper window now shows chat history on mouse-over without the need to target, and displays target chat history when the mouse is not over a player. (Can be disabled in settings.)
+* By default, when the target posts a message while the Snooper window is visible, a sound alert is now played. (Can be disabled in settings.)"""
