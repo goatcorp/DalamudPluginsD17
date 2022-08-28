@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/imaginary-png/HuntHelper.git"
-commit = "b6e9e465f01461502eac693b99e8995b9d3aec48"
+commit = "71dd8dbafda0780026e1c03157aeaa74efa7a953"
 owners = [
     "imaginary-png",
 ]
 project_path = "HuntHelper"
-changelog = "fixed scaling ? ; ;"
+changelog = "added teleport feature to train"
