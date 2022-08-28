@@ -1,0 +1,4 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+commit = "5f7066d9609c827ba43dad2450957699feddb88d"
+owners = ["CMDRNuffin"]
