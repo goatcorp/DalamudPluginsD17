@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "500bf7af7ac00137248c89cf8b7d4389397e67a4"
-owners = [
-    "Aireil",
-]
-project_path = "FlyTextFilter"
-changelog = ".NET6 and API7 upgrade + split pet/chocobo in misc settings"

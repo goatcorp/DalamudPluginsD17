@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/kalilistic/Tippy.git"
-owners = [ "kalilistic" ]
-project_path = "src/Tippy"
-commit = "1089e4a7621e2a9ef406c7e0bb1dae60d39be37d"

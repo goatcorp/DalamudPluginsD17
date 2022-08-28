@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Infiziert90/DeathRoll.git"
+commit = "874a41b8a8373ec36b5da14a35803b7e5e97f48a"
+owners = [
+    "Infiziert90",
+]
+project_path = "DeathRoll"
+changelog = """
++ Stable release
++ Possible fix for font not loading in a rare case
++ Fix crash in tournament mode
++ Cleanup for Venue and DeathRoll mode
+"""

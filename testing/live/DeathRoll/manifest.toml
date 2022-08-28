@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "61651ceae49381e10bcb699f388c87dcab1996a0"
+commit = "995971071841cb9cde2b5be9bf3cfca8c75b28f3"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ better names for some options
-
-Blackjack:
-+ Allow players to roll on split
++ API7
 """

@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/MidoriKami/ChillFrames.git"
-commit = "d4afdf13f152eece991561cfaf9ecbd278f63b7a"
+commit = "331c4dfc528e94af471c0248d4cc5573b47e411f"
 owners = ["MidoriKami"]
 project_path = "ChillFrames"
+changelog = "Added Island Sanctuary"

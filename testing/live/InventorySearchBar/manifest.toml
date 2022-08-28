@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Tischel/InventorySearchBar.git"
+commit = "4e72fccdff8a0ff59ade81c99b22eaa2cf104552"
+owners = ["Tischel"]
+project_path = "InventorySearchBar"
+changelog = "Fixed plugin failing to install."
