@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "b49c898a87bab0432c7a2d71705d41c68a800c34"
+owners = [
+    "Kouzukii",
+]
+project_path = ""
+changelog = """
+Add tooltips
+"""
