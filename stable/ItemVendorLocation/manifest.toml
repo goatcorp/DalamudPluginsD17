@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "b82d028acae43250fa6ca8e415ce045b33a3da7c"
+commit = "661fa77ceabdde29a9314bb3815a16c46a073a15"
 owners = [
     "electr0sheep",
 ]
