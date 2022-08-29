@@ -2,5 +2,5 @@
 repository = "https://github.com/daemitus/WondrousTailsSolver.git"
 owners = [ "daemitus",]
 project_path = "WondrousTailsSolver"
-commit = "82b5faabeb7cb4704a54eb556d9357a8236c87a3"
-changelog = ""
+commit = "c71da0430bf695aa45f170b42fdaf0696380b4c4"
+changelog = "* Update Wondrous Tails Stuct with new information\n\n* Add Color Currently occupied duty to Wondrous Tails\n\n* Increase Version Number to 2.1.2.3"
