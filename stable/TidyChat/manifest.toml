@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/NadyaNayme/TidyChat.git"
+commit = "2167689234a7e18b9fe10bce0be7fdd5b4750735"
+owners = [
+    "NadyaNayme",
+]
+project_path = "TidyChat"
+changelog = "Updated for 6.2"
