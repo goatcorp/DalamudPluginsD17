@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://git.anna.lgbt/XIVChat/XIVChat.git'
+commit = '25bcf791281761e5c28e1816aed94cefe92d772a'
+owners = [ 'ascclemens' ]
+project_path = 'XIVChatPlugin'
+changelog = """\
+- API 7
+"""
