@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "76bed4fbaff2c8fe9e965735441f9cd4e2099a34"
+commit = "a590a72c5e5486c4cda60bb1dc1d7f0f1881f8af"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Fix rounding for GCD tiers & typos
+Add GCD Stat, fix rounding issues again, fix tank damage scaling
 """
