@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "661fa77ceabdde29a9314bb3815a16c46a073a15"
+commit = "7437ac11d9d34972de774902f8f376d10863a312"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
-changelog = "- API 7\n- Official Release\n- Added support for items that cost multiple 'currencies'\n- Added a few more addons to target for context menu\n- Fixed a bug for items that have a '+' in the name, like the Eureka '+1' gear"
-version = "1.0.0.0"
+changelog = "- Fix bug I introduced for official release *facepalm* where nothing has a location"
+version = "1.0.0.1"
