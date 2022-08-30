@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/imaginary-png/HuntHelper.git"
-commit = "29ca59a1b0a87f506480d72d3d0251b72669acd2"
+commit = "397e7962282e2a27ab1f1d94b6978f4127d704cc"
 owners = [
     "imaginary-png",
 ]
 project_path = "HuntHelper"
-changelog = "added teleport feature to train"
+changelog = "added some jp/de/fr translations"
