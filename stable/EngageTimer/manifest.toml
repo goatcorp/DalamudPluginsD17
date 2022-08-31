@@ -1,5 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "6a5a50ad6eec3c122ac6c0606bbdbba71055e396"
+commit = "62650aa7ad3435e60847dfc7e795fca1c967aa12"
 owners = ["xorus"]
-changelog = "Updated for new Dalamud version"
+changelog = """\
+- Fix overlapping countdowns when a countdown was cancelled then restarted too quickly
+- Update translations and add a new contributed Japanese translation (thank you!)"""

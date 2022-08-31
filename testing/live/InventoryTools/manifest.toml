@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "fe66f62b8f0d326217b58d13853a99816ec59877"
+commit = "7d75ec23e36a7521ca682e9e3462fcc8c8a88a86"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "- API 7\n- Decreased non CS sig usage\n- Glamour Chest supports 800\n - Fixed reference issues"
-version = "1.2.0.1"
+changelog = "- Bug Fixes\n- Stopped a potential memory leak\n- Removed old commands from showing in help\n- The hotkey check I had in place could have been causing lag, have tweaked it.\n- Will push this to live if people can confirm this helps with lag issues they are getting."
+version = "1.2.0.3"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/imaginary-png/HuntHelper.git"
-commit = "b6e9e465f01461502eac693b99e8995b9d3aec48"
+commit = "397e7962282e2a27ab1f1d94b6978f4127d704cc"
 owners = [
     "imaginary-png",
 ]
 project_path = "HuntHelper"
-changelog = "fixed scaling ? ; ;"
+changelog = "added some jp/de/fr translations"

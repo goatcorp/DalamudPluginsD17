@@ -1,9 +1,7 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/ChatTwo.git'
-commit = '65563d72bbe41f8e212f2ce27ba7c8e34bcba24a'
+repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
+commit = '79dc6ebb72490d2655ffb75179107ee5cfcbe762'
 owners = [ 'ascclemens' ]
 changelog = '''\
-- Fixed ExtraChat filters to not require the System Messages channel
-- This update will run a database migration, which may take a couple minutes based on your database size
-  - Chat 2 will not appear until the migration is finished
+- Show a window during migration.
 '''
