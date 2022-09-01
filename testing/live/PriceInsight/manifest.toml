@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "ccfabec107cbc61a718f835a4290022fb7c55e77"
+commit = "28984fd685db84b6c7e5e795977d661d54142a65"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Fixed minors bugs and improved performance
+Prevent tooltip from overflowing below the screen
 """
