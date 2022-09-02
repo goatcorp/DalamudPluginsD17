@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "7d75ec23e36a7521ca682e9e3462fcc8c8a88a86"
+commit = "5abf458b732fba457cfd632ffdb8ea31383a00f4"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "- Bug Fixes\n- Stopped a potential memory leak\n- Removed old commands from showing in help\n- The hotkey check I had in place could have been causing lag, have tweaked it.\n- Will push this to live if people can confirm this helps with lag issues they are getting."
-version = "1.2.0.3"
+changelog = "- Another performance related release\n- Improved draw times of each windows\n- People with higher font sizes and ui scales should hopefully be able to see all the buttons\n- Collapsing either of the craft window sections will have the other section take the available space.\n- The inventory scanning process now runs in the thread pool, hopefully this should reduce stuttering when any item movement occurs(and a rescan needs to happen)."
+version = "1.2.0.4"
