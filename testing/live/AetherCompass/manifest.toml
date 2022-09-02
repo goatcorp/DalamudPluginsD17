@@ -3,4 +3,3 @@ repository = "https://github.com/yomishino/FFXIVAetherCompass.git"
 commit = "3a93e76da200bf82b005e0482c2ef655034a0d64"
 owners = [ "yomishino" ]
 changelog = "New compass for Island Sanctuary (testing)"
-project_path = "AetherCompass"
