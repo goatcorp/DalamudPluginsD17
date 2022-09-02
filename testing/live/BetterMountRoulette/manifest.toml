@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+commit = "14e6a14072443267ad8efee2bdfee277a6d45d9b"
+owners = ["CMDRNuffin"]
+changelog = "Fix: config would not be applied at boot"

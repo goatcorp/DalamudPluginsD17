@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "7e0aafe6125af5a33c6ef9236a6dcfcf3d4a6a88"
+commit = "e0da494e31ad59aa58d3159fdd904974910e3b01"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "Added a setting to disable the Gil symbol."
+changelog = "- Added \"HQ Only\" setting in \"Advanced Search\"\n- Added hideable Ko-Fi button\n- Fix \"Gil Icon Shown\" setting not being restored"

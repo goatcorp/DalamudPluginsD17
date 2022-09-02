@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "11b91ea2ca3e0ad3541a74af6b52c90cafdadb17"
+commit = "a590a72c5e5486c4cda60bb1dc1d7f0f1881f8af"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Fix an issue causing the wrong stat to be displayed
+Add tooltips and breakpoint information for each stat and GCDs
 """

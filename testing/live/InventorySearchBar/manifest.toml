@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "4e72fccdff8a0ff59ade81c99b22eaa2cf104552"
+commit = "bf08afa5d416c6897d9f386f094227345a145c4f"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "Fixed plugin failing to install."
+changelog = "Added support for the Premium Chocobo Saddlebags."

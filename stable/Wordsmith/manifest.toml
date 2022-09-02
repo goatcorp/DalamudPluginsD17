@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "1740f463722bc50c1204842c5730fa452903b5f4"
+commit = "fd184a1efc7f76080ad60055e769a287ea70286b"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = "Updating to the new API7 system. Added history system. Fixed several issues."
+changelog = "Added automated spell checking and an error dump for logging and reporting errors."
