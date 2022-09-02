@@ -1,7 +1,10 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = '79dc6ebb72490d2655ffb75179107ee5cfcbe762'
+commit = '38b599b684bc73b1ec932b084ca1ed8e82b25ddc'
 owners = [ 'ascclemens' ]
-changelog = '''\
-- Show a window during migration.
-'''
+changelog = """\
+- Updated translations.
+- Changed some internals for (minor) improved performance.
+- Fixed an issue with empty lines causing some flickering.
+- Fixed an issue with empty lines disappearing under some circumstances.
+"""
