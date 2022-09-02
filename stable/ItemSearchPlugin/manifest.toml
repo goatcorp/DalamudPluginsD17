@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Caraxi/ItemSearchPlugin.git"
+commit = "ca7bd842961066226e17e36fe444a0d4268d1c6e"
+owners = [
+    "Caraxi",
+]
+project_path = "ItemSearchPlugin"
