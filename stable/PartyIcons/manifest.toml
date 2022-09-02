@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons"
+commit = "902582cb0ed75a5cdaa8c8c51a3424ba31767a36"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+- Role assignment via context menu works again.
+- DPS role names have been fixed in the UI when using the Eastern naming convention (by status102).
+- Updated for 6.2.
+"""
