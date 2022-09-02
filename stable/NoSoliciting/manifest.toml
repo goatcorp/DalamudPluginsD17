@@ -1,6 +1,8 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/NoSoliciting.git'
-commit = '1f818dc8bf50376e5b3d61e64e779004df9c0b68'
+repository = 'https://git.anna.lgbt/ascclemens/NoSoliciting.git'
+commit = '5ef6878f8b6f8c63fed254e8230b52afd64818b0'
 owners = [ 'ascclemens' ]
 project_path = 'NoSoliciting'
-changelog = 'API 7'
+changelog = """\
+- Fixed version number.
+"""
