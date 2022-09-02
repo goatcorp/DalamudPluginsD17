@@ -36,4 +36,7 @@ Just edit the commit hash in your manifest. Please always make your updates from
 
 If you want to trigger a re-build of your PR, just post a comment with the content "bleatbot, rebuild".
 
+---
+
+When submitting a plugin, please consider our [Acceptable Use Policy](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)) & [Terms of Service](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)), which, for example, detail the rights you need to grant us when uploading a plugin to this repository.
 
