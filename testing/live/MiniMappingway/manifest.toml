@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
 # The commit to check out and build from the repository.
-commit = "4110a8171f306c968ca31f97190f56faa58dc7d6"
+commit = "97c117aa868aa911d8e1ed53e246603814c89f67"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "jaycewhite"
