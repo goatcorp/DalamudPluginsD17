@@ -2,7 +2,7 @@
 repository = "https://github.com/attickdoor/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "7ddbfd22e8bb248c5800e4fc1844024a244a6b6b"
+commit = "3cc022c1cb7544a3395b1281b7bf88b4b049555a"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +15,6 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		added monk section\
+		added arcane circle for rpr\
+		stopped being unnecessarily crabish in mnk section\
 		"""
