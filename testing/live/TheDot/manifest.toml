@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/eja-git/thedotplugin.git"
+commit = "fcc4e643a93d6584fb1134f0cd289521417c2bd2"
+owners = ["eja-git"]
+project_path = "TheDot"
+changelog = "Add ImgGui.End()"
