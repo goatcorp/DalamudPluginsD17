@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "1b63b5d08a5398b77932e3231c4c7a97aaed3b60"
+commit = "4a1797c8155b5eb8278b71d7577610acfbbd5662"
 owners = ["karashiiro"]
 changelog = ""
