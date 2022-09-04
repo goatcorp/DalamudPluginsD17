@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "02e76187f5db6d755f6d7d02eb42ebb4e161fb78"
+commit = "370ceab9375221b3312c17b58865ba2d88499886"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Fix tooltips with the "fixed position" setting enabled moving down the screen
-Fix wrong home world being used when logging into other characters
-Fix key items having marketboard information
+Fix key items having marketboard information this time for sure
 """
