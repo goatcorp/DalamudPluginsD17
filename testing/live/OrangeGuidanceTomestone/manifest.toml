@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = 'ee0f2ff021ebdf307524cb307e27317017dfc8d0'
+commit = '0a57f9edbceabc8737afd20971c7fc2e85023050'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
