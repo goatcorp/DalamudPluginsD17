@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = '420a6ea316edb24e4ea331a4bd0469c62d1cdd12'
+commit = '30097781951c14e7d73306cfe136f190259f2c44'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- Initial release.
+- Fix freeze on initial load.
 """
