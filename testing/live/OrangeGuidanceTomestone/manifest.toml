@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = '50db7a8af66a25b3262d0128d720dcca2477ddf7'
+commit = '8c83ced094711be8d446162e8ab4a90b975409c2'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- Add rotation to signs.
+- Fixed issue with viewer when looking at multiple messages.
 """
