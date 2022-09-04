@@ -2,9 +2,9 @@
 repository = "https://github.com/attickdoor/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "ac86b147db1291ef3820d70b2b4058f416c09bb9"
+commit = "0e70eb58aa4d7420cd9a2e13064349f3a585b20a"
 
-version = "1.7.19"
+version = "1.7.20"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -17,6 +17,5 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		added arcane circle for rpr\
-		stopped being unnecessarily crabish in mnk section\
+		fixed arcane circle combo\
 		"""
