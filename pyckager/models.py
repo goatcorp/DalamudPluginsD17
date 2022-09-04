@@ -11,6 +11,7 @@ class Plugin(BaseModel):
     repository: str
     commit: str
     owners: list[str]
+    discord_ids: Optional[list[int]]
     project_path: Optional[str]
     changelog: Optional[str]
     version: Optional[str]
