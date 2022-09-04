@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = '30097781951c14e7d73306cfe136f190259f2c44'
+commit = '50db7a8af66a25b3262d0128d720dcca2477ddf7'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- Fix freeze on initial load.
+- Add rotation to signs.
 """
