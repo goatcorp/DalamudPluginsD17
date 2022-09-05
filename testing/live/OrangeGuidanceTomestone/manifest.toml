@@ -1,8 +1,16 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = '8c83ced094711be8d446162e8ab4a90b975409c2'
+commit = '4345dfd61331fe8eae2f0f3ddce0446716934f63'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- Fixed issue with viewer when looking at multiple messages.
+- Added /ogt help, /ogt ban, /ogt unban, /ogt refresh, and /ogt viewer.
+- Message list now shows your current and maximum number of messages.
+- Message list is now sorted by date (newest first).
+- Added option to disable in trials and Deep Dungeons.
+- Added option to remove the glowy pillar above signs.
+- Added option to automatically show the viewer when near a message.
+- Added option to configure viewer opacity.
+- Added "extra code" claim to redeem codes that increase your maximum message count.
+- Enabled global filter algorithm - you should see slightly fewer messages in crowded areas now.
 """
