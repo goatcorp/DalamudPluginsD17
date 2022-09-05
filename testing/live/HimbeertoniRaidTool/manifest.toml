@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
+commit = "f16b5b9589e6dde074e0cf00ca4ac753b9e568d9"
+owners = ["Koenari"]
+project_path = " HimbeertoniRaidTool"
+changelog = "Initial Realease to Dalamud repo"
