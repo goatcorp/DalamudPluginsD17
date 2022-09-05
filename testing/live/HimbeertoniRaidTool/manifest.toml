@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 commit = "ab8802cdc43ed6122af7cd471d167a1be1e4e56e"
 owners = ["Koenari"]
-project_path = " HimbeertoniRaidTool"
+project_path = "HimbeertoniRaidTool"
 changelog = "Fixed changing of main job\nFixed HQ gear fetched from etro.gg\nAdded more default BiS sets"
