@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "ae2f191c74f3f8bdf2bb1bfb5c89606885075f34"
+commit = "a3197d89cf3e17b562ddb81b557a21aa5cc91c17"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = "Version 1.6.3\n-Update spanish translation (thank you!)\n- Revert default setting for coloring nameplate title as it was in v1.5 (you may need to re-apply that option)\n\nVersion 1.6.2\n- Enable Tag coloring again.\n\nVersion 1.6.1\n- Adjust some default settings regarding text coloring.\nIf you miss some colors on nameplate and chat now, please ensure you enabled them for the respective element.\n\nVersion 1.6\n- Optimized some code for text formatting to probably fix issues with other plugins, such as Simple Tweaks\n- Added a new option to specify where some general settings depending on the current activity (in duty, no duty). E.g. visible in chat, nameplate title options, etc.\n- Added Spanish translation (thanks to unknown!) (before added the new strings in v1.6)\n\nVersion 1.5\n- Target .NET 6\n- Target API v7\n- Updated Libs"
+changelog = "Version 1.6.4\n- Fixed removing everything except your name when 'Self Linking in Chat' is enabled and the message in the chat contains your own player name.\n\nVersion 1.6.3\n-Update spanish translation (thank you!)\n- Revert default setting for coloring nameplate title as it was in v1.5 (you may need to re-apply that option)\n\nVersion 1.6.2\n- Enable Tag coloring again.\n\nVersion 1.6.1\n- Adjust some default settings regarding text coloring.\nIf you miss some colors on nameplate and chat now, please ensure you enabled them for the respective element.\n\nVersion 1.6\n- Optimized some code for text formatting to probably fix issues with other plugins, such as Simple Tweaks\n- Added a new option to specify where some general settings depending on the current activity (in duty, no duty). E.g. visible in chat, nameplate title options, etc.\n- Added Spanish translation (thanks to unknown!) (before added the new strings in v1.6)\n\nVersion 1.5\n- Target .NET 6\n- Target API v7\n- Updated Libs"
