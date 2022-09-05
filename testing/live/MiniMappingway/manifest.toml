@@ -5,11 +5,11 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
 # The commit to check out and build from the repository.
-commit = "481e600bf94f4ad791872a92c56abd0d09a92dd9"
+commit = "3d92f15a8a381654096396f115e5cf27a03e8be4"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "jaycewhite"
 ]
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = "Various Fixes"
-version = "0.9.0.6"
+changelog = "Hopefully fixed the markers showing in the wrong place for some people. If you're still having issues please let me know!"
+version = "0.9.0.7"
