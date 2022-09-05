@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "72aae0d3c9a9d1dd46e690eaf8f7860c800bec30"
+commit = "a70e6f1fa8a82b8be28edae89f1b9a11bb94e197"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
-changelog = """ - Customizable circle around mouse cursor
+changelog = """ - Updated plugin description
 """
