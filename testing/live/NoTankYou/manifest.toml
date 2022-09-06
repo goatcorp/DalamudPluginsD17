@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/NoTankYou.git"
-commit = "297e553753f4b6d0acdaf8f6ad967a5f7e997121"
+commit = "672a7b1adc24c8be4c02d3e3e505b7c743ead270"
 owners = ["MidoriKami"]
 project_path = "NoTankYou"
