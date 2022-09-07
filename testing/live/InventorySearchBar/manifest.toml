@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "bf08afa5d416c6897d9f386f094227345a145c4f"
+commit = "862fa101f75ba27610de8bc5277769a2f49da20f"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "Added support for the Premium Chocobo Saddlebags."
+changelog = "- Updated CriticalCommonLib which fixes some performance issues.\n- Fixed inventory tabs being hard to click due to the search bar having a bigger clickable area than intended."

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
+commit = "48146fdcf14e629aece57d83132b4b8402c97863"
+owners = [
+    "Pythyu",
+]
+project_path = "WhereIsMyMouse"
+changelog = """ Save Button + Color in Hex format added
+"""

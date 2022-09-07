@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "28984fd685db84b6c7e5e795977d661d54142a65"
+commit = "370ceab9375221b3312c17b58865ba2d88499886"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Prevent tooltip from overflowing below the screen
+Fix key items having marketboard information this time for sure
 """

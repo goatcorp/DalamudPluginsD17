@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/cassandra308/WhereAmIAgain.git"
+commit = "d8a495bf49680f6657ab9d628baae22d19022bec"
+owners = [
+	"cassandra308",
+	"reiichi001",
+]
+project_path = "WhereAmIAgain"
+changelog = "Compatiblity with Dalamud API 7."

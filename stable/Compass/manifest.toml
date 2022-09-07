@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "f3cf5db9e03918b723d34acfc822a18ae902378a"
+commit = "febad23b20e7b2836b4f69e5d9adc6f28eb0720b"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
 changelog = """
-- feat: Update to .NET6
-- chore: Adjustments for D17, automatic plugin builds
+- chore: Update to API 7
 """

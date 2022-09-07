@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons.git"
+commit = "ba8eee690a124c20a0129261e2dfc75ac09618df"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+Setting to toggle role assignment based on party chat (by hmm-norah)
+- e.g. saying 'h1' to be assigned H1 (or 'mt' to be assigned MT)
+
+Cleaned up settings UI
+- This is a rough first pass and I'm looking for feedback
+"""
