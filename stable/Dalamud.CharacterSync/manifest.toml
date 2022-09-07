@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/goaaats/Dalamud.CharacterSync.git"
+commit = "0776865666b39e26e7c50db017fceb804e77e478"
+owners = [
+    "goaaats",
+]
+project_path = "Dalamud.CharacterSync"
