@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = ""
-commit = "438e0f7fe207be57ec1274283e2526735e4c1037"
-changelog = "### 1.8.2 (2022-08-24)\n\n\n### Bug Fixes\n\n* remove hard set of api version and use dalamudpackager instead (e6f04cc)"
-version = "1.8.2"
+commit = "5b088b70ab131b4c5576bc194930388b8dbe44da"
+changelog = "### 1.8.3 (2022-09-07)\n\n\n### Bug Fixes\n\n* ignore global scale (5101421)\n* scale windows with internal font size (93fbb1b)"
+version = "1.8.3"
