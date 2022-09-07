@@ -1,0 +1,10 @@
+[plugin]
+repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
+commit = 'd978e96cc3957eceeec68ce2dc3dba465a14d79e'
+owners = [ 'ascclemens' ]
+project_path = 'client'
+changelog = """\
+- Added sorting to the message list.
+- Added button to open message on map.
+- Added button to delete account.
+"""
