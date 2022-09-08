@@ -5,6 +5,7 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 ## Publishing your plugin
 
 ### Preparing your repository
+
 - Ensure your plugin is on a publically accessible Git repo (GitHub, GitLab, any self-hosted Git instance that allows HTTP clones without authentication)
 - Update your `.csproj`
   - Set `<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>` in a `PropertyGroup`
@@ -12,8 +13,10 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 - Build your plugin in Release, commit your `.csproj` + the newly generated lock file
 
 ### Submitting
+
 - Fork this repository, or use the GitHub web editor (press `.` in the repo, or press the ✏ icon on an existing manifest)
-- In your fork, make `stable/(plugin name)/manifest.toml` (or `testing/live/(plugin name)/manifest.toml`). For more information, [see here](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md#guide-level-explanation).
+- In your fork, make `stable/(plugin name)/manifest.toml` (or `testing/live/(plugin name)/manifest.toml` - note that we prefer that new plugins go to `testing/live`, so that the wrinkles can be worked out before they go out to the wider audience). For more information, [see here](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md#guide-level-explanation).
+
   ```toml
   [plugin]
   repository = "https://github.com/goatcorp/SamplePlugin.git"
@@ -22,8 +25,9 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
   project_path = "SamplePlugin"
   changelog = "Added Herobrine"
   ```
+
 - Place the images for your plugin in an `images` subfolder: `stable/(plugin name)/images`.
-  - Please note this will be [streamlined at some point in the future](https://github.com/goatcorp/DIPs/pull/45). 
+  - Please note this will be [streamlined at some point in the future](https://github.com/goatcorp/DIPs/pull/45). This has not been [implemented yet](https://github.com/goatcorp/DalamudPackager/issues/9). If you can help, we'd love to hear from you!
 - Make the PR. If you're using the GitHub web editor, this will be automatic.
 
 You'll also need to be using DalamudPackager; please check the SamplePlugin for an example. If you need help, please reach out.
@@ -38,5 +42,4 @@ If you want to trigger a re-build of your PR, just post a comment with the conte
 
 ---
 
-When submitting a plugin, please consider our [Acceptable Use Policy](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)) & [Terms of Service](https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)), which, for example, detail the rights you need to grant us when uploading a plugin to this repository.
-
+When submitting a plugin, please consider our [Acceptable Use Policy](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)>) & [Terms of Service](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)>), which, for example, detail the rights you need to grant us when uploading a plugin to this repository.
