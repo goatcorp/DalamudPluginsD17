@@ -1,10 +1,12 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = 'd978e96cc3957eceeec68ce2dc3dba465a14d79e'
+commit = '0d5def33537c440063c8cad61322111915115f20'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- Added sorting to the message list.
-- Added button to open message on map.
-- Added button to delete account.
+- Reworked the settings tab.
+- Added option to hide viewer titlebar.
+- Added option to lock viewer in place.
+- Added option to make viewer click-through.
+- Implemented feature to download the latest packs directly from the server.
 """
