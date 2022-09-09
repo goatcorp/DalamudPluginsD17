@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "62650aa7ad3435e60847dfc7e795fca1c967aa12"
+commit = "99959613c953d941f8977a0b951e5023eea4ad22"
 owners = ["xorus"]
 changelog = """\
-- Fix overlapping countdowns when a countdown was cancelled then restarted too quickly
-- Update translations and add a new contributed Japanese translation (thank you!)"""
+- Floating Window: option to change the countdown color when casting a spell that will result in a pre-pull.
+- Floating Window: uses the global font-scale, you might need to adjust the font size after the update.
+- Settings: support for closing the settings window with Escape (WindowSystem features)"""
