@@ -1,12 +1,10 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = '0d5def33537c440063c8cad61322111915115f20'
+commit = '7a7c6acf25d8f405eb3e1b801d2dd9e565a65219'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- Reworked the settings tab.
-- Added option to hide viewer titlebar.
-- Added option to lock viewer in place.
-- Added option to make viewer click-through.
-- Implemented feature to download the latest packs directly from the server.
+- Added new glyph.
+- Added option to hide signs during gpose and cutscenes.
+- Added ban list interface to settings.
 """
