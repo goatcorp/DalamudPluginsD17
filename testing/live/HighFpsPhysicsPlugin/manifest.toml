@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Kirrana/xivlauncher_physics_plugin"
+commit = "1c250fecaa40506b771cd3e95708286552a2e10b"
+owners = ["Kirrana"]
+project_path = "SamplePlugin"
+changelog = "Added feedback when toggling on/off"
