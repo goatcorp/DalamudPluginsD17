@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "ab8802cdc43ed6122af7cd471d167a1be1e4e56e"
+commit = "c72a0133526ca9580cf809079f0119d72587419f"
 owners = ["Koenari"]
 project_path = "HimbeertoniRaidTool"
-changelog = "Fixed changing of main job\nFixed HQ gear fetched from etro.gg\nAdded more default BiS sets"
+changelog = "Fixed Examine\nReworked edit player interface\nPolished Ui\nFix HP calc\nBetter group creation\nMassive performance improvement\nAdded Dmg per (100)Potency calculation"
