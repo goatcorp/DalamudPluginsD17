@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Rietty/Dalamud.git"
+commit = "563fec19317007380b283d57b4fe4f4f7f6f37a8"
+owners = ["Rietty"]
+project_path = "/Source/AutoMammet/AutoMammet"
+changelog = "Initial release onto testing branch."
