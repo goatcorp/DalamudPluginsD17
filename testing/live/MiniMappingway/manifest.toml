@@ -5,11 +5,11 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
 # The commit to check out and build from the repository.
-commit = "bd6aa4fc70635d076b5e96652b7d8e91f4fd747d"
+commit = "0f7859ec96d1b6df0365e59f0522e8e32c742c74"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "jaycewhite"
 ]
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = "Fixed the markers not hiding when the minimap did. Hopefully fixed the markers showing in the wrong place for some people. If you're still having issues please let me know!"
-version = "0.9.0.8"
+changelog = "Now autodetects if minimap is locked. Added a temporary warning about fc marker functionality"
+version = "0.9.0.9"
