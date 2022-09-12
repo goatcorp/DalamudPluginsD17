@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/shdwp/xivFaderPlugin.git"
-commit = "de1627d9f94abde72465bc33da75e73111a27d36"
+commit = "5b8dbebf3a2fdd8fdf3166ff5bae57e5aef06aad"
 owners = ["shdwp", "Aelexe"]
 project_path = "FaderPlugin"
 changelog = "Release v2.3.0.0\n-- Features\n- Added Duty List and Service Info"
