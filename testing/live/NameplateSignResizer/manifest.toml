@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/FPC-PM/NameplateSignResizer.git"
+commit = "5bae33903a509f27af2fe1b301de88141f24bf37"
+owners = ["FPC-PM"]
+project_path = "NameplateSignResizer"
+changelog = "Initial Release"
