@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Lharz/xiv-currency-alert.git"
-commit = "1fe93b3a34327413be3a0863f34ec7829d0a10f1"
+commit = "f563fb778ffdcf4cd5d991aba3bdbdaed3d5325f"
 owners = ["Lharz"]
 project_path = "CurrencyAlert"
 changelog = "Added Tomestones of Causality support. Added API7 support. Fixed typos."
