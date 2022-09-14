@@ -1,25 +1,14 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "8a73a19f0d2d60f12d42275e841a60312f5d9121"
+commit = "cebecc949db6f495016ab9693c97691d730c4d78"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """Stable Release of Neko Fans!
+changelog = """You can now use Neko Fans to view Twitter images!
 
-Neko Fans now has a configuration menu, which you can open with /nekocfg
-- Added options to change to Look and Feel of the Plugin
-- Added option to configure image preloading system
-- Added hotkey to open image in web browser
-- Added hotkey to copy image url to clipboard
-- Added Option to lock window position
-- Added API: Catboys
-- Added API: Dog CEO
-- Added API: Nekos.life
-- Added API: Pic.re
-- Added API: shibe.online
-- Added API: The Cat API
-- Added API: WAIFU.IM
-- Added API: Waifu.pics
-- Update to .Net6 and Dalamud API 7
-- Faster Json parsing with .Net6"""
+- Added Slideshow feature to automatically advance to the next image
+- Better Error handling (no more error.jpg)
+- Added API: Twitter User Tweet timeline
+- Added API: Twitter Search
+- Fixed: Pic.re images not opening in Browser"""
