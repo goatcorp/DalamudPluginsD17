@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Rietty/AutoMammet.git"
-commit = "547cc573808875f9f3d32e5302ee1c12716ba50a"
+commit = "26b843e78f19284513b38ebfd5035db9205066ed"
 owners = ["Rietty"]
 project_path = "/AutoMammet"
 changelog = "Initial release onto testing branch."
