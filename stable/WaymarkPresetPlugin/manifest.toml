@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
-commit = "23e319f088934aba88007217110c0125a855e756"
+commit = "6f9c68fad237d34ba849b053219ca5df767f6ea1"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-- Disabled access to the preset editor following SE's complaints about OOB waymarks.
-- This will probably be a temporary restriction.
+- Reenabled the preset editor, which now includes a warning message about out of bounds waymarks.
 '''
