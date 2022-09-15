@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "48146fdcf14e629aece57d83132b4b8402c97863"
+commit = "7f67491a7f20ab7f84ac4627638e60822640448f"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
-changelog = """ Save Button + Color in Hex format added
+changelog = """ Foreground Cursor Option + better multi monitor support
 """
