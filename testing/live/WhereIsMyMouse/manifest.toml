@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "6f947fd7a3736c2cd9bc228da14414126e020449"
+commit = "7f67491a7f20ab7f84ac4627638e60822640448f"
 owners = [
     "Pythyu",
 ]
