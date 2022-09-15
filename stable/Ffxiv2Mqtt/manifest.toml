@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "dd6dc37e0e334893f28cf934b106fb45f9ef8817"
+commit = "bddc52d2618387d9018c52cd9d09727960cf8110"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """Support for 6.2.
-Better IPC support allows for MQTT message options, such as the retained flag.
-Fancy new UI.
-Can now subscribe to MQTT topics and have them displayed in game.
-Maybe some other stuff. I don't remember."""
+changelog = """Added customizing the display of subscribed a bit.
+Minor cleanup of the terminology of the settings tab."""
