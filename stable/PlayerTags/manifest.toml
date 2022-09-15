@@ -13,4 +13,5 @@ changelog = """ Version 1.6.6
 Other changes:
 - Rename plugin to \"PlayerTags\" (remove white space between the two words)
 - Update plugin icon
+- Use SignatureHelper for Hooks
 """
