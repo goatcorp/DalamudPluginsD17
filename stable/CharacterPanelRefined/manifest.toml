@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "a590a72c5e5486c4cda60bb1dc1d7f0f1881f8af"
+commit = "811bb127785c20cdfceb1a460e381c6157107d8b"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Add tooltips and breakpoint information for each stat and GCDs
+Add german and french translations
 """
