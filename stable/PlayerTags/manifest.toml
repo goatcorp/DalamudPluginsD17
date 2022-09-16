@@ -1,8 +1,17 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "3f21931b3159eab98510608f33034e39c6b76454"
+commit = "9e3cfa8f4f844494b46f267b7fcde1a6b414874c"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = "Version 1.6.5\n- Use Ui Culture of Dalamud for Localization\n\nVersion 1.6.5\n- Fixed removing everything except your name when 'Self Linking in Chat' is enabled and the message in the chat contains your own player name.\n\nVersion 1.6.3\n-Update spanish translation (thank you!)\n- Revert default setting for coloring nameplate title as it was in v1.5 (you may need to re-apply that option)\n\nVersion 1.6.2\n- Enable Tag coloring again.\n\nVersion 1.6.1\n- Adjust some default settings regarding text coloring.\nIf you miss some colors on nameplate and chat now, please ensure you enabled them for the respective element.\n\nVersion 1.6\n- Optimized some code for text formatting to probably fix issues with other plugins, such as Simple Tweaks\n- Added a new option to specify where some general settings depending on the current activity (in duty, no duty). E.g. visible in chat, nameplate title options, etc.\n- Added Spanish translation (thanks to unknown!) (before added the new strings in v1.6)\n\nVersion 1.5\n- Target .NET 6\n- Target API v7\n- Updated Libs"
+changelog = """ Version 1.6.6
+- Improve self linking in chat feature
+    - Improves compatiblity with ChatTwo
+    - Technical Stuff: Use PlayerPayload only as index, remove it before going back to the game and keep the TextPayload
+
+Other changes:
+- Rename plugin to \"PlayerTags\" (remove white space between the two words)
+- Update plugin icon
+- Use SignatureHelper for Hooks
+"""
