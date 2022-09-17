@@ -1,16 +1,23 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "9e3cfa8f4f844494b46f267b7fcde1a6b414874c"
+commit = "b78a54c7c5b259b5330ddd3126c8b2fb80c04546"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.6.6
+changelog = """ Version 1.7
+- Improve handling of own character name in chat
+- Improve handling of group/alliance number prefix (always insert tag and icon behind)
+- Add new property for Tags to choose if the tag and icon should be inserted before or behind the group/alliance number prefix
+- Mark the Chat features as stable
+- Remove option "Link Self In Chat"
+    - It's now a part of the Chat feature itself
+--> This update includes a few bigger internal adjustments. Please let me know if you have any problems after the update!
+
+Version 1.6.6
 - Improve self linking in chat feature
     - Improves compatiblity with ChatTwo
     - Technical Stuff: Use PlayerPayload only as index, remove it before going back to the game and keep the TextPayload
-
-Other changes:
 - Rename plugin to \"PlayerTags\" (remove white space between the two words)
 - Update plugin icon
 - Use SignatureHelper for Hooks
