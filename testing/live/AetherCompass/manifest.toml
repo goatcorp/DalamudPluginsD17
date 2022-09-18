@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/yomishino/FFXIVAetherCompass.git"
+commit = "e447f313f95de10ef9d2a36bf202452984aa23da"
+owners = [ "yomishino" ]
+changelog = """- New compass for Island Sanctuary (testing)
+- Update to configuration loading
+"""

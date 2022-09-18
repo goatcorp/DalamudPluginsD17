@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons.git"
+commit = "f29dad9a8a757efa063804202208617c4d0a52f2"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+- Automatically fix old settings window sizes that were saved from before the fix to set default window size relative to the main viewport.
+"""

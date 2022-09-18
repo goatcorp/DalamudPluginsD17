@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/0ceal0t/JobBars.git"
+commit = "47c554db32f665f16fd9af442182e41fe7b6932f"
+owners = [
+    "0ceal0t",
+]
+project_path = "JobBars"

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/NightmareXIV/QuestAWAY.git"
+commit = "344448f7165ae7a3c26ac963a19c3169eab97148"
+owners = [
+    "Eternita-S",
+]

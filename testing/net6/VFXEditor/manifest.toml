@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/0ceal0t/Dalamud-VFXEditor.git"
-commit = "4d1f6fd8b5bca4f58ae838700f5ef6f25023608f"
-owners = [
-    "0ceal0t",
-]
-project_path = "VFXEditor"
-changelog = "Updated for Dalamud staging."

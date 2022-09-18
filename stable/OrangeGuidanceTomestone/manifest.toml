@@ -1,0 +1,9 @@
+[plugin]
+repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
+commit = '53fcde6a1342c6c381d6ffd73f60f9af69876307'
+owners = [ 'ascclemens' ]
+project_path = 'client'
+changelog = """\
+- Fixed an issue where players without Stormblood would crash in some
+  situations.
+"""

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
+commit = "fd184a1efc7f76080ad60055e769a287ea70286b"
+owners = [
+    "LadyDefile"
+]
+project_path="Wordsmith"
+changelog = "Added automated spell checking and an error dump for logging and reporting errors."

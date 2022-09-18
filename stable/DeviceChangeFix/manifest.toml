@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Jessidhia/DeviceChangeFix.git"
+commit = "27499e9526764757b9db72e77612e083dfeccc4a"
+owners = ["Jessidhia"]
+project_path = "DeviceChangeFix"

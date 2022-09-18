@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://git.annaclemens.io/ascclemens/TheHeartOfTheParty.git'
+commit = '544ee3edbf2ef99200985bbfecc09dc8fbb7e556'
+owners = [ 'ascclemens' ]
+changelog = 'Fix crash.'

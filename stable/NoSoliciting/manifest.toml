@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://git.anna.lgbt/ascclemens/NoSoliciting.git'
+commit = '5ef6878f8b6f8c63fed254e8230b52afd64818b0'
+owners = [ 'ascclemens' ]
+project_path = 'NoSoliciting'
+changelog = """\
+- Fixed version number.
+"""

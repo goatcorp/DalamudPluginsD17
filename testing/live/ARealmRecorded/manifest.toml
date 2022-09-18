@@ -1,0 +1,20 @@
+[plugin]
+repository = "https://github.com/UnknownX7/ARealmRecorded.git"
+commit = "491e96631d9cc12c465cfc130404149845f929d3"
+owners = [ "UnknownX7" ]
+changelog = '''
+- Added automatic renaming of recordings as well as the ability to delete recordings by right clicking them
+  - Up to 30 automatically renamed recordings will be saved
+  - These temporary recordings are indicated by a circle, renaming them by double clicking on them will prevent their deletion
+  - Up to 10 deleted recordings will be kept
+  - You can restore these by opening the replay folder and moving them out of the "deleted" folder
+  - The oldest recordings will be deleted first once either of these are full
+- Added the ability to save a timestamp to be returned to like a chapter
+- Added a config button on the playback menu and moved "Quick Chapter Load" to it, all settings under this "menu" will be saved between recordings
+- Added an option to increase the loading speed of chapters, which is off by default due to incompatibilities with some stage changes
+- Added an option to hide waymarks
+- Fixed an issue where you could become permanently stuck waiting on playback entry
+- Fixed playback on other characters
+- Fixed other plugins being unable to detect GPose / Idle Cam during playback
+- Fixed toasts being spammed and queuing up to ridiculous amounts during playback
+- Fixed an issue with Wondrous Tails'''

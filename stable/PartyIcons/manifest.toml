@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons.git"
+commit = "1e311a75ee4c2711bab9de601ccec6bf30fee412"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+2nd pass UI update
+- Ensure the tab bar remains visible when scrolling (helps in the Nameplates tab)
+- Rename the "Static Roles" tab to "Roles"
+- Move role-related settings from the General tab to the Roles tab
+- Adjust organization and appearance of items in the Roles tab
+"""
