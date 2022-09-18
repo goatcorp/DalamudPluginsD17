@@ -1,8 +1,24 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "a3197d89cf3e17b562ddb81b557a21aa5cc91c17"
+commit = "b78a54c7c5b259b5330ddd3126c8b2fb80c04546"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = "Version 1.6.4\n- Fixed removing everything except your name when 'Self Linking in Chat' is enabled and the message in the chat contains your own player name.\n\nVersion 1.6.3\n-Update spanish translation (thank you!)\n- Revert default setting for coloring nameplate title as it was in v1.5 (you may need to re-apply that option)\n\nVersion 1.6.2\n- Enable Tag coloring again.\n\nVersion 1.6.1\n- Adjust some default settings regarding text coloring.\nIf you miss some colors on nameplate and chat now, please ensure you enabled them for the respective element.\n\nVersion 1.6\n- Optimized some code for text formatting to probably fix issues with other plugins, such as Simple Tweaks\n- Added a new option to specify where some general settings depending on the current activity (in duty, no duty). E.g. visible in chat, nameplate title options, etc.\n- Added Spanish translation (thanks to unknown!) (before added the new strings in v1.6)\n\nVersion 1.5\n- Target .NET 6\n- Target API v7\n- Updated Libs"
+changelog = """ Version 1.7
+- Improve handling of own character name in chat
+- Improve handling of group/alliance number prefix (always insert tag and icon behind)
+- Add new property for Tags to choose if the tag and icon should be inserted before or behind the group/alliance number prefix
+- Mark the Chat features as stable
+- Remove option "Link Self In Chat"
+    - It's now a part of the Chat feature itself
+--> This update includes a few bigger internal adjustments. Please let me know if you have any problems after the update!
+
+Version 1.6.6
+- Improve self linking in chat feature
+    - Improves compatiblity with ChatTwo
+    - Technical Stuff: Use PlayerPayload only as index, remove it before going back to the game and keep the TextPayload
+- Rename plugin to \"PlayerTags\" (remove white space between the two words)
+- Update plugin icon
+- Use SignatureHelper for Hooks
+"""

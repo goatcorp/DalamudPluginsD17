@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Lharz/xiv-currency-alert.git"
+commit = "0bcc9cff018e147adc08f490b482bde73c558c82"
+owners = ["Lharz"]
+project_path = "CurrencyAlert"
+changelog = """
+=== 0.4.0.0
+- Added new Tomestones of Causality
+- Added icons for currencies
+- Added an option to lock the alert window
+- Revamped the configuration UI a bit
+- Revamped the user configurations code internally, which unfortunately resulted in an inevitable configuration reset
+"""
