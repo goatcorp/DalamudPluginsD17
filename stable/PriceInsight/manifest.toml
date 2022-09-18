@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "026d0e7d4c002ac98da738ce638e57593e0813db"
+commit = "2e81ed5560886b6bdb494ca79c240e4bf518944b"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Allow refreshing prices by tapping Alt
+Tooltip will now only move up if it's at the bottom of the screen
 """
