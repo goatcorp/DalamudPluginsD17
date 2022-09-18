@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "370ceab9375221b3312c17b58865ba2d88499886"
+commit = "026d0e7d4c002ac98da738ce638e57593e0813db"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Fix key items having marketboard information this time for sure
+Allow refreshing prices by tapping Alt
 """
