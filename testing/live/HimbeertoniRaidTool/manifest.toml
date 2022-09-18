@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "c72a0133526ca9580cf809079f0119d72587419f"
+commit = "cafeb880676834f1936f5022ad7f6ea947afa8fb"
 owners = ["Koenari"]
 project_path = "HimbeertoniRaidTool"
-changelog = "Fixed Examine\nReworked edit player interface\nPolished Ui\nFix HP calc\nBetter group creation\nMassive performance improvement\nAdded Dmg per (100)Potency calculation"
+changelog = "You can now edit gear manually\nNew player experience should be better now"
