@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "0a7a76aff1b36891398e828e57f4ede8bdd67c8e"
+commit = "152a381072db7ba8ef3fd75c344a12e659b615ce"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.7.1
+changelog = """ Version 1.7.2
+- Chat: Show your own name abbreviated in Chat, if abbreviated is setted up in character config
+    --> The game does abbreviate your own character name AFTER Dalamuds chat handler and only if it is unchanged. So PlayerTags need to abbreviate the name itself.
+
+Version 1.7.1
 - Added French translation (thanks to Khayle!)
 
 Version 1.7
