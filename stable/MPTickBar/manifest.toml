@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/marconsou/mp-tick-bar.git"
-commit = "77130d8c6af544fc86265ffd135073a6e77d6d5b"
+commit = "a3c48823685a234a611441fda56436ddb44874f6"
 owners = ["marconsou"]
 project_path = "MPTickBar"
-changelog = """ Version 1.4.1.3
-- (Reconfiguration required) Visibility options have been reworked for better flexibility configuration. Users should take a look at this and hide indesired UI elements if needed.
+changelog = """Version 1.4.1.3
+- (Reconfiguration required) Visibility options have been reworked for better flexibility configuration. 
+- Users should take a look at this and hide indesired UI elements if needed.
+Version 1.4.1.4
+- Added more visibility options.
 """
