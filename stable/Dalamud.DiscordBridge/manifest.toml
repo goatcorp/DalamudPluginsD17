@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "81aeaa8b0f799420faeeb655ba03b862184801c8"
+commit = "ae4d13e33bc3010c5ee307f6a807e6e019f06a4d"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
-changelog = "- Compatibility with D17.\n- Added Novice Network Notifications `nnn` chat type.\n- Duplicate message deduplication by squidmade"
+changelog = "- Updated Discord library dependencies\n- Switched to using full-width ＠ because Discord started enforcing username requirements on webhooks and @ isn't allowed there.\n- If your bot stopped working in September, please enable Message Intents. See the setup guide for updated steps."
