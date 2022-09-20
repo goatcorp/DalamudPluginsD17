@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/marconsou/mp-tick-bar.git"
-commit = "56e6724db0e9c5d565a1eb847ff5e7b992104ca7"
+commit = "6112075e8e0973adb6dd8671df5f97c0064d52d8"
 owners = ["marconsou"]
 project_path = "MPTickBar"
 changelog = """Version 1.4.1.3
