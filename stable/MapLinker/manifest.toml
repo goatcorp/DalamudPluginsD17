@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bluefissure/MapLinker.git"
-commit = "21362873f3b33baf2382f22b4bc17b7695f76a06"
+commit = "ae287191d6e3a840bfdfa595f1095d607dcf2547"
 owners = ["Bluefissure"]
 project_path = "MapLinker"
-changelog = "Patch 6.2 & API7"
+changelog = "Activate game & Export maplinks"
