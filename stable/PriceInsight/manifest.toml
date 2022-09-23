@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "2e81ed5560886b6bdb494ca79c240e4bf518944b"
+commit = "54d92add35198bf477ce25cb9c9e96862db4168d"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Tooltip will now only move up if it's at the bottom of the screen
+Fix likely source of crashes
 """
