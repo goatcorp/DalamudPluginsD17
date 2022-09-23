@@ -1,0 +1,4 @@
+[plugin]
+repository = "https://github.com/carvelli/Slice-Is-Right.git"
+commit = "1d99adf2b17c9ca48f873cdc75a3e909e6c35b3d"
+owners = ["carvelli", "mabako"]
