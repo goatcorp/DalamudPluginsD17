@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "b0210a940fe30eee482b8bf75498a2ed6a847e50"
+commit = "6784cd3405a2b65d8e1d071e54507a275d634243"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.7.4
+changelog = """ Version 1.7.5
+- Chat: Support group number prefix for Custom Tags
+- Chat: Make Custom Tags color prio if used for whole name
+
+Version 1.7.4
 - Chat: Minor adjustments that sometimes cause weird behavior, like...
     - The own username has been added to the start of the message text and not within
     - The message get colored completely and not only the name
