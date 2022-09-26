@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "f5ae5bdf84a0e68510c3a1915fbdd389facedd3d"
+commit = "08215e95392d857ea8d241618937ad3efdd99cf7"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added Emote as a ring item:\n    + This is just a convenience feature to be able to add emotes without having to manually search for their icons.\n    + It will simply use the command for the selected emote.\n    + The plugin doesn't and won't know which emotes you have unlocked. Trying to use an unlocked emote won't work.\n\n- Added a \"Draw Text\" setting to Game Macro and Command items.\n- Added a \"Draw Text Only When Selected\" setting to Game Macro, Command and Gear Set items.\n- The Keybind Edit Window will now focus the input field automatically when opened.\n- Fixed ring preview overlapping with the settings window on high Dalamud Font Scales."
+changelog = "- Fixed TPie not working properly with Penumbra v0.5.8.0 and their new Interface Collection."
