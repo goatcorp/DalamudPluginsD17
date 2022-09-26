@@ -1,15 +1,8 @@
 [plugin]
-# The open-source Git repository that your code is hosted on.
-# Must be visible to the external web, but doesn't have to be GitHub.
-# If `git clone` accepts it, it will work here, with the caveat that it
-# must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
-# The commit to check out and build from the repository.
-commit = "aeca413d041a0cc74042d6229e0b8613e652c78f"
-# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+commit = "9cd9e5a648e364a9c8d5a9badd7a6de7d56bf08d"
 owners = [
     "jaycewhite"
 ]
-# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = "Fixed an error on game startup"
-version = "0.9.0.10"
+changelog = "Massive refactor. Everyone option added. New settings screen. Border option available for markers now. Able to set marker styles per group. Added possibility for other plugins to integrate."
+version = "0.9.1.0"
