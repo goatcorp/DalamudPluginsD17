@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Tischel/InventorySearchBar.git"
+commit = "1a257b2d5ac49cb0764d18e9055a91485de73cbb"
+owners = ["Tischel"]
+project_path = "InventorySearchBar"
+changelog = "- Moved out of testing."
