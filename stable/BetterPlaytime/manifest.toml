@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "16300b554ace8ab88155032c35c84f463f0fd58e"
+commit = "46f93a0292d297372623c2d149f28f86dce264b9"
 owners = [
     "Infiziert90",
 ]
 project_path = "BetterPlaytime"
 changelog = """
-+ Stable release
++ Add option to display total character playtime in UI
++ Fix oopsy in regex for french language
 """
