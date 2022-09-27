@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "6f08538abf6006b714fa68291dc9f58adc9bf66f"
+commit = "7eae4e5eadcac34e322ae461a54879c194da10d9"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Support for api 7
-- fix loc issue
+- Extend the length of the nick name in gui
 - Looking forward to more feedback
 """
