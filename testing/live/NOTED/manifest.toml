@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "789085b74ed71496f857a2a8e3e3174bb97905f9"
+commit = "5e92a216892e6627ce5751e9c564ed4e1f80d859"
 owners = ["Tischel"]
 project_path = "NOTED"
 changelog = "- First release."
