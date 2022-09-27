@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "08215e95392d857ea8d241618937ad3efdd99cf7"
+commit = "5e887092d7fffab9c28eb0384a32df03a36afc2c"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed TPie not working properly with Penumbra v0.5.8.0 and their new Interface Collection."
+changelog = "- Fixed high quality icons for items."
