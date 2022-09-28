@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "9019265b81b0bc67acd1efa426e8b6a600b4d202"
+commit = "22528ba99ce16013bc642c734a230f6c4d97ea00"
 owners = [
     "jaycewhite"
 ]
-changelog = "Massive refactor. Everyone option added. New settings screen. Border option available for markers now. Able to set marker styles per group. Added possibility for other plugins to integrate. Also fixed a bug where markers wouldn't clear on area change."
-version = "0.9.1.1"
+changelog = "Added fancy new icon!"
+version = "0.9.2.0"
