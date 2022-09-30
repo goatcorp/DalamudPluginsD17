@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "bddc52d2618387d9018c52cd9d09727960cf8110"
+commit = "18b7a3b926c537ea272267a9a90f8bd8970e219c"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """Added customizing the display of subscribed a bit.
-Minor cleanup of the terminology of the settings tab."""
+changelog = """Several fixes for bugs when the client has not been configured yet."""
