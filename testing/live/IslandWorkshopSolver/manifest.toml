@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
+commit = "ac20757b7203ef78ccc004577064fcf3dc068822"
+owners = [
+    "rosella500"
+]
+project_path = "IslandWorkshopSolver"
