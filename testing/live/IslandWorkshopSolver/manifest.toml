@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "e0fa219ac3f86b2feaf661f6b00be58238ff5434"
+commit = "cd7c0c77bbc9f8a3a03fb2e0d11cd17f87743691"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
+changelog = "Added this week's data to data folder"
