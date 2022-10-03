@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "811bb127785c20cdfceb1a460e381c6157107d8b"
+commit = "d82a497fac80cf606a3129608a428263adf43fd9"
 owners = [
     "Kouzukii",
 ]
-project_path = ""
+project_path = "CharacterPanelRefined"
 changelog = """
-Add german and french translations
+- Add avg. healing stat
+- Tooltips of avg. damage and healing will now show damage/healing of normal and critical hits.
+- Add a stat to show flat damage increase of crit & direct hit stat
+- Add more customization options
 """
