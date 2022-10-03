@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "cd7c0c77bbc9f8a3a03fb2e0d11cd17f87743691"
+commit = "80cc989506530350413b1e77705649c90a3f2900"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Added this week's data to data folder"
+changelog = "More gracefully handles incomplete or missing data and still attempts to discern peaks"
