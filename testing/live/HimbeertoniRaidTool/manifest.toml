@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "4835b916f8e4a31526efdf49d2790f038b3ae04c"
+commit = "456ffc8c3ec2ceffe9f2d27ef95ff8bf87dab276"
 owners = ["Koenari"]
 project_path = "HimbeertoniRaidTool"
-changelog = "Several Ui improvements and fixes"
+changelog = "change: Several updates to Ui to make usage easier\nnew: can periodically update gersets from etro\nnew: you can now edit a characters tribe\nchange: data is now saved more often and is therefore more resilient to crashes of FFXIV\nfixed: weapon tokens were distributed wrongly\nfixed: lootmaster window may show before login\nfixed: item level may be wrong"
