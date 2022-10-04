@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "1a257b2d5ac49cb0764d18e9055a91485de73cbb"
+commit = "a647a9a01ef3bf94d1281141d50755cdf150a59c"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "- Moved out of testing."
+changelog = "- Fixed search bar not being click through when hidden."
