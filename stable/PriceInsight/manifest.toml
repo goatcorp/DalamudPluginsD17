@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "54d92add35198bf477ce25cb9c9e96862db4168d"
+commit = "a5cf051231831ebb8cd96709fbfef2c0b1f6ca71"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Fix likely source of crashes
+Add support for datacenter travel
+
+- Added options to show prices and most recent purchase for entire region
+- Added option to use current world as home world (Useful to show local prices when datacenter travelling)
 """
