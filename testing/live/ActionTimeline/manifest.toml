@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Tischel/ActionTimeline.git"
+commit = "18c56f8bfbde057e5653dfe2c0c55a8740c2db36"
+owners = ["Tischel"]
+project_path = "ActionTimeline"
+changelog = "- First release."
