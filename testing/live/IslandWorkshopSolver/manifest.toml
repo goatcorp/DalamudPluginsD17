@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "80cc989506530350413b1e77705649c90a3f2900"
+commit = "9ae635930915e60e41930863c9e70c832ddf5557"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "More gracefully handles incomplete or missing data and still attempts to discern peaks"
+changelog = "Adjust rest day calculations for D2 and fix bug where D6 and 7 suggestions would appear erroneously"
