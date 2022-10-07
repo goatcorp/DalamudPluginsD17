@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "9ae635930915e60e41930863c9e70c832ddf5557"
+commit = "e4e1ef864e4942b117b049c1ca13fcf714b684a5"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Adjust rest day calculations for D2 and fix bug where D6 and 7 suggestions would appear erroneously"
+changelog = "Fix bugs related to running solver without updating supply"
