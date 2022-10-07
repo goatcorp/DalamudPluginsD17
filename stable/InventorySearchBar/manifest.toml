@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "a647a9a01ef3bf94d1281141d50755cdf150a59c"
+commit = "f2f594d0ec7f92833950abc478652edff35f74e9"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "- Fixed search bar not being click through when hidden."
+changelog = "- Fixed search bar not showing when \"Keybind only\" is disabled."
