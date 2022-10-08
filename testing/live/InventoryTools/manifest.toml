@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "5abf458b732fba457cfd632ffdb8ea31383a00f4"
+commit = "5573f9a84ea714bb191d18e6744533a20119d306"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "- Another performance related release\n- Improved draw times of each windows\n- People with higher font sizes and ui scales should hopefully be able to see all the buttons\n- Collapsing either of the craft window sections will have the other section take the available space.\n- The inventory scanning process now runs in the thread pool, hopefully this should reduce stuttering when any item movement occurs(and a rescan needs to happen)."
-version = "1.2.0.4"
+changelog = "- Massive improvements to inventory scanning and parsing that should allow for near instant inventory updates.\n- Please report any performance issues.\n- All network hooks removed\n- Item sources/map location data should be improved.\n- Lots of quality of life improvements.\n- See the full changelog here https://github.com/Critical-Impact/InventoryTools/commit/5573f9a84ea714bb191d18e6744533a20119d306"
+version = "1.2.0.5"
