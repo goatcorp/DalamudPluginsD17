@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "e4e1ef864e4942b117b049c1ca13fcf714b684a5"
+commit = "4ea6b62e4216209ecb1f47f61d59def8e5c415e5"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Fix bugs related to running solver without updating supply"
+changelog = "Fix bug where D2 is automatically asssumed valid"
