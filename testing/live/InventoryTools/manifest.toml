@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "5573f9a84ea714bb191d18e6744533a20119d306"
+commit = "046e78d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "- Massive improvements to inventory scanning and parsing that should allow for near instant inventory updates.\n- Please report any performance issues.\n- All network hooks removed\n- Item sources/map location data should be improved.\n- Lots of quality of life improvements.\n- See the full changelog here https://github.com/Critical-Impact/InventoryTools/commit/5573f9a84ea714bb191d18e6744533a20119d306"
+changelog = "Version bump because I'm a noob"
 version = "1.2.0.6"
