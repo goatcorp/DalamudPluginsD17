@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "046e78d"
+commit = "3535ae8"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Version bump because I'm a noob"
-version = "1.2.0.6"
+changelog = "Fix a potential crash in the inventory scanner. If items stop updating can you take a look in /xllogs and if you see any errors please shoot them to me."
+version = "1.2.0.7"
