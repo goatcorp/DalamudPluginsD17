@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "e2154b425418178329d7a4a0efe0bd4f1c14f829"
+commit = "0ed6d69904bf2ad140fd767c53f862b97f9ac701"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
 changelog = "Initial test release (displaying and editing profiles from Chaos Archives)"
