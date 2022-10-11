@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "d82a497fac80cf606a3129608a428263adf43fd9"
+commit = "5d8e1824ad9dd6e47bf04530a8ac6540d9592b42"
 owners = [
     "Kouzukii",
 ]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Add avg. healing stat
-- Tooltips of avg. damage and healing will now show damage/healing of normal and critical hits.
-- Add a stat to show flat damage increase of crit & direct hit stat
-- Add more customization options
+- Add DoH/DoL stats excluding consumables to help working with TeamCraft.
+- Improve accuracy of the "Effect increases by X% every Y points" tooltip.
+- Improve french translation (Thanks Khayle!)
 """
