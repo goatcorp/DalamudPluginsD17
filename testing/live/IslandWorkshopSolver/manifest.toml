@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "4ea6b62e4216209ecb1f47f61d59def8e5c415e5"
+commit = "409777c22726e17586883c1aea78c5c7b21cb955"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Fix bug where D2 is automatically asssumed valid"
+changelog = "Import data from game CSVs instead of hard-coding, display list of materials when selecting a schedule"
