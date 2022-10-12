@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "48527c577400284da68bc9554166cbe281ceab1c"
+commit = "88097c1004c4063b157a227a9d108ac06f767d80"
 owners = ["Koenari"]
 project_path = "HimbeertoniRaidTool"
-changelog = "fixed: unable to save right after loading\nfixed: potential short freeze of FFXIV\nnew: you can manually edit levels\nsome performance improvements\nfix: now works with higher dpi/global scale"
+changelog = "new: improved deatils for loot results\nnew: you can now edit role priority\nnew: supports non standard group compositions"
