@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "88097c1004c4063b157a227a9d108ac06f767d80"
+commit = "ff814a15610c8f36a2a1065a50d759a0923d457f"
 owners = ["Koenari"]
 project_path = "HimbeertoniRaidTool"
-changelog = "new: improved deatils for loot results\nnew: you can now edit role priority\nnew: supports non standard group compositions"
+changelog = "fix: loot results did not show"
