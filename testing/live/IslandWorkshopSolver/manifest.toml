@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "409777c22726e17586883c1aea78c5c7b21cb955"
+commit = "ab801f37cb36844f558fdc872fc727652610523a"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Import data from game CSVs instead of hard-coding, display list of materials when selecting a schedule"
+changelog = "Import isleventory and show materials needed for selected schedules"
