@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "8964604"
+commit = "fbbc30b"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Updated logging, fixed hire order parsing and retainer bag clearing. If item updating stops working, can you turn on DEBUG logging, go in and out of your retainer a few times then send me the contents of the log."
-version = "1.2.0.8"
+changelog = "Fixed another potential issue with retainer inventory scanning. If it wasn't working before please try again. Also added the ability to add an item to a new craft filter."
+version = "1.2.0.9"
