@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "7eae4e5eadcac34e322ae461a54879c194da10d9"
+commit = "c281c41fe47084563f80cda9c50fb4fb543784ed"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Extend the length of the nick name in gui
-- Looking forward to more feedback
+- Increase accuracy of opcode
+- Separate data and setting
 """
