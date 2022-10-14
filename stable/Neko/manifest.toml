@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "9a1b9003fa4c5aad57f1324978e462d015c0e5d0"
+commit = "3a592fa9363f05b9ffdac1fe23055819c0335946"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Fixed images loading in the background when using the slideshow feature
-- Fixed 'Toggle Visibility' hotkey not working with the condition 'On Mouse Over'"""
+changelog = """- Added TLS for communication with the Neko Server
+- Fixed 'Toggle Visibility' hotkey sometimes not working"""
