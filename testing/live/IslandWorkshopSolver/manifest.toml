@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "ab801f37cb36844f558fdc872fc727652610523a"
+commit = "5f4c102bfc5edaf0e6845fd8c67c36c80e9e4a94"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Import isleventory and show materials needed for selected schedules"
+changelog = "Fix bug where schedules you test out but don't use still contribute to raising supply"
