@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "fbbc30b"
+commit = "149cd3e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Fixed another potential issue with retainer inventory scanning. If it wasn't working before please try again. Also added the ability to add an item to a new craft filter."
-version = "1.2.0.9"
+changelog = "Few more bug fixes, this is a fairly large overhaul of the tracking system so some bugs were to be expected. If you run into issues please post your logs into the Allagan Tools help channel on the goat place discord."
+version = "1.2.0.10"
