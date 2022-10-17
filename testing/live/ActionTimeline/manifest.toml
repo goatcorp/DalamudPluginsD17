@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/ActionTimeline.git"
-commit = "1e2a01f69fa44996f82d5c62d0326a0e5138d0ab"
+commit = "2cddb14edbfd19ad5721ea05380d6696a2a8bbe3"
 owners = ["Tischel"]
 project_path = "ActionTimeline"
-changelog = "- First release."
+changelog = "- Fixed windows not being click-through when locked.\n- Fixed Monk's Anatman showing as an oGCD and not triggering the GCD in the timeline.\n- Fixed Ninja's Mudras and Ninjutsus showing as an oGCD and not triggering the GCD in the timeline."
