@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "ee5f1b449d400efd05b1a04a112e0a2e95cb5178"
+commit = "3e7893b6c9c79a607197990384c4d63917f8e529"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
+changelog = "Updated dependencies. Might help with some recent connection failures."
