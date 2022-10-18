@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "5f4c102bfc5edaf0e6845fd8c67c36c80e9e4a94"
+commit = "45eac26917df5a663de08b0ded70c63ed7858efe"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Fix bug where schedules you test out but don't use still contribute to raising supply"
+changelog = "Update to 1.0.0.0"
