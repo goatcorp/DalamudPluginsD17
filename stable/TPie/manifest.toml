@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "5e887092d7fffab9c28eb0384a32df03a36afc2c"
+commit = "e520ca794f198893d293256a9198fea5bdc60feb"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed high quality icons for items."
+changelog = "- Added a filter to only show acquired emotes when searching.\n- Fixed some emotes not working."
