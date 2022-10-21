@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "a5cf051231831ebb8cd96709fbfef2c0b1f6ca71"
+commit = "9248ff3b32bdcff9fb28efbf153ff1cc7dbcb44e"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Add support for datacenter travel
+Prefetching of prices for inventory items when logging in is now disabled by default and can be reenabled in the config menu if desired.
 
-- Added options to show prices and most recent purchase for entire region
-- Added option to use current world as home world (Useful to show local prices when datacenter travelling)
+With the price check for the entire region enabled, the amount of data downloaded during prefetching was causing lagspikes.
 """
