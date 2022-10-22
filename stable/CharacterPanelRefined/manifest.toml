@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "5d8e1824ad9dd6e47bf04530a8ac6540d9592b42"
+commit = "f9a1a939b2b983681fa35e6921079153009ef2a5"
 owners = [
     "Kouzukii",
 ]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Add DoH/DoL stats excluding consumables to help working with TeamCraft.
-- Improve accuracy of the "Effect increases by X% every Y points" tooltip.
-- Improve french translation (Thanks Khayle!)
+- Fix an issue that was causing the Skill Speed tooltip to be displayed incorrectly 
 """
