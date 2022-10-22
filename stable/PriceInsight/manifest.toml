@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "9248ff3b32bdcff9fb28efbf153ff1cc7dbcb44e"
+commit = "8c1e7aabeed2919a95197e3d2fa8489a24ac1e37"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Prefetching of prices for inventory items when logging in is now disabled by default and can be reenabled in the config menu if desired.
-
-With the price check for the entire region enabled, the amount of data downloaded during prefetching was causing lagspikes.
+With improvements to the Universalis API, prefetching is now enabled by default again.
 """
