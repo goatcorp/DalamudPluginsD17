@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "3a592fa9363f05b9ffdac1fe23055819c0335946"
+commit = "1d7d32f6c729f8c0eef4434595975a4ed4bb453c"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Added TLS for communication with the Neko Server
-- Fixed 'Toggle Visibility' hotkey sometimes not working"""
+changelog = """- Added API: nekos.best
+- Bug fixes"""
