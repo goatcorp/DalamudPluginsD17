@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "149cd3e"
+commit = "11dc0fc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Few more bug fixes, this is a fairly large overhaul of the tracking system so some bugs were to be expected. If you run into issues please post your logs into the Allagan Tools help channel on the goat place discord."
-version = "1.2.0.10"
+changelog = "Inventory and configuration saving are now run asynchronously except when the plugin is disposing to stop potential hitches. Fixed an issue with memory sort order parsing not actually being needed when the client is first started and no ITEMODR file exists. "
+version = "1.2.0.11"
