@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "45eac26917df5a663de08b0ded70c63ed7858efe"
+commit = "51281f40f31517eea6d239043e2d7e1ef0684082"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Update to 1.0.0.0"
+changelog = "Handle opening plugin on D7 with or without valid week data"
