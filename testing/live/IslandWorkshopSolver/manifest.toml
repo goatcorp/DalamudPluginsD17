@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "51281f40f31517eea6d239043e2d7e1ef0684082"
+commit = "74883718c3c1bcf481e0423f12b9283a57fc4965"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Handle opening plugin on D7 with or without valid week data"
+changelog = "Rename to Beachcomber and read workshop level and max groove from island data"
