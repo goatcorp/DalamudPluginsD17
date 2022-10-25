@@ -1,8 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/ARealmRecorded.git"
-commit = "0c2dbdaad9463a9f07c03182db5a80b05fefeb5e"
+commit = "90ef8b99288da7ee602a23225fcf12956c805404"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Added a temporary fix for P8(S)
-- Added a button to fix similar future issues
-- Added a button to force a recording to end'''
+- Enabled for Bozja and V&C Dungeons'''
