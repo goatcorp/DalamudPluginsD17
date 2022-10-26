@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "74883718c3c1bcf481e0423f12b9283a57fc4965"
+commit = "0990e1fd60822174a987b134449604052863cab1"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Rename to Beachcomber and read workshop level and max groove from island data"
+changelog = "Be more generous about allowing crafts to be used before their peak if they won't negatively impact future profits"
