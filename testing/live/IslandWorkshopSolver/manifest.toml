@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "0990e1fd60822174a987b134449604052863cab1"
+commit = "fc8758c8b876f0870ee440b19f9cf340cdc16a86"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Be more generous about allowing crafts to be used before their peak if they won't negatively impact future profits"
+changelog = "Crafts are now in correct language"
