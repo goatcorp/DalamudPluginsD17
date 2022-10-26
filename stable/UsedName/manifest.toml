@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "042c9be8c131d25ee7785ada1d05bb113c5bdb39"
+commit = "9d5d151200d31c5cdb4af8fc9ed2c57cc5742b09"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- first time put plugin in stable
-- Add icon
-- reset hint logic
+- fix not save change immediately
+- fix potential transfer data issues
 """
