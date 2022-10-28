@@ -1,7 +1,11 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "365d58cffcf69294b241a4a4c8673473cd93dab4"
+commit = "3ea486174055df6b18cefddcb65c24be25a5a9cb"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "src/GoodFriend.Plugin"
+changelog = """
+- Added error messages for invalid API URL's, login & logout messages.
+- Fixed some log messages not being correct.
+"""
