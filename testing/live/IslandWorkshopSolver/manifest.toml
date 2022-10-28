@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "f4a83df6aac0d408f46a8c86e412985e27749fcb"
-owners = [
-    "rosella500"
-]
-project_path = "IslandWorkshopSolver"
-changelog = "Crafts are now in correct language"
