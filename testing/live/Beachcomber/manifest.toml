@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
+commit = "07ca95ce74357daf6a20e2f805bbbf48fcc57c68"
+owners = [
+    "rosella500"
+]
+project_path = "Beachcomber"
+changelog = "Rename plugin to Beachcomber for real"
