@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "f4a83df6aac0d408f46a8c86e412985e27749fcb"
+commit = "dac05099f2d2b28a39b42290c644bb8b99e0fed9"
 owners = [
     "rosella500"
 ]
 project_path = "IslandWorkshopSolver"
-changelog = "Crafts are now in correct language"
+changelog = "Supports larger fonts and automatically selects future schedules if you re-run the solver"
