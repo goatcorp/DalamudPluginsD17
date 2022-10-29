@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/UnknownX7/ARealmRecorded.git"
+commit = "90ef8b99288da7ee602a23225fcf12956c805404"
+owners = [ "UnknownX7" ]
+changelog = '''
+- Enabled for Bozja and V&C Dungeons'''

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/jaycewhite/MiniMappingway.git"
+commit = "22528ba99ce16013bc642c734a230f6c4d97ea00"
+owners = [
+    "jaycewhite"
+]
+changelog = "Added fancy new icon!"
+version = "0.9.2.0"

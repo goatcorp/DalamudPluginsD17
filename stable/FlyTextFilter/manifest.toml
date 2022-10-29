@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "fc0ed7224d39b3ed4bf9fa8bbab27703ae227c66"
+commit = "b637f3fbbe8043c0f3de823c4bcaab501e57347d"
 owners = [
     "Aireil",
 ]
 project_path = "FlyTextFilter"
-changelog = "Fix for 6.2 + .NET6 and API7 upgrade + split pet/chocobo in misc settings"
+changelog = "Fix position adjustments not working"

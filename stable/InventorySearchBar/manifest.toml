@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Tischel/InventorySearchBar.git"
+commit = "77da34f2edfa7c6e82d96f7c5274b5a30d199b53"
+owners = ["Tischel"]
+project_path = "InventorySearchBar"
+changelog = "- Fixed search bar with an active search disappearing when switching tabs."

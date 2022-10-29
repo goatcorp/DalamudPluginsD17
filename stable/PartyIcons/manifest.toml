@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons.git"
+commit = "b035adc50b2a2c11a48be2a6cb64511e910e4e80"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+Quick fixes for status icons
+- Added Group Pose as a prioritized status icon both in and out of a duty
+- Added a configuration setting to enable or disable prioritized status icons
+"""

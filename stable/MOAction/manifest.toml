@@ -2,7 +2,7 @@
 repository = "https://github.com/attickdoor/MOActionPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "23d1dd71539660f5dea7ff081b7ac4c1230104c6"
+commit = "0edc68e7b7ebb1d9ad083224d56928d162a2e284"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,7 +15,5 @@ project_path = "MOAction"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		6.2/API7 update.\
-		Bugs squashed, usability changes.\
-		Probably doesn't need to be reloaded half the time now.\
+		- fix some actions that change (like astral flow) not working properly\
 		"""

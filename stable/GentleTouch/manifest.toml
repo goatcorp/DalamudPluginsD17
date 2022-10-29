@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/fitzchivalrik/gentletouch.git"
+commit = "696b15f8c720797c791d5a30cfda557c5ebec54c"
+owners = ["fitzchivalrik"]
+project_path = "GentleTouch"
+changelog = """
+- chore: Update to API 7
+"""

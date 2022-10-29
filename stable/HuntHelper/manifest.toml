@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/imaginary-png/HuntHelper.git"
+commit = "a22880561f75695376ba9ecd923e8b0131667eaf"
+owners = [
+    "imaginary-png",
+]
+project_path = "HuntHelper"
+changelog = "added double-click toggle for taken spawn points from map"

@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "b13b01605d592cc5ad29a2164e6e85d888a1c80a"
+commit = "10b9afe658c2cd0b1531f42b24989d49d910f2f7"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """
-- Queue system for preloading images
-- Reworked memory management system
-- Revert to .Net5
-"""
+changelog = """There is now a counter, which displays how many images you downloaded.
+
+- Added individual counter to track how many images you downloaded
+- Added total counter to track how many images were downloaded by all Neko Fans users
+- Improved Hotkey recognition"""

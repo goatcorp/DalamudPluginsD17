@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/karashiiro/TextToTalk.git"
+commit = "0e931d9dc32077f09e8f327d0f76b6f30999ecb7"
+project_path = "src"
+owners = ["karashiiro"]
+changelog = "Fixes system voice list on Windows."

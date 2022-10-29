@@ -1,5 +1,10 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/ChatTwo.git'
-commit = 'e8211d9728bf1970dd15fae10d96b138de7063ff'
+repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
+commit = '38b599b684bc73b1ec932b084ca1ed8e82b25ddc'
 owners = [ 'ascclemens' ]
-changelog = 'https://git.annaclemens.io/ascclemens/ChatTwo/compare/v1.17.3...v1.17.4'
+changelog = """\
+- Updated translations.
+- Changed some internals for (minor) improved performance.
+- Fixed an issue with empty lines causing some flickering.
+- Fixed an issue with empty lines disappearing under some circumstances.
+"""

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
+commit = "48527c577400284da68bc9554166cbe281ceab1c"
+owners = ["Koenari"]
+project_path = "HimbeertoniRaidTool"
+changelog = "fixed: unable to save right after loading\nfixed: potential short freeze of FFXIV\nnew: you can manually edit levels\nsome performance improvements"

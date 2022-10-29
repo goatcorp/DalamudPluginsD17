@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Felys1998/EnemyListDebuffs.git"
+commit = "2d8563d36aa6e18bbdb641c450b9a5021ce264d1"
+owners = [
+    "Felys1998",
+]
+changelog = "6.2 Arraydata fixed"

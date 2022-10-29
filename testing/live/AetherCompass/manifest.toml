@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/yomishino/FFXIVAetherCompass.git"
+commit = "5216a3af5193c41e868aab7a996a55bd7a4619a9"
+owners = [ "yomishino" ]
+changelog = """- Fix config loading issue (Thanks to Caraxi)
+"""

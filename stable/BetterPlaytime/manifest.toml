@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Infiziert90/BetterPlaytime.git"
+commit = "158b9098fbb48e5da60f470e07168f7eec015d2d"
+owners = [
+    "Infiziert90",
+]
+project_path = "BetterPlaytime"
+changelog = """
++ Prevent round up of hours and days
++ Add config tab for character deletion
++ Extend server bar integration
+"""

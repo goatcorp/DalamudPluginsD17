@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons.git"
+commit = "28cf424562a406b300fc9bb485a903ea9b43b993"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+- Fixed null reference exceptions in order to prevent spam in dalamud.log
+- First pass refactor, please @ Mei or whatever if you run into any issues
+- Thank you plugin testers
+"""

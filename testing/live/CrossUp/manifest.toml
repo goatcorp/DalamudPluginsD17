@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "2af86d2e7665955a63d241f8c764aa4aa2788792"
+commit = "80e3a7d31617074045d8e057ec19e54629f4bd12"
 owners = [
     "ItsBexy",
 ]
-changelog = "Updated for Net6/Api7 and corrected config IDs that changed in Patch 6.2"
+changelog = "Fixed a bug with icon display in the configuration window."

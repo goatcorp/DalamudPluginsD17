@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "6a5a50ad6eec3c122ac6c0606bbdbba71055e396"
+commit = "2f57490e7c94ca73e0ad561bc9e2a671d36e0db1"
 owners = ["xorus"]
-changelog = "Updated for new Dalamud version"
+changelog = """\
+- Floating Window: the `:` separator in the stopwatch has gone back from their vacation"""

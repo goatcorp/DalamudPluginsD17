@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Infiziert90/DeathRoll.git"
+commit = "c40ca49a788e69bdf09f7dc3113faf99ff65e234"
+owners = [
+    "Infiziert90",
+]
+project_path = "DeathRoll"
+changelog = """
++ Fix regex not working for some display name types
+"""

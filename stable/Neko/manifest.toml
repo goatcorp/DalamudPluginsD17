@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Meisterlala/NekoFans.git"
+commit = "1d7d32f6c729f8c0eef4434595975a4ed4bb453c"
+owners = [
+    "Meisterlala",
+]
+project_path = "Neko"
+changelog = """- Added API: nekos.best
+- Bug fixes"""
