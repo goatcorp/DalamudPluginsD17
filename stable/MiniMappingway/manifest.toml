@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "22528ba99ce16013bc642c734a230f6c4d97ea00"
+commit = "1f8a8d69544dd6ab40df810a7d845721ea4fe5ba"
 owners = [
     "jaycewhite"
 ]
-changelog = "Release!"
-version = "1.0.0.0"
+changelog = "(Hopefully) fixed a bug where enemies sometimes show up under the 'everyone' group."
+version = "1.0.0.1"
