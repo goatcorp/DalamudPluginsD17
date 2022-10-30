@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "6784cd3405a2b65d8e1d071e54507a275d634243"
+commit = "2acda54f17524f0355554c08422f3fabfdd79d38"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.7.5
+changelog = """ Version 1.7.5.1
+- Rename Plugin to Player Tags for better searchability.
+
+Version 1.7.5
 - Chat: Support group number prefix for Custom Tags
 - Chat: Make Custom Tags color prio if used for whole name
 
