@@ -1,6 +1,13 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "48527c577400284da68bc9554166cbe281ceab1c"
-owners = ["Koenari"]
+owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-changelog = "fixed: unable to save right after loading\nfixed: potential short freeze of FFXIV\nnew: you can manually edit levels\nsome performance improvements"
+commit = "cb76e44dffbe3992286a2486f56368be6e342555"
+changelog = """
++ Ui is now customizable
+* loot distribution results include evaluated data in visual output
++ includes translations for Español, Français und Deutsch
++ you can now fetch gear from lodestone
+* fixed several issues with second ring
++ add support for non-standard group compositions
+* performance optimisations"""
