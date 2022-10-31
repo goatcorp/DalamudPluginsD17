@@ -1,6 +1,13 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "ff814a15610c8f36a2a1065a50d759a0923d457f"
-owners = ["Koenari"]
+owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-changelog = "fix: loot results did not show"
+commit = "eff8fc30dad2942f2fa8bdf0978ae5ba6e9dcc8f"
+changelog = """
++ Ui is now customizable
+* loot distribution results include evaluated data in visual output
++ includes translations for Español, Français und Deutsch
++ you can now fetch gear from lodestone
+* fixed several issues with second ring
++ add support for non-standard group compositions
+* performance optimisations"""
