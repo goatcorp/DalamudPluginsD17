@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "da7070657d14823739af315d1b493bb823f1a752"
+commit = "1f0be088043744d3e1dccb7f72bc4c68ab8cfb06"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Solver better accounts for missing early-week data or disparities between what you told it and what you did"
+changelog = "Fix bug where D7 doesn't initialize properly, again"
