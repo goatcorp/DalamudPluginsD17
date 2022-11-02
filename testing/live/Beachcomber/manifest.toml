@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "1f0be088043744d3e1dccb7f72bc4c68ab8cfb06"
+commit = "331cbc0c1aa93a3405d2ba01a6c213baae83dafd"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Fix bug where D7 doesn't initialize properly, again"
+changelog = "Allow for overwriting a rest day's value if advanced configuration option is checked"
