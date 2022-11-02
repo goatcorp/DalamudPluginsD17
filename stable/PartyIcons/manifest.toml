@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/shdwp/xivPartyIcons.git"
-commit = "b035adc50b2a2c11a48be2a6cb64511e910e4e80"
+commit = "5a0f5f0c27b4c61c48e821a8acc880b1daa4f48b"
 owners = [
     "shdwp",
     "avafloww",
@@ -8,7 +8,13 @@ owners = [
 ]
 project_path = "PartyIcons"
 changelog = """
-Quick fixes for status icons
-- Added Group Pose as a prioritized status icon both in and out of a duty
-- Added a configuration setting to enable or disable prioritized status icons
+Features
+- For chat names, added the ability to toggle role colors on/off by territory type (overworld, dungeon, raid, etc.) (Thanks AkazaRenn)
+- Added the yellow In a Duty icon to the priority list for forays (Bozja etc.) so that you can tell who is not in a party
+- In the settings window, testing mode and the tab its in now flash when testing mode is enabled
+
+Bug Fixes
+- Fixed an error when a local player is unavailable that would spam dalamud.log during a crash
+- Fixed a bug where having a pet out during an alliance raid caused party numbers to not appear
+- Fixed a bug when converting v1 to v2 config where Game Default chat settings resulted in role colors being enabled
 """
