@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "331cbc0c1aa93a3405d2ba01a6c213baae83dafd"
+commit = "3dac2d4d2d0d4fec67a160459978442eddc3e17f"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Allow for overwriting a rest day's value if advanced configuration option is checked"
+changelog = "Fix errors with showing multiple days"
