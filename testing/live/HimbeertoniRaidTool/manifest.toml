@@ -2,12 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "cb76e44dffbe3992286a2486f56368be6e342555"
+commit = "01fcf253ab28028a23d9951a5e41c19c2707f5e0"
 changelog = """
-+ Ui is now customizable
-* loot distribution results include evaluated data in visual output
-+ includes translations for Español, Français und Deutsch
-+ you can now fetch gear from lodestone
-* fixed several issues with second ring
-+ add support for non-standard group compositions
-* performance optimisations"""
++ Option to ignore materia in BiS comparison
+* windows now can be closed with Esc"""
