@@ -4,9 +4,9 @@ commit = "fb89507ec10ea3c6197f675e61b1113684285aa9"
 owners = [
     "BitsOfAByte",
 ]
-project_path = "src/GoodFriend.Plugin"
+project_path = "GoodFriend.Plugin"
 changelog = """
 - Added the 'QuestMarker' notification type
 - Code cleanup
-- Fixed automatical localization updates
+- Fixed automatica localization updates
 """
