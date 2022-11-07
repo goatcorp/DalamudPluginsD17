@@ -12,6 +12,29 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
   - Use `$(DalamudLibPath)` if you aren't already, see <https://github.com/goatcorp/SamplePlugin/blob/master/SamplePlugin/SamplePlugin.csproj#L29-L63>
 - Build your plugin in Release, commit your `.csproj` + the newly generated lock file
 
+### Approval criteria
+
+When the plugin approval group checks your plugin, they will check for the following:
+
+- Does it meet [our guidelines](https://goatcorp.github.io/faq/development#q-what-am-i-allowed-to-do-in-my-plugin), as agreed upon by multiple members of the group?
+- Does it feature any combat elements? If so, are they purely informational, and show only information the player would normally know?
+- Does it pass an informal code review?
+- Does it install cleanly?
+- Does the configuration window(if present) behave correctly?
+- Does the base functionality of the plugin work (if testable easily)?
+- Does it have no obvious technical issues?
+- Is its JSON correctly formatted? (We hope to [make this unnecessary in future](https://github.com/goatcorp/DalamudPackager/issues/8))
+- If it's a new plugin, is it in the testing channel and not the stable channel? If it's a simple plugin, or you already tested separately, you may be able to skip the testing phase - please put some details in your PR or reach out!
+- Does it meet the [Technical criteria](#technical-criteria)?
+
+These criteria are intended to prevent issues for users. We're happy to work with you to get you across the line; just reach out in the Discord.
+
+### Technical criteria
+
+There are a few technical things that you should do before submitting your plugin here. They will make your plugin nicer to use.
+- Your plugin has to have an `icon.png` that is no larger than 512x512 and no smaller than 64x64 in `images/`.
+- For regular ImGui windows that don't do anything special, like settings and utility windows, you should use the [Dalamud Windowing API](https://goatcorp.github.io/Dalamud/api/Dalamud.Interface.Windowing.html). It enhances windows with a few nice features, like integration into the native UI closing-order.
+
 ### Submitting
 
 - Fork this repository, or use the GitHub web editor (press `.` in the repo, or press the ✏ icon on an existing manifest)
