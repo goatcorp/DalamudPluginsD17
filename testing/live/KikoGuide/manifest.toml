@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/KikoGuide.git"
-commit = "e4f6d09a8b642f681975c183e12e23070c471b45"
+commit = "134c162beb379b797bfb52cdbe4af57f62d70c32"
 owners = [
     "BitsOfAByte",
 ]
@@ -14,6 +14,8 @@ New Features:
 - Added the ability to disable hiding locked duties
 - Improved all text in the UI to be more descriptive
 - Added a 'report issue' button on the guide viewer.
+- Show a toast when a guide is available and 'auto open' is not enabled
+- Improve zone change detection logic.
 - Performance improvements
 Bug Fixes:
 - Fixed a bug wherein a duty guide would not automatically load even when entering the associated duty
