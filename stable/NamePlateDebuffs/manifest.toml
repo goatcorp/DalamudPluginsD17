@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/jherig/NamePlateDebuffs/.git"
+repository = "https://github.com/jherig/NamePlateDebuffs.git"
 commit = "0abedb281893cd35718c5e9a5d21a6c3123b65df"
 owners = [
     "aers",
