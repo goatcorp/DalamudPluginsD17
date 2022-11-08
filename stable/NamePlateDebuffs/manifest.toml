@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jherig/NamePlateDebuffs.git"
-commit = "0abedb281893cd35718c5e9a5d21a6c3123b65df"
+commit = "da41ad4aa7e936eaaa888302de3798559fa2979b"
 owners = [
     "aers",
     "JHerig",
