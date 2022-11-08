@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/jherig/NamePlateDebuffs/.git"
+commit = "0abedb281893cd35718c5e9a5d21a6c3123b65df"
+owners = [
+    "aers",
+    "JHerig",
+    "squidmade",
+]
+project_path = "NamePlateDebuffs"
+changelog = """
+- Updated for 6.28.
+- Fixed debuffs appearing on incorrect nameplates due to a memory layout change.
+"""
