@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "fbd1786d4d449d83d8a50f5ff615245b62c702a9"
+commit = "09a82181f95793dc30b9f78eb2d49170ab46389f"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Fix wrong peak interpretation on week reset, better groove calculations, support for fewer than 3 workshops"
+changelog = "Fix error when first converting from 1.0.3.5"
