@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ProjectMimer/xivr.git"
-commit = "d8b2edfdd48fd462b0e74a603668f83ce4ac02d6"
+commit = "3447ef2320fbaade46813cc1ff47e839fdb88dcb"
 owners = ["solimproper", "ProjectMimer"]
 project_path = "xivr"
 changelog = "First release"
