@@ -43,6 +43,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
