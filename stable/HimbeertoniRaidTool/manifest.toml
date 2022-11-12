@@ -2,7 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "01fcf253ab28028a23d9951a5e41c19c2707f5e0"
-changelog = """
-+ Option to ignore materia in BiS comparison
-* windows now can be closed with Esc"""
+commit = "17dfe1494f33f1903fe628a630a5848b91edd1d8"
+changelog = "fix: loot results window sizing hid parts of text"
