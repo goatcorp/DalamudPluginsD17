@@ -2,7 +2,11 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "01fcf253ab28028a23d9951a5e41c19c2707f5e0"
+commit = "d4ca8d41cd999b1ab80525232bdd72f9cd3f188a"
 changelog = """
-+ Option to ignore materia in BiS comparison
-* windows now can be closed with Esc"""
++ Added the ability to manually track items in inventory
+* Fixed tribe of chartacter not being saved
+* beautify Ui
++ show if item can be bought / exchanged
+* Fixed a bug with BiS detection
++ You can evaluate loot for all jobs in Solo groups"""
