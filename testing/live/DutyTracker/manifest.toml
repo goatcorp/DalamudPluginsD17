@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Xpahtalo/DutyTracker"
+repository = "https://github.com/Xpahtalo/DutyTracker.git"
 commit = "969b38df433f2b83586a085c755729c35c451f22"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
