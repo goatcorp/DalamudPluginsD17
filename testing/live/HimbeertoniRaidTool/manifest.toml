@@ -2,11 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "d4ca8d41cd999b1ab80525232bdd72f9cd3f188a"
+commit = "8e8b16c5e3d37325dba1c8871e224b5d3cd56541"
 changelog = """
-+ Added the ability to manually track items in inventory
-* Fixed tribe of chartacter not being saved
-* beautify Ui
-+ show if item can be bought / exchanged
-* Fixed a bug with BiS detection
-+ You can evaluate loot for all jobs in Solo groups"""
++ Shows cost if an item is obtainable from a shop
+* reworked item source system"""
