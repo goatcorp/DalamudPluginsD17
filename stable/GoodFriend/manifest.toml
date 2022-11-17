@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "fb89507ec10ea3c6197f675e61b1113684285aa9"
+commit = "04b86501bc1c0fc8b1c55b50306d4a4822444ab7"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "GoodFriend.Plugin"
 changelog = """
-- Added the 'QuestMarker' notification type
-- Code cleanup
-- Fixed automatica localization updates
+- Change territory update logic
+- Add check to see if the plugin is running from a 3rd-party repository
+- Make sure that DatacenterID and WorldID are recieved from the server
 """
