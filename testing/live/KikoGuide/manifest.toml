@@ -1,23 +1,14 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/KikoGuide.git"
-commit = "134c162beb379b797bfb52cdbe4af57f62d70c32"
+commit = "0b4279e1cb006f6e6280ef35119ccede30ea640d"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "KikoGuide"
 changelog = """
 New Features:
-- Updated the guide format to support more types of duties
-- Updated all UI windows look way better
-- Improved Integration/IPC support, allowing loading without restarting the plugin
-- Added the ability to lock & prevent resizing of the guide viewer window
-- Added the ability to disable hiding locked duties
-- Improved all text in the UI to be more descriptive
-- Added a 'report issue' button on the guide viewer.
-- Show a toast when a guide is available and 'auto open' is not enabled
-- Improve zone change detection logic.
-- Performance improvements
+- Add 'notes' to guides
+- Add better separation between sections
 Bug Fixes:
-- Fixed a bug wherein a duty guide would not automatically load even when entering the associated duty
-- Fixed an issue with the autoupdater not working correctly
+- Properly dispose of Wotsit IPC
 """
