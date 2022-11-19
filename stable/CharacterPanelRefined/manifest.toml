@@ -1,10 +1,21 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "f9a1a939b2b983681fa35e6921079153009ef2a5"
+commit = "1a80d438b211bdc18e8f0ad5e0f654c2243d39eb"
 owners = [
     "Kouzukii",
 ]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fix an issue that was causing the Skill Speed tooltip to be displayed incorrectly 
+Add support for GCD modifiers in tooltips and on the panel
+
+Jobs that now use their GCD modifier by default (hold Ctrl to disable):
+- SAM
+- NIN
+- MNK
+
+Jobs that can hold Ctrl to view speed stat calculations with their GCD modifier active:
+- WHM
+- BRD
+- AST
+- BLM
 """
