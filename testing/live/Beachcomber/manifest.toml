@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "09699af051e5b0f2c4db6a9f9071dee82a98c3e9"
+commit = "a73c9ae2fddc59deb843622c38fec51241ba883d"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Add 4-6-6-8 patterns to solver"
+changelog = "Many bug fixes including future groove calculation, material allocation, and problems with resting day 7"
