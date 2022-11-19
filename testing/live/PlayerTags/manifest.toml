@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "17fff4449bf20ee6ec8bdcb5e0fb51edeb1caebe"
+commit = "cfbe84d28fe26dcd3a36791b73b9677b50a05e4b"
 owners = [
     "Pilzinsel64",
 ]
@@ -23,6 +23,7 @@ There has been moved some code to a separated library in another repository for 
         - The plan for the future is to extend that feature and implement the ability to add a second icon beside the status icon.
     - Tags: Added Tag configuration templates
     - Tags: Choose for what chat type the Tag should applied to
+    - General: Gray out or completely ignore Tags for dead players
 - Other:
     - A lot minor adjustments and fixes, i don't remember yet
 - Under the hood:
