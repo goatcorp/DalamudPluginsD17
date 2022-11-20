@@ -1,21 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "1a80d438b211bdc18e8f0ad5e0f654c2243d39eb"
+commit = "1a4342da79047ef23eb3ee5b863b0aa43dbc175e"
 owners = [
     "Kouzukii",
 ]
 project_path = "CharacterPanelRefined"
 changelog = """
-Add support for GCD modifiers in tooltips and on the panel
-
-Jobs that now use their GCD modifier by default (hold Ctrl to disable):
-- SAM
-- NIN
-- MNK
-
-Jobs that can hold Ctrl to view speed stat calculations with their GCD modifier active:
-- WHM
-- BRD
-- AST
-- BLM
+Disable the GCD support since it was causing crashes until the cause has been identified.
 """
