@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
+commit = "dd84cdba26ae3e94efcaaf43ceaf034aa9bbe211"
+owners = [
+    "Kouzukii",
+]
+project_path = "CharacterPanelRefined"
+changelog = """
+Should fix crashes when using Ctrl.
+"""
