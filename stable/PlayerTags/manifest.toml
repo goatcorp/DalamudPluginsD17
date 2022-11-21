@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "ecde52a94eb702a9105e9b69d040553eeb90b80b"
+commit = "6a7e336c1a5b63ce9a6b071bd53fd66fd8dc344e"
 owners = [
     "Pilzinsel64",
 ]
