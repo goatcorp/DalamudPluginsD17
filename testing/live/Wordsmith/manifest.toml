@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "cac0ddafc27ad8189c5f79485117ad44cab9c3c2"
+commit = "92e3d601ada55e7f05a42eec30c30fa7a6dc806e"
 owners = [
     "LadyDefile"
 ]
