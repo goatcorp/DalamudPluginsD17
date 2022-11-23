@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "48973ae70184cc47b65acf00c909b5ee6ba3a9b7"
+commit = "2b61a57424b232996cfeaea81c6adebdd53a45f0"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.8
+changelog = """ Version 1.8.1
+- Fixed option \"Target Chat Type\" not working
+- Updated translation files
+
+Version 1.8
 Hello everyone!
 This update has a few new feature (such job icons, chat type selection) and some other changes.
 
