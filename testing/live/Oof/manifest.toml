@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "25d314e13cf1b04f073c3ece3ef8e58959247f3b"
+commit = "63e9cf9ccdbb50a3575eff1af78631fb13a58472"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
