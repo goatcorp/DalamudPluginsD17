@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "fd184a1efc7f76080ad60055e769a287ea70286b"
+commit = "cbd70bf28195033885578c709e8b8e9c87b0994b"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = "Added automated spell checking and an error dump for logging and reporting errors."
+changelog = "Optimized several sections of code. Updated thesaurus to use Merriam-Webster API. Fixed several bugs."
