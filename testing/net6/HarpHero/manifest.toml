@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/MgAl2O4/HarpHeroDalamud.git"
-commit = "bb2599c267f8343de281deb6b678e5edefe10892"
-owners = [
-    "MgAl2O4",
-]
-project_path = "dalamud"

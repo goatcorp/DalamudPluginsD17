@@ -1,11 +1,35 @@
 from re import compile
-from typing import Optional
+from typing import Optional, Literal
 
-from pydantic import BaseModel, Extra, validator
+from pydantic import BaseModel, Extra, validator, Field
 
 
 NUMBERS_ONLY = compile(r'^\d+$')
 VERSION = compile(r'^(\d+\.)+\d+$')
+
+Type = Literal['file']
+Image = Literal['base', 'extended']
+
+
+class Needs(BaseModel):
+    # Using a field alias here so we don't collide with the builtin `type()`
+    type_: Type = Field(alias='type')
+    # TODO: these are required if type=file, so further validation is needed
+    url: Optional[str]
+    dest: Optional[str]
+    sha512: Optional[str] # TODO: validate
+
+    class Config:
+        extra = Extra.forbid
+
+
+class Build(BaseModel):
+    image: Image = 'base'
+    needs: list[Needs]
+
+    class Config:
+        extra = Extra.forbid
+
 
 class Plugin(BaseModel):
     repository: str
@@ -36,6 +60,7 @@ class Plugin(BaseModel):
 
 
 class Manifest(BaseModel):
+    build: Optional[Build]
     plugin: Plugin
 
     class Config:

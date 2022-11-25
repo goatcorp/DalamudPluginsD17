@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+commit = "8458529ccee52dadd28528b42773d6d1f1614fab"
+owners = ["CMDRNuffin"]
+changelog = """Feature: Add support for legacy action Flying Mount Roulette
+Fix: Trying to use the mount roulette when you can't no longer eats the next cast bar"""

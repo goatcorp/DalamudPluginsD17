@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "811bb127785c20cdfceb1a460e381c6157107d8b"
+commit = "1a4342da79047ef23eb3ee5b863b0aa43dbc175e"
 owners = [
     "Kouzukii",
 ]
-project_path = ""
+project_path = "CharacterPanelRefined"
 changelog = """
-Add german and french translations
+Disable the GCD support since it was causing crashes until the cause has been identified.
 """

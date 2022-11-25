@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/lmcintyre/OrchestrionPlugin.git"
-commit = "725bc85790980a0d27fa1c90a913a2bc5d5ea821"
+commit = "9fde0358964fc03e9794be2bdfee2e958c7c0a46"
 owners = [
     "lmcintyre",
 ]
 project_path = "Orchestrion"
+changelog = "Fix from @hibiyasleep that prevents crashes on invalid sheet info. Added back red song names for songs that are not currently present."

@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "cebecc949db6f495016ab9693c97691d730c4d78"
+commit = "811845cde73a9677dd0a2bc66e68209db9ec6674"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """You can now use Neko Fans to view Twitter images!
+changelog = """You are now able to view animated GIFs \\o/
 
-- Added Slideshow feature to automatically advance to the next image
-- Better Error handling (no more error.jpg)
-- Added API: Twitter User Tweet timeline
-- Added API: Twitter Search
-- Fixed: Pic.re images not opening in Browser"""
+- Reduced image memory usage by 50%
+- Reworked error management system to improve stability
+- Updated API: Nekos.life to display GIFs
+- Updated API: Nekos.best to display GIFs
+- Updated API: Waifuim to display GIFs"""

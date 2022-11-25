@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/karashiiro/TextToTalk.git"
+commit = "104c9eb95eaf564f841b73120f54938f5d9b3ce9"
+project_path = "src"
+owners = ["karashiiro"]
+changelog = """\
+- Adds support for voice presets to all voice backends
+- Adds support for assigning voice presets to players using their name and world
+"""

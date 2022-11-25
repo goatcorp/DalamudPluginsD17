@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "b39b201ddd791429ed62b9db1ba1da7b6d519089"
+commit = "cbd70bf28195033885578c709e8b8e9c87b0994b"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = "Fixed a minor bug. Added delete pad confirmation window. Removed context window option."
+changelog = "Optimized several sections of code. Updated thesaurus to use Merriam-Webster API. Fixed several bugs."

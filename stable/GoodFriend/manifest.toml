@@ -1,7 +1,12 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "409d6cce5958f18076802d906082257134dddd33"
+commit = "8cfd244eb318820811717ce44464b09f435550dd"
 owners = [
     "BitsOfAByte",
 ]
-project_path = "src/GoodFriend.Plugin"
+project_path = "GoodFriend.Plugin"
+changelog = """
+- Added the ability to filter the event log by log level
+- Various PluginLog level changes
+- Server-side optimizations
+"""

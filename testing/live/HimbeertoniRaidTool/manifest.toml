@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "cafeb880676834f1936f5022ad7f6ea947afa8fb"
-owners = ["Koenari"]
+owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-changelog = "You can now edit gear manually\nNew player experience should be better now"
+commit = "006f467bade3895fe4ac54cddec021474e337f88"
+changelog = """
++ Shows cost if an item is obtainable from a shop
+* reworked item source system"""

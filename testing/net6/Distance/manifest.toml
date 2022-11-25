@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "fcbde93beefe5b7effd07bebc0bbe06a48a4513b"
-owners = [
-    "PunishedPineapple",
-]
-project_path = "Distance"
-changelog = "Updated for Dalamud API7"
