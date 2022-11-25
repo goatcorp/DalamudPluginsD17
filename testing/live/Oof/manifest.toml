@@ -2,7 +2,8 @@
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
 commit = "50bdfd14fc15be0fe144564efd23cbdec69e5e42"
 owners = [
-    "Frogworks Interactive"
+    "Frogworks Interactive",
+    "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
