@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "63280095182d97b81c0db08eaa9b2fde1d6b1956"
+commit = "8cfd244eb318820811717ce44464b09f435550dd"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "GoodFriend.Plugin"
 changelog = """
-- Change territory update logic
-- Add check to see if the plugin is running from a 3rd-party repository
-- Make sure that DatacenterID and WorldID are recieved from the server
-- Add additional security when generating hashes to prevent the server reciving the same one twice, increasing anonimity.
+- Added the ability to filter the event log by log level
+- Various PluginLog level changes
+- Server-side optimizations
 """
