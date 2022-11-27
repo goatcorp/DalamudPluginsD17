@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "2b61a57424b232996cfeaea81c6adebdd53a45f0"
+commit = "e9617b624e80a8bea51de78eeffc147d504b23f8"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.8.1
+changelog = """ Version 1.8.2
+- Updated translation files
+
+Version 1.8.1
 - Fixed option \"Target Chat Type\" not working
 - Updated translation files
 
