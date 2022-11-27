@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/avafloww/Waitingway.git"
+commit = "c2973121f69a1d6ac5e3e71df0f955430002e5ac"
+owners = ["avafloww", "NPittinger"]
+project_path = "Waitingway.Dalamud"
+changelog = "Updated for Dalamud API 7"
