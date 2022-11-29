@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "55b211afb3b68380474aa7a5e23e19126bafdde5"
+commit = "13a79e382511cd427ddb30ab93323288d48a7505"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "GoodFriend.Plugin"
 changelog = """
-- Added the ability to filter the event log by log level
-- Various PluginLog level changes
-- Server-side optimizations & dependancy updates
+- Fix plugin load error when using an API URL that does not exist
+- Fix 'API Notifications' not showing error notifications
+- Clarify localization strings
 """
