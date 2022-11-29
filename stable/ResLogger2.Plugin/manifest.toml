@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lmcintyre/ResLogger2.git"
-commit = "71373466a5d6423b11199aaec5a8631fc1677a0f"
+commit = "6e87fc62f161c5fbfcdccae135d8ac451e1c8664"
 owners = [
     "lmcintyre",
 ]
