@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
+commit = "562863287956d10b496c42f41fb6a2fe3faa6f56"
+owners = [
+    "Xpahtalo",
+]
+project_path = "ffxiv2Mqtt"
+changelog = """Add party list information."""
