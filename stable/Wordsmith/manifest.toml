@@ -1,25 +1,18 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "fa4a2a511615123630e20e725d3c6ea2f53a364f"
+commit = "e5dcf333c6dfbaea1f2c17ea60f3797b341b3a9b"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """Bug Fixes: 
-    [x] Aliases not fixing header properly
-    [x] Scale issue causing buttons to be cut off at bottom of Scratchpad.
-    [x] "Close" button showing incorrectly for history.
-    [x] Aliases being parsed is leaving an extra space after.
-    [x] Aliases for linkshells not working properly.
-    [x] Confirm Scratch Pad Delete not functional on Auto-Delete
-    [x] Typing a capital letter into the thesaurus could cause the thesaurus to fail to load result
-    [x] Wordsmith failing to load dictionary manifest due to HTML response 304 even with retries.
-    [x] Wordsmith failing to load dictionary.
+changelog = """New Features:
+    [X] Customizable size of text entry.
+    [X] Scratch Pad settings are now organized into categories with collapsing headers.
+
+Bug Fixes:
+    [X] Headers should not leave behind extra characters when parsed anymore.
+    [X] Header color settings require applying now.
 
 Notes:
-    [x] Reworked handling of header parsing to use Regex to better identify headers including aliased headers.
-    [x] Scale issue resolved. The issue was caused by adding frame padding to expected header/footer size prior to applying scale which threw off calculation.
-    [x] "Close" button was inside unclosed history child frame causing it to load in the wrong location.
-    [x] Refactored Global.cs. Many objects in the Global file did not need global scope and were instead moved to the files where they were actually used.
-    [x] The retries for loading the manifest failed to reset the IfModifiedSince flag due to a scoping issue. Wordsmith should now load the dictionary more reliably.
-    [x] The dictionary could fail to load from error 304. Added retries in the same way that was done to loading manifest. Wordsmith should now load the dictionary more reliably."""
+    [X] Renamed Ctrl+Enter Key behavior 0 from "None" to "New Line" to better represent what the behavior actually does.
+    [X] Sealed several classes"""
