@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "13a79e382511cd427ddb30ab93323288d48a7505"
+commit = "57aae3ee62515ffc4a705a0d11c74ff446ce0e3e"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "GoodFriend.Plugin"
 changelog = """
-- Fix plugin load error when using an API URL that does not exist
-- Fix 'API Notifications' not showing error notifications
-- Clarify localization strings
+- Add support for recieving friend notifications inside of content where the friends list is unavailable
+- Improve localization support for settings
+- Add new setting 'Friendslist Caching'
 """
