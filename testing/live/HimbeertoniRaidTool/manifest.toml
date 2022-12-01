@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "b76a795e33466d15e6c3a86e6a3b008120f62faf"
+commit = "44ae21bbb5e82a352a2414b9cfb264fec92a141b"
 changelog = """
 + new loot distribution
 + includes guarranteed drops (eg. books)
