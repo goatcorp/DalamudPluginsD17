@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "f01d6696b59e9e8e15aac2ae0d26dfdae3cdb610"
+commit = "e2ec3628b6c78c0b18481dd69387eff754d33032"
 owners = ["Kirrana"]
 project_path = "SamplePlugin"
-changelog = "Added feedback when toggling on/off"
+changelog = "Merged pull request that adds GUI with enable on startup option & changes manual toggling to '/physics on' '/physics off'"
