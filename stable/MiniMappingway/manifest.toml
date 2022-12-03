@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/jaycewhite/MiniMappingway.git"
+commit = "3588fd47c4f83d5e6e95075c42360be1f9dd3cbd"
+owners = [
+    "jaycewhite"
+]
+changelog = "Bug fix for mobs showing on minimap sometimes"
+version = "1.0.0.1"

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Lharz/xiv-currency-alert.git"
+commit = "d0e239a0c156ecd4907b6e0961f0dffd7761b7ef"
+owners = ["Lharz"]
+project_path = "CurrencyAlert"
+changelog = "Added images for currencies"

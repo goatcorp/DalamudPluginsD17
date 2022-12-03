@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/LittleNightmare/UsedName.git"
+commit = "9d5d151200d31c5cdb4af8fc9ed2c57cc5742b09"
+owners = [
+    "LittleNightmare"
+]
+project_path = "UsedName"
+changelog = """
+- fix not save change immediately
+- fix potential transfer data issues
+"""

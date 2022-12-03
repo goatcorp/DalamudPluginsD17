@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "874a41b8a8373ec36b5da14a35803b7e5e97f48a"
+commit = "c40ca49a788e69bdf09f7dc3113faf99ff65e234"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ Stable release
-+ Possible fix for font not loading in a rare case
-+ Fix crash in tournament mode
-+ Cleanup for Venue and DeathRoll mode
++ Fix regex not working for some display name types
 """

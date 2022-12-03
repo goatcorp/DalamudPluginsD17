@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/marconsou/mp-tick-bar.git"
-commit = "77128d8bd0cedf91ba2da9161513ed6a6b16774e"
+commit = "787e17d516d230b4c7915886497e3fd6e74b9e3e"
 owners = ["marconsou"]
 project_path = "MPTickBar"
-changelog = ".net6 and D17 migration"
+changelog = """Version 1.4.1.3
+- (Reconfiguration required) Visibility options have been reworked for better flexibility configuration. 
+- Users should take a look at this and hide indesired UI elements if needed.
+Version 1.4.1.4
+- Added more visibility options.
+"""

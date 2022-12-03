@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
+owners = [ "Koenari" ]
+project_path = "HimbeertoniRaidTool"
+commit = "17dfe1494f33f1903fe628a630a5848b91edd1d8"
+changelog = "fix: loot results window sizing hid parts of text"

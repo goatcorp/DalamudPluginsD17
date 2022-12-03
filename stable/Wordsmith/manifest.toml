@@ -1,8 +1,18 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "fd184a1efc7f76080ad60055e769a287ea70286b"
+commit = "e5dcf333c6dfbaea1f2c17ea60f3797b341b3a9b"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = "Added automated spell checking and an error dump for logging and reporting errors."
+changelog = """New Features:
+    [X] Customizable size of text entry.
+    [X] Scratch Pad settings are now organized into categories with collapsing headers.
+
+Bug Fixes:
+    [X] Headers should not leave behind extra characters when parsed anymore.
+    [X] Header color settings require applying now.
+
+Notes:
+    [X] Renamed Ctrl+Enter Key behavior 0 from "None" to "New Line" to better represent what the behavior actually does.
+    [X] Sealed several classes"""

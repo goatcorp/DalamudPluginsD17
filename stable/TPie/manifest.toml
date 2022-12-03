@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "f358b6b340ea3f90b351e2c5e651fa4bb3cb5341"
+commit = "ce34aa55e59a898aeb313d3f538448d283fab2fa"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "Added support for Patch 6.2 and Dalamud Api7."
+changelog = "- Added a filter to only show acquired emotes when searching.\n- Fixed some emotes not working."

@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/cassandra308/WhereAmIAgain.git"
+commit = "11ad2f1843d17a847e929c5a73ced3caee93408b"
+owners = [
+	"cassandra308",
+	"reiichi001",
+	"MidoriKami"
+]
+project_path = "WhereAmIAgain"
+changelog = "Major refactor by MidoriKami. \nVast performance improvements and a new configurable UI. \nAlso can do instance numbers now."

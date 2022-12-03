@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "862fa101f75ba27610de8bc5277769a2f49da20f"
-owners = ["Tischel"]
-project_path = "InventorySearchBar"
-changelog = "- Updated CriticalCommonLib which fixes some performance issues.\n- Fixed inventory tabs being hard to click due to the search bar having a bigger clickable area than intended."

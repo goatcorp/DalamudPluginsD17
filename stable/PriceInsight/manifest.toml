@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
+commit = "8c1e7aabeed2919a95197e3d2fa8489a24ac1e37"
+owners = [
+    "Kouzukii",
+]
+project_path = ""
+changelog = """
+With improvements to the Universalis API, prefetching is now enabled by default again.
+"""
