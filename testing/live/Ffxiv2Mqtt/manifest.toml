@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "562863287956d10b496c42f41fb6a2fe3faa6f56"
+commit = "8f69c80e77354eabe19044a184079b798d20883e"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """Add party list information."""
+changelog = """Party changes are now blocked at the end of the duty when everyone is leaving. They will update correctly when you leave."""
