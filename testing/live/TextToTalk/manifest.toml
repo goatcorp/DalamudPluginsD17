@@ -5,5 +5,5 @@ project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
 - Supports multiple voice presets per gender option (thanks spinda!)
-- Fixes a variety of configuration-related errors.
+- Fixes a variety of configuration-related errors
 """
