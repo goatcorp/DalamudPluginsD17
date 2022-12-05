@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/DutyTracker.git"
+commit = "fc619b9dbf945e81be90f37d6c5d8e3cebb6dbdf"
+owners = ["Xpahtalo"]
+project_path = "DutyTracker"
+changelog = """first version"""

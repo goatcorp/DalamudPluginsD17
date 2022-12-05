@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "17dfe1494f33f1903fe628a630a5848b91edd1d8"
-changelog = "fix: loot results window sizing hid parts of text"
+commit = "b28c0ee6e946b2ed11860371fa598330b9946446"
+changelog = "* fix a potential crash un updating gear"
