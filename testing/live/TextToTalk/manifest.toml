@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "3ec82d6775265a5b7ef99be84eaafcdaa7662555"
+commit = "18ec2bb1f32008a7991aedc0c578eadae2a13359"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Supports multiple voice presets per gender option (thanks spinda!)
-- Fixes a variety of configuration-related errors
+- Possibly fixes random errors when reading messages in some chat channels
 """
