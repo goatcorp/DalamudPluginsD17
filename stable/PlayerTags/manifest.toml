@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "e9617b624e80a8bea51de78eeffc147d504b23f8"
+commit = "5bb3335af6f6613677c7c819082a3865557edd1b"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.8.2
+changelog = """ Version 1.8.3
+- Tag: Added option to also include undefined Chat Types
+    --> Fixes that Tags get not applied to specific Chat Types anymore (like combat log)
+
+Version 1.8.2
 - Updated translation files
 
 Version 1.8.1
