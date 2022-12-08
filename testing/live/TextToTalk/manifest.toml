@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "18ec2bb1f32008a7991aedc0c578eadae2a13359"
+commit = "efd7e49bcddcf35f241893bb312fa8643dd1b0d8"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Possibly fixes random errors when reading messages in some chat channels
+- Possibly fixes random errors when reading messages in some chat channels (again)
 """
