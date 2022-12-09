@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "8cfd244eb318820811717ce44464b09f435550dd"
+commit = "e899ad08c37f3d54a5f60bfb1b2b916372ac82a3"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "GoodFriend.Plugin"
 changelog = """
-- Added the ability to filter the event log by log level
-- Various PluginLog level changes
-- Server-side optimizations
+- Add support for recieving friend notifications inside of content where the friends list is unavailable
+- Improve localization support for settings
+- Add new setting 'Friendslist Caching'
 """

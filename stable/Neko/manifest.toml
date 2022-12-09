@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "811845cde73a9677dd0a2bc66e68209db9ec6674"
+commit = "17ecaf498ce466e49d34573322de7b6c437eff3c"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """You are now able to view animated GIFs \\o/
-
-- Reduced image memory usage by 50%
-- Reworked error management system to improve stability
-- Updated API: Nekos.life to display GIFs
-- Updated API: Nekos.best to display GIFs
-- Updated API: Waifuim to display GIFs"""
+changelog = """- Updated API: WAIFU.IM to call new endpoint"""
