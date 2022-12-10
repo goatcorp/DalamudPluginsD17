@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "45e8e2399805b9183cac987c9a5298bfc5d755de"
+commit = "93bdf2015bbcaeb8e201f5adb754555b5c0df101"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
 changelog = """Added the ability to look at stats on all the duties that you have run this session."""
