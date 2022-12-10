@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "4ceeb60c65c3353ff5f7bd9626774253edb1aa18"
+commit = "8f69c80e77354eabe19044a184079b798d20883e"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """Bard and Dancer now send the correct data."""
+changelog = """Party status has been added as a topic."""
