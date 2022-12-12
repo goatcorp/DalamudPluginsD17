@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "1678792a1d88ad9d102f324d83afeb7b08bda124"
-changelog = "### 2.0.1 (2022-12-09)\n\n\n### Bug Fixes\n\n* stop console spam of null reference from unsafe code (e365654)"
-version = "2.0.1"
+commit = "5a00f977a7e27b3eda67d84dca819a8691b0a9b2"
+changelog = "### 2.0.2 (2022-12-12)\n\n\n### Bug Fixes\n\n* null reference with legacy window when mob note is not set (4eab828)"
+version = "2.0.2"
