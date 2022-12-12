@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "1678792a1d88ad9d102f324d83afeb7b08bda124"
-changelog = "### 2.0.1 (2022-12-09)\n\n\n### Bug Fixes\n\n* stop console spam of null reference from unsafe code (e365654)"
-version = "2.0.1"
+commit = "ce4da257524e9d1f48a104870cea91f87dd7e3f1"
+changelog = "### 2.0.3 (2022-12-12)\n\n\n### Bug Fixes\n\n* certain mob notes not being displayed correctly (da2a304)\n* config not being loaded properly after 2.0 (3bb7912)\n* lower load times with not loading many fonts. (0bef8a8)"
+version = "2.0.3"
