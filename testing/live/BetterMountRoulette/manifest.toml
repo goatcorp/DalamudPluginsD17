@@ -1,5 +1,8 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "49e1c633cef76b52e8f01f8b90e608e64776aaeb"
+commit = "de250048930f26f6b7e5666704286f01516f9d72"
 owners = ["CMDRNuffin"]
-changelog = "Fix: config would not be applied at boot"
+changelog = """Features:
+- Add mount groups
+- Associate each mount roulette with a separate mount group (or none at all)
+- Summon a mount from a specified group via /pmount <group name>"""
