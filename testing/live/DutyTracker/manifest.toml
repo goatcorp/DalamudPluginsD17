@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "de81486597183b2121147685320363fa9718e740"
+commit = "c54754c7cd1e2c6adc695868fc5b9e22a6c41791"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """Cleaned up the UI to make it more usable."""
+changelog = """UI bug fixes"""
