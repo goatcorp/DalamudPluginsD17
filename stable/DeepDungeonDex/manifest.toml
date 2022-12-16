@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "7dd279cf1e993874aa245ffc5f0e36ee30722a81"
+commit = "542b8330a64c1589335cddbc74700a51fb2ca9b0"
 changelog = "## 2.1.0 (2022-12-16)\n\n\n### Features\n\n* add unknown status for all weakness types (4a96a40)\n\n\n### Bug Fixes\n\n* do some additional disposes for windows (f807c9e)"
 version = "2.1.0"
