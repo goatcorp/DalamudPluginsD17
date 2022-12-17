@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "c62ee60938591a91d29f8a18ff3433c8f7cd3988"
+commit = "acd4fba8c6da23be3d495fc63c8c6cd62a6eb54f"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.0.2
-- Lots of improvements on Statistics Window.
+changelog = """Version 0.0.1.0
+- Added Cairn of Passage Kills (Statistics Window).
+- Added Pomanders used (Statistics Window).
+- Added Job Icon (Statistics Window).
+- Added Show Title option (Floor Set Time and Score Window)
 """
