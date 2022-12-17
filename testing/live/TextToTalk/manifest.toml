@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "efd7e49bcddcf35f241893bb312fa8643dd1b0d8"
+commit = "b0855d32205eb89ac18ca0443cefcfb35c417561"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Possibly fixes random errors when reading messages in some chat channels (again)
+- Adds experimental option to skip TTS for voice-acted dialogue (thanks spinda!)
+- Adds experimental support for Azure Cognitive Services
 """
