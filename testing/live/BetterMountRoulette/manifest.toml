@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "59aed43f74805df0d270b46c58f32a82ed70183f"
+commit = "b8f94cbc77d54dec2c2959bc67f41f10a693eda6"
 owners = ["CMDRNuffin"]
 changelog = """Features:
 - Add mount groups
