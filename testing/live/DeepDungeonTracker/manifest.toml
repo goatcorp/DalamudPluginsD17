@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "acd4fba8c6da23be3d495fc63c8c6cd62a6eb54f"
+commit = "63745492842bf6ea4c869e0675132e38b7f7e94e"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.1.0
+changelog = """Version 0.0.1.1
+- Added new commands.
+- Save slot deletion rework.
+Version 0.0.1.0
 - Added Cairn of Passage Kills (Statistics Window).
 - Added Pomanders used (Statistics Window).
 - Added Job Icon (Statistics Window).
