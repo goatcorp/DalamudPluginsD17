@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "63745492842bf6ea4c869e0675132e38b7f7e94e"
+commit = "681de5679bb026300a272f2a8f49d5df723ebb36"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.1.1
+changelog = """Version 0.0.1.2
+- Added serenized enchantments (Statistics Window)
+- Added Time Bonus miss score (Statistics Window)
+- String comparison fixes (for non-english client)
+Version 0.0.1.1
 - Added new commands.
 - Save slot deletion rework.
 Version 0.0.1.0
