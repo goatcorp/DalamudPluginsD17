@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
-commit = "6f9c68fad237d34ba849b053219ca5df767f6ea1"
+commit = "11764af8708ee67e5a78e475cc09d95af9b0a2ee"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-- Reenabled the preset editor, which now includes a warning message about out of bounds waymarks.
+- Fixes layout issues that could make the editor unusable at some non-standard font scales and/or with languages other than English.
 '''
