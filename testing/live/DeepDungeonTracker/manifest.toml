@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "226ef94b82baa79bfae99778ec8f6773fb4d8080"
+commit = "860b20a1f2cadabb29d43d15c015ea910ff85e00"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.1.3
+changelog = """Version 0.0.1.4
+- Added kill count on Summary (Statistics Window)
+Version 0.0.1.3
 - Added a backup system (Statistics tab)
 Version 0.0.1.2
 - Added serenized enchantments (Statistics Window)
