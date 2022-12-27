@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "e2b2b0f2cac708484dbe5c9ee9681d5631251362"
+commit = "3906eae053f9b3c2c91f5ac656fa39f0864eefe7"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes plugin load/config failures when updating from v1.16 or v1.17
+- Fixes more plugin load/config failures when updating from v1.16
 """
