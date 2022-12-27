@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "6f3f26e3342e6e2f095c3e20b0aa7bbedca97d0a"
+commit = "e2b2b0f2cac708484dbe5c9ee9681d5631251362"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Adds support for Azure Cognitive Services
-- Adds support for voice presets to all voice backends
-- Adds support for assigning voice presets to players using their name and world
-- Adds support for multiple voice presets per gender option (thanks spinda!)
-- Adds experimental option to skip TTS for voice-acted dialogue (thanks spinda!)
+- Fixes plugin load/config failures when updating from v1.16 or v1.17
 """
