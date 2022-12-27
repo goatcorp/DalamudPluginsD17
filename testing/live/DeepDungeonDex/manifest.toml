@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
+owners = [ "wolfcomp" ]
+project_path = "DeepDungeonDex"
+commit = "4e01e9a1129fba02afc5e64442997b2b96715a48"
+changelog = "## 2.2.0 (2022-12-27)\n\n\n### Features\n\n* add floor guide window (ef5026e)\n\n\n### Bug Fixes\n\n* potentially fix some cast issues with setting language (a384173)"
+version = "2.2.0"
