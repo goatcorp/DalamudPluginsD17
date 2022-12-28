@@ -1,31 +1,53 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "f8e02daa14894cbb62faf36149e57a361d10ee26"
+commit = "5e5ae8c1049acd24cd1cec68ade713ffef724931"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.7.7 Patch Notes
+changelog = """# Wordsmith v1.8.0 Patch Notes
 
 ## New Features:
-* Using Ctrl+C in the text input of a ScratchPad will now copy the unwrapped text. (This will not include headers)
+ * Added another placeholder for marker text `#r` is replaced with the number of remaining chunks.
+ * Added an entire new marker system that allows the user to insert marks with several customization options.
 
 ## UI Changes:
-* Open Scratch Pads in the ScratchPads tab of the Settings UI now has a minimum size. (See bug fixes 1)
-* Added a `Show Advanced Settings` option to the settings page to hide and show the more advanced settings of the plugin.
-* The `Bug?` button in Settings will now show a message box that gives the user an idea of what kind information to include in a bug report.
-* The `Bug?` button in Settings has been renamed to `Found A Bug?`
-* Added a tooltip to the `Buy Me A Ko-Fi` button that explains the nature of the button.
-* Redesigned the `Replace Text Suggestions` list
+ * Added a `Marks & Tags` Category to scratch pad settings.
+ * Moved `OOC` Options to `Marks & Tags` category.
+ * Added an option to enable `OOC` by default to `Marks & Tags`.
+ * Added a marks list to `Marks & Tags` category.
+ * Added a `New Marker` section to `Marks & Tags` category list.
+ * Changed the tooltip for `OOC` toggle in Scratch Pads to say `OOC markers` instead of `OOC double parenthesis`
+ * Scratch Pad maximum size increased to `float.MaxValue`
 
-## Bugs Fixed:
-1. The height of the `Open Scratch Pads` section in the ScratchPads tab of the Settings UI could become 0 if there was no room left in the window.
-2. Major performance loss with large text entries.
-3. Right clicking on the `Replace Text` input field would cause word wrapping to temporarily break.
+## Bugs:
+ [FIXED] `Punctuation Cleaning List` in advanced spell check settings does not reset.
+ [FIXED] `Punctuation Cleaning List` not saving with settings.
+ [FIXED] Chunk data not updating when settings saved.
+ [FIXED] The text input box could scroll to the right on accident with no way to scroll back.
+ [FIXED] Error window could fail if an IntPtr was included in the dump data.
 
 ## Technical Stuff:
-* PadState class has been moved to the DataTypes.cs file
-* Added more error reporting in an attempt to catch a bug that was reported.
-* Adjusted the way UI is drawn in the ScratchPad (Switching away from tables. No visual difference should be noticeable)
-* Removed some unnecessary `if` statements from the saving settings process.
-* There was a minor calculation issue in the way text was displayed that was causing a massive drop in performance. By changing the way the calculation is handled I was able to bring massive performance gains to Wordsmith. I sincerely apologize to everyone for any performance issues they may have experienced with Wordsmith until this point."""
+ * Sealed `PadState` class
+ * Added `ChunkMarker` class to `DataType.cs`
+ * `TextChunk.CompleteText` removed. This has been refactored as a new method `CreateCompleteText(TextChunk)` in `ScratchPadUI.cs`
+ * Added more error dumping to all UI forms.
+ * `ScratchPadUI.DrawChunkDisplay()` now factors in `ChunkMarker`'s
+ * `ScratchPadUI.DrawChunkItem()` Completely refactored to include `ChunkMarker`'s in the correct places
+ * `ScratchPadUI.DrawHistoryItem()` Now grabs `ChunkMarker`'s from settings.
+ * `ChatHelper.FFXIVify()` Now factors in all markers.
+ * Added more debug commands.
+ * Added a `ReplacePlaceholders()` extension method for strings to `Extensions.cs` to ensure predictable behavior.
+ * Moved global usings to `Wordsmith.cs`
+ * Moved global fields to `Wordsmith.cs`
+ * Moved `Global.BUTTON_Y_SCALED` to extension method as int.Scale()
+ * Changed the way that settings were reset from a custom reset function to simply replacing the Configuration object with `new()` and saving.
+ * Removed several unused members from `ScratchPadUI.cs`
+ * Reorganized `ScratchPadUI.cs` members into more logical code regions.
+ * Removed `ScratchPadUI.cs` alert system in favor of error window system. Spelling errors are now the only error shown.
+ * Added a wrapper method `ImGuiExt.SetHoveredTooltip(string)` for `ImGui.SetTooltip(string)` that bundles the `if (ImGui.IsItemHovered())` check
+ * Removed unused packages.
+ * Spell checking is no-longer done on its own thread.
+ * Added another console command to edit spell check settings.
+ * Commented many lines of code that didn't have it and summarized many properties, methods, and functions.
+"""
