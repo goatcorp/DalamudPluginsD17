@@ -1,16 +1,18 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "0065645346749ce8847e958e6583de97513f9381"
+commit = "781f63a2e5e2b35bf898627d20d4b1ef1267c9ea"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.1.4
-- Added kill count on Summary (Statistics Window)
+changelog = """Version 0.0.1.5
+- UI adjustments and fixes.
+Version 0.0.1.4
+- Added kill count on Summary (Statistics Window).
 Version 0.0.1.3
-- Added a backup system (Statistics tab)
+- Added a backup system (Statistics tab).
 Version 0.0.1.2
-- Added serenized enchantments (Statistics Window)
-- Added Time Bonus miss score (Statistics Window)
-- String comparison fixes (for non-english client)
+- Added serenized enchantments (Statistics Window).
+- Added Time Bonus miss score (Statistics Window).
+- String comparison fixes (for non-english client).
 Version 0.0.1.1
 - Added new commands.
 - Save slot deletion rework.
@@ -18,5 +20,5 @@ Version 0.0.1.0
 - Added Cairn of Passage Kills (Statistics Window).
 - Added Pomanders used (Statistics Window).
 - Added Job Icon (Statistics Window).
-- Added Show Title option (Floor Set Time and Score Window)
+- Added Show Title option (Floor Set Time and Score Window).
 """
