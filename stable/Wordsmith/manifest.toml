@@ -1,36 +1,31 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "7f93ea0cbaf819a8503207a5b9201a9eacfce621"
+commit = "f8e02daa14894cbb62faf36149e57a361d10ee26"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """New Features:
-    [X] Using the command /scratchpad {id} with a deleted ID will now create a new pad with the recycled ID.
-    [X] Using the command /scratchpad {id} with an unused ID will now create a new pad with the new ID (yes, /scratchpad 42069 works).
-    [X] Named Scratch Pads! You can now use /scratchpad followed by any name you want to create a pad with a custom tag that will even show in the settings window.
-    [X] Added a notice system to tell users about the new features and things. (Can be disabled in Settings General tab.)
+changelog = """# Wordsmith v1.7.7 Patch Notes
 
-UI Changes:
-    [X] Open Scratch Pads table moved to a child frame with its own scrollbar.
-    [X] Open Scratch Pads table now has a "Hide" button for visible pads where the "Show" button appears for hidden pads.
-    [X] Updated message box/error alert behavior. Alerts/Message Boxes will now display centered in the screen and cannot be moved or folded.
-    [X] Message boxes now automatically size themselves.
-    [X] SettingsUI Open Scratch Pads "Chat Header" column renamed to "Description".
-    [X] SettingsUi now has a "General" section.
+## New Features:
+* Using Ctrl+C in the text input of a ScratchPad will now copy the unwrapped text. (This will not include headers)
 
-Bug Fixes:
-    [X] The "Close" button in Settings for open pads will now use the "Confirm Scratch Pad Delete" configuration option.
-    [X] Fixed a loop issue that caused loading web manifest and dictionary files to always try three times instead of stopping at the first successful attempt.
-    [X] Fixed a bug that could cause Confirm Delete Scratchpads setting to be accidentally changed.
+## UI Changes:
+* Open Scratch Pads in the ScratchPads tab of the Settings UI now has a minimum size. (See bug fixes 1)
+* Added a `Show Advanced Settings` option to the settings page to hide and show the more advanced settings of the plugin.
+* The `Bug?` button in Settings will now show a message box that gives the user an idea of what kind information to include in a bug report.
+* The `Bug?` button in Settings has been renamed to `Found A Bug?`
+* Added a tooltip to the `Buy Me A Ko-Fi` button that explains the nature of the button.
+* Redesigned the `Replace Text Suggestions` list
 
-Technical Stuff:
-    [X] Refactored DebugUI.cs in a way that has compressed the code down and made it easier to read and understand.
-    [X] Removed obsolete interface.
-    [X] Removed unnecessary methods ShowResetDictionary() and ShowRestoreSettings() which were just wrapper methods for ShowMessageBox()
-    [X] Restructured Rect struct to accomodate more uses.
-    [X] Added a GetWindowName() method to several windows to prevent window naming errors.
-    [X] Refactored extension methods GetProperties(...) and Dump(...) to use obj instead of obsolete interface IReflected
-    [X] Updated the Wordsmith.cs header comment.
-    [X] Refactored WordsmithUI.AddWindow(Window?) to alleviate a bug that could result in adding an already existing window if the window_lock was disabled.
-    [X] WordsmithUI.CleanWindowList() should now abort while windows are locked."""
+## Bugs Fixed:
+1. The height of the `Open Scratch Pads` section in the ScratchPads tab of the Settings UI could become 0 if there was no room left in the window.
+2. Major performance loss with large text entries.
+3. Right clicking on the `Replace Text` input field would cause word wrapping to temporarily break.
+
+## Technical Stuff:
+* PadState class has been moved to the DataTypes.cs file
+* Added more error reporting in an attempt to catch a bug that was reported.
+* Adjusted the way UI is drawn in the ScratchPad (Switching away from tables. No visual difference should be noticeable)
+* Removed some unnecessary `if` statements from the saving settings process.
+* There was a minor calculation issue in the way text was displayed that was causing a massive drop in performance. By changing the way the calculation is handled I was able to bring massive performance gains to Wordsmith. I sincerely apologize to everyone for any performance issues they may have experienced with Wordsmith until this point."""
