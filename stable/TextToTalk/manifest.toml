@@ -1,9 +1,16 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "8592ff5d957fdeaa0ccbc92b2629140c4f32075c"
+commit = "a84b01017d0da2975b26e4f7f4ad8012e13e2e51"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes more plugin load/config failures when updating from v1.16
-- Fix configuration window resizing
+- Adds several new configurable chat types:
+  - `Enemy defeated by you`
+  - `Action readied by engaged enemy`
+  - `Damage you are dealt`
+  - `Failed attacks on you`
+- Adds a notice after updates when you don't have any voice presets configured
+- Adds an option to skip TTS for your own messages
+- Sorts Uberduck voices by category and name
+- Saves the config after creating a new voice preset that hasn't been modified
 """
