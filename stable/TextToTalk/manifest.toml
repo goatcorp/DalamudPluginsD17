@@ -1,16 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "a84b01017d0da2975b26e4f7f4ad8012e13e2e51"
+commit = "2a7623640bade543888886e71302f2e764ebdf69"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Adds several new configurable chat types:
-  - `Enemy defeated by you`
-  - `Action readied by engaged enemy`
-  - `Damage you are dealt`
-  - `Failed attacks on you`
-- Adds a notice after updates when you don't have any voice presets configured
-- Adds an option to skip TTS for your own messages
-- Sorts Uberduck voices by category and name
-- Saves the config after creating a new voice preset that hasn't been modified
+- Fixes "skip own messages" breaking all TTS besides your own, regardless of if it was checked or not
 """
