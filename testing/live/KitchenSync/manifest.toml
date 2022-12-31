@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/KitchenSync.git"
-commit = "33e158196ca01e015519c4e2e04fbfb94104099d"
+commit = "f15543a74bb9a0ebcaf6581d08f19ab6fd2eff2b"
 owners = ["MidoriKami"]
 project_path = "KitchenSync"
