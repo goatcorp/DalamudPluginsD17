@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/BitsOfAByte/Wholist.git"
+commit = "333d0e5cde5720936aaae7ace213853336b4e315"
+owners = [
+    "BitsOfAByte",
+]
+project_path = "Wholist"
