@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "083438eff70323b92465a44405c655d4be64b84c"
+commit = "e2a714e37770de9cd5b41729962523025ef9a27a"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "GoodFriend.Plugin"
 changelog = """
-- Add support for recieving friend notifications inside of content where the friends list is unavailable
-- Improve localization support for settings
-- Add new setting 'Friendslist Caching'
+- Optimizations and improvements
 """
