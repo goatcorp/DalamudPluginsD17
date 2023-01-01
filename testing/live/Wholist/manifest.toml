@@ -1,7 +1,14 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "333d0e5cde5720936aaae7ace213853336b4e315"
+commit = "afece6d3b1dc2b938ca5db440c6870bee84f0148"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
+changelog = """
+Fixes:
+    - Fix list displaying a 'level 0 adventurer' when the examine/adventurer plate window was open
+
+Translations
+- Add full Japanese translation.
+"""
