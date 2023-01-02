@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/reiichi001/CrashFFXIVPlugin.git"
+commit = "3ac890615f5eb57eae8149b8c7eadbaba5a30b90"
+owners = [
+	"reiichi001",
+]
+project_path = "CrashFFXIVPlugin"
+changelog = "Don't actually merge this. But the plugin is perfect now."
