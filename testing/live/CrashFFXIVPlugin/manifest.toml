@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/CrashFFXIVPlugin.git"
-commit = "cdfbb992bab69ff2edf0c27ec2fb94da6d894cd7"
+commit = "7daffdb9409712d319053a552d47fc9a5cff4daf"
 owners = [
 	"reiichi001",
 ]
