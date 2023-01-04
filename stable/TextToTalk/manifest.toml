@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "3906eae053f9b3c2c91f5ac656fa39f0864eefe7"
+commit = "2a7623640bade543888886e71302f2e764ebdf69"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes more plugin load/config failures when updating from v1.16
+- Fixes "skip own messages" breaking all TTS besides your own, regardless of if it was checked or not
 """

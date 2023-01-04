@@ -1,31 +1,34 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "f8e02daa14894cbb62faf36149e57a361d10ee26"
+commit = "672b0e101798bff547d70dd933ed869f4e1592e5"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.7.7 Patch Notes
+changelog = """# Wordsmith v1.8.1 Patch Notes
 
 ## New Features:
-* Using Ctrl+C in the text input of a ScratchPad will now copy the unwrapped text. (This will not include headers)
+  * When adding a word to the custom dictionary it should now automatically remove all detected spelling errors with that word in all scratch pads.
+  * Roman numerals (capital letters only) will no longer be detected as a spelling error.
+  * Alias `+` button now disabled by default until valid information entered.
 
 ## UI Changes:
-* Open Scratch Pads in the ScratchPads tab of the Settings UI now has a minimum size. (See bug fixes 1)
-* Added a `Show Advanced Settings` option to the settings page to hide and show the more advanced settings of the plugin.
-* The `Bug?` button in Settings will now show a message box that gives the user an idea of what kind information to include in a bug report.
-* The `Bug?` button in Settings has been renamed to `Found A Bug?`
-* Added a tooltip to the `Buy Me A Ko-Fi` button that explains the nature of the button.
-* Redesigned the `Replace Text Suggestions` list
+  * `Custom Dictionary Entries` is now written in a table header not a text object.
 
 ## Bugs Fixed:
-1. The height of the `Open Scratch Pads` section in the ScratchPads tab of the Settings UI could become 0 if there was no room left in the window.
-2. Major performance loss with large text entries.
-3. Right clicking on the `Replace Text` input field would cause word wrapping to temporarily break.
+  [FIXED] Incorrect spelling error detections and word alignment.
+  [FIXED] Contractions are counted as a spelling error.
+  [FIXED] Unable to add words to custom dictionary
+  [FIXED] Scratch Pad doesn't always split on sentence.
+  [FIXED] Deleting a search item from the thesaurus could cause an error to occur.
+  [FIXED] Chunks sometimes formed at strange locations.
+  [FIXED] Selecting `Copy Text To Clipboard` for a history item would cause a CTD.
+  [FIXED] Spelling suggestions giving garbage results at times.
 
 ## Technical Stuff:
-* PadState class has been moved to the DataTypes.cs file
-* Added more error reporting in an attempt to catch a bug that was reported.
-* Adjusted the way UI is drawn in the ScratchPad (Switching away from tables. No visual difference should be noticeable)
-* Removed some unnecessary `if` statements from the saving settings process.
-* There was a minor calculation issue in the way text was displayed that was causing a massive drop in performance. By changing the way the calculation is handled I was able to bring massive performance gains to Wordsmith. I sincerely apologize to everyone for any performance issues they may have experienced with Wordsmith until this point."""
+  * Incorrect spelling error detection caused by not unwrapping string before running spellcheck. The solution was to unwrap the string.
+  * Contractions were counted as spelling errors because the text was used in spellchecking not the Regex match value.
+  * Adding words to dictionary was not unwrapping the string first leading to unwanted behaviors.
+  * Found an issue with calculating where to split the chunks that could lead to not breaking on a sentence terminator when one is available and managed to fix it.
+  * Found an issue where deleting a thesaurus item could cause an error dump due to a modified collection exception.
+  * Found an infinite loop in `Copy Text To Clipboard`."""
