@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
-commit = "282cb05698b12a1354a19f84b57649d26455fc08"
+commit = "366c7b4d408dd9a1efb473e95ea7cf6a70a3b350"
 owners = ["SheepGoMeh"]
 project_path = "Visibility"
-changelog = "Make VoidList function regardless of the Enabled state.\nAltered object hiding logic."
+changelog = "Reworked core logic.\nUpdated Spanish translation."
