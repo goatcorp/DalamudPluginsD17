@@ -2,13 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "44ae21bbb5e82a352a2414b9cfb264fec92a141b"
+commit = "f908de7e97b29c15d6cc8095c50b25aa3334fe77"
 changelog = """
-+ new loot distribution
-+ includes guarranteed drops (eg. books)
-+ award items to players, no need to manually update them after loot distribution
-* revised lootsession Ui
-+ Shows cost if an item is obtainable from a shop
-* reworked item source system
-+ can track items in inventories
-+ you can now evaluate loot for alt jobs"""
+fix: HP calculation
+add: stat calculation for most levels
+localization: added JP (thanks to Refer)
+fix: load time reduced"""
