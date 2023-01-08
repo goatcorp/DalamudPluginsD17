@@ -1,34 +1,33 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "672b0e101798bff547d70dd933ed869f4e1592e5"
+commit = "ad45e0fa8a60e5c94b468f9cc107b6c8636ae4c9"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.8.1 Patch Notes
+changelog = """# Wordsmith v1.8.2 Patch Notes
 
-## New Features:
-  * When adding a word to the custom dictionary it should now automatically remove all detected spelling errors with that word in all scratch pads.
-  * Roman numerals (capital letters only) will no longer be detected as a spelling error.
-  * Alias `+` button now disabled by default until valid information entered.
+# New Features:
+  * Setting thesaurus history size to 0 will now be unlimited.
 
-## UI Changes:
-  * `Custom Dictionary Entries` is now written in a table header not a text object.
+# UI Changes:
+  * Fixed the strange column sizing in the help window on the `Roleplaying` tab.
+  * Removed setting to change enter key behavior.
+  * Advanced setting panel in the `Marks & Tags` secion now scales with the amount of content rather than just being a certain size.
+  * `When OOC is` column of advanced marker settings is now fixed width.
+  * `Max Text Length` option changed from `SlideInt` to `DragInt` to allow typing desired value.
 
-## Bugs Fixed:
-  [FIXED] Incorrect spelling error detections and word alignment.
-  [FIXED] Contractions are counted as a spelling error.
-  [FIXED] Unable to add words to custom dictionary
-  [FIXED] Scratch Pad doesn't always split on sentence.
-  [FIXED] Deleting a search item from the thesaurus could cause an error to occur.
-  [FIXED] Chunks sometimes formed at strange locations.
-  [FIXED] Selecting `Copy Text To Clipboard` for a history item would cause a CTD.
-  [FIXED] Spelling suggestions giving garbage results at times.
+# Bugs Fixed:
+  [FIXED] Custom markers copying unusable data to clipboard
+  [FIXED] Changing chat header doesn't update text until after a text change.
+  [FIXED] Copying history item copies the wrong data.
+  [FIXED] Searching a word in the Thesaurus that is currently in history will declare the search as failed.
+  [FIXED] Searching the same word with different capitalization counted as an entirely different word.
+  [FIXED] Thesaurus keeping one too few search history items.
+  [FIXED] Chunk markers defined as `Before OOC` were appearing after `Before Body` in the list.
 
-## Technical Stuff:
-  * Incorrect spelling error detection caused by not unwrapping string before running spellcheck. The solution was to unwrap the string.
-  * Contractions were counted as spelling errors because the text was used in spellchecking not the Regex match value.
-  * Adding words to dictionary was not unwrapping the string first leading to unwanted behaviors.
-  * Found an issue with calculating where to split the chunks that could lead to not breaking on a sentence terminator when one is available and managed to fix it.
-  * Found an issue where deleting a thesaurus item could cause an error dump due to a modified collection exception.
-  * Found an infinite loop in `Copy Text To Clipboard`."""
+# Technical Stuff:
+  * Found a redundancy in a method that caused extra CPU time.
+  * Made a change to the way chunk generation is handled so that chunk generation will always happen in the `Update()` method to ensure that it is never run multiple times in a single frame.
+  * Removed the setting for enter key behavior. This setting has been obsolete for a while now.
+  * Increased the maximum possible value of `Max Text Length` for scratch pads."""
