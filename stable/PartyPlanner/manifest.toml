@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "951b523f199ca3dd492a3ea49c746a9cb8f2fcb2"
+commit = "d8a17050e49bcad7d41d464d00985781fb0fe26c"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = "Fixes a issue where parties reporting invalid world ids would crash the plugin."
+changelog = "Updated to net7 and updated the API url due to a domain change, partyverse.app -> partake.gg"
