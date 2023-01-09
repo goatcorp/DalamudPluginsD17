@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "8458529ccee52dadd28528b42773d6d1f1614fab"
+commit = "b8f94cbc77d54dec2c2959bc67f41f10a693eda6"
 owners = ["CMDRNuffin"]
-changelog = """Feature: Add support for legacy action Flying Mount Roulette
-Fix: Trying to use the mount roulette when you can't no longer eats the next cast bar"""
+changelog = """Features:
+- Add mount groups
+- Associate each mount roulette with a separate mount group (or none at all)
+- Summon a mount from a specified group via /pmount <group name>"""
