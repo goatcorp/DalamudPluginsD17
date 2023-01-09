@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/ReadyCheckHelper.git"
-commit = "939652f22f7eea993f2ef968c4cd04fe630233ab"
+commit = "bfbe5b2bd2220f613114404c73b8928f2fd37c00"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "ReadyCheckHelper"
 changelog = '''
-- Fixed an issue where ready check icons would not properly update when the party list order was changed, or when party members were added or removed.
-- Related back-end cleanup.
-- Housekeeping to be compatible with upcoming changes to Dalamud.
+- Updated for Dalamud API 8.
 '''
