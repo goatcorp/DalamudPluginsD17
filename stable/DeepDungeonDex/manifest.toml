@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "542b8330a64c1589335cddbc74700a51fb2ca9b0"
-changelog = "## 2.1.0 (2022-12-16)\n\n\n### Features\n\n* add unknown status for all weakness types (4a96a40)\n\n\n### Bug Fixes\n\n* do some additional disposes for windows (f807c9e)"
-version = "2.1.0"
+commit = "3b2a75531131d0e5c0c817234aea94ee748f9c80"
+changelog = "### 2.2.1 (2023-01-09)\n\n\n### Bug Fixes\n\n* access violation when logging out due to framework update (e5da208)\n* change game hooks to use new ClientStructs methods (ba84f82)"
+version = "2.2.1"
