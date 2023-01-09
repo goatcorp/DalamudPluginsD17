@@ -1,31 +1,33 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "f8e02daa14894cbb62faf36149e57a361d10ee26"
+commit = "ad45e0fa8a60e5c94b468f9cc107b6c8636ae4c9"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.7.7 Patch Notes
+changelog = """# Wordsmith v1.8.2 Patch Notes
 
-## New Features:
-* Using Ctrl+C in the text input of a ScratchPad will now copy the unwrapped text. (This will not include headers)
+# New Features:
+  * Setting thesaurus history size to 0 will now be unlimited.
 
-## UI Changes:
-* Open Scratch Pads in the ScratchPads tab of the Settings UI now has a minimum size. (See bug fixes 1)
-* Added a `Show Advanced Settings` option to the settings page to hide and show the more advanced settings of the plugin.
-* The `Bug?` button in Settings will now show a message box that gives the user an idea of what kind information to include in a bug report.
-* The `Bug?` button in Settings has been renamed to `Found A Bug?`
-* Added a tooltip to the `Buy Me A Ko-Fi` button that explains the nature of the button.
-* Redesigned the `Replace Text Suggestions` list
+# UI Changes:
+  * Fixed the strange column sizing in the help window on the `Roleplaying` tab.
+  * Removed setting to change enter key behavior.
+  * Advanced setting panel in the `Marks & Tags` secion now scales with the amount of content rather than just being a certain size.
+  * `When OOC is` column of advanced marker settings is now fixed width.
+  * `Max Text Length` option changed from `SlideInt` to `DragInt` to allow typing desired value.
 
-## Bugs Fixed:
-1. The height of the `Open Scratch Pads` section in the ScratchPads tab of the Settings UI could become 0 if there was no room left in the window.
-2. Major performance loss with large text entries.
-3. Right clicking on the `Replace Text` input field would cause word wrapping to temporarily break.
+# Bugs Fixed:
+  [FIXED] Custom markers copying unusable data to clipboard
+  [FIXED] Changing chat header doesn't update text until after a text change.
+  [FIXED] Copying history item copies the wrong data.
+  [FIXED] Searching a word in the Thesaurus that is currently in history will declare the search as failed.
+  [FIXED] Searching the same word with different capitalization counted as an entirely different word.
+  [FIXED] Thesaurus keeping one too few search history items.
+  [FIXED] Chunk markers defined as `Before OOC` were appearing after `Before Body` in the list.
 
-## Technical Stuff:
-* PadState class has been moved to the DataTypes.cs file
-* Added more error reporting in an attempt to catch a bug that was reported.
-* Adjusted the way UI is drawn in the ScratchPad (Switching away from tables. No visual difference should be noticeable)
-* Removed some unnecessary `if` statements from the saving settings process.
-* There was a minor calculation issue in the way text was displayed that was causing a massive drop in performance. By changing the way the calculation is handled I was able to bring massive performance gains to Wordsmith. I sincerely apologize to everyone for any performance issues they may have experienced with Wordsmith until this point."""
+# Technical Stuff:
+  * Found a redundancy in a method that caused extra CPU time.
+  * Made a change to the way chunk generation is handled so that chunk generation will always happen in the `Update()` method to ensure that it is never run multiple times in a single frame.
+  * Removed the setting for enter key behavior. This setting has been obsolete for a while now.
+  * Increased the maximum possible value of `Max Text Length` for scratch pads."""

@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/ReadyCheckHelper.git"
-commit = "e87b2bdafc74afde642f4183d8ad8d4ae893ecc9"
+commit = "939652f22f7eea993f2ef968c4cd04fe630233ab"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "ReadyCheckHelper"
 changelog = '''
-- Added options to offset and scale the party/alliance list overlay icons for those that are using custom party list layouts (or just don't like the default size/position).
-- updated for .net6/api7
+- Fixed an issue where ready check icons would not properly update when the party list order was changed, or when party members were added or removed.
+- Related back-end cleanup.
+- Housekeeping to be compatible with upcoming changes to Dalamud.
 '''

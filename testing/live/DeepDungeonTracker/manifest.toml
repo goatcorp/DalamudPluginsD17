@@ -1,9 +1,17 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "781f63a2e5e2b35bf898627d20d4b1ef1267c9ea"
+commit = "51788d4e360ddee4e8241667a7fc9de0d4709efa"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.1.5
+changelog = """Version 0.0.1.6
+[Reconfiguration Required]
+- The option to force solid background to all window (General tab) has been changed to individual options for each window (Each Window tab).
+- The option to include floor completion (Score tab) has been changed into 3 options (Previously unchecked = 1st option now, Previously checked = 2nd option now).
+- Added double arrow buttons, for fast navigation (Statistics Window).
+- Added a screenshot button (Statistics Window).
+- Added some sounds while interacting with UI (Statistics Window).
+- Fixed an issue during the first floor of a set not saving data properly.
+Version 0.0.1.5
 - UI adjustments and fixes.
 Version 0.0.1.4
 - Added kill count on Summary (Statistics Window).

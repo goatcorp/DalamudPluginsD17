@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/cassandra308/WhereAmIAgain.git"
-commit = "4af7f30270f0485074b7541cf9683a361878d0af"
+commit = "b505e286d3c9c174c4fb0d5dce88f70ad99d0546"
 owners = [
 	"cassandra308",
 	"reiichi001",
 	"MidoriKami"
 ]
 project_path = "WhereAmIAgain"
-changelog = "Major refactor by MidoriKami.\nIncludes brand new configuration window to customize your location using templates."
