@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "c40ca49a788e69bdf09f7dc3113faf99ff65e234"
+commit = "f86e9923d356a01161b64646c03a2e325755039b"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ Fix regex not working for some display name types
+net7 + API 8
 """
