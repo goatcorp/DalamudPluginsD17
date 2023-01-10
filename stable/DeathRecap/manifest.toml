@@ -1,16 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "d83d80b2b61055c860d06e28baa15b66543d4f6a"
+commit = "1ed4648a8af3f517e12bc7c790cf40dda53cf646"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Added a row filter so you can hide buff/debuff/healing/damage events
-- Will now decode _rsv_ names used in savage and ultimate encounters to their actual names
-- Allow hiding and reordering columns in the event table
-- Added an experimental histogram view (still needs some visual improvements)
-- Recap window can now also be closed with /dr and /deathrecap
-- Added an option to immediatly open the recap on death
-- Allow collapsing the recap window
-- Will now display most recent status effects first in the status effect column
-- Fixed an issue causing -550 DoT events to be displayed
+Update for Patch 6.3
 """
