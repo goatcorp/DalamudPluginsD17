@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
-commit = "11764af8708ee67e5a78e475cc09d95af9b0a2ee"
+commit = "49e1f6d56abb89bbe2c454b43e7591edd4992ec7"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-- Fixes layout issues that could make the editor unusable at some non-standard font scales and/or with languages other than English.
+- Updated for patch 6.3 (increased number of save slots in-game).
+- Updated for Dalamud API 8.
 '''
