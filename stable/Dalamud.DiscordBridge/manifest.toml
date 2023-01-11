@@ -6,4 +6,4 @@ owners = [
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
-changelog = "- Updated Discord library dependencies\n- Switched to using full-width ＠ because Discord started enforcing username requirements on webhooks and @ isn't allowed there.\n- If your bot stopped working in September, please enable Message Intents. See the setup guide for updated steps."
+changelog = "New Changes:\n- Fixes for NET7 / API 8\n- Updated library dependencies and switched to NetStone as submodule.\n\nLast Changes:\n- Switched to using full-width ＠ because Discord started enforcing username requirements on webhooks and @ isn't allowed there.\n- If your bot stopped working in September 2022, please enable Message Intents. See the setup guide for updated steps."
