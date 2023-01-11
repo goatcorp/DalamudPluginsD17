@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "3838c6c84e739084ec129748384141cdd4bc507f"
+commit = "ef25e74a923a84763f77284a5c78b9d4299d5151"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
-changelog = "Updated dependencies. Might help with some recent connection failures."
+changelog = "NET7 / API 8 support."
