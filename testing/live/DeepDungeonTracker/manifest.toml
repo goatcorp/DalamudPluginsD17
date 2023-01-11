@@ -1,0 +1,41 @@
+[plugin]
+repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
+commit = "483a758ed6dca42197f14ce7b7f7cb24cd1f1e30"
+owners = ["marconsou"]
+project_path = "DeepDungeonTracker"
+changelog = """Version 0.0.1.7
+- .net 7 update.
+
+Version 0.0.1.6
+[Reconfiguration Required]
+- The option to force solid background to all window (General tab) has been changed to individual options for each window (Each Window tab).
+- The option to include floor completion (Score tab) has been changed into 3 options (Previously unchecked = 1st option now, Previously checked = 2nd option now).
+- Added double arrow buttons, for fast navigation (Statistics Window).
+- Added a screenshot button (Statistics Window).
+- Added some sounds while interacting with UI (Statistics Window).
+- Fixed an issue during the first floor of a set not saving data properly.
+
+Version 0.0.1.5
+- UI adjustments and fixes.
+
+Version 0.0.1.4
+- Added kill count on Summary (Statistics Window).
+
+Version 0.0.1.3
+- Added a backup system (Statistics tab).
+
+Version 0.0.1.2
+- Added serenized enchantments (Statistics Window).
+- Added Time Bonus miss score (Statistics Window).
+- String comparison fixes (for non-english client).
+
+Version 0.0.1.1
+- Added new commands.
+- Save slot deletion rework.
+
+Version 0.0.1.0
+- Added Cairn of Passage Kills (Statistics Window).
+- Added Pomanders used (Statistics Window).
+- Added Job Icon (Statistics Window).
+- Added Show Title option (Floor Set Time and Score Window).
+"""

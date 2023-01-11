@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Meisterlala/NekoFans.git"
+commit = "a1a9fa58865f661978c154004f7c02f1ff64cdff"
+owners = [
+    "Meisterlala",
+]
+project_path = "Neko"
+changelog = """- Fixed a bug where the default Twitter API entries would reappear sometimes"""

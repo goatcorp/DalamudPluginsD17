@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
-project_path = ""
-commit = "438e0f7fe207be57ec1274283e2526735e4c1037"
-changelog = "### 1.8.2 (2022-08-24)\n\n\n### Bug Fixes\n\n* remove hard set of api version and use dalamudpackager instead (e6f04cc)"
-version = "1.8.2"
+project_path = "DeepDungeonDex"
+commit = "ea2fd745a948de87c9bf7181e0c3dccfd6e30818"
+changelog = "## 2.3.0 (2023-01-09)\n\n\n### Features\n\n* add a refresh command for data in case something goes wrong (171d755)\n* update to API8 and net7 (019a3af)\n\n\n### Bug Fixes\n\n* access violation when logging out due to framework update (e5da208)\n* change game hooks to use new ClientStructs methods (a459d9c)"
+version = "2.3.0"

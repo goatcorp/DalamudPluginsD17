@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "edcff3ff804505b1e3c0b3eb43c1f681dbbffbc0"
+commit = "c281c41fe47084563f80cda9c50fb4fb543784ed"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Initial release
-- A simple tool to record players' used names and nickname
-- multi-language support (en & zh_CN only, welcome to PR)
-- coulld auto record player from FriendList, PartyList, and PlayerSearch
-- may detect wrong Opcode in some cases
+- Increase accuracy of opcode
+- Separate data and setting
 """

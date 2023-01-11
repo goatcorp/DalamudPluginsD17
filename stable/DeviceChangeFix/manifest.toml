@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/Jessidhia/DeviceChangeFix.git"
-commit = "27499e9526764757b9db72e77612e083dfeccc4a"
+commit = "ed97e3dfe625b70d11c940ec650e7f9e6cdb1e94"
 owners = ["Jessidhia"]
 project_path = "DeviceChangeFix"
+changelog = "Update to .NET 7 / API 8"

@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/karashiiro/SoundSetter.git"
-commit = "817f834f7461ee323502ff7abfecbbe6e2b637ad"
+commit = "1163f334422c3beaec88fc3fd17b2cb3cf975327"
 owners = ["karashiiro"]
-changelog = ""
+changelog = "Fixes caravan convoy."
