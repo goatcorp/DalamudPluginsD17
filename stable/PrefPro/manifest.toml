@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lmcintyre/PrefPro.git"
-commit = "394e4cef19bb35104538f4499fbdf15188a19ac1"
+commit = "ca67bf51bead94fa330920e52e0e1218a35b026b"
 owners = [
     "lmcintyre",
 ]
