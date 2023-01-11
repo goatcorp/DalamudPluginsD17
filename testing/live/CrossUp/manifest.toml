@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "80e3a7d31617074045d8e057ec19e54629f4bd12"
+commit = "fdbe599318ac9c842563e36069332d0e990f046a"
 owners = [
     "ItsBexy",
 ]
