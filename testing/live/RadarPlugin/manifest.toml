@@ -1,4 +1,4 @@
-﻿[plugin]
+[plugin]
 repository = "https://github.com/KangasZ/RadarPlugin.git"
 commit = "6228d9531a9712361ee09e3e5bbcf72173af0dbe"
 owners = ["KangasZ"]
