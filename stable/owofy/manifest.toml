@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/reiichi001/dalamud-owo.git"
-commit = "96a4f6ebe100c1a38c65f0ee3968fd03a3d6675b"
+commit = "b0c7f2a30c089d86c73f2335dbd53a0b8d15b39e"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "owo"
-changelog = "Net6 update"
+changelog = "Net7 / API 8 update"
