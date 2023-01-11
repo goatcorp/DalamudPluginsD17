@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/SoundFilter.git'
-commit = '3b8512b4cd2f3ea0a0d162db4fa251ccb61f7dc4'
+repository = 'https://git.anna.lgbt/ascclemens/SoundFilter.git'
+commit = '24be9d517f7715c9828cdc5e798a96a12abd7dd7'
 owners = [ 'ascclemens' ]
-changelog = 'API 7'
+changelog = 'API 8'
