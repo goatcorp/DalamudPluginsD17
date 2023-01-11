@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/Lharz/xiv-currency-alert.git"
+commit = "e97fe36ba0d45d37470abd2bc58f97d320ccb854"
+owners = ["Lharz"]
+project_path = "CurrencyAlert"
+changelog = """
+=== 0.5.0.0
+Version provided by MidoriKami
+- Configuration remade and much more clean now
+- More configuration options (such as minimal display, window lock, etc)
+- Dynamic currency display, so further game updates shouldn't need a plugin update
+- Base code for translations (soon...)
+=== 0.4.0.0
+- Added new Tomestones of Causality
+- Added icons for currencies
+- Added an option to lock the alert window
+- Revamped the configuration UI a bit
+- Revamped the user configurations code internally, which unfortunately resulted in an inevitable configuration reset
+"""

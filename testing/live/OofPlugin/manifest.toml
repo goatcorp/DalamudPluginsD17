@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Frogworks-Interactive/OOF.git"
+commit = "24955fbcded462a8b5b6ea9cc417753eaaa2966d"
+owners = [
+    "Frogworks Interactive",
+    "codelastnight"
+]
+project_path = "OofPlugin"
+changelog = """
+- i love roblox!
+"""

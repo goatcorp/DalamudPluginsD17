@@ -1,6 +1,5 @@
 [plugin]
-repository = "https://github.com/Chickenstew/Stormtalons.git"
+changelog = "Net6 Update"
 commit = "c16ac4b5942535cfc00d7df910c2ef3db715b596"
 owners = ["Chickenstew"]
-project_path = ""
-changelog = "Net6 Update"
+repository = "https://github.com/Chickenstew/Stormtalons.git"

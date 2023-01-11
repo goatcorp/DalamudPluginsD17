@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://gitlab.com/kaminariss/nextui-plugin.git"
+commit = "d3700f6a96f1f84ce770f79de83aa8cb0ba64138"
+owners = ["Kaminaris", "pwilkowski"]
+project_path = "NextUIPlugin"
+changelog = "Updated for patch 6.2"

@@ -1,0 +1,34 @@
+[plugin]
+repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
+commit = "672b0e101798bff547d70dd933ed869f4e1592e5"
+owners = [
+    "LadyDefile"
+]
+project_path="Wordsmith"
+changelog = """# Wordsmith v1.8.1 Patch Notes
+
+## New Features:
+  * When adding a word to the custom dictionary it should now automatically remove all detected spelling errors with that word in all scratch pads.
+  * Roman numerals (capital letters only) will no longer be detected as a spelling error.
+  * Alias `+` button now disabled by default until valid information entered.
+
+## UI Changes:
+  * `Custom Dictionary Entries` is now written in a table header not a text object.
+
+## Bugs Fixed:
+  [FIXED] Incorrect spelling error detections and word alignment.
+  [FIXED] Contractions are counted as a spelling error.
+  [FIXED] Unable to add words to custom dictionary
+  [FIXED] Scratch Pad doesn't always split on sentence.
+  [FIXED] Deleting a search item from the thesaurus could cause an error to occur.
+  [FIXED] Chunks sometimes formed at strange locations.
+  [FIXED] Selecting `Copy Text To Clipboard` for a history item would cause a CTD.
+  [FIXED] Spelling suggestions giving garbage results at times.
+
+## Technical Stuff:
+  * Incorrect spelling error detection caused by not unwrapping string before running spellcheck. The solution was to unwrap the string.
+  * Contractions were counted as spelling errors because the text was used in spellchecking not the Regex match value.
+  * Adding words to dictionary was not unwrapping the string first leading to unwanted behaviors.
+  * Found an issue with calculating where to split the chunks that could lead to not breaking on a sentence terminator when one is available and managed to fix it.
+  * Found an issue where deleting a thesaurus item could cause an error dump due to a modified collection exception.
+  * Found an infinite loop in `Copy Text To Clipboard`."""

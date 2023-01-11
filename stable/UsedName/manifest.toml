@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/LittleNightmare/UsedName.git"
+commit = "047e10e29faf997563a173b42b20c4b047cdf681"
+owners = [
+    "LittleNightmare"
+]
+project_path = "UsedName"
+changelog = """
+- fix structure of PlayerEntry change cause cannot update data automatically
+"""

@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/PunishedPineapple/ReadyCheckHelper.git"
-commit = "2e8c08264c173ddb9e75e95f9e1469bfd7b2b33f"
-owners = [
-    "PunishedPineapple",
-]
-project_path = "ReadyCheckHelper"
-changelog = "Updated for Dalamud API7"

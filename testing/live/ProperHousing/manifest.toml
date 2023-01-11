@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Sevii77/properhousing.git"
+commit = "31489f5ba861fb259cdfd28d45a3b7460c3c6374"
+owners = ["Sevii77"]
+project_path = "ProperHousing"
+changelog = """- Add keybinds to switch mode, toggle counter placement, and grid snap
+- Support animated furniture (doors, other things that move)
+- Finally update to 6.2"""
