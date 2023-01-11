@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "cca2bbfae7e5e28ac7cc1f0e9829df0eac3f80fd"
+commit = "763e166aa0652823a866aa0b6022410678eeab92"
 changelog = """
 updated for 6.3
 fix: HP calculation
