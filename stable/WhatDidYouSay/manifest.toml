@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WhatDidYouSay.git"
-commit = "35ad33864bebdfe910fe6beea1cd08bd32e5fc47"
+commit = "74e2fd65d44ab6215da41bfb4f8a120782c825a0"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "WhatDidYouSay"
 changelog = '''
-- Added a default speaker name in the chat log for NPCs that lack real names.  This is "NPC" by default, but can be configured as desired in the settings window.
+- Updated for Dalamud API 8.
 '''
