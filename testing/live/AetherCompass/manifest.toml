@@ -1,7 +1,6 @@
 [plugin]
 repository = "https://github.com/yomishino/FFXIVAetherCompass.git"
-commit = "e447f313f95de10ef9d2a36bf202452984aa23da"
+commit = "5216a3af5193c41e868aab7a996a55bd7a4619a9"
 owners = [ "yomishino" ]
-changelog = """- New compass for Island Sanctuary (testing)
-- Update to configuration loading
+changelog = """- Fix config loading issue (Thanks to Caraxi)
 """

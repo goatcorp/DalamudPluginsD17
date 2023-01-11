@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
-commit = "5bbc8193d18bb27568cef07e7512af09f3eb5e70"
-owners = [
-    "PunishedPineapple",
-]
-project_path = "WaymarkPresetPlugin"
-changelog = "Updated for Dalamud API7"

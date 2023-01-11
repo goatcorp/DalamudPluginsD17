@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
+commit = "ecddb16244fb3d1f94c38656db2145b181ada88b"
+owners = ["Kirrana"]
+project_path = "SamplePlugin"
+changelog = "Restore toggle functionality via new '/physics t' command."

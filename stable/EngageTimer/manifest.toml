@@ -1,7 +1,5 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "62650aa7ad3435e60847dfc7e795fca1c967aa12"
+commit = "3af6672f96263333c9d964a5a1be22cad60b87aa"
 owners = ["xorus"]
-changelog = """\
-- Fix overlapping countdowns when a countdown was cancelled then restarted too quickly
-- Update translations and add a new contributed Japanese translation (thank you!)"""
+changelog = "API 8 support"

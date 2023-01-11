@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons.git"
+commit = "03b9ce7e6d2e9b7ca53e27dd1d3cfbd0cfa70586"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+- In the settings window, Testing Mode and the General tab now flash when enabled 
+- Fixed a bug when converting v1 to v2 config where Game Default chat settings resulted in role colors being enabled
+- Refactored UI code
+"""

@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Drahsid/BetterShadows.git"
+commit = "d70654b83585ca09bc8789c5e0ca78c737a5cd57"
+owners = ["Drahsid"]
+project_path = ""

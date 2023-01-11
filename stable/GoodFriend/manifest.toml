@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "2e5eef0d0060a55c1758f68c213dd1371f61c4bc"
+commit = "e2a714e37770de9cd5b41729962523025ef9a27a"
 owners = [
     "BitsOfAByte",
 ]
-project_path = "src/GoodFriend.Plugin"
+project_path = "GoodFriend.Plugin"
+changelog = """
+- Optimizations and improvements
+"""

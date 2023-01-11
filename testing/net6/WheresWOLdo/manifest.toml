@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/reiichi001/WheresWOLdo.git"
-commit = "0e9335ff397da07b1d48fada08c6307dc1429485"
-owners = [
-    "reiichi001",
-	"Haplo064",
-]
-project_path = ""
-changelog = "Net6 update"
