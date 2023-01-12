@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "48527c577400284da68bc9554166cbe281ceab1c"
-owners = ["Koenari"]
+owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-changelog = "fixed: unable to save right after loading\nfixed: potential short freeze of FFXIV\nnew: you can manually edit levels\nsome performance improvements"
+commit = "f908de7e97b29c15d6cc8095c50b25aa3334fe77"
+changelog = """
+fix: HP calculation
+add: stat calculation for most levels
+localization: added JP (thanks to Refer)
+fix: load time reduced"""

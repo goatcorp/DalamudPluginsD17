@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/cassandra308/WhereAmIAgain.git"
+commit = "4af7f30270f0485074b7541cf9683a361878d0af"
+owners = [
+	"cassandra308",
+	"reiichi001",
+	"MidoriKami"
+]
+project_path = "WhereAmIAgain"
+changelog = "Major refactor by MidoriKami. \nNow makes the string update when editing in the configuration window."

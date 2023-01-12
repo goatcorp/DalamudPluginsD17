@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/reiichi001/WheresWOLdo.git"
-commit = "0e9335ff397da07b1d48fada08c6307dc1429485"
+commit = "879c8f7aefc9208f9cb8ac1425a062daf8e75ecc"
 owners = [
     "reiichi001",
 	"Haplo064",
 ]
 project_path = ""
-changelog = "Net6 update"
+changelog = "Net7 / API 8 update. Consider migrating to WhereAmIAgain though."
