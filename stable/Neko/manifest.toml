@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "a1a9fa58865f661978c154004f7c02f1ff64cdff"
+commit = "48ca2270845567af77931679904a5f25aee749e0"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Fixed a bug where the default Twitter API entries would reappear sometimes"""
+changelog = """- .Net 7 Update (FFXIV 6.3)
+- Added warning for when the Twitter API limit is reached"""
