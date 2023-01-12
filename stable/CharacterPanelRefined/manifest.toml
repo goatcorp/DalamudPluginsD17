@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "f9a1a939b2b983681fa35e6921079153009ef2a5"
+commit = "97730a79cf4a2e70b67e868edf25f9d3573235f0"
 owners = [
     "Kouzukii",
 ]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fix an issue that was causing the Skill Speed tooltip to be displayed incorrectly 
+Update for Patch 6.3
 """

@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "d5e53bf5ca234d20c4cd5900162b0e21eb529707"
-owners = [
-    "lokinmodar",
-]
-changelog = "Updated for Dalamud staging and minor invalid font char issue."
