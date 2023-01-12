@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/KangasZ/RadarPlugin.git"
-commit = "6228d9531a9712361ee09e3e5bbcf72173af0dbe"
+commit = "ea791709946857a9c0adc92edc22c0bbb14623be"
 owners = ["KangasZ"]
 project_path = "RadarPlugin"
 changelog = "Initial D17 release"
