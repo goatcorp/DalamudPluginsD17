@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "1ed4648a8af3f517e12bc7c790cf40dda53cf646"
+commit = "4db8fb41359ca96d05e9c1ca9bb4fc72fd612f72"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
