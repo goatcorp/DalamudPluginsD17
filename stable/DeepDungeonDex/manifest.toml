@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "ea2fd745a948de87c9bf7181e0c3dccfd6e30818"
-changelog = "## 2.3.0 (2023-01-09)\n\n\n### Features\n\n* add a refresh command for data in case something goes wrong (171d755)\n* update to API8 and net7 (019a3af)\n\n\n### Bug Fixes\n\n* access violation when logging out due to framework update (e5da208)\n* change game hooks to use new ClientStructs methods (a459d9c)"
-version = "2.3.0"
+commit = "41d4a1f6f8f2b56c60960d4255aa4f75c6637ffa"
+changelog = "### 2.3.1 (2023-01-12)\n\n\n### Bug Fixes\n\n* add a better safeguard against invalid InstanceContent (58c61d6)"
+version = "2.3.1"
