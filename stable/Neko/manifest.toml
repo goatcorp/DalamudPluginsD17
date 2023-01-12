@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "cebecc949db6f495016ab9693c97691d730c4d78"
+commit = "a1a9fa58865f661978c154004f7c02f1ff64cdff"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """You can now use Neko Fans to view Twitter images!
-
-- Added Slideshow feature to automatically advance to the next image
-- Better Error handling (no more error.jpg)
-- Added API: Twitter User Tweet timeline
-- Added API: Twitter Search
-- Fixed: Pic.re images not opening in Browser"""
+changelog = """- Fixed a bug where the default Twitter API entries would reappear sometimes"""

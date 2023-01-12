@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "c36717e7284821fbb54043377fe9915f3e79f789"
+commit = "5d0021be592f4d516fb12b53d1018d6d063e3514"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Reenabled namplate distances following ClientStructs update (thank you Aers!).
+- Added options for distance-based coloring on nameplates.  This probably isn't as useful as you think it is, but it's there for the people that wanted it.
+- Increased maximum screen position offset for individual widgets.
+- Updated for Dalamud API 8.
 '''

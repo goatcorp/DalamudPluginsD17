@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
-project_path = ""
-commit = "42d6b5194edfba97c62052051a3a9adf86630181"
-changelog = "## 1.9.0 (2022-09-14)\n\n\n### Features\n\n* add debug info for display when submitting issues (d22f12f)\n\n\n### Bug Fixes\n\n* change from resx to yml to mitigate wierdness (eb6d4f1)"
-version = "1.9.0"
+project_path = "DeepDungeonDex"
+commit = "ea2fd745a948de87c9bf7181e0c3dccfd6e30818"
+changelog = "## 2.3.0 (2023-01-09)\n\n\n### Features\n\n* add a refresh command for data in case something goes wrong (171d755)\n* update to API8 and net7 (019a3af)\n\n\n### Bug Fixes\n\n* access violation when logging out due to framework update (e5da208)\n* change game hooks to use new ClientStructs methods (a459d9c)"
+version = "2.3.0"

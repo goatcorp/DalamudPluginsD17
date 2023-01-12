@@ -1,8 +1,5 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "99959613c953d941f8977a0b951e5023eea4ad22"
+commit = "3af6672f96263333c9d964a5a1be22cad60b87aa"
 owners = ["xorus"]
-changelog = """\
-- Floating Window: option to change the countdown color when casting a spell that will result in a pre-pull.
-- Floating Window: uses the global font-scale, you might need to adjust the font size after the update.
-- Settings: support for closing the settings window with Escape (WindowSystem features)"""
+changelog = "API 8 support"

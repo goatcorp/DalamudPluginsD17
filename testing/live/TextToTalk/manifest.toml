@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/karashiiro/TextToTalk.git"
+commit = "6f3f26e3342e6e2f095c3e20b0aa7bbedca97d0a"
+project_path = "src"
+owners = ["karashiiro"]
+changelog = """\
+- Fixes TTS for the System backend.
+"""
