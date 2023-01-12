@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "d8a17050e49bcad7d41d464d00985781fb0fe26c"
+commit = "06a5af9bc8013a20405ed632dd07ba328b9986d8"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = "Updated to net7 and updated the API url due to a domain change, partyverse.app -> partake.gg"
+changelog = "Fix a typo in the api url."
