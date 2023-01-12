@@ -2,7 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "01fcf253ab28028a23d9951a5e41c19c2707f5e0"
+commit = "f908de7e97b29c15d6cc8095c50b25aa3334fe77"
 changelog = """
-+ Option to ignore materia in BiS comparison
-* windows now can be closed with Esc"""
+fix: HP calculation
+add: stat calculation for most levels
+localization: added JP (thanks to Refer)
+fix: load time reduced"""

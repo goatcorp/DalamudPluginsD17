@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "fb89507ec10ea3c6197f675e61b1113684285aa9"
+commit = "e2a714e37770de9cd5b41729962523025ef9a27a"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "GoodFriend.Plugin"
 changelog = """
-- Added the 'QuestMarker' notification type
-- Code cleanup
-- Fixed automatica localization updates
+- Optimizations and improvements
 """
