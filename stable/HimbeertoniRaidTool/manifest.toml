@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "ff814a15610c8f36a2a1065a50d759a0923d457f"
-owners = ["Koenari"]
+owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-changelog = "fix: loot results did not show"
+commit = "763e166aa0652823a866aa0b6022410678eeab92"
+changelog = """
+updated for 6.3
+fix: HP calculation
+add: stat calculation for most levels
+localization: added JP (thanks to Refer)
+fix: load time reduced"""

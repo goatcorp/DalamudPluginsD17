@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "3044b578966b6ab68ca76e61b5d7b0beb964f8b3"
-owners = [
-    "Xpahtalo",
-]
-project_path = "ffxiv2Mqtt"
-changelog = "Can now subscribe to MQTT topics and have them displayed in game. Cleaned up IPC so it easier to publish messages."

@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/ProjectMimer/xivr.git"
+commit = "66ed8aa5caebcb0499112062c8dfc2ecfee4cf3c"
+owners = ["solimproper", "ProjectMimer"]
+project_path = "xivr"
+changelog = ""
+
+[build]
+image = "extended"
+
+[[build.needs]]
+type = "file"
+url = "https://github.com/ValveSoftware/openvr/archive/refs/tags/v1.23.7.zip"
+dest = "openvr.zip"
+sha512 = "d6d9650cd801940c083649b7875b51e8cf55b6989850a7493784fea17449565a6ba84c19a6185ff3c15bc8d37c190c9c03f78d451ac81331bf80f90f1f41a826"
