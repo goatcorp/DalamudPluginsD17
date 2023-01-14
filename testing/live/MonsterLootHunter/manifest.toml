@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "820114747d27a733f864ceea75eb19a38e3411e4"
+commit = "4fa22063c53dd67f802faf0daaa8d38d0e0882ad"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Plugin rework
- - API version bump
- - Code refactoring
- - Fix on loot tables empty 
+changelog = """- Search term on command
+- API version bump
+- NET 7 
  """
