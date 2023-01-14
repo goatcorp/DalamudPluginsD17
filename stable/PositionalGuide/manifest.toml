@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
-owners = []
+owners = ["PrincessRTFM"]
 project_path = ""
 commit = "f24dc395a3d46f18e4292fa28518ba3b8ae380ed"
-changelog = "It didn't include my name in the owner field last time for some reason?"
+changelog = "Updated for api8/patch6.3"
