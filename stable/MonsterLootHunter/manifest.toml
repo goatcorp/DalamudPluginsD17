@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
+commit = "4fa22063c53dd67f802faf0daaa8d38d0e0882ad"
+owners = [
+    "danielbrenom",
+]
+project_path = "MonsterLootHunter"
+changelog = """- Search term on command
+- API version bump
+- NET 7
+ """
