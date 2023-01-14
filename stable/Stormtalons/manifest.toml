@@ -1,5 +1,5 @@
 [plugin]
-changelog = "Net6 Update"
+changelog = "6.3 Update"
 commit = "0b1d69c5d0c40efdc00eae38bfcba9ca3947bc48"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"
