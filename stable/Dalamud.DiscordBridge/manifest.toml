@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "ee9ddc8b37388ba44b1cf6a13b1b8786e83b48b1"
+commit = "69f6eb236e88c27e675c784ef25096d1cf4b178e"
 owners = [
     "reiichi001",
 	"goaaats",
@@ -8,7 +8,7 @@ owners = [
 project_path = "Dalamud.DiscordBridge"
 changelog = """
 New Changes:
-- Set fallback sendername value if there is none. This will be `<your character name> <chat type>`
+- Set fallback sendername value if there is none. This will be `FFXIV Bridge Worker <your character name>`
 
 Last Changes:
 - Fixed duplicate chat issue.
