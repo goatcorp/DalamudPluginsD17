@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/shdwp/xivPartyIcons.git"
+commit = "123270af6fabe336bdefddbe9c32d8d06ca1e820"
+owners = [
+    "shdwp",
+    "avafloww",
+    "squidmade",
+]
+project_path = "PartyIcons"
+changelog = """
+- Changed the display name of the plugin to improve discoverability.
+- Fixed errors in log when in hunt train as SCH or SMN with pet out.
+"""

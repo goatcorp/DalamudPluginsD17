@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
-project_path = ""
-commit = "438e0f7fe207be57ec1274283e2526735e4c1037"
-changelog = "### 1.8.2 (2022-08-24)\n\n\n### Bug Fixes\n\n* remove hard set of api version and use dalamudpackager instead (e6f04cc)"
-version = "1.8.2"
+project_path = "DeepDungeonDex"
+commit = "b0398cb1aaaf52a70d4a241bf5d408f43b0c32d8"
+changelog = "### 2.3.1 (2023-01-12)\n\n\n### Bug Fixes\n\n* add a better safeguard against invalid InstanceContent (58c61d6)"
+version = "2.3.1"

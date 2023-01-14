@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+commit = "b8f94cbc77d54dec2c2959bc67f41f10a693eda6"
+owners = ["CMDRNuffin"]
+changelog = """Features:
+- Add mount groups
+- Associate each mount roulette with a separate mount group (or none at all)
+- Summon a mount from a specified group via /pmount <group name>"""

@@ -1,0 +1,33 @@
+[plugin]
+repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
+commit = "ad45e0fa8a60e5c94b468f9cc107b6c8636ae4c9"
+owners = [
+    "LadyDefile"
+]
+project_path="Wordsmith"
+changelog = """# Wordsmith v1.8.2 Patch Notes
+
+# New Features:
+  * Setting thesaurus history size to 0 will now be unlimited.
+
+# UI Changes:
+  * Fixed the strange column sizing in the help window on the `Roleplaying` tab.
+  * Removed setting to change enter key behavior.
+  * Advanced setting panel in the `Marks & Tags` secion now scales with the amount of content rather than just being a certain size.
+  * `When OOC is` column of advanced marker settings is now fixed width.
+  * `Max Text Length` option changed from `SlideInt` to `DragInt` to allow typing desired value.
+
+# Bugs Fixed:
+  [FIXED] Custom markers copying unusable data to clipboard
+  [FIXED] Changing chat header doesn't update text until after a text change.
+  [FIXED] Copying history item copies the wrong data.
+  [FIXED] Searching a word in the Thesaurus that is currently in history will declare the search as failed.
+  [FIXED] Searching the same word with different capitalization counted as an entirely different word.
+  [FIXED] Thesaurus keeping one too few search history items.
+  [FIXED] Chunk markers defined as `Before OOC` were appearing after `Before Body` in the list.
+
+# Technical Stuff:
+  * Found a redundancy in a method that caused extra CPU time.
+  * Made a change to the way chunk generation is handled so that chunk generation will always happen in the `Update()` method to ensure that it is never run multiple times in a single frame.
+  * Removed the setting for enter key behavior. This setting has been obsolete for a while now.
+  * Increased the maximum possible value of `Max Text Length` for scratch pads."""

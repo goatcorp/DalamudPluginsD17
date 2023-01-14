@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
+commit = "c26d5f15a734b69d04b9f9a28b2da6e88b2c8d4c"
+owners = [
+    "Kouzukii",
+]
+project_path = ""
+changelog = """
+Update for Patch 6.3
+"""

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/NightmareXIV/QuestAWAY.git"
+commit = "b264f06764bb41c2e6da8bb4494d50825be02e04"
+owners = [
+    "Limiana",
+]

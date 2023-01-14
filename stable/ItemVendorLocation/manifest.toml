@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
+commit = "7437ac11d9d34972de774902f8f376d10863a312"
+owners = [
+    "electr0sheep",
+]
+project_path = "ItemVendorLocation"
+changelog = "- Fix bug I introduced for official release *facepalm* where nothing has a location"
+version = "1.0.0.1"

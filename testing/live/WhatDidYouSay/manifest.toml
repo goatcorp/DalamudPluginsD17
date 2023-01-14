@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/WhatDidYouSay.git"
+commit = "9f131df7fc7524cafd78ea09e6b9dfcd93bf9aa1"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "WhatDidYouSay"
+changelog = '''
+- Added configuration options to override configuration for specific zones.
+- Added text commands("/saywhat ban" and "/saywhat unban") to override settings for the current zone.  These are just simplified toggles for new the settings in the config window.
+'''

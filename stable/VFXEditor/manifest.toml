@@ -1,20 +1,7 @@
 [plugin]
 repository = "https://github.com/0ceal0t/Dalamud-VFXEditor.git"
-commit = "f0286c15f94c725cf5a4ad6feb52fe72aaba3b80"
+commit = "bad2246d6376b1b29a94bb3f015036e825f3b101"
 owners = [
     "0ceal0t",
 ]
 project_path = "VFXEditor"
-changelog = """
-- 6.2 updates
-- fix issue with .pap files not properly being updated
-- some cleanup + refactoring
-- UI tweaks
-- added armor to items tab
-- added misc tmb+pap files to file selector
-- add keybinds menu (file > settings)
-- add option to block game inputs when VFXEditor is focused
-- add checkbox to items in timeline sequencer
-- fix issues with importing some GLTF files
-- add up/down arrow navigation to item selector
-"""

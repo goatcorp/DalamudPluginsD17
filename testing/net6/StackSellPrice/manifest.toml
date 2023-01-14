@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/PrincessRTFM/StackSellPrice.git"
-commit = "2531bba850b58cfc2f83f089f34fbca8eb3f2616"
-owners = ["PrincessRTFM"]
-changelog = "Update to net6"

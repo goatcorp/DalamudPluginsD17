@@ -2,7 +2,9 @@
 repository = "https://github.com/attickdoor/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "423f2d19ff9ea9add58faa63cfbf4034209aecde"
+commit = "fae48d8a49613d6d7326552a90927d72c0200c43"
+
+version = "1.7.23"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +17,6 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		Add Scattergun to ACB combo for MCH
+		updated for patch\
+		removed goring blade combo. thanks yoship for making pld playable!\
 		"""
