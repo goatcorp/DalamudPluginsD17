@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/shdwp/xivPartyIcons.git"
-commit = "115f5144f12137cd5a4814d7125e9ad1d1a47963"
+commit = "938986ba7ccc1acefaacd76869e069ec539e3684"
 owners = [
     "shdwp",
     "avafloww",
