@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "6bc60606e3ac0b63b691f5517c5f6004d9ceac7c"
-changelog = "* fix: shop entries with multiple items (PLD weapons for example)"
+commit = "59727abdd054326b4d19a1c027045ca29378d01f"
+changelog = "fixed examine functionality"

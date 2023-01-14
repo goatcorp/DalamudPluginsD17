@@ -1,11 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "65667af486cbbf0f3abfcba9c62aa6165ac77171"
+commit = "d74dc497de7ad2e9ac487264956cab0fb89dbb4e"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Added conditions for Sanctuaries and Explorer Mode
-- Added Island Sanctuary to the "Out of the Way" dynamic preset
-- Added a new combo box for selecting a cooldown to be displayed on an icon as well as for the Zone condition
-- Renamed # Party Members condition to be more accurate
-- Fixed importing extremely large bars
-- Fixed Penumbra'''
+'''

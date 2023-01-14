@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "1a4342da79047ef23eb3ee5b863b0aa43dbc175e"
+commit = "97730a79cf4a2e70b67e868edf25f9d3573235f0"
 owners = [
     "Kouzukii",
 ]
 project_path = "CharacterPanelRefined"
 changelog = """
-Disable the GCD support since it was causing crashes until the cause has been identified.
+Update for Patch 6.3
 """
