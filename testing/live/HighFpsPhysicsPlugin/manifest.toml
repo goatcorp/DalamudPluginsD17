@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "ecddb16244fb3d1f94c38656db2145b181ada88b"
+commit = "6796beffa94cb379e70f94cf86b2a25437f18eb0"
 owners = ["Kirrana"]
 project_path = "SamplePlugin"
-changelog = "Restore toggle functionality via new '/physics t' command."
+changelog = "Update for 6.3 dalamud changes"
