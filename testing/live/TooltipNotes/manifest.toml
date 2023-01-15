@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "c03db5ec96e5ce6ac3ae557757b28b52f284f072"
+commit = "0723b7b0c8d3c28ca26d3daf0f612b011f0faf0b"
 owners = ["Lerofni"]
 project_path = "NotesPlugin"
