@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "b0398cb1aaaf52a70d4a241bf5d408f43b0c32d8"
-changelog = "### 2.3.1 (2023-01-12)\n\n\n### Bug Fixes\n\n* add a better safeguard against invalid InstanceContent (58c61d6)"
-version = "2.3.1"
+commit = "113f012f64136ce00dad9899f95f83724939cf0a"
+changelog = "### 2.3.2 (2023-01-15)\n\n\n### Bug Fixes\n\n* added option to reenable floor guide if load fails (b1b75d2)"
+version = "2.3.2"
