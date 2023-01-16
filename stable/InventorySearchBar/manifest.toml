@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "6c7e7395c00eddffc47673ee8bf62e96514c7319"
+commit = "429e82861a169d72f589b497c9c168b656b63075"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "- Added support for Patch 6.3 and Dalamud Api8."
+changelog = "- Fixed inventories with tabs not working correctly."
