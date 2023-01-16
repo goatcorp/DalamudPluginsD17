@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/chalkos/RepairMe.git"
-commit = "a87eb7947b3196e80430b10fe0a4e3a58a4cfdfe"
+commit = "aab8e544bb5a83f4f7c5c89924fc022e518dca64"
 owners = [ "chalkos" ]
 project_path = "RepairMe"
-changelog = "remove dependency on XIVCommons"
+changelog = "update to .net7 and api8"

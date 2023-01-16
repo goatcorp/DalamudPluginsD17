@@ -2,10 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "763e166aa0652823a866aa0b6022410678eeab92"
-changelog = """
-updated for 6.3
-fix: HP calculation
-add: stat calculation for most levels
-localization: added JP (thanks to Refer)
-fix: load time reduced"""
+commit = "59727abdd054326b4d19a1c027045ca29378d01f"
+changelog = "fixed examine functionality"
