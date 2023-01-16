@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RaylaValdez/SimonSays.git"
-commit = "47972d815c4d7501e5037fcbe946296da6ef0a77"
+commit = "fd6ac397bc6dd400cc5cceb168c6153a5f2b65e3"
 owners = ["RaylaValdez"]
 project_path = "SimonSays"
 changelog = "Testing Release"
