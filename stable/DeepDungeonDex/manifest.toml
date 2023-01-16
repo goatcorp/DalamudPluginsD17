@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
-project_path = ""
-commit = "b0c8f63fadab85106bc57ff15e7708a9ed902e29"
-changelog = "### 1.9.1 (2022-10-07)\n\n\n### Bug Fixes\n\n* stop log spam (331ee28)"
-version = "1.9.1"
+project_path = "DeepDungeonDex"
+commit = "113f012f64136ce00dad9899f95f83724939cf0a"
+changelog = "### 2.3.2 (2023-01-15)\n\n\n### Bug Fixes\n\n* added option to reenable floor guide if load fails (b1b75d2)"
+version = "2.3.2"

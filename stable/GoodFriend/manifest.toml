@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "7075d4735a918a8d0e0426c62b45475f702c370f"
+commit = "92c2a23c83cb72bbbeabdd0be2930a074df9573b"
 owners = [
     "BitsOfAByte",
 ]
-project_path = "src/GoodFriend.Plugin"
+project_path = "GoodFriend.Plugin"
 changelog = """
-- Added the ability to filter events from other worlds & datacenters
-- Added error messages for invalid API URL's, login & logout messages.
-- Fixed some log messages not being correct.
+- Optimizations and improvements
 """

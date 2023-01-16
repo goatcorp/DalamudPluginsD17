@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/goaaats/Dalamud.CharacterSync.git"
-commit = "0776865666b39e26e7c50db017fceb804e77e478"
+commit = "6fef1042df188e2133de3b806cec41b61ee5c968"
 owners = [
     "goaaats",
 ]

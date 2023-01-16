@@ -28,8 +28,13 @@ def create_parser() -> ArgumentParser:
     parser = ArgumentParser()
     subparsers = parser.add_subparsers(help='action to perform', dest='action')
 
+    # validating manifests
     validate_parser = subparsers.add_parser('validate')
     validate_parser.add_argument('manifests', type=to_manifest_path, nargs='+', help='Path to the manifest to validate')
+
+    # print out json schema; don't need to add options for it at this time
+    # may consider adding an indent for niceness though
+    subparsers.add_parser('schema')
 
     return parser
 
@@ -62,6 +67,9 @@ def main() -> int:
         case 'validate':
             if validate_manifests(**vars(args)) is False:
                 return 1
+        case 'schema':
+            print(Manifest.schema_json(indent=2))
+            return 0
         case _:
             parser.print_help()
     return 0

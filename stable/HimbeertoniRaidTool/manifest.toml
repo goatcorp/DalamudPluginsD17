@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-commit = "ff814a15610c8f36a2a1065a50d759a0923d457f"
-owners = ["Koenari"]
+owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-changelog = "fix: loot results did not show"
+commit = "59727abdd054326b4d19a1c027045ca29378d01f"
+changelog = "fixed examine functionality"

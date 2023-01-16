@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
-commit = "f1a23be9d9c5fe08fe8e97366a45d6deddda1e1c"
+commit = "fe63fcd4ac1c5853d7f5deeb6e9d0613e95a48cf"
 owners = ["SheepGoMeh"]
 project_path = "HuntBuddy"

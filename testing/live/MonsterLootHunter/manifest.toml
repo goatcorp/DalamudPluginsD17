@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
+commit = "820114747d27a733f864ceea75eb19a38e3411e4"
+owners = [
+    "danielbrenom",
+]
+project_path = "MonsterLootHunter"
+changelog = """- Plugin rework
+ - API version bump
+ - Code refactoring
+ - Fix on loot tables empty 
+ """

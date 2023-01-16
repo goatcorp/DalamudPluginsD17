@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/reiichi001/Dalamud-FlashOnTellPlugin.git"
-commit = "40c07790bf26bb1f683de4c6f01dd89b889da35f"
-owners = [
-    "reiichi001",
-]
-project_path = "FlashOnTell"
-changelog = "Compatibility with D17 build system."

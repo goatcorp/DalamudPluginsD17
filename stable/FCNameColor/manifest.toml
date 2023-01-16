@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "f4d449270dcb1b3b5f6050c692d1ee8d7e82a6d7"
+commit = "1ebe72498757969ab7d38644342a90146ad4c231"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 6.2
-- Use different hooking mechanism
-- Add option to make FCNC only work inside duties.
-
-The new hooking mechanism will cause conflicts with other plugins that change nameplates.
-For the time being you can use the "Only duties" option if you’re using something else outside of them.
+- Update for 6.3
+- Make the plugin respect the user's name display types based on their settings.
+  Names will correctly abbreviate based on your settings for others/party members/alliance members/friends.
+- Fix minor issue with how party and alliance members are detected.
 """
