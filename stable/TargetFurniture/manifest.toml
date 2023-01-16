@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/InitialDet/TargetFurniture.git"
-commit = "3fe9af6af4c00a064193e9e27955f834b31a1864"
+commit = "ad4ac9a6ef8dd28c4d7c0f4c0bc7b5696f3b2d3a"
 owners = ["InitialDet"]
 project_path = "TargetFurniture"
