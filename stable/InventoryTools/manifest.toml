@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "8597b973a111b12a50ceee4ed19f8b21fd7f1949"
+commit = "5dad7cb9d0d591ba4b91cb9af5e2ae42fb7400f3"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Mini update, one new feature and a refresh on some of the data sourced from garland tools for 6.2\n- Thanks to @sabrinaxiv we have a new setting for tooltips, 'Limit to items belonging to the current character?'"
-version = "1.2.0.5"
+changelog = "While this also updates the plugin for 6.3 it's also a full release of the new parsing/scanning system, along with a plethora of new features and additions. Please post a message in the Allagan Tools help channel if you run into issues. See the changelog here https://github.com/Critical-Impact/InventoryTools/commit/5573f9a84ea714bb191d18e6744533a20119d306"
+version = "1.2.0.13"
