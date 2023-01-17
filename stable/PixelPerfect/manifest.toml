@@ -1,5 +1,8 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "a4bad55bd000224047b95b6488113e39746a8f96"
+commit = "169a2442d7f995a0a281bb4415ca41ac07188a09"
 owners = ["Haplo064"]
-changelog = "Added many requested features."
+changelog = "- Fixed crash of 0 scale
+- Added better Job selection
+- Added offset for rings/dots
+- Added ability to re-order doodles"
