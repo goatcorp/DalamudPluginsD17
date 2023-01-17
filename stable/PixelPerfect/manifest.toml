@@ -2,7 +2,4 @@
 repository = "https://github.com/Haplo064/PixelPerfect.git"
 commit = "169a2442d7f995a0a281bb4415ca41ac07188a09"
 owners = ["Haplo064"]
-changelog = "- Fixed crash of 0 scale
-- Added better Job selection
-- Added offset for rings/dots
-- Added ability to re-order doodles"
+changelog = "Fixed crash of 0 scale, Added better Job selection, Added offset for rings/dots, Added ability to re-order doodles"
