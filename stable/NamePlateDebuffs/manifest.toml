@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jherig/NamePlateDebuffs.git"
-commit = "da41ad4aa7e936eaaa888302de3798559fa2979b"
+commit = "38d622e34c9829b0f4633639c6504a8697bdb5f4"
 owners = [
     "aers",
     "JHerig",
@@ -8,6 +8,7 @@ owners = [
 ]
 project_path = "NamePlateDebuffs"
 changelog = """
-- Updated for 6.28.
-- Fixed debuffs appearing on incorrect nameplates due to a memory layout change.
+- Update for API 8 and .NET 7
+- Changed the display name to "Nameplate Debuffs"
+- Thanks to PhaineofCatz for the new plugin icon
 """
