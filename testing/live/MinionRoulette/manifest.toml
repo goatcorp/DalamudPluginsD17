@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/InitialDet/MinionRoulette.git"
+commit = "f5e37294e5dc00cf31477ce9e930643aac801f38"
+owners = ["InitialDet"]
+project_path = "MinionRoulette"
