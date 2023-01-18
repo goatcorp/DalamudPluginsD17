@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
+commit = "7415fe96f544a633dcb50ec28bf02263db93d251"
+owners = ["Maia-Everett"]
+project_path = "RoleplayProfiles"
+changelog = "Updated to Dalamud 8."

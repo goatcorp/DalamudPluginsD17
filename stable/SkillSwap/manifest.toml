@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/0ceal0t/SkillSwap.git"
+commit = "c0c169911782f7af695d66de9c3724cb50fecc47"
+owners = [
+    "0ceal0t",
+]
+project_path = "SkillSwap"

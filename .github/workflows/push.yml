@@ -37,11 +37,21 @@ jobs:
       run: |
         mkdir artifacts
         mkdir work
+        
+    - name: Cache docker image
+      uses: actions/cache@v3
+      env:
+        cache-name: plogon
+      with:
+        path: ~/.plogon_cache
+        key: cache-${{ env.cache-name }}
 
     - name: Run Plogon
       working-directory: Plogon/Plogon
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \

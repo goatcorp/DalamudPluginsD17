@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
+commit = "de6d91c1ae11ce0341c06f48bee4cbc34276fd4d"
+owners = [
+    "Pythyu",
+]
+project_path = "WhereIsMyMouse"
+changelog = """ Upgraded to 6.3
+"""

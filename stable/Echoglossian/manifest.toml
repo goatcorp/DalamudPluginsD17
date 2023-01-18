@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/lokinmodar/Echoglossian.git"
+commit = "dca95702a188c45974809b52b4601f5585f11688"
+owners = [
+    "lokinmodar",
+]
+changelog = "Fixed for patch 6.3!"

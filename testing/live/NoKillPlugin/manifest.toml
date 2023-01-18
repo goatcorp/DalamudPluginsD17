@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Bluefissure/NoKillPlugin.git"
+commit = "eff6c42d5a5f6ebc3d625634d7578f527b7ecf53"
+owners = ["Bluefissure"]
+project_path = "NoKillPlugin"

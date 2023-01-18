@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Infiziert90/DeathRoll.git"
+commit = "f86e9923d356a01161b64646c03a2e325755039b"
+owners = [
+    "Infiziert90",
+]
+project_path = "DeathRoll"
+changelog = """
+net7 + API 8
+"""

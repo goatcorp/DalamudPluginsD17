@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "fc0ed7224d39b3ed4bf9fa8bbab27703ae227c66"
+commit = "e96ba18994b27be529d4f90d23a31d51c07a21a9"
 owners = [
     "Aireil",
 ]
 project_path = "FlyTextFilter"
-changelog = "Fix for 6.2 + .NET6 and API7 upgrade + split pet/chocobo in misc settings"
+changelog = "- 6.3 compatibility\n- Add a new setting to hide damage type icon from auto attacks / status effects / others"

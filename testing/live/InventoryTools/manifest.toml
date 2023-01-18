@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/InventoryTools.git"
+commit = "d1fb491"
+owners = [
+    "Critical-Impact",
+]
+project_path = "InventoryTools"
+changelog = "The yolo release, this brings support for .net 7 and 6.3. Expect bugs, glamour chest will parse but highlighting is not fully complete. Please report any issues in the Allagan Tools help thread. If I can't get the testing version stabilised I will backport the 6.3 fixes to the live version and get that out but ideally I'd like to get this version made the live version."
+version = "1.2.0.12"

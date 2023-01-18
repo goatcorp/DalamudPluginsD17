@@ -1,0 +1,7 @@
+[plugin]
+repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
+commit = '53043bd2864ff29b26e4440b90106f9fc5a6abb9'
+owners = [ 'ascclemens' ]
+changelog = """\
+- API 8
+"""

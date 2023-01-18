@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/Distance.git"
+commit = "8fa727595f58285a5cbfd4bc3356cca49b99e3d9"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "Distance"
+changelog = '''
+- Reduce potential for log spamming.
+'''

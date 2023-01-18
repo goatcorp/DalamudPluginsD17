@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/lmcintyre/TitleEditPlugin.git"
-commit = "62bc24f65dc1524143669c4110df234016ca9973"
-owners = [
-    "lmcintyre",
-]
-project_path = "TitleEdit"

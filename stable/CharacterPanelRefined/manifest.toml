@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "370c283ac265cc0b877c13b819c431f316fd03d2"
+commit = "97730a79cf4a2e70b67e868edf25f9d3573235f0"
 owners = [
     "Kouzukii",
 ]
-project_path = ""
+project_path = "CharacterPanelRefined"
 changelog = """
-Update to .NET6
+Update for Patch 6.3
 """

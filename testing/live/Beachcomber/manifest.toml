@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
+commit = "8bb9a05685c5539294b1f01ee936c1ff07661eb2"
+owners = [
+    "rosella500"
+]
+project_path = "Beachcomber"
+changelog = "Port fix for resting day 7 to also happen on day 5."

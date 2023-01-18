@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://git.anna.lgbt/ascclemens/ExtraChat.git'
+commit = 'd5108fb0456167216be94e934ad3eff02a8fc700'
+owners = [ 'ascclemens' ]
+project_path = 'client'
+changelog = '''\
+- API 8
+'''

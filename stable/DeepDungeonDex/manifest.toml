@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
-project_path = ""
-commit = "438e0f7fe207be57ec1274283e2526735e4c1037"
-changelog = "### 1.8.2 (2022-08-24)\n\n\n### Bug Fixes\n\n* remove hard set of api version and use dalamudpackager instead (e6f04cc)"
-version = "1.8.2"
+project_path = "DeepDungeonDex"
+commit = "113f012f64136ce00dad9899f95f83724939cf0a"
+changelog = "### 2.3.2 (2023-01-15)\n\n\n### Bug Fixes\n\n* added option to reenable floor guide if load fails (b1b75d2)"
+version = "2.3.2"

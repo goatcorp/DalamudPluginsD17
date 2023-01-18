@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/jaycewhite/MiniMappingway.git"
+commit = "8b1ab417add1eeaf06b1dc81c6f79d9a3ea3a6a6"
+owners = [
+    "jaycewhite"
+]
+changelog = "Updated for 6.3"
+version = "1.0.0.2"

@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://git.annaclemens.io/ascclemens/Globetrotter.git'
-commit = 'ccf2a725f7a0a2d9052f773146bdc7fb73bc87ee'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'

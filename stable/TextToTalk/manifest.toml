@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/karashiiro/TextToTalk.git"
+commit = "333f78ad7fc413217ef004461cec8e30e066becc"
+project_path = "src"
+owners = ["karashiiro"]
+changelog = """\
+- Updates for 6.3
+- Fixes plugin icon
+"""

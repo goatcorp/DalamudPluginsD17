@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
+commit = "9c19f4b4826f81795c01bda39dc60e5f87e1a479"
+owners = ["Maia-Everett"]
+project_path = "Snooper"
+version = "0.3.1.0"
+changelog = """* Updated for Dalamud 8."""

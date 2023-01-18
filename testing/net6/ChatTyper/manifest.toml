@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/reiichi001/dalamud-chattyper.git"
-commit = "851e3e68a33751c7971ac210ae8696070c653148"
-owners = [
-    "reiichi001",
-]
-project_path = "ChatTyper"
-changelog = "Net6 update"

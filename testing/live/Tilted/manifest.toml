@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "928085bf5b4f0bf7cce873ccc203009e335df06b"
-owners = [
-    "meoiswa"
-]
-project_path = "Tilted"
-changelog = "Now D17 Compliant"

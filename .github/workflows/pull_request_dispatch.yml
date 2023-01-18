@@ -54,12 +54,23 @@ jobs:
         mkdir artifacts
         mkdir static
         mkdir work
+        
+    - name: Cache docker image
+      uses: actions/cache@v3
+      env:
+        cache-name: plogon
+      with:
+        path: ~/.plogon_cache
+        key: cache-${{ env.cache-name }}
 
     - name: Run Plogon
       id: plogon_run
       working-directory: Plogon/Plogon
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
+        EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
