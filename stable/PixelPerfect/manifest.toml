@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "169a2442d7f995a0a281bb4415ca41ac07188a09"
+commit = "b5e3d9b91320150d9aaeec13e891016da3cb7bec"
 owners = ["Haplo064"]
-changelog = "Fixed crash of 0 scale, Added better Job selection, Added offset for rings/dots, Added ability to re-order doodles"
+changelog = "Fixed another crash. Added option for messages."
