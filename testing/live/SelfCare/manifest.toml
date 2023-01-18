@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/chirpxiv/SelfCare.git"
-commit = "f09b9ecdb08d5d23dc4579e7000105b8b6b52b87"
+commit = "6feb590901c216e29441e4bbf870f2fd034f4025"
 owners = ["chirpxiv"]
 project_path = "SelfCare"
 changelog = "Initial release"
