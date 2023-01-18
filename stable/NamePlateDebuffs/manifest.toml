@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jherig/NamePlateDebuffs.git"
-commit = "38d622e34c9829b0f4633639c6504a8697bdb5f4"
+commit = "0f80aad0587288369fc373c62d2191c5553ed8a9"
 owners = [
     "aers",
     "JHerig",
@@ -8,7 +8,5 @@ owners = [
 ]
 project_path = "NamePlateDebuffs"
 changelog = """
-- Update for API 8 and .NET 7
-- Changed the display name to "Nameplate Debuffs"
-- Thanks to PhaineofCatz for the new plugin icon
+- Fixed plugin loading
 """
