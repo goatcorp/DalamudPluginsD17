@@ -5,5 +5,4 @@ owners = [
     "imaginary-png",
 ]
 project_path = "HuntHelper"
-changelog = "Added option to change gui language.
-Added Simplified Chinese (sorta). Thank you: DeepseaXX"
+changelog = "Added option to change gui language. Added Simplified Chinese (sorta). Thank you: DeepseaXX"
