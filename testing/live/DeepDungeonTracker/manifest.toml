@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "bde7124f92643d0fbc9a87b49214bb6d608cb6c7"
+commit = "cd227070c8041e7d9c14031fdc921661e427c9eb"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.1.8
+changelog = """Version 0.0.1.9
+- Added some font customization for Tracker and Score Window.
+- The /ddtload command will now close the Statistics Window if it is open.
+- Small UI tweaks.
+
+Version 0.0.1.8
 - Some changes on opcodes.
 - New feature: now it's possible to check the score (and the total data/calculation to get there) from previous floor sets by clicking on the floor set label (now buttons) on the Summary page (Statistics Window).
 A (customizable) color will be applied to the data being changed; only 3 sections of the Summary page should be changed: the score calculation section, the Total section, and the Last Floor section.
