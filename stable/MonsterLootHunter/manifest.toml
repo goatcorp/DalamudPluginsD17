@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
+commit = "66438cc3e9f4ccee2392262c8afca1bc1bc4f553"
+owners = [
+    "danielbrenom",
+]
+project_path = "MonsterLootHunter"
+changelog = """- New shorter command
+- Context menu integration
+ """
