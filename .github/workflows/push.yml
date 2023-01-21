@@ -41,7 +41,7 @@ jobs:
     - name: Cache docker image
       uses: actions/cache@v3
       env:
-        cache-name: plogon
+        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
       with:
         path: ~/.plogon_cache
         key: cache-${{ env.cache-name }}
