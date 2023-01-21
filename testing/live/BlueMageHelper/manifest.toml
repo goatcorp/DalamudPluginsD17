@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/Infiziert90/BlueMageHelper.git"
+commit = "17d97bd93d3633e86c11822fbcb5df0df4fb1ecb"
+owners = [
+    "Infiziert90",
+]
+project_path = "BlueMageHelper"
+changelog = """
++ API8 + net7
+
++ Remove github dependency
++ Reimplement SpellSources for future usage
++ Don't overwrite original text (Issue 6)
++ Don't hide on quest skills  (Issue 5)
++ Improve information and change difficult learning methods
+"""
