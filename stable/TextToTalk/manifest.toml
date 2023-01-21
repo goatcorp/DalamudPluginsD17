@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "333f78ad7fc413217ef004461cec8e30e066becc"
+commit = "2af2afc7fb4e67c0537919146e0ba20a568fad46"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Updates for 6.3
-- Fixes plugin icon
+- Fixes plugin crashes when using the character editor (aesthetician etc.)
 """
