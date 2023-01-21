@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/chrisk699/ffxiv-chatemotecolor-plugin.git"
-commit = "6a45d4a9a4f835d2808b14837ae6533d3d0bc582"
+commit = "78c52399dfe08d4102fdca7ff28594b8bdfae5e0"
 owners = ["ArrestEverybody"]
 project_path = "ChatEmoteColor"
 changelog = "Update NET 7.0 and API 8"
