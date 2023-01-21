@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "2167689234a7e18b9fe10bce0be7fdd5b4750735"
+commit = "15205e57a115fd2a453666ffadef4c94eab58b65"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Updated for 6.2"
+changelog = "Updated for FFXIV 6.3 and Dalamud API 8"
