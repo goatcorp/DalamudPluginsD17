@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = 'b28d6667eac1c423d3a981c20c8917bd1e926914'
+commit = '97947bd768db724f08381a2613f584a9d32e5faa'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- API 8
+- Fix a crash because Dalamud can't handle exceptions
 """
