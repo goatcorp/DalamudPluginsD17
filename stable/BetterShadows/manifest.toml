@@ -3,3 +3,7 @@ repository = "https://github.com/Drahsid/BetterShadows.git"
 commit = "9fd8425c4eb1b432a8d219d01e5b323c82172cdf"
 owners = ["Drahsid"]
 project_path = ""
+changelog = """Added per zone config
+Added /tbshadows for toggling the hacks on the command line
+"""
+
