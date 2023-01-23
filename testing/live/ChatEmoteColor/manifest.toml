@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/chrisk699/ffxiv-chatemotecolor-plugin.git"
 commit = "66f95cb21b3804e0440ad81d69aa2d510c867356"
-owners = ["chrisk699"]
+owners = [
+    "chrisk699",
+    "53m1k0l0n"
+]
 project_path = "ChatEmoteColor"
 changelog = """ -Version bump just to be sure xD """
