@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/MemoryMarker.git"
-commit = "dd0ab3ea06f0421b8ffbbe2f761cc5573b36fec3"
+commit = "d8799f7df6f61311cf4eed7a83612839b9bd507b"
 owners = ["MidoriKami"]
 project_path = "MemoryMarker"
