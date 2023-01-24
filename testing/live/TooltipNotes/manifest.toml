@@ -1,5 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "b98d62faa9881afcce2d8da350a5d9d77f2ccbe4"
+commit = "3ee42796e680ed20198b360a722568ebc0bab5ac"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
+changelog = """
+Initial Testing Release of TooltipNotes. 
+This is a plugin which lets you add custom notes to Itemtooltips. 
+Currently to have equipment duplicates have seperate notes they will need to be glamoured(they can be glamoured into themselves as any glamour is enoguh as long as it makes them unique) as a workaround until I get to inventory tracking at some point.
+Things like a proper mass notes editor and potentially semi custom colours are on the roadmap.
+"""
