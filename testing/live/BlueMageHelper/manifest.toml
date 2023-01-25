@@ -1,19 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BlueMageHelper.git"
-commit = "3faad2dc4ced3a9ea8bc98fb6d95db859dce8037"
+commit = "cc5f7a8f39494e9a6c641d78500b8328a1df4bd8"
 owners = [
     "Infiziert90",
 ]
 project_path = "BlueMageHelper"
 changelog = """
-+ API8 + net7
-
-+ Remove github dependency
-+ Reimplement SpellSources for future usage
-+ Don't overwrite original text (Issue 6)
-+ Don't hide on quest skills  (Issue 5)
-+ Improve information and change difficult learning methods
-
-+ Added /spellbook command
-+ Added spell book, a small guide window
++ Add min lvl info to duties
++ Change plus/minus to arrows
 """
