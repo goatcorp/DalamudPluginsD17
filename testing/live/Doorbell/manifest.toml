@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/SoyaX/Doorbell.git"
-commit = "996cd20f350dc8633118efdfbd4629949d9f9c79"
+commit = "5ffdab292675324916a56d99099f04af625e556e"
 owners = [
     "SoyaX"
 ]
