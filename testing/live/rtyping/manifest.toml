@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "54796bc173061b40fc8fc9073fceee6820ec8cba"
+commit = "d7149c804369e62d1f11bfc1530dc9c48d553231"
 owners = ["apetih"]
 project_path = "client/rtyping"
