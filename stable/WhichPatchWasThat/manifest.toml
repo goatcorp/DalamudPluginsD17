@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "21d3b3451677f5e5860173888e3544370d689405"
+commit = "33098f55232e237b47c70ab14b5ae6ec0d3a795d"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Add new items from 6.3
+Add support for mounts, minions and fashion accessories
 """

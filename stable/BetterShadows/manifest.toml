@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "711dc9e27988908d01d4a50ce3aa0daf4fdb0cae"
+commit = "c279a7382e3bb5ae97d57023b9d06e58fc1c8f5c"
 owners = ["Drahsid"]
 project_path = ""
+changelog = """Added per zone config
+Added /tbshadows for toggling the hacks on the command line
+"""
+
