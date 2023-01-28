@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "afece6d3b1dc2b938ca5db440c6870bee84f0148"
+commit = "c316d6af6f5fc20678d077e631f29bfec8bd18fe"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-Fixes:
-    - Fix list displaying a 'level 0 adventurer' when the examine/adventurer plate window was open
-
-Translations
-- Add full Japanese translation.
+- Performance improvements
+- Removed 'Filter Suspected Bots' and integrated that behaviour by default
 """

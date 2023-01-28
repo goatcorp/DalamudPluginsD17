@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "113f012f64136ce00dad9899f95f83724939cf0a"
-changelog = "### 2.3.2 (2023-01-15)\n\n\n### Bug Fixes\n\n* added option to reenable floor guide if load fails (b1b75d2)"
-version = "2.3.2"
+commit = "cab984e31af7e245a341c729c25adbd8828a08f6"
+changelog = "## 2.4.0 (2023-01-24)\n\n\n### Features\n\n* Add deprecation warning on legacy window. (1615417)\n* add full unknown status on new targets if no data exists (25891cb)"
+version = "2.4.0"

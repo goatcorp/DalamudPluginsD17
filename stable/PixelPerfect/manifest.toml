@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "be88e10ab86c877e14ec71a14bff9976fc6b7a69"
+commit = "b5e3d9b91320150d9aaeec13e891016da3cb7bec"
 owners = ["Haplo064"]
-changelog = "Updated for 6.3"
+changelog = "Fixed another crash. Added option for messages."

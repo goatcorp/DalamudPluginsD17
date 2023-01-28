@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "6504cfe6c07e019a1702a71f6e43d00d75315af8"
+commit = "c52c59d65e838a9be7438940b33fdee27c748380"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
-changelog = "API 7 Compliant"
+changelog = "2.0 Overhaul. More triggers, more tweaks, better configuration window"

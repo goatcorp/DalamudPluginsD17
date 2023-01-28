@@ -24,7 +24,7 @@ When the plugin approval group checks your plugin, they will check for the follo
 - Does the base functionality of the plugin work (if testable easily)?
 - Does it have no obvious technical issues?
 - Is its JSON correctly formatted? (We hope to [make this unnecessary in future](https://github.com/goatcorp/DalamudPackager/issues/8))
-- If it's a new plugin, is it in the testing channel and not the stable channel? If it's a simple plugin, or you have already tested separately, you may be able to skip the testing phase - please put some details in your PR or reach out!
+- If it's a new plugin, is it in the testing channel and not the stable channel? We want new plugins to be in testing to make it easier for the group to test, as well as reducing the impact of any unforeseen issues.
 - Does it meet the [Technical criteria](#technical-criteria)?
 
 These criteria are intended to prevent issues for users. We're happy to work with you to get you across the line; just reach out in the Discord.
