@@ -1,10 +1,7 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = '38b599b684bc73b1ec932b084ca1ed8e82b25ddc'
+commit = '53043bd2864ff29b26e4440b90106f9fc5a6abb9'
 owners = [ 'ascclemens' ]
 changelog = """\
-- Updated translations.
-- Changed some internals for (minor) improved performance.
-- Fixed an issue with empty lines causing some flickering.
-- Fixed an issue with empty lines disappearing under some circumstances.
+- API 8
 """

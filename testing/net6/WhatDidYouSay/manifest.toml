@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/PunishedPineapple/WhatDidYouSay.git"
-commit = "31d60bb08d45e842b3bd351774b44877d01aba17"
-owners = [
-    "PunishedPineapple",
-]
-project_path = "WhatDidYouSay"
-changelog = "Updated for Dalamud API7"

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/sersorrel/ShowGear.git"
+commit = "b5595ea2d4c627c0460ed08de4c492e40231d1b0"
+owners = ["sersorrel"]
+project_path = "ShowGear"
+changelog = "Handle the Glamour Plate Selection window too"

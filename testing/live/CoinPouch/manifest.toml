@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aelexe/coin-pouch.git"
+commit = "bb65d3abb8c9b3c01618769dbc2fd9f023459483"
+owners = ["Aelexe"]
+project_path = "CoinPouch"
+changelog = "Release v0.0.1.1\n-- Features\n- Updated for Dalamud API 7\n- Updated currencies and currency caps for patch 6.2"

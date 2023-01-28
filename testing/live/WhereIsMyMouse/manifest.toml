@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
+commit = "2c561d8c852a0bcd83fa9046cb546360853e3f5e"
+owners = [
+    "Pythyu",
+]
+project_path = "WhereIsMyMouse"
+changelog = """ better multi monitor support (for real this time)
+"""
