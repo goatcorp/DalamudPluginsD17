@@ -1,5 +1,5 @@
 [plugin]
-changelog = "6.3 Update"
-commit = "7d6e06639f8300e8afd915a82143e55f2f768bed"
+changelog = "Ability to change text colour"
+commit = "c84d6e8e64b861dc15cc99743e9c4943abdada81"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"
