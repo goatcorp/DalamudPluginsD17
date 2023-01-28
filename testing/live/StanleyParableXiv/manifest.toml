@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/rekyuu/StanleyParableXiv"
+repository = "https://github.com/rekyuu/StanleyParableXiv.git"
 commit = "bd4b1ff52f58d3b1939f8c1a3018a1de32508bc8"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
