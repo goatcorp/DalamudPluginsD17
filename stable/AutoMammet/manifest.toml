@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Rietty/AutoMammet.git"
-commit = "44e327e5130725beae5c16948278a8e9f5aa86a0"
+commit = "cd8766a978b2b9aae236457624c05d4d06fbc6d3"
 owners = ["Rietty"]
 project_path = "/AutoMammet"
-changelog = "Updated some wording to be more clear where information is exported to."
+changelog = "Update offsets and code for patch 6.3; Added a scrollbar to save space."

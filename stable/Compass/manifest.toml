@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "febad23b20e7b2836b4f69e5d9adc6f28eb0720b"
+commit = "0bb40916d789876c075d3d2fa9c0a8b8c0189564"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
 changelog = """
-- chore: Update to API 7
+- chore: Update to API 8
 """

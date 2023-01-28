@@ -2,7 +2,7 @@
 repository = "https://github.com/attickdoor/MOActionPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "7b9bbb9b8b81cfd4825da070df555fbc6896cf9e"
+commit = "3810f84dcabbba0ce3da0542cc85184cd791f720"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [

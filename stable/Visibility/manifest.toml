@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
-commit = "e0f097a38c924d8f3cb486e259b72ba413c1c0c1"
-owners = ["SheepGoMeh"]
+commit = "f2e73bce441d54e83308a31f33534ab1974adf45"
+owners = [
+    "SheepGoMeh"
+]
 project_path = "Visibility"
-changelog = "Reworked core logic.\nAdded support for bard performance mode.\nUpdated Spanish translation."
+changelog = """
+- Fix other players being visible when set to hidden while doing treasure maps
+- Update Chinese (Simplified) translations
+"""

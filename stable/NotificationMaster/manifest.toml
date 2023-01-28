@@ -1,0 +1,12 @@
+[plugin]
+# The open-source Git repository that your code is hosted on.
+# Must be visible to the external web, but doesn't have to be GitHub.
+# If `git clone` accepts it, it will work here, with the caveat that it
+# must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
+repository = "https://github.com/NightmareXIV/NotificationMaster.git"
+# The commit to check out and build from the repository.
+commit = "8c3585e22974e31f961113c49fd75f14dc6f312b"
+# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+owners = [
+    "Limiana"
+]

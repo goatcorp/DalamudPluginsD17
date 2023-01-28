@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "185e94da04f9a619b3b85e19f428303d7911f389"
+commit = "6363ac26ef0801aa535f0d63fecf34c7a4cd172e"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = "Update for 6.2, API7 compatibility + UI update"
+changelog = "Update for 6.3, added API 8 compatibility"
