@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "7538c671eea4ce1a4570caa332e59583d311bab3"
+commit = "814e43d60e71508080503b63615a39114a9a1054"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "This is a bug fix release. Fixed some potential bugs with IPC initalisation, retainer sort scanning(rolled back to file monitoring for now) and an assembly related crash."
-version = "1.2.0.16"
+changelog = "This is a bug fix release. Fixed an issue when you initially add in a craft list. Have put in more code to help mitigate a potential saving crash. If anyone is crashing reliably and knows their way around a debugger, can they attach it and get a stack trace please."
+version = "1.2.0.17"
