@@ -31,7 +31,7 @@ These criteria are intended to prevent issues for users. We're happy to work wit
 
 ### Technical criteria
 
-There are a few technical things that you should do before submitting your plugin here. They will make your plugin nicer to use.
+There are a few technical things that you must do before submitting your plugin here. They will make your plugin nicer to use.
 - Your plugin has to have an `icon.png` that is no larger than 512x512 and no smaller than 64x64 in `images/`.
 - For regular ImGui windows that don't do anything special, like settings and utility windows, you should use the [Dalamud Windowing API](https://goatcorp.github.io/Dalamud/api/Dalamud.Interface.Windowing.html). It enhances windows with a few nice features, like integration into the native UI closing-order.
 
