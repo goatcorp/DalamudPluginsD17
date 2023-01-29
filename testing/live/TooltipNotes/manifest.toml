@@ -5,6 +5,6 @@ owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
 Fixed bug that wouldve wiped Notes upon a plugin update(hopefully). 
-If you already had Notes you will need to copy them to the plugin config at %appdata%/XIVLauncher\pluginConfigs\TooltipNotes
+If you already had Notes you will need to copy them to the plugin config at %appdata%/XIVLauncher/pluginConfigs/TooltipNotes
 also includes some QOL changes thanks to mrexodia
 """
