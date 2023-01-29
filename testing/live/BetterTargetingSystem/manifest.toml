@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Lynesth/BetterTargetingSystem.git"
-commit = "86c98bf52abd6fe7fdf1cc9dbbdc31872b5f7ec7"
+commit = "4459d1db1bfa8d445cc1e52be95b47695abc9a8f"
 owners = ["Lynesth"]
 project_path = "BetterTargetingSystem"
 changelog = "Initial submission"
