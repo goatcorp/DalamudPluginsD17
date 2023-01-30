@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "c7ee5647d634f3f98f73c9756dc359dc4c0577c6"
+commit = "12e9163531e4d6f350cd84b7887e72b70554a402"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
-changelog = "Separates Direct Critical Hits from plain Critical Hits."
+changelog = "Adds option to disable sounds for autoattacks."
