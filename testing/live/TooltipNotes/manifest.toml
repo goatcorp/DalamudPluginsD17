@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "90962831b636f97cca632603345109010ce99ed3"
+commit = "c3145195a0782fd17372dbda7390770594a41f4b"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-Fixed bug that wouldve wiped Notes upon a plugin update(hopefully). 
-If you already had Notes you will need to copy them to the plugin config at %appdata%/XIVLauncher/pluginConfigs/TooltipNotes
-also includes some QOL changes thanks to mrexodia
+BIIG Changes thanks to mrexodia once again.
+**NOTE**
+This update will invalidate your current notes, but fret not! in the new config Window you can now with the press of a Button migrate your existing notes into the new format.
+
+New Features include:
+    *Labels: Labels let you quickly add premade labels either via the normal noteWindow or via a contextMenu
+    *Customizable colours: With a new colour picker you can now customize all the colours of the notes either on a per note basis or for a default
+    *A actual config window: TooltipNotes now includes a config window reachable via the plugin Installer. In it you can configure all the features mentioned beforehand an more!
 """
