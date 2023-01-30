@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
+commit = "4a1083ffe9d3db4f1ff26e8fdfaf5344255485eb"
+owners = ["Berna-L"]
+project_path = "Tf2CriticalHitsPlugin"
+changelog = "Adds option to preview sound in the configuration pane and fixes no sound playback."

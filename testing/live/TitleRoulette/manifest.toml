@@ -1,0 +1,4 @@
+[plugin]
+repository = "https://github.com/carvelli/TitleRoulette.git"
+commit = "2bf1609abb492b95fd3af01d7bf1005cdb0c7121"
+owners = ["carvelli"]

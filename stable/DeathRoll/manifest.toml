@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "f86e9923d356a01161b64646c03a2e325755039b"
+commit = "29ebf77bd5fe99b09da472156d9f538932039d9e"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-net7 + API 8
++ New timer argument which toggles the timer (/drh timer)
++ New option to reset all rolls on timer start (default false)
+
+If you encounter any parsing issues for rolls, pls activate the debug option, try to reproduce
+and send your dalamud log :)
 """
