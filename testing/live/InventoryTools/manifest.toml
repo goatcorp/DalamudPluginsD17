@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "db3ed0fa11ea564db622e4285c2acf33438432a5"
+commit = "3a2e852e1dc08b468b7939168f77561b952a1f1b"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Adds a IPC for querying items, controlling filters, etc. Adds in basic support for mob drop data in the more information window. Adds in more options on how the tooltip location data is presented and limits the amount of data added to the tooltip."
-version = "1.3.0.1"
+changelog = "Stop uncraftable items from being added to craft lists(also allow them to be deleted if you've run into the issue). Replace memory sort scanning with ODR parsing(should still be relatively fast and keep things up to date). Fixed some other issues. Replaced some imgui code with what I'm told is the more correct way of doing it, also added a EndChild that was missing."
+version = "1.3.0.2"
