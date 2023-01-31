@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "12e9163531e4d6f350cd84b7887e72b70554a402"
+commit = "3a12b6a0ff964fabb680bcee85f373d09a40866a"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
-changelog = "Adds option to disable sounds for autoattacks."
+changelog = "Bumps max. text length to 40 characters."
