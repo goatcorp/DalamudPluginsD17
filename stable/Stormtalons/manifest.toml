@@ -1,5 +1,5 @@
 [plugin]
-changelog = "Ability to change text colour"
-commit = "c84d6e8e64b861dc15cc99743e9c4943abdada81"
+changelog = "- Decaying Stormtalon option added\n- Options to enable/disable various info displayed"
+commit = "5d41f02ad23705a410b792796b29cde8c34df8f2"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"
