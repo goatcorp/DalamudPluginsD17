@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "d48deac7ec61973a8faed080540e6b911aaf3b19"
+commit = "291d7691b4bc536b64ba0fbac7c1d1cf6d0426b4"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
