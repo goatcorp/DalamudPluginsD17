@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "c003c3d0d6d94c1c74032084b04f5a44deda9140"
+commit = "14930a4a7e19a2ed27d73bd027e140bdb6f4693e"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fix some UI bugs on the NPC voice tab
-- Internal cleanup
+- Fixed gendered voices not working on some backends
+- Added support for Polly newscaster voices
 """
