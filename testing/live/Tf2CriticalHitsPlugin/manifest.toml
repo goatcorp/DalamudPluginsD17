@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "c5aa61abd3668f34721484e7ff8bb9b43d902b49"
+commit = "942bad0ae1736b8c1dd7320783dcdbf266684d59"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = "Change the formatting of the text AND preview it without the need to get lucky. (Thanks Lore and mrexodia for the help!)"
