@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "96f019e682431eef5adefd9997b3b6448c2b5fa8"
+commit = "37a7430c07556795c481197a60c535510ceb73e9"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
-changelog = "Bumps max. text length to 40 characters."
+changelog = "Change the formatting of the text AND preview it without the need to get lucky. (Thanks Lore and mrexodia for the help!)"
