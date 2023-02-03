@@ -1,18 +1,10 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "a03aaf9fda3d4e21309fc5706b19592aa432ff4e"
+commit = "596c2e02423693420fced313631df67723020bfb"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-0.1.1.1 cchanges: fix empty notekey bug
-
-0.1.1.0 changes:
-BIIG Changes thanks to mrexodia once again.
-**NOTE**
-This update will invalidate your current notes, but fret not! in the new config Window you can now with the press of a Button migrate your existing notes into the new format.
-
-New Features include:
-    *Labels: Labels let you quickly add premade labels either via the normal noteWindow or via a contextMenu
-    *Customizable colours: With a new colour picker you can now customize all the colours of the notes either on a per note basis or for a default
-    *A actual config window: TooltipNotes now includes a config window reachable via the plugin Installer. In it you can configure all the features mentioned beforehand an more!
+0.1.1.2
+Fixes incompatability with the Simpletweak: "show expected food and potion stats"
+Now hides the migrate old config button if you dont have one anymore thanks to mrexodia once again
 """
