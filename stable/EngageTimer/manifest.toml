@@ -1,5 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "3af6672f96263333c9d964a5a1be22cad60b87aa"
+commit = "1f6a252cca380a98947edcf267bc6d3a8b3ca3cc"
 owners = ["xorus"]
-changelog = "API 8 support"
+changelog = """\
+- Add setting for display threshold: allows you to specify when the timer will become visible (can be useful if you don't want to see numbers irrelevant to your pre-pull)
+- Awkded new number styles"""
