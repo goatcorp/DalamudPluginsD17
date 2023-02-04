@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "98e4abf54de4e0aea72ba59672b3ed89d7927a53"
+commit = "8c205b1b32ffe63cbeb380b69d58cd1871c57e58"
 owners = ["Tischel"]
 project_path = "NOTED"
-changelog = "- Added support for Patch 6.3 and Dalamud Api8.\n- Moved out of testing."
+changelog = "- Added some visibility settings.\n- Added keybind to toggle notes on/off.\n- Added keybinds to cycle through notes."
