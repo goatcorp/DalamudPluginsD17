@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "14930a4a7e19a2ed27d73bd027e140bdb6f4693e"
+commit = "02fad9f816aa53d203171c7de7dedc1041c0755b"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixed gendered voices not working on some backends
-- Added support for Polly newscaster voices
+- Fixes WebSocket backend being completely broken
 """
