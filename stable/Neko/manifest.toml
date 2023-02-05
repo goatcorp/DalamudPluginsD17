@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "1d7d32f6c729f8c0eef4434595975a4ed4bb453c"
+commit = "48ca2270845567af77931679904a5f25aee749e0"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Added API: nekos.best
-- Bug fixes"""
+changelog = """- .Net 7 Update (FFXIV 6.3)
+- Added warning for when the Twitter API limit is reached"""

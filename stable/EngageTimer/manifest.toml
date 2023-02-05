@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "2f57490e7c94ca73e0ad561bc9e2a671d36e0db1"
+commit = "1f6a252cca380a98947edcf267bc6d3a8b3ca3cc"
 owners = ["xorus"]
 changelog = """\
-- Floating Window: the `:` separator in the stopwatch has gone back from their vacation"""
+- Add setting for display threshold: allows you to specify when the timer will become visible (can be useful if you don't want to see numbers irrelevant to your pre-pull)
+- Awkded new number styles"""

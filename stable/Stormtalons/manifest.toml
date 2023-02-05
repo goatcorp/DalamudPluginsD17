@@ -1,5 +1,5 @@
 [plugin]
-changelog = "Net6 Update"
-commit = "c16ac4b5942535cfc00d7df910c2ef3db715b596"
+changelog = "- Decaying Stormtalon option added\n- Options to enable/disable various info displayed"
+commit = "5d41f02ad23705a410b792796b29cde8c34df8f2"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"

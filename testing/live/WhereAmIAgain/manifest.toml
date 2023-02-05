@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/cassandra308/WhereAmIAgain.git"
+commit = "1053214187dbe921bc12f8fc7bf030879fe6d16a"
+owners = [
+	"cassandra308",
+	"reiichi001",
+	"MidoriKami"
+]
+project_path = "WhereAmIAgain"

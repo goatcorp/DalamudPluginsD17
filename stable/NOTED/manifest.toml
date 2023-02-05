@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Tischel/NOTED.git"
+commit = "8c205b1b32ffe63cbeb380b69d58cd1871c57e58"
+owners = ["Tischel"]
+project_path = "NOTED"
+changelog = "- Added some visibility settings.\n- Added keybind to toggle notes on/off.\n- Added keybinds to cycle through notes."

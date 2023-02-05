@@ -1,47 +1,12 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "2acda54f17524f0355554c08422f3fabfdd79d38"
+commit = "c24d7f3ddb6c9ad020bcb64e20cad5cf826645b0"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.7.5.1
-- Rename Plugin to Player Tags for better searchability.
-
-Version 1.7.5
-- Chat: Support group number prefix for Custom Tags
-- Chat: Make Custom Tags color prio if used for whole name
-
-Version 1.7.4
-- Chat: Minor adjustments that sometimes cause weird behavior, like...
-    - The own username has been added to the start of the message text and not within
-    - The message get colored completely and not only the name
-    - Messages by ExtraChat looked weird sometimes
-
-Version 1.7.3
-- Chat: Optimize handling with abbreviated names in group and alliance chat
-
-Version 1.7.2
-- Chat: Show your own name abbreviated in Chat, if abbreviated is setted up in character config
-    --> The game does abbreviate your own character name AFTER Dalamuds chat handler and only if it is unchanged. So PlayerTags need to abbreviate the name itself.
-
-Version 1.7.1
-- Added French translation (thanks to Khayle!)
-
-Version 1.7
-- Improved handling of own character name in chat
-- Improved handling of group/alliance number prefix (always insert tag and icon behind)
-- Added new property for Tags to choose if the tag and icon should be inserted before or behind the group/alliance number prefix
-- Marked the Chat features as stable
-- Removeed option \"Link Self In Chat\"
-    - It's now a part of the Chat feature itself
---> This update includes a few bigger internal adjustments. Please let me know if you have any problems after the update!
-
-Version 1.6.6
-- Improved self linking in chat feature
-    - Improves compatiblity with ChatTwo
-    - Technical Stuff: Use PlayerPayload only as index, remove it before going back to the game and keep the TextPayload
-- Renamed plugin to \"PlayerTags\" (remove white space between the two words)
-- Updated plugin icon
-- Use SignatureHelper for Hooks
+changelog = """ Version 1.9
+- Target to API 8
+- Target to .NET 7
+- Updated translations
 """

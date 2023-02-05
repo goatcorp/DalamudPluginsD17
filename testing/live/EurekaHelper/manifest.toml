@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/snooooowy/EurekaHelper.git"
+commit = "291d7691b4bc536b64ba0fbac7c1d1cf6d0426b4"
+owners = ["snooooowy"]
+project_path = "EurekaHelper"
+changelog = """
+- Added feature to copy or shout to chat upon clicking custom chat payload
+- Added an option to show toast when an NM pops
+- Fixed some datacenter not being set correctly
+- Fixed connection not closing when unloading the plugin
+"""

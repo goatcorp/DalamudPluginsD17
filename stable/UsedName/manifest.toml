@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "9d5d151200d31c5cdb4af8fc9ed2c57cc5742b09"
+commit = "091de0a22b9366dd3b31f25df4d5ff97bf75d95c"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- fix not save change immediately
-- fix potential transfer data issues
+- update social list
+- support api8
 """

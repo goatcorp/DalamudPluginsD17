@@ -1,8 +1,8 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/ExtraChat.git'
-commit = 'ce73a1837491543c13a965d56070d8c03b81c825'
+repository = 'https://git.anna.lgbt/ascclemens/ExtraChat.git'
+commit = 'd5108fb0456167216be94e934ad3eff02a8fc700'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = '''\
-- Added additional IPC and filter payloads.
+- API 8
 '''

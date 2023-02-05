@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "18b7a3b926c537ea272267a9a90f8bd8970e219c"
-owners = [
-    "Xpahtalo",
-]
-project_path = "ffxiv2Mqtt"
-changelog = """Several fixes for bugs when the client has not been configured yet."""

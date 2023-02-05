@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/imaginary-png/HuntHelper.git"
-commit = "a22880561f75695376ba9ecd923e8b0131667eaf"
+commit = "2e24403fbedda924803f2bf977cf98bc68bdec57"
 owners = [
     "imaginary-png",
 ]
 project_path = "HuntHelper"
-changelog = "added double-click toggle for taken spawn points from map"
+changelog = "Added option to change gui language. Added Simplified Chinese (sorta). Thank you: DeepseaXX"
