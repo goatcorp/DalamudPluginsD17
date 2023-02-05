@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/imaginary-png/HuntHelper.git"
-commit = "0678e5701dc37975e6aeebac89ed6b321cd0f3e4"
+commit = "6363a0ca3bb3b2276c9638fd8caffd854fb674dc"
 owners = [
     "imaginary-png",
 ]
