@@ -1,8 +1,8 @@
 [plugin]
-repository = "https://github.com/meoiswa/ClarityInCombat.git"
+repository = "https://github.com/meoiswa/ClarityInChaos.git"
 commit = "ea47f3fbef6a72a7382193c674929ef5f00c784c"
 owners = [
     "meoiswa"
 ]
-project_path = "ClarityInCombat"
+project_path = "ClarityInChaos"
 changelog = "1.0.0 Initial Release"
