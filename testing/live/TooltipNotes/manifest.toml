@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Lerofni/TooltipNotes.git"
+commit = "596c2e02423693420fced313631df67723020bfb"
+owners = ["Lerofni"]
+project_path = "TooltipNotes"
+changelog = """
+0.1.1.2
+Fixes incompatability with the Simpletweak: "show expected food and potion stats"
+Now hides the migrate old config button if you dont have one anymore thanks to mrexodia once again
+"""

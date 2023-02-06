@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "d1fb491"
+commit = "b5d2f5093b0c39be7b702c888ab439be0f6f805a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "The yolo release, this brings support for .net 7 and 6.3. Expect bugs, glamour chest will parse but highlighting is not fully complete. Please report any issues in the Allagan Tools help thread. If I can't get the testing version stabilised I will backport the 6.3 fixes to the live version and get that out but ideally I'd like to get this version made the live version."
-version = "1.2.0.12"
+changelog = "Stop uncraftable items from being added to craft lists(also allow them to be deleted if you've run into the issue). Replace memory sort scanning with ODR parsing(should still be relatively fast and keep things up to date). Fixed some other issues. Replaced some imgui code with what I'm told is the more correct way of doing it, also added a EndChild that was missing."
+version = "1.3.0.2"
