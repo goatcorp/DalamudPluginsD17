@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/imaginary-png/Fungah-Totally-Safe-Spot"
+repository = "https://github.com/imaginary-png/Fungah-Totally-Safe-Spot.git"
 commit = "b958c624b1142b85bcc2bd70527277bd8bd17b2d"
 owners = [
     "imaginary-png",
