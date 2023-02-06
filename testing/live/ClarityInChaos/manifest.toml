@@ -5,4 +5,4 @@ owners = [
     "meoiswa"
 ]
 project_path = "ClarityInChaos"
-changelog = "1.1.0.0 Added Bozja/Eureka Misc Duty detection."
+changelog = "1.1.1.1 Added icon and fixed plugin name."
