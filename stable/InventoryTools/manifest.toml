@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "97146da122815ab71980e69720ec6853d4a0058b"
+commit = "51c892b1d7b20aebbf8718e805f1bfcd458b80c3"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "This is a bug fix release. Fixed an issue when you initially add in a craft list. Have put in more code to help mitigate a potential saving crash. If anyone is crashing reliably and knows their way around a debugger, can they attach it and get a stack trace please."
-version = "1.2.0.17"
+changelog = "This is purely a crash fix release, nothing else bar the crash has been fixed. You may still encounter a crash until you restart the game."
+version = "1.2.0.18"
