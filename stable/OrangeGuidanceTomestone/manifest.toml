@@ -1,0 +1,9 @@
+[plugin]
+repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
+commit = '1e68b679c85a354b84ee196584aa0ccdd904bc10'
+owners = [ 'ascclemens' ]
+project_path = 'client'
+changelog = """\
+- Fix a crash because Dalamud can't handle exceptions
+- Fix an exceedingly rare potential crash to satisfy someone
+"""

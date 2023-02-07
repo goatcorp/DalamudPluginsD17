@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "c36717e7284821fbb54043377fe9915f3e79f789"
+commit = "8fa727595f58285a5cbfd4bc3356cca49b99e3d9"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Reenabled namplate distances following ClientStructs update (thank you Aers!).
+- Reduce potential for log spamming.
 '''

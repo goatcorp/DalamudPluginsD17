@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
+commit = "33098f55232e237b47c70ab14b5ae6ec0d3a795d"
+owners = [
+    "Kouzukii",
+]
+project_path = "WhichPatchWasThat"
+changelog = """
+Add support for mounts, minions and fashion accessories
+"""

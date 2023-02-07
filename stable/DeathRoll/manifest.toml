@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "874a41b8a8373ec36b5da14a35803b7e5e97f48a"
+commit = "29ebf77bd5fe99b09da472156d9f538932039d9e"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ Stable release
-+ Possible fix for font not loading in a rare case
-+ Fix crash in tournament mode
-+ Cleanup for Venue and DeathRoll mode
++ New timer argument which toggles the timer (/drh timer)
++ New option to reset all rolls on timer start (default false)
+
+If you encounter any parsing issues for rolls, pls activate the debug option, try to reproduce
+and send your dalamud log :)
 """

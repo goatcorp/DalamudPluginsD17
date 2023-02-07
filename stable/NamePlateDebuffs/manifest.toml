@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/jherig/NamePlateDebuffs.git"
+commit = "0f80aad0587288369fc373c62d2191c5553ed8a9"
+owners = [
+    "aers",
+    "JHerig",
+    "squidmade",
+]
+project_path = "NamePlateDebuffs"
+changelog = """
+- Fixed plugin loading
+"""

@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
+owners = [ "Koenari" ]
+project_path = "HimbeertoniRaidTool"
+commit = "f908de7e97b29c15d6cc8095c50b25aa3334fe77"
+changelog = """
+fix: HP calculation
+add: stat calculation for most levels
+localization: added JP (thanks to Refer)
+fix: load time reduced"""

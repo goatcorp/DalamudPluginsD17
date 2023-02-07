@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "352ed4c08b1796b3f03115d7f022e1b88f25263d"
-owners = [
-    "Kouzukii",
-]
-project_path = "WhichPatchWasThat"
-changelog = """
-"""

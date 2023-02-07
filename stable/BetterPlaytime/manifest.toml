@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "16300b554ace8ab88155032c35c84f463f0fd58e"
+commit = "1d720bbe9f16a3acb674773addaf2b5f441c420f"
 owners = [
     "Infiziert90",
 ]
 project_path = "BetterPlaytime"
 changelog = """
-+ Stable release
++ Implement playtime request
 """

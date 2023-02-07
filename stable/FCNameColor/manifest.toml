@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/WesselKuipers/FCNameColor.git"
+commit = "15c185d4196219a225b68c6d449e6aacad4f2dbb"
+owners = ["WesselKuipers"]
+project_path = "FCNameColor"
+changelog = """
+- Resolve logging issue that was causing problems for other plugin developers.
+"""

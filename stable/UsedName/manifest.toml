@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/LittleNightmare/UsedName.git"
+commit = "091de0a22b9366dd3b31f25df4d5ff97bf75d95c"
+owners = [
+    "LittleNightmare"
+]
+project_path = "UsedName"
+changelog = """
+- update social list
+- support api8
+"""

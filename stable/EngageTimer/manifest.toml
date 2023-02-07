@@ -1,7 +1,6 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "62650aa7ad3435e60847dfc7e795fca1c967aa12"
+commit = "0c3753f6facd0e2002c0132b314084d7cf3a6ce1"
 owners = ["xorus"]
 changelog = """\
-- Fix overlapping countdowns when a countdown was cancelled then restarted too quickly
-- Update translations and add a new contributed Japanese translation (thank you!)"""
+- Fix decimals not being properly hidden with the display threshold option"""

@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/fitzchivalrik/gentletouch.git"
+commit = "2ab28540563510d2c2c0aa32a6b0bf20c8c1ca4d"
+owners = ["fitzchivalrik"]
+project_path = "GentleTouch"
+changelog = """
+- feat: DualSense support via DS4 compatibility vibrations
+- feat(DualSense): Set resistance for Adaptive Triggers
+- feat(DS+DS4): Two extra macro buttons:
+  Create (DualSense) / TouchPad (DualShock4) as Individual Macro #96,
+  PS Button as Individual Macro #97
+- feat: Option to /draw & /sheathe with PS button instead of Macro #97
+
+Check out the new settings tab, if you are using a DualSense/DualShock4.
+"""

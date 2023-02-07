@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
-project_path = ""
-commit = "438e0f7fe207be57ec1274283e2526735e4c1037"
-changelog = "### 1.8.2 (2022-08-24)\n\n\n### Bug Fixes\n\n* remove hard set of api version and use dalamudpackager instead (e6f04cc)"
-version = "1.8.2"
+project_path = "DeepDungeonDex"
+commit = "cab984e31af7e245a341c729c25adbd8828a08f6"
+changelog = "## 2.4.0 (2023-01-24)\n\n\n### Features\n\n* Add deprecation warning on legacy window. (1615417)\n* add full unknown status on new targets if no data exists (25891cb)"
+version = "2.4.0"
