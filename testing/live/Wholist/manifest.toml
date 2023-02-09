@@ -6,7 +6,23 @@ owners = [
 ]
 project_path = "Wholist"
 changelog = """
-- Completely refactored the plugin.
-- Optimized draw times by over 10x
-- Added a settings page.
+- A settings menu has been added, alongside new options.
+ 	* Open window on login configuration option added.
+ 	* Disable window moving configuration option added.
+ 	* Disable window resizing configuration option added.
+ 	* Hide in combat configuration option added.
+ 	* Hide in instances configuration option (Please note this also includes Island Sanctuary)
+ 	* Filter AFK players configuration option moved.
+ 
+- Translation support has been improved.
+	* Additional parts of the user interface now support translation.
+
+- A debug menu has been added to help assist with finding issues.
+	* You can preview all debugging information and send it to the developer here.
+
+- Performance has been improved dramatically
+	* The list will refresh all players every 3 seconds, information changes such as job or level changes may not reflect instantly.
+	* Caching is now performed correctly, leading to reduced load on the system.
+
+- Other small tweaks.
 """
