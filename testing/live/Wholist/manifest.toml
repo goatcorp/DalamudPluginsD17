@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "768c4f1d5f2183a23eca061bc1dc8779943d64b9"
+commit = "8b1c7a996cdc05144db2bb697801a694100ea65a"
 owners = [
     "BitsOfAByte",
 ]
@@ -9,14 +9,18 @@ changelog = """
 - A settings menu has been added, alongside new options.
  	* Open window on login configuration option added.
  	* Disable window moving configuration option added.
- 		* This will also disable the ability to close the window with the 'ESC' key. 
+ 		* This will also disable the ability to close the window with the "ESC" key. 
  	* Disable window resizing configuration option added.
  	* Hide in combat configuration option added.
  	* Hide in instances configuration option (Please note this also includes Island Sanctuary)
  	* Filter AFK players configuration option moved.
+ 	* Colour customization options for Party Members, Friends, DPS, Healer and Tank have been added. 
  
 - Translation support has been improved.
 	* Additional parts of the user interface now support translation.
+
+- Players who are in your party or on your friends list will be highlighted with a different name colour.
+	* This colour can be changed in the settings menu under the "Colours" tab.
 
 - A debug menu has been added to help assist with finding issues.
 	* You can preview all debugging information and send it to the developer here.
