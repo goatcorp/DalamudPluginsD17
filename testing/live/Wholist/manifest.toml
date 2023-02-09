@@ -1,33 +1,39 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "8b1c7a996cdc05144db2bb697801a694100ea65a"
+commit = "220a020b0f60057017296be9b81de1f8860026c5"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-- A settings menu has been added, alongside new options.
- 	* Open window on login configuration option added.
- 	* Disable window moving configuration option added.
- 		* This will also disable the ability to close the window with the "ESC" key. 
- 	* Disable window resizing configuration option added.
- 	* Hide in combat configuration option added.
- 	* Hide in instances configuration option (Please note this also includes Island Sanctuary)
- 	* Filter AFK players configuration option moved.
- 	* Colour customization options for Party Members, Friends, DPS, Healer and Tank have been added. 
+- A settings menu has been added, alongside new configuration options.
+	- 'Nearby Players' tab added with the following configurations:
+ 		* Open window on login.
+ 		* Disable window moving. 
+ 			- This will also disable the ability to close the window with the 'ESC' key. 
+ 		* Disable window resizing.
+ 		* Hide in combat.
+ 		* Hide in instances.
+ 			* This will also affect Island Sanctuary instances.
+ 			* The window will always be hidden in Player vs Player instances and zones.
+ 		* Filter AFK players.
+ 		* Max players shown.
+ 	- 'Colours' tab added with the following configuration options:
+ 		* Default, Party Member, Friends colours.
+ 		* Melee DPS, Ranged DPS, Healer and Tank colours. 
  
 - Translation support has been improved.
 	* Additional parts of the user interface now support translation.
 
 - Players who are in your party or on your friends list will be highlighted with a different name colour.
-	* This colour can be changed in the settings menu under the "Colours" tab.
+	* This colour can be changed in the settings menu under the 'Colours' tab.
 
 - A debug menu has been added to help assist with finding issues.
 	* You can preview all debugging information and send it to the developer here.
 
-- Performance has been improved dramatically
-	* The list will refresh all players every 3 seconds, information changes such as job or level changes may not reflect instantly.
+- Performance has been improved dramatically.
+	* The list will refresh all players on a delayed timer, information changes such as job,  level and colour changes may not reflect instantly.
 	* Caching is now performed correctly, leading to reduced load on the system.
 
-- Other small tweaks.
+- Other small tweaks and improvements.
 """
