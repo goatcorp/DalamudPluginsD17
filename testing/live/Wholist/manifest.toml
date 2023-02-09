@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "c316d6af6f5fc20678d077e631f29bfec8bd18fe"
+commit = "6a047c352dcac780a09f1934432d39574d03d4af"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-- Performance improvements
-- Removed 'Filter Suspected Bots' and integrated that behaviour by default
+- Completely refactored the plugin.
+- Optimized draw times by over 10x
+- Added a settings page.
 """
