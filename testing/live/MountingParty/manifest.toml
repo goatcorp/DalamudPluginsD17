@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/meoiswa/MountingPartyPlugin.git"
+commit = "572d44d8732f0166e3639171d21dcb7f7448eebc"
+owners = [
+    "meoiswa"
+]
+project_path = "MountingParty"
+changelog = "Initial Release"
