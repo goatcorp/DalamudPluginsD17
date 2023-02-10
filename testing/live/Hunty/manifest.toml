@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "b321fdaeef88e7bbc88413c04afaca07e60e98e3"
+commit = "6bc18cf174e9d62a7756f2dff1134acf6916424b"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-+ Add hunty to testing
++ Check for job change
 """
