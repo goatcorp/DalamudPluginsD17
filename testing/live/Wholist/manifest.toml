@@ -1,39 +1,10 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "f47f124335024b2b486a90c8876ca412682803cb"
+commit = "e180f72cf244f30056e54a0245c2ff4d0a893dc7"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-- A settings menu has been added, alongside new configuration options.
-	- 'Nearby Players' tab added with the following configurations:
- 		* Open window on login.
- 		* Disable window moving. 
- 			- This will also disable the ability to close the window with the 'ESC' key. 
- 		* Disable window resizing.
- 		* Hide in combat.
- 		* Hide in instances.
- 			* This will also affect Island Sanctuary instances.
- 			* The window will always be hidden in Player vs Player instances and zones.
- 		* Filter AFK players.
- 		* Max players shown.
- 	- 'Colours' tab added with the following configuration options:
- 		* Default, Party Member, Friends colours.
- 		* Melee DPS, Ranged DPS, Healer and Tank colours. 
- 
-- Translation support has been improved.
-	* Additional parts of the user interface now support translation.
-
-- Players who are in your party or on your friends list will be highlighted with a different name colour.
-	* This colour can be changed in the settings menu under the 'Colours' tab.
-
-- A debug menu has been added to help assist with finding issues.
-	* You can preview all debugging information and send it to the developer here.
-
-- Performance has been improved dramatically.
-	* The list will refresh all players on a delayed timer, information changes such as job,  level and colour changes may not reflect instantly.
-	* Caching is now performed correctly, leading to reduced load on the system.
-
-- Other small tweaks and improvements.
+- Add new player submenu option, 'find on map'.
 """
