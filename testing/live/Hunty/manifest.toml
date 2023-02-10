@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "961395c5ed4f7e75849dd0307c6d5eb02f55fa7f"
+commit = "297216f81bded5b24b983d5782477ef999e98d68"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-+ Check for job change
-+ Fix Tree Slug position
++ Automatically switch to the correct tab on job switch
++ Adjust some flags with incorrect locations
 """
