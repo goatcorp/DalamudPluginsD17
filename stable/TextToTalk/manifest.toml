@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "2e7a1538ebc74e38a723646fac34494a9311bf8a"
+commit = "7729bf99d0f9f1f81d72a927ec3a72a356de05c9"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Adds support for assigning voices to NPCs
-- Removes broken preview image in the plugin installer
-- Maybe fixes the system voice unlocker?
+- Suppressed log messages for sound effect loading
+- Updated dependencies
 """

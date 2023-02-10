@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "90962831b636f97cca632603345109010ce99ed3"
+commit = "596c2e02423693420fced313631df67723020bfb"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-Fixed bug that wouldve wiped Notes upon a plugin update(hopefully). 
-If you already had Notes you will need to copy them to the plugin config at %appdata%/XIVLauncher/pluginConfigs/TooltipNotes
-also includes some QOL changes thanks to mrexodia
+0.1.1.2
+Fixes incompatability with the Simpletweak: "show expected food and potion stats"
+Now hides the migrate old config button if you dont have one anymore thanks to mrexodia once again
 """

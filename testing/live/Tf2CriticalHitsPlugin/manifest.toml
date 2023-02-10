@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "c7ee5647d634f3f98f73c9756dc359dc4c0577c6"
+commit = "37a7430c07556795c481197a60c535510ceb73e9"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
-changelog = "Separates Direct Critical Hits from plain Critical Hits."
+changelog = "Change the formatting of the text AND preview it without the need to get lucky. (Thanks Lore and mrexodia for the help!)"

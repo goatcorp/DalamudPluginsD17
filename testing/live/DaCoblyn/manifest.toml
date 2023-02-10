@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/thatismunn/xiv-coblyn.git"
+commit = "048dffc08c0487563e9ef88889502f3a1aba9a67"
+owners = [ "thatismunn" ]
+project_path = "Plugin/DaCoblyn"
+changelog = "Add auto translate chat to target language"

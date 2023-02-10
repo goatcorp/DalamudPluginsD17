@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "c52c59d65e838a9be7438940b33fdee27c748380"
+commit = "559dfc1838be8a35dbd2a86c232ee9bcb8ff6faa"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
-changelog = "2.0 Overhaul. More triggers, more tweaks, better configuration window"
+changelog = "2.1.1 Added Mounted trigger"

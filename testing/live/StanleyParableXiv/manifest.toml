@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "c289ac13b7be5b027d1fc75951ef8ec9a27db854"
+commit = "7b8fe0db4850935cedd5e22eb5271242fa02cbc9"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
-changelog = "Initial testing release"
+changelog = """
+- Fixed PvP countdown configuration not setting when standard countdown configuration is open 
+"""
