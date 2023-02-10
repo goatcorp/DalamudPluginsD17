@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "6bc18cf174e9d62a7756f2dff1134acf6916424b"
+commit = "961395c5ed4f7e75849dd0307c6d5eb02f55fa7f"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
 + Check for job change
++ Fix Tree Slug position
 """
