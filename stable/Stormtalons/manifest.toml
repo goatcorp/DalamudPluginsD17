@@ -1,5 +1,5 @@
 [plugin]
-changelog = "- Decaying Stormtalon option added\n- Options to enable/disable various info displayed"
-commit = "5d41f02ad23705a410b792796b29cde8c34df8f2"
+changelog = "- Fixed decaying stormtalon bar counter"
+commit = "4d25c674a5733b02343ce585383ab424a2f1e7b7"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"
