@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "b321fdaeef88e7bbc88413c04afaca07e60e98e3"
+commit = "cb06c8179762647f12df18cbcda3589139320664"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-+ Add hunty to testing
++ Automatically switch to the correct tab on job switch
++ Adjust some flags with incorrect locations
 """
