@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/meoiswa/TiltedPlugin.git"
+commit = "1c1d255a0829a54d91102d1d129f956dbf6ebb15"
+owners = [
+    "meoiswa"
+]
+project_path = "Tilted"
+changelog = "3.0.0 Fixed trigger wonkiness, migrated config to new version"
