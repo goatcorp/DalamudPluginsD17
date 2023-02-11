@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "e180f72cf244f30056e54a0245c2ff4d0a893dc7"
+commit = "0ffd084dc7ed45f99c3af726f2da5274b8b8d691"
 owners = [
     "BitsOfAByte",
 ]
