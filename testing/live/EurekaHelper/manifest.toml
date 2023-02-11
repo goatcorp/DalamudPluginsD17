@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "ecb70ce44495d65b6c0fd80d6820168be6e86bee"
+commit = "9269b9b05bd6797f479b258d3c870d123c0bf5a2"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
@@ -9,4 +9,5 @@ changelog = """
 - Fixed some datacenter not being set correctly
 - Fixed connection not closing when unloading the plugin
 - Add Dynamis and Meteor datacenter support
+- Fix Hadhayosh popping other fates
 """
