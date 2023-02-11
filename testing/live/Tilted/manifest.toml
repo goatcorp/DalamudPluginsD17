@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "1c1d255a0829a54d91102d1d129f956dbf6ebb15"
+commit = "fd8689642ed77b404f0047ea758cd3c83263d91e"
 owners = [
     "meoiswa"
 ]
