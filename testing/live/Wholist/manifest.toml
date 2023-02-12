@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "bba867279ee6de7dfa5f9eaa4c138a7e24bf2e7b"
+commit = "5f7d565dc7fe1a17a3a7c5cc8c12f0e1d106b75c"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-- Improves peformance with displaying list items when 'Max players to show' is lower than the current nearby player amount.
-- Add 'integrations' (IPC) inbound support, allowing other plugins to add their own context menu items to players on the 'Nearby Players' list.
+- Add inbound 'Integrations' support (IPC) that allows other plugins to add their own context menu items to players on the 'Nearby Players' list
+	* These integrations will come from other plugins, so if you experience issues using them please reach out to their developer instead.
+    
+- Performance when setting the "Max players to show" configuration option lower than the current nearby players list has been drastically improved.
+- Items that were previously unable to be translated now support localization
+- Various code cleanup changes.
 """
