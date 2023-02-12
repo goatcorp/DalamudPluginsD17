@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "112bf8a7ccaf865c0a0adb03c314827a36d04be2"
+commit = "bba867279ee6de7dfa5f9eaa4c138a7e24bf2e7b"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-- Add new player submenu option, 'find on map'.
+- Improves peformance with displaying list items when 'Max players to show' is lower than the current nearby player amount.
+- Add 'integrations' (IPC) inbound support, allowing other plugins to add their own context menu items to players on the 'Nearby Players' list.
 """
