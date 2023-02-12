@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "7729bf99d0f9f1f81d72a927ec3a72a356de05c9"
+commit = "d60b16b48a7d107edc7a464bc9d7794d6891dbbc"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Suppressed log messages for sound effect loading
-- Updated dependencies
+- Possible fix for System backend failures on some systems
+- Possible fix for VoiceUnlocker issues
 """
