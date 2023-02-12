@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "d60b16b48a7d107edc7a464bc9d7794d6891dbbc"
+commit = "dae2bc6196660520d7a3cc75bd9f806b8f056699"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Possible fix for System backend failures on some systems
-- Possible fix for VoiceUnlocker issues
+- Fix Amazon Polly backend loading issues
 """
