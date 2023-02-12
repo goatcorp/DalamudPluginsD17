@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "cb06c8179762647f12df18cbcda3589139320664"
+commit = "d8161c5524c0dfb66c0ffe301f67bb51bd158d52"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-+ Automatically switch to the correct tab on job switch
-+ Adjust some flags with incorrect locations
++ Simple progress tracking (only new progress)
++ Adjust wording to be less confusing
 """
