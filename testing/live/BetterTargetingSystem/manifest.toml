@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/Lynesth/BetterTargetingSystem.git"
-commit = "27eaac89b0ca1198565ceed8c5d0f3d7c8e46476"
+commit = "f3ed13278706f323bc7914c2d93c82f492dc1065"
 owners = ["Lynesth"]
 project_path = "BetterTargetingSystem"
-changelog = "Initial submission"
+changelog = """
+- Add support for mouse keybinds
+- Improve [Cycle Targets] behaviour
+- Improve support for Keyboard keybinds"""
