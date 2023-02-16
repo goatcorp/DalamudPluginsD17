@@ -1,15 +1,20 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "5f7d565dc7fe1a17a3a7c5cc8c12f0e1d106b75c"
+commit = "b705e4bb04b5b479dafce1a8aaeb718a4af8f076"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-- Add inbound 'Integrations' support (IPC) that allows other plugins to add their own context menu items to players on the 'Nearby Players' list
-	* These integrations will come from other plugins, so if you experience issues using them please reach out to their developer instead.
-    
-- Performance when setting the "Max players to show" configuration option lower than the current nearby players list has been drastically improved.
-- Items that were previously unable to be translated now support localization
-- Various code cleanup changes.
+**New Features**
+- 'Search on Lodestone' player context menu item for quickly finding a player on the lodestone.
+
+**Translation Updates:**
+- French translation updates
+- German translation updates
+
+**Other Improvements**
+- Refactoring of underlying components to improve interface draw times
+- Restricted heading elements for better visual clarity
+- Separator between plugin context menu items and 3rd party integration items.
 """
