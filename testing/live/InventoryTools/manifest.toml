@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "e837f5d3ff7d9d780c5754495ac220baf38b0441"
+commit = "aaae751bf9947108601155d9e23a42da29e266f4"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Completely reworked tooltips in the plugin, if you were getting lag before can re-enable tooltips and see how you fare."
-version = "1.3.0.5"
+changelog = "Don't include lumina dlls with plugin"
+version = "1.3.0.6"
