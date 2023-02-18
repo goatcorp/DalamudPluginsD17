@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ZhyraPlugins/MarketUploader.git"
+commit = "dc9a50370535e6923098880e34c9303bd3889e4b"
+owners = ["edg-l"]
+project_path = "MarketUploader"
+changelog = "Initial release."
