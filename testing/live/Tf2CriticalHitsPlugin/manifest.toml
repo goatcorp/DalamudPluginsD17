@@ -1,22 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "95b10922e52bfccf64642b36a962d57b90d03840"
+commit = "734431a63426095dd3463a3df755279ea8a728e1"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-* Now, critical heals are defined separately from critical damage.
-* Option to use the game's sound effects as hitsounds.
-* Options separated by combat job:
-  * Option to copy settings from one job to other jobs.
-* Test the whole shebang at once by clicking on \"Test configuration\"!
-  * This works even if your current job is different from the one you're configuring.
-
-Existing users, when installing this update:
-* Critical heals will copy your settings from critical damage
-  * If your critical damage text is \"CRITICAL HIT!\", it will be changed to \"CRITICAL HEAL!\" for critical heals.
-* Your options will be replicated across all jobs automatically.
-
-If you need any help or have any suggestions, reach me at the help thread on the Dalamud Discord or use the feedback button on the plugin installer.
-
-This version wouldn't be possible without the help of the Dalamud Dev Channel, including MidoriKami, Infi, Ottermandias and many others.
+* Fixes configurations not saving after changing a file path.
+* Fixes configurations not saving after using the copy feature.
 """
