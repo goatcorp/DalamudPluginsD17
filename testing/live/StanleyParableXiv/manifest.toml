@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "e21e89103b9b48a52f70d80e4cda005ee952d188"
+commit = "a1abf05c3287c7170c8151fc200c8e75ddfad89b"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
