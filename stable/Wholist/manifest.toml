@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/BitsOfAByte/Wholist.git"
+commit = "a3a80596b3b89efa35d73b402023b6a8f2c1c71e"
+owners = [
+    "BitsOfAByte",
+]
+project_path = "Wholist"
+changelog = """
+Show nearby players in a stylish way, inspired by the `/who` command from World of Warcraft.
+
+**Features:**
+
+- Minimalistic interface that can be scaled down to become part of your HUD.
+- Player context menu items, like sending tells, examining, searching on the Lodestone and more.
+- Customizable colours & behaviour.
+- Integration support with other plugins via IPC.
+
+*Wholist updated to version 1.0 and now considered stable.*
+"""
