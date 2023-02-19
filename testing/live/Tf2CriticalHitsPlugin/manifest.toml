@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "734431a63426095dd3463a3df755279ea8a728e1"
+commit = "893236c1733306b441e1f0164d3a51d17103facc"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-* Fixes configurations not saving after changing a file path.
-* Fixes configurations not saving after using the copy feature.
+* Adds note to the critical healing section about it triggering for other players' actions.
 """
