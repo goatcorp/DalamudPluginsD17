@@ -4,7 +4,6 @@ commit = "ea0519752e469fb12b93efab118536f0d8535b8d"
 owners = [
     "Arrenton",
 ]
-project_path = "AudibleCharacterStatus"
 changelog = """
 Updated for API 8
 """
