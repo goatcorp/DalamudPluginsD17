@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "53bd666053e426e01a40d17cbfab7d0fc7d4f801"
+commit = "a6fbfe7b89c7340854b3703467a2862f3cca9b47"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
 changelog = """
