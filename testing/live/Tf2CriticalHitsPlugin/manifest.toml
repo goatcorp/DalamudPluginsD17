@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "541bf3684116aff1d143c9911411dd7454e2bab0"
+commit = "3dcbe0517b362af509b2bf8056be2b742621e346"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-Fixed it not working for damage actions. :)
+Fixes it not working for damage actions. :)
+Also fixes migration issues from <2.0.0.0. 
 """
