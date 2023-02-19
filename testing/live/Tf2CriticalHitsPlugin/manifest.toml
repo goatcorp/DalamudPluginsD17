@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "5d2679fe07f0a22f53f56e28b61dea401125a08c"
+commit = "541bf3684116aff1d143c9911411dd7454e2bab0"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
