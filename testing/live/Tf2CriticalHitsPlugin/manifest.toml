@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "b3de560bbcf6197e0908d92f1de3829120b2ef15"
+commit = "f189dede03a6f11024ef67cc0b7f17eb761d94ce"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-Separation of critical heals from own job and other jobs.
-
-* Unfortunately, if another player shares your job, the \"own job\" config will also play.
-* Your <=2.0.0.0 config will be migrated automatically.
-**** If your text for critical damage (< 2.0.0.0) or critical heals (2.0.0.0) was the default, \
-the text for the \"Other jobs' critical heals\" config will be set to its default (THANK YOUR HEALER!).
+Fixes it not working for damage actions. :)
+Also fixes migration issues from <2.0.0.0. 
 """
