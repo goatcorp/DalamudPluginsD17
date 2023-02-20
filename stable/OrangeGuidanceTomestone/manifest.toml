@@ -1,9 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/OrangeGuidanceTomestone.git'
-commit = '1e68b679c85a354b84ee196584aa0ccdd904bc10'
+commit = 'ce2011ce33e61afbc6142f1f55de239c9d63b49b'
 owners = [ 'ascclemens' ]
 project_path = 'client'
 changelog = """\
-- Fix a crash because Dalamud can't handle exceptions
-- Fix an exceedingly rare potential crash to satisfy someone
+- Housing areas now have messages separated by ward/plot.
 """
