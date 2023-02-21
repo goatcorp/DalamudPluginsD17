@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
+commit = "7d4e394937584c5f515fa08572f2dbbceaed8f72"
+owners = ["Berna-L"]
+project_path = "Congratulations"
+changelog = "First version for testing."
