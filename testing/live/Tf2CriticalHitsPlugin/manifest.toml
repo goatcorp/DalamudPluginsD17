@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "9f19c64460eca35387205908b03d6aa1ad074a77"
+commit = "de72b90a4697d7f9a065359e4c19c16160c07c90"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Now should work for Second Wind and Bloodbath self critical heals. (Can Bloodbath even crit heal? I don't know, but it's now fixed!)
-- The configuration window sidebar is now resizable, thanks to MidoriKami.
+- Changed logic that checks if a fly text is for damage or heal.
+    - This should fix any conflicts with DamageInfo. If they persist, send feedback through Dalamud or on the Discord.
 """
