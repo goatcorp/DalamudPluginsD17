@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "a12a74e03cd69c87758afca7b78c5e3400b48561"
+commit = "dd4d3843ea7108ea1436f33dbb56681ea7a3db62"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Update to latest Dalamud version and also add 6.3 items"
+changelog = "Read peaks from external database to improve accuracy with missed days"
