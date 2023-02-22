@@ -1,9 +1,15 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "f189dede03a6f11024ef67cc0b7f17eb761d94ce"
+commit = "2220854c9996db72d59330736967c1c10a8b313f"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-Fixes it not working for damage actions. :)
-Also fixes migration issues from <2.0.0.0. 
+* Add option to make the volume of custom sound effects be affected by the game's SFX volume.
+** This is enabled by default.
+** If your SFX is now too low, please open /critconfig and adjust the volume or disable the new setting.
+* Add option to enable the Direct Damage configuration in PvP.
+** This is disabled by default.
+** Some (all?) Jobs show all action damage the same way a Direct Damage does. By enabling this, all of your damage will ding.
+* Add internals to enable chat alerts about changes post-update.
+** This is used to tell users about what changed without the need to open the changelog.
 """
