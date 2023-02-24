@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/BitsOfAByte/Wholist.git"
+commit = "5227f30d3036fa8f7e953102fd125d57de203c09"
+owners = [
+    "BitsOfAByte",
+]
+project_path = "Wholist"
+changelog = """
+**Features**
+
+- Added the ability to use job abbreviations instead of their full names.
+"""

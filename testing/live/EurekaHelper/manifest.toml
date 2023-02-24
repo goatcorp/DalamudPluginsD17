@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "291d7691b4bc536b64ba0fbac7c1d1cf6d0426b4"
+commit = "9269b9b05bd6797f479b258d3c870d123c0bf5a2"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
@@ -8,4 +8,6 @@ changelog = """
 - Added an option to show toast when an NM pops
 - Fixed some datacenter not being set correctly
 - Fixed connection not closing when unloading the plugin
+- Add Dynamis and Meteor datacenter support
+- Fix Hadhayosh popping other fates
 """
