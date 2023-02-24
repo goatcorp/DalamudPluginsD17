@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "191b42d900880a5db1f11ee5dea1a7ea1ed34c90"
+commit = "53dff55264898090d259d5791eca582d336f74af"
+version = "1.1.0.8"
 owners = ["CMDRNuffin"]
 changelog = """Features:
 - Add support for different settings per character
-- Import setting from other characters
-- Manage other characters' settings from within the game"""
+  - Import setting from other characters
+  - Manage other characters' settings from within the game
+- Add setting to prefer multi-seated mounts while in a party (courtesy of Meoiswa)"""
