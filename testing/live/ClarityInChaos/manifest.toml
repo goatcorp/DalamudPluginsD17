@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "08f1f3e5c8169dbbfd5e08eed985d8dbc6d97974"
+commit = "d07432a098f805fe42ffcced45d0ad1299f6d7ad"
 owners = [
     "meoiswa"
 ]
 project_path = "ClarityInChaos"
-changelog = "1.1.1.1 Added icon and fixed plugin name."
+changelog = "1.1.2.0 Improvements as suggested by The Team"
