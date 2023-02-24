@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "9269b9b05bd6797f479b258d3c870d123c0bf5a2"
+commit = "1e955cc36004677ddb27f9891e1f034f7249d232"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-- Added feature to copy or shout to chat upon clicking custom chat payload
-- Added an option to show toast when an NM pops
-- Fixed some datacenter not being set correctly
-- Fixed connection not closing when unloading the plugin
-- Add Dynamis and Meteor datacenter support
-- Fix Hadhayosh popping other fates
+- Added new configuration for custom chat messages (randomly picked)
+- You can now open NM boss location by clicking their name in tracker
 """
