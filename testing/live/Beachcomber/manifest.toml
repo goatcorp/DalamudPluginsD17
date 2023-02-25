@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "dd4d3843ea7108ea1436f33dbb56681ea7a3db62"
+commit = "837671453bb90e5672f89f0b982cfdc826a23643"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Read peaks from external database to improve accuracy with missed days"
+changelog = "Various fixes, can show time next to craft names"
