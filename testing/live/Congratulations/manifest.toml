@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
-commit = "cb04b6c18899e00a8d56d4673ceedf7665159200"
+commit = "450b1bb3e21eb54d466820213ff21cd34e08bace"
 owners = ["Berna-L"]
 project_path = "Congratulations"
 changelog = """
-* Fixes it congratulating you when TPing to Limsa after installing (who should be congratulated on THAT?)
-** (Actually, fixes it congratulating you when changing location after first install)
-* New option to apply the game's Sound Effects volume to the sounds.
-** This is enabled by default.
-** For users of v1.0.0.0, the default sounds will be too low on v1.1.0.0. Please do like your healers and adjust the volumes. Thanks!
+- Fix volume almost always being 100 when you actually get commmended. (Thanks, thetacriterion!) 
+- Now autosaves when changing any configuration, instead of requiring you to press \"Save\".
+- Changed default volume to 50.
 """
