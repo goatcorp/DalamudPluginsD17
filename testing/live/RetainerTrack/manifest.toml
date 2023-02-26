@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/carvelli/RetainerTrack.git"
-commit = "fb819b6a10cda2f39581909f873d5aef88ed25a6"
+commit = "f453a5b812c8b458b2affcbe3829f712bd3cff2a"
 owners = ["carvelli"]
 project_path = "RetainerTrack"
