@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "aaae751bf9947108601155d9e23a42da29e266f4"
+commit = "bb5fd6fe20a74c6e887cec87102fa9393245601f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Don't include lumina dlls with plugin"
-version = "1.3.0.6"
+changelog = "New duties window, mob window, duty window, lots more item/boss/drop data, speed increases, bug fixes, airship/submarine drop data, general bug fixes, ui updates, see the full list in the Allagan Tools post in #plugin-help-forum on the xivlauncher discord."
+version = "1.4.0.0"
