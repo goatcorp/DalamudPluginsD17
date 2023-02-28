@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/justscribe/g4e_ukrchatsupport.git"
-commit = "fa7229e4ae04e1bd1be021dbb6021081222689c2"
+commit = "501cf28fe22bde6cda3ed5ce3352f11d0a213e67"
 owners = ["justscribe"]
 project_path = "G4E_UkrChatSupport"
 changelog = "First release"
