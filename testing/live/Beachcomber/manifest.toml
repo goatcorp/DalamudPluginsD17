@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "00216e652b516be5927a3f88e46b0e578fc5944b"
+commit = "2fd8c83334f2a53f297b100980ea2d865eb8c844"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Async peak calculation. Include 6-craft schedules."
+changelog = "Fix bug where unknown C2 peaks weren't included in suggestions"
