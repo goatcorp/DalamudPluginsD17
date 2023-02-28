@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/markjsosnowski/OceanFishin.git"
-commit = "c08d99a005ca67443f71973108d395fca4fec673"
+commit = "f0b7b926bc9f498002c691ea3f1aca158a30fd08"
 owners = ["markjsosnowski"]
 changelog = "Updated to API8, Localization added"
