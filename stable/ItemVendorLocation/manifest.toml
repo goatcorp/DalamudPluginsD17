@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "9aa833d23c6ed9c72122c270b61591be68c99ffa"
+commit = "f509043a5782bbc0efabf4c6f2f60b4e37354fcc"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Update Context Menu
-- .net7 update
+- Add localization (should work across languages now)
+- Allow plugin to work in Supply Mission window
+- Allow plugin to work in Recipe Tree window
 """
-version = "1.0.0.3"
+version = "1.1.0.0"
