@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "e96ba18994b27be529d4f90d23a31d51c07a21a9"
+commit = "a5bfecea20f4f1832db277bcb57ee1c7ffbb967f"
 owners = [
     "Aireil",
 ]
 project_path = "FlyTextFilter"
-changelog = "- 6.3 compatibility\n- Add a new setting to hide damage type icon from auto attacks / status effects / others"
+changelog = "- Rename types to clearer names.\n- Add an help button for the type table."
