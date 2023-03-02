@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "49a4cda391492c4fa57e7bbd1c1b6ebe2a1a1413"
+commit = "8611f2d94fdb27ba5656715d5747b48e99abcb65"
 owners = [
     "Infiziert90",
 ]
 project_path = "BetterPlaytime"
 changelog = """
-net7 + API8 update
++ Add basic localization
++ Don't fail on specific exception for server bar
 """

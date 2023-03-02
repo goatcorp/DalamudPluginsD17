@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "c26d5f15a734b69d04b9f9a28b2da6e88b2c8d4c"
+commit = "d15f5fc400e0d9896609b17768abd8f4abf03dc5"
 owners = [
     "Kouzukii",
 ]
 project_path = ""
 changelog = """
-Update for Patch 6.3
+Will now display an error message if fetching prices from universalis has failed.
 """

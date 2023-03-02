@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/thatismunn/xiv-coblyn.git"
+commit = "a1ef11f0309772e946c2b2d2afecba57c322c7c6"
+owners = [ "thatismunn" ]
+project_path = "Plugin/DaCoblyn"
+changelog = """
+Version 1.0.1.7:
+- Replace text command /tl to interactive window.
+- Fix switch language that can't be switching when source language is Automatic
+Version 1.0.2.1:
+- Fixing deprecated "Open window" method.
+- Fixing "Low confident" alert when the language is ignored in the configuration. thatismunn/xiv-coblyn#2
+"""

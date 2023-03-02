@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sersorrel/ShowGear.git"
-commit = "b5595ea2d4c627c0460ed08de4c492e40231d1b0"
+commit = "ecc9b9f6cc62f1c8a9ee20684d2e5df605a34976"
 owners = ["sersorrel"]
 project_path = "ShowGear"
-changelog = "Handle the Glamour Plate Selection window too"
+changelog = "Update for 6.3"

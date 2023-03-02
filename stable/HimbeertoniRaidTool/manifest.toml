@@ -2,5 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59727abdd054326b4d19a1c027045ca29378d01f"
-changelog = "fixed examine functionality"
+commit = "49d31c87869b0e62610bddec72b585a5d488e2aa"
+changelog = """
+correctly identify upgraded crafted items
+French translation updated (Thanks to Arganier)
+some internal changes"""
