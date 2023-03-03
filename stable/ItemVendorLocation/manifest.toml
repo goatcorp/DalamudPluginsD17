@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "67b03a138e26854ac33a68916a4e568d76d2fee2"
+commit = "2af78ce25eecd0a9f95e5cc08e68ed77a2557141"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Remove localization (should still function in other languages, but with an English menu option)
+- Fix for crash on plugin load
 """
-version = "1.1.0.1"
+version = "1.1.0.2"
