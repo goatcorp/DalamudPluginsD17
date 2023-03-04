@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "f509043a5782bbc0efabf4c6f2f60b4e37354fcc"
+commit = "2af78ce25eecd0a9f95e5cc08e68ed77a2557141"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Add localization (should work across languages now)
-- Allow plugin to work in Supply Mission window
-- Allow plugin to work in Recipe Tree window
+- Fix for crash on plugin load
 """
-version = "1.1.0.0"
+version = "1.1.0.2"
