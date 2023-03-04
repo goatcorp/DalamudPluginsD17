@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/imaginary-png/HuntHelper.git"
-commit = "2e24403fbedda924803f2bf977cf98bc68bdec57"
+commit = "7b2a32d4a79e1d083e415a666e7a39ad5c90dbe3"
 owners = [
     "imaginary-png",
 ]
 project_path = "HuntHelper"
-changelog = "Added option to change gui language. Added Simplified Chinese (sorta). Thank you: DeepseaXX"
+changelog = "Add support for Unix based systems - Thank you: Nullctipus"

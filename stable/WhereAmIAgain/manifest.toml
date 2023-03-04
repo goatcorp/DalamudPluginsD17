@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/cassandra308/WhereAmIAgain.git"
-commit = "2211decce83d511978f5b25d2a3835f9051f8c38"
+commit = "fcc591d01414f3170543d09899d83d7759aaa26a"
 owners = [
 	"cassandra308",
 	"reiichi001",

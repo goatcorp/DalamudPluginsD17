@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "15205e57a115fd2a453666ffadef4c94eab58b65"
+commit = "d49ba4efb0b512487089799a39eb8a74d5d46ac9"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Updated for FFXIV 6.3 and Dalamud API 8"
+changelog = "Fix Emotes filter"

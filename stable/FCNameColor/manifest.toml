@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "1ebe72498757969ab7d38644342a90146ad4c231"
+commit = "8013b9f28fefca2ce0cd25b57f08c979edb6072b"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 6.3
-- Make the plugin respect the user's name display types based on their settings.
-  Names will correctly abbreviate based on your settings for others/party members/alliance members/friends.
-- Fix minor issue with how party and alliance members are detected.
+Changes:
+- Update NetStone
+  This should help with issues regarding fetching FC members, which was causing the plugin to stop working for some users.
 """

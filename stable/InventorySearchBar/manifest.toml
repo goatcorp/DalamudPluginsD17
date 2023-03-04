@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "429e82861a169d72f589b497c9c168b656b63075"
+commit = "2b49b3445a84de05c1befc50409ab0be95c513ef"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "- Fixed inventories with tabs not working correctly."
+changelog = "- Fixed retainer inventories not working correctly."
