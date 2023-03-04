@@ -1,5 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/SoundSetter.git"
-commit = "1163f334422c3beaec88fc3fd17b2cb3cf975327"
+commit = "1f50444b326faa02ae6bf226d11a06d5b798e764"
 owners = ["karashiiro"]
-changelog = "Fixes caravan convoy."
+changelog = """\
+- Adds "Play sounds while window is not active" and its sub-settings.
+- Enables resizing the configuration window.
+"""

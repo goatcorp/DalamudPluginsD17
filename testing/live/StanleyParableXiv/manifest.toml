@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/rekyuu/StanleyParableXiv.git"
+commit = "a1abf05c3287c7170c8151fc200c8e75ddfad89b"
+owners = ["rekyuu"]
+project_path = "StanleyParableXiv"
+changelog = """
+- Updated killing spree voice lines to be 30% quieter during playback
+- Implemented Duty Complete playback for guildhests
+- Disabled Duty Start and Duty Complete playback for solo quest instances
+- Prevented Duty Failure from playing during FC workshop craft cutscenes
+"""

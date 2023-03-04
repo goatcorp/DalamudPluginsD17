@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
+owners = ["PrincessRTFM"]
+project_path = ""
+commit = "a2f683d7b967d52cd5db9dff51925e04fd18ff06"
+changelog = "Updated for api8/patch6.3"

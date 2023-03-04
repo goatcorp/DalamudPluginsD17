@@ -1,5 +1,10 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "4b6d9e9f76c9bd5fee76f8727ede5ab584e74b28"
+commit = "f88892f6b57a103a0c96fa1d607114ca928a4f00"
 owners = ["Styr1x"]
 project_path = "Browsingway"
+changelog = """\
+- Add IINACT support
+- Fix ACT not detected when running as tray icon
+- Fix overlays using global context
+"""

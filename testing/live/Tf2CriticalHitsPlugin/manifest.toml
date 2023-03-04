@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
+commit = "a4b9f08bb5ef90712ba766ad95f378d2c3f8a74b"
+owners = ["Berna-L"]
+project_path = "Tf2CriticalHitsPlugin"
+changelog = """
+- Changed logic that checks if a fly text is for damage or heal.
+    - This should fix any conflicts with DamageInfo. If they persist, send feedback through Dalamud or on the Discord.
+- Reordered options
+    - Now all damage types come first, then all heal types.
+- Fixed options about PvP (for Direct Damage) and using the game's sound effect volume not being copied between jobs. (Thanks, Grayve!)
+"""

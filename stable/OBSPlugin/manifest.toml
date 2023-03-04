@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
+commit = "4d12e07eac29b1a6cb35953b1444c83e11586aca"
+owners = ["Bluefissure"]
+changelog = "Don't stop recording in raid clear cutscenes"
