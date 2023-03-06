@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "321f5e1ac6b6d90ce667a9b1d6e8b97ab536e2eb"
+commit = "20ee2516aaba03971ef6120edee2689289375f09"
 owners = ["Drahsid"]
 project_path = ""
 changelog = """- Version should no longer be bogus
@@ -9,8 +9,14 @@ changelog = """- Version should no longer be bogus
 - Added tooltips
 - Added option to reorder the preset list and zone preset list
 - For nodes in the zone preset list, added a text label next to the default checkbox (when it is enabled) which shows where the preset is inheriting the default from
-- Fixed "defualt" typo
 - Added a safezone to the right of the config window for scrolling the main window scrollbar instead of the zone or preset scrollbar
 - Added a 'paste' button to the preset editor.
+- Added Window popouts, and commands for each window popout
+- Added minimum window size constraints
+- Added option to show the continent in the zone list
+- Fixed "defualt" typo
+- Fixed value desync when using `/tbshadows`
+- Fixed cascade slider max 'min' value
+- Updated code borrowed from WAIA
 """
 
