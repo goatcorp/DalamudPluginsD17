@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "53dff55264898090d259d5791eca582d336f74af"
-version = "1.1.0.8"
+commit = "5699cf7b1204f5be348f01837c025c7f0098466e"
+version = "1.1.0.9"
 owners = ["CMDRNuffin"]
 changelog = """Features:
 - Add support for different settings per character
