@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
-commit = "450b1bb3e21eb54d466820213ff21cd34e08bace"
+commit = "15f89ac4ce7824a35576498ad6e4af5d6264e4fe"
 owners = ["Berna-L"]
 project_path = "Congratulations"
 changelog = """
-Get aurally rewarded when you get commended on duties.
-
-Comes with default sounds for when you get commended by 1/3, 2/3, 3/3 or all seven members of the duty you were in, but you can set custom sounds for each type of trigger by opening /congratsconfig.
-
-The fractioned values are in relation to how many of those members could commend you (i.e. excluding those that were in your party before joining the duty).
+- Fix sound not working when applying the game's sound effect volume in 6.35.
 """
