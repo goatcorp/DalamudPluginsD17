@@ -1,7 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "fdbe599318ac9c842563e36069332d0e990f046a"
+commit = "3c60a6401b4e95be43944b35986a25a30968b57b"
 owners = [
     "ItsBexy",
 ]
-changelog = "Fixed a bug with icon display in the configuration window."
+changelog = "Updated for Patch 6.35.
+
+- Fixed an issue wherein the incorrect grid layout would sometimes be applied to standard hotbars."
