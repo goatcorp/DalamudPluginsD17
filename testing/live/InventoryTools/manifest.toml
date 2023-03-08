@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "a6071a4c4afa5b47d216a3f0571e78b6584c18bf"
+commit = "2dec63d7fe94347f6260b0b8c5b3fae376d289c9"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Update to support new CS changes."
-version = "1.4.0.3"
+changelog = "Fix a few UI bugs, add more detail to retrieve tooltip, group retainers by character in settings -> characters/retainers, trim collectable/hq characters when searching"
+version = "1.4.0.4"
