@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/centizen/quickmaths.git"
+commit = "678ff4f7bf777b8f59a10152d67d9f122ccc18c5"
+owners = ["centizen"]
+project_path = "QuickMaths"
+changelog = """
+- Initial Release
+"""
