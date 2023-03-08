@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "eae03665ab08e2376a96a7f8f4d7d27953721f5f"
+commit = "31b0046a9b64d5b2d4b9ec96418a8ae314b1918e"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-Deal critical hits just like in the #1 hat simulator, Team Fortress 2.
-
-* Set sounds and flavor text to be played/shown whenever you deal direct or critical damage or heal.
-* Use different configurations by job.
-* Use the game's SFX or your own custom WAV or MP3 files.
+- Fix sound not working when applying the game's sound effect volume in 6.35.
+- Fix the \"Play\" not respecting the game's SFX volume.
 """

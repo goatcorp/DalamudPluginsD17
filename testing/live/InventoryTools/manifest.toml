@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "7cc428b76e4145ac4f675a0f729bfdc5a6b5fd2e"
+commit = "a6071a4c4afa5b47d216a3f0571e78b6584c18bf"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Add more npc location data, add more npc shops\nAdd submarine/airship unlock information\nAdded /submarines, /airships windows and popout windows for each\nMore shops will show even if they don't have location data(housing shops mostly)\nFix uppercase searching issue\nAdd tooltip display options for displaying plugin name and lines below and above tooltip content\nAdded manual data for certain loot items"
-version = "1.4.0.1"
+changelog = "Update to support new CS changes."
+version = "1.4.0.3"
