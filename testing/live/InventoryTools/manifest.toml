@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bb5fd6fe20a74c6e887cec87102fa9393245601f"
+commit = "a6071a4c4afa5b47d216a3f0571e78b6584c18bf"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "New duties window, mob window, duty window, lots more item/boss/drop data, speed increases, bug fixes, airship/submarine drop data, general bug fixes, ui updates, see the full list in the Allagan Tools post in #plugin-help-forum on the xivlauncher discord."
-version = "1.4.0.0"
+changelog = "Update to support new CS changes."
+version = "1.4.0.3"
