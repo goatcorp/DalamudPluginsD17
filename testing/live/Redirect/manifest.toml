@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "71dc5c071f85ee132b621feca20e84721d19b8ed"
+commit = "e5510fc369d6b719c5bc21b877bc4fa2705215f2"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Prevent queued actions from recalculating their target"
+changelog = "Fix ground-targeted action behavior for actions leaving the queue"
