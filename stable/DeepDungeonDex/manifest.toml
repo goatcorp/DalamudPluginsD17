@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "4e0c2355e29b690c478cf4f25fc1defc3dc06989"
-changelog = "## 2.5.0 (2023-03-07)\n\n\n### Features\n\n* add EO as a territory to Deep Dungeons List (ae3053b)\n\n\n### Bug Fixes\n\n* Improve idle times when not in a Deep Dungeon (4fd9724)"
-version = "2.5.0"
+commit = "d8c280a939527ad771b1148bbefcfaa1892d8bee"
+changelog = "### 2.5.1 (2023-03-08)\n\n\n### Bug Fixes\n\n* font leak crashing the game under certain conditions (1e1f7f5)"
+version = "2.5.1"
