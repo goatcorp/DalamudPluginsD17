@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/SoundSetter.git"
-commit = "1f50444b326faa02ae6bf226d11a06d5b798e764"
+commit = "251898ceaf99cb2b0c855f220e50e61647f3d8ac"
 owners = ["karashiiro"]
 changelog = """\
-- Adds "Play sounds while window is not active" and its sub-settings.
-- Enables resizing the configuration window.
+- Updates for 6.35
+- Removed debug-level log spam
 """
