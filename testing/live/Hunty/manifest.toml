@@ -1,0 +1,22 @@
+[plugin]
+repository = "https://github.com/Infiziert90/Hunty.git"
+commit = "2ca8f3dff1490eb21fc5a1ce036e62ec1858a550"
+owners = [
+    "Infiziert90",
+]
+project_path = "Hunty"
+changelog = """
++ add memory tracking (thanks Midori)
+  + automatically tracks all of your progress, including previously finished tasks
++ open the duty finder on duty name click
++ react to login/relog
+
+- Support all global languages
+- UI localization, currently supported languages en, de, fr, jp
+  + ![Japanese](https://github.com/Infiziert90/Hunty/blob/master/Hunty/images/loc.png)
+- Add small indicator if rank / area is done  
+- More location updates
+
+More translations are always welcome, just ask in #plugin-help-forum - Hunty~
+This will also be the last testing version, the plugin is feature complete at this point.
+"""

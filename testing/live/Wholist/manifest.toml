@@ -1,7 +1,24 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "dc5abce94393af29e8c81099ee639ef984d5aa59"
+commit = "7638a118a8fc15a6a4eb9dd4bed93e43b68dee3a"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
+changelog = """
+**One of the last pre-releases before moving to a full stable release** 
+
+**New Features**
+
+- The 'Nearby Players' list is now sorted alphabetically by default.
+- New configuration options have been added:
+	* 'Show known players first': display friends, party members & other known players on the top of the list
+
+**Improvements**
+
+- The 'Nearby Players' list will now sort by distance when finding players nearby to you. In practice, this means that when you've set the 'max players shown' to lower than the current nearby players, the people closest to you will be shown first.
+
+**Translation Updates**
+
+- German translation updates
+"""

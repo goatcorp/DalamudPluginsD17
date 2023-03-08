@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Lerofni/TooltipNotes.git"
+commit = "a252a740947a8346dbf2a8d204e3e2b73b4d64aa"
+owners = ["Lerofni"]
+project_path = "TooltipNotes"
+changelog = """
+0.1.1.3
+Adds more logging capability to help debugging
+"""

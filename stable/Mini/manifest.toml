@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/NightmareXIV/Mini.git"
 # The commit to check out and build from the repository.
-commit = "546522dd61d3000a3ce892bf47299c86bff92139"
+commit = "b677c19202c74e5e4569df5949b4255b2ec8a3d6"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Limiana"

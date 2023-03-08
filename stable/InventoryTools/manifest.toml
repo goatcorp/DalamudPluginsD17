@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "875b0b396274ef3510181678b43f610b5812e7a9"
+commit = "4ff66e19280618c35d5961a8310e774ec28ffcbc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Fixed Highlighting in Retainer & Main Character Bags\nFixed Gearset Parsing\nFixed context menu offsets - more information should work again\nFixed an issue with the help menu not showing in specific cases\nFixed a bug that would wipe certain inventories when logging in/out"
-version = "1.2.0.14"
+changelog = "Update to support new CS changes."
+version = "1.3.1.1"

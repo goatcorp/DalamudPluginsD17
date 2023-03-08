@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "113f012f64136ce00dad9899f95f83724939cf0a"
-changelog = "### 2.3.2 (2023-01-15)\n\n\n### Bug Fixes\n\n* added option to reenable floor guide if load fails (b1b75d2)"
-version = "2.3.2"
+commit = "4e0c2355e29b690c478cf4f25fc1defc3dc06989"
+changelog = "## 2.5.0 (2023-03-07)\n\n\n### Features\n\n* add EO as a territory to Deep Dungeons List (ae3053b)\n\n\n### Bug Fixes\n\n* Improve idle times when not in a Deep Dungeon (4fd9724)"
+version = "2.5.0"
