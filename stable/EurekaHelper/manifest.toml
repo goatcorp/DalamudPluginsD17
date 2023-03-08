@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/snooooowy/EurekaHelper.git"
+commit = "e1628bd127abcdf83885c932a2094a7a2c64d71b"
+owners = ["snooooowy"]
+project_path = "EurekaHelper"
+changelog = """
+A helper tool for Eureka enjoyers
+
+- Create / Join Eureka tracker in-game (with tracker GUI)
+- Display popped NM in chat or toast popup
+- Auto pop NM in tracker
+- Command to display next weather time for Crab, Cassie & Skoll
+- Command to find existing public trackers
+- Custom shout messages for popped NMs
+"""
