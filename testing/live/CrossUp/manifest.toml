@@ -4,6 +4,4 @@ commit = "3c60a6401b4e95be43944b35986a25a30968b57b"
 owners = [
     "ItsBexy",
 ]
-changelog = "Updated for Patch 6.35.
-
-- Fixed an issue wherein the incorrect grid layout would sometimes be applied to standard hotbars."
+changelog = "Updated for Patch 6.35. Fixed an issue wherein the incorrect grid layout would sometimes be applied to standard hotbars."
