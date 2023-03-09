@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "6dcf670a9dc835143594e20a6a5871541239c2a7"
+commit = "c40298a171ecb0ce165cf0affe8e99c131cb5630"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.2.0
+changelog = """Version 0.0.3.0
+- Eureka Orthos initial support.
+
+Version 0.0.2.0
 - [*Breaking Changes*] All save files up to this version need to be converted (go to the Statistics Tab and scroll down to [Convert Save Utility] section for more details).
 - Added the [Convert Save Utility] section on the Statistics Tab.
 - Added a date and time stamp to the file name when creating backup files (avoid overwriting files).
