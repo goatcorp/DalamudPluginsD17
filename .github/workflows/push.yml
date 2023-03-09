@@ -52,6 +52,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
+        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
@@ -84,3 +85,9 @@ jobs:
         directory: output
         repository: goatcorp/PluginDistD17
         ssh: true
+        
+    - name: Signal XLWeb commit
+      run: |
+        curl --request POST \
+        --url https://kamori.goats.dev/Plogon/CommitStagedPlugins \
+        --header 'X-XL-Key: ${{ secrets.XLWEB_KEY }}'

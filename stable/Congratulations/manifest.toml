@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
+commit = "15f89ac4ce7824a35576498ad6e4af5d6264e4fe"
+owners = ["Berna-L"]
+project_path = "Congratulations"
+changelog = """
+- Fix sound not working when applying the game's sound effect volume in 6.35.
+"""

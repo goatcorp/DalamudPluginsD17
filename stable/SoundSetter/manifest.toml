@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/SoundSetter.git"
-commit = "49d062fd7462a23a6714c9a903c76c2b2afea889"
+commit = "251898ceaf99cb2b0c855f220e50e61647f3d8ac"
 owners = ["karashiiro"]
 changelog = """\
-- Updates for 6.3
+- Updates for 6.35
+- Removed debug-level log spam
 """

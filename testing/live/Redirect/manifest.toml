@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "52a31d74b506970f1eea0b65d8c3bf6c77b9cfc6"
+commit = "e5510fc369d6b719c5bc21b877bc4fa2705215f2"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Update for FFXIV 6.2 and API7"
+changelog = "Fix ground-targeted action behavior for actions leaving the queue"
