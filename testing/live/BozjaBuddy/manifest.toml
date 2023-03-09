@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/kaleidocli/BozjaBuddy.git"
+commit = "95b04c293bb4819e31b9bae48e189679ebc2324a"
+owners = ["kaleidocli"]
+project_path = "BozjaBuddy"
+changelog = "hellowo oworld!"
