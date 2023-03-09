@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/justscribe/g4e_ukrchatsupport.git"
-commit = "501cf28fe22bde6cda3ed5ce3352f11d0a213e67"
+commit = "9cba40d23aa6f5c910caa285cb0042e679fd2991"
 owners = ["justscribe"]
 project_path = "G4EUkrChatSupport"
-changelog = "First release"
+changelog = "Added input replacing and additional configuration."
