@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "a252a740947a8346dbf2a8d204e3e2b73b4d64aa"
+commit = "d81b1368bb2e58c940c6580a5af1e0ffd3f73469"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-0.1.1.3
-Adds more logging capability to help debugging
+0.1.2.0
+
+## Feature
+Hide Label Feature: By checking the Hide checkbox in the config Menu your Label will now be hidden in all other menus and tooltips 
+
+## Bugfixe
+Adding just a label via the add note window is now possible again Thanks to mrexodia
 """
