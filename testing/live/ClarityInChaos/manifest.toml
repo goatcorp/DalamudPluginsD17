@@ -17,6 +17,6 @@ Version 1.2.0.0:
  - Restores Saved In-Game Settings when disabled or uninstalled
  - Removed superfluous Debug option "Print to chat"
 
-Version 1.2.1.0:
+Version 1.2.0.1:
  - Fixed: Applicable section gets overwritten with In-Game Settings on startup
 """
