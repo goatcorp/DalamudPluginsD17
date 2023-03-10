@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/apetih/LogogramHelper.git"
+commit = "f06b1626f344679b0ce36e66cbdb6605eb0dbefb"
+owners = ["apetih"]
+project_path = "LogogramHelper"
+changelog = """
+Ingame Logos Actions helper
+
+- Displays menu with all available Logos Actions
+- Shows possible combinations for each Logos Action with your stock of logograms
+- Shows contents of Logogram items, similar to Bozjan fragments
+"""
