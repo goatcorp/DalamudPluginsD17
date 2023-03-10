@@ -2,7 +2,7 @@
 repository = "https://github.com/Haplo064/ChatExtended.git"
 commit = "05a06e575edaeec9a026609b49dba70c64b3e605"
 version = "0.0.0.1"
-owners = ["Haplo"]
+owners = ["Haplo064"]
 changelog = """Features:
 - Added Time conversion for announcments
 - Added Chat logging (very customisable)
