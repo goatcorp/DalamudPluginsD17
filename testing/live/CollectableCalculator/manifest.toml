@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/carvelli/CollectableCalculator.git"
+commit = "82f450dc3e4e2b473254dd2ed7b9bac0efd3d7a3"
+owners = ["carvelli"]
+project_path = "CollectableCalculator"
