@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "95b04c293bb4819e31b9bae48e189679ebc2324a"
+commit = "fff2eaed2b362e950ee5d1b89514b293a400cdf5"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
-changelog = "hellowo oworld!"
+changelog = "Add color to tab. Add Loadout tab. Add weather timeline. Add a way to denote ImGui GUI element in text description. Add compact mode to Lost action tab."
