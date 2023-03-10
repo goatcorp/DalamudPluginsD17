@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "31b0046a9b64d5b2d4b9ec96418a8ae314b1918e"
+commit = "b12e248e095a99cfcde1ec5dfa8749e0b6cdf33b"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Fix sound not working when applying the game's sound effect volume in 6.35.
-- Fix the \"Play\" not respecting the game's SFX volume.
+Share your configurations with other users!
+- Exported configurations are saved in a ZIP file. There's no need to open or change anything in it.
+- To import a configuration, just click on the Import button, choose the ZIP file, \
+a folder where to extract any custom sounds used by the configuration being imported \
+and if you want to create a backup of your current configuration. It's that easy™️!
 """
