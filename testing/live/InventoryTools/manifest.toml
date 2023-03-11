@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "b5d2f5093b0c39be7b702c888ab439be0f6f805a"
+commit = "2dec63d7fe94347f6260b0b8c5b3fae376d289c9"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Stop uncraftable items from being added to craft lists(also allow them to be deleted if you've run into the issue). Replace memory sort scanning with ODR parsing(should still be relatively fast and keep things up to date). Fixed some other issues. Replaced some imgui code with what I'm told is the more correct way of doing it, also added a EndChild that was missing."
-version = "1.3.0.2"
+changelog = "Fix a few UI bugs, add more detail to retrieve tooltip, group retainers by character in settings -> characters/retainers, trim collectable/hq characters when searching"
+version = "1.4.0.4"

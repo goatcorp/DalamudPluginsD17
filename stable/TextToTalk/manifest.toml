@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "e1647b00720e22808099ff632949fe87a7c4eebe"
+commit = "da07364715707f218143691f893be76b5d922cc3"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes text not being sent over the WebSocket backend
-- Fixes error spam in the log when disconnecting from a WebSocket server
+- Sends the speaker name in WebSocket messages
 """

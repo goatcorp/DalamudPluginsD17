@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "596c2e02423693420fced313631df67723020bfb"
+commit = "d81b1368bb2e58c940c6580a5af1e0ffd3f73469"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-0.1.1.2
-Fixes incompatability with the Simpletweak: "show expected food and potion stats"
-Now hides the migrate old config button if you dont have one anymore thanks to mrexodia once again
+0.1.2.0
+
+## Feature
+Hide Label Feature: By checking the Hide checkbox in the config Menu your Label will now be hidden in all other menus and tooltips 
+
+## Bugfixe
+Adding just a label via the add note window is now possible again Thanks to mrexodia
 """

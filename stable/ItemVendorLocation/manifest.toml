@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "9aa833d23c6ed9c72122c270b61591be68c99ffa"
+commit = "2af78ce25eecd0a9f95e5cc08e68ed77a2557141"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Update Context Menu
-- .net7 update
+- Fix for crash on plugin load
 """
-version = "1.0.0.3"
+version = "1.1.0.2"
