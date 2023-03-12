@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "31b0046a9b64d5b2d4b9ec96418a8ae314b1918e"
+commit = "73ca0a42a052e74b7caf750feb3be2aa20affdaf"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Fix sound not working when applying the game's sound effect volume in 6.35.
-- Fix the \"Play\" not respecting the game's SFX volume.
+- Show \"Play sound only for actions\" checkbox when using in-game SFX.
+-- The option was applied for in-game SFX if checked in custom sound mode, the only issue was the checkbox not being shown. 
 """

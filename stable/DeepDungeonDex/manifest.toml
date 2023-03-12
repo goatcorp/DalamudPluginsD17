@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "d8c280a939527ad771b1148bbefcfaa1892d8bee"
-changelog = "### 2.5.1 (2023-03-08)\n\n\n### Bug Fixes\n\n* font leak crashing the game under certain conditions (1e1f7f5)"
-version = "2.5.1"
+commit = "8b50d415dc13ea6218fa9365cd0630705503c279"
+changelog = "### 2.5.2 (2023-03-10)\n\n\n### Bug Fixes\n\n* stop error if locale file does not exist (a10f867)\n* stop some null ref exceptions happening before try catch statement (b4b50ca)\n* stop trying to parse null, empty, whitespace strings as yml (f54e0e5)"
+version = "2.5.2"
