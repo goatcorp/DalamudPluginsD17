@@ -6,7 +6,7 @@ project_path = "FaderPlugin"
 changelog = """
 Release v2.4.0.1
 - Try to migrate broken configs
-  + If you used 'IslandSanctuary' or 'WeaponUnsheathed' before this migration break is it now migrated too, pls adjust your config again.
+  + If in the last update the condition was intentionally set to be 'IslandSanctuary' or 'WeaponUnsheathed' so has this been reverted too, please change it back in your config.
 
 - Prevent hasIdled from looping
 - More UI improvements
