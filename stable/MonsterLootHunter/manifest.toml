@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "56d73d1a33c6c566c9e3aef6062e73742da04503"
+commit = "e9ba8c6a3687cf0729a3252b75e80e03eabc3b0d"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Added metal and stone categories
-- Internal plugin rework
+changelog = """- Fixed situation where items don't show where they can be bought
+- Fixed error when item is not found
+- Internal plugin and UI modifications
  """
