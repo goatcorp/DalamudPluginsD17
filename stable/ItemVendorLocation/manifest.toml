@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "2af78ce25eecd0a9f95e5cc08e68ed77a2557141"
+commit = "7c622ca2e82d0231a08ddcb2afb14be17876af1b"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix for crash on plugin load
+- Added settings UI
+- Added single vendor chat option back
+- Allow searching GarlandTools OR internal data sheets
 """
-version = "1.1.0.2"
+version = "2.0.0.0"
