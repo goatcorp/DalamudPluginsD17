@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "0d60b5531ef8c53a8ce61be90e42c3e3c4d959fe"
+commit = "8c8801866f7ab1c170513ef6f35f04498c4b3cdf"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.3.1
+changelog = """Version 0.0.3.2
+- Score calc updated.
+
+Version 0.0.3.1
 - Added a missing Dread Beast score points.
 
 Version 0.0.3.0
