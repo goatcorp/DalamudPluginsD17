@@ -6,6 +6,7 @@ project_path = "StanleyParableXiv"
 changelog = """
 - Fixed AFK events playing in cutscenes
 - Fixed AFK events not playing again after playing once
+- Fixed some PVP events causing a crash if a player goes missing
 - Refactored duty events to only play in whitelisted content types
 - Added a disk space check and feedback for new plugin users
 """
