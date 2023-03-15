@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "0da101a68141f5021fb4a9d7296a3d7755c25875"
+commit = "293c0625020f5fe8612b0d7e4d00177aae3764bc"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Use memory instead of network packages for updates
-- Add a tiny control window, use '/pname main' to open it
-- fix cannot load store names after change dalamud config folder
-- add option to change store path
+- fix issue of when click `add nickname` open config window
+- fix cannot edit correct target after search
 """
