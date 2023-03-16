@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/justscribe/g4e_ukrchatsupport.git"
-commit = "d03f1e79a53ededbbd8556d2e1e258cbb3cf578c"
+commit = "6b14d5384c98657bdf1abe132bb9a99bf66aaa17"
 owners = ["justscribe"]
 project_path = "G4EUkrChatSupport"
-changelog = "Added input replacing and additional configuration."
+changelog = "Added check for active FFXIV window."
