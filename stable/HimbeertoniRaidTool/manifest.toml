@@ -2,8 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "49d31c87869b0e62610bddec72b585a5d488e2aa"
+commit = "91d8fe68ad4f6457dbad7700c279123687072be3"
 changelog = """
-correctly identify upgraded crafted items
-French translation updated (Thanks to Arganier)
-some internal changes"""
+fix lodestone updates for non English clients
+fix edit BiS button in group overview didn't work
+slightly improved performance"""
