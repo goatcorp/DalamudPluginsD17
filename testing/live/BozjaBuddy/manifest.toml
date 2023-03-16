@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "cff0e2ecbe4d5424f40ba9973db10441781ef2ba"
+commit = "fe9df08f8899c7309a013a79ad52fc129f7df39a"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
-changelog = "Update loadout to show guide for (likely new) users on how to load recommended loadouts."
+changelog = "[v0.1.0.2] Hotfix for SQLite.Interop.dll missing. Hopefully."
