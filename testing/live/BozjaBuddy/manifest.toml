@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "6c98fceb91444d6d1a5b81b9dde7d03e37c8638a"
+commit = "cff0e2ecbe4d5424f40ba9973db10441781ef2ba"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
-changelog = "hellowo oworld!"
+changelog = "Update loadout to show guide for (likely new) users on how to load recommended loadouts."
