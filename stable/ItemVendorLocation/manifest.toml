@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "7c622ca2e82d0231a08ddcb2afb14be17876af1b"
+commit = "314f6ab95d940d6c6ab95495fc00d3b0d1853c15"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Added settings UI
-- Added single vendor chat option back
-- Allow searching GarlandTools OR internal data sheets
+- Fixed issue with Garland Tools map links
+- Added setting for showing shop info
 """
-version = "2.0.0.0"
+version = "2.1.0.0"
