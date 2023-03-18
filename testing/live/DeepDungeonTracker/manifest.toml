@@ -3,18 +3,6 @@ repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
 commit = "600b4add23d19a9e2189b24003a4d88af4e9b88b"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
-changelog = """Version 0.0.3.4
+changelog = """
 - F99 kill check fix.
-
-Version 0.0.3.3
-- F99 fix.
-
-Version 0.0.3.2
-- Score calc updated.
-
-Version 0.0.3.1
-- Added a missing Dread Beast score points.
-
-Version 0.0.3.0
-- Eureka Orthos initial support.
 """
