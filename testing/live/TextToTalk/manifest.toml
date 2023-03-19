@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "0be89c5fc68c7447f05076fc4826941903e95465"
+commit = "8f6f662ece1d9b799f1d4aeb24355a2d9c8e8470"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixed some minor UI glitches when switching backends
-- Fixed the plugin toggle keybind interfering with the chat preset keybinds
-- Fixed a "no presets" warning not displaying in the chat
-- Fixed a bunch of weird settings interactions
-- Cleaned up a ton of core code to prep for new features
+- Major UI performance improvements
 """
