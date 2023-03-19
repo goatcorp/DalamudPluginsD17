@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ry00001/PushyFinder.git"
+commit = "058d306e0b0df7b0e8d909f6355533a2d1cd1466"
+owners = ["ry00001"]
+project_path = "PushyFinder"
+changelog = "Initial release"
