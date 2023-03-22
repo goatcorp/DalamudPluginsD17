@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/justscribe/g4e_ukrchatsupport.git"
-commit = "6b14d5384c98657bdf1abe132bb9a99bf66aaa17"
+commit = "18e0adcf859f27ed43c1465099653c602f1a315e"
 owners = ["justscribe"]
 project_path = "G4EUkrChatSupport"
-changelog = "Added check for active FFXIV window."
+changelog = "Impleneted hook/unhook related to FFXIV window foreground state."
