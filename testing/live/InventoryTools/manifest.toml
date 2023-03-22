@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "07b5eefe63788f952f6509f3f87f8e598785b69d"
+commit = "f4e04ab012cc36cb5e40652952f17b21d0382c60"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Free companies are now their own 'character', ui overhaul, many more changes, see https://discord.com/channels/581875019861328007/1019719848424656958/1086932763745206322"
-version = "1.4.0.5"
+changelog = "Bug fixes & mob spawn data updated"
+version = "1.4.0.6"
