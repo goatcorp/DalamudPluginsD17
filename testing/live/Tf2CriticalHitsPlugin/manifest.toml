@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "04d9ce815a3848743e432fa0342897bcc6847dd3"
+commit = "51bdea3e2396fa8f6a55a556d5157a0fbfc5314b"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
 New name: *Hit it, Joe!*
+- Since the plugin hit version 3, keeping the name Valve-related would cause crashes.
 New module: Countdown Jams
 - Set sounds to be played when a countdown starts.
 """
