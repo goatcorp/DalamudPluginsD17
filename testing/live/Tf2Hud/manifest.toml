@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
+commit = "6dcb50cf8f83b3e75c59baf9cd160b8d1da124ac"
+owners = ["Berna-L"]
+project_path = "Tf2Hud"
+changelog = """
+[REQUIRES TF2 TO BE INSTALLED]
+The finest mashup of games with troubled development histories.
+
+* Show a Win Panel when you clear or get wiped in a duty
+* Show a Duty Timer, TF2-style.
+* More features maybe soon?
+
+Note: This plugin uses files from a local Team Fortress 2 installation.
+It'll search for the game's installation folder in all configured Steam Library Folders automatically.
+"""
