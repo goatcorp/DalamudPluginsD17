@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "099d4d71220771756449f11de29108ceb929ec77"
+commit = "d1d34a6fa10dbeeaa62908eb1d3365b5334f5494"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
 [REQUIRES TF2 TO BE INSTALLED]
-The finest mashup of games with troubled development histories.
+The finest mashup of games in the \"I kill things and do it in fashion\" genre.
 
-* Show a Win Panel when you clear or get wiped in a duty
+* Show a Win Panel (with sounds!) when you clear or get wiped in a duty
 * Show a Duty Timer, TF2-style.
 * More features maybe soon?
 
