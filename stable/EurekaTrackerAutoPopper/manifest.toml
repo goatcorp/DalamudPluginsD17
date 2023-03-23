@@ -1,19 +1,21 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "ae3b12678275670d2e528542259b17764cd04946"
+commit = "8c5d518ef1f72cbbec8a57ab5ed0d1a0091920a2"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-- Added 'Fairy Finder', this will notify you about close by fairies
-- Added a shout delay of 20s, you can't use shout option until this delay is over
+- Added 'Fairy Finder', this will notify you about nearby fairies/elementals
+- Added 'Bunny Window', this will show you estimated respawn times (min and max)
 
-- Randomization is now done in a 0,5 radius
+- Added a shout delay of 20s, you can't use the shout option until this delay is over
+
 - Randomization can be turned off
+- Randomization is done in a 0.5 radius
 
-- Chat messages are now colored
+- Added color to chat messages
 - Slight UI improvements
 
 - Removed TrackerFinder as it resulted in mostly false positives
