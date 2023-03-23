@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/TwitchXIV.git"
+commit = "b549e3fdd85ff0c038206d7036f3580981aa9926"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "Initial commit"
