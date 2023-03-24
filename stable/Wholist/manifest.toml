@@ -1,12 +1,19 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "5227f30d3036fa8f7e953102fd125d57de203c09"
+commit = "4f606ddf61fa390d156c85f043ace6f44dff4cc3"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
+Hey look at this really [cute cat image](https://twitter.com/fatfatmillycat/status/1634256353295212551/photo/3)
+
 **Features**
 
-- Added the ability to use job abbreviations instead of their full names.
+- Added the ability to set colours per job instead of per role.
+
+**Other**
+
+- Translation updates & improvements in multiple languages (Thanks translators)
+- Added 42% more silliness to code :3
 """
