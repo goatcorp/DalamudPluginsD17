@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/ActionTimeline.git"
-commit = "ccaa05e3bd670bb000a14192290caf83171a8294"
+commit = "7d575d7c72c38be72cb8cbf1b6854ba8f197a220"
 owners = ["Tischel"]
 project_path = "ActionTimeline"
-changelog = "- Moving plugin out of testing.\n- Fixed Red Mage's Resolution not behaving correctly in the timeline with GCD clipping enabled."
+changelog = "- Added support for Patch 6.3 and Dalamud Api8."

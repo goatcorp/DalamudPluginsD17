@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "51ec2c966ab3d00cf360ffb0a9d25e2c34d71b23"
+commit = "52c35396c59b5730753407ecc3b3c2b31736abf3"
 owners = [
     "tesu",
 ]
-changelog = ".NET 6 update"
+changelog = "updates config options for the new behavior (automatically undercutting HQ when listing HQ, don't undercut own retainer)"

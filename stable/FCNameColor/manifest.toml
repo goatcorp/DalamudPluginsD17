@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "f4d449270dcb1b3b5f6050c692d1ee8d7e82a6d7"
+commit = "5bfadc08f3e269b954180854d06c37d0ea5e088a"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 6.2
-- Use different hooking mechanism
-- Add option to make FCNC only work inside duties.
-
-The new hooking mechanism will cause conflicts with other plugins that change nameplates.
-For the time being you can use the "Only duties" option if you’re using something else outside of them.
+- Fix issue where settings were not correctly being read, causing names abbreviations not matching up with the user's settings.
 """

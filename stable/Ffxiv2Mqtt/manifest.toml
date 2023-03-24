@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "8f69c80e77354eabe19044a184079b798d20883e"
+commit = "ce9b427ae3503cdbf639c57b721abe4cdbf515bc"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """Party status has been added as a topic."""
+changelog = """Patch 6.3 support."""

@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "50a17efb6adb802dbdd0ae7930110cf575329efa"
+commit = "e9c196a1cf039da472abd00eb94f9bd492cb0699"
 owners = [
     "Aireil",
 ]
 project_path = "FlyTextFilter"
-changelog = "Under the hood changes for adjustments part II"

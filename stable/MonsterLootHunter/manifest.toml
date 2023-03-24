@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
+commit = "e9ba8c6a3687cf0729a3252b75e80e03eabc3b0d"
+owners = [
+    "danielbrenom",
+]
+project_path = "MonsterLootHunter"
+changelog = """- Fixed situation where items don't show where they can be bought
+- Fixed error when item is not found
+- Internal plugin and UI modifications
+ """

@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "c281c41fe47084563f80cda9c50fb4fb543784ed"
+commit = "ec3a30ffb20807c87dd8e09da1cabc8a4c606acf"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Increase accuracy of opcode
-- Separate data and setting
+- Use memory instead of network packages for updates
+- Add a tiny control window, use '/pname main' to open it
 """

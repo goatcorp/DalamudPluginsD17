@@ -1,10 +1,11 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
-commit = "11764af8708ee67e5a78e475cc09d95af9b0a2ee"
+repository = "https://github.com/squidmade/WaymarkPresetPlugin.git"
+commit = "11e730f2cc4653249a2a6807a1296b346f8b2545"
 owners = [
     "PunishedPineapple",
+    "squidmade",
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-- Fixes layout issues that could make the editor unusable at some non-standard font scales and/or with languages other than English.
+- Adopting plugin
 '''

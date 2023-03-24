@@ -1,10 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = '38b599b684bc73b1ec932b084ca1ed8e82b25ddc'
+commit = 'fcf8e22fcd5b232adb23b58e0373d61fb70fdc17'
 owners = [ 'ascclemens' ]
 changelog = """\
-- Updated translations.
-- Changed some internals for (minor) improved performance.
-- Fixed an issue with empty lines causing some flickering.
-- Fixed an issue with empty lines disappearing under some circumstances.
+- Fix various links not working.
+- Fix a crash.
+- Fix the search for item in recipes button.
 """

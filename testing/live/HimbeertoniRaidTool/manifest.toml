@@ -2,9 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "f908de7e97b29c15d6cc8095c50b25aa3334fe77"
+commit = "272bebe26cce994a71f6fcbff5ae51a18eb4cb2e"
 changelog = """
-fix: HP calculation
-add: stat calculation for most levels
-localization: added JP (thanks to Refer)
-fix: load time reduced"""
+New feature: gear-set compare
+Ui: reworked editing of gear
+Ui: stat tabel now includes comparison
+LootSession: calc estimated dps gain/loss"""

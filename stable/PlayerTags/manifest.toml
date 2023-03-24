@@ -1,54 +1,12 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "6589412ef37326570cf625f160375dd89e899749"
+commit = "c24d7f3ddb6c9ad020bcb64e20cad5cf826645b0"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.8.4
-- A few High-DPI fixes
-  *Please let me know, if I missed some UI elements, normally I don't use anything else then 100% Zoom.*
-
-Version 1.8.3.1
-- Updated translation files
-
-Version 1.8.3
-- Tag: Added option to also include undefined Chat Types
-    --> Fixes that Tags get not applied to specific Chat Types anymore (like combat log)
-
-Version 1.8.2
-- Updated translation files
-
-Version 1.8.1
-- Fixed option \"Target Chat Type\" not working
-- Updated translation files
-
-Version 1.8
-Hello everyone!
-This update has a few new feature (such job icons, chat type selection) and some other changes.
-
-First of all, thanks to everyone using Player Tags, everyone that helped me when I had dummy questions, thanks to the creator of Party Icons who allowed me to reuse some logic from his Plugin for the new library combined with code from Player Tags, and also thanks to r00telement (the original creator of this plugin) for the brilliant idea and for the creation.
-
-Now, let's come to this update...
-There has been moved some code to a separated library in another repository for general use for everyone. There are more plans for that library especially for the nameplate features. Also, everyone is free to review it and add his own codes via PRs.
-
-- New features:
-    - Tags: Added Job Icons
-        - Choose what icon set you want to use
-        - This is the first version of it, like you may know from Party Icons, that replaces the status icon.
-        - By default there are some settings for priorizing status icons over job icons (you can edit them in the settings)
-        - The plan for the future is to extend that feature and implement the ability to add a second icon beside the status icon.
-    - Tags: Added Tag configuration templates
-    - Tags: Choose for what chat type the Tag should applied to
-    - General: Gray out or completely ignore Tags for dead players
-        - If you see the Nameplate not getting tray instantly, it's because I can't tell the game to update the nampelate. The Game decides itself when it's time for. :/
-- Other:
-    - A lot minor adjustments and fixes, i don't remember yet
-- Under the hood:
-    - Use new config file at \"\\pluginConfig\\Player Tags\\Config.json\" (with auto migration)
-    - Move a lot of code more standardised to a library (available on GitHub)
-
-There are new Strings that are waiting for translation. Feel free to help!
-
-Wish you all a good start to the new, enjoy it!
+changelog = """ Version 1.9
+- Target to API 8
+- Target to .NET 7
+- Updated translations
 """

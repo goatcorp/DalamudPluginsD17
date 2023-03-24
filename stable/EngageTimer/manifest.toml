@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "2f57490e7c94ca73e0ad561bc9e2a671d36e0db1"
+commit = "0c3753f6facd0e2002c0132b314084d7cf3a6ce1"
 owners = ["xorus"]
 changelog = """\
-- Floating Window: the `:` separator in the stopwatch has gone back from their vacation"""
+- Fix decimals not being properly hidden with the display threshold option"""

@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Infiziert90/Hunty.git"
+commit = "f4ee0630424277ea8a5c4bbcb275ceba87d719ea"
+owners = [
+    "Infiziert90",
+]
+project_path = "Hunty"
+changelog = """
+- Improved flags for PLD, BRD and SMN/SCH
+"""

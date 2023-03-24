@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/thatismunn/xiv-coblyn.git"
+commit = "7bb62be013921fbad18d0908de56ff0eb9b25118"
+owners = [ "thatismunn" ]
+project_path = "Plugin/DaCoblyn"
+changelog = """
+Hotfix 1.0.2.2:
+- Add "force stop plugin" when the plugin not successfully connect to server.
+"""

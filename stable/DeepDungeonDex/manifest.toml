@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "542b8330a64c1589335cddbc74700a51fb2ca9b0"
-changelog = "## 2.1.0 (2022-12-16)\n\n\n### Features\n\n* add unknown status for all weakness types (4a96a40)\n\n\n### Bug Fixes\n\n* do some additional disposes for windows (f807c9e)"
-version = "2.1.0"
+commit = "8b50d415dc13ea6218fa9365cd0630705503c279"
+changelog = "### 2.5.2 (2023-03-10)\n\n\n### Bug Fixes\n\n* stop error if locale file does not exist (a10f867)\n* stop some null ref exceptions happening before try catch statement (b4b50ca)\n* stop trying to parse null, empty, whitespace strings as yml (f54e0e5)"
+version = "2.5.2"

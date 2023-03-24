@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
+commit = "73ca0a42a052e74b7caf750feb3be2aa20affdaf"
+owners = ["Berna-L"]
+project_path = "Tf2CriticalHitsPlugin"
+changelog = """
+- Show \"Play sound only for actions\" checkbox when using in-game SFX.
+-- The option was applied for in-game SFX if checked in custom sound mode, the only issue was the checkbox not being shown. 
+"""

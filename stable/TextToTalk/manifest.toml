@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "2a7623640bade543888886e71302f2e764ebdf69"
+commit = "da07364715707f218143691f893be76b5d922cc3"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes "skip own messages" breaking all TTS besides your own, regardless of if it was checked or not
+- Sends the speaker name in WebSocket messages
 """

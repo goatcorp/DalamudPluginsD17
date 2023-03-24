@@ -2,5 +2,11 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "6bc60606e3ac0b63b691f5517c5f6004d9ceac7c"
-changelog = "* fix: shop entries with multiple items (PLD weapons for example)"
+commit = "1ff2f845d33df485839e55c502e4cb758b18f4cd"
+changelog = """
+New feature: Quickly compare current gear to potential gear
+Ui: add icons (see config options)
+Ui: reworked editing of gear
+Ui: stat table now includes comparison values
+LootSession: new metric, estimated % dps gain/loss
+Bugfix: fixed a crash in wine"""
