@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ea149af5f193e9bc0cf0b3294423cb55e2b0c7f0"
+commit = "1b68b29f746dbf54a3d24442c829f60f55485414"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Few more bug fixes, updated blurb and images and hopefully very close to a final release"
-version = "1.4.0.7"
+changelog = "Show item number in retainer list toggle will now work\nThe put away sample filter was updated\nSome minor UI issues\nExtra currencies are now parsed(ventures, beast tribe currencies, etc)\nThis is the last update before it replaces the live version."
+version = "1.4.0.8"
