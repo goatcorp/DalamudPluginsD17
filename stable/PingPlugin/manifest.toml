@@ -4,3 +4,4 @@ commit = "3cbd439a86de65f6f58d927d59fce7aa0de1d96a"
 owners = ["karashiiro"]
 changelog = """\
 - Fixed server bar display failing to set up sometimes
+"""
