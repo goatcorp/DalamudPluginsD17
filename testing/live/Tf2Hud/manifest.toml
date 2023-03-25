@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "7911fe12179610e6d2d8873f86e69d71c71a6758"
+commit = "a40f9a3f67ba5411b2c263bcd58a926f3fd5b4c9"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
