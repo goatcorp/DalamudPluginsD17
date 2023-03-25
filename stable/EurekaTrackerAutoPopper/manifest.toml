@@ -1,11 +1,32 @@
 [plugin]
-repository = "https://github.com/electr0sheep/EurekaTrackerAutoPopper.git"
-commit = "81521e8322a8088032ee079e3f19f853fe9bdf48"
+repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
+commit = "7f32e05ce83168565692888af1b928bc596c9213"
 owners = [
+    "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-- Adds ability to automatically pop NMs in the Eureka Tracker
-- Adds ability to display chat notification when NM appears
+- Added 'Fairy Finder', this will notify you about nearby fairies/elementals
+- Added 'Bunny Window', this will show you estimated respawn times (min and max)
+- Added 'Bunny Chest Helper', this will show you a small green circle if near a possible chest location.
+- Added 'Quest Guide', a small guide for all quests from Anemos to Hydatos, with clickable coords for easy navigation
+
+- Changed the command from '/xleureka' to just '/el'
+- Added the command 'elquest' to open the quest guide
+
+- Added a shout delay of 20s, you can't use the shout option until this delay is over
+
+- Randomization can be turned off
+- Randomization is done in a 0.5 radius
+
+- Added color to chat messages
+- Slight UI improvements
+
+- Removed TrackerFinder as it resulted in mostly false positives
+
+Eureka Linker is the new display name and Infi took over the development.
+For suggestions or issues, please visit XIVLauncher & Dalamud Discord #plugin-help-forum
+
+![quest](https://github.com/Infiziert90/EurekaTrackerAutoPopper/blob/main/EurekaTrackerAutoPopper/images/quest.png)
 """
