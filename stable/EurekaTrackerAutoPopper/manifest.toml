@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "0ce1d690ca40ffbb1e11b7c1d4144218f48b54a9"
+commit = "157faa7938af296cb006820f151a3fceac723470"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-nofranz
+- Added /elbunny command
+- Circle color can now be adjusted
+- Added more tooltips
+- Added more Pyros locations
 """
