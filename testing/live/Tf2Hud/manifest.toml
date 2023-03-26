@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "ccbc0b376cca6f2a79ebfe171bd91dd8660f8c84"
+commit = "fa925d8f4ef01479cbb5abbe4caa42321301ea7b"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
@@ -9,6 +9,7 @@ The finest mashup of games in the \"I kill things and do it in fashion\" genre.
 
 * Show a Win Panel (with sounds!) when you clear or get wiped in a duty
 * Show a Duty Timer, TF2-style.
+* Enable the \"Voice Lines\" module (via /tfconfig) to have voice lines play when certain conditions are met. What conditions, you ask? It's a surprise! (Unless you uncheck the \"Surprise me!\" box.) 
 * More features maybe soon?
 
 Note: This plugin uses files from a local Team Fortress 2 installation.
