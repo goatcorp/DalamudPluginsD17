@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
-owners = ["PrincessRTFM"]
+owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "a2f683d7b967d52cd5db9dff51925e04fd18ff06"
-changelog = "Updated for api8/patch6.3"
+commit = "801fd317f34f8593a4f6a8d08285506b5e2f24ac"
+changelog = "Moved from XivCommon 6.0.2 to 7.0.0-alpha.1, which should have happened\na while ago."
