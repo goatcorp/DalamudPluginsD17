@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "157faa7938af296cb006820f151a3fceac723470"
+commit = "5f5c4bd348d45cf73e00f1a3340cf2bf9950e92c"
 owners = [
     "Infiziert90",
     "electr0sheep",
@@ -11,4 +11,5 @@ changelog = """
 - Circle color can now be adjusted
 - Added more tooltips
 - Added more Pyros locations
+- Only show closest location
 """
