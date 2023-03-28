@@ -1,16 +1,10 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "9b23fd644387adc5d4576fca2e5bdabef0ac1427"
+commit = "8b84b755d0eff8c4fb19a2f447cdbcadad5eb96a"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-New name: *Hit it, Joe!*
-- Since the plugin hit version 3, keeping the name Valve-related would cause crashes.
-
-New module: Countdown Jams
-- Set sounds to be played when a countdown starts.
-
-TF2-ish Critical Hits
-- New algorithm to differentiate your heals from other players'. (Thanks, Aireil!)
-  - Also considers heals from your fairy as yours.
+- Fixed plugin littering the pluginConfig folder.
+  - The plugin should automatically delete any old configurations with a timestamp from 5 or more days of age.
+- Fixed config file being double the size it should've been.
 """
