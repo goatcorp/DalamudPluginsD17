@@ -1,19 +1,17 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "a5d07134580fcda9dd4055bef1c4f540707f6177"
+commit = "1fb2f9c8bc45aedbd5a487c8328f0fb711692f14"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-- Added /elbunny command
-- Circle color can now be adjusted
-- Added more tooltips
-- Added more Pyros locations
-- Added more Pagos locations
-- Only show closest location
-- Added a small About tab
+- Added stats tab
+- Added 2 new commands / buttons
+  > Adds/Removes coffer marker to all known coffer locations on the current map
+- More Pyros and Pagos locations
 
-If you encounter any issues or have feedback, please use the plugin-forums thread in the XIVLauncher & Dalamud discord :)
+There is the possibility that the plugin will inform you about a new chest location,
+feel free to post the message you get into the plugin-forum linked in the About Tab
 """
