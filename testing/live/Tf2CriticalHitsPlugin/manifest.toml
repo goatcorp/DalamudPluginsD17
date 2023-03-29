@@ -5,7 +5,7 @@ owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
 - Fixes issues with loading configurations.
-  - If you were affected by this issue (in version 3.0.1.0), the in-game chat will show a warning. If you want to rescue your pre-3.0.1.0 configuration, just use the command \"/rescuemejoe\" to try to rescue it. The chat will tell you if it went OK or not (it should!). If you already redid your configuration, not using the rescue command will keep your current configuration as-is, and I'm sorry for the inconvenience.
+  - If you were affected by this issue (in version 3.0.1.0), the in-game chat will show a warning. If you want to rescue your pre-3.0.1.0 configuration, just use the command \"/rescuemejoe\" to try to rescue it. The chat will tell you if it went OK or not (it should!). If you already redid your configuration, there's no need to use the rescue command, and I'm sorry for the inconvenience.
   
 (Special thanks to a cute friend for helping with debugging!)
 """
