@@ -3,7 +3,8 @@ repository = "https://github.com/kaleidocli/BozjaBuddy.git"
 commit = "5001b2d0641eb0bb4e9a6b001744870c722a7c1b"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
-changelog = "- Added Alarm for Bozja content.
+changelog = """
+- Added Alarm for Bozja content.
 - Added a general options bar, with a button to open Alarm window, and a button to shut the alarm up.
 - Fix a bug in Extra information tab where FATE-chain would not show up in FATE extra info.
 ---
@@ -11,4 +12,4 @@ changelog = "- Added Alarm for Bozja content.
 + Time-based: alarms which trigger at a specific time. Can only be created in Alarm window.
 + Weather-based: alarms which trigger at a specific weather at a specific time (ONCE), or every time the weather occurs (REPEAT). Can be created in Alarm window, or clicking on Weather bar.
 + FATE-based: alarms which trigger every time a FATE occurs (CEs not yet supported). Can be created in Alarm window, or click on Alarm column in Fate/CE table.
-- Alarm can be turned off, edited, deleted, or recycled once expire."
+- Alarm can be turned off, edited, deleted, or recycled once expire."""
