@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "51ae2e23bf9032adae3f8183e5bae9971f579b54"
+commit = "18066ce80ae5275fbde0542708b51e610b043cc0"
 owners = [
     "Infiziert90",
     "electr0sheep",
@@ -10,4 +10,5 @@ changelog = """
 - Added time to stats
 - Added localization (wip)
 - Fixed bug preventing stats counting in rare case
+- All fates coords should now be centered (without randomize)
 """
