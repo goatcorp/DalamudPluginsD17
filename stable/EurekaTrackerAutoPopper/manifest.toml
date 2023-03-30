@@ -1,17 +1,13 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "1fb2f9c8bc45aedbd5a487c8328f0fb711692f14"
+commit = "2731bc4df9bdd688da6e60cecfbd62a7f9327166"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-- Added stats tab
-- Added 2 new commands / buttons
-  > Adds/Removes coffer marker to all known coffer locations on the current map
-- More Pyros and Pagos locations
-
-There is the possibility that the plugin will inform you about a new chest location,
-feel free to post the message you get into the plugin-forum linked in the About Tab
+- Added time to stats
+- Added localization (wip)
+- Fixed bug preventing stats counting in rare case
 """
