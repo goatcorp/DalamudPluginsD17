@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "72c977ae6b64efb21a198838d07b32d6dae029ef"
+commit = "2309ff14d67e0b9741b7948eca44969e84aa6d06"
 owners = [
     "Infiziert90",
     "electr0sheep",
@@ -11,5 +11,5 @@ changelog = """
 - Added localization (DE full, FR small parts, JA missing)
 - Fixed a bug that prevented stats from counting correctly in rare case
 - All fates coords are now perfectly centered (without randomize)
-- Added more chests to low level pyros and pagos
+- Added more chests to Hydatos, low level pyros and pagos
 """
