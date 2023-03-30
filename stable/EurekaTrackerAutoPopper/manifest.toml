@@ -1,14 +1,15 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "18066ce80ae5275fbde0542708b51e610b043cc0"
+commit = "72c977ae6b64efb21a198838d07b32d6dae029ef"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-- Added time to stats
-- Added localization (wip)
-- Fixed bug preventing stats counting in rare case
-- All fates coords should now be centered (without randomize)
+- Added 'Time in Eureka' to the stats
+- Added localization (DE full, FR small parts, JA missing)
+- Fixed a bug that prevented stats from counting correctly in rare case
+- All fates coords are now perfectly centered (without randomize)
+- Added more chests to low level pyros and pagos
 """
