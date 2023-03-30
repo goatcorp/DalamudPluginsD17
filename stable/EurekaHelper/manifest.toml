@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "667150bbd5ed49c7f1e3afafede62246e71ec99f"
+commit = "9d61379810dc5cad8a9583f8c4cd32104189aa47"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
@@ -8,4 +8,5 @@ changelog = """
 - Display NM spawned by mob position on map
 - Add new alias
 - Adjusted multiple NM positions
+- Use internal map fate positions from the game
 """
