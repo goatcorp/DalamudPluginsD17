@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "d81b1368bb2e58c940c6580a5af1e0ffd3f73469"
+commit = "f71da69fcc3833f3f38556f140237167d0a82abc"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-0.1.2.0
-
+0.1.2.1
 ## Feature
-Hide Label Feature: By checking the Hide checkbox in the config Menu your Label will now be hidden in all other menus and tooltips 
-
-## Bugfixe
-Adding just a label via the add note window is now possible again Thanks to mrexodia
+Commands! you can now use /tnconfig to open the config and /tnnote to open a note window based on the last hovered item (this should include all scenarios in which items produce a tooltip)
+A new Window! by typing /tnallnotes you can open a window which shows you all your notes in one window. Currently this is pretty useless but in the future I hope to make it so that you can use this to edit all notes at once rather than one by one.
 """

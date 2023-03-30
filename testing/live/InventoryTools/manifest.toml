@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "2dec63d7fe94347f6260b0b8c5b3fae376d289c9"
+commit = "1b68b29f746dbf54a3d24442c829f60f55485414"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Fix a few UI bugs, add more detail to retrieve tooltip, group retainers by character in settings -> characters/retainers, trim collectable/hq characters when searching"
-version = "1.4.0.4"
+changelog = "Show item number in retainer list toggle will now work\nThe put away sample filter was updated\nSome minor UI issues\nExtra currencies are now parsed(ventures, beast tribe currencies, etc)\nThis is the last update before it replaces the live version."
+version = "1.4.0.8"

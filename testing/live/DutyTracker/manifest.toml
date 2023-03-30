@@ -1,5 +1,7 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "d208f26578a8cbec077c43d6e228a5adbcfa656a"
+commit = "f118dd724b520158f12ef46c0f74d525ea260c96"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
+changelog = """Update for 6.3.
+Supports alliance deaths also."""

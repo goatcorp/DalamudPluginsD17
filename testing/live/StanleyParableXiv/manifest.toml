@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "a1abf05c3287c7170c8151fc200c8e75ddfad89b"
+commit = "672c84f43fed7be3f508618cbafed090ee3a0b77"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Updated killing spree voice lines to be 30% quieter during playback
-- Implemented Duty Complete playback for guildhests
-- Disabled Duty Start and Duty Complete playback for solo quest instances
-- Prevented Duty Failure from playing during FC workshop craft cutscenes
+- Fixed AFK events playing in cutscenes
+- Fixed AFK events not playing again after playing once
+- Fixed some PVP events causing a crash if a player goes missing
+- Refactored duty events to only play in whitelisted content types
+- Added a disk space check and feedback for new plugin users
 """
