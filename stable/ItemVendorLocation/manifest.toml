@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "2af78ce25eecd0a9f95e5cc08e68ed77a2557141"
+commit = "e390a34e65443ec1878e76e2907f80e2c8749e5c"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix for crash on plugin load
+- Fixed issue with Garland Tools map links
+- Added setting for showing shop info
+- Fixed issue with FC vendors
+- Fixed a few random NPC location problems (internal)
 """
-version = "1.1.0.2"
+version = "2.1.0.0"

@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "b12e248e095a99cfcde1ec5dfa8749e0b6cdf33b"
+commit = "73ca0a42a052e74b7caf750feb3be2aa20affdaf"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-Share your configurations with other users!
-- Exported configurations are saved in a ZIP file. There's no need to open or change anything in it.
-- To import a configuration, just click on the Import button, choose the ZIP file, \
-a folder where to extract any custom sounds used by the configuration being imported \
-and if you want to create a backup of your current configuration. It's that easy™️!
+- Show \"Play sound only for actions\" checkbox when using in-game SFX.
+-- The option was applied for in-game SFX if checked in custom sound mode, the only issue was the checkbox not being shown. 
 """

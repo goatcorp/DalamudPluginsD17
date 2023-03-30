@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "8013b9f28fefca2ce0cd25b57f08c979edb6072b"
+commit = "5bfadc08f3e269b954180854d06c37d0ea5e088a"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update NetStone
-  This should help with issues regarding fetching FC members, which was causing the plugin to stop working for some users.
+- Fix issue where settings were not correctly being read, causing names abbreviations not matching up with the user's settings.
 """
