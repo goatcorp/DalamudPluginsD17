@@ -1,14 +1,16 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "2309ff14d67e0b9741b7948eca44969e84aa6d06"
+commit = "6d955d84b82e65651eec263891220d3f6f881f56"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
+- Added Fairy Lifecycle, the plugin will now track if a fairy died that you have seen before (only works nearby)
+- Added Fairy Map Markers, this allows you place map markers on all known fairies (button in the fairy tab)
 - Added 'Time in Eureka' to the stats
-- Added localization (DE full, FR small parts, JA missing)
+- Added localization (DE and FR ... JP needs translater)
 - Fixed a bug that prevented stats from counting correctly in rare case
 - All fates coords are now perfectly centered (without randomize)
 - Added more chests to Hydatos, low level pyros and pagos
