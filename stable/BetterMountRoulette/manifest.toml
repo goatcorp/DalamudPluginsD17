@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "a7bba570c8aff661b94c7a3e6c490a034f0da2c8"
+commit = "5699cf7b1204f5be348f01837c025c7f0098466e"
+version = "1.2.0.10"
 owners = ["CMDRNuffin"]
 changelog = """Features:
-- Add mount groups
-- Associate each mount roulette with a separate mount group (or none at all)
-- Summon a mount from a specified group via /pmount <group name>"""
+- Add support for different settings per character
+  - Import setting from other characters
+  - Manage other characters' settings from within the game
+- Add setting to prefer multi-seated mounts while in a party (courtesy of Meoiswa)"""
