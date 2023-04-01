@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "f71da69fcc3833f3f38556f140237167d0a82abc"
+commit = "3cc06f3106acb0e4d036d9c72978819ecc0b1d88"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-0.1.2.1
+1.0.0.0
 ## Feature
-Commands! you can now use /tnconfig to open the config and /tnnote to open a note window based on the last hovered item (this should include all scenarios in which items produce a tooltip)
-A new Window! by typing /tnallnotes you can open a window which shows you all your notes in one window. Currently this is pretty useless but in the future I hope to make it so that you can use this to edit all notes at once rather than one by one.
+Made Debug logging a optional toggle 
+
+This version also removes access to the allnotes Window since it is very buggy and kinda useless in its current form.
+It will come back in the next testin release, this is just to prepare for the port to stable. 
 """
