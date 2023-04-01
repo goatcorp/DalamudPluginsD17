@@ -1,10 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "5699cf7b1204f5be348f01837c025c7f0098466e"
-version = "1.2.0.10"
+commit = "b7cff086d2f67021ff3f50e4e2bc1f81df5701f7"
+version = "1.2.0.11"
 owners = ["CMDRNuffin"]
-changelog = """Features:
-- Add support for different settings per character
-  - Import setting from other characters
-  - Manage other characters' settings from within the game
-- Add setting to prefer multi-seated mounts while in a party (courtesy of Meoiswa)"""
+changelog = """Fix: Remove chat spam"""
