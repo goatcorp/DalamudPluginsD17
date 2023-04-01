@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "3d5c0135177424c94563d3cdc0fcdf9aaf6992b2"
+commit = "8572309aa806d9f1c8e83e0632f92c9f080a5ba2"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
+- Added a new command: /ddtmain (Opens the Main Window).
+- Added the Main Window: the saved files and backups sections from the Statistics tab were moved to this new window. The /ddtmain command is now required.
 - Added a new information: Inventory (Statistics Window).
 - Text rendering rework.
 - Lots of UIs adjustments and improvements.
