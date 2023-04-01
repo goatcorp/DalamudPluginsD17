@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "f27acac5e2bc25e9b4880d93760dde00487f2380"
+commit = "b51b7a2db9523396699eb2995271d23ca7389771"
 changelog = "Implemented partial tether lines and target rings"
