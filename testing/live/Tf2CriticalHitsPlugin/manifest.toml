@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "cd6f43aeb1834e8657d0bef6a03f9f2addc47053"
+commit = "860305a9720aeffe340c3812ae8a8db6ece1e86c"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Tentative fix for the plugin failing to load at all.
+- Now, the Delete button for a Countdown Jams configuration is shown in the detail pane.
+  - This makes the button actually clickable. 
   - (Special thanks to HuiEtyud for the report!)
 """
