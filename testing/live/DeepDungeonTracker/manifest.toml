@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "600b4add23d19a9e2189b24003a4d88af4e9b88b"
+commit = "4d42c0f5cdc2023fcec709c4ae383f4abb5da07a"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- F99 kill check fix.
+- Added a new command: /ddtmain (Opens the Main Window).
+- Added the Main Window: the saved files and backups sections from the Statistics tab were moved to this new window. The /ddtmain command is now required.
+- Added a new information: Inventory (Statistics Window).
+- Text rendering rework.
+- Lots of UIs adjustments and improvements.
+- Fixed an issue where when using a font size below 12.0, all windows get cropped.
 """
