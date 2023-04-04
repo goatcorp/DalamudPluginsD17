@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = 'b596c1457054566998645afa26a226e28e0cb454'
+commit = 'f6749fc2744891095eb4c678fa095f40fcf40b49'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
-changelog = '- Set initial Emote Log window size'
+changelog = 'Initial public release'
