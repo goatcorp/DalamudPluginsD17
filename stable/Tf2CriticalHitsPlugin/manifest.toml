@@ -1,9 +1,17 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "73ca0a42a052e74b7caf750feb3be2aa20affdaf"
+commit = "860305a9720aeffe340c3812ae8a8db6ece1e86c"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Show \"Play sound only for actions\" checkbox when using in-game SFX.
--- The option was applied for in-game SFX if checked in custom sound mode, the only issue was the checkbox not being shown. 
+New name: *Hit it, Joe!*
+- Since the plugin hit version 3, keeping the name Valve-related would cause crashes.
+
+[Countdown Jams]
+- New module.
+- Set sounds to be played when a countdown starts.
+
+[TF2-ish Critical Hits]
+- New algorithm to differentiate your heals from other players'. (Thanks, Aireil!)
+  - Also considers heals from your fairy as yours.
 """
