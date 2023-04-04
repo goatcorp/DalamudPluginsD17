@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Lerofni/TooltipNotes.git"
+commit = "3cc06f3106acb0e4d036d9c72978819ecc0b1d88"
+owners = ["Lerofni"]
+project_path = "TooltipNotes"
+changelog = """
+1.0.0.0
+## Feature
+Made Debug logging a optional toggle 
+
+This version also removes access to the allnotes Window since it is very buggy and kinda useless in its current form.
+It will come back in the next testin release, this is just to prepare for the port to stable. 
+"""

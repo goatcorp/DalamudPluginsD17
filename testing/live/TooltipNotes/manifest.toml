@@ -5,9 +5,20 @@ owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
 1.0.0.0
-## Feature
-Made Debug logging a optional toggle 
 
-This version also removes access to the allnotes Window since it is very buggy and kinda useless in its current form.
-It will come back in the next testin release, this is just to prepare for the port to stable. 
+The Stable Release of TooltipNotes! 
+
+This is a plugin which allows you to put custom notes onto item tooltips easily by rightclicking.
+
+Want to reuse notes between items? 
+Sure! just use the label feature to make generich notes
+
+Dont have the item and thus can rightclick it?
+Just hover over the item in a way that generates a tooltip and then type /tnnote to bring up the notewindow for that item!
+
+Do you have many rings with the same name that belong to different job BIS?
+No Problem! enable glamour specific notes in the config and glamour one of your rings(onto itself is fine) and boom seperate notes!
+
+If you are in any need for support please enable Debug logging in the plugin config 
+and head on over to the Tooltip Notes channel in the plguin-help-forum over in the Discord
 """
