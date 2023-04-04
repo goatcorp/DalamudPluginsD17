@@ -1,8 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "a7bba570c8aff661b94c7a3e6c490a034f0da2c8"
+commit = "b7cff086d2f67021ff3f50e4e2bc1f81df5701f7"
+version = "1.2.0.11"
 owners = ["CMDRNuffin"]
-changelog = """Features:
-- Add mount groups
-- Associate each mount roulette with a separate mount group (or none at all)
-- Summon a mount from a specified group via /pmount <group name>"""
+changelog = """Fix: Remove chat spam"""

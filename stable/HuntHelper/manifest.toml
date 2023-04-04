@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/imaginary-png/HuntHelper.git"
-commit = "7b2a32d4a79e1d083e415a666e7a39ad5c90dbe3"
+commit = "844fb9bcfe6326c2b7957c61504ea91b5fee6db1"
 owners = [
     "imaginary-png",
 ]
 project_path = "HuntHelper"
-changelog = "Add support for Unix based systems - Thank you: Nullctipus"

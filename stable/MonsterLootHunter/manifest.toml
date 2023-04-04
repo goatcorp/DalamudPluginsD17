@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "37fc6b764dedcc1594f313bf0c7a445e79d1cab5"
+commit = "1752e0620af97cb2420122d29d5313d1585deb6c"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Fixes table crashing issue
+changelog = """- UI rendering rework
+- Legacy rendering added for fallback usage
+- Safety checks for crash prevention
  """

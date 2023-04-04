@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "8ffcf630e81f4747777fc915a0b644ed87d79d88"
+commit = "860305a9720aeffe340c3812ae8a8db6ece1e86c"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Fixed plugin littering the pluginConfig folder.
-  - The plugin should automatically delete any old configurations with a timestamp from 5 or more days of age.
-- Fixed config file being double the size it should've been.
+- Now, the Delete button for a Countdown Jams configuration is shown in the detail pane.
+  - This makes the button actually clickable. 
+  - (Special thanks to HuiEtyud for the report!)
 """
