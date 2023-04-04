@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/lmcintyre/DamageInfoPlugin.git"
+commit = "adc3651d44f6ddcb1b518a40ed147eb2f0e0e8f1"
+owners = [
+    "lmcintyre",
+]
+project_path = "DamageInfoPlugin"
