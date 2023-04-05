@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ry00001/PushyFinder.git"
-commit = "50ab256e4e11c9153b74260c8f626f04f59ad687"
+commit = "0fb6f685caeffe0da1d450eb62a24415396935d7"
 owners = ["ry00001"]
 project_path = "PushyFinder"
-changelog = "Add test notification button to config window"
+changelog = "De-goat plugin"
