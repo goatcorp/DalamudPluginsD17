@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/Tourist.git'
-commit = '1f9fb1e61cf93052e5b504309960e8d18c1764ff'
+commit = '4acf59dfd63f6c341f6eeea722566687f9e676f6'
 owners = [ 'ascclemens' ]
-changelog = 'API 7'
+changelog = '6.3'
