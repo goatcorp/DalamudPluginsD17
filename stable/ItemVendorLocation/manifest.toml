@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "6dcef73270c39a0d7a09464645977a3fca347b8c"
+commit = "8e5552f5f3371e619642499d92dd8f61808a6489"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Added /xlvendor chat command (no args for config, args for item search)
-- Fixed various issues with npc locations and items (internal data source)
-- Made everything better! (yay)
-- Made everything worse :( (RIP)
+- Fixed issue with Filter GC Results option
 """
-version = "2.2.0.0"
+version = "2.2.0.1"
