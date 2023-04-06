@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "4db8fb41359ca96d05e9c1ca9bb4fc72fd612f72"
+commit = "868a1858930b8008208208f6c1a681d27579e9d2"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Update for Patch 6.3
+- Will now open the correct death recap when clicking a link in chat, not just the latest one.
+- Use improved window management from Dalamud.Windowing (thanks MidoriKami)
 """
