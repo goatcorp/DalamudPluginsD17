@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "be0f0276a8ff77e8e4d4ed4ce3c5953fa65a4d25"
+commit = "b1fda00e1b9442ae30d53212b37590060a1868fd"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
 - Added Alarm for Bozja content.
 - Added a general options bar, with a button to open Alarm window, and a button to shut the alarm up.
 - Fix a bug in Extra information tab where FATE-chain would not show up in FATE extra info.
+- Added config options to change audio path and volume.
+- Added a config window button to Alarm window.
 ---
 - Alarm overview: 
 + Time-based: alarms which trigger at a specific time. Can only be created in Alarm window.
