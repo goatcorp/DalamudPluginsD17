@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "868a1858930b8008208208f6c1a681d27579e9d2"
+commit = "b783700c606ce5760bf7bd4a5cb06ddcefbb4ca5"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Will now open the correct death recap when clicking a link in chat, not just the latest one.
-- Use improved window management from Dalamud.Windowing (thanks MidoriKami)
+- Add option to disable in PvP
 """
