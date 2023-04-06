@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "469f910ee55f191c6f4e4b051b54f793365cd369"
+commit = "054ddc91578d8c623ac972c2d26fe1a4e55f34d7"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Lots of UI adjustments and improvements on the summary page, where it shows the floor set scores, times, and calculations (Statistics Window).
-- Added mouse wheel support for the backup file list (Main Window).
-- The maps icon on the floor set (Statistics Window) will now always be shown for each floor. In cases of partial map exploration, a darker color will be applied to the map icon, indicating no map reveal bonus.
-- The Main Window-related configuration from the General tab was moved to the Main tab (reconfiguration may be required).
+- Added a new feature: Last Save (Main Window).
+- When you delete an in-game save slot and then reopen the in-game Save Slot Menu, the saved file associated to that slot will be moved to the Last Save option, instead of being deleted. You can start a new save while keeping the last save available.
 """
