@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Infiziert90/SubmarineTracker.git"
+commit = "ad8deeaf18ef59248b42c809f2268841ec2f9ad4"
+owners = [
+    "Infiziert90",
+]
+project_path = "SubmarineTracker"
+changelog = """
++ Tracks current builds  
++ Builder to improve your builds  
++ Breakpoint calculation based on spreadsheet data
++ Support for multiple FCs  
+"""
