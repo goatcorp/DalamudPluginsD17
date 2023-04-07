@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ry00001/PushyFinder.git"
-commit = "0fb6f685caeffe0da1d450eb62a24415396935d7"
+commit = "d3df24a9a56090358deb8c5b978dc580f283f768"
 owners = ["ry00001"]
 project_path = "PushyFinder"
-changelog = "De-goat plugin"
+changelog = "One-byte change to fix build on Linux"
