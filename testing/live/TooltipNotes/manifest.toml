@@ -1,24 +1,16 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "3cc06f3106acb0e4d036d9c72978819ecc0b1d88"
+commit = "804be66c7272fe678b0cb6257da66c1d3dc1dc18"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.0.0.0
+1.1.0.0
 
-The Stable Release of TooltipNotes! 
+Feature:
+The allNoteWindow is back! This time with actual functionality. You can now edit all notes in one window including their labels and note colour.
+It now also displays the items name and a indicator for what type of note it is instead of the internal noteid 
+By removing all notes and lables from an item it will be deleted from the window upon hitting save.
 
-This is a plugin which allows you to put custom notes onto item tooltips easily by rightclicking.
-
-Want to reuse notes between items? 
-Sure! just use the label feature to make generich notes
-
-Dont have the item and thus can rightclick it?
-Just hover over the item in a way that generates a tooltip and then type /tnnote to bring up the notewindow for that item!
-
-Do you have many rings with the same name that belong to different job BIS?
-No Problem! enable glamour specific notes in the config and glamour one of your rings(onto itself is fine) and boom seperate notes!
-
-If you are in any need for support please enable Debug logging in the plugin config 
-and head on over to the Tooltip Notes channel in the plguin-help-forum over in the Discord
+Bugfix:
+Fixed Glamour-specfic notes on items that have description eg. Augmented crafted gear etc.
 """
