@@ -1,17 +1,13 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "a21e7a2b588e78b1addb1e624814282c292c7ff8"
+commit = "bdfcf70e1b74a8c4be75bdd0bc17c6d7d066cea8"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-- Added Alarm for Bozja content.
-- Added a general options bar, with a button to open Alarm window, and a button to shut the alarm up.
-- Fix a bug in Extra information tab where FATE-chain would not show up in FATE extra info.
-- Added config options to change audio path and volume.
-- Added a config window button to Alarm window.
----
-- Alarm overview: 
-+ Time-based: alarms which trigger at a specific time. Can only be created in Alarm window.
-+ Weather-based: alarms which trigger at a specific weather at a specific time (ONCE), or every time the weather occurs (REPEAT). Can be created in Alarm window, or clicking on Weather bar.
-+ FATE-based: alarms which trigger every time a FATE occurs (CEs not yet supported). Can be created in Alarm window, or click on Alarm column in Fate/CE table.
-- Alarm can be turned off, edited, deleted, or recycled once expire."""
++ Added temporary support for alarms to trigger on Critical Engagements (CE). This requires the Resistance Recruitment in-game window to open. This is a half-ass attempt at implementing the feature, due to technical issues at the moment. Will (hopefully) be improved later on.
++ Added the option to set Alarm to trigger upon any CE.
++ Added a maplink button to each Fate/CE alarm in Alarm in-game window.
++ Added a UI Hint to remind user to keep the Resistance Recruitment in-game window open for CE-related features. Only display when any of said features are actively being used (e.g. having CE alarm, looking at Fate/CE table)
++ Added a config option to turn off the above UI hint in Config window. (Config > UI Hints > [A] > [1])
+------ Bug fixes
++ Fix a bug where alarm related-features would break upon deleting an alarm in Expired Alarms section"""
