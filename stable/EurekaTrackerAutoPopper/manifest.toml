@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "2271eb01d2d8239570563bf013909f6d9983334c"
+commit = "b08cb08169bc10a6ddce345caadfe6a45771a91a"
 owners = [
     "Infiziert90",
     "electr0sheep",
@@ -8,5 +8,6 @@ owners = [
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
 [Hotfix]
-- Don't crash if user inputs old instance ID format
+- All commands act as toggles now
+- More chests
 """
