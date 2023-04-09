@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "cb9e508306509dcb7ab3274fa79801b8a9d9a6b2"
+commit = "90014dc684609d11fefa9a0701fb207ee843a39b"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-- Add Timer and Routes to tracker
-- Add config options to disable both of them
-- Add About Tab
+- Added repair costs to details and builder 
+- Added duration to builder 
 """
