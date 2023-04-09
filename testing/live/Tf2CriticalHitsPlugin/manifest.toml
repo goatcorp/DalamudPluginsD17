@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "87ae21c7b6c63039c2149af453e5b9363b9d43a0"
+commit = "10d2900f9ada8ec296e7b40208f86e81eda2f79d"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-Now, it's possible to have multiple Jams to play for the same countdown.
-- For this, any Jams other than the first must be configured to play at a specific mark.
-- Only the first Jam's cancel sound will play if the countdown is cancelled.
-
-Thanks to GokaiSanyu for the feedback!
+[Countdown Jams]
+- Fix volume sliders changing simultaneously.
 """
