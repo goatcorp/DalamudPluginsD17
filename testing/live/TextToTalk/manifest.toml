@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "ef43200164d80b4f7221ce8a13f21985531de04f"
+commit = "effb63f20c66801f6d453a475707a2868354a285"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Major UI performance improvements
+- Fixes player voice bugs in cross-world chat
 """
