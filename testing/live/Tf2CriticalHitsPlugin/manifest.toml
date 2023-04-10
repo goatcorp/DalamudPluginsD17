@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "ac0c0e6265b553224ab8c72f7e338fedc9b9c118"
+commit = "c88737f642ca03093e72056f8651ab578e6f66ca"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
+[TF2-ish Critical Hits]
+- Game SFX combobox now adapts its size to the ImGui font size.
+
 [Countdown Jams]
-- Fix volume sliders changing simultaneously.
+- The numeric inputs now adapt their sizes to the ImGui font size.
+
+(Thanks to Neh for the report!)
 """
