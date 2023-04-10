@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "90014dc684609d11fefa9a0701fb207ee843a39b"
+commit = "645ee499d307c9f703d96a54be4f36db6be9b4d7"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-- Added repair costs to details and builder 
-- Added duration to builder 
+- Added loot tracking
+- WIP loot overview
+- Fix imgui textcalc crash on startup???
 """
