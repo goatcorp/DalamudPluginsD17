@@ -1,16 +1,13 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "804be66c7272fe678b0cb6257da66c1d3dc1dc18"
+commit = "9d978a4cd0af4476ee8caa0a8602c84dc2626782"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.1.0.0
+1.1.1.0
 
-Feature:
-The allNoteWindow is back! This time with actual functionality. You can now edit all notes in one window including their labels and note colour.
-It now also displays the items name and a indicator for what type of note it is instead of the internal noteid 
-By removing all notes and lables from an item it will be deleted from the window upon hitting save.
+Now uses Multiline text in the noteWindow (alt+Enter will make a new line) and displays them in the allNoteWindow
 
-Bugfix:
-Fixed Glamour-specfic notes on items that have description eg. Augmented crafted gear etc.
+CharacterSpecific Notes now only hide your global notes if there is a CharacterSpecific Note and not always anymore.
+
 """
