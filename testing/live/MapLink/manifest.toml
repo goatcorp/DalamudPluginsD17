@@ -1,4 +1,4 @@
 [plugin]
 repository = "https://github.com/SoyaX/MapLink.git"
-commit = "25fdaca9eb0729d53634480025b429881a8ebd16"
+commit = "b0e68ff310a376738b4e3852ff73c0190427c3d8"
 owners = [ "SoyaX" ]
