@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TwitchXIV.git"
-commit = "b549e3fdd85ff0c038206d7036f3580981aa9926"
+commit = "0cae02a9e9bf97d7554daf598ab1c850b14ca0ce"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "Initial commit"
+changelog = "Re-organization, plugin no longer needs to be restarted after config"
