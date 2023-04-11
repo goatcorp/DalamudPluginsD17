@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "1d8451d3f964c08763f5eb8cbcbaabd8f0af1eec"
+commit = "00032bd355e169b1af562ac8e4dfcf64bf7d7692"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Will now properly scale weapon damage when level sync'd
-- Improve average healing formula for levels under 90
+Will now show ilvl sync on the character panel when in a sync'd duty
 """
