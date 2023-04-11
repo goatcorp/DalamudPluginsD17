@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TwitchXIV.git"
-commit = "a60544784d4d72750b50e13c7c1a9c747ffad668"
+commit = "cf0093ea756ed046c15be88d15bfa2cf5f56dc7d"
 owners = ["Aida-Enna"]
 project_path = ""
 changelog = "Re-organization, plugin no longer needs to be restarted after config. Added in the ability to disconnect and standardized the internal display name."
