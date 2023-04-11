@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "2d80ffecbf4aba193f3efc1a92d3decef28aa6c9"
+commit = "5bc4876058bcbbdc166631a17ba0fa72e78b5ddb"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-- Added loot tracking
-- WIP loot overview
-- Fix imgui textcalc crash on startup
+- Fix bug that produced wrong tag and world names
 """
