@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "691a5cb9432210f7e20a22b60199e27974cdfdda"
+commit = "325850936b9068e0e7e1bde702ba8e90c29c1ac5"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added a new menu: Boss Status Timer (accessed through the Statistics Window). 
-- A new tab and an entry on the General tab > Information have been added for this menu.
-- In this menu, you can see your buffs duration and the boss's debuffs duration through a timeline.
-- This new feature still needs some more testing on a variety of bosses (especially when applying debuffs such as vulnerability up stacks and enervation).
+- Just a small fix on boss debuff's detection (Boss Status Timer Window)
 """
