@@ -6,5 +6,17 @@ owners = [
 ]
 project_path = "SubmarineTracker"
 changelog = """
-- Fix bug that produced wrong tag and world names
+- Finished FC Loot Overview
+- Added return date/time
+
+Planned features:
++ EXP optimizer
++ Unlockable routes
++ Save/Load builds and routes
++ Durability for each sub 
++ Durability calculation
++ Automatic build solver
+
+If you have ideas or requests for additional features, please contact me through either the discord thread or Github issue page
+You can find both of these in the about tab
 """
