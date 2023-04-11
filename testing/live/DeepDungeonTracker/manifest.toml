@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "054ddc91578d8c623ac972c2d26fe1a4e55f34d7"
+commit = "691a5cb9432210f7e20a22b60199e27974cdfdda"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added a new feature: Last Save (Main Window).
-- When you delete an in-game save slot and then reopen the in-game Save Slot Menu, the saved file associated to that slot will be moved to the Last Save option, instead of being deleted. You can start a new save while keeping the last save available.
+- Added a new menu: Boss Status Timer (accessed through the Statistics Window). 
+- A new tab and an entry on the General tab > Information have been added for this menu.
+- In this menu, you can see your buffs duration and the boss's debuffs duration through a timeline.
+- This new feature still needs some more testing on a variety of bosses (especially when applying debuffs such as vulnerability up stacks and enervation).
 """
