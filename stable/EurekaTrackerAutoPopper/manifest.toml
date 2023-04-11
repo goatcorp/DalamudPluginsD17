@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "b08cb08169bc10a6ddce345caadfe6a45771a91a"
+commit = "2215387948434c807c8e15c0e4f05adc9d1f39fc"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-[Hotfix]
-- All commands act as toggles now
-- More chests
+nofranz
 """
