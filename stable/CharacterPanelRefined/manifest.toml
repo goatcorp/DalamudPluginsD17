@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "00032bd355e169b1af562ac8e4dfcf64bf7d7692"
+commit = "90f7ef10ef2504495204ab09dae01788ec1bd120"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Will now show ilvl sync on the character panel when in a sync'd duty
+Will now show synced stats in item tooltips when in a synced duty.
+Can by disabled in the config or by pressing Ctrl.
 """
