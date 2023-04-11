@@ -1,12 +1,19 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "79dc1b9421ec00777413e6a64d13c31d95449932"
+commit = "37faed3de453d2ec85bb6fa8b26e2dea06866f13"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-- Add new feature to manage Elementals/Fairies
-- Add new feature to place marker on Elemental positions
-- /ehelper, /eh is now a toggle command to open/close the window
+Tracker Changes
+- Add feature export existing tracker to a new tracker
+- Add feature to edit pop time
+
+Elemental Manager
+- Add feature to display known Elemental positions on map and minimap
+- Add known positions to plugin
+
+General
+- Add new configuration option to change plugin chat channel
 
 Opt-in and assist to crowdsource all the Elemental positions
 Post new positions on GitHub pinned issue or through Discord DM
