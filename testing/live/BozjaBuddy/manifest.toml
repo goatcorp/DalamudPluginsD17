@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "69e7986630b8c091c08cee26baca129e0c1f7cfc"
+commit = "ecc865d30a56154a47f85501d7f6e9622b0c60ef"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-BB 0.2.2.0
+BB 0.2.2.1
 
 + Added context menu for GUI links, with 4 options: Link item, Link position, Copy quick info, Marketboard.
 + Added visual cue for GUI links. This symbol here: »
