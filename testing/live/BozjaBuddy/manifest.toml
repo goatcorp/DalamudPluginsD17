@@ -1,6 +1,13 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "cff0e2ecbe4d5424f40ba9973db10441781ef2ba"
+commit = "ab124df6146d6c1e85c1dc14de895dbc56b1318f"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
-changelog = "Update loadout to show guide for (likely new) users on how to load recommended loadouts."
+changelog = """
++ Added temporary support for alarms to trigger on Critical Engagements (CE). This requires the Resistance Recruitment in-game window to open. This is a half-ass attempt at implementing the feature, due to technical issues at the moment. Will (hopefully) be improved later on.
++ Added the option to set Alarm to trigger upon any CE.
++ Added a maplink button to each Fate/CE alarm in Alarm in-game window.
++ Added a UI Hint to remind user to keep the Resistance Recruitment in-game window open for CE-related features. Only display when any of said features are actively being used (e.g. having CE alarm, looking at Fate/CE table)
++ Added a config option to turn off the above UI hint in Config window. (Config > UI Hints > [A] > [1])
+------ Bug fixes
++ Fix a bug where alarm related-features would break upon deleting an alarm in Expired Alarms section"""

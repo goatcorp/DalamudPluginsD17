@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "ef43200164d80b4f7221ce8a13f21985531de04f"
+commit = "8e8a4e2ca5467b0ce91021dab5d18fc0c99bb500"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Major UI performance improvements
+- Adds support for reading pop-up battle text
+- Fixes player voice bugs in cross-world chat
 """

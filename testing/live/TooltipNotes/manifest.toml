@@ -1,24 +1,13 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "3cc06f3106acb0e4d036d9c72978819ecc0b1d88"
+commit = "9d978a4cd0af4476ee8caa0a8602c84dc2626782"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.0.0.0
+1.1.1.0
 
-The Stable Release of TooltipNotes! 
+Now uses Multiline text in the noteWindow (alt+Enter will make a new line) and displays them in the allNoteWindow
 
-This is a plugin which allows you to put custom notes onto item tooltips easily by rightclicking.
+CharacterSpecific Notes now only hide your global notes if there is a CharacterSpecific Note and not always anymore.
 
-Want to reuse notes between items? 
-Sure! just use the label feature to make generich notes
-
-Dont have the item and thus can rightclick it?
-Just hover over the item in a way that generates a tooltip and then type /tnnote to bring up the notewindow for that item!
-
-Do you have many rings with the same name that belong to different job BIS?
-No Problem! enable glamour specific notes in the config and glamour one of your rings(onto itself is fine) and boom seperate notes!
-
-If you are in any need for support please enable Debug logging in the plugin config 
-and head on over to the Tooltip Notes channel in the plguin-help-forum over in the Discord
 """

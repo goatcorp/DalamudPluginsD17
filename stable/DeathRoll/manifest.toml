@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "05831fa91b43afcf1e8f2324cf404396e3fd27c9"
+commit = "23a34b300983351fa531315efc2bca55f63f554a"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ UI adjustments to get a cleaner look and remove duplicates
-+ Added a 'How to play' tooltip for both DeathRoll and Tournament 
++ Improvements for Blackjack Mode (thanks @SonyUSA)
+  + Dealer draws all option
+  + Copy Payout
+  + Copy Player
+  + Copy Dealer
+  + Show card total
 """

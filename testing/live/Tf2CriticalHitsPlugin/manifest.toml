@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "d7f5c32f922cb1e356e5c5e5e32124050303f1c5"
+commit = "c88737f642ca03093e72056f8651ab578e6f66ca"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-After update 3.0.0.0, we received a whispering at dawn from Eos and Selene, complaining that crediting the Scholar for their healing is unjust.
+[TF2-ish Critical Hits]
+- Game SFX combobox now adapts its size to the ImGui font size.
 
-We embraced these complaints and, after discussion with the fey union, decided on adding two more configuration submodules: \"Critical Healing from your own fairy\" (Scholar only) and \"Critical Healing from other players' fairies\". One of them gauged the implementation and gave it their official blessing.
+[Countdown Jams]
+- The numeric inputs now adapt their sizes to the ImGui font size.
 
-We thank both fairies for illuminating us on this matter.
-
-Also, this version was validated on 6.38 and contains fixes for the territory options not persisting.
+(Thanks to Neh for the report!)
 """
