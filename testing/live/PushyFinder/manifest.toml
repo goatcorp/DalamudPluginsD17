@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/ry00001/PushyFinder.git"
-commit = "de688734a4158dbd7ae23642a5ddd60c79a18e3b"
+commit = "a8db1ca91abfc5c6e1fb75508bd7b66247c62169"
 owners = ["ry00001"]
 project_path = "PushyFinder"
-changelog = "Make the configuration window clearer about when the plugin is active or not."
+changelog = """
+- Make the configuration window clearer about when the plugin is active or not
+- Add a checkbox to always send notifications regardless of AFK status
+- Take Camera Mode (gpose, afk cam) into account when checking if AFK
+"""
