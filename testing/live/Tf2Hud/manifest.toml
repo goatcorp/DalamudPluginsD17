@@ -1,18 +1,10 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "63811a1af9b12072a2e652d658d785dfc4c50a3c"
+commit = "94d5561b6af1891e9672e1be96b06b864c829169"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
-[REQUIRES TF2 TO BE INSTALLED]
-The finest mashup of games in the \"I kill things and do it in fashion\" genre.
-
-* Show a Win Panel (with sounds!) when you clear or get wiped in a duty.
-* Show the TF2 Timer when in a duty.
-* Enable the \"Voice Lines\" module (via /tfconfig) to have voice lines play when certain conditions are met. What conditions, you ask? It's a surprise! (Unless you uncheck the \"Surprise me!\" box.) 
-* More features maybe soon?
-
-Note: This plugin uses files from a local Team Fortress 2 installation.
-It'll search for the game's installation folder in all configured Steam Library Folders automatically.
+- Clarified what works and what doesn't work without TF2 installed.
+- Fixed FlyText (damage info) not showing with the plugin enabled. (Thanks, HuiEtyud!)
 """
 
