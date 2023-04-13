@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "ab124df6146d6c1e85c1dc14de895dbc56b1318f"
+commit = "69e7986630b8c091c08cee26baca129e0c1f7cfc"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-+ Added temporary support for alarms to trigger on Critical Engagements (CE). This requires the Resistance Recruitment in-game window to open. This is a half-ass attempt at implementing the feature, due to technical issues at the moment. Will (hopefully) be improved later on.
-+ Added the option to set Alarm to trigger upon any CE.
-+ Added a maplink button to each Fate/CE alarm in Alarm in-game window.
-+ Added a UI Hint to remind user to keep the Resistance Recruitment in-game window open for CE-related features. Only display when any of said features are actively being used (e.g. having CE alarm, looking at Fate/CE table)
-+ Added a config option to turn off the above UI hint in Config window. (Config > UI Hints > [A] > [1])
+BB 0.2.2.0
+
++ Added context menu for GUI links, with 4 options: Link item, Link position, Copy quick info, Marketboard.
++ Added visual cue for GUI links. This symbol here: »
++ Alarms now post a chat upon triggerring.
++ Adjusted GUI components.
 ------ Bug fixes
-+ Fix a bug where alarm related-features would break upon deleting an alarm in Expired Alarms section"""
++ Fix a bug where GUIAssist for Mettle&Rank window would persist after closing the plugin window. (even if there was no CE Alarm running)"""

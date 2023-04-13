@@ -1,10 +1,22 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "5bc4876058bcbbdc166631a17ba0fa72e78b5ddb"
+commit = "b33a1e474b39b166792bbeea1b3ee825ce8f5744"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-- Fix bug that produced wrong tag and world names
+- Finished FC Loot Overview
+- Added return date/time
+
+Planned features:
++ EXP optimizer
++ Unlockable routes
++ Save/Load builds and routes
++ Durability for each sub 
++ Durability calculation
++ Automatic build solver
+
+If you have ideas or requests for additional features, please contact me through either the discord thread or Github issue page
+You can find both of these in the about tab
 """
