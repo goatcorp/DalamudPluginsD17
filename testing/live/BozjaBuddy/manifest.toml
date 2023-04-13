@@ -1,14 +1,17 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "69e7986630b8c091c08cee26baca129e0c1f7cfc"
+commit = "9856eab36319bc9685d3eaf553efa3b3424eadbc"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-BB 0.2.2.0
+BB 0.2.2.2
 
-+ Added context menu for GUI links, with 4 options: Link item, Link position, Copy quick info, Marketboard.
-+ Added visual cue for GUI links. This symbol here: »
-+ Alarms now post a chat upon triggerring.
-+ Adjusted GUI components.
------- Bug fixes
-+ Fix a bug where GUIAssist for Mettle&Rank window would persist after closing the plugin window. (even if there was no CE Alarm running)"""
+- Add an alarm button to Fate/CE auxi tab and Item link context menu
+- Increase default alarm duration and offset to 20s. Make them config options.
+- Disable GUIAssist for Mettle&Rank during DR, DRS, Dal, CLL, and CEs
+- Add a config option to mute alarm upon switch back to game window.
+- Adjust minimum size of main window
+--------- Bug fixes ----------
+- Fixed: When editing a Fate/CE alarm, the default FateCE value of the dropdown is not the value of the alarm being edited.
+- Fixed: Pressing save in Alarm editing window would only save in memory, but not to disk.
+"""
