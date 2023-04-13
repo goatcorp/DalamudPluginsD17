@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ry00001/PushyFinder.git"
-commit = "d3df24a9a56090358deb8c5b978dc580f283f768"
+commit = "de688734a4158dbd7ae23642a5ddd60c79a18e3b"
 owners = ["ry00001"]
 project_path = "PushyFinder"
-changelog = "One-byte change to fix build on Linux"
+changelog = "Make the configuration window clearer about when the plugin is active or not."
