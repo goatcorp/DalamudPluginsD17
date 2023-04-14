@@ -1,19 +1,14 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "a2a163561749f2052e50661e49c973ad84d7049a"
+commit = "935e9c48dea7592634f417d506ff2da6306c0d36"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
 Tracker Changes
-- Add feature export existing tracker to a new tracker
-- Add feature to edit pop time
+- Add new option to automatically create a tracker when joining a Eureka zone
 
 Elemental Manager
-- Add feature to display known Elemental positions on map and minimap
 - Add known positions to plugin
-
-General
-- Add new configuration option to change plugin chat channel
 
 Opt-in and assist to crowdsource all the Elemental positions
 Post new positions on GitHub pinned issue or through Discord DM
