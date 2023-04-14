@@ -1,17 +1,14 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "9856eab36319bc9685d3eaf553efa3b3424eadbc"
+commit = "c2c4e05bd83ff09e682a068c789ceb601af3115f"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-BB 0.2.2.2
+BB 0.2.2.3
 
-- Add an alarm button to Fate/CE auxi tab and Item link context menu
-- Increase default alarm duration and offset to 20s. Make them config options.
-- Disable GUIAssist for Mettle&Rank during DR, DRS, Dal, CLL, and CEs
-- Add a config option to mute alarm upon switch back to game window.
-- Adjust minimum size of main window
---------- Bug fixes ----------
-- Fixed: When editing a Fate/CE alarm, the default FateCE value of the dropdown is not the value of the alarm being edited.
-- Fixed: Pressing save in Alarm editing window would only save in memory, but not to disk.
+- In Fate/CE table, amount of time ago in Status column is made sortable value
+
+- Fix a bug where changes to the on-off button of an Alarm in Alarm window would save to memory, but not to disk.
+- Fix a bug in Fate/CE alarm creation pop up where the drop down for Fate/CE wouldn't work properly.
+- Fix a bug where user's configs would get wiped after new update.
 """
