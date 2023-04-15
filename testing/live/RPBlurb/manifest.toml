@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/meoiswa/RPBlurb.git"
+commit = "9ab2aaf4f22d9108fe9e4fab91313e6124ed0567"
+owners = [
+    "meoiswa"
+]
+project_path = "RPBlurb"
+changelog = """
+Version 0.0.0.0:
+ - ⚠️Experimental Plugin⚠️
+ - Create and share a Roleplay sheets for your charater.
+ - Basically "Nameplates lite".
+ - Changes are transmited in realtime.
+ - Inspired by #new-plugin-ideas posts by June and Lynsis
+"""
