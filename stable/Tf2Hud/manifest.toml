@@ -1,0 +1,21 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
+commit = "d043233eaa86fcbbd8f952c0e31e1a6bee8b58e5"
+owners = ["Berna-L"]
+project_path = "Tf2Hud"
+changelog = """
+[REQUIRES TF2 INSTALLED FOR MOST FEATURES]
+The Mann Brothers just found a deposit of gravel in Eorzea
+and hired YOU, Mercenary of Light, to help them FIGHT for it.
+
+* Show a Win Panel (with sounds!) when you clear or get wiped in a duty.
+* Show a TF2-style timer while in a duty.
+* Enable the "Voice Lines" module (via /tfconfig) to have voice lines play when certain conditions are met. What conditions, you ask? It's a surprise! (Unless you uncheck the "Surprise me!" box.)
+* More features maybe soon?
+
+Note: This plugin uses files from a local Team Fortress 2 installation.
+It'll search for the game's installation folder in all configured Steam Library Folders automatically.
+
+Without a TF2 install, the Timer and Win Panel will work with FF XIV fonts, and no voice line will work.
+"""
+
