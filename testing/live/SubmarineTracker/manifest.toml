@@ -1,21 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "63da289c84f7f18aa4400d39768a4ebbeaae7859"
+commit = "79158f73e6772b2a0dec093c762d5c02f07919fc"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[New]
-+ Added customizable loot window (/sloot)
-> Add items in the custom tab in the configuration
-+ Added voyage log in the same window
-
-[Builder]
-+ Added optimized route
-+ Added exp/min
-
-[Tracker]
-+ Added option to use character name 
-+ Added option to use DateTime instead of ticking timer
+[Loot]
++ Added gil calculation
+> Your old config will be automatically migrated
+> Items with an NPC sell price of over 1000 get there correct values
+> While MB items need to be updated manually to show accurate values
 """
