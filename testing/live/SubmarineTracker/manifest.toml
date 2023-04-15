@@ -1,22 +1,21 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "b33a1e474b39b166792bbeea1b3ee825ce8f5744"
+commit = "63da289c84f7f18aa4400d39768a4ebbeaae7859"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-- Finished FC Loot Overview
-- Added return date/time
+[New]
++ Added customizable loot window (/sloot)
+> Add items in the custom tab in the configuration
++ Added voyage log in the same window
 
-Planned features:
-+ EXP optimizer
-+ Unlockable routes
-+ Save/Load builds and routes
-+ Durability for each sub 
-+ Durability calculation
-+ Automatic build solver
+[Builder]
++ Added optimized route
++ Added exp/min
 
-If you have ideas or requests for additional features, please contact me through either the discord thread or Github issue page
-You can find both of these in the about tab
+[Tracker]
++ Added option to use character name 
++ Added option to use DateTime instead of ticking timer
 """
