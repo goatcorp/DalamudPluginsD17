@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "23a34b300983351fa531315efc2bca55f63f554a"
+commit = "b71c1427fe981e66c5fa64dd6528a4c2e1cbb3c4"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ Improvements for Blackjack Mode (thanks @SonyUSA)
-  + Dealer draws all option
-  + Copy Payout
-  + Copy Player
-  + Copy Dealer
-  + Show card total
+[Blackjack]
++ Split Hand now acts like a real hand
++ Some cleanup
 """
