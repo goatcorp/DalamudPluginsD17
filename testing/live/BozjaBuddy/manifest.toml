@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "69e7986630b8c091c08cee26baca129e0c1f7cfc"
+commit = "c2c4e05bd83ff09e682a068c789ceb601af3115f"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-BB 0.2.2.0
+BB 0.2.2.3
 
-+ Added context menu for GUI links, with 4 options: Link item, Link position, Copy quick info, Marketboard.
-+ Added visual cue for GUI links. This symbol here: »
-+ Alarms now post a chat upon triggerring.
-+ Adjusted GUI components.
------- Bug fixes
-+ Fix a bug where GUIAssist for Mettle&Rank window would persist after closing the plugin window. (even if there was no CE Alarm running)"""
+- In Fate/CE table, amount of time ago in Status column is made sortable value
+
+- Fix a bug where changes to the on-off button of an Alarm in Alarm window would save to memory, but not to disk.
+- Fix a bug in Fate/CE alarm creation pop up where the drop down for Fate/CE wouldn't work properly.
+- Fix a bug where user's configs would get wiped after new update.
+"""

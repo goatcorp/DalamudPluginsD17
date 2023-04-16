@@ -1,17 +1,11 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "c88737f642ca03093e72056f8651ab578e6f66ca"
+commit = "bc21edcd938d3b07f8c061b38aff14ec54824712"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-[TF2-ish Critical Hits]
-- Game SFX combobox now adapts its size to the ImGui font size (Thanks, Neh!).
-
 [Countdown Jams]
-- Now, it's possible to have multiple Jams to play for the same countdown (Thanks, GokaiSanyu!).
-  - For this, any Jams other than the first must be configured to play at a specific mark.
-  - Only the first Jam's cancel sound will play if the countdown is cancelled.
-- Fix volume sliders changing simultaneously.
-- The numeric inputs now adapt their sizes to the ImGui font size (Thanks, Neh!).
-
+- Add option to interrupt Jam when the countdown hits Start.
+  - Due to how sounds are played, it won't stop *exactly* at Start, but a bit after. We'll try to shorten this delay in a future version. Thanks for your understanding.
+(Thanks to Verbose Mode for the idea!)
 """

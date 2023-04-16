@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "325850936b9068e0e7e1bde702ba8e90c29c1ac5"
+commit = "7d04c493365e6d82a250a5742355ac3ac89466f1"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Just a small fix on boss debuff's detection (Boss Status Timer Window)
+- Added/updated screenshots.
+- Added more Status (Boss Status Timer Window).
+- Small tweaks.
 """
