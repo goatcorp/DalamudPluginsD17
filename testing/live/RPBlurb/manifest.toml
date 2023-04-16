@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/RPBlurb.git"
-commit = "9ab2aaf4f22d9108fe9e4fab91313e6124ed0567"
+commit = "10a2b0aadc5e2ab764cde9f90bdcc77505aa950e"
 owners = [
     "meoiswa"
 ]
