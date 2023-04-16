@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "90f7ef10ef2504495204ab09dae01788ec1bd120"
+commit = "23be700a36e7af697cc05f13cc1d702e32992d71"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Will now show synced stats in item tooltips when in a synced duty.
-Can by disabled in the config or by pressing Ctrl.
+Fixed a bug that broke the character panel when "Show item level information" was disabled
 """
