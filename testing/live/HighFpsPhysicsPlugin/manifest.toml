@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "0957fc98fd95bb19b816e966e6560548a835397b"
+commit = "34d517340be9295ff2ec919bc8a8fb2e3008b8f3"
 owners = ["Kirrana"]
 project_path = "SamplePlugin"
-changelog = "Unbreak version number"
+changelog = "Merges pull request that adds support for skipping 2,3,4,5 frames instead of only 2"
