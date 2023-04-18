@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "c510df91be089c880ac8b6052f1efc6c76176844"
+commit = "53e8df6d0ce3b9cd3f4b51257d27c0a75a7d5e49"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
 Tracker Changes
-- Add new option to automatically create a tracker when joining a Eureka zone
+- Allow "Respawn In" column to be sortable
 
 Elemental Manager
-- Add known positions to plugin
+- Add crowdsourced known positions to plugin
 
 Opt-in and assist to crowdsource all the Elemental positions
 Post new positions on GitHub pinned issue or through Discord DM
