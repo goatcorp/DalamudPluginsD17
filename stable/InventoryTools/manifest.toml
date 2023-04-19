@@ -1,15 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "2d14feb9798234d3e97fac9c0c54012c3ea64919"
+commit = "3dfd116989bfb070ef993a6b1c842fb70021f17b"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.4.1.3"
+version = "1.4.1.4"
 changelog = """\
-Map links should be point to the correct map and have the correct coordinates, especially subdivisions
-The quantity and available columns should function faster when searching
-Tooltip stability intensifies(<3 to Caraxi)
-UI scaling fixes
-Stop FC from being ignored even if the name fails to parse
+Retainer Venture Column/Filter
+Real Money Shop Column/Filter
+Added a window for viewing ventures + window for individual ventures
+Added a new search operator, having a single ! will show all items that are not empty
+Gil is now right aligned for easier reading
+Added more mob spawn data(thanks users for contributing)
+Fixed a copy json to clipboard crash for craft lists
+Added a Item ID column
+Added a Source World column
 """
