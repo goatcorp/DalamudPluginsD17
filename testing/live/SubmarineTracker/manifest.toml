@@ -1,18 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "240a44bfe651b725bf59254b832c2f0e2c7f5733"
+commit = "ede11b285ba69c470e6a589925dd52c898da4d1d"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Tracker]
-+ Added option to show both time and return date
-
-[Config]
-+ Added some styling to the config interface
-
-[Fixes]
-+ Fix impossible map setup after build change
-+ Fix deadlock that could happen in EXP solver
+[Builder]
++ Show min requirements correctly 
 """
