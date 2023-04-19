@@ -1,28 +1,18 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "993404827101ddffeecb3fe92e01e8c1b2170f8a"
+commit = "240a44bfe651b725bf59254b832c2f0e2c7f5733"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[New features]
-+ Added toggable notifications (default is set to no notifications)
-  + Any number of returning submarines can be toggled to notify you 
-  Note: There is a possibility that this feature will send duplicated messages during first use
+[Tracker]
++ Added option to show both time and return date
 
-[Builder]
-+ Locked Explorations Points are now marked with a red text color in the route selection
-+ Added a solver to calculate the best possible experience gain
-  + Explaination of this feature can be found under the info tab
-  Note: If you happen to experience any lag/stalling while the calculations are processing, please contact the author 
+[Config]
++ Added some styling to the config interface
 
-[Misc]
-+ Sections of the plugin have been rewritten to be faster and safer to execute.
-
-[IMPORTANT]
-This update will require you to refresh your characters submarines, the plugin will do this automatically when you next send out each submarine on their next voyage.
-If you wish to do this manually, interact with the Voyage Control Panel inside the FC workshop and select 'Submersible Management' in the menu.
-
-![image](https://raw.githubusercontent.com/Infiziert90/SubmarineTracker/master/SubmarineTracker/images/chat.png)
+[Fixes]
++ Fix impossible map setup after build change
++ Fix deadlock that could happen in EXP solver
 """
