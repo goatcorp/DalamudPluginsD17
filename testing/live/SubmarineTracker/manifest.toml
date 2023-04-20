@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "79158f73e6772b2a0dec093c762d5c02f07919fc"
+commit = "ede11b285ba69c470e6a589925dd52c898da4d1d"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Loot]
-+ Added gil calculation
-> Your old config will be automatically migrated
-> Items with an NPC sell price of over 1000 get there correct values
-> While MB items need to be updated manually to show accurate values
+[Builder]
++ Show min requirements correctly 
 """
