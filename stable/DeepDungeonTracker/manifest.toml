@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "b838f00509689e7f95507a3b677573cea3f4592e"
+commit = "5ccfe820145d07271db738dc37af516c58520b55"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added the Boss Status Timer data directly on the Statistics Window.
+- Moving from Testing to Stable (Release version).
 """
