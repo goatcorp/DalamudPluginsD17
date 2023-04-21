@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "ec3f2d6202f39760cdbef9b6735b56d8ea1916ec"
+commit = "65ba0990f88fe8484e300475398e60b0ffeee279"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Tracker Changes
-- Allow "Respawn In" column to be sortable
+Relic Helper - NEW
+- Add new window to show all available Eureka relics
+- Display number of items needed to complete the relic stage
+- Display number of items you currently have
+- Linkable item to "try on"
 
 Elemental Manager
 - Add crowdsourced known positions to plugin
