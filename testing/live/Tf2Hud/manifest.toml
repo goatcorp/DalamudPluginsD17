@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "6ccf99d9ab1b67c6f449d1cc477dee140ae35bc9"
+commit = "bf51c018505fa31af5bcb83c826b277f762c6030"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
@@ -8,7 +8,7 @@ changelog = """
 - Added option to have the Win Panel save the score per duty.
   - This is the default behavior for new installations.
   - Current users will be told about this through chat when updating the plugin.
-- Added window (accessible in the Win Panel configuration) to check the saved scores per duty \
-and delete the scores for a certain duty.
+- Added window (accessible in the Win Panel configuration) to check the saved scores per duty.
+  - This window also has an option to copy the values as CSV to the clipboard and delete individual scores.
 """
 
