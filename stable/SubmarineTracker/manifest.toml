@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "0a7aeb8ba66b4210c4ab2842ce5038f64848961b"
+commit = "719c604292daa879faa91774ac5e27037d5bb445"
 owners = [
     "Infiziert90",
 ]
@@ -39,6 +39,7 @@ A simple and easy tool to track and improve your submarines
 + Truncate item names if too long
 + Fixed clipping lists if left side was longer
 + Added hover tooltip for unlockable routes
++ Improvements for larger UI scales 
 
 [Planned]
 + Save/Load builds and routes
