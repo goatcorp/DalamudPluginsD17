@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "719c604292daa879faa91774ac5e27037d5bb445"
+commit = "5c2401547b944a704bc04300558311baa705be08"
 owners = [
     "Infiziert90",
 ]
@@ -23,6 +23,11 @@ A simple and easy tool to track and improve your submarines
 + Custom overview of defined items and there values
 + Voyage history
 
+[Helpy]
++ Small helper to improve your entry into submarines and more
++ How to unlock all 4 slots
++ How to unlock last sector
+
 [Notify]
 + Configurable notification for returning subs
 
@@ -40,11 +45,13 @@ A simple and easy tool to track and improve your submarines
 + Fixed clipping lists if left side was longer
 + Added hover tooltip for unlockable routes
 + Improvements for larger UI scales 
++ Added Helpy (/shelpy)
 
 [Planned]
 + Save/Load builds and routes
 + Durability for each sub
 + Automatic build solver based on selected Route
++ Storage overview
 
 ```
 If you have ideas or requests for additional features, please contact me through either the discord thread or Github issue page
