@@ -1,14 +1,19 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "c2c4e05bd83ff09e682a068c789ceb601af3115f"
+commit = "a8d4725fd21a26d2ef276a09c2d948e58feaae5d"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-BB 0.2.2.3
+Bozja Buddy 0.3.0.0
 
-- In Fate/CE table, amount of time ago in Status column is made sortable value
+- Added Lost Find Cache filter. Filterable by name, role, fragment, and weight.
+- Added Custom Loadout filter. Lost Find Cache and Lost Find Hoslters window can be filtered by the user's current Custom Loadout.
+- Added a toolbar for Lost Find Cache filter to Lost Find Cache in-game window, and a toolbar for Custom Loadout filter to Lost Find Holsters in-game window.
+- Added option to pair the current job to a recommended loadout based on current Job and Location.
+- Added a miniview of the current custom loadout being used to filter.
+- Added config options to adjust the filter's effects. 
+- Added config options to toggle the toolbars, the custom loadout miniview, and the filters.
 
-- Fix a bug where changes to the on-off button of an Alarm in Alarm window would save to memory, but not to disk.
-- Fix a bug in Fate/CE alarm creation pop up where the drop down for Fate/CE wouldn't work properly.
-- Fix a bug where user's configs would get wiped after new update.
+- Roles are now displayed in icons.
+- Recommended loadouts are now loaded upon first installation.
 """
