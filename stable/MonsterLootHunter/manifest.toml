@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "1752e0620af97cb2420122d29d5313d1585deb6c"
+commit = "6f8cd5675983f23f084e9eebe91e372eeeb8844c"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- UI rendering rework
-- Legacy rendering added for fallback usage
-- Safety checks for crash prevention
+changelog = """- Modified loot category filtering to be language independent
+- Plugin refactoring and optimizations
  """

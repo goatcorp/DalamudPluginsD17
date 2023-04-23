@@ -1,12 +1,18 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "3310d98e6b16d0c6800328c6b66c7d52c9cef296"
+commit = "727c222160d9e09eadd79194b275e710ecd9c96d"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-- Add new feature to display server Id of instance
-- Display NM spawned by mob position on map
-- Add new alias
-- Adjusted multiple NM positions
-- Use internal map fate positions from the game
+Relic Helper - NEW
+- Add new window to show all available Eureka relics
+- Display number of items needed to complete the relic stage
+- Display number of items you currently have
+- Linkable item to "try on"
+
+Elemental Manager
+- Add crowdsourced known positions to plugin
+
+Opt-in and assist to crowdsource all the Elemental positions
+Post new positions on GitHub pinned issue or through Discord DM
 """

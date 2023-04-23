@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "97730a79cf4a2e70b67e868edf25f9d3573235f0"
-owners = [
-    "Kouzukii",
-]
+commit = "23be700a36e7af697cc05f13cc1d702e32992d71"
+owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Update for Patch 6.3
+Fixed a bug that broke the character panel when "Show item level information" was disabled
 """

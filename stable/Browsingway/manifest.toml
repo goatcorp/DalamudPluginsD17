@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "f88892f6b57a103a0c96fa1d607114ca928a4f00"
+commit = "5de34a438900df05d8aed48655868847d47ff54d"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Add IINACT support
-- Fix ACT not detected when running as tray icon
-- Fix overlays using global context
+- Update Chromium to 111.0.5563.148
 """

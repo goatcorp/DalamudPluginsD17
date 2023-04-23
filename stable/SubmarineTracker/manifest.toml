@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Infiziert90/SubmarineTracker.git"
+commit = "b314ddff829df53be4a0fe1aae4e011b215ca05a"
+owners = [
+    "Infiziert90",
+]
+project_path = "SubmarineTracker"
+changelog = """
++ Fixes undeletable items in config
+"""

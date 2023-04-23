@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
+commit = "14924e2c0afd44da78e9c5bcfb228b53b2340118"
+owners = ["Berna-L"]
+project_path = "Tf2Hud"
+changelog = """
+**Why are you teleporting away from me, my friend? You are _dead_ to me.**
+- Now, one of the voice lines (whose section starts with an L) will only play if you are inside a duty. \
+This prevents it from being played if you are in a party and everyone else teleports away. (Thanks HuiEtyud for the report!)
+"""

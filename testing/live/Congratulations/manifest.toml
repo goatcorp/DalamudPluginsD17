@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
-commit = "450b1bb3e21eb54d466820213ff21cd34e08bace"
+commit = "ff798850f123fbd3626184d711b06adfceb54295"
 owners = ["Berna-L"]
 project_path = "Congratulations"
 changelog = """
-- Fix volume almost always being 100 when you actually get commmended. (Thanks, thetacriterion!) 
-- Now autosaves when changing any configuration, instead of requiring you to press \"Save\".
-- Changed default volume to 50.
+- Update testing branch to the latest version on stable.
+- Validated on 6.38 (commendations number address is still correct and the triggers to update it and play the sound are still OK).
 """
