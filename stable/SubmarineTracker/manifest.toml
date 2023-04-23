@@ -1,60 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "5c2401547b944a704bc04300558311baa705be08"
+commit = "b314ddff829df53be4a0fe1aae4e011b215ca05a"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-Stable Release
-
-A simple and easy tool to track and improve your submarines
-[Tracker]
-+ Tracks current builds, routes and times
-+ Loot overview for each FC
-
-[Builder]
-+ Improve your builds
-+ Optimized EXP calculator for the selected build
-+ Unlockable exploration points are highlighted
-+ Breakpoint support
-
-[Custom Loot Window]
-+ Custom overview of defined items and there values
-+ Voyage history
-
-[Helpy]
-+ Small helper to improve your entry into submarines and more
-+ How to unlock all 4 slots
-+ How to unlock last sector
-
-[Notify]
-+ Configurable notification for returning subs
-
-[Misc]
-+ Multiple FCs and Accounts are supported
-
-![tracker](https://raw.githubusercontent.com/Infiziert90/SubmarineTracker/master/SubmarineTracker/images/tracker.png)
-![builder](https://raw.githubusercontent.com/Infiziert90/SubmarineTracker/master/SubmarineTracker/images/builder.png)
-![notification](https://raw.githubusercontent.com/Infiziert90/SubmarineTracker/master/SubmarineTracker/images/chat.png)
-
-[Changes]
-[Testing -> Stable]
-+ Adjust number position based on window width
-+ Truncate item names if too long
-+ Fixed clipping lists if left side was longer
-+ Added hover tooltip for unlockable routes
-+ Improvements for larger UI scales 
-+ Added Helpy (/shelpy)
-
-[Planned]
-+ Save/Load builds and routes
-+ Durability for each sub
-+ Automatic build solver based on selected Route
-+ Storage overview
-
-```
-If you have ideas or requests for additional features, please contact me through either the discord thread or Github issue page
-You can find both of these in the about tab
-```
++ Fixes undeletable items in config
 """
