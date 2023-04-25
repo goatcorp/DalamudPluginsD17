@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "2ae95a4c92f207b1e549186945143279edb0f1c9"
+commit = "3daf957f0fbaaa3ad10ccf33be239d32e3e21aac"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
@@ -11,4 +11,5 @@ Bozja Buddy 0.3.0.3
 - Fixed a bug in Custom loadout tab where the whole tab would be unavailable upon using any Custom loadout Filter related features.
 - Fixed a bug in Custom loadout tab where disabling rec. loadouts would also hide user's loadouts.
 - Fixed a bug (hopefully) in Custom loadout tab where the Import from Clipboard button would not work properly. 
+- Fixed a bug where Fate/CEs would be assigned incorrect Area.
 """
