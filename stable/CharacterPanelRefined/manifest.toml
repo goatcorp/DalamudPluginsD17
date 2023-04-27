@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "23be700a36e7af697cc05f13cc1d702e32992d71"
+commit = "327449621b0390fb6c998111b326edd2117f71f6"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fixed a bug that broke the character panel when "Show item level information" was disabled
+Fixed a bug that had items being shown as Ilvl synced when they shouldn't be.
+Fixed Shifu being assumed to be a 13% speed increase instead of 10% at level 70.
 """
