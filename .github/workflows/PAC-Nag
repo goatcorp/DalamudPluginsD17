@@ -1,0 +1,16 @@
+name: PAC periodic notification
+
+on: 
+  workflow_dispatch
+  schedule:
+    - cron:  '0 19 * * *'
+
+jobs:
+  runjob:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: reiichi001/PAC-Nag@9d2c2133b22eada3d8012050a2de58806afe3f0a
+        with:
+          token: ${{secrets.GITHUB_TOKEN}}
+          discord_webhook: ${{secrets.PAC_DISCORD_WEBHOOK}}
