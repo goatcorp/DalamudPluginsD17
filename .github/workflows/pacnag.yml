@@ -1,7 +1,7 @@
 name: PAC periodic notification
 
 on: 
-  workflow_dispatch
+  workflow_dispatch:
   schedule:
     - cron:  '0 19 * * *'
 
