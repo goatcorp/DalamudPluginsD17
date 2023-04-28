@@ -1,15 +1,18 @@
 [plugin]
 repository = "https://github.com/meoiswa/RPBlurb.git"
-commit = "10a2b0aadc5e2ab764cde9f90bdcc77505aa950e"
+commit = "b42f2e8714290de41b76f75496d559d3141853fc"
 owners = [
     "meoiswa"
 ]
 project_path = "RPBlurb"
 changelog = """
-Version 0.0.0.0:
+Version 1.0.0.0:
  - ⚠️Experimental Plugin⚠️
  - Create and share a Roleplay sheets for your charater.
  - Basically "Nameplates lite".
  - Changes are transmited in realtime.
  - Inspired by #new-plugin-ideas posts by June and Lynsis
+
+Version 1.0.0.1:
+ - Bugfix: ImGui text centering on other plugin windows under specific scenarios.
 """
