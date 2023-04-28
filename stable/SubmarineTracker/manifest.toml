@@ -1,21 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "9e6fb33054932454a9e336692faf0f90c896de49"
+commit = "16f296ac2eaa188b0fa157a4ddea4fb901f84060"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Loot Overview]
-+ Added time frames (e.g 1 Week, 3 Months ....)
+[Builder]
++ Implemented save and load functionality
 
 [Config]
-+ Implement multi selection for loot table 
-+ Added 2 new config options for notify
-
-[Builder]
-+ Not visited sectors are new also marked with a violet color in route selection
-
-[Notify]
-+ Added new overlay to show notifications, which can be configured to open always or on startup 
++ Added new tab for saved builds
 """
