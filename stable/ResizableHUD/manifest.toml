@@ -3,7 +3,7 @@ repository = "https://github.com/Drahsid/ResizableHUD.git"
 commit = "845d5415c4586c90d43982436e2c5018e7814194"
 owners = ["Drahsid"]
 project_path = ""
-"""1.1.0
+changelog = """1.1.0
 - Added addon inspector
 -- With the addon inspector enabled, you can right-click to bring up a context menu, and add any addons (UI elements) that under your mouse
 -- Additionally, you can toggle an edit option to move and scale UI elements with the arrow keys.
