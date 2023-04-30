@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "adc5951dfaf3b74dcfee9b8306834571a84d208e"
+commit = "44a205c6e68fdf2d7e43b3cc016d02f59a46528e"
 owners = [
     "Critical-Impact",
 ]
-project_path = "FantasyPlayer"
+project_path = "FantasyPlayer.Dalamud"
 version = "2.0.0.0"
 changelog = """\
 **Fantasy Player has returned!**
