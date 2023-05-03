@@ -1,14 +1,17 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "e4ec252f4123fec0992a6cc739f5c39177ef083d"
+commit = "ed9547dd42479ed0d9974135131c9fa1c7e6afcb"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Relic Helper
-- Fix text not turning green when you have exact amount
+Tracker
+- Added an option to auto pop NM if the cooldown is less than 5 minutes
 
 Elemental Manager
 - Add crowdsourced known positions to plugin
+
+Misc
+- Added new dropdown option to Payload Options (thanks KangasZ)
 
 Opt-in and assist to crowdsource all the Elemental positions
 Post new positions on GitHub pinned issue or through Discord DM
