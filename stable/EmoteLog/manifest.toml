@@ -1,10 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = 'c4742976e7fd22f29e415fd77ac8c7de6ed83f4e'
+commit = '2834e49a184da04b9f266fa46a401250b4eec5d7'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Added font size configuration
-- Added text wrapping configuration
+- Fixed a crash that can occur on login
 """
 
