@@ -1,24 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/ResizableHUD.git"
-commit = "845d5415c4586c90d43982436e2c5018e7814194"
+commit = "db220cc1dba1e4b8356b9d2b7f793377abbe14f1"
 owners = ["Drahsid"]
 project_path = ""
-changelog = """1.1.0
-- Added addon inspector
--- With the addon inspector enabled, you can right-click to bring up a context menu, and add any addons (UI elements) that under your mouse
--- Additionally, you can toggle an edit option to move and scale UI elements with the arrow keys.
-- Added relative scaling options
-- Configurations now auto-sort when a new element is added
-- Added position anchor option
-- Units are now initialized to their real position, with their real scale
-- Removed most commands in favor of using the addon inspector
-1.1.1
-- Make config file unique per character
-1.1.2
-- Cleanup to the editor
-- You can now attach UI elements to another
-1.1.3
-- Fixed a but related to attachments
-1.1.4
-- Added autocompletion to the attachment option
+changelog = """1.5.0
+- Bumped version numver
+1.6.0
+- Added opacity option
 """
