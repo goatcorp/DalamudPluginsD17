@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/ChatterPlugin.git"
-commit = "cafba5e098e6b44082817eebc8d46759307c3dbc"
+commit = "9320357a64bef9908c1c079183a34dd30a4bae9d"
 owners = ["jlkeesey"]
 project_path = "ChatterPlugin"
 changelog = "Initial version. Fixed typo."
