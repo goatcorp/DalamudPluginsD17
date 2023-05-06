@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/ARealmRecorded.git"
-commit = "c238c69dee945ced5a18a1c997ba9384f2e57be4"
+commit = "39873a4ba50d58f9d203db185dbbc7a77e2be652"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed an issue with hiding your own name'''
+- The recording icon setting will now block the icon even in officially supported duties'''
