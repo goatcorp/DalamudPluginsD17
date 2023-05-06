@@ -1,27 +1,13 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "49b5ce9d95efdb8a0474acc53fa14f70adae483a"
+commit = "2bec97afde7eb8a28bee9772168f313def10bf17"
 owners = ["Drahsid"]
 project_path = ""
-changelog = """1.1.0
-- Fixed Actor Refresh bug
-- Added option to toggle breathing
-- Added option for pulsing line
-- End caps of lines will no longer render if that half of the line intersects the camera
-- Added option to place the start and end point of lines at the target point instead of the feet
-- Some memory optimizations
-1.2.0
-- Added target filtering (Marked old color values obsolete, and implemented a new system for this)
-- Adjusted default values
-- Made the 'in combat' option more in depth
-- Added tooltips
-- Added outline option for fancy lines
-- Changed 'start at feet' to be a 0-1 float
-- State-machinified the TargetLine class (many minor bugs fixed, and logic is readable)
-- Visibility check now takes into account if the points are even on screen, and it checks the feet and head of the objects
-1.2.1
-- Fixed bug related to filtering shield healers
-- Fixed bug where occlusion culling may have applied if the option was disabled
-- Adjusted flag priority
-- Adjustment to default colors
+changelog = """1.2.2
+- Fixed flag tooltips
+- Priority is now verbosely displayed
+- You can now optionally manually specify priority
+- Now using simplified priority calculation, to make custom priority easier to work with
+- List will now sort by priority
 """
+
