@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/jlkeesey/ChatterPlugin.git"
-commit = "f4f1a41ecd9b04b16ef0c016f10886a4b8df53ed"
+repository = "https://github.com/jlkeesey/Chatter.git"
+commit = "55b5826097d5bef39c806c57b470c8403e4e9cc4"
 owners = ["jlkeesey"]
 project_path = "Chatter"
 changelog = "Plugin created"
