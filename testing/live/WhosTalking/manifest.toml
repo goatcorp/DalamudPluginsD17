@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "f9b68d8f341e7d54fcb52d9b61a8f656d7a7658a"
+commit = "7e2a30d6155dace594134996df4ae0f73550ff66"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Who's Talking v0.1.0.0: See Discord voice activity indicators directly on your party list.
-
-This is the first release! Please give it a go and see if you can break it :)
-
-Requirements:
-- a Discord client (not the web version) running on the same machine as XIV
-- Discord nicknames that *roughly* match XIV character names (full name preferred, but first or last name is fine, and case doesn't matter)
+- Fix poorly-sized voice activity indicators at certain UI scales
 """

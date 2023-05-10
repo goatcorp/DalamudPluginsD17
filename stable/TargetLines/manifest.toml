@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/Drahsid/TargetLines.git"
+commit = "682fe492f533776c0eebd93f4861d7d972f2d353"
+owners = ["Drahsid"]
+project_path = ""
+changelog = """1.2.2
+- Fixed flag tooltips
+- Priority is now verbosely displayed
+- You can now optionally manually specify priority
+- Now using simplified priority calculation, to make custom priority easier to work with
+- List will now sort by priority
+1.2.3
+- Fixed Some bugs when easing from the no-target state to new targets, and from the switching state to the no-target state. Note that going from the no-target state to the new-target state is unfixed
+- Added animation options for the no-target state
+"""
+

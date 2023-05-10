@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "2215387948434c807c8e15c0e4f05adc9d1f39fc"
+commit = "21e252bb785a8bb80f398b4368d980a69edaed9e"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-nofranz
+[New]
++ Added log window, a small window to help with your weekly log (/ellog)
 """

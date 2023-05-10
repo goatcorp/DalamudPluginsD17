@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "90f7ef10ef2504495204ab09dae01788ec1bd120"
+commit = "327449621b0390fb6c998111b326edd2117f71f6"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Will now show synced stats in item tooltips when in a synced duty.
-Can by disabled in the config or by pressing Ctrl.
+Fixed a bug that had items being shown as Ilvl synced when they shouldn't be.
+Fixed Shifu being assumed to be a 13% speed increase instead of 10% at level 70.
 """

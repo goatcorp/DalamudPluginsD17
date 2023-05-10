@@ -1,17 +1,11 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "c88737f642ca03093e72056f8651ab578e6f66ca"
+commit = "1fe89c0f15a9f595e76733631a59e12f9b999160"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
 [TF2-ish Critical Hits]
-- Game SFX combobox now adapts its size to the ImGui font size (Thanks, Neh!).
-
-[Countdown Jams]
-- Now, it's possible to have multiple Jams to play for the same countdown (Thanks, GokaiSanyu!).
-  - For this, any Jams other than the first must be configured to play at a specific mark.
-  - Only the first Jam's cancel sound will play if the countdown is cancelled.
-- Fix volume sliders changing simultaneously.
-- The numeric inputs now adapt their sizes to the ImGui font size (Thanks, Neh!).
-
+**Did you know Astrologians own the stars?**
+- Fix AST's Stellar Burst being considered a fairy heal. (Thanks HuiEtyud for the report!)
+- Remove extraneous logging.
 """

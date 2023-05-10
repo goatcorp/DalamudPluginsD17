@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "077c4619864477d7755926a64f358aff9b64b2e9"
+commit = "213104a530c0e8fddcc497c64ac07de52ffabda6"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes player voice bugs in cross-world chat better
+- Fixes the pop-up talk UI not being disableable
 """
