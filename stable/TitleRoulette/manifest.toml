@@ -1,4 +1,4 @@
 [plugin]
-repository = "https://github.com/carvelli/TitleRoulette.git"
+repository = "https://github.com/mabako/TitleRoulette.git"
 commit = "b29570b432c83ac45d0128605292910b0ed4df18"
-owners = ["carvelli"]
+owners = ["carvelli", "mabako"]
