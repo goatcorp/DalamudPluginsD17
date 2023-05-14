@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "8c74560729ea4bc3537d3ad0f9e56f095b614ccd"
+commit = "1504f7dc6c390e2bbe9068f9a93169954834b650"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
@@ -15,4 +15,8 @@ Bozja Buddy 0.3.2.1
 - Revision of many tooltip texts.
 - Fix an issue where the game will crash under the following condition: Open Config > UI Assist > [A] and let the drop down open for 30s or more.
 - Fix an issue where the button in Active Loadout bar in main window would not sync with the one on top of in-game Lost Find Cache window.
+
+[0.3.2.2]
+- Maybe fix a bug where the game will crash if there are two identical status with the same id.
+- Fix a bug where the value for Succor healing does not display correctly in Character Stats window.
 """
