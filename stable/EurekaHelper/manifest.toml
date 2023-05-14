@@ -1,19 +1,13 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "2f65c954649fb21219ed8e629d0dae34b18be06f"
+commit = "9cd7baa4521aa8fdd065cb1b4583abcacb387a63"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Alarms - NEW
-- You can now create an alarm for specific weather/time in Eureka
-- Type /ealarms to access the Alarms window
-
-Relic Helper
-- Fixed incorrect requirement for Elemental weapons
+Alarms
+- Triggered alarm now shows uptime tooltip on hover
+- Changed minimum window size to be smaller
 
 Elemental Manager
-- Add crowdsourced known positions to plugin
-
-Opt-in and assist to crowdsource all the Elemental positions
-Post new positions on GitHub pinned issue or through Discord DM
+- Added an option to auto mark NEW Elementals
 """
