@@ -1,15 +1,15 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "0f26d49d06d85da63d8d43b0e68f913118e75b65"
+commit = "c75ea14021938d3ad00ef6535703098a7c4a31e1"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 0.3.1.0
+Bozja Buddy 0.3.2.0
 
-- Search all box: Search everything related to Bozja without having to navigate through the tabs.
-- Added Search all box to top section of main window.
-- Added an overlay paired with the in-game window Resistance&Rank. This overlay contains a search all box, and a shortcut button to open main window.
-- Added a config option in Config > General, which toggles the abovementioned overlay.
-- Hovering tooltip for clickable links now displays quick info about the link.
-- RMB on a link for Action now also provides an option to look up marketboard price based on its fragment.
+- Added Character Stats window:
++ Character stats (require character to at least be in Bozja/Zadnor/Delubrum content once)
++ User's Lost find Cache, with alert for actions that are running low.
+- Added configs for the abovementioned alert.
+- Added a button in upper top General bar to open the Character Stats window.
+- Added a number next to Lost action links, showing the amount of Lost action in player's possession.
 """
