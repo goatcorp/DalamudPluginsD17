@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "9cd7baa4521aa8fdd065cb1b4583abcacb387a63"
+commit = "9c411d92fd76151dfa4c487db15ad6a6b557e261"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Alarms
-- Triggered alarm now shows uptime tooltip on hover
-- Changed minimum window size to be smaller
-
 Elemental Manager
-- Added an option to auto mark NEW Elementals
+- Add crowdsourced known positions to plugin
+
+Opt-in and assist to crowdsource all the Elemental positions
+Post new positions on GitHub pinned issue or through Discord DM
 """
