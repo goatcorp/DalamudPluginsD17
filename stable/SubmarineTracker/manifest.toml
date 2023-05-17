@@ -1,19 +1,17 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "99c830360feb496a6fb956669f31ea12664ac597"
+commit = "74f5a5f2cf981ade3eba90fa2e3c53e67d3f89f9"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[New]
-+ New command to access the config menu (/sconf)
-
 [Changes]
-+ All commands act as toggle now
++ Times for the loot history should be more accurate now
+
+[Config]
++ Notification selection should now be a bit easier for people with lots of subs
 
 [Builder]
-+ Improvements to load and save
-+ Added 3 letter map identification 
-+ Allow overwrite of existing save with CTRL
++ Added an option to only calculate best exp on button press
 """
