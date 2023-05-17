@@ -1,22 +1,13 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "1504f7dc6c390e2bbe9068f9a93169954834b650"
+commit = "90ebfdb5e3203146535deb97662a6fe7e5053ef7"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 0.3.2.1
-- Added Character Stats window:
-+ Character stats (require character to at least be in Bozja/Zadnor/Delubrum content once)
-+ User's Lost find Cache, with alert for actions that are running low.
-- Added configs for the abovementioned alert.
-- Added a button in upper top General bar to open the Character Stats window.
-- Added a number next to Lost action links, showing the amount of Lost action in player's possession.
+Bozja Buddy [0.3.2.4]
+- Added a config option to make the overlay on top of Resistance&Rank in-game window unclickable.
+- Hovering info for Fragment link now also display Lost action drops.
+- Minor adjustment in Loadout editing UI.
 
-- Revision of many tooltip texts.
-- Fix an issue where the game will crash under the following condition: Open Config > UI Assist > [A] and let the drop down open for 30s or more.
-- Fix an issue where the button in Active Loadout bar in main window would not sync with the one on top of in-game Lost Find Cache window.
-
-[0.3.2.2]
-- Maybe fix a bug where the game will crash if there are two identical status with the same id.
-- Fix a bug where the value for Succor healing does not display correctly in Character Stats window.
+- Fix a bug that would crash the game upon having duplicating status effect.
 """
