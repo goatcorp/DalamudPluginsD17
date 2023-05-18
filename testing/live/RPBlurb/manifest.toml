@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/RPBlurb.git"
-commit = "7ace2b558389f207a282406e498c98246790bf9d"
+commit = "610f5be49c9604389f750b4334f2fb83cebd31d5"
 owners = [
     "meoiswa"
 ]
@@ -22,4 +22,8 @@ Version 1.0.0.2:
 Version 1.0.0.3:
  - Bugfix: Plugin breaks when switching to an alt. Altholics rejoice!
  - Improvement: Descriptions can now be twice as long (512 characters).
+
+Version 1.0.1.0:
+ - Improvement: Overlay is now hidden in combat. 
+ - Feature: Option to display overlay in combat.
 """
