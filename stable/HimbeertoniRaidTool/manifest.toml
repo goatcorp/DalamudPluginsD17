@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "d943dbd54078a0453e427460af3302ad2e5431ee"
+commit = "fe5d5787a9b4be178918a2c53a83e6763eb3c402"
 changelog = """
-Bugfix: General configuration is saved correctly
-Bugfix: Updating gear is working again"""
+Logging: Messages should be more descriptive
+Translation: German updated"""
