@@ -1,17 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "74f5a5f2cf981ade3eba90fa2e3c53e67d3f89f9"
+commit = "fb8e0e3974afd6e3a00d615f8249901df335665c"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Changes]
-+ Times for the loot history should be more accurate now
-
-[Config]
-+ Notification selection should now be a bit easier for people with lots of subs
-
-[Builder]
-+ Added an option to only calculate best exp on button press
+[New]
++ Added an option to allow freely resizing the FC button slider
 """
