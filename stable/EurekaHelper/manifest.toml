@@ -1,12 +1,15 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "c43d0b8aa398183b7f5f5b7bad0a3d184291217b"
+commit = "a71b706dea7a95cd5d1b29b24fe66d5c939e9ce7"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Elemental Manager
-- Added an option to always clear Elemental list when zoning
+Alarms
+- Alarms are now editable
 
-Misc
-- Added command list to "About" menu
+Elemental Manager
+- Add crowdsourced known positions to plugin
+
+Opt-in and assist to crowdsource all the Elemental positions
+Post new positions on GitHub pinned issue or through Discord DM
 """
