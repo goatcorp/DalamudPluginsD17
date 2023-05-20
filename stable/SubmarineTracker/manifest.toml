@@ -1,11 +1,17 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "fb8e0e3974afd6e3a00d615f8249901df335665c"
+commit = "79487bb95bba20c754a1ab47b445afe20d0ea830"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[New]
-+ Added an option to allow freely resizing the FC button slider
+[Config]
++ New options got added
+
+[Tracker]
++ Repair Status got added to both the overview and detailed view of the tracker
+
+[Notify]
++ A chat notification whenever any sub parts hits 0% on return
 """
