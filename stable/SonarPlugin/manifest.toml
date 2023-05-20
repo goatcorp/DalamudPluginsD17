@@ -5,7 +5,7 @@ owners = ["rreminy"]
 project_path = "SonarPlugin"
 changelog = "Check the Sonar Support Discord for more information: https://discord.gg/K7y24Rr"
 secrets = {
-    sonar = "Some secret for Sonar once I get the PGP key to encrypt with",
-    plugin = "Some secret for Plugin once I'm able to encrypt",
+    sonar = "Some secret for Sonar once I get the PGP key to encrypt with"
+    plugin = "Some secret for Plugin once I'm able to encrypt"
     please = "where to find this pgp key T_T"
 }
