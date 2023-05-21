@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "79487bb95bba20c754a1ab47b445afe20d0ea830"
+commit = "a6e16afbdf1df5938cbd20d0280b5ae8b2bb48d6"
 owners = [
     "Infiziert90",
 ]
@@ -8,10 +8,11 @@ project_path = "SubmarineTracker"
 changelog = """
 [Config]
 + New options got added
++ FC order can now be changed
 
 [Tracker]
-+ Repair Status got added to both the overview and detailed view of the tracker
++ Added an 'All' button (enabled by default)
 
-[Notify]
-+ A chat notification whenever any sub parts hits 0% on return
+[Builder]
++ Added duration limits to best exp (24, 36 and 48h)
 """
