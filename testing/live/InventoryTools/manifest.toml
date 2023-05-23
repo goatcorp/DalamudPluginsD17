@@ -1,9 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "50d479f949bd0aab9ec2aa6e3cb4f528ed8211f5"
+commit = "f677c3a5445cfc473c7f1d74f24c81cadea10fb1"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Added partial matching filter with ~\nFixed crash with can be desynthed filter\nTrack retainer/character source world and added source filter\nFixed a yield issue with crafting calculations\nCompleting a craft that yields more than 1 item will actually count as the amount completed rather than 1\nThe applicable classes for gear was not being calculated correctly\nA lot more coffers will have information for what items can be acquired from them(not all of them though)"
-version = "1.3.0.4"
+version = "1.5.0.0"
+changelog = """\
+**House Storage has arrived**
+So this took a while but it has finally come to fruition. A few things to note:
+
+- To have a house register with the plugin you must first enter it, have permission and then open the 'Indoor Furnishings' menu. This will allow for the plugin to see you own the house and add it to your 'Characters' list.
+- Once the house is registered due to the way the inventory data of each section is provided, you must enter each section to have it be parsed by the plugin. For Indoor and Outdoor Furnishings you must enter the storeroom tab before that data is collected.
+- For Interior Fixtures open the relevant section in the housing menu.
+- There's a lot of moving parts so if you run into issues, bugs or crashes hit up the #plugin-help-forum on discord.
+- I'll be working on making the 'Is Housing Item' filter a bit more reliable as this might be more important now.
+"""

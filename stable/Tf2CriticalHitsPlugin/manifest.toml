@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
+commit = "1fe89c0f15a9f595e76733631a59e12f9b999160"
+owners = ["Berna-L"]
+project_path = "Tf2CriticalHitsPlugin"
+changelog = """
+[TF2-ish Critical Hits]
+**Did you know Astrologians own the stars?**
+- Fix AST's Stellar Burst being considered a fairy heal. (Thanks HuiEtyud for the report!)
+- Remove extraneous logging.
+"""

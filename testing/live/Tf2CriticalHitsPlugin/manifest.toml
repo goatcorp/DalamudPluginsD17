@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "37a7430c07556795c481197a60c535510ceb73e9"
+commit = "bc21edcd938d3b07f8c061b38aff14ec54824712"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
-changelog = "Change the formatting of the text AND preview it without the need to get lucky. (Thanks Lore and mrexodia for the help!)"
+changelog = """
+[Countdown Jams]
+- Add option to interrupt Jam when the countdown hits Start.
+
+(Thanks to Verbose Mode for the idea!)
+"""

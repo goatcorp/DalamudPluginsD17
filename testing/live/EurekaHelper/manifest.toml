@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "ecb70ce44495d65b6c0fd80d6820168be6e86bee"
+commit = "e032c5b9316ec594e6e77e559e238be28baf6e31"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-- Added feature to copy or shout to chat upon clicking custom chat payload
-- Added an option to show toast when an NM pops
-- Fixed some datacenter not being set correctly
-- Fixed connection not closing when unloading the plugin
-- Add Dynamis and Meteor datacenter support
+- Added new configuration to randomize map coordinates by a range of +- 0.5 (enabled by default)
+- Added new formatting for NM boss short name
 """

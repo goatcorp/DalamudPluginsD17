@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "fe592351f7092e50f155460f449bac01ad040735"
+commit = "ca7c3235a5eb66c125e6d0e2702985989858e8f6"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Removed material listing limitations
-- Additional context menu support
+changelog = """- Added alternative item name lookup for information retrieval
+- Fixed data processing of wiki information
+- Added aetherial reduction source
  """

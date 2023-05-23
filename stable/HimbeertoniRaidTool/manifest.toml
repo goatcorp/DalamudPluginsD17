@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59727abdd054326b4d19a1c027045ca29378d01f"
-changelog = "fixed examine functionality"
+commit = "fe5d5787a9b4be178918a2c53a83e6763eb3c402"
+changelog = """
+Logging: Messages should be more descriptive
+Translation: German updated"""

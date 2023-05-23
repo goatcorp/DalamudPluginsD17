@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "c281c41fe47084563f80cda9c50fb4fb543784ed"
+commit = "c85f5ab51c3ad0b6f84d24453ba49b747a197ead"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Increase accuracy of opcode
-- Separate data and setting
+- player not in FriendList of game could update
+- Add a temporary subscription list to add non friends to the plugin's player list
+- Remove Update from Player Search
+- Add Update from Company Member
 """

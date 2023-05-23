@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Drahsid/HybridCamera.git"
+commit = "0c4275d1f2a9af73b91f9886e8fbcc2d1bf32ec7"
+owners = ["Drahsid"]
+project_path = ""
+changelog = """
+- Updated for 6.35
+- Added a minimum size constraint to the config window
+- Added tooltips
+- Added config suggestions in the config window 
+"""
