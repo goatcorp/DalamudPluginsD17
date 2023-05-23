@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "9134c107b61e8f84464b174b2497d8c460af44d7"
+commit = "0282d2a87c17a637a2997ad303bd605a6fb0391d"
 owners = [
     "Infiziert90",
 ]
@@ -16,4 +16,7 @@ changelog = """
 [Builder]
 + Added duration limits to best exp (24, 36 and 48h)
 + Added 'Must Include'
+
+[Misc]
++ 6.4 support
 """
