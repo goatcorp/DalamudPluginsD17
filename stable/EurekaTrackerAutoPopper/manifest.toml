@@ -1,11 +1,11 @@
 [plugin]
-repository = "https://github.com/electr0sheep/EurekaTrackerAutoPopper.git"
-commit = "81521e8322a8088032ee079e3f19f853fe9bdf48"
+repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
+commit = "bb42acc8d07fba26ad67c00e02642a735575b48d"
 owners = [
+    "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-- Adds ability to automatically pop NMs in the Eureka Tracker
-- Adds ability to display chat notification when NM appears
+nofranz
 """

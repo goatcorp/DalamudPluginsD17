@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
+commit = "ce9b427ae3503cdbf639c57b721abe4cdbf515bc"
+owners = [
+    "Xpahtalo",
+]
+project_path = "ffxiv2Mqtt"
+changelog = """Patch 6.3 support."""

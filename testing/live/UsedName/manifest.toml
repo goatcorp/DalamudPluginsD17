@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "ec3a30ffb20807c87dd8e09da1cabc8a4c606acf"
+commit = "c85f5ab51c3ad0b6f84d24453ba49b747a197ead"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Use memory instead of network packages for updates
-- Add a tiny control window, use '/pname main' to open it
+- player not in FriendList of game could update
+- Add a temporary subscription list to add non friends to the plugin's player list
+- Remove Update from Player Search
+- Add Update from Company Member
 """

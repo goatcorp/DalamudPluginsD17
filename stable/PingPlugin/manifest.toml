@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "3eb1da8db4c02c2e67d9b2160b15a11394c2730f"
+commit = "3cbd439a86de65f6f58d927d59fce7aa0de1d96a"
 owners = ["karashiiro"]
 changelog = """\
-- Updates for 6.3
+- Fixed server bar display failing to set up sometimes
 """

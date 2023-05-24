@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
+commit = "04c25733b44f910fbe241f095e4272995a3ebc39"
+owners = ["marconsou"]
+project_path = "DeepDungeonTracker"
+changelog = """
+- Added the option [Improved Magicite Kills Detection], under General tab > Testing section.
+"""

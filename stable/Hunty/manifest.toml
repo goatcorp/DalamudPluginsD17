@@ -1,20 +1,15 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "6db674573fd2afc62b7749758965bf2d80cc4868"
+commit = "7e973e8861abffca26461f5d8c3a6799e328d11d"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-Let's go hunt together, finally finishing that old log of yours~
+[New]
++ Added a new command for the xl window (/huntyxl)
 
-+ List of monsters in the same location based on Rank
-+ Click the coords to open your map on the exact location
-+ Click the dungeon name to open your duty finder
-+ Easy switching between Grand Company and jobs
-+ Automatic selection based on current job
-+ Tracks all of the progress for you
-+ Localizations for JP, DE and FR
-
-![image](https://github.com/Infiziert90/Hunty/raw/master/Hunty/images/hunty.png)
+[XL Window]
+![xl](https://github.com/Infiziert90/Hunty/raw/master/Hunty/images/xl.png)
++ A new window that lists all jobs with monsters in the same area on there respective rank
 """

@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "05831fa91b43afcf1e8f2324cf404396e3fd27c9"
+commit = "b71c1427fe981e66c5fa64dd6528a4c2e1cbb3c4"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
 changelog = """
-+ UI adjustments to get a cleaner look and remove duplicates
-+ Added a 'How to play' tooltip for both DeathRoll and Tournament 
+[Blackjack]
++ Split Hand now acts like a real hand
++ Some cleanup
 """

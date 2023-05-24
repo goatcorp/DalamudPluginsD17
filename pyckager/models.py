@@ -38,6 +38,9 @@ class Plugin(BaseModel):
     project_path: Optional[str]
     changelog: Optional[str]
     version: Optional[str]
+    # There's an opportunity here for additional validation since the value could technically be checked against a gpg 
+    # key, but that will also require somehow informing the validator of the location of the gpg key
+    secrets: Optional[dict[str, str]]
 
     @validator('owners')
     def validate_owners(cls, owners):

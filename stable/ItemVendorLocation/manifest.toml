@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "2af78ce25eecd0a9f95e5cc08e68ed77a2557141"
+commit = "8e5552f5f3371e619642499d92dd8f61808a6489"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix for crash on plugin load
+- Fixed issue with Filter GC Results option
 """
-version = "1.1.0.2"
+version = "2.2.0.1"

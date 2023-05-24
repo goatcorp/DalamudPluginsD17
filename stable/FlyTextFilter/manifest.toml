@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "f80a53fdbefe3abbe8fa45817212dac3fa560220"
+commit = "4a9ce7fc0fff48a562b7aa99407045ca05928389"
 owners = [
     "Aireil",
 ]
 project_path = "FlyTextFilter"
-changelog = "4.1.3.1:\n   - Add a setting to help find unknown types, this is disabled by default, please go in the misc tab for more info.\n4.1.3.0:\n   - Rename types to clearer names.\n- Add an help button for the type table."
