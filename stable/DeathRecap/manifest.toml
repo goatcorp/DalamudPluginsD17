@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "b783700c606ce5760bf7bd4a5cb06ddcefbb4ca5"
+commit = "e94429ea7f787f53438c1638e239d21fcc7e26c0"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Add option to disable in PvP
+Update for Patch 6.4
 """
