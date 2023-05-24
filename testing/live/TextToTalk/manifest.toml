@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "6c3a3b2a2e130ab4cdf43fae8709881ac3273269"
+commit = "213104a530c0e8fddcc497c64ac07de52ffabda6"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes player voices betterer
-- Changes how player and NPC voice overrides are stored to reduce the risk of config corruption in the future (most other config will get this treatment soon:tm:)
+- Fixes the pop-up talk UI not being disableable
 """

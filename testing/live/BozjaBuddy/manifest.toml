@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "c2c4e05bd83ff09e682a068c789ceb601af3115f"
+commit = "90ebfdb5e3203146535deb97662a6fe7e5053ef7"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-BB 0.2.2.3
+Bozja Buddy [0.3.2.4]
+- Added a config option to make the overlay on top of Resistance&Rank in-game window unclickable.
+- Hovering info for Fragment link now also display Lost action drops.
+- Minor adjustment in Loadout editing UI.
 
-- In Fate/CE table, amount of time ago in Status column is made sortable value
-
-- Fix a bug where changes to the on-off button of an Alarm in Alarm window would save to memory, but not to disk.
-- Fix a bug in Fate/CE alarm creation pop up where the drop down for Fate/CE wouldn't work properly.
-- Fix a bug where user's configs would get wiped after new update.
+- Fix a bug that would crash the game upon having duplicating status effect.
 """

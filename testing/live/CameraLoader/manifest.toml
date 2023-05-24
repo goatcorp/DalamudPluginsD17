@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/NeNeppie/CameraLoader.git"
+commit = "7f722ec07d3db4cb89c1cd51554df6ff06925a69"
+owners = ["NeNeppie"]
+project_path = "CameraLoader"
+changelog = ""

@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BlueMageHelper.git"
-commit = "c68e3cef2082ca15a90709eddbf0e0049e32b2d3"
+commit = "fc28d7f7e5c244712681dcfd9be6a12cef5e040d"
 owners = [
     "Infiziert90",
 ]
 project_path = "BlueMageHelper"
 changelog = """
-+ Spells can now have multiple sources
-  + Only a few spells got updated so far
++ 6.4 Support
 """

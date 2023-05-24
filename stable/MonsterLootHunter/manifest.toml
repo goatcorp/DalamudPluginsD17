@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "1752e0620af97cb2420122d29d5313d1585deb6c"
+commit = "ca7c3235a5eb66c125e6d0e2702985989858e8f6"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- UI rendering rework
-- Legacy rendering added for fallback usage
-- Safety checks for crash prevention
+changelog = """- Added alternative item name lookup for information retrieval
+- Fixed data processing of wiki information
+- Added aetherial reduction source
  """

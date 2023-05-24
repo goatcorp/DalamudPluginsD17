@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "7388338a1ae8c194fc1713d9343600c6af108b12"
-changelog = "### 2.5.4 (2023-04-14)\n\n\n### Bug Fixes\n\n* crashing due to corrupt plugin directory (b198cbc)"
-version = "2.5.4"
+commit = "52527f11f154b2062edb15c059936819dfd45bb4"
+changelog = "### 2.5.6 (2023-05-09)\n\n\n### Bug Fixes\n\n* add file name to yml deserializer error (29ff05f)"
+version = "2.5.6"

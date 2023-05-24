@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "f06b1626f344679b0ce36e66cbdb6605eb0dbefb"
+commit = "11e8d1dda3438ce917c5a7f79b3f09e17496a85e"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-Ingame Logos Actions helper
-
-- Displays menu with all available Logos Actions
-- Shows possible combinations for each Logos Action with your stock of logograms
-- Shows contents of Logogram items, similar to Bozjan fragments
+- Fixed recipe for Wisdom of the Fiendhunter.
 """
