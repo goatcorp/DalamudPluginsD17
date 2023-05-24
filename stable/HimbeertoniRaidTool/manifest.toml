@@ -2,7 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "d943dbd54078a0453e427460af3302ad2e5431ee"
+commit = "3fbca2c9ac01f7545a805d8def895fbb6fb8846f"
 changelog = """
-Bugfix: General configuration is saved correctly
-Bugfix: Updating gear is working again"""
+Updated for 6.4
+Added Anabaseios Raids
+Note: Default BiS will be added when available"""
