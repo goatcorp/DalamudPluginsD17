@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "a71b706dea7a95cd5d1b29b24fe66d5c939e9ce7"
+commit = "9c72338449e7b110cff78c566e4628db1f98c28a"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Alarms
-- Alarms are now editable
+Misc
+- Fix for 6.4
 
-Elemental Manager
-- Add crowdsourced known positions to plugin
-
-Opt-in and assist to crowdsource all the Elemental positions
-Post new positions on GitHub pinned issue or through Discord DM
+Tracker
+- Added option to display level for fates
 """
