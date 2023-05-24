@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "928675fb9620a81734cafbbacff431b25dd8ca98"
+commit = "a212c0719c5a344e2086fcf63d7527d7f392474d"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- player not in FriendList of game could update
-- Add a temporary subscription list to add non friends to the plugin's player list
-- Remove Update from Player Search
-- Add Update from Company Member
-- Improve text quality
+- a tiny description enhancement
+- fix cannot load data after change Dalamud location
 """
