@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "c43d0b8aa398183b7f5f5b7bad0a3d184291217b"
+commit = "9c72338449e7b110cff78c566e4628db1f98c28a"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Elemental Manager
-- Added an option to always clear Elemental list when zoning
-
 Misc
-- Added command list to "About" menu
+- Fix for 6.4
+
+Tracker
+- Added option to display level for fates
 """
