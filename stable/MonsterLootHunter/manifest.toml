@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "ca7c3235a5eb66c125e6d0e2702985989858e8f6"
+commit = "0a99f39cab1f70a1285d3ab184594cd840a1bd5d"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Added alternative item name lookup for information retrieval
-- Fixed data processing of wiki information
-- Added aetherial reduction source
+changelog = """- Patch 6.4 update
  """
