@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "5e0d947c0c11851c19844b1315140e867c477f2d"
-owners = ["Xpahtalo"]
-project_path = "DutyTracker"
-changelog = """Options and Info tabs work again.
-Fixed several bugs that occur when abandoning or failing a duty"""
