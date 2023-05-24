@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BlueMageHelper.git"
-commit = "516ef013f1785d7cf4ea220919b12e463dfbc9a3"
+commit = "fc28d7f7e5c244712681dcfd9be6a12cef5e040d"
 owners = [
     "Infiziert90",
 ]
 project_path = "BlueMageHelper"
 changelog = """
-+ Check continuously for spell unlocks 
++ 6.4 Support
 """
