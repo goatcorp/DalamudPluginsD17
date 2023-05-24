@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "57d128c8f3ade4a17a590d2958deda9f729f0951"
+commit = "cc409a1fc46405916ce23ee5d302036cc438c711"
 owners = [
     "Infiziert90",
 ]
@@ -19,4 +19,5 @@ changelog = """
 
 [Misc]
 + 6.4 support
++ Support for the new map and unlock paths
 """
