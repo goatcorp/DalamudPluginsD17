@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "d309fb0da61bb87516c755c9e379638d7f076f2a"
+commit = "d2d4fb365c39883e2279197cd9c5d3d51715a6df"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-+ Add newly found unlock paths
+[Notify]
++ Added option to display repair toast (enabled by default)
+
+[Misc]
++ Added last unlockable sector
 """
