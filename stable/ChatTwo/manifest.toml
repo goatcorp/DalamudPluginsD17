@@ -1,9 +1,7 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = 'fcf8e22fcd5b232adb23b58e0373d61fb70fdc17'
+commit = '3d399f11224a2c6e7c084cf4dd59a5a75103dd7e'
 owners = [ 'ascclemens' ]
 changelog = """\
-- Fix various links not working.
-- Fix a crash.
-- Fix the search for item in recipes button.
+- Update for 6.4
 """
