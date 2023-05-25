@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "9c72338449e7b110cff78c566e4628db1f98c28a"
+commit = "39a21cb5c25ba25aeef8f84c4ee0de5eabe123f3"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
 Misc
-- Fix for 6.4
+- Fix icon sizing being above 512x512
 
 Tracker
-- Added option to display level for fates
+- Added fate level on NM hover
 """
