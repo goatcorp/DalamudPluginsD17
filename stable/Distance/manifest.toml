@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "8fa727595f58285a5cbfd4bc3356cca49b99e3d9"
+commit = "01e4bea31c1703f8cb624bbda8875cf5dde15b0f"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Reduce potential for log spamming.
+- Updated for FFXIV patch 6.4.
 '''
