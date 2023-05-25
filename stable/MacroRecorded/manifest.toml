@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MacroRecorded.git"
-commit = "ea05a15dba5ba731dc0fe5703fa187d04b7d8cb7"
+commit = "053dcfd3d5f15befdfa97bd791cae3055c5ada50"
 owners = [
     "danielbrenom",
 ]
 project_path = "MacroRecorded"
-changelog = """- Patch 6.4
-- Move to stable
-- Info tooltip added
+changelog = """- Patch 6.4 package updates
  """
