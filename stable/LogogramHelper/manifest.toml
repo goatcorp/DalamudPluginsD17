@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "11e8d1dda3438ce917c5a7f79b3f09e17496a85e"
+commit = "f83877ba6a748f7eb8ef2f48ab9445a6f053ead8"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Fixed recipe for Wisdom of the Fiendhunter.
+- Fixed for 6.4
+- Updated description for changed Logos Actions.
 """

@@ -1,23 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "cc409a1fc46405916ce23ee5d302036cc438c711"
+commit = "d2d4fb365c39883e2279197cd9c5d3d51715a6df"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Config]
-+ New options got added
-+ FC order can now be changed
-
-[Tracker]
-+ Added an 'All' button (enabled by default)
-
-[Builder]
-+ Added duration limits to best exp (24, 36 and 48h)
-+ Added 'Must Include'
+[Notify]
++ Added option to display repair toast (enabled by default)
 
 [Misc]
-+ 6.4 support
-+ Support for the new map and unlock paths
++ Added last unlockable sector
 """

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/danielbrenom/MacroRecorded.git"
+commit = "053dcfd3d5f15befdfa97bd791cae3055c5ada50"
+owners = [
+    "danielbrenom",
+]
+project_path = "MacroRecorded"
+changelog = """- Patch 6.4 package updates
+ """

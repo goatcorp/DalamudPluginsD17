@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "6ae2a17a3bed2a00e3b3e3b080649f29e0f8a5d4"
+commit = "e907a0653db62cdf41035d1fe6398f05b5ab95e6"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Update for FFXIV 6.3 (thank you, @ellieglad)"
+changelog = "Fixes for patch 6.4"
