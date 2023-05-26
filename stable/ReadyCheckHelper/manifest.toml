@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/ReadyCheckHelper.git"
+repository = "https://github.com/Infiziert90/ReadyCheckHelper.git"
 commit = "ad25529ded9f9fb53549e2dfc3f872a2b2ae9436"
 owners = [
     "Infiziert90",
