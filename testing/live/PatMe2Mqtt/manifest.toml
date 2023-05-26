@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://gitea.0x0a.de/0x0ade/PatMe2Mqtt.git"
+commit = "92e9893a35da6d253323862416d4dba082956c05"
+owners = ["0x0ade"]
+project_path = "PatMe2Mqtt"
+changelog = """
+- Initial release
+"""
