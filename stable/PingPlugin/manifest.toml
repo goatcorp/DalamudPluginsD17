@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "3cbd439a86de65f6f58d927d59fce7aa0de1d96a"
+commit = "ccb75a49b214213d788c7233c0459fa9c976c4a6"
 owners = ["karashiiro"]
 changelog = """\
-- Fixed server bar display failing to set up sometimes
+- Update fallback IP addresses for existing DCs
+- Add fallback IP addresses for Meteor and Dynamis
 """
