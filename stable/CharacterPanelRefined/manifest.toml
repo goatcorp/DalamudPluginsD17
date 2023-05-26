@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "db4c94afdf56a0f64a4397b865147835f495138a"
+commit = "1513e9afb6d01c2c0d61d16bf93859abca03e0a9"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fixed relic weapons not syncing properly
+Fixed average damage and healing values broken by patch 6.4
 """
