@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "23c40195867480d6cc977ca0c5dc465fdf5167fa"
+commit = "e958472eae0857cb898e35dd5cfb4ed5ff9a90d6"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = """[Bugfixes] 
-- Bubbles showing ontop of incorrect player in raids (thanks meoiswa!)
-- Handle null reference exception (thanks NPittinger!)
-- Bubbles showing ontop of incorrect players when using <t> / <tt>
-
-Let's hope that nothing breaks with 6.4"""
+changelog = """top text
+### Updated for 6.4
+- Added the `Display friends only` feature in options
+- Added the `Display FC only` feature in options
+- Added the `Display party only` feature in options"""
