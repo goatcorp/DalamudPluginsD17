@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/squidmade/WaymarkPresetPlugin.git"
-commit = "11e730f2cc4653249a2a6807a1296b346f8b2545"
+commit = "e798326ec375b442779c836fac7162ca79e03f5d"
 owners = [
     "PunishedPineapple",
-    "squidmade",
+    "abashby",
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-- Adopting plugin
+- Update for 6.4
 '''
