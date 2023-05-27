@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/squidmade/WaymarkPresetPlugin.git"
+repository = "https://github.com/abashby/WaymarkPresetPlugin.git"
 commit = "e798326ec375b442779c836fac7162ca79e03f5d"
 owners = [
     "PunishedPineapple",
