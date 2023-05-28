@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "f41a3b39bb3ffd4307f841dc011da3f323c27d60"
+commit = "af5dd54b63be26bf5dcf4e68c4369266424dc3bf"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-nofranz
+[Builder]
++ Implemented build solver (thanks WildWolf)
++ Added breakpoint support for solver
++ Added border to build table
 """
