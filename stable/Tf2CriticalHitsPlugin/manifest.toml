@@ -7,7 +7,8 @@ changelog = """
 [TF2-ish Critical Hits]
 - Add option per job to set a minimum time between sounds.
   - For example, if you set the time as 1000 ms and a critical hit sound is played,
-  no other sound (be it for critical hit, direct hit, critical heal etc.) will be played for the next second.
+    no other sound (be it for critical hit, direct hit, critical heal etc.) will be played for the next second.
   - Keep it at 0 ms to use the current behavior.
+
 (Thanks to Grayve for the idea and everyone at the Discord thread for the feedback!)
 """
