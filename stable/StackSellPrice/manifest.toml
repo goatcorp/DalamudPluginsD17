@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/PrincessRTFM/StackSellPrice.git"
-commit = "12598ccf8d209bde0a8b8142b3453056f98c11ac"
-owners = ["PrincessRTFM"]
-changelog = "Update everything to net6/API7"
+owners = [ "PrincessRTFM",]
+project_path = ""
+commit = "13f3b4903b8ec3bc98e387fdc03f1db34d19f641"
+changelog = "Update for api8/patch6.3"

@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/ExpandedSearchInfo.git'
-commit = '03b1942473b4e55ff37d68400c8291a8ae9cef5a'
+repository = 'https://git.anna.lgbt/ascclemens/ExpandedSearchInfo.git'
+commit = '1a00d2ce19ebb095a5760437d455783e0bb66057'
 owners = [ 'ascclemens' ]
-changelog = 'API 7'
+changelog = '.NET 7'

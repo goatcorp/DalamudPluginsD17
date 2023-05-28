@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
+commit = "54ee390e6dc42a11512edee6d24d132e2e973ff6"
+owners = ["Berna-L"]
+project_path = "Tf2CriticalHitsPlugin"
+changelog = """
+- Fixed backup cleanup algorithm.
+- Cleared up error message when a sound file is not found. 
+"""

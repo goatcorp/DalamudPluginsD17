@@ -24,14 +24,14 @@ When the plugin approval group checks your plugin, they will check for the follo
 - Does the base functionality of the plugin work (if testable easily)?
 - Does it have no obvious technical issues?
 - Is its JSON correctly formatted? (We hope to [make this unnecessary in future](https://github.com/goatcorp/DalamudPackager/issues/8))
-- If it's a new plugin, is it in the testing channel and not the stable channel? If it's a simple plugin, or you have already tested separately, you may be able to skip the testing phase - please put some details in your PR or reach out!
+- If it's a new plugin, is it in the testing channel and not the stable channel? We want new plugins to be in testing to make it easier for the group to test, as well as reducing the impact of any unforeseen issues.
 - Does it meet the [Technical criteria](#technical-criteria)?
 
 These criteria are intended to prevent issues for users. We're happy to work with you to get you across the line; just reach out in the Discord.
 
 ### Technical criteria
 
-There are a few technical things that you should do before submitting your plugin here. They will make your plugin nicer to use.
+There are a few technical things that you must do before submitting your plugin here. They will make your plugin nicer to use.
 - Your plugin has to have an `icon.png` that is no larger than 512x512 and no smaller than 64x64 in `images/`.
 - For regular ImGui windows that don't do anything special, like settings and utility windows, you should use the [Dalamud Windowing API](https://goatcorp.github.io/Dalamud/api/Dalamud.Interface.Windowing.html). It enhances windows with a few nice features, like integration into the native UI closing-order.
 
@@ -63,6 +63,12 @@ Just edit the commit hash in your manifest. Please always make your updates from
 
 If you want to trigger a re-build of your PR, just post a comment with the content "bleatbot, rebuild".
 
+## Secrets
+
+If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon-secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
+
 ---
 
-When submitting a plugin, please consider our [Acceptable Use Policy](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)>) & [Terms of Service](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)>), which, for example, detail the rights you need to grant us when uploading a plugin to this repository.
+When submitting a plugin, please consider our [Acceptable Use Policy](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)>) & [Terms of Service](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)>), which, for example, detail the rights you need to grant us when uploading a plugin to this repository. 
+
+Please review the [plugin adoption policy](https://github.com/goatcorp/faq/blob/main/development.md#adoption) to understand what happens if you abandon your plugin. The FAQ also provides instructions on how to submit a plugin if taking over from another developer.

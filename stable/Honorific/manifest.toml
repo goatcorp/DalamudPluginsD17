@@ -1,0 +1,4 @@
+[plugin]
+repository = "https://github.com/Caraxi/Honorific.git"
+owners = [ "Caraxi" ]
+commit = "e896aedaf029cfcb7c2e68c6680e52b6d260d44a"

@@ -1,9 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "11dc0fc"
+commit = "f677c3a5445cfc473c7f1d74f24c81cadea10fb1"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Inventory and configuration saving are now run asynchronously except when the plugin is disposing to stop potential hitches. Fixed an issue with memory sort order parsing not actually being needed when the client is first started and no ITEMODR file exists. "
-version = "1.2.0.11"
+version = "1.5.0.0"
+changelog = """\
+**House Storage has arrived**
+So this took a while but it has finally come to fruition. A few things to note:
+
+- To have a house register with the plugin you must first enter it, have permission and then open the 'Indoor Furnishings' menu. This will allow for the plugin to see you own the house and add it to your 'Characters' list.
+- Once the house is registered due to the way the inventory data of each section is provided, you must enter each section to have it be parsed by the plugin. For Indoor and Outdoor Furnishings you must enter the storeroom tab before that data is collected.
+- For Interior Fixtures open the relevant section in the housing menu.
+- There's a lot of moving parts so if you run into issues, bugs or crashes hit up the #plugin-help-forum on discord.
+- I'll be working on making the 'Is Housing Item' filter a bit more reliable as this might be more important now.
+"""

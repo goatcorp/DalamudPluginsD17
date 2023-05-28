@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
+commit = "0a99f39cab1f70a1285d3ab184594cd840a1bd5d"
+owners = [
+    "danielbrenom",
+]
+project_path = "MonsterLootHunter"
+changelog = """- Patch 6.4 update
+ """

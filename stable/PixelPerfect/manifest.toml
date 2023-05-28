@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "be88e10ab86c877e14ec71a14bff9976fc6b7a69"
+commit = "98c10c5219361ed468882e6e2a124a414ab28b88"
 owners = ["Haplo064"]
-changelog = "Updated for 6.3"
+changelog = "Added ring offset rotation, export/import, and sheathed check."

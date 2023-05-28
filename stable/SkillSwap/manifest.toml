@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/0ceal0t/SkillSwap.git"
-commit = "c0c169911782f7af695d66de9c3724cb50fecc47"
+commit = "d529880af8c8eb933eb4a9b31b477cd891a831e6"
 owners = [
     "0ceal0t",
 ]

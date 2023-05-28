@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "4e60034167aefd74b2e7bdcebcb080ef15069a3d"
+commit = "7415fe96f544a633dcb50ec28bf02263db93d251"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
-changelog = "Initial release (displaying and editing profiles from Chaos Archives)"
+changelog = "Updated to Dalamud 8."

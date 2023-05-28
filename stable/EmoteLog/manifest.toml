@@ -1,0 +1,9 @@
+[plugin]
+repository = 'https://github.com/RokasKil/EmoteLog.git'
+commit = '2834e49a184da04b9f266fa46a401250b4eec5d7'
+owners = [ 'RokasKil' ]
+project_path = 'EmoteLog'
+changelog = """
+- Fixed a crash that can occur on login
+"""
+

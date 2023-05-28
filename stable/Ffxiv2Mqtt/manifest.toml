@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
+commit = "8f989ab874b3df3549b92185977a6e3dcae83373"
+owners = [
+    "Xpahtalo",
+]
+project_path = "ffxiv2Mqtt"
+changelog = """Updated dependencies."""

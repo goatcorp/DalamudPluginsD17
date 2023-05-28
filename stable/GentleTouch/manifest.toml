@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/gentletouch.git"
-commit = "696b15f8c720797c791d5a30cfda557c5ebec54c"
+commit = "b39d9bcc9cac9f903196f058fc166a9922ef3256"
 owners = ["fitzchivalrik"]
 project_path = "GentleTouch"
 changelog = """
-- chore: Update to API 7
+- fix(DS/4): No more auto-repeat when holding Create/PSHome 
 """

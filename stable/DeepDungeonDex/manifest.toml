@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "b0398cb1aaaf52a70d4a241bf5d408f43b0c32d8"
-changelog = "### 2.3.1 (2023-01-12)\n\n\n### Bug Fixes\n\n* add a better safeguard against invalid InstanceContent (58c61d6)"
-version = "2.3.1"
+commit = "52527f11f154b2062edb15c059936819dfd45bb4"
+changelog = "### 2.5.6 (2023-05-09)\n\n\n### Bug Fixes\n\n* add file name to yml deserializer error (29ff05f)"
+version = "2.5.6"

@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "3eb1da8db4c02c2e67d9b2160b15a11394c2730f"
+commit = "ccb75a49b214213d788c7233c0459fa9c976c4a6"
 owners = ["karashiiro"]
 changelog = """\
-- Updates for 6.3
+- Update fallback IP addresses for existing DCs
+- Add fallback IP addresses for Meteor and Dynamis
 """

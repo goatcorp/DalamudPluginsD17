@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "4db8fb41359ca96d05e9c1ca9bb4fc72fd612f72"
+commit = "e94429ea7f787f53438c1638e239d21fcc7e26c0"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Update for Patch 6.3
+Update for Patch 6.4
 """

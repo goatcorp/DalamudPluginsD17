@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/carvelli/TitleRoulette.git"
+commit = "b29570b432c83ac45d0128605292910b0ed4df18"
+owners = ["carvelli"]
+changelog = """Updated the configuration window to be (hopefully) more intuitive.
+
+- You can now pick a random title from the current group in the configuration window, without using commands.
+- 'Save' is now an actual save, changes made in the configuration won't have any effect on using /ptitle until saved.
+- Added 'Save and Close'/'Save and Go Back'/'Discard Changes' as distinct buttons."""

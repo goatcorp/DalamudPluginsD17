@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
+commit = "ff798850f123fbd3626184d711b06adfceb54295"
+owners = ["Berna-L"]
+project_path = "Congratulations"
+changelog = """
+- Fix disabled \"Play Sound\" checkbox not affecting anything.
+"""

@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "1ebe72498757969ab7d38644342a90146ad4c231"
+commit = "5bfadc08f3e269b954180854d06c37d0ea5e088a"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 6.3
-- Make the plugin respect the user's name display types based on their settings.
-  Names will correctly abbreviate based on your settings for others/party members/alliance members/friends.
-- Fix minor issue with how party and alliance members are detected.
+- Fix issue where settings were not correctly being read, causing names abbreviations not matching up with the user's settings.
 """

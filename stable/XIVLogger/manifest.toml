@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/cadaeix/XIVLogger.git"
-commit = "e57b0d01dbfb23cadc3726492bcd85f4b51680c9"
+commit = "8de0dc9b877291dd9c873b500f80648a1647f85b"
 owners = ["cadaeix"]
 project_path = "XIVLogger"
-changelog = "Update to work after newest patches!"
+changelog = "Bumping packages and updates"

@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "3af6672f96263333c9d964a5a1be22cad60b87aa"
+commit = "0c3753f6facd0e2002c0132b314084d7cf3a6ce1"
 owners = ["xorus"]
-changelog = "API 8 support"
+changelog = """\
+- Fix decimals not being properly hidden with the display threshold option"""

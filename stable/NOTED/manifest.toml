@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "98e4abf54de4e0aea72ba59672b3ed89d7927a53"
+commit = "68db287f59dd766b05ee27d63004f974a3be4a51"
 owners = ["Tischel"]
 project_path = "NOTED"
-changelog = "- Added support for Patch 6.3 and Dalamud Api8.\n- Moved out of testing."
+changelog = "- Combined all duties from The Masked Carnivale into a single entry.\n\t+ Each challenge was treated as a different duty before, but since the internal ID is the same it was creating issues."

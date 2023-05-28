@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "717a4f263e3b5f9997762499b08ed512bd13965a"
+commit = "5bfadc08f3e269b954180854d06c37d0ea5e088a"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-Changes:
-
-- Update for 6.2
-- Use different hooking mechanism
-
-This may end up causing issues with other plugins that change nameplates (PartyIcons, SimpleTweaks, etc) as well as some potential performance issues. Let me know if you run into any major issues on GitHub or on Discord.
+- Fix issue where settings were not correctly being read, causing names abbreviations not matching up with the user's settings.
 """

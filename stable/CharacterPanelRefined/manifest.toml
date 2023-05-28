@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "97730a79cf4a2e70b67e868edf25f9d3573235f0"
-owners = [
-    "Kouzukii",
-]
+commit = "1513e9afb6d01c2c0d61d16bf93859abca03e0a9"
+owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Update for Patch 6.3
+Fixed average damage and healing values broken by patch 6.4
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/goaaats/Dalamud.LoadingImage.git"
-commit = "b3bf80fe36bbefbacf812a53e3833d7529b11733"
+commit = "1079128a479265fa71001c6d8adafd44dbfaa6af"
 owners = [
     "goaaats",
 ]

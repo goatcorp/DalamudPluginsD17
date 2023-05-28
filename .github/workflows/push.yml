@@ -41,7 +41,7 @@ jobs:
     - name: Cache docker image
       uses: actions/cache@v3
       env:
-        cache-name: plogon
+        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
       with:
         path: ~/.plogon_cache
         key: cache-${{ env.cache-name }}
@@ -52,6 +52,9 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
+        PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
+        PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
+        XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
@@ -84,3 +87,9 @@ jobs:
         directory: output
         repository: goatcorp/PluginDistD17
         ssh: true
+        
+    - name: Signal XLWeb commit
+      run: |
+        curl --request POST \
+        --url https://kamori.goats.dev/Plogon/CommitStagedPlugins \
+        --header 'X-XL-Key: ${{ secrets.XLWEB_KEY }}'

@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59727abdd054326b4d19a1c027045ca29378d01f"
-changelog = "fixed examine functionality"
+commit = "1a3a32a8c544fda42d0c2f5222d0cc31e808536a"
+changelog = """
+BiS: Added available BiS sets
+Bugfix: Ring coffer now actually contains rings"""

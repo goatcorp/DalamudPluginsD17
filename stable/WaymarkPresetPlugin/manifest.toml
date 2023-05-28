@@ -1,11 +1,11 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
-commit = "49e1f6d56abb89bbe2c454b43e7591edd4992ec7"
+repository = "https://github.com/abashby/WaymarkPresetPlugin.git"
+commit = "b037af1275007eaac67259f7388b6a401ee85f5c"
 owners = [
     "PunishedPineapple",
+    "abashby",
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-- Updated for patch 6.3 (increased number of save slots in-game).
-- Updated for Dalamud API 8.
+- Update for 6.4
 '''

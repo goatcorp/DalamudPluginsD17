@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "afa799486d3368ef13ea67fc21ec76fbfdf9a9c6"
+commit = "80929aa4804a2b74d0f93fb50561d95e56835bab"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
-changelog = "New Changes:\n-Fixed duplicate chat issue.\n-Added a classic embed fallback feature in case webhooks fail.\n\nLast Changes:\n- Fixes for NET7 / API 8\n- Updated library dependencies and switched to NetStone as submodule.\n- Switched to using full-width ＠ because Discord started enforcing username requirements on webhooks and @ isn't allowed there.\n- If your bot stopped working in September 2022, please enable Message Intents. See the setup guide for updated steps."
+changelog = """
+Adds the following new commands:
+- `xl!toggleembed` - Switches between Webhooks and classical Embeds
+- `xl!togglesender` - Toggles whether or not to include the sender name in the message content
+"""

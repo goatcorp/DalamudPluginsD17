@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lmcintyre/TitleEditPlugin.git"
-commit = "a16df8a1478bb249755e7db2cba8972b70cfdcdf"
+commit = "88db95040a4085b0b9749a5228d7ce822fe57db9"
 owners = [
     "lmcintyre",
 ]

@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "c24d7f3ddb6c9ad020bcb64e20cad5cf826645b0"
+commit = "e8513c9988a7bba75af24d98a6a82c0d80002207"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.9
-- Target to API 8
-- Target to .NET 7
-- Updated translations
-"""
+changelog = """- Fixed /playertags command not showing the settings UI anymore"""

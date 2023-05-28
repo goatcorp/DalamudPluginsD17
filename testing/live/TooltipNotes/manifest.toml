@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Lerofni/TooltipNotes.git"
+commit = "9d978a4cd0af4476ee8caa0a8602c84dc2626782"
+owners = ["Lerofni"]
+project_path = "TooltipNotes"
+changelog = """
+1.1.1.0
+
+Now uses Multiline text in the noteWindow (alt+Enter will make a new line) and displays them in the allNoteWindow
+
+CharacterSpecific Notes now only hide your global notes if there is a CharacterSpecific Note and not always anymore.
+
+"""
