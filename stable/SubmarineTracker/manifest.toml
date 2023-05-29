@@ -1,13 +1,17 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "158575f7d05595648b75267e06244bc466aa7447"
+commit = "5a57fee20a60b70f6667f1f426c6c95b39875b82"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Builder]
-+ Implemented build solver (thanks WildWolf)
-+ Added breakpoint support for solver
-+ Added border to build table
+[Misc]
++ Improved UI for higher font scaling
+
+[Tracker]
++ Added durability prediction
+
+[Config]
++ Added option to show prediction (on by default)
 """
