@@ -1,18 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "647a8090fb4a6730a62789d333d6dec231f527bc"
+commit = "bbd8ffc0a9ebd96f3be61d2e15c45c56d9e32c46"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.2"
+version = "1.5.0.3"
 changelog = """\
-**6.4 - Tears of the Plogon**
-Support for 6.4
-Updated patch data for items
-Updated coffer contents
-Updated shop items
-Hide the fabled Diadchos Sword
-More Information context menu disabled for now
-A good egg provided more NPC spawn data <3
+**
+Stop a potential crash when generating craft materials
+Correct the calculations for skybuilder recipes
+Re-enable context menu integration
+Free company credit of your active FC is now being parsed
+Free company credit has it's own item now and a page of what can be purchased with it
+The JSON export will now use lower case names for it's keys
+The ventures table in the item window should display nicer
 """
