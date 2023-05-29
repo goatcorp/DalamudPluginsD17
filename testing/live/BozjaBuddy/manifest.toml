@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "bb6ea6205c6ee55553b659c21f778dfc3d337b7b"
+commit = "9ec95fbea2328ad9953f903a291a0559ea9a9454"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [0.3.4.3]
-- Added Alternative layouts to the main window.
-- Added a button to toggle alternative layout. Can also be toggled by pressing key [Alt] while plugin main window is focused.
-- In Custom Loadout editor, added a ` + ` button on the holster title bar, on the right - which pops up the Lost action grid when clicked.
+Bozja Buddy 0.3.4.4
+- Added a Lost Find Cache filter option [7] to allow auto role-filter based on player's current role.
+- Added a helper button on the top bar of the main window. Hovering shows keybinds, clicking shows a helper popup.
 
-- Fix a bug where the Field note updates doesn't work properly.
+- Fix a bug where the text filter for Lost Find Cache does not work as intended when user does not have an Active Loadout.
 """
