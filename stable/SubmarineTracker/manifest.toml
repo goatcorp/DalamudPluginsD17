@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "5a57fee20a60b70f6667f1f426c6c95b39875b82"
+commit = "de48ef3c50860298eec303e6a3b410205c7d6d8c"
 owners = [
     "Infiziert90",
 ]
@@ -13,5 +13,5 @@ changelog = """
 + Added durability prediction
 
 [Config]
-+ Added option to show prediction (on by default)
++ Added option to show predictions (on by default)
 """
