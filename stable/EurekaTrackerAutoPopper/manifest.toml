@@ -1,25 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "16648136f93bf05cdf49ec2d331e0358f4154e88"
+commit = "bb42acc8d07fba26ad67c00e02642a735575b48d"
 owners = [
     "Infiziert90",
     "electr0sheep",
 ]
 project_path = "EurekaTrackerAutoPopper"
 changelog = """
-[New]
-- Added Fairy Lifecycle, the plugin will now track if a fairy died (only works nearby)
-- Added Fairy Map Markers, this allows you place map markers on all known fairies (button in the fairy tab)
-- Added 'Time in Eureka' to the stats
-- Added localization (DE and FR ... JP needs translater)
-- Added more chests to Hydatos, low level pyros and pagos
-
-[Changes]
-- All fates coords are now perfectly centered (without randomize)
-- Main Window can now be collapsed
-- Limit on the chat message format increased from 30 to 64
-
-[Bug Fixes]
-- Fixed a bug that prevented stats from counting correctly in rare case
-- The dot will now stay inside the game window
+nofranz
 """

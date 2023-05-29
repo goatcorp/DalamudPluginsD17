@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "d208f26578a8cbec077c43d6e228a5adbcfa656a"
+commit = "bddf11ee7d2beb9453ffc3a5bd2e984e48fa3d45"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
+changelog = """I got distracted by a Space Exploration/Krastario 2 run in Factorio halfway through, so I don't actually remember what all changed since the last version."""

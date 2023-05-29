@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "ef43200164d80b4f7221ce8a13f21985531de04f"
+commit = "f0df71e23195dc65dabe6338babcf2f2a1743dcf"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Major UI performance improvements
+- Adds support for ElevenLabs TTS
+- Fixes some UI bugs when failing to login to a voice backend
+- Fixes some cases where an error causes TTS to fail until the plugin is restarted
+- Cleans up logging again
 """

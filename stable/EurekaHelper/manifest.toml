@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "3310d98e6b16d0c6800328c6b66c7d52c9cef296"
+commit = "39a21cb5c25ba25aeef8f84c4ee0de5eabe123f3"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-- Add new feature to display server Id of instance
-- Display NM spawned by mob position on map
-- Add new alias
-- Adjusted multiple NM positions
-- Use internal map fate positions from the game
+Misc
+- Fix icon sizing being above 512x512
+
+Tracker
+- Added fate level on NM hover
 """

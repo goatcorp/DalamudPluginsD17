@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/Glamaholic.git'
-commit = 'd9b283e7fd4865b0e7b518405f5fcb6b52235d70'
+commit = 'f5012ba0492e712f40faa066d60cde15650187b8'
 owners = [ 'ascclemens' ]
-changelog = 'API 8'
+changelog = '6.4'

@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "1752e0620af97cb2420122d29d5313d1585deb6c"
+commit = "0a99f39cab1f70a1285d3ab184594cd840a1bd5d"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- UI rendering rework
-- Legacy rendering added for fallback usage
-- Safety checks for crash prevention
+changelog = """- Patch 6.4 update
  """

@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "a6fbfe7b89c7340854b3703467a2862f3cca9b47"
+commit = "75af325f84158b28d7907899b7dad0782ea33639"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
 changelog = """
-- Rework the window layout to show the events in a prettier way.
-- General perfomance improvements.
-- Clicking on the event title will now open a link to the event website.
+- Fixes an issue where some events were not shown.
 """

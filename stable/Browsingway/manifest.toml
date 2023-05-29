@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "5b6c7af16cad9ecd849dfb9e349fc18cb2a2460c"
+commit = "5de34a438900df05d8aed48655868847d47ff54d"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Add IINACT (Dalamud Plugin) support
-- Fix Dalamud UI corruption because of unhandled exception
+- Update Chromium to 111.0.5563.148
 """

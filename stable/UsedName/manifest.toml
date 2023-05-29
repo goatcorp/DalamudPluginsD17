@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "293c0625020f5fe8612b0d7e4d00177aae3764bc"
+commit = "a212c0719c5a344e2086fcf63d7527d7f392474d"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- fix issue of when click `add nickname` open config window
-- fix cannot edit correct target after search
+- a tiny description enhancement
+- fix cannot load data after change Dalamud location
 """

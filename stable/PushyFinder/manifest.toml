@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/ry00001/PushyFinder.git"
+commit = "7c7db5abb7dcf441097a10d6b9fba14eb477378c"
+owners = ["ry00001"]
+project_path = "PushyFinder"
+version = "1.0.0.2"
+changelog = """
+Fix for Patch 6.4.
+
+At the time of this writing, the plugin does not function due to changes in ClientStructs.
+"""

@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "d7f5c32f922cb1e356e5c5e5e32124050303f1c5"
+commit = "04c67c409ccbcba45e1a1342d036482521cc32f2"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-After update 3.0.0.0, we received a whispering at dawn from Eos and Selene, complaining that crediting the Scholar for their healing is unjust.
+[TF2-ish Critical Hits]
+- Add option per job to set a minimum time between sounds.
+  - For example, if you set the time as 1000 ms and a critical hit sound is played,
+  no other sound (be it for critical hit, direct hit, critical heal etc.) will be played for the next second.
+  - Keep it at 0 ms to use the current behavior.
 
-We embraced these complaints and, after discussion with the fey union, decided on adding two more configuration submodules: \"Critical Healing from your own fairy\" (Scholar only) and \"Critical Healing from other players' fairies\". One of them gauged the implementation and gave it their official blessing.
-
-We thank both fairies for illuminating us on this matter.
-
-Also, this version was validated on 6.38 and contains fixes for the territory options not persisting.
+(Thanks to Grayve for the idea and everyone at the Discord thread for the feedback!)
 """

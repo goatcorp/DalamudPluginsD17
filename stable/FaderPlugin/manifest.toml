@@ -1,16 +1,10 @@
 [plugin]
 repository = "https://github.com/shdwp/xivFaderPlugin.git"
-commit = "5e7c7a44f04b3d33752337df9aa7e2ca85501d9b"
+commit = "3384f3b722f923580909e8cccdc3706f2c904421"
 owners = ["shdwp", "Aelexe", "Infiziert90"]
 project_path = "FaderPlugin"
 changelog = """
-Release v2.4.0.1
-- Try to migrate broken configs
-  + If in the last update the condition was intentionally set to be 'IslandSanctuary' or 'WeaponUnsheathed' so has this been reverted too, please change it back in your config.
-
-- Prevent hasIdled from looping
-- More UI improvements
-- Add 2 new commands, on and off
-- Add a warning for cross hotbars
-  + Cross hotbars with 'Always display WXHVB' will not go invisible unless the option 'Position WXHB separately from XHB' is also used
+Release v2.6.0.0
+- Added new state 'InSanctuary' (e.g Cities, Aetheryte Villages)
+- Better ChatFocus handling, Chat should stop disappearing while scrolling through it (by WesBosch)
 """

@@ -1,16 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6fd53e4a283eaa78fe57a7006cd72ee59e021dad"
+commit = "647a8090fb4a6730a62789d333d6dec231f527bc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.4.1.2"
+version = "1.5.0.2"
 changelog = """\
-Fix for lag when searching in certain circumstances
-Added ability to copy filters/craft lists as JSON to your clipboard
-Can be dyed filter/column added
-Uses column added
-Patch filter updated to finalise items for 6.35
-Added more coffer contents
+**6.4 - Tears of the Plogon**
+Support for 6.4
+Updated patch data for items
+Updated coffer contents
+Updated shop items
+Hide the fabled Diadchos Sword
+More Information context menu disabled for now
+A good egg provided more NPC spawn data <3
 """

@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
+commit = "cd6d7bb80b1c7b361146e038e2c4e7aa5101d9de"
+owners = [
+    "Critical-Impact",
+]
+project_path = "FantasyPlayer"
+version = "2.0.0.0"
+changelog = """\
+**Fantasy Player has returned!**
+Thanks to BiscuitUmU for letting me take over :)
+No new features, just updated to support the current version of Dalamud.
+I've tested as much as I can though I don't have Spotify premium so please let me know if you run into any issues with that.
+
+Feature Requests: Feel free to submit them to the FantasyPlayer github, though I can't guarantee they'll all be looked at in a timely manner.
+"""

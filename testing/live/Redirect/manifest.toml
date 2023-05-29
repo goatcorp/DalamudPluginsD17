@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "e5510fc369d6b719c5bc21b877bc4fa2705215f2"
+commit = "e907a0653db62cdf41035d1fe6398f05b5ab95e6"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Fix ground-targeted action behavior for actions leaving the queue"
+changelog = "Fixes for patch 6.4"

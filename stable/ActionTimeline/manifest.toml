@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/ActionTimeline.git"
-commit = "7d575d7c72c38be72cb8cbf1b6854ba8f197a220"
+commit = "85c6151f90a6a2071c58afd0f26f2c52966964c7"
 owners = ["Tischel"]
 project_path = "ActionTimeline"
-changelog = "- Added support for Patch 6.3 and Dalamud Api8."
+changelog = "- Added support for Patch 6.4."
