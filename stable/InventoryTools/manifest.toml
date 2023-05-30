@@ -1,18 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bbd8ffc0a9ebd96f3be61d2e15c45c56d9e32c46"
+commit = "a0c6b85c40d411767fb0e2c90c360e392e3d4c75"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.3"
+version = "1.5.0.4"
 changelog = """\
 **
-Stop a potential crash when generating craft materials
-Correct the calculations for skybuilder recipes
-Re-enable context menu integration
-Free company credit of your active FC is now being parsed
-Free company credit has it's own item now and a page of what can be purchased with it
-The JSON export will now use lower case names for it's keys
-The ventures table in the item window should display nicer
+Fix a stackoverflow when generating company crafts
+Fix Free Company Credit scanning(you need to open the FC window or FC shop in the workshop to get the value reflected in the plugin)
 """
