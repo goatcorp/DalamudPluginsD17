@@ -1,20 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "5efe6acb8cf029e9ee7724fdb7d4d566d45caebe"
+commit = "b4e5edf703ff4179f8b66a35c57a88cf2cc30818"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
 [Misc]
-+ Improved UI for higher font scaling
-
-[Tracker]
-+ Added durability prediction
-
-[Builder]
-+ Added option to ingore unlocks in Best EXP
-
-[Config]
-+ Added option to show predictions (on by default)
++ Added required ranks to most selections and info windows
 """
