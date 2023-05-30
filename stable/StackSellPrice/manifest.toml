@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/StackSellPrice.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "dfc0e4738caff18a61c48e60218d66a16a3364f3"
+commit = "80f0d65df9e4f1d0d0cd85428e05d39ca25cad7c"
 changelog = "Updated XivCommon to version 7.0.1"
