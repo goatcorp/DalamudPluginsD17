@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "90de1b7e10eeab8244cdc82beaef01a602d1e83b"
+commit = "2d8712d723df760e15a102bf9ea93681a688056e"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Add option to show sales per day and average sale price.
-- Fix some collectible items having price tooltips
+Added the option to view the sale price of an entire stack (thanks WorkingRobot)
 """
