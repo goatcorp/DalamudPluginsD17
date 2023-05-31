@@ -1,22 +1,12 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "da3e261413a38864f34a64fedf000e5e936fe354"
+commit = "9ec95fbea2328ad9953f903a291a0559ea9a9454"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [0.3.4.2]
-- Added Field note tab and related features to update field note progress.
-- Added grid view for Lost action table.
-- In tables, columns with active filtering will be highlighted.
-- In tables, a filtering input will have display a button to clear its input when active.
-- Icons for Lost Action and Field note is now a Link.
-- Adjustments to Custom loadout editing tab, with an addition of a grid table of Lost action below.
-- Adjustments to FateCe table, with an addition of Field Note column to filter FateCe by Field note.
+Bozja Buddy 0.3.4.4
+- Added a Lost Find Cache filter option [7] to allow auto role-filter based on player's current role.
+- Added a helper button on the top bar of the main window. Hovering shows keybinds, clicking shows a helper popup.
 
-- Changes 'Lost Action' tab to 'Lost Action/Fragment' tab.
-- Adjustments to some icon buttons.
-- Adjustments to minimum main window height.
-- Fix a bug where the Lost Action Table would filter all actions that have infinite charges.
-- Fix a bug where Font of Magic does not appear in Lost action table when filtered as Caster.
-- Fix a bug where toggling 'Hiding rec. loadouts' does not apply to Loadout dropdowns + Search all results.
+- Fix a bug where the text filter for Lost Find Cache does not work as intended when user does not have an Active Loadout.
 """

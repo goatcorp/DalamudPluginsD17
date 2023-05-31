@@ -1,18 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "647a8090fb4a6730a62789d333d6dec231f527bc"
+commit = "a0c6b85c40d411767fb0e2c90c360e392e3d4c75"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.2"
+version = "1.5.0.4"
 changelog = """\
-**6.4 - Tears of the Plogon**
-Support for 6.4
-Updated patch data for items
-Updated coffer contents
-Updated shop items
-Hide the fabled Diadchos Sword
-More Information context menu disabled for now
-A good egg provided more NPC spawn data <3
+**
+Fix a stackoverflow when generating company crafts
+Fix Free Company Credit scanning(you need to open the FC window or FC shop in the workshop to get the value reflected in the plugin)
 """
