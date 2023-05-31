@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "2d8712d723df760e15a102bf9ea93681a688056e"
+commit = "b45f9e4ee4435319285183cdb99839dbafee1bfb"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Added the option to view the sale price of an entire stack (thanks WorkingRobot)
+Fix crashing on sort
 """
