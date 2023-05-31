@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "9ec95fbea2328ad9953f903a291a0559ea9a9454"
+commit = "c62fb858dc457604c2a1d4970a156b00a83bb68d"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 0.3.4.4
-- Added a Lost Find Cache filter option [7] to allow auto role-filter based on player's current role.
-- Added a helper button on the top bar of the main window. Hovering shows keybinds, clicking shows a helper popup.
-
-- Fix a bug where the text filter for Lost Find Cache does not work as intended when user does not have an Active Loadout.
+Bozja Buddy [0.3.5.1]
+- Added DRS/Community tab, showing suggestions to participate in DRS and related communities, as well as tips to DRS encounters.
+- Now show next to their name if a fragment is buyable with cluster.
+- Adjustments to helper pop up.
 """
