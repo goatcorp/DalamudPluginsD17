@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "a2c84ab8998bd58369e0129bf455057169e6eaca"
+commit = "e605727cf536ad8f1dd8a80332edf4b2520184ba"
 changelog = """
 Fix: Mutiple characters unintentionally sharing gearsets
 LootSession: Rings can now be assigned to a slot explicitly
