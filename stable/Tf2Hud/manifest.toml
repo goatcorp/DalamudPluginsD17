@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "d44ef7d5c93a6ad1c4525cc7fbe09e765fc8439f"
+commit = "a1d47a4584b02430cc1efbd96826d0968e96fcdc"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
-Updated for 6.4.
+Fix folder selection window not opening when the TF2 install is not autodetected.
+(Thanks Mac Mac for the bug report!)
+
+As a reminder, this plugin works only with installs of Team Fortress 2 proper.
+Usage of mods and other games based on TF2 is not supported.
 """
