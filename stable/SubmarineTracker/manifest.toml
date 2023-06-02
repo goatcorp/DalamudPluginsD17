@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "300adfd014389ecd8290df8d5930a6c881503974"
+commit = "75012ab58d094507a0ee34d0bf3ca7e72896171c"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Tracker]
-+ Added EXP prediction to the detailed view
+nofranz
 """
