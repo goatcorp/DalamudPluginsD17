@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "b4e5edf703ff4179f8b66a35c57a88cf2cc30818"
+commit = "300adfd014389ecd8290df8d5930a6c881503974"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Misc]
-+ Added required ranks to most selections and info windows
+[Tracker]
++ Added EXP prediction to the detailed view
 """
