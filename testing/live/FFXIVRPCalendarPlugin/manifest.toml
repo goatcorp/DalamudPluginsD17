@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/erroch/FFXIVRPEventCalendarPlugin"
+repository = "https://github.com/erroch/FFXIVRPEventCalendarPlugin.git"
 commit = "f7866113bb75e9f11fee7bd973b0bcfab40522e0"
 owners = ["erroch"]
 project_path = "FFXIVRPEventCalendarPlugin"
