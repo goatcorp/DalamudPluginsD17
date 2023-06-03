@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/TheGreatSeparator.git'
-commit = '746c91a0561aa4b3c185f891933ab9cb84a57bd1'
+repository = 'https://git.anna.lgbt/ascclemens/TheGreatSeparator.git'
+commit = 'c452e2e618f6bfff2bf27b0abe78b4493d04fed3'
 owners = [ 'ascclemens' ]
-changelog = 'API 7'
+changelog = 'Guess I forgot to publish this update...'

@@ -2,7 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "1a3a32a8c544fda42d0c2f5222d0cc31e808536a"
-changelog = """
-BiS: Added available BiS sets
-Bugfix: Ring coffer now actually contains rings"""
+commit = "7c5366acf615a71171c896e79c70186f6d6e5bd8"
+changelog = "Fix: Merge infos for multiple database entries for one character"

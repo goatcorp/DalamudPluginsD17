@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "bddf11ee7d2beb9453ffc3a5bd2e984e48fa3d45"
+commit = "b44a6b533ece737fb393086aa78d2d3345cf9499"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """I got distracted by a Space Exploration/Krastario 2 run in Factorio halfway through, so I don't actually remember what all changed since the last version."""
+changelog = """Fixed a minor display bug when duties lasted longer than an hour."""
