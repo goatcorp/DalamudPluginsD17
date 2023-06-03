@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "b44a6b533ece737fb393086aa78d2d3345cf9499"
+commit = "831ad26bd9cfba471043d7ec511de0f477a53906"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """Fixed a minor display bug when duties lasted longer than an hour."""
+changelog = """Fixed a minor display bug introduced by me fixing a minor display bug in the last patch."""
