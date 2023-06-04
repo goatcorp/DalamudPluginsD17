@@ -1,0 +1,17 @@
+[plugin]
+repository = "https://github.com/meoiswa/TobiiFFXIV.git"
+commit = "1b72e1bc3e8fc96cc4a909bafdbb418db01cc1a8"
+owners = [
+    "meoiswa"
+]
+project_path = "Tobii"
+changelog = """
+
+Version 0.1.0.0:
+ - ⚠️Experimental Plugin⚠️, merely a proof of concept.
+ - Tobii Eyetracker integration for FFXIV.
+ - Enables Gaze-at-object target aquisition. 
+ - Supports overriding Tab Target (Enemy) and Soft Target (Target Cursor)
+ - Works best for Gamepad users, but is compatible with KB&M
+ - Requires Tobii Game Hub to be installed.
+"""
