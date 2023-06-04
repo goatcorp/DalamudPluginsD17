@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "c3a8fc9673ec0014e71ea7966cd1a5b73ae7dff2"
+commit = "c7192c2896e29869b669c9b950f8800fc1c9baf5"
 changelog = """
 General: Only cap applicable stats on items
 General: Fixed stat claculations due to unintentionally capping stats lower than intended
