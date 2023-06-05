@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6436a7b0f153224631b648dd126845f9b60e6184"
+commit = "cc4d2c5e9fcfec4ef89f60c62e99c6bfe8596ffb"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.5"
+version = "1.5.0.6"
 changelog = """\
-Fix 2 crashes that could stop the plugin from loading
-Fix hotkey bug
-Add mappy data, should have a huge percentage of mob spawns mapped out, still working on mob drops
-Add Earthbreak Aethersand (thanks Faye Y.)
+Actually fix the housing crash, much appreciated to Laissabelle for helping me track it down
 """
