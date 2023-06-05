@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "a0c6b85c40d411767fb0e2c90c360e392e3d4c75"
+commit = "6436a7b0f153224631b648dd126845f9b60e6184"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.4"
+version = "1.5.0.5"
 changelog = """\
-**
-Fix a stackoverflow when generating company crafts
-Fix Free Company Credit scanning(you need to open the FC window or FC shop in the workshop to get the value reflected in the plugin)
+Fix 2 crashes that could stop the plugin from loading
+Fix hotkey bug
+Add mappy data, should have a huge percentage of mob spawns mapped out, still working on mob drops
+Add Earthbreak Aethersand (thanks Faye Y.)
 """
