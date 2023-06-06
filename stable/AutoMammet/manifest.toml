@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Rietty/AutoMammet.git"
-commit = "7d5644570171df6d1ecc75a30393f80adf3bf490"
+commit = "dd5c547e96fbc51fe95c4e1def14f9249cedad76"
 owners = ["Rietty"]
 project_path = "/AutoMammet"
-changelog = "Resolve a small issue with an incorrect offset, account for new crafts added. Everything should match now."
+changelog = "Update for June 6th hotfix/server fixes. Corrects an offset so plugin works again."
