@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "8bf6522dee26b899394790a2d22b7ff900f51241"
+commit = "9a4b217abfa4e7d36f881c60d495e7de35f24cf3"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Fix groove being set improperly for future cycles when it's inputted manually"
+changelog = "Add 6.4 items and levels"
