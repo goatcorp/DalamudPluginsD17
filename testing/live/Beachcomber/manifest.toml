@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "9a4b217abfa4e7d36f881c60d495e7de35f24cf3"
+commit = "4dc5a94103dbda8ff941e2472bdca7fd65f86f9f"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Add 6.4 items and levels"
+changelog = "Fix reading from isleventory"
