@@ -2,12 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "c7192c2896e29869b669c9b950f8800fc1c9baf5"
-changelog = """
-General: Only cap applicable stats on items
-General: Fixed stat claculations due to unintentionally capping stats lower than intended
-Loot Session: \\%DPS gain now properly takes SKS/SPS into account
-Loot Session: Removed manually curated DPS for players
-Edit Gear: Properly handle local and etro.gg sets (Etro sets cannot be edited and need to be converted to local to edit)
-Edit Gear: Slightly reworked Ui
-Edit Gear: You can now edit the names of sets"""
+commit = "635dafb28ad3311401629c816808e8b65fdf6b25"
+changelog = "General: Fix a crash when using wine"
