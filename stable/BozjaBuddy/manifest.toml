@@ -1,15 +1,11 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "11104adb20957dabd02d2f97c90749807d0408e0"
+commit = "4a98b2abc6e5ec2dc68c966f42d4344dbd22f77f"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.0.0.0]
-- Added DRS/Community tab, showing suggestions to participate in DRS and related communities, as well as tips to DRS encounters.
-- Now show next to their name if a fragment is buyable with cluster.
-- Adjustments to helper pop up.
-
-Bozja Buddy [1.0.0.1]
-- Fixed issues with dupe IDs.
-- Hopefully fixed an issue with incorrect font ASCII char display on SelectableLink. Worked fine on dev build (1.0.0.0) but not on testing build (0.3.5.1) for some reason.
+Bozja Buddy [1.0.0.2]
+- Added more entries to DRS community section.
+- Make the Action adding button in Custom loadout edit green.
+- Fixes a bug where the action table display incorrectly while in Custom loadout editing mode.
 """
