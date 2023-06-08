@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Rietty/AutoMammet.git"
-commit = "dd5c547e96fbc51fe95c4e1def14f9249cedad76"
+commit = "74402b9919f617d00c8c9ca4b3252d0466a408ac"
 owners = ["Rietty"]
 project_path = "/AutoMammet"
-changelog = "Update for June 6th hotfix/server fixes. Corrects an offset so plugin works again."
+changelog = "Fix user reported offset error that occured in sections I do not have access to in island data yet."
