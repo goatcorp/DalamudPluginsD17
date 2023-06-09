@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "3cbd439a86de65f6f58d927d59fce7aa0de1d96a"
+commit = "6eac83243096c5f6b7d2827a7989790d6ee5a836"
 owners = ["karashiiro"]
 changelog = """\
-- Fixed server bar display failing to set up sometimes
+- Fix font management logic
 """

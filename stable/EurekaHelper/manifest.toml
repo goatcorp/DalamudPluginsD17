@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "3310d98e6b16d0c6800328c6b66c7d52c9cef296"
+commit = "78c64519402d204a0063de0fa44fa923b67c1f67"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-- Add new feature to display server Id of instance
-- Display NM spawned by mob position on map
-- Add new alias
-- Adjusted multiple NM positions
-- Use internal map fate positions from the game
+Elemental Manager
+- Added crowdsourced positions
 """

@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "5d5230c03ae4474c9e5afaad74604e10ba493435"
-changelog = "### 2.5.3 (2023-03-25)\n\n\n### Bug Fixes\n\n* fix drawing of floor data which broke after EO addition (87d5c88)"
-version = "2.5.3"
+commit = "52527f11f154b2062edb15c059936819dfd45bb4"
+changelog = "### 2.5.6 (2023-05-09)\n\n\n### Bug Fixes\n\n* add file name to yml deserializer error (29ff05f)"
+version = "2.5.6"

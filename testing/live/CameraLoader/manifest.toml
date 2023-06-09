@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/NeNeppie/CameraLoader.git"
+commit = "400fd68b9bd2f2dfc6824dd874c3aed8734f51b2"
+owners = ["NeNeppie"]
+project_path = "CameraLoader"
+changelog = """
+Camera Loader v0.1.4.1:
+- Overhauled the UI.
+ - Fixed a bug where presets would close/open if their order was changed.
+ - Everything has been made more compact and organized.
+ - The window's height is automatically adjusted to fit its contents (Feedback on that is appreciated).
+- Added a settings tab.
+ - Initial settings include locking the window's position & width when undocked.
+"""

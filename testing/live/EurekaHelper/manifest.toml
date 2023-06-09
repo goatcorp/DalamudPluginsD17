@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "e032c5b9316ec594e6e77e559e238be28baf6e31"
-owners = ["snooooowy"]
-project_path = "EurekaHelper"
-changelog = """
-- Added new configuration to randomize map coordinates by a range of +- 0.5 (enabled by default)
-- Added new formatting for NM boss short name
-"""

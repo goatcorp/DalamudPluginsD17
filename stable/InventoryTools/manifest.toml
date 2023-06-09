@@ -1,16 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6fd53e4a283eaa78fe57a7006cd72ee59e021dad"
+commit = "cc4d2c5e9fcfec4ef89f60c62e99c6bfe8596ffb"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.4.1.2"
+version = "1.5.0.6"
 changelog = """\
-Fix for lag when searching in certain circumstances
-Added ability to copy filters/craft lists as JSON to your clipboard
-Can be dyed filter/column added
-Uses column added
-Patch filter updated to finalise items for 6.35
-Added more coffer contents
+Actually fix the housing crash, much appreciated to Laissabelle for helping me track it down
 """

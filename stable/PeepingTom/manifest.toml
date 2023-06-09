@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/PeepingTom.git'
-commit = '3749a6b42154a51397733abb2d3b06a47915bdcc'
+commit = '756e57d9c07d20f39dec6ce9d40ff48a708f8d8d'
 owners = [ 'ascclemens' ]
 project_path = 'Peeping Tom'
 changelog = '''\
-- API 8
+- 6.4
 '''

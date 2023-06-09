@@ -1,17 +1,14 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "860305a9720aeffe340c3812ae8a8db6ece1e86c"
+commit = "04c67c409ccbcba45e1a1342d036482521cc32f2"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-New name: *Hit it, Joe!*
-- Since the plugin hit version 3, keeping the name Valve-related would cause crashes.
-
-[Countdown Jams]
-- New module.
-- Set sounds to be played when a countdown starts.
-
 [TF2-ish Critical Hits]
-- New algorithm to differentiate your heals from other players'. (Thanks, Aireil!)
-  - Also considers heals from your fairy as yours.
+- Add option per job to set a minimum time between sounds.
+  - For example, if you set the time as 1000 ms and a critical hit sound is played,
+    no other sound (be it for critical hit, direct hit, critical heal etc.) will be played for the next second.
+  - Keep it at 0 ms to use the current behavior.
+
+(Thanks to Grayve for the idea and everyone at the Discord thread for the feedback!)
 """

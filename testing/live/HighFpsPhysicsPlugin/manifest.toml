@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "0957fc98fd95bb19b816e966e6560548a835397b"
+commit = "bd60109fefc25c07173cb33884c064134e0f9881"
 owners = ["Kirrana"]
 project_path = "SamplePlugin"
-changelog = "Unbreak version number"
+changelog = "Reworked how the entire thing works, can now select a framerate that physics will be (approximately) run at directly, instead of dividing the FPS by a constant value."

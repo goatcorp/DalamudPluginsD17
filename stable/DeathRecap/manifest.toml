@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "4db8fb41359ca96d05e9c1ca9bb4fc72fd612f72"
+commit = "522782d58784d86e8d95d67dd30033dee34aa8d7"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Update for Patch 6.3
+Fixed recap DoT values being *slightly* inaccurate
 """

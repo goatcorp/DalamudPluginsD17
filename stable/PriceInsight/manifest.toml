@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "d15f5fc400e0d9896609b17768abd8f4abf03dc5"
-owners = [
-    "Kouzukii",
-]
+commit = "b45f9e4ee4435319285183cdb99839dbafee1bfb"
+owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Will now display an error message if fetching prices from universalis has failed.
+Fix crashing on sort
 """

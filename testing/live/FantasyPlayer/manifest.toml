@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
+commit = "be196ef0fd35e9e9c2da19f205ef244608d097c0"
+owners = [
+    "Critical-Impact",
+]
+project_path = "FantasyPlayer"
+version = "2.1.1.1"
+changelog = """\
+Allow configuration of which channel fantasy player's messages show up in
+The now playing messages are localized(thanks to Dormanil)
+"""

@@ -1,11 +1,6 @@
 [plugin]
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
-commit = "f2e73bce441d54e83308a31f33534ab1974adf45"
-owners = [
-    "SheepGoMeh"
-]
+owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-changelog = """
-- Fix other players being visible when set to hidden while doing treasure maps
-- Update Chinese (Simplified) translations
-"""
+commit = "5b4cec4c9e3530a4f8d411f69c3e3476d26aa718"
+changelog = "- Fixed context menus not working properly\n- Added missing zones to the advanced configuration option"

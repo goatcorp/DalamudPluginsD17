@@ -1,10 +1,11 @@
 [plugin]
-repository = "https://github.com/PunishedPineapple/ReadyCheckHelper.git"
-commit = "bfbe5b2bd2220f613114404c73b8928f2fd37c00"
+repository = "https://github.com/Infiziert90/ReadyCheckHelper.git"
+commit = "a82d4701944acef7258d20ecfc4abe10776ef6c5"
 owners = [
+    "Infiziert90",
     "PunishedPineapple",
 ]
 project_path = "ReadyCheckHelper"
-changelog = '''
-- Updated for Dalamud API 8.
-'''
+changelog = """
++ Added support for the new 'Align List to Bottom' option
+"""

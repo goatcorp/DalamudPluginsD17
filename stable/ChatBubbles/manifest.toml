@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "6363ac26ef0801aa535f0d63fecf34c7a4cd172e"
+commit = "e958472eae0857cb898e35dd5cfb4ed5ff9a90d6"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = "Update for 6.3, added API 8 compatibility"
+changelog = """top text
+### Updated for 6.4
+- Added the `Display friends only` feature in options
+- Added the `Display FC only` feature in options
+- Added the `Display party only` feature in options"""
