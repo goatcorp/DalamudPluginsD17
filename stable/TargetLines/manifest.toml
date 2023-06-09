@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "682fe492f533776c0eebd93f4861d7d972f2d353"
+commit = "5d137b635cfe92b5f5e1af47c600656a87a1e4aa"
 owners = ["Drahsid"]
 project_path = ""
 changelog = """1.2.2
@@ -12,5 +12,7 @@ changelog = """1.2.2
 1.2.3
 - Fixed Some bugs when easing from the no-target state to new targets, and from the switching state to the no-target state. Note that going from the no-target state to the new-target state is unfixed
 - Added animation options for the no-target state
+1.2.4
+- Bugfix so that lines which are entirely behind the camera will now always cull
 """
 
