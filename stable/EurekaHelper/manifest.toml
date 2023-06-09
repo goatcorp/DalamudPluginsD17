@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "39a21cb5c25ba25aeef8f84c4ee0de5eabe123f3"
+commit = "78c64519402d204a0063de0fa44fa923b67c1f67"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Misc
-- Fix icon sizing being above 512x512
-
-Tracker
-- Added fate level on NM hover
+Elemental Manager
+- Added crowdsourced positions
 """
