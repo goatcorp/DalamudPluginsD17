@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "682fe492f533776c0eebd93f4861d7d972f2d353"
+commit = "6386de245bcaeb1b47e85a4587a1454ef2388afd"
 owners = ["Drahsid"]
 project_path = ""
 changelog = """1.2.2
@@ -12,5 +12,10 @@ changelog = """1.2.2
 1.2.3
 - Fixed Some bugs when easing from the no-target state to new targets, and from the switching state to the no-target state. Note that going from the no-target state to the new-target state is unfixed
 - Added animation options for the no-target state
+1.2.4
+- Bugfix so that lines which are entirely behind the camera will now always cull
+1.2.5
+- Fixed issue where job flags would only apply correctly when an entity was first initialized
+- Using job flags will now result in that rule having a slightly higher priority when using auto priority
 """
 
