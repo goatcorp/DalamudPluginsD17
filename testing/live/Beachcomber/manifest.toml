@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rosella500/IslandWorkshopSolver.git"
-commit = "4dc5a94103dbda8ff941e2472bdca7fd65f86f9f"
+commit = "104592b2aefbb2b92054918486cde253d9b9b1a7"
 owners = [
     "rosella500"
 ]
 project_path = "Beachcomber"
-changelog = "Fix reading from isleventory"
+changelog = "Fix overzealous validation"
