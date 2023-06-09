@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "a1d47a4584b02430cc1efbd96826d0968e96fcdc"
+commit = "bb4cf2ba388d77e747462663bbbc0c9d1982b77f"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
-Fix folder selection window not opening when the TF2 install is not autodetected.
-(Thanks Mac Mac for the bug report!)
-
-As a reminder, this plugin works only with installs of Team Fortress 2 proper.
-Usage of mods and other games based on TF2 is not supported.
+[Win Panel]
+- Fix scores table overflowing when there's too much data. (Thanks HuiEtyud for another bug report!)
 """
