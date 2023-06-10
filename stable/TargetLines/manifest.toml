@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "6386de245bcaeb1b47e85a4587a1454ef2388afd"
+commit = "25bd9271292efbbdc976fb47452c8a95d3e47db4"
 owners = ["Drahsid"]
 project_path = ""
 changelog = """1.2.2
@@ -17,5 +17,10 @@ changelog = """1.2.2
 1.2.5
 - Fixed issue where job flags would only apply correctly when an entity was first initialized
 - Using job flags will now result in that rule having a slightly higher priority when using auto priority
+1.2.6
+- Various minor optimizations (Should negligibly improve performance in crowded areas)
+- Added the ability to share presets
+- Fixed minor memory leak when turning plugin on-and-off-and-on repeatedly
+- Slightly reduced size of config file
 """
 
