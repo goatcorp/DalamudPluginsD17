@@ -1,10 +1,23 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "75012ab58d094507a0ee34d0bf3ca7e72896171c"
+commit = "b7dc8c8ad7e219b70f1f98b103f896156f4362b6"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-nofranz
+[Info]
+This update changes the internal loot tracking significantly and
+old loot data is now marked as legacy.
+
+[Changes]
++ Loot tracking update
++ Internal improvements
++ Voyage history includes more information now, like procs
+
+[Important]
+All config files must be migrated to the new version, and 
+this is only possible while 1 client is running.
+Running multiple clients will result in a plugin crash
+to prevent any corruption of these configs.
 """
