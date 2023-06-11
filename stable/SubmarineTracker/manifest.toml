@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "1d1b484e4e36d0bf92841e81cb9007226947f266"
+commit = "b7dc8c8ad7e219b70f1f98b103f896156f4362b6"
 owners = [
     "Infiziert90",
 ]
@@ -18,7 +18,6 @@ old loot data is now marked as legacy.
 [Important]
 All config files must be migrated to the new version, and 
 this is only possible while 1 client is running.
-
-**DO NOT UPDATE WHILE YOU HAVE MULTIPLE CLIENTS RUNNING**
-or your config and stored data is lost forever.
+Running multiple clients will result in a plugin crash
+to prevent any corruption of these configs.
 """
