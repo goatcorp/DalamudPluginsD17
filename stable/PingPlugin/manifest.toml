@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "6eac83243096c5f6b7d2827a7989790d6ee5a836"
+commit = "7b6cfa524ee7906dd7a624afc26ebd3a6d6bd81a"
 owners = ["karashiiro"]
 changelog = """\
-- Fix font management logic
+- Fix ping sometimes getting stuck at 0ms (thanks Diyagi!)
 """
