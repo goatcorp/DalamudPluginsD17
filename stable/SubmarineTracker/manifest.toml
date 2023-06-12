@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "311815447caf072633edb7b2b989d3a79b2c5127"
+commit = "cb1fd6a18db6c09e97e03e27b704691d18a66d93"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
 [Loot Tracking]
-+ Fix bug that prevented loot from being tracked
++ Cleanup old corrupted data before migrating
 """
