@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "690cc35d842f4dd7d6a648158ebc9e27cf647738"
+commit = "1c9792ac88ca1faf9f029a7940a5f75f596038ea"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.7"
+version = "1.5.0.8"
 changelog = """\
-Tetris has returned! Turn it on in the 'Fun' section within Settings -> General
-The add item search field now accepts advanced filters (||,&&,!, etc)
-Added an extra ~800 mob drops, the data should be far more complete and include drops from the latest expansion
+Framers kit's will now count as items that can be tracked with the acquired column
+Fixed some of the existing mob data that was missing decimals
+Updated SQ store items list
 """
