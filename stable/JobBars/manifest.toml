@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/0ceal0t/JobBars.git"
-commit = "3cf912f96a34e1c4d28c24771630981662e1c893"
+commit = "1bf1447f82de871dda74398cb550bcd86d5f5a8e"
 owners = [
     "0ceal0t",
 ]

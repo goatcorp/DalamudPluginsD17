@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "90ebfdb5e3203146535deb97662a6fe7e5053ef7"
+commit = "c62fb858dc457604c2a1d4970a156b00a83bb68d"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [0.3.2.4]
-- Added a config option to make the overlay on top of Resistance&Rank in-game window unclickable.
-- Hovering info for Fragment link now also display Lost action drops.
-- Minor adjustment in Loadout editing UI.
-
-- Fix a bug that would crash the game upon having duplicating status effect.
+Bozja Buddy [0.3.5.1]
+- Added DRS/Community tab, showing suggestions to participate in DRS and related communities, as well as tips to DRS encounters.
+- Now show next to their name if a fragment is buyable with cluster.
+- Adjustments to helper pop up.
 """

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "33098f55232e237b47c70ab14b5ae6ec0d3a795d"
+commit = "a4455281c2e4a6a376c4957a2e63821863ff8404"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Add support for mounts, minions and fashion accessories
+Add Items from Patch 6.35 through 6.4
 """

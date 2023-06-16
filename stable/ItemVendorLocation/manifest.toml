@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "8e5552f5f3371e619642499d92dd8f61808a6489"
+commit = "4718a7e2572a2c24a8df338ba4845d8ce6b11adb"
 owners = [
     "electr0sheep",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fixed issue with Filter GC Results option
+- Support for 6.4
 """
-version = "2.2.0.1"
+version = "2.2.0.2"

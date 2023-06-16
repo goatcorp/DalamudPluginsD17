@@ -1,23 +1,18 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "cc409a1fc46405916ce23ee5d302036cc438c711"
+commit = "f20cd02ec2bf7112aea6ce9d7fb1f7d2530847bf"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
 [Config]
-+ New options got added
-+ FC order can now be changed
-
-[Tracker]
-+ Added an 'All' button (enabled by default)
++ Rename tabs and cleanup
++ Added 2 new options
 
 [Builder]
-+ Added duration limits to best exp (24, 36 and 48h)
-+ Added 'Must Include'
++ Added option to only show current FC
 
-[Misc]
-+ 6.4 support
-+ Support for the new map and unlock paths
+[Loot + Tracker]
++ Added option to exclude legacy data
 """

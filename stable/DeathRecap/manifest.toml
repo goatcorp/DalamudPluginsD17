@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "b783700c606ce5760bf7bd4a5cb06ddcefbb4ca5"
+commit = "522782d58784d86e8d95d67dd30033dee34aa8d7"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Add option to disable in PvP
+Fixed recap DoT values being *slightly* inaccurate
 """

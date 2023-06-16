@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "9250a6125b29d9056263ac3d5810f64694ec9cda"
+commit = "bd60109fefc25c07173cb33884c064134e0f9881"
 owners = ["Kirrana"]
 project_path = "SamplePlugin"
-changelog = "Fixed crash."
+changelog = "Reworked how the entire thing works, can now select a framerate that physics will be (approximately) run at directly, instead of dividing the FPS by a constant value."

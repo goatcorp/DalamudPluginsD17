@@ -2,8 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "3fbca2c9ac01f7545a805d8def895fbb6fb8846f"
-changelog = """
-Updated for 6.4
-Added Anabaseios Raids
-Note: Default BiS will be added when available"""
+commit = "635dafb28ad3311401629c816808e8b65fdf6b25"
+changelog = "General: Fix a crash when using wine"

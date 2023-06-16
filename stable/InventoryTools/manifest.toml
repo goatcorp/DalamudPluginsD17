@@ -1,18 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "647a8090fb4a6730a62789d333d6dec231f527bc"
+commit = "1a469a63b48f68b917520922355ebfcc2de39a17"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.2"
+version = "1.5.0.9"
 changelog = """\
-**6.4 - Tears of the Plogon**
-Support for 6.4
-Updated patch data for items
-Updated coffer contents
-Updated shop items
-Hide the fabled Diadchos Sword
-More Information context menu disabled for now
-A good egg provided more NPC spawn data <3
+Adjust ItemCount IPC to use int instead of uint
 """

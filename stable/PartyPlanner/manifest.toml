@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "75af325f84158b28d7907899b7dad0782ea33639"
+commit = "d148bd184885daf2e0bb86fe4fb9a09eb0e93eab"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
 changelog = """
-- Fixes an issue where some events were not shown.
+- Fix a possible crash if the api is not online.
 """

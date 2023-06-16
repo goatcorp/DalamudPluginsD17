@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/kaleidocli/BozjaBuddy.git"
+commit = "4a98b2abc6e5ec2dc68c966f42d4344dbd22f77f"
+owners = ["kaleidocli"]
+project_path = "BozjaBuddy"
+changelog = """
+Bozja Buddy [1.0.0.2]
+- Added more entries to DRS community section.
+- Make the Action adding button in Custom loadout edit green.
+- Fixes a bug where the action table display incorrectly while in Custom loadout editing mode.
+"""

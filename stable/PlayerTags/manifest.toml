@@ -1,17 +1,8 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "0be0a59cf7f410daed103b243e9f68840c8f5182"
+commit = "e8513c9988a7bba75af24d98a6a82c0d80002207"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """# Changes
-
-- Fixed Nameplates for Patch 6.4
-- Set default Nameplate Template to Empty for new users
-
-# Important Note to all users
-
-- The base functinality of Player Tags has been implemented in core FFXIV in Patch 6.4. Thank you a lot Square Enix!
-- Please consider to use the new features added by 6.4 (role & job icons, job prefix, role color) and turning them off in Player Tags (or just switch to the \"Empty\" Nampelate Template in Player Tags Nameplate settings.
-- Player Tags will not remove any feature (yet), so you can also continue to use Player Tags for role & job tags if you need deeper configuration."""
+changelog = """- Fixed /playertags command not showing the settings UI anymore"""
