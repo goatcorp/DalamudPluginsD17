@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1c9792ac88ca1faf9f029a7940a5f75f596038ea"
+commit = "1a469a63b48f68b917520922355ebfcc2de39a17"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.8"
+version = "1.5.0.9"
 changelog = """\
-Framers kit's will now count as items that can be tracked with the acquired column
-Fixed some of the existing mob data that was missing decimals
-Updated SQ store items list
+Adjust ItemCount IPC to use int instead of uint
 """
