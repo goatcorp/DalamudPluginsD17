@@ -1,26 +1,14 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "25bd9271292efbbdc976fb47452c8a95d3e47db4"
+commit = "f135a3b9d8ffb526af9dd65451b936e28a9536db"
 owners = ["Drahsid"]
 project_path = ""
-changelog = """1.2.2
-- Fixed flag tooltips
-- Priority is now verbosely displayed
-- You can now optionally manually specify priority
-- Now using simplified priority calculation, to make custom priority easier to work with
-- List will now sort by priority
-1.2.3
-- Fixed Some bugs when easing from the no-target state to new targets, and from the switching state to the no-target state. Note that going from the no-target state to the new-target state is unfixed
-- Added animation options for the no-target state
-1.2.4
-- Bugfix so that lines which are entirely behind the camera will now always cull
-1.2.5
-- Fixed issue where job flags would only apply correctly when an entity was first initialized
-- Using job flags will now result in that rule having a slightly higher priority when using auto priority
-1.2.6
-- Various minor optimizations (Should negligibly improve performance in crowded areas)
-- Added the ability to share presets
-- Fixed minor memory leak when turning plugin on-and-off-and-on repeatedly
-- Slightly reduced size of config file
+changelog = """1.2.7
+- Improved the rendering of fancy lines, now they should look less looney when they clip the camera
+- Improved visibility logic
+- Improved logic relating to intangible game objects (ghost lines should no longer appear)
+- Set default sample count for fancy lines to an odd number (should give the line a middle point with the default config)
+- Made visibility check on Game Objects less aggresive
+- Introduced a regression, where the sample count for lines is only applied when the line is constructed
 """
 
