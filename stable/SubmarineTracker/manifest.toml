@@ -1,11 +1,18 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "cb1fd6a18db6c09e97e03e27b704691d18a66d93"
+commit = "f20cd02ec2bf7112aea6ce9d7fb1f7d2530847bf"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Loot Tracking]
-+ Cleanup old corrupted data before migrating
+[Config]
++ Rename tabs and cleanup
++ Added 2 new options
+
+[Builder]
++ Added option to only show current FC
+
+[Loot + Tracker]
++ Added option to exclude legacy data
 """
