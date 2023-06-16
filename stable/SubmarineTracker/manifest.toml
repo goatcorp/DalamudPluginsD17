@@ -1,18 +1,13 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "f20cd02ec2bf7112aea6ce9d7fb1f7d2530847bf"
+commit = "bb484d29be163ee6ebbc895f770eae130bce5b2c"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Config]
-+ Rename tabs and cleanup
-+ Added 2 new options
+[Helpy + Tracker]
++ Added storage tracking, requires AllaganTools to work
 
-[Builder]
-+ Added option to only show current FC
-
-[Loot + Tracker]
-+ Added option to exclude legacy data
+[storage](https://raw.githubusercontent.com/Infiziert90/SubmarineTracker/master/SubmarineTracker/images/storage.png)
 """
