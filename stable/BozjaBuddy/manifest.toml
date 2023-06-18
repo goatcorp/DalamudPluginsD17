@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "4a98b2abc6e5ec2dc68c966f42d4344dbd22f77f"
+commit = "a079413dfa7a96e1d096d0afaa4e52ae8bf96666"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.0.0.2]
-- Added more entries to DRS community section.
-- Make the Action adding button in Custom loadout edit green.
-- Fixes a bug where the action table display incorrectly while in Custom loadout editing mode.
+Bozja Buddy [1.0.0.3]
+- Field note Dabog (11) and Sartauvoir (14) had incorrect Fate info.
 """
