@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/TobiiFFXIV.git"
-commit = "1b72e1bc3e8fc96cc4a909bafdbb418db01cc1a8"
+commit = "bc0cfedeaef2f6e5861ea405d0e8081030157b2c"
 owners = [
     "meoiswa"
 ]
