@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1a469a63b48f68b917520922355ebfcc2de39a17"
+commit = "783945fa8e19ccd76d758c5c5b5eaa118d505a33"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.9"
+version = "1.5.0.10"
 changelog = """\
-Adjust ItemCount IPC to use int instead of uint
+Add an ingredient search filter(this will calculate the ingredients required to craft the items selected in the filters configuration and only show those ingredients)
+Filters now have a reset button to quickly clear their settings
+Multiple choice filters can now be searched from the setting interface + you can add all the items in the drop down list with a button
 """
