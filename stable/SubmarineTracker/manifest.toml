@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "a6dac433082326d784fb77aac9cb692183598cf1"
+commit = "4cbd3a4e49861d8593987c05070b718a9a6daa9f"
 owners = [
     "Infiziert90",
 ]
@@ -10,5 +10,5 @@ changelog = """
 + Added export functionality, exporting all the valid loot data into a csv for excel/spreadsheet
 
 [Misc]
-+ Added known breakpoints for the new sectors
++ Added all breakpoints for the new sectors
 """
