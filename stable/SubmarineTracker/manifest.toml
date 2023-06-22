@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "bb484d29be163ee6ebbc895f770eae130bce5b2c"
+commit = "4cbd3a4e49861d8593987c05070b718a9a6daa9f"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Helpy + Tracker]
-+ Added storage tracking, requires AllaganTools to work
+[Loot]
++ Added export functionality, exporting all the valid loot data into a csv for excel/spreadsheet
 
-[storage](https://raw.githubusercontent.com/Infiziert90/SubmarineTracker/master/SubmarineTracker/images/storage.png)
+[Misc]
++ Added all breakpoints for the new sectors
 """
