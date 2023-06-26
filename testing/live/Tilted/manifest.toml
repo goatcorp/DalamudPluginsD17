@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "fd8689642ed77b404f0047ea758cd3c83263d91e"
+commit = "6c61fee4697539dccc776631966e85d191839ec0"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
-changelog = "3.0.0 Fixed trigger wonkiness, migrated config to new version"
+changelog = "3.1.0 Improved Zoom behavior and Smooth Tilt (Thanks Cara! 💕)"
