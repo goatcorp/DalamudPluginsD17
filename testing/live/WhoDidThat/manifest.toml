@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/spide-r/who-did-that"
+commit = "9e91ca2e1ea906d0bd0c6bee3cd3ca0711594c70"
+owners = ["Spide-r"]
+project_path = "WDT"
+changelog = "Public Release"
