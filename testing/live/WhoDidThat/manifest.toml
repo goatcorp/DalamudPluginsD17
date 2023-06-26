@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/spide-r/who-did-that"
+repository = "https://github.com/spide-r/who-did-that.git"
 commit = "520594a8a85e051de68f65744503a9a46e99fcb1"
 owners = ["spide-r"]
 project_path = "WDT"
