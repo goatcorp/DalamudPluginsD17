@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "95897adbdecbeeea245d0d1dc2a25d216b1ab858"
+commit = "5eeee862b08f71f5c05402b16e536dd50398e0d8"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Fixes typing indicator not drawing properly with bottom aligned party list.
+- Added support for Cross-world parties.
 """

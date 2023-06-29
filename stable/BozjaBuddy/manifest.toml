@@ -1,15 +1,9 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "11104adb20957dabd02d2f97c90749807d0408e0"
+commit = "a079413dfa7a96e1d096d0afaa4e52ae8bf96666"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.0.0.0]
-- Added DRS/Community tab, showing suggestions to participate in DRS and related communities, as well as tips to DRS encounters.
-- Now show next to their name if a fragment is buyable with cluster.
-- Adjustments to helper pop up.
-
-Bozja Buddy [1.0.0.1]
-- Fixed issues with dupe IDs.
-- Hopefully fixed an issue with incorrect font ASCII char display on SelectableLink. Worked fine on dev build (1.0.0.0) but not on testing build (0.3.5.1) for some reason.
+Bozja Buddy [1.0.0.3]
+- Field note Dabog (11) and Sartauvoir (14) had incorrect Fate info.
 """

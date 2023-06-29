@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "f83877ba6a748f7eb8ef2f48ab9445a6f053ead8"
+commit = "ea5fc891747e76977c87f1fb72815212cf232403"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Fixed for 6.4
-- Updated description for changed Logos Actions.
+- Fixed recipe for Cure L III
 """

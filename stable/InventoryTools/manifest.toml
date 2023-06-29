@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "cc4d2c5e9fcfec4ef89f60c62e99c6bfe8596ffb"
+commit = "130eb2a68d2ffa4460ad6b8c6e021d29accdbca5"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.6"
+version = "1.5.0.10"
 changelog = """\
-Actually fix the housing crash, much appreciated to Laissabelle for helping me track it down
+Add an ingredient search filter(this will calculate the ingredients required to craft the items selected in the filters configuration and only show those ingredients)
+Filters now have a reset button to quickly clear their settings
+Multiple choice filters can now be searched from the setting interface + you can add all the items in the drop down list with a button
+Added 6.4 submarine drops and unlocks (thanks Infi <3)
 """

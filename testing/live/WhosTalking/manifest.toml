@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "7e2a30d6155dace594134996df4ae0f73550ff66"
+commit = "3f5f8a23dcd65b8e996d0f2da3cb65f040b2b6c8"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Fix poorly-sized voice activity indicators at certain UI scales
+- Add ability to manually set Discord usernames for characters (many thanks to Archon for implementing this!)
+
+  Head into the plugin settings and click "Advanced Individual Assignments" to set this up.
 """
