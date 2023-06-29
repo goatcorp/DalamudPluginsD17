@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "130eb2a68d2ffa4460ad6b8c6e021d29accdbca5"
+commit = "4005a950471307708c963b12d8bb89ece6bcfa4e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.10"
+version = "1.5.0.11"
 changelog = """\
-Add an ingredient search filter(this will calculate the ingredients required to craft the items selected in the filters configuration and only show those ingredients)
-Filters now have a reset button to quickly clear their settings
-Multiple choice filters can now be searched from the setting interface + you can add all the items in the drop down list with a button
-Added 6.4 submarine drops and unlocks (thanks Infi <3)
+Add search filter to acqusition icons column
+Remove unrequired logging
+Update lumina supplemental(Thanks to Emma for the mob spawn data)
 """
