@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "be196ef0fd35e9e9c2da19f205ef244608d097c0"
+commit = "fce161c92c94af1c536cc64e4a7a949e4f723450"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.1.1.1"
+version = "2.1.1.2"
 changelog = """\
-Allow configuration of which channel fantasy player's messages show up in
-The now playing messages are localized(thanks to Dormanil)
+Decouple plugin and game to allow for quicker dev
+Add option to show elapsed time when playing
+Attempt at making login more reliable
 """
