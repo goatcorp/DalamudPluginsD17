@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "b6d0045484278b3cd6d57c89feadbd1368bd6c17"
+commit = "51a59efbd04bc3282996386f416b73db7e64bb55"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
 changelog = """
