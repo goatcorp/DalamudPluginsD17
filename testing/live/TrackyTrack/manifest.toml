@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/Infiziert90/TrackyTrack.git"
+commit = "b5cd5b8c0775a82e5eece1487cc247859fbaa09c"
+owners = [
+    "Infiziert90",
+]
+project_path = "TrackyTrack"
+changelog = """
+First Release~
+
+Simple and Easy Data Tracking
+
++ Tracks data for Desynthesis
++ Tracks data for Venture Coffers
++ Supports multiple characters
+
+!(desynthesis)[https://raw.githubusercontent.com/Infiziert90/TrackyTrack/master/TrackyTrack/images/desynthesis.png]
+!(venture)[https://raw.githubusercontent.com/Infiziert90/TrackyTrack/master/TrackyTrack/images/venturecoffer.png]
+"""
