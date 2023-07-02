@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "795966fb95a63bf25b8814757809a934c9161fb0"
+commit = "fc2580851a941539adc042073cc4f78e9e14e576"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-+ Performance improvements from @Nebel
-+ The long awaited teleport button for both normal and xl
++ Chinese Simplified Translation (thanks LittleNightmare)
++ Fix bug that prevented teleport in rare case
 """
