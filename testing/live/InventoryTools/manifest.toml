@@ -1,18 +1,26 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "f677c3a5445cfc473c7f1d74f24c81cadea10fb1"
+commit = "7d74ef147f3f41e7ce7f3afff448db6bf04bb2af"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.0"
+version = "1.6.0.0"
 changelog = """\
-**House Storage has arrived**
-So this took a while but it has finally come to fruition. A few things to note:
+**Allagan Tools: Crafting 2 Electric Boogaloo**
+This is the first testing release of the crafting update for Allagan Tools which brings it closer to being a full replacement of some of the existing external tools. The update includes the following changes: 
 
-- To have a house register with the plugin you must first enter it, have permission and then open the 'Indoor Furnishings' menu. This will allow for the plugin to see you own the house and add it to your 'Characters' list.
-- Once the house is registered due to the way the inventory data of each section is provided, you must enter each section to have it be parsed by the plugin. For Indoor and Outdoor Furnishings you must enter the storeroom tab before that data is collected.
-- For Interior Fixtures open the relevant section in the housing menu.
-- There's a lot of moving parts so if you run into issues, bugs or crashes hit up the #plugin-help-forum on discord.
-- I'll be working on making the 'Is Housing Item' filter a bit more reliable as this might be more important now.
+- Improved handling of items with sources other than crafting. Sourcing can be configured via a priority system and then overridden per item
+- There are now options to group the items in the craft list
+  - Precrafts: Class, Depth, Together
+  - Everything Else: Zone, Together
+  - Crystals/Currency: Seperate/Together
+- NQ/HQ can be configured per item
+- Retainer Retrieval can be configured per item
+- Any item can be added to a craft list(completion tracking for this is still WIP)
+- There has been a lot of changes under the hood to accommodate these changes so any issues please head to the #plugin-help-forum
+
+A inventory history module has also been added, it's still very new and is opt in, the plugin will prompt you when you open the new "History" filter if you wish to turn it on.
+
+Also massive thanks to KiwiKahawai for helping me test this thing and helping me reign in my constant feature creep :slight_smile:
 """
