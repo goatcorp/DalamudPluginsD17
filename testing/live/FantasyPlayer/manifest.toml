@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "fae87fbf4451d2238a0a42be944002ea6c7d7983"
+commit = "8b16c56540046bc77fc7f9a5e7d952fe3993a816"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.1.1.2"
+version = "2.1.1.3"
 changelog = """\
-Decouple plugin and game to allow for quicker dev
-Add option to show elapsed time when playing
-Attempt at making login more reliable
+Fixed crash on boot
+Altered the way the providers are loaded
 """
