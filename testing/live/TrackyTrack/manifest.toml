@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/TrackyTrack.git"
-commit = "d79439204bd43aa713d97a57d9ed2c88e7ec37ab"
+commit = "9e0d300490b0062d0cb59540f895ae78186fe252"
 owners = [
     "Infiziert90",
 ]
@@ -11,7 +11,8 @@ First Release~
 Simple and Easy Data Tracking
 
 + Tracks data for Desynthesis
-+ Tracks data for Venture Coffers
++ Tracks data for Venture Coffers (requires AllaganTools)
++ Tracks data for Gacha Coffers (requires AllaganTools)
 + Supports multiple characters
 
 ![desynthesis](https://raw.githubusercontent.com/Infiziert90/TrackyTrack/master/TrackyTrack/images/desynthesis.png)
