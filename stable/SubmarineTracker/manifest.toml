@@ -1,11 +1,18 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "3b8f00ba66d39c0a65a773b6ac8a0abf008e76d2"
+commit = "2357fe85fd783875543b4ce9ce6c3c03195ab471"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
 [Tracker]
-+ Added option to show route in All tab again
++ Prevent rare crash when building a new sub
+
+[Builder]
++ Added fuel costs to stats (also shows your current stock if allagantools is installed)
++ Fix caching issue for Best EXP and Leveling calculator, if you used different characters in succession
+
+[Helpy]
++ Prevent overscaling of the boxes if you used higher UI scaling than default dalamud
 """
