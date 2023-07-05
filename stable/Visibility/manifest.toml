@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "08280ea2e25d9fc3947b5b6b8b8ec75c77a247f9"
-changelog = "- Refactored UI code to address disappearing menu issues"
+commit = "0e53262f04966de78f49152e19324275748427ec"
+changelog = "- Fix Whitelist UI adding entries to VoidList"
