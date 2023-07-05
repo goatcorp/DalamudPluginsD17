@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "fc2580851a941539adc042073cc4f78e9e14e576"
+commit = "c60242fb9a3de12a80d32533545372c8673550e0"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-+ Chinese Simplified Translation (thanks LittleNightmare)
-+ Fix bug that prevented teleport in rare case
+nofranz
 """

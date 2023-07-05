@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "3b8f00ba66d39c0a65a773b6ac8a0abf008e76d2"
+commit = "01a515442676d5f3d8cdf49c94b7df47b333f2fa"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Tracker]
-+ Added option to show route in All tab again
+nofranz
 """
