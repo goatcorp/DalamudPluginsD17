@@ -1,13 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "3ee33c55f0cd6091ec0a61e85d80a088804f7d6f"
+commit = "4410e12f70f6d228d486b646cf2cf916514beb17"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.0.1"
+version = "1.6.0.2"
 changelog = """\
-**Allagan Tools: v1.6.0.1**
-Fixed a crash
-Updated migration for history filter to only run when required
+**Allagan Tools: v1.6.0.2**
+Added 'Buy' button that teleports you to the nearest vendor of an item + a dropdown of locations
+Added Teleporter integration for vendors
+Fixed a bug where HQ required for all items was not respected
+Added timed node countdowns to the 'Gather' column.
+The total required amount should now list the correct value
+The missing ingredients popup should now list the correct values 
 """
