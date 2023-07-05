@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "adbef5b749ad062f36f34fea093be52b10e10ca9"
+commit = "37b12b959e0265ad27d7bddc1be52b33b94c9ab8"
 owners = [
 	"Glyceri",
 ]
