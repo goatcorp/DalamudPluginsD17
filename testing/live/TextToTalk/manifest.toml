@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "e5c4d7ac229cf577178129454ba32716e9bf31e3"
+commit = "1f410c617e5534339b68e6aaee60394ee952e981"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Possibly fix install issues in 1.26.0 better
+- Fixes Azure voice playback rates
 """
