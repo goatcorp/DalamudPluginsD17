@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "3e0d00ab4c1fa071bafa1610f8dde5af0b80f9a9"
+commit = "e0e630669a6ba2547e840f5bfde576bb5701dfbd"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
 changelog = "Public Release"
