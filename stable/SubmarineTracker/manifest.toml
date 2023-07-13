@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "906d15371c83e6c548fec85f481e03e05812280c"
+commit = "8f5807eab09cee4beb77ce27220e873199369fa3"
 owners = [
     "Infiziert90",
 ]
@@ -14,4 +14,10 @@ changelog = """
 [Builder]
 + Added total exp to stats
 + Experimental option to allow specific sectors in the leveling module
+
+[Loot]
++ Analyse Tab (WiP)
+
+[Config > About]
++ Added Ko-Fi Link
 """
