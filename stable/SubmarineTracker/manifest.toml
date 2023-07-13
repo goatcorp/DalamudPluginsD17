@@ -1,18 +1,17 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "500159635814e6d4b7ecfae2931a3234559bf573"
+commit = "906d15371c83e6c548fec85f481e03e05812280c"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Overlay] (/soverlay)
-New
+[Overlay]
++ Adjusted colors, also added a color to signal partly done
++ Fixed clipping with scrollbar
++ Added hovering tooltip for yellow submarine text
 
-[Notification Overlay]
-Fully Removed
-
-[Misc]
-+ Automatic reload of changed configs
-+ Plugin will keep 5 backups of each stored FC
+[Builder]
++ Added total exp to stats
++ Experimental option to allow specific sectors in the leveling module
 """
