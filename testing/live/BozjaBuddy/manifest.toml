@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "9280d4a447ec79c1f015ad0d5d83801b0b33ee80"
+commit = "72f41009be207daed80cd170d1312aef8478d239"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.1.0.0]
-- Added a new info viewer mode: Node graph viewer.
-- Added a config option to toggle between viewer modes.
+Bozja Buddy [1.1.1.0]
+- Import/Export canvas to clipboard.
+- Import/Export selected nodes to clipboard. Basically copying/pasting nodes.
+- Shortcuts for deleting nodes (Del)
+- Shortcuts for copying/pasting nodes (Ctrl + C / Ctrl + V)
+
+- Minor fixes to graph's ruler (Y-axis)
+- Fixes to deleting nodes that are packing other nodes.
 """
