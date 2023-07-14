@@ -1,18 +1,27 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "500159635814e6d4b7ecfae2931a3234559bf573"
+commit = "e4c39f4e16b6469abbd263126f30f3848044ef28"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Overlay] (/soverlay)
-New
+[Overlay]
++ Adjusted colors, also added a color to signal partly done
++ Fixed clipping with scrollbar
++ Added hovering tooltip for yellow submarine text
 
-[Notification Overlay]
-Fully Removed
+[Builder]
++ Added total exp to stats
++ Experimental option to allow specific sectors in the leveling module
 
-[Misc]
-+ Automatic reload of changed configs
-+ Plugin will keep 5 backups of each stored FC
+[Loot]
++ Analyse Tab (WiP)
+
+[Config]
++ Added multiple options for overlay
+  + Open on startup & Open unminimized (default true)
+  + Show first sub returning (default false)
+  + Show date instead of time (default false)
++ Added Ko-Fi Link
 """
