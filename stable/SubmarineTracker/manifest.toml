@@ -1,27 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "e4c39f4e16b6469abbd263126f30f3848044ef28"
+commit = "cc2755d0e7f9470f42943e4271b579ccbda27f15"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
 changelog = """
-[Overlay]
-+ Adjusted colors, also added a color to signal partly done
-+ Fixed clipping with scrollbar
-+ Added hovering tooltip for yellow submarine text
-
-[Builder]
-+ Added total exp to stats
-+ Experimental option to allow specific sectors in the leveling module
-
-[Loot]
-+ Analyse Tab (WiP)
-
-[Config]
-+ Added multiple options for overlay
-  + Open on startup & Open unminimized (default true)
-  + Show first sub returning (default false)
-  + Show date instead of time (default false)
-+ Added Ko-Fi Link
++ Disable option to unminimize overlay on startup
 """
