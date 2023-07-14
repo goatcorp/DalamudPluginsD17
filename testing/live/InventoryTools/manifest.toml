@@ -1,25 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "e94d2bedecb7af53db9d3225067e5d20d9611ad5"
+commit = "baefeee3d269d1b5bf5c1ea7a1e9f478a544ad96"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.0.3"
+version = "1.6.0.4"
 changelog = """\
-**Allagan Tools: v1.6.0.3**
-Added in craft list zone system(you can specify preferred zones and also override the zone on each item)
-The HQ Required, Retrieve from Retainer and Source Preferences can be switched by left clicking/right clicking their icons
-Group headers in craft lists can have their text colour changed
-Tooltip category whitelist/blacklist added
-Ignore escape key setting added for most windows
-Added missing vendors
-Ventures and Exploration ventures were split as exploration ventures are random and might not be preferred
-Items from housing vendors are not duplicated and will indicate they are available only from placable vendors
-Active Craft List functionality added(when a craft list is active, crafts count towards it) + auto switch craft list setting added. IPC calls added for activating/deactivating craft lists
-Duplicate "Open in Crafting Log" fixed
-Fixed an issue where zeroing an item in a craft list would zero all items
-Fixes in the way tooltips are displayed when HQ items are involved
-If a craft generates extra materials due to yield, we'll try to take less from external sources
-Had a lot of help from KiwiKahawai testing and on the dev side, big thanks to them :)
+**Allagan Tools: v1.6.0.4**
+- Have finished crafts count correctly towards completion based on their flags
+- Add the ability to choose "Empty" as a source
+- Fix an issue where setting an item to 0 while Hide Completed is active would remove all the items
+- The craft table now has a moveable splitter with a saved position + the original collapse functionality
+- Copying a configuration into the default craft list now works
+- Stopped items that can't be bought from gil vendors from being considered as buyable(even if they have a buy from vendor price)
+- Unless there are other bugs this will be the final release before this is pushed to live
 """
