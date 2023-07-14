@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "8f5807eab09cee4beb77ce27220e873199369fa3"
+commit = "330acdd8e57f6266d723282b6838822a03322d07"
 owners = [
     "Infiziert90",
 ]
@@ -18,6 +18,10 @@ changelog = """
 [Loot]
 + Analyse Tab (WiP)
 
-[Config > About]
+[Config]
++ Added multiple options for overlay
+  + Open on startup & Open unminimized (default true)
+  + Show first sub returning (default false)
+  + Show date instead of time (default false)
 + Added Ko-Fi Link
 """
