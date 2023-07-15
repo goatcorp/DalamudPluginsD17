@@ -3,7 +3,7 @@ repository = "https://github.com/lostkagamine/PushyFinder.git"
 commit = "7c7db5abb7dcf441097a10d6b9fba14eb477378c"
 owners = ["lostkagamine"]
 project_path = "PushyFinder"
-version = "1.0.0.2"
+version = "1.0.0.3"
 changelog = """
-Fix for Patch 6.4.
+This update changes nothing but I changed my GitHub username so I have to version bump.
 """
