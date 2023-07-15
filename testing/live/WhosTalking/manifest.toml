@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "3f5f8a23dcd65b8e996d0f2da3cb65f040b2b6c8"
+commit = "f98d9874f0d804a75b222eff70db92aeac113a0a"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Add ability to manually set Discord usernames for characters (many thanks to Archon for implementing this!)
+Fixes a crash when you have a Chocobo summoned and are in a party.
 
-  Head into the plugin settings and click "Advanced Individual Assignments" to set this up.
+Thank you thakyZ for reporting this!
 """
