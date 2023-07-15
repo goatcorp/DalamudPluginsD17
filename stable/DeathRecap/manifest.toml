@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "522782d58784d86e8d95d67dd30033dee34aa8d7"
+commit = "1298e75c5e15a6596e8678e85b8f1bde926051bf"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed recap DoT values being *slightly* inaccurate
+Added Dismantle to the list of captured status effects (thanks Speedas)
 """
