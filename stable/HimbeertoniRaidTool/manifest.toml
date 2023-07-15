@@ -2,8 +2,11 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "3fbca2c9ac01f7545a805d8def895fbb6fb8846f"
+commit = "804a48afd56bce1d350458777a8b8de597c7d96d"
 changelog = """
-Updated for 6.4
-Added Anabaseios Raids
-Note: Default BiS will be added when available"""
+Loot session: Added rule "Can use now" (Tome Upgrades)
+Loot session: Added rule "Can buy" (requires you to track the books correctly)
+Gear: You can now delete gear sets
+Database: Remove unused entries (old gear sets and characters)
+Etro.gg: Import crafted items as HQ again  (broken since 1.2.x)
+General: Fix extremly rare crash on startup"""

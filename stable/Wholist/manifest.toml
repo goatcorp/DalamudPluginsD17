@@ -1,19 +1,7 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "d1d37f74cb9fc9537f613a87df03f0376e8f63c4"
+commit = "aff60f7f368e3fe260b34ba617069cedc332850e"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
-changelog = """
-Hey look at this really [cute cat image](https://twitter.com/fatfatmillycat/status/1634256353295212551/photo/3).
-
-**Features**
-
-- Added the ability to set colours per job instead of per role.
-
-**Other**
-
-- Translation updates & improvements in multiple languages (Thanks translators)
-- Added 42% more silliness to code :3
-"""

@@ -1,13 +1,15 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "90ebfdb5e3203146535deb97662a6fe7e5053ef7"
+commit = "72f41009be207daed80cd170d1312aef8478d239"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [0.3.2.4]
-- Added a config option to make the overlay on top of Resistance&Rank in-game window unclickable.
-- Hovering info for Fragment link now also display Lost action drops.
-- Minor adjustment in Loadout editing UI.
+Bozja Buddy [1.1.1.0]
+- Import/Export canvas to clipboard.
+- Import/Export selected nodes to clipboard. Basically copying/pasting nodes.
+- Shortcuts for deleting nodes (Del)
+- Shortcuts for copying/pasting nodes (Ctrl + C / Ctrl + V)
 
-- Fix a bug that would crash the game upon having duplicating status effect.
+- Minor fixes to graph's ruler (Y-axis)
+- Fixes to deleting nodes that are packing other nodes.
 """

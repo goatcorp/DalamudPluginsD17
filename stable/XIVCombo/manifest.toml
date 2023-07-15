@@ -2,9 +2,9 @@
 repository = "https://github.com/attickdoor/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "fae48d8a49613d6d7326552a90927d72c0200c43"
+commit = "1f17d013e427fe8e219ff1233bd35dd8ff0c71b1"
 
-version = "1.7.23"
+version = "1.7.24"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -17,6 +17,5 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		updated for patch\
-		removed goring blade combo. thanks yoship for making pld playable!\
+		fix energy drain being broken on scholar
 		"""

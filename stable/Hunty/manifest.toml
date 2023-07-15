@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "7e973e8861abffca26461f5d8c3a6799e328d11d"
+commit = "c60242fb9a3de12a80d32533545372c8673550e0"
 owners = [
     "Infiziert90",
 ]
 project_path = "Hunty"
 changelog = """
-[New]
-+ Added a new command for the xl window (/huntyxl)
-
-[XL Window]
-![xl](https://github.com/Infiziert90/Hunty/raw/master/Hunty/images/xl.png)
-+ A new window that lists all jobs with monsters in the same area on there respective rank
+nofranz
 """

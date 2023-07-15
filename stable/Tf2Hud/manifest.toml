@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "d44ef7d5c93a6ad1c4525cc7fbe09e765fc8439f"
+commit = "bb4cf2ba388d77e747462663bbbc0c9d1982b77f"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
-Updated for 6.4.
+[Win Panel]
+- Fix scores table overflowing when there's too much data. (Thanks HuiEtyud for another bug report!)
 """

@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "9c72338449e7b110cff78c566e4628db1f98c28a"
+commit = "dce6cd8fde87ef621294b262ed6d6e3b8ce514a1"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Misc
-- Fix for 6.4
+Elemental Manager
+- Added crowdsourced positions
 
-Tracker
-- Added option to display level for fates
+Misc
+- Updated contact information
 """
