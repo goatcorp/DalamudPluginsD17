@@ -1,9 +1,10 @@
 [plugin]
-repository = "https://github.com/WorkingRobot/craftimizer.git"
-commit = "14ced2df984e74f464cf41acc00dafb9e57c021d"
+repository = "https://git.camora.dev/asriel/craftimizer.git"
+commit = "858d5d468c980512f3eec949682fb8fe42bbb766"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"
-changelog = """Initial Release 1.0
+changelog = """Release 1.1
 
-- Testing as we go :)
+- Big changes and speedups (cba to list)
+- I dunno just download it
 """
