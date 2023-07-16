@@ -1,15 +1,15 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "72f41009be207daed80cd170d1312aef8478d239"
+commit = "4e924723542055d29a45f2632d3ed5f345996e8a"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.1.1.0]
-- Import/Export canvas to clipboard.
-- Import/Export selected nodes to clipboard. Basically copying/pasting nodes.
-- Shortcuts for deleting nodes (Del)
-- Shortcuts for copying/pasting nodes (Ctrl + C / Ctrl + V)
+Bozja Buddy [1.1.2.0]
+- Added node lookup by its header.
+- Added highlighting for in-edges, using color red.
 
-- Minor fixes to graph's ruler (Y-axis)
-- Fixes to deleting nodes that are packing other nodes.
+- Adjustments to node's and viewer's GUI design.
+- Prepared some stuff for quests and quest chains.
+- Added AuxNode support for quests.
+- Quest chain also generates a node graph upon load.
 """
