@@ -1,25 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "dfc05227bf34a41d0f97468f2cbde9af3d891a73"
+commit = "32bf45ffc804de7364150ab7abeae5a5550c272b"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.0"
+version = "1.6.1.1"
 changelog = """\
-This is the live release of the crafting update for Allagan Tools which brings it closer to being a full replacement of some of the existing external tools. The update includes the following changes: 
-
-- Improved handling of items with sources other than crafting. Sourcing can be configured via a priority system and then overridden per item
-- There are now options to group the items in the craft list
-  - Precrafts: Class, Depth, Together
-  - Everything Else: Zone, Together
-  - Crystals/Currency: Seperate/Together
-- NQ/HQ can be configured per item
-- Retainer Retrieval can be configured per item
-- Any item can be added to a craft list(completion tracking for non-craft items will come later)
-- Teleporation and zoning for vendors has been greatly improved
-- There has been a lot of changes under the hood to accommodate these changes so any issues please head to the #plugin-help-forum
-A inventory history module has also been added, it's still very new and is opt in, the plugin will prompt you when you open the new "History" filter if you wish to turn it on.
-
-Also massive thanks to KiwiKahawai for helping me test this thing and helping me reign in my constant feature creep :slight_smile:
+- Bicolour gem vendors will now show up and any vendors with no name will be listed as "Unknown Vendor" instead of not appearing at all
+- Aetherial reduction will let you pick the item to reduce and will be factored into the craft
+- Craft window splitter should be easier to see
+- Gathering uptime text in the craft window will be red if it's down, green if it's up
 """
