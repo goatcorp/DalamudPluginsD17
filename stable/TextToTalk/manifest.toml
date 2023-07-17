@@ -1,8 +1,14 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "da07364715707f218143691f893be76b5d922cc3"
+commit = "336825392d1aea3023f7a21c276e7e3f44861307"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Sends the speaker name in WebSocket messages
+- Fixes player voice bugs in cross-world chat
+- Fixes some minor UI glitches when switching backends
+- Fixes the plugin toggle keybind interfering with the chat preset keybinds
+- Fixes a "no presets" warning not displaying in the chat
+- Fixes a bunch of weird settings interactions
+- Fixes issues with TTS for the System backend
+- UI performance improvements
 """
