@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "4e924723542055d29a45f2632d3ed5f345996e8a"
+commit = "aafe980204364a990649d8f52248811afc0e70a3"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.1.2.0]
-- Added node lookup by its header.
-- Added highlighting for in-edges, using color red.
+Bozja Buddy [1.1.3.0]
+- Added Quest table.
+- Clicking a Quest chain selectable will pop up a new canvas containing a graph of said quest chain.
 
-- Adjustments to node's and viewer's GUI design.
-- Prepared some stuff for quests and quest chains.
-- Added AuxNode support for quests.
-- Quest chain also generates a node graph upon load.
+- Adjustment to some filter's algo in Lost Action table, Fate/CE table, Field note table.
 """
