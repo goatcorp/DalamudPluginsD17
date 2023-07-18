@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "1298e75c5e15a6596e8678e85b8f1bde926051bf"
+commit = "fc2fee682945e5b28544548b49b137448fb28993"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Added Dismantle to the list of captured status effects (thanks Speedas)
+Add BLU Bad Breath, Conked from Magic Hammer, and Candy Cane (new in 6.45) to the list of captures status effects. (Thanks xiashtra)
 """
