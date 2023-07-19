@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "32bf45ffc804de7364150ab7abeae5a5550c272b"
+commit = "6ac6e22857a110cc15ff401bd7a988a7ffc1a2b3"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.1"
+version = "1.6.1.2"
 changelog = """\
-- Bicolour gem vendors will now show up and any vendors with no name will be listed as "Unknown Vendor" instead of not appearing at all
-- Aetherial reduction will let you pick the item to reduce and will be factored into the craft
-- Craft window splitter should be easier to see
-- Gathering uptime text in the craft window will be red if it's down, green if it's up
+- Company Craft phases should now show/switch correctly
+- Add reduction data for 6.45 + previously missing reduction items
+- Fix a crash that could occur on plugin unload
+- Added a HQ Item count IPC method(thanks Taurenkey)
 """
