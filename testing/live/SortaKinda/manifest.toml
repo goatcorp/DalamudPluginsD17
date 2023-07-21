@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/SortaKinda.git"
-commit = "0af62d043c6a95e22bf78eb6447d8debacfbf5ed"
+commit = "be22c6b127ba45d3a8cb4c25274b2595c0aa1f4c"
 owners = ["MidoriKami"]
 project_path = "SortaKinda"
