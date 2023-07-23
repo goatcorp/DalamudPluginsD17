@@ -1,13 +1,15 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "4005a950471307708c963b12d8bb89ece6bcfa4e"
+commit = "a6f7b6de88c89cd3ceb0f261749e893f67157f84"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.11"
+version = "1.6.1.3"
 changelog = """\
-Add search filter to acqusition icons column
-Remove unrequired logging
-Update lumina supplemental(Thanks to Emma for the mob spawn data)
+- The acquisition icon column will display in a slightly nicer order(at least until it's configurable)
+- Fixed the way in which shop locations are grouped (KiwiKahawai)
+- Fixes to marked items as properly returned (rather than still used) (KiwiKahawai)
+- Solves issues with items not appearing in filters if HQ required is set (KiwiKahawai)
+- Minor changes to CriticalCommonLib to help support other plugins using it
 """
