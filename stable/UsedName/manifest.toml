@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "a212c0719c5a344e2086fcf63d7527d7f392474d"
+commit = "299037f9b54fb6937fbaaa47a49a446de8c4597d"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- a tiny description enhancement
-- fix cannot load data after change Dalamud location
+- fix cannot read data
+- fix actual behavior is inconsistent with the description
+- add PlayerSearch button back
+- Fix sometimes UI crashes
+- Fix use Right click to add nickname may failed
 """
