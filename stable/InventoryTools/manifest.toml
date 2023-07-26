@@ -1,15 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "a6f7b6de88c89cd3ceb0f261749e893f67157f84"
+commit = "a9df0be1c6f1499198a724bcdf36422f240ad6f2"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.3"
+version = "1.6.1.4"
 changelog = """\
-- The acquisition icon column will display in a slightly nicer order(at least until it's configurable)
-- Fixed the way in which shop locations are grouped (KiwiKahawai)
-- Fixes to marked items as properly returned (rather than still used) (KiwiKahawai)
-- Solves issues with items not appearing in filters if HQ required is set (KiwiKahawai)
-- Minor changes to CriticalCommonLib to help support other plugins using it
+New Features:
+- Craft Completion Mode: Can choose to delete or leave items on completion
+- Completed items will show a red X allowing for quickly removing them from a list
+- The craft list "To Craft" list can now be shown as tabs or as it currently is(a giant table)
+Fixes:
+- Removing a craft item will be more consistent
+- Completed items will show as "Completed" instead of "Waiting"
+- When collapsing/expanding the "To Craft" and "Items in Retainers/Bags" sections, the table layout should stay consistent
+- Output items were not checking against the HQRequireds list(Kiwikahawai)
 """
