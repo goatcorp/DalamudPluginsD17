@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/BitsOfAByte/GoodFriend.git"
+repository = "https://github.com/Blooym/GoodFriend.git"
 commit = "360c0bfa1c4be11151f3c3771c0c5169b9090485"
 owners = [
     "Blooym",
