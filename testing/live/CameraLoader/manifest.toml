@@ -1,14 +1,20 @@
 [plugin]
-repository = "https://github.com/NeNeppie/CameraLoader.git"
-commit = "400fd68b9bd2f2dfc6824dd874c3aed8734f51b2"
+repository = "https://github.com/NeNeppie/LightsCameraAction.git"
+commit = "adb8ba4e0592f632928ccd330ae70b5c3bbbb142"
 owners = ["NeNeppie"]
 project_path = "CameraLoader"
 changelog = """
-Camera Loader v0.1.4.1:
-- Overhauled the UI.
- - Fixed a bug where presets would close/open if their order was changed.
- - Everything has been made more compact and organized.
- - The window's height is automatically adjusted to fit its contents (Feedback on that is appreciated).
-- Added a settings tab.
- - Initial settings include locking the window's position & width when undocked.
+**Camera Loader -> Lights, Camera, Action! v0.2.0.0:**
+- Added support for lighting presets!
+ - Found under the new Lighting tab.
+ - Highly experimental feature. Do report any bugs you encounter.
+ - Happy GPosing!
+- Renamed plugin to match its new, expanded scope
+ - Formerly known as 'Camera Loader'
+ - Previously saved presets will (should) not be lost.
+ - Updated icon.
+**Known Issues:**
+- Loaded lighting presets are not reflected in the game UI. Updating the UI will reset certain values, like light color and type.
+- The plugin window's height on resolutions excluding 2K is a bit off.
+- Certain elements are not reset when moving between tabs.
 """
