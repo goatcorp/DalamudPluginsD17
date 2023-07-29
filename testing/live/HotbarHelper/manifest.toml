@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kiwikahawai/HotbarHelper.git"
-commit = "98564594a109325a1e0c19b6e4a22bafceda3904"
+commit = "cbc3efa651fc5694026cd9d099bad23d715afbaf"
 owners = [
     "kiwikahawai",
 ]
