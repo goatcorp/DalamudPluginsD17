@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "926fd51ff22bc444524bb936b5da127fa98ea64c"
+owners = [
+	"Glyceri",
+]
+project_path = "PetRenamer"
+changelog = """
++ Rewrite Pet Renamer Plugin
++ Clear all Names option
++ Disable Name Display option
+"""
