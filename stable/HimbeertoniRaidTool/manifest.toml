@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "e72c23d3586cc9e8a428ce29bb3ee97f125a1f51"
+commit = "db8a4175507b3e8411afae0da6d6fd7b68cc57ff"
 changelog = """
 Ui: You can now manage jobs directly in solo and detail view
 Ui: Old Examine button is now Quick Compare
