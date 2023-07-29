@@ -2,11 +2,12 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "804a48afd56bce1d350458777a8b8de597c7d96d"
+commit = "e72c23d3586cc9e8a428ce29bb3ee97f125a1f51"
 changelog = """
-Loot session: Added rule "Can use now" (Tome Upgrades)
-Loot session: Added rule "Can buy" (requires you to track the books correctly)
-Gear: You can now delete gear sets
-Database: Remove unused entries (old gear sets and characters)
-Etro.gg: Import crafted items as HQ again  (broken since 1.2.x)
-General: Fix extremly rare crash on startup"""
+Ui: You can now manage jobs directly in solo and detail view
+Ui: Old Examine button is now Quick Compare
+LootRule: Fixed "Can Buy"
+Options: reworked Ui for loot rules
+LootSession: You can ignore players/jobs based on certain rules
+LootMaster: you can now edit name + role priority for the Solo group        
+Translation: Updated French translation (Thanks to Arganier)"""
