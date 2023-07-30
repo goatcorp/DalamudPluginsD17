@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0cec7efbe8e9ff02e17a2aeb089bc32a16d5026c"
+commit = "be44543af6417d7bbc6ecaa89a79ab69c07d5882"
 owners = [
 	"Glyceri",
 ]
@@ -9,4 +9,5 @@ changelog = """
 + Added support for subcommands (AKA: if a command is called /petname you can add multiple extra commands that will call the same code. For example: /minionname)
 + (AFAIK) Renamed all instances of pet to minion.
 + Added a little info spot that informs users to look away or resummon the pet to apply the name changes.
++ Updated version number........................
 """
