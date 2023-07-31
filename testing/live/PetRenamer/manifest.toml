@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "be44543af6417d7bbc6ecaa89a79ab69c07d5882"
+commit = "0de852c76eb748b5f78ae0e79ffa401e973818cb"
 owners = [
 	"Glyceri",
 ]
 project_path = "PetRenamer"
 changelog = """
-+ Added support for subcommands (AKA: if a command is called /petname you can add multiple extra commands that will call the same code. For example: /minionname)
-+ (AFAIK) Renamed all instances of pet to minion.
-+ Added a little info spot that informs users to look away or resummon the pet to apply the name changes.
-+ Updated version number........................
++ Name will now filter out weird characters, warn the user and NOT apply them so their game wont crash. Yes... youre welcome
++ Upon clearing all or a single name, resummoning or looking away and back to a pet will change their name again.
 """
