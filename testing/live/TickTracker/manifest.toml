@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "caabd00bc79bf2e0487810eb79154a3809667f3d"
+commit = "dd2033c83922cc5ded3cc3b26a37bd352a86e36e"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
-changelog = "Initial release"
+changelog = "Separate bars for HP and MP with their own ticks, and the ability to hide either bar."
