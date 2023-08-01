@@ -4,8 +4,6 @@ commit = "4bfced2eb55faef1177b844cc20a90de48482b7b"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.4.2
-- Node graph viewer
-- Relic guide
-- Quest and Quest chains
+Bozja Buddy 1.1.5.0
+- Added farm tab
 """
