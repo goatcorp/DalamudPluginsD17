@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "f57532657da1f3f95ed6682bac141476f1391546"
+commit = "517ff1f4e5f164a4a627a00cc2aae7aee25a9af6"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Color Picker, Streamlined UX, Prep for stable release."
+changelog = "Customisable Chat output stream, Config cleanup"
