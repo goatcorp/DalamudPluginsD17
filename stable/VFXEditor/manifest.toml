@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/0ceal0t/Dalamud-VFXEditor.git"
-commit = "2b844327703daa49724d7367f0e4bfe818fcca20"
+commit = "fc2ffe99ddc87abd63917ef17067fb2084e34eab"
 owners = [
     "0ceal0t",
 ]

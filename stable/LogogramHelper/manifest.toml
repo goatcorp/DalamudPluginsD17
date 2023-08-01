@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "ea5fc891747e76977c87f1fb72815212cf232403"
+commit = "ccfcc07c4dec82dc7d77c3f0d3afb1d6c5814a24"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Fixed recipe for Cure L III
+- Added text input for filtering logos actions by name
 """

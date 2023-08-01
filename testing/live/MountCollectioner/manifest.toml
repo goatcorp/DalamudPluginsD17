@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Samuelkaa/MountCollectioner.git"
+commit = "591ee6e48517f8b3bc5e60b543a3aba5867c4c13"
+owners = ["Samuelkaa"]
+project_path = "MountCollectioner"

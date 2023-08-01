@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "0de852c76eb748b5f78ae0e79ffa401e973818cb"
+owners = [
+	"Glyceri",
+]
+project_path = "PetRenamer"
+changelog = """
++ Name will now filter out weird characters, warn the user and NOT apply them so their game wont crash. Yes... youre welcome
++ Upon clearing all or a single name, resummoning or looking away and back to a pet will change their name again.
+"""
