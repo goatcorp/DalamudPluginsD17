@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0de852c76eb748b5f78ae0e79ffa401e973818cb"
+commit = "5c99e9236b56adb157474ec1bc317c9d0afa1f41"
 owners = [
 	"Glyceri",
 ]
 project_path = "PetRenamer"
 changelog = """
-+ Name will now filter out weird characters, warn the user and NOT apply them so their game wont crash. Yes... youre welcome
-+ Upon clearing all or a single name, resummoning or looking away and back to a pet will change their name again.
++ Added the /minion list command. This will show you an overview of all the minions you have nicknamed with quick access to adding, removing and/or renaming them.
++ Save system has been updated to a new format, saving nicknames to a user instead of nicknames as a whole (this will be used later). Don't worry, your old nicknames won't get lost. There is a legacy system in place that will convert your old save file to the new save file system.
++ Renamed the final instance of pet to minion (except for the plugin title, I will keep it like that).
 """
