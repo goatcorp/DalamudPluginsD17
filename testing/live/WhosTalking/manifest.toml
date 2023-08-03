@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "f98d9874f0d804a75b222eff70db92aeac113a0a"
+commit = "fab81eb0ab64842c889c2b56972264429f2c921d"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Fixes a crash when you have a Chocobo summoned and are in a party.
+Added (partial) support for alliance raids!
 
-Thank you thakyZ for reporting this!
+You'll only see voice activity indicators for other alliances if you formed the raid via Party Finder – this is mostly intentional, since you're unlikely to be in a Discord call with anyone you got matched with by Duty Finder. (The indicators should always appear for your own alliance, regardless of how you entered the duty, so queueing with friends will hopefully keep working the same as it used to.)
+
+This is very experimental and not well-tested! If you run into issues (indicators not appearing when or where they should, or indicators in places they shouldn't be, or anything else weird), send feedback via the plugin installer or tag me in #plugins-general with details and a screenshot :)
 """
