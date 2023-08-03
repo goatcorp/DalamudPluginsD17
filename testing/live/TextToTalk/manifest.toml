@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "1f410c617e5534339b68e6aaee60394ee952e981"
+commit = "99f7c4f2ec3adc00bb23fb1ad6babecf023fd3bc"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes Azure voice playback rates
+- Fixes compatibility issues in VoiceUnlocker
+- Adds Cortana voices to the \"Don't see all of your voices?\" button
 """
