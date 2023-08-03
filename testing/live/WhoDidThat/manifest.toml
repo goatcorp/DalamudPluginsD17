@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "517ff1f4e5f164a4a627a00cc2aae7aee25a9af6"
+commit = "c21cde757552b7862c31dca45b01494f250985e0"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Customisable Chat output stream, Config cleanup"
+changelog = "Window Size Edits, Color Picker is now sorted"
