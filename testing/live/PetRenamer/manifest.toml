@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "5c99e9236b56adb157474ec1bc317c9d0afa1f41"
+commit = "ced14a1d62e9eef91ec7cd0a705403e34ffaf639"
 owners = [
 	"Glyceri",
 ]
 project_path = "PetRenamer"
 changelog = """
-+ Added the /minion list command. This will show you an overview of all the minions you have nicknamed with quick access to adding, removing and/or renaming them.
-+ Save system has been updated to a new format, saving nicknames to a user instead of nicknames as a whole (this will be used later). Don't worry, your old nicknames won't get lost. There is a legacy system in place that will convert your old save file to the new save file system.
-+ Renamed the final instance of pet to minion (except for the plugin title, I will keep it like that).
++ Fixed log spam... sorry
++ Names with all kinds of symbols are now allowed!
++ UI Style changes! The UI should look a lot more appealing now. You can toggle it off in /minionconfig
++ Support for importing and exporting minion name lists. (=) means the minion has stayed the same. (+) means the minion is added newly. (O) means the minions name will be overwritten. 
++ Not yet shown is when a minion gets deleted. Sorry, this will be shown in a future update.
++ If you import a preset from another player (Yes, this should also work perfectly fine) their minion nicknames will now show in game. 
++ This system is not yet compatible with /minionname or /minionlist.
++ [Please let me know of any issues with the new systems. I am unaware of any current issues, so I would like to know when they pop up.]
 """
