@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "7f7666de28f1f9b4f65a1b613de65c31b4101095"
+commit = "ced14a1d62e9eef91ec7cd0a705403e34ffaf639"
 owners = [
 	"Glyceri",
 ]
 project_path = "PetRenamer"
 changelog = """
 + Fixed log spam... sorry
++ Names with all kinds of symbols are now allowed!
 + UI Style changes! The UI should look a lot more appealing now. You can toggle it off in /minionconfig
 + Support for importing and exporting minion name lists. (=) means the minion has stayed the same. (+) means the minion is added newly. (O) means the minions name will be overwritten. 
 + Not yet shown is when a minion gets deleted. Sorry, this will be shown in a future update.
