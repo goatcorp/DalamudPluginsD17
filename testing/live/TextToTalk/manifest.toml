@@ -5,5 +5,5 @@ project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
 - Fixes compatibility issues in VoiceUnlocker
-- Adds Cortana voices to the "Don't see all of your voices?" button
+- Adds Cortana voices to the \"Don't see all of your voices?\" button
 """
