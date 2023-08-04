@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/kiwikahawai/IsleSearch.git"
-commit = "e1f8838b8ebe0d4528eb199cc139bd00dae7aeb7"
+commit = "9f262d2fe20c6793399404cc10ebc65042cee06b"
 owners = [
     "kiwikahawai",
 ]
 project_path = "IsleSearch"
-version = "0.0.1.0"
+version = "0.0.1.1"
 changelog = """\
 **IsleSearch (initial release)**
 - Comes from the wonderful suggestion by Gidedin (https://discord.com/channels/581875019861328007/685275026156683280/1136621420487647332)
