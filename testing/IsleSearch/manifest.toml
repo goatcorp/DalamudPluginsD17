@@ -1,6 +1,6 @@
 [plugin]
-repository = https://github.com/kiwikahawai/IsleSearch.git
-commit = e1f8838b8ebe0d4528eb199cc139bd00dae7aeb7
+repository = "https://github.com/kiwikahawai/IsleSearch.git"
+commit = "e1f8838b8ebe0d4528eb199cc139bd00dae7aeb7"
 owners = [
     "kiwikahawai",
 ]
