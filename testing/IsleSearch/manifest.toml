@@ -2,7 +2,7 @@
 repository = https://github.com/kiwikahawai/IsleSearch.git
 commit = e1f8838b8ebe0d4528eb199cc139bd00dae7aeb7
 owners = [
-    "KiwiKahawai",
+    "kiwikahawai",
 ]
 project_path = "IsleSearch"
 version = "0.0.1.0"
