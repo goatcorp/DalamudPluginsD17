@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "c21cde757552b7862c31dca45b01494f250985e0"
+commit = "c84c52218ab8e7bc52080247dec7a0e2e50031b9"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Window Size Edits, Color Picker is now sorted"
+changelog = "Color Picker Bugfixes"
