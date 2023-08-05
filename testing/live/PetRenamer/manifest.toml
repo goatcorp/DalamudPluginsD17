@@ -1,17 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "ced14a1d62e9eef91ec7cd0a705403e34ffaf639"
+commit = "980a0ec3bbfbab43973a3acdcd7eeef0b9476419"
 owners = [
 	"Glyceri",
 ]
-project_path = "PetRenamer"
-changelog = """
-+ Fixed log spam... sorry
-+ Names with all kinds of symbols are now allowed!
-+ UI Style changes! The UI should look a lot more appealing now. You can toggle it off in /minionconfig
-+ Support for importing and exporting minion name lists. (=) means the minion has stayed the same. (+) means the minion is added newly. (O) means the minions name will be overwritten. 
-+ Not yet shown is when a minion gets deleted. Sorry, this will be shown in a future update.
-+ If you import a preset from another player (Yes, this should also work perfectly fine) their minion nicknames will now show in game. 
-+ This system is not yet compatible with /minionname or /minionlist.
-+ [Please let me know of any issues with the new systems. I am unaware of any current issues, so I would like to know when they pop up.]
+	@@ -11,4 +11,5 @@ changelog = """
++ Rewrote the naming process to be WAY more stable. Seeing others people's names should work better now.
+If not. Please relog. After a relog names should always update.
++ If you get the name '[Error] Contact Glyceri' please do contact me. This means I have overlooked a pet that you can rename and I would like to add it :D
++ Fixed some oopsies so the /petlist window doesnt spawn open, and non summoner and Scholar pets wont be named [Error] Contact: Glyceri anymore.
 """
