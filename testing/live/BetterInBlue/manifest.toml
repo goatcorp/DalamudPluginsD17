@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/NotNite/BetterInBlue.git"
+commit = "299486f95e3a229cf22418f47fa41be36a60ab51"
+owners = ["NotNite"]
+project_path = "BetterInBlue"
