@@ -4,7 +4,7 @@ commit = "980a0ec3bbfbab43973a3acdcd7eeef0b9476419"
 owners = [
 	"Glyceri",
 ]
-	@@ -11,4 +11,5 @@ changelog = """
+	changelog = """
 + Added support for renaming your Carbuncle and Faerie.
 + Added a new theme to indicate that you are now renaming a Battle Pet compared to a Minion.
 + Rewrote the naming process to be WAY more stable. Seeing others people's names should work better now.
