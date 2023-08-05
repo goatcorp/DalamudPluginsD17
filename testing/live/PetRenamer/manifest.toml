@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "a89a163636304553756be34834b25952cb8284ed"
+commit = "980a0ec3bbfbab43973a3acdcd7eeef0b9476419"
 owners = [
 	"Glyceri",
 ]
@@ -11,4 +11,5 @@ changelog = """
 + Rewrote the naming process to be WAY more stable. Seeing others people's names should work better now.
 If not. Please relog. After a relog names should always update.
 + If you get the name '[Error] Contact Glyceri' please do contact me. This means I have overlooked a pet that you can rename and I would like to add it :D
++ Fixed some oopsies so the /petlist window doesnt spawn open, and non summoner and Scholar pets wont be named [Error] Contact: Glyceri anymore.
 """
