@@ -1,12 +1,15 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "980a0ec3bbfbab43973a3acdcd7eeef0b9476419"
+commit = "9cd2633772be047b523f4a4dfa8e090ce3385cff"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.0.2]
++ Added support for: Esteem and Automaton Queen
++ [0.4.0.1]
 + Added support for renaming your Carbuncle and Faerie.
 + Added a new theme to indicate that you are now renaming a Battle Pet compared to a Minion.
 + Rewrote the naming process to be WAY more stable. Seeing others people's names should work better now.
-If not. Please relog. After a relog names should always update.
++ If not. Please relog. After a relog names should always update.
 """
