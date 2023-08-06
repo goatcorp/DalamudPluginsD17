@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/kiwikahawai/HotbarHelper.git"
-commit = "ed6da506f9676bdb511b20774badd69ee0f7d011"
+commit = "aa6936d4c601fdd16270a91eb9a169aeadaec6cb"
 owners = [
     "kiwikahawai",
 ]
 project_path = "HotbarHelper"
-version = "0.0.1.1"
+version = "0.0.1.2"
 changelog = """\
 **HotbarHelper (initial release)**
 - Searches your hotbars as you use them for missing actions and useful actions like Limit Break
