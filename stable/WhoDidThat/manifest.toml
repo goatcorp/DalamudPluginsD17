@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "c84c52218ab8e7bc52080247dec7a0e2e50031b9"
+commit = "7cfb7a6483520034ce2d13f6c13069f1c40690e9"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Color Picker Bugfixes"
+changelog = "Migration to Stable"
