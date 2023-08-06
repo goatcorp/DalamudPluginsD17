@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "fab81eb0ab64842c889c2b56972264429f2c921d"
+commit = "1f0424647f7fa6bde4074da1e0218cb04a811ede"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Added (partial) support for alliance raids!
+Added an option to display a list of people who are speaking but aren't in your party. (This is enabled by default; you can turn it off in the plugin config.)
 
-You'll only see voice activity indicators for other alliances if you formed the raid via Party Finder – this is mostly intentional, since you're unlikely to be in a Discord call with anyone you got matched with by Duty Finder. (The indicators should always appear for your own alliance, regardless of how you entered the duty, so queueing with friends will hopefully keep working the same as it used to.)
+In the future I hope to add additional location options for this display. Let me know via the plugin installer or in Discord if you'd like something specific, or if the placement looks weird with your HUD layout.
 
-This is very experimental and not well-tested! If you run into issues (indicators not appearing when or where they should, or indicators in places they shouldn't be, or anything else weird), send feedback via the plugin installer or tag me in #plugins-general with details and a screenshot :)
+Additionally, fixed an issue where manual assignments would not be properly prioritised over auto-detected Discord/XIV matches.
 """
