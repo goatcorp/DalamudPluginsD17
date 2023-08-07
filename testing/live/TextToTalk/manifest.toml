@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "1f410c617e5534339b68e6aaee60394ee952e981"
+commit = "bcb71ffa89e970c7b762c192c60fea32e0127f8c"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes Azure voice playback rates
+- Fix Windows 11 compatibility issues in VoiceUnlocker
 """

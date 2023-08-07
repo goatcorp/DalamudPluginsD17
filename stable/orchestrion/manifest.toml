@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lmcintyre/OrchestrionPlugin.git"
-commit = "4d8e1da50f2c11503a5987e94d635c421e9af9af"
+commit = "c021f773beb2db84db0440034b4febad3dd72793"
 owners = [
     "lmcintyre",
 ]

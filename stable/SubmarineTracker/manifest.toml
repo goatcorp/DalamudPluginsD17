@@ -1,10 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "cc2755d0e7f9470f42943e4271b579ccbda27f15"
+commit = "e8a52fcee5d5220b7b00d694755417705765d81e"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
-changelog = """
-+ Disable option to unminimize overlay on startup
-"""

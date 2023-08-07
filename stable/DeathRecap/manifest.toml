@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "522782d58784d86e8d95d67dd30033dee34aa8d7"
+commit = "fc2fee682945e5b28544548b49b137448fb28993"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed recap DoT values being *slightly* inaccurate
+Add BLU Bad Breath, Conked from Magic Hammer, and Candy Cane (new in 6.45) to the list of captures status effects. (Thanks xiashtra)
 """

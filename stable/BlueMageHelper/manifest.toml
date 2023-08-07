@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BlueMageHelper.git"
-commit = "77c728579772d1c94c800596334028a255c5acaf"
+commit = "dadabbd9c4820b2291d483d24eef56583b73b7b6"
 owners = [
     "Infiziert90",
 ]
 project_path = "BlueMageHelper"
-changelog = """
-+ Added Teleport support (requires teleport plugin)
-+ Finished adding all additional locations
-+ Added About tab into the config
-"""

@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "3f5f8a23dcd65b8e996d0f2da3cb65f040b2b6c8"
+commit = "1f0424647f7fa6bde4074da1e0218cb04a811ede"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Add ability to manually set Discord usernames for characters (many thanks to Archon for implementing this!)
+Added an option to display a list of people who are speaking but aren't in your party. (This is enabled by default; you can turn it off in the plugin config.)
 
-  Head into the plugin settings and click "Advanced Individual Assignments" to set this up.
+In the future I hope to add additional location options for this display. Let me know via the plugin installer or in Discord if you'd like something specific, or if the placement looks weird with your HUD layout.
+
+Additionally, fixed an issue where manual assignments would not be properly prioritised over auto-detected Discord/XIV matches.
 """
