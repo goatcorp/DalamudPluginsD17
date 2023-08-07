@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "cc8dd9a7c44885c1536bf6bc288023a093e3de1f"
+commit = "7bfac83a09ac9d827b2e7b2f2d2b42d1b6928c8f"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.2.0]
++ New hook based system, and fixed Chocobo bug. Should overall feel smoother.
 + [0.4.1.0]
 + Added Ipc endpoints. You won't even notice it, but this plugin can do great stuffs soon.
 + New save file system. The old system caused giant save file sizes (giant I don't really mean giant, but this is definitely HEAPS smaller)
