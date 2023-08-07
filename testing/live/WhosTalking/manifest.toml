@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "1f0424647f7fa6bde4074da1e0218cb04a811ede"
+commit = "02937d57e416a9611ee7c475a2236daa3ed930b4"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Added an option to display a list of people who are speaking but aren't in your party. (This is enabled by default; you can turn it off in the plugin config.)
+Added an option in the settings to disable the yellow outline for characters who haven't been matched to a user on Discord.
 
-In the future I hope to add additional location options for this display. Let me know via the plugin installer or in Discord if you'd like something specific, or if the placement looks weird with your HUD layout.
-
-Additionally, fixed an issue where manual assignments would not be properly prioritised over auto-detected Discord/XIV matches.
+Also fixed several bugs to do with chocobos (and probably other kinds of summon).
 """
