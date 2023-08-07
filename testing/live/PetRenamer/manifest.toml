@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9cd2633772be047b523f4a4dfa8e090ce3385cff"
+commit = "cc8dd9a7c44885c1536bf6bc288023a093e3de1f"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.1.0]
++ Added Ipc endpoints. You won't even notice it, but this plugin can do great stuffs soon.
++ New save file system. The old system caused giant save file sizes (giant I don't really mean giant, but this is definitely HEAPS smaller)
++ Don't worry, your old nicknames will convert to the new system (I hope)
++ Rewrote old Utils code to definitely be faster and finally be singleton based.
 + [0.4.0.2]
 + Added support for: Esteem and Automaton Queen
 + [0.4.0.1]
