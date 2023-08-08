@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "bd0e8589adedf5edeff81b530ba5ebc252737528"
+commit = "7e6660a1d8e0760afa67394088f4d674b5de0dc5"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.5.0
-- Added farm tab
+Bozja Buddy 1.1.5.1
+- Attempt to fix GetAddonByName() crashes on log out.
 """
