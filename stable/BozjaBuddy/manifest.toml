@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "bd0e8589adedf5edeff81b530ba5ebc252737528"
+commit = "e7c09652f0c18ae87d7673c0cc09de3619bf5850"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.5.0
-- Added farm tab
+Bozja Buddy 1.1.5.2
+- Add null check for GetAddonName() in GuiScrapper.
+- Move GuiScrapper to main thread.
 """
