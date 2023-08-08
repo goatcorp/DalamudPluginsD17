@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "7cfb7a6483520034ce2d13f6c13069f1c40690e9"
+commit = "5206fe2cbd0913e27bde10d83fe636c5616a2b4d"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Migration to Stable"
+changelog = "Minor Config Edits"
