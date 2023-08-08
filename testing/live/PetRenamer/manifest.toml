@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "7bfac83a09ac9d827b2e7b2f2d2b42d1b6928c8f"
+commit = "f81195375898117bfb9ab0c208fda8710478a54d"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.2.1]
++ Fixed an issue where the /petname command didn't properly detect you had the Esteem and Automaton Queen pets out.
++ You can always rename them using /petlist,/minionlist,/petnames or /minionnames.
 + [0.4.2.0]
 + New hook based system, and fixed Chocobo bug. Should overall feel smoother.
 + [0.4.1.0]
@@ -12,11 +15,4 @@ owners = [
 + New save file system. The old system caused giant save file sizes (giant I don't really mean giant, but this is definitely HEAPS smaller)
 + Don't worry, your old nicknames will convert to the new system (I hope)
 + Rewrote old Utils code to definitely be faster and finally be singleton based.
-+ [0.4.0.2]
-+ Added support for: Esteem and Automaton Queen
-+ [0.4.0.1]
-+ Added support for renaming your Carbuncle and Faerie.
-+ Added a new theme to indicate that you are now renaming a Battle Pet compared to a Minion.
-+ Rewrote the naming process to be WAY more stable. Seeing others people's names should work better now.
-+ If not. Please relog. After a relog names should always update.
 """
