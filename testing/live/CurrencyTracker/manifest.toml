@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
+commit = "eff655c21df0d1d61b487573fd7badb32144c311"
+owners = ["AtmoOmen"]
+project_path = "CurrencyTracker"
+changelog = "Added mutiple languages support(English)"
