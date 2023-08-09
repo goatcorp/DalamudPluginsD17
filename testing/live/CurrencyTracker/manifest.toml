@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "3e158860a27da5926123de0b18c09aeb2bca5513"
+commit = "82a085a567031cc6c3497eef5615d9cfbff9c165"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "Added mutiple languages support(English)"
+changelog = "Fixed the issue that the main interface could not be loaded properly when opening the settings interface in unsupported languages"
