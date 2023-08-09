@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Samuelkaa/MountCollectioner.git"
-commit = "591ee6e48517f8b3bc5e60b543a3aba5867c4c13"
+commit = "0fd3234b15ee6ee51fa65a0067db9e67c1d1c83b"
 owners = ["Samuelkaa"]
 project_path = "MountCollectioner"
