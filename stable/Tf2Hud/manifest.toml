@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "3b5b0c64f6963e9c999502f56fc8d9c6fc13eee1"
+commit = "c28f1181443d57fc6374d81b7ad8369a8d01cbcd"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
 [General]
-Add failsafe if Dalamud thinks a Windows user is under Linux.
+- Add failsafe if Dalamud thinks a Windows user is under Linux.
+- Add chat message if the TF2 installation folder could not be autodetected.
 
 (Thanks to AlexFlipnote for the report!)
 """
