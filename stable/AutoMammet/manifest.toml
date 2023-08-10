@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Rietty/AutoMammet.git"
-commit = "7d5644570171df6d1ecc75a30393f80adf3bf490"
+commit = "74402b9919f617d00c8c9ca4b3252d0466a408ac"
 owners = ["Rietty"]
 project_path = "/AutoMammet"
-changelog = "Resolve a small issue with an incorrect offset, account for new crafts added. Everything should match now."
+changelog = "Fix user reported offset error that occured in sections I do not have access to in island data yet."

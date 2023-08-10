@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "f83877ba6a748f7eb8ef2f48ab9445a6f053ead8"
+commit = "ccfcc07c4dec82dc7d77c3f0d3afb1d6c5814a24"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Fixed for 6.4
-- Updated description for changed Logos Actions.
+- Added text input for filtering logos actions by name
 """

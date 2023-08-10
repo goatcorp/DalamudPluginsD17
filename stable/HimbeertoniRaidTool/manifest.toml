@@ -2,9 +2,12 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "e605727cf536ad8f1dd8a80332edf4b2520184ba"
+commit = "db8a4175507b3e8411afae0da6d6fd7b68cc57ff"
 changelog = """
-Fix: Mutiple characters unintentionally sharing gearsets
-LootSession: Rings can now be assigned to a slot explicitly
-Ui: Added button to update BiS in group overview
-BiS: Always update empty sets (with valid ID) at startup"""
+Ui: You can now manage jobs directly in solo and detail view
+Ui: Old Examine button is now Quick Compare
+LootRule: Fixed "Can Buy"
+Options: reworked Ui for loot rules
+LootSession: You can ignore players/jobs based on certain rules
+LootMaster: you can now edit name + role priority for the Solo group        
+Translation: Updated French translation (Thanks to Arganier)"""

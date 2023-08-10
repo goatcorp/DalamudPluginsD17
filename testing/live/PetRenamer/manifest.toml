@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "7af7f6310594314cc0e125c56d72fc1483851447"
+owners = [
+	"Glyceri",
+]
+	changelog = """
++ [0.4.2.2]
++ Added more hooks! Your pet name will now also show in your party list, target bar, focus target bar and target of target bar.
++ This implementation is VERY shotty and thus I will push a proper rewrite sometimes soon.
++ [0.4.2.1]
++ Fixed an issue where the /petname command didn't properly detect you had the Esteem and Automaton Queen pets out.
++ You can always rename them using /petlist,/minionlist,/petnames or /minionnames.
++ [0.4.2.0]
++ New hook based system, and fixed Chocobo bug. Should overall feel smoother.
+"""
