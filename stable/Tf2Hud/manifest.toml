@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "bb4cf2ba388d77e747462663bbbc0c9d1982b77f"
+commit = "c28f1181443d57fc6374d81b7ad8369a8d01cbcd"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
-[Win Panel]
-- Fix scores table overflowing when there's too much data. (Thanks HuiEtyud for another bug report!)
+[General]
+- Add failsafe if Dalamud thinks a Windows user is under Linux.
+- Add chat message if the TF2 installation folder could not be autodetected.
+
+(Thanks to AlexFlipnote for the report!)
 """
