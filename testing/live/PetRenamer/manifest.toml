@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "871a95aafaaffd9975d79b76c3e0ec0e3fe9109d"
+commit = "c2b9f7582e09e616a491376e45d038b747f5242f"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.3.0]
++ Added a right click menu on your pets to open the nickname window.
+This is togglable in /petconfig,/minionconfig
 + [0.4.2.4]
 + Fixed target of target not working on minions.
 (If this version doesn't have any issues for a week, I will push this to Stable :D)
