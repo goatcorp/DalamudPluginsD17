@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "37962c666016b777647fb70e14dc1cae7866d0c9"
+commit = "871a95aafaaffd9975d79b76c3e0ec0e3fe9109d"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
- + [0.4.2.3]
++ [0.4.2.4]
++ Fixed target of target not working on minions.
+(If this version doesn't have any issues for a week, I will push this to Stable :D)
++ [0.4.2.3]
 + BIG FAT SORRY TO EVERYONE!
 + Fixed a bug where healthbars wouldnt update properly anymore.
 + Fixed a bug where 2 pets of the same type with each their own custom nickname would take over each others nicknames.
@@ -14,7 +17,4 @@ owners = [
 + [0.4.2.2]
 + Added more hooks! Your pet name will now also show in your party list, target bar, focus target bar and target of target bar.
 + This implementation is VERY shotty and thus I will push a proper rewrite sometimes soon.
-+ [0.4.2.1]
-+ Fixed an issue where the /petname command didn't properly detect you had the Esteem and Automaton Queen pets out.
-+ You can always rename them using /petlist,/minionlist,/petnames or /minionnames.
 """
