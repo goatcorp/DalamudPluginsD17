@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "c84f850984a7aa6409f7501adfada61759784d07"
+commit = "4712f47632a5b02a728f4da556bb43e8d34da53c"
 owners = [
     "Infiziert90",
 ]
