@@ -3,8 +3,8 @@ repository = "https://github.com/erroch/FFXIVRPEventCalendarPlugin.git"
 commit = "5983f812d15b2c3b01e43c1c7c6cf4661f315e53"
 owners = ["erroch"]
 project_path = "FFXIVRPEventCalendarPlugin"
-changelog = "
+changelog = """
 2023.08.09
 - Fixed improper icon.
 - Added 'add event' and 'report event' links.
-"
+"""
