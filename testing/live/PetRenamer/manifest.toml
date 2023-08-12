@@ -1,23 +1,18 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "c2b9f7582e09e616a491376e45d038b747f5242f"
+commit = "a38c10a114ea1778d9afdc85c5340da04c0f2019"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.4.0]
++ The party list will now update your pets name (WITHOUT FLICKER :D)
++ Emotes will now show your custom pets name or another persons custom name!!
+This is togglable in /petconfig,/minionconfig
 + [0.4.3.0]
 + Added a right click menu on your pets to open the nickname window.
 This is togglable in /petconfig,/minionconfig
 + [0.4.2.4]
 + Fixed target of target not working on minions.
 (If this version doesn't have any issues for a week, I will push this to Stable :D)
-+ [0.4.2.3]
-+ BIG FAT SORRY TO EVERYONE!
-+ Fixed a bug where healthbars wouldnt update properly anymore.
-+ Fixed a bug where 2 pets of the same type with each their own custom nickname would take over each others nicknames.
-+ Completely removed the pointer based system.
-+ Due to a flicker issue I had to disable pet names in the party list. Do you still want to see/test it use /petconfig,/minionconfig to enable this setting. [DO NOT REPORT THE FLICKERING!]
-+ [0.4.2.2]
-+ Added more hooks! Your pet name will now also show in your party list, target bar, focus target bar and target of target bar.
-+ This implementation is VERY shotty and thus I will push a proper rewrite sometimes soon.
 """
