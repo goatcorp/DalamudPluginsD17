@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "a38c10a114ea1778d9afdc85c5340da04c0f2019"
+commit = "ae2f231ddcdd59a15bdef99ee7a456ff68674426"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.5.0]
++ Fixed some errors with the petlist
++ Your tooltips and info pannels will now show your custom pet name.
+This is togglable in /petconfig,/minionconfig
 + [0.4.4.0]
 + The party list will now update your pets name (WITHOUT FLICKER :D)
 + Emotes will now show your custom pets name or another persons custom name!!
@@ -12,7 +16,4 @@ This is togglable in /petconfig,/minionconfig
 + [0.4.3.0]
 + Added a right click menu on your pets to open the nickname window.
 This is togglable in /petconfig,/minionconfig
-+ [0.4.2.4]
-+ Fixed target of target not working on minions.
-(If this version doesn't have any issues for a week, I will push this to Stable :D)
 """
