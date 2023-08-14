@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "ae2f231ddcdd59a15bdef99ee7a456ff68674426"
+commit = "1a4abbac0458cf8f809e3b3c7eef35c136c4a36f"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [0.4.5.1]
++ Fixed an IPC error so DelvUI has full support. 
 + [0.4.5.0]
 + Fixed some errors with the petlist
 + Your tooltips and info pannels will now show your custom pet name.
