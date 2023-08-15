@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "82a085a567031cc6c3497eef5615d9cfbff9c165"
+commit = "aa7314c0e3c4d64c57228849ed38094633169265"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "Fixed the issue that the main interface could not be loaded properly when opening the settings interface in unsupported languages"
+changelog = "- Added a new field Location to transaction records, allowing you to track the location where the transaction occurred (Note: Data accuracy may vary / Existing data will be marked as unknown).\n- Implemented comprehensive multilingual support at the code level.\n- Added a time filtering feature, enabling you to display transactions within a specified time range.\n- Introduced a minimum recording threshold for in-duty records, reducing the occurrence of numerous small-value data entries when in-duty data tracking is enabled.\n- Added a custom currency tracking feature, allowing you to use the Currency Tracker to monitor changes in any in-game item or currency.\n- Included an option to open the data folder, allowing easy access to the folder where the transaction data for the current character is stored across different operating systems."
