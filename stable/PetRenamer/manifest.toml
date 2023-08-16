@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "e97f01ca20cba9dfddd6c4e7f66aef0023d25902"
+commit = "acaacf699bc4806c8f62a7e280ffe6f0bc05cddd"
 owners = ["Glyceri",]
 	changelog = """
+    + [1.0.1.0]
+    + Soft targets are now supported.
+    + Fixed some IPC end point issues.
     + [1.0.0.0] First full release of Pet Nicknames.
     + Give nicknames to your minions and pets using /petname,/minionname.
     + Custom nicknames will show on nameplates, target bars, party lists, tooltips and in emotes.
