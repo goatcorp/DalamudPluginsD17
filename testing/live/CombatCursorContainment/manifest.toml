@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Cytraen/CombatCursorContainment.git"
+commit = "5d88dc706b40beb0c38b3c9033d3aa1e8934027b"
+owners = ["Cytraen"]
+changelog = "Initial release"
