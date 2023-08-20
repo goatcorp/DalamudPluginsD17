@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "c62fb858dc457604c2a1d4970a156b00a83bb68d"
+commit = "5a2cc6f0cea74595ee5be2501d5bf2dfdeae48e9"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [0.3.5.1]
-- Added DRS/Community tab, showing suggestions to participate in DRS and related communities, as well as tips to DRS encounters.
-- Now show next to their name if a fragment is buyable with cluster.
-- Adjustments to helper pop up.
+Bozja Buddy [1.1.4.1]
+- Added Relic guide and tracking.
+- Adjustments with node graph viewer stuff.
 """

@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "aad5ab34bb207bd5d2513fa24bc3a10aea762ba6"
+owners = ["Glyceri",]
+	changelog = """
+    + [1.0.1.1]
+    + Actually fully fixed soft targeting.
+    + [1.0.0.0] First full release of Pet Nicknames.
+    + Give nicknames to your minions and pets using /petname,/minionname.
+    + Custom nicknames will show on nameplates, target bars, party lists, tooltips and in emotes.
+    + See a list of all your minionnames and petnames using /petnames,/minionnames.
+    + Share your petnames with others.
+    + Use /petconfig,/minionconfig for more in depth settings.
+    + This plugin is DelvUI compatible (Once they release the update on their side).
+"""

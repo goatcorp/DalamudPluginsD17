@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "7e2a30d6155dace594134996df4ae0f73550ff66"
+commit = "02937d57e416a9611ee7c475a2236daa3ed930b4"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Fix poorly-sized voice activity indicators at certain UI scales
+Added an option in the settings to disable the yellow outline for characters who haven't been matched to a user on Discord.
+
+Also fixed several bugs to do with chocobos (and probably other kinds of summon).
 """

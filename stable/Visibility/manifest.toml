@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "5b4cec4c9e3530a4f8d411f69c3e3476d26aa718"
-changelog = "- Fixed context menus not working properly\n- Added missing zones to the advanced configuration option"
+commit = "0e53262f04966de78f49152e19324275748427ec"
+changelog = "- Fix Whitelist UI adding entries to VoidList"

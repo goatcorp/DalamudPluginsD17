@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "b45f9e4ee4435319285183cdb99839dbafee1bfb"
+commit = "74daa59f98e5b5d4b35b2d9227bece8a098f032d"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix crashing on sort
+Fix daily sale velocity using stack sale price
 """

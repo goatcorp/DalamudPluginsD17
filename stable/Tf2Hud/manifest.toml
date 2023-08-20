@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "a1d47a4584b02430cc1efbd96826d0968e96fcdc"
+commit = "c28f1181443d57fc6374d81b7ad8369a8d01cbcd"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
-Fix folder selection window not opening when the TF2 install is not autodetected.
-(Thanks Mac Mac for the bug report!)
+[General]
+- Add failsafe if Dalamud thinks a Windows user is under Linux.
+- Add chat message if the TF2 installation folder could not be autodetected.
 
-As a reminder, this plugin works only with installs of Team Fortress 2 proper.
-Usage of mods and other games based on TF2 is not supported.
+(Thanks to AlexFlipnote for the report!)
 """
