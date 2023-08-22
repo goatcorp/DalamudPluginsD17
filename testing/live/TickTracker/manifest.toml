@@ -1,6 +1,13 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "dd2033c83922cc5ded3cc3b26a37bd352a86e36e"
+commit = "305e1f8e211c72c2e50b7589652619579ec4f9c3"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
-changelog = "Separate bars for HP and MP with their own ticks, and the ability to hide either bar."
+changelog = """
+- Reworked...everything?
+- Tick progress is tracked more consistently
+- Lists of Status IDs that can trigger faster ticks or halt regen altogether of mana / hp are now automatically generated
+- Added a new option to hide the respective bars when hp or mp is full
+- Disabled in PvP instances. It still works in Wolves' Den, but not while in the duel area.
+- Added a debug window for ease of access to the generated lists
+"""
