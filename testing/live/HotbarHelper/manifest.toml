@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/kiwikahawai/HotbarHelper.git"
+commit = "d2cb8f51725b39827a74f276655a944cdd469133"
+owners = [
+    "kiwikahawai",
+]
+project_path = "HotbarHelper"
+version = "0.0.2.1"
+changelog = """\
+**HotbarHelper (initial release)**
+- Searches your hotbars as you use them for missing actions and useful actions like Limit Break
+- Particularly useful if you've lost your hotbars or regularly switch between platforms and find actions are missing
+- Ability to ignore actions you may have in macros (such as Raise)
+
+DoH and DoL classes will be supported in a future release.
+"""
