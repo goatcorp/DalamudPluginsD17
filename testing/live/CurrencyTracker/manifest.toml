@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
+commit = "839ee1f072ebc73343c135b3afeacfebebd7e880"
+owners = ["AtmoOmen"]
+project_path = "CurrencyTracker"
+changelog = "- Modified the way transactions are displayed, which now effectively reduces the performance consumption caused by large amounts of data\n- Added a function to merge transactions of the same location by threshold value\n- Added a function to clear exceptional transactions"
