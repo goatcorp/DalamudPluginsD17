@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "b6c3ec43bd30bd559492f98f1aa8b5fff6b85255"
-changelog = "## 2.6.0 (2023-08-09)\n\n\n### Features\n\n* update to new DI method (49b8049)\n\n\n### Bug Fixes\n\n* remove old tooltop (df8be64)\n* small performance enhancement when drawing (0ab9e53)"
-version = "2.6.0"
+commit = "2db5e2e24ca938a4e3c07fcb69c8c56e632d9d2a"
+changelog = "### 2.6.1 (2023-08-22)\n\n\n### Bug Fixes\n\n* add config window button function to `/xlplugins` (d308f5a)\n* add description to enable floor command (1f94415)"
+version = "2.6.1"
