@@ -1,5 +1,10 @@
 [plugin]
 repository = "https://github.com/Cytraen/CombatCursorContainment.git"
-commit = "5d88dc706b40beb0c38b3c9033d3aa1e8934027b"
+commit = "15a03142e0d34a50162e8a9b3d187f1f32b57cb0"
 owners = ["Cytraen"]
-changelog = "Initial release"
+changelog = """
+- Add setting to disable mouse lock while dead
+- Add chat commands to toggle mouse locking
+- Fix CCC settings menu flicker when toggling 'enable mouse lock' option
+- Reorganize CCC settings menu
+"""
