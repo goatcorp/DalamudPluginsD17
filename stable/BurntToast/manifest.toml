@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/BurntToast.git'
-commit = 'cb77c65dcbe9c78b50dbabe38faaabcd18921adb'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/BurntToast.git'
+commit = '5c7c751e484d0862e8787f3d441c193c01864cfb'
+owners = [ 'lojewalo' ]
 changelog = 'API 8'
