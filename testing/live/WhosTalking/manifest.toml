@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "ae8f485797a29992f153f57059ebc53a9d838a5b"
+commit = "901317182224055d3c2f0978c4265c6dc52b06e2"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Added DelvUI support! (requires DelvUI 2.0.0.0)
+Added a setting to disable the voice activity indicators on the vanilla party list.
+This is probably quite useful for DelvUI users.
 """
