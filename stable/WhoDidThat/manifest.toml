@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "5206fe2cbd0913e27bde10d83fe636c5616a2b4d"
+commit = "e9898d033a8ce44a57f5709e2beed46b8d0c3563"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Minor Config Edits"
+changelog = "Added the ability to see missed rescues. Fixed issue with Rescue not being logged under certain conditions."
