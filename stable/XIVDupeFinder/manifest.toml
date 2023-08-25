@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CallumCarmicheal/XIVDupeFinder.git"
-commit = "4b28e893604ddc17ed7ef9e9292508b6915304e4"
+commit = "47f0a296ef4e97fe464ba2856446883405f358a1"
 owners = ["Callum Carmicheal"]
 project_path = "XIVDupeFinder"
 changelog = """# XIVDupeFinder v1.0.0 Patch Notes
