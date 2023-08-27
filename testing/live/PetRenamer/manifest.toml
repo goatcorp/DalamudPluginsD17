@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "521538e73a75c4f6f4c6f3f597e3d4e0105ab2e9"
+commit = "10f64ba2753f2c421d16b2a2452e06975bb57465"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
++ [1.1.0.2]
++ Fixes hooks not properly disposing
 + [1.1.0.1]
 + Actually does the things mentioned in 1.1.0.0
 + [1.1.0.0]
