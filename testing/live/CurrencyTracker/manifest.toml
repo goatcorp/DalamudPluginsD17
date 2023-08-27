@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "2614ad96afb8070e36b5650de99655dff55d233b"
+commit = "1256b4a9caa9b014035b5d20ca7333426d3fa51a"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Further optimises the performance of the plugin, especially with very large amounts of data"
+changelog = "- Add a command /ct to open the main interface of the plugin.\n- Modified the way the data is displayed in the main interface of the plugin, so that filters can now be applied properly."
