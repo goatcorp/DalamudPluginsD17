@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/CallumCarmicheal/XIVDupeFinder.git"
-commit = "170784218fbc36e1b85a0ab497807280d0fde506"
+commit = "91e260eb2bdf72a8cb3a9960e3fcd44ff768d846"
 owners = ["CallumCarmicheal"]
 project_path = "XIVDupeFinder"
 changelog = """# XIVDupeFinder v1.0.0 Patch Notes
-Project created and uploaded"""
+Fixed ghosted items"""
