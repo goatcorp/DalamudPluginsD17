@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "1256b4a9caa9b014035b5d20ca7333426d3fa51a"
+commit = "640b9bd524ab33f712bf71b7fdb91a87683af193"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Add a command /ct to open the main interface of the plugin.\n- Modified the way the data is displayed in the main interface of the plugin, so that filters can now be applied properly."
+changelog = "- Fix bugs that might cause game crashes.\n- Add a new command to open the main interface of the plugin with specific currency shown."
