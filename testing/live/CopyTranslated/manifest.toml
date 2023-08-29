@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "462966b780d19fa8693269889293532df5200daa"
+commit = "f2d7c529e2ce30c7eaadeb69280c5d13d4fcbc68"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
 changelog = "Submitted for approval"
