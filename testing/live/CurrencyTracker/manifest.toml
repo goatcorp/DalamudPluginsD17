@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "640b9bd524ab33f712bf71b7fdb91a87683af193"
+commit = "744cd846ae0772286e6e43e61157e6fe92cdb770"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Fix bugs that might cause game crashes.\n- Add a new command to open the main interface of the plugin with specific currency shown."
+changelog = "- Modified the conditional logic of certain code segments.\n- Fixed a bug in Merge Transactions function that generated incorrect records in certain scenarios.\n- Added fuzzy query functionality to the command."
