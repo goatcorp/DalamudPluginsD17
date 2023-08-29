@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "02937d57e416a9611ee7c475a2236daa3ed930b4"
+commit = "901317182224055d3c2f0978c4265c6dc52b06e2"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Added an option in the settings to disable the yellow outline for characters who haven't been matched to a user on Discord.
-
-Also fixed several bugs to do with chocobos (and probably other kinds of summon).
+Added a setting to disable the voice activity indicators on the vanilla party list.
+This is probably quite useful for DelvUI users.
 """
