@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "521538e73a75c4f6f4c6f3f597e3d4e0105ab2e9"
+commit = "5313c7987c5b15f0b7aa939dfffe243b2aa5edb9"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
-+ [1.1.0.1]
-+ Actually does the things mentioned in 1.1.0.0
-+ [1.1.0.0]
-+ Improved performance
-+ Plugin interface button
-+ Shows removed nicknames on list import
++ [1.2.0.0]
++ On your end nothing has really changed but trust me when I say most of the code is rewritten.
++ Performance should now be about 10x as good
 """
