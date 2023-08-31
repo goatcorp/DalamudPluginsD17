@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "a65412750864eac8474b36430034c28f10e80eb0"
+commit = "2e85e65a94cf726c0934daed15d3f8781752bbd8"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
 + [1.2.1.1]
 + FINALLY fixed colour leaking :D
++ Made target bars hookbased. No more flicker.
 """
