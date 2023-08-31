@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "2b7cf02624ee87d6d680a77261027aec1b984c12"
+commit = "a65412750864eac8474b36430034c28f10e80eb0"
 owners = [
 	"Glyceri",
 ]
 	changelog = """
-+ [1.2.1.0]
-+ [Big UI improvements]
-+ A lot of people were unaware of all the features in this plugin, so I made everything easily accessible.
-+ Added quick access buttons to the top right.
-+ Added a new mode button: Sharing Mode.
-+ Added a help window.
-+ Moved the import window to the list window.
++ [1.2.1.1]
++ FINALLY fixed colour leaking :D
 """
