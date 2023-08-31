@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "744cd846ae0772286e6e43e61157e6fe92cdb770"
+commit = "876012ca8d2bd4d7cde50fd69c7d5be191c6f472"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Modified the conditional logic of certain code segments.\n- Fixed a bug in Merge Transactions function that generated incorrect records in certain scenarios.\n- Added fuzzy query functionality to the command."
+changelog = "- Modified the UI layout and interactive logic of the main interface.\n  - Added an \"Others\" category for options, relocating the previous functions \"Export .CSV\", \"Open Data Folder,\" and \"Languages\" to this category.\n  - Enhanced the interactive logic for option categories, allowing users to expand/collapse all options within a category by clicking the category label.\n  - Revised the height calculation logic for list boxes and sub-windows displaying tables, enabling them to automatically adjust height while maintaining alignment as the window height changes.\n- Added a feature called \"Track Mode\", located under the \"Record Options\" category.\n  - \"Timer Mode\" (existing) - Users can now customize the time interval for triggering the timer.\n  - \"Chat Mode\" (new) - Automatically checks the changes in all currencies whenever new in-game messages are received, potentially leading to more accurate records under this mode.\n- Fixed a bug where the same custom currency was repeatedly added to the list box after re-enabling the plugin under certain circumstances.\n- (English only) Modified certain inaccuracies in the English localization text."
