@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "3902ae4878e579c2dd02d8d08f3b5276d8b8aa37"
+commit = "711291a37ad37ff52d7a371908dfb61b4cd795e5"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes login issue in Polly backend
-- Fixes minor UI bugs in Azure and Polly backends
+- Fixes login issue in Azure backend
 """
