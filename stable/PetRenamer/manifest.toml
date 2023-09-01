@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "91bbc716f65e22daebefc3f2405f83974cf924e2"
+commit = "dc74181930ca031ab6824ae7b096f1990cdb12f1"
 owners = ["Glyceri",]
 	changelog = """
     + [1.2.1.2]
     + Fixed a rare crash occuring during targeting.
+    + Fixed imported lists not saving.
     + [1.2.1.1]
     + Updates now dispose properly O///O
     + No more colour themes leaking when quitting the plugin.
