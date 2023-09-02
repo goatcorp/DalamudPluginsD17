@@ -1,20 +1,17 @@
 [plugin]
 repository = "https://github.com/NeNeppie/LightsCameraAction.git"
-commit = "adb8ba4e0592f632928ccd330ae70b5c3bbbb142"
+commit = "923f87a627a29044db4b24659ad31915993dbb81"
 owners = ["NeNeppie"]
 project_path = "CameraLoader"
 changelog = """
-**Camera Loader -> Lights, Camera, Action! v0.2.0.0:**
-- Added support for lighting presets!
- - Found under the new Lighting tab.
- - Highly experimental feature. Do report any bugs you encounter.
- - Happy GPosing!
-- Renamed plugin to match its new, expanded scope
- - Formerly known as 'Camera Loader'
- - Previously saved presets will (should) not be lost.
- - Updated icon.
+**Lights, Camera, Action! v0.2.1.0:**
+- Added a new preset mode - Camera Orientation
+ - Save and load lighting setting relative to the camera instead of the player.
+ - Renamed the other modes to match how they actually work. (Whether this will cause more or less confusion remains to be seen)
+- Added config setting to adjust the height of preset selection boxes.
+- Fixed global scaling issues.
+- Fixed shenanigans with certain UI elements when moving between tabs.
 **Known Issues:**
-- Loaded lighting presets are not reflected in the game UI. Updating the UI will reset certain values, like light color and type.
-- The plugin window's height on resolutions excluding 2K is a bit off.
-- Certain elements are not reset when moving between tabs.
+- Loaded lighting presets are not reflected in the game UI. Updating the game UI will reset certain values, like light color and type. (v0.2.0.0)
+- Loading a first person preset while in third person, and vice versa, requires double-clicking.
 """

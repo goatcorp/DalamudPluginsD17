@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "640b9bd524ab33f712bf71b7fdb91a87683af193"
+commit = "e9683be9aa806b189b3b459f5d995101d74745f0"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Fix bugs that might cause game crashes.\n- Add a new command to open the main interface of the plugin with specific currency shown."
+changelog = "- Changed the logic in the Track Mode section of the code, which should now significantly improve the performance of Chat Mode."

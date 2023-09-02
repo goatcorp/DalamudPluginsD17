@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/ExpandedSearchInfo.git'
-commit = '1a00d2ce19ebb095a5760437d455783e0bb66057'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/ExpandedSearchInfo.git'
+commit = '672e83e186542348c3eb1c06e04ecd96a5617448'
+owners = [ 'lojewalo' ]
 changelog = '.NET 7'

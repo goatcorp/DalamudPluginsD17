@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/Tourist.git'
-commit = '3619894c367f7e2809590b7062c49c21cd908e16'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/Tourist.git'
+commit = '5fd80a63589275230da6cf097e808783fe35edd7'
+owners = [ 'lojewalo' ]
 changelog = 'Fix a crash in squadrons'
