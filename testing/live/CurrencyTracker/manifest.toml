@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "e9683be9aa806b189b3b459f5d995101d74745f0"
+commit = "4c4e0321057d7b0336a83bc300843c5dad827c9b"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Changed the logic in the Track Mode section of the code, which should now significantly improve the performance of Chat Mode."
+changelog = "- Add One-Way Merge function to Merge Records feature, and original merging logic will be Two-Way Merge function.\n- Add two buttons that allow to jump to the first page and last page of transactions in chart\n- Now Records Per Page data will be saved to configuration."
