@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "4c4e0321057d7b0336a83bc300843c5dad827c9b"
+commit = "1b612b478101f9e712c1f9eeb0f02799a18f5b99"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Add One-Way Merge function to Merge Records feature, and original merging logic will be Two-Way Merge function.\n- Add two buttons that allow to jump to the first page and last page of transactions in chart\n- Now Records Per Page data will be saved to configuration."
+changelog = "- Expand Minimum Record Value In Duty feature to Minimum Record Value which allows to set the currency tracking behavior of In Duty and Out Of Duty seperately"
