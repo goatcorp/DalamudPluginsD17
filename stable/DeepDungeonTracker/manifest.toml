@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "04c25733b44f910fbe241f095e4272995a3ebc39"
+commit = "5b87e17b534c61e805706d28266f17deb713ba74"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added the option [Improved Magicite Kills Detection], under General tab > Testing section.
+- The option [Improved Magicite Kills Detection] is enabled by default (always enabled for now).
+- The time for checking the [Time Bonus] was increased by 1 second. (from 30:01 to 30:02).
+- Small tweaks.
 """
