@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "c7a324496d47259eb2d3da53b53b0e6c9281a5e6"
+commit = "e632f428a254cd23227724d4d0e272a0e443c531"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Properly keep the bars updated when resources are replenished from outside sources.
+- Fixed progress bars resetting erroneously when hp and mp regen is active
+- Fixed progress bar resetting when directly healed
 """
