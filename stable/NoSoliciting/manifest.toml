@@ -1,7 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/NoSoliciting.git'
-commit = '3d8757ac314970916024ad3591f66d8ea93a0b57'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/NoSoliciting.git'
+commit = 'fae0b28d661f5f8cddddc39062e1638443674ec2'
+owners = [ 'lojewalo' ]
 project_path = 'NoSoliciting'
 changelog = """\
 - API 8

@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/QuestMap.git'
-commit = '2030f8374eb65a64947b2bc37f35fc53ff3723f4'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/QuestMap.git'
+commit = 'fae049bbf6ec8b12395fbce48389a8da263debe7'
+owners = [ 'lojewalo' ]
 changelog = 'API 8'
