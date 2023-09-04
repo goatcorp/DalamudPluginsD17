@@ -1,20 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "a9df0be1c6f1499198a724bcdf36422f240ad6f2"
+commit = "b94a1a00abb0443a1522c38c670d7759af5a6a6f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.4"
+version = "1.6.1.5"
 changelog = """\
 **New Features**
-- Craft Completion Mode: Can choose to delete or leave items on completion
-- Completed items will show a red X allowing for quickly removing them from a list
-- The craft list "To Craft" list can now be shown as tabs or as it currently is(a giant table)
+- Added in a gathered by filter and column
+- Display options added to craft filters(invert highlighting, etc)
 
 **Fixes**
-- Removing a craft item will be more consistent
-- Completed items will show as "Completed" instead of "Waiting"
-- When collapsing/expanding the "To Craft" and "Items in Retainers/Bags" sections, the table layout should stay consistent
-- Output items were not checking against the HQRequireds list(Kiwikahawai)
+- Catch failures to save market cache
 """
