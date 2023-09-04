@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Cytraen/CombatCursorContainment.git"
+commit = "22ec9568b4396f66df81ecfc407012ebfd5d7af9"
+owners = ["Cytraen"]
+changelog = """
+- Improve performance, mostly outside of combat.
+- Add button to manually toggle cursor lock while auto-lock is disabled.
+"""
