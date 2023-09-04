@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "2db5e2e24ca938a4e3c07fcb69c8c56e632d9d2a"
-changelog = "### 2.6.1 (2023-08-22)\n\n\n### Bug Fixes\n\n* add config window button function to `/xlplugins` (d308f5a)\n* add description to enable floor command (1f94415)"
-version = "2.6.1"
+commit = "b7f5d317c0dcf3415958c86cbb3aa3d69d9a8eee"
+changelog = "## 2.7.0 (2023-09-04)\n\n\n### Features\n\n* Debug window to display all data loaded into the plugin. (97d093a)\n* new command handler implementation (8769319)\n\n\n### Bug Fixes\n\n* better safeguard for empty notes (7eb9057)\n* correctly unsubscribe from delegates (599ec17)\n* Don't display Resolution unless in PotD (4addfc2)\n* double percentage signs after last build (f801882)\n* not displaying the proper font range on English (5551019)\n* notes not properly showing up on single line (7ef6343)"
+version = "2.7.0"
