@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "e632f428a254cd23227724d4d0e272a0e443c531"
+commit = "34fdb038b16adcfed147d84665868a19f030f95d"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Fixed progress bars resetting erroneously when hp and mp regen is active
-- Fixed progress bar resetting when directly healed
+- Increased the log level of log events to avoid unintended spam.
 """
