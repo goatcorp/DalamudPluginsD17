@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Ech-oes/SharlayanRadio"
+repository = "https://github.com/Ech-oes/SharlayanRadio.git"
 commit = "dd61958f25ce4fb3ddf53b65bf87d2bbf2729dc4"
 owners = ["Ech-oes"]
 project_path = "SharlayanRadio"
