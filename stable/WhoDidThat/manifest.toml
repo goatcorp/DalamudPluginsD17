@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/spide-r/WhoDidThat.git"
+commit = "2240f3cc098a720a8ce51bb0b3acf4083c5d24ae"
+owners = ["spide-r"]
+project_path = "WhoDidThat"
+changelog = "Quick Bugfix"

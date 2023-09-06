@@ -1,14 +1,9 @@
 [plugin]
-repository = "https://github.com/NeNeppie/CameraLoader.git"
-commit = "400fd68b9bd2f2dfc6824dd874c3aed8734f51b2"
+repository = "https://github.com/NeNeppie/LightsCameraAction.git"
+commit = "8e1c6a34d28a92c4cc84722aaa988e55f4e1f2a7"
 owners = ["NeNeppie"]
 project_path = "CameraLoader"
 changelog = """
-Camera Loader v0.1.4.1:
-- Overhauled the UI.
- - Fixed a bug where presets would close/open if their order was changed.
- - Everything has been made more compact and organized.
- - The window's height is automatically adjusted to fit its contents (Feedback on that is appreciated).
-- Added a settings tab.
- - Initial settings include locking the window's position & width when undocked.
+- You can now sort presets by creation date and name, under Sorting Settings in the settings tab.
+- Tidied up the preset information boxes, now also featuring cute icons.
 """

@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "01611586aceb345a2d81c38fd366c5a8720df99e"
-changelog = "In certain circumstances, based on the user's configuration, the target circle feature could previously attempt to read an index beyond that bounds of an array, causing per-frame errors and breaking the feature. The bug in question has been found and fixed."
+commit = "4830ad193f2a4a1452537efc8ecd29cfb0c54415"
+changelog = "The target circle feature hasn't been experimental in ages, it's confirmed working perfectly."

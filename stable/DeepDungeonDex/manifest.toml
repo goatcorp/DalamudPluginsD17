@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "52527f11f154b2062edb15c059936819dfd45bb4"
-changelog = "### 2.5.6 (2023-05-09)\n\n\n### Bug Fixes\n\n* add file name to yml deserializer error (29ff05f)"
-version = "2.5.6"
+commit = "6f3333b1369274d62ed74fa3afa844acddafb0ce"
+changelog = "### 2.7.1 (2023-09-04)\n\n\n### Bug Fixes\n\n* dont open debug window on init (50b123a)"
+version = "2.7.1"

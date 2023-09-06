@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "47f6e36cbc554ad0c1e175437213decd67cf0520"
+commit = "694c6569531b33322c83dcf910bcc602c9e9b68"
 owners = [
     "lokinmodar",
 ]
-changelog = "New troubleshooting tab in the Config window"
+changelog = "New 'Misc Settings' tab and internal fixes"

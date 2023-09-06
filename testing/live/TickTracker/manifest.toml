@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Kurochi51/TickTracker.git"
+commit = "34fdb038b16adcfed147d84665868a19f030f95d"
+owners = ["Kurochi51"]
+project_path = "TickTracker"
+changelog = """
+- Increased the log level of log events to avoid unintended spam.
+"""
