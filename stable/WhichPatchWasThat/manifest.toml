@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "a4455281c2e4a6a376c4957a2e63821863ff8404"
+commit = "77568ec0a8f4f47c6a9e9e8d7a6ecdc37aa437b9"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Add Items from Patch 6.35 through 6.4
+Fix patch info not showing up for mounts/minions/fashion accessories
 """
