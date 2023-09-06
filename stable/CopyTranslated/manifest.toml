@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "a438854a47dc32eb5f4f1e031403a4361ae6b8e0"
+commit = "0d64c4ef4e02de4ccb914f38410968e9a3b89866"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
-changelog = "Submitted for approval"
+changelog = "Switched channel to stable. Changed command to /pcopy."
