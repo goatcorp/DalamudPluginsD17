@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://gitlab.com/Bakura/casexile.git"
-commit = "d3e861ee47c2cd45eca88ee6b038ba43017c3a9f"
+commit = "24c89aacb26827218b90ecd296a0637a07af2bb8"
 owners = ["RyouBakura"]
 project_path = ""
 changelog = "Initial Release"
