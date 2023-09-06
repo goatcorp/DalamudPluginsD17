@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "74daa59f98e5b5d4b35b2d9227bece8a098f032d"
+commit = "169281fcdb10beac74ac881df2890d93db09498d"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix daily sale velocity using stack sale price
+Fixed item tooltips moving upwards when set to "Fixed"
+Added additional customization options to reduce tooltip bloat:
+- Hide data age
+- Hide datacenter for cross-datacenter travel worlds
+- Display prices only for the current quality rather than both NQ and HQ
 """
