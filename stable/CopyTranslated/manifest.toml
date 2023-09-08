@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "0d64c4ef4e02de4ccb914f38410968e9a3b89866"
+commit = "f3c6db34a2465f4f57ba67789cd28e0f306395d3"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
-changelog = "Switched channel to stable. Changed command to /pcopy."
+changelog = "Added support to marketboard. Cleaner chat log output."
