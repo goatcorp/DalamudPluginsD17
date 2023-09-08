@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Ech-oes/SharlayanRadio.git"
-commit = "2b11d21786556cb78d11a0c412d998837b1a9a15"
+commit = "2901a0822083822811c2f92e519eabb33fa7d19f"
 owners = ["Ech-oes"]
 project_path = "SharlayanRadio"
 changelog = "Added Radio Plugin"
