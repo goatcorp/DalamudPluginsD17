@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "ee810f3a97e5c2c2621ace55923677d4746ea3fa"
+commit = "62d303e7bea17af2f52634ca9fdd3134646f9233"
 owners = ["Glyceri",]
 	changelog = """
     + [1.2.2.1]
     + Sorry Ninja's. Your game should no longer crash upon using ANY ability :D
+    + Tooltips on maps should now also work in a party :D
 """
