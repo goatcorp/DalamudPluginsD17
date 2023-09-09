@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "5ceb4bdec1892f81f8b7336818b161ac9cfb0104"
+commit = "0e2eb176832bc863c8035ef52ab559efbbbc7eb1"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.2.2.0]
-    + Tooltips should now show battle pets
-    + Cast bars should now show custom petnames
-    + Flyout text should now show custom pet names
-    + Battle log should now show custom pet names
+    + [1.2.2.1]
+    + Sorry Ninja's. Your game should no longer crash upon using ANY ability :D
 """
