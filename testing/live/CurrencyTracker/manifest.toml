@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "57c8f259778a95577ea4f5afd316076b329327a4"
+commit = "2542ddba77bb67e9f2b7108c519da1ed04da0d30"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Added a \"Graphs\" window, where you can browse visualized data in the form of preset models. The initial version includes four types of visual data models: \"Amount Graph\", \"Change Graph\", \"Location Graph\" and \"Location Change Graph\".\n- Made significant changes to the implementation of the multilingual functionality.\n- Modified the plugin logic for the \"Merge Records\" feature when the threshold value is 0. Now, 0 is treated as a flag to ignore the threshold value and perform the merge check directly."
+changelog = "- Please refer to my GitHub Changelog page."
