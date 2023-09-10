@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "77568ec0a8f4f47c6a9e9e8d7a6ecdc37aa437b9"
+commit = "f67f2a123acaf5cffdc968b63bb1ed12ca5ac5b0"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Fix patch info not showing up for mounts/minions/fashion accessories
+Will now show the patch a quest was released in in the journal and quest accept window.
 """
