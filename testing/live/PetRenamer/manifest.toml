@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "bc8cba240396147eacd0bfeef4581131799811bd"
+commit = "6be11f0df2d93139cfcedef0098dabffed1310af"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.2.2.2]
-    + Map tooltips should now work even more properly.
-    + Names now show on more castbars.
-    + Context menu's should now ONLY show on pets.
+    + [1.2.2.3]
+    + Should now properly display battle chat messages.
 """
