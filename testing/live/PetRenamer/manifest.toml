@@ -1,8 +1,15 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "6be11f0df2d93139cfcedef0098dabffed1310af"
+commit = "3f703f7c511dc246282a06487566b3ce4c9340d5"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.2.2.3]
-    + Should now properly display battle chat messages.
+    + [1.2.3.0]
+    + Remade the whole config window. You can now chose seperate settings per mode. You may want tooltips for battle pets, but not for minions for example.
+    + Added a new Quick Menu button
+    + Pet list now has a user list mode. (Click on your name in the top left).
+    + Export now has an advanced mode. Hold shift and click the [Export] button. Advanced mode allows you to select which pets you want to export.
+    + Empty names will now no longer get exported.
+    + The layout of some UI elements have been changed.
+    + The colours of some UI elements have been changed.
+    + Fixed a number of UI related issues/bugs.
 """
