@@ -1,16 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "b94a1a00abb0443a1522c38c670d7759af5a6a6f"
+commit = "6e89f14a46fd1b66f48c9fb361fa83ed97d28e90"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.5"
+version = "1.6.1.6"
 changelog = """\
 **New Features**
 - Added in a gathered by filter and column
-- Display options added to craft filters(invert highlighting, etc)
-
-**Fixes**
-- Catch failures to save market cache
 """
