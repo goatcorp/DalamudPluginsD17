@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "3f703f7c511dc246282a06487566b3ce4c9340d5"
+commit = "a1d1864f4081f0c9334ce175aaf74003130c5fb6"
 owners = ["Glyceri",]
 	changelog = """
+    + [1.2.3.1]
+    + Fixed an issue where some item tooltips would go wild (They might still flicker a weird name. Trust me, im working hard on this)
+    + The Action Menu now shows custom pet names.
+    + Fixed an issue where Battle Pet Names would not automatically regenerate.
     + [1.2.3.0]
     + Remade the whole config window. You can now chose seperate settings per mode. You may want tooltips for battle pets, but not for minions for example.
     + Added a new Quick Menu button
