@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "169281fcdb10beac74ac881df2890d93db09498d"
+commit = "2b1fe544fd5b9ec79f84e033627c53dc247b42aa"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed item tooltips moving upwards when set to "Fixed"
-Added additional customization options to reduce tooltip bloat:
-- Hide data age
-- Hide datacenter for cross-datacenter travel worlds
-- Display prices only for the current quality rather than both NQ and HQ
+Fixed tooltip text color displaying incorrectly when using light theme
 """

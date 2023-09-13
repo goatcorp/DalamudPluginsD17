@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "1b612b478101f9e712c1f9eeb0f02799a18f5b99"
+commit = "85994e1afbedfcbccbf948af740e3673f443897d"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Expand Minimum Record Value In Duty feature to Minimum Record Value which allows to set the currency tracking behavior of In Duty and Out Of Duty seperately"
+changelog = "- Please refer to my GitHub Changelog page."
