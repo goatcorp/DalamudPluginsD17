@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://git.camora.dev/asriel/ItemIcons.git"
+commit = "5ab48a69b19205cea3d3c0ff243e1f719b100213"
+owners = [ "WorkingRobot" ]
+project_path = "ItemIcons"
+changelog = """Initial Release 0.1
+
+Please let me know of any places I missed! (There are many, but I don't know them all)
+And do let me know about any new icons I should add: use the feedback button below ↓
+"""
