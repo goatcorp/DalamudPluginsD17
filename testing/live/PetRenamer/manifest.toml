@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "c0310542147b66b93ffa706a56d090f12baa734c"
+commit = "15fffc155130d8467aac8be25d38ac369abcac91"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.2.3.2]
-    + Added multiple configuration options
-    + Other Plugin Support
+    + [1.2.4.0]
+    + Added chaching to multiple search functions improving performance by a lot. (For some functions I've measured 4x the performance :D)
+    + Added support for the minion notebook (Note that using the search function will still use work using the base minion name, trust me I'm working on it)
+    [If you gamers don't find any issues with this version, I'm pushing it to Stable]
 """
