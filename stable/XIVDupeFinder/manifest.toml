@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/CallumCarmicheal/XIVDupeFinder.git"
+commit = "7c3653270265c4280dd5cc8e31de8d94650152f5"
+owners = ["CallumCarmicheal"]
+project_path = "XIVDupeFinder"
+changelog = """# XIVDupeFinder 1.0.1
+- Fixed hooks to stop plugin running when disabled / closed.
+- Fixed issue with highlighting always clearing when not enabled
+- Minor optimizations and code refactoring
+- Moving from Testing to Stable
+
+# XIVDupeFinder v1.0.0 Patch Notes
+Fixed ghosted items"""

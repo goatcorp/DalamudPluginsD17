@@ -1,7 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/PeepingTom.git'
-commit = '756e57d9c07d20f39dec6ce9d40ff48a708f8d8d'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/PeepingTom.git'
+commit = '24564a69283d71cb709c5c3690b66c4e2d5d3cbf'
+owners = [ 'lojewalo' ]
 project_path = 'Peeping Tom'
 changelog = '''\
 - 6.4

@@ -1,20 +1,9 @@
 [plugin]
 repository = "https://github.com/NeNeppie/LightsCameraAction.git"
-commit = "adb8ba4e0592f632928ccd330ae70b5c3bbbb142"
+commit = "8e1c6a34d28a92c4cc84722aaa988e55f4e1f2a7"
 owners = ["NeNeppie"]
 project_path = "CameraLoader"
 changelog = """
-**Camera Loader -> Lights, Camera, Action! v0.2.0.0:**
-- Added support for lighting presets!
- - Found under the new Lighting tab.
- - Highly experimental feature. Do report any bugs you encounter.
- - Happy GPosing!
-- Renamed plugin to match its new, expanded scope
- - Formerly known as 'Camera Loader'
- - Previously saved presets will (should) not be lost.
- - Updated icon.
-**Known Issues:**
-- Loaded lighting presets are not reflected in the game UI. Updating the UI will reset certain values, like light color and type.
-- The plugin window's height on resolutions excluding 2K is a bit off.
-- Certain elements are not reset when moving between tabs.
+- You can now sort presets by creation date and name, under Sorting Settings in the settings tab.
+- Tidied up the preset information boxes, now also featuring cute icons.
 """

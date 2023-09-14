@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "b45f9e4ee4435319285183cdb99839dbafee1bfb"
+commit = "2b1fe544fd5b9ec79f84e033627c53dc247b42aa"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix crashing on sort
+Fixed tooltip text color displaying incorrectly when using light theme
 """

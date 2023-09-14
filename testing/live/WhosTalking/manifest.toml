@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "1f0424647f7fa6bde4074da1e0218cb04a811ede"
+commit = "fd7ea08255fc7a26be013945a00f662dd5ae2ba9"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Added an option to display a list of people who are speaking but aren't in your party. (This is enabled by default; you can turn it off in the plugin config.)
-
-In the future I hope to add additional location options for this display. Let me know via the plugin installer or in Discord if you'd like something specific, or if the placement looks weird with your HUD layout.
-
-Additionally, fixed an issue where manual assignments would not be properly prioritised over auto-detected Discord/XIV matches.
+Fixed some positioning bugs with the list of non-party speakers.
 """

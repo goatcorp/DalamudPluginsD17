@@ -1,7 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = '3e45a005646f6b2feb5b950cb370755137a336ab'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/ChatTwo.git'
+commit = '32e7fbe5863991c1417138307fa2760da52f5262'
+owners = [ 'lojewalo' ]
 changelog = """\
 - Update for 6.4
 """
