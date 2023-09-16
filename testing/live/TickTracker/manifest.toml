@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "34fdb038b16adcfed147d84665868a19f030f95d"
+commit = "3c7a6325b0093161e153fbd9bd3e0cd17b2c88b8"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Increased the log level of log events to avoid unintended spam.
+- Swap to a better system of tracking server ticks
+- Use a more accurate method to update while regen is active
+- Added support for Gathering Points
 """
