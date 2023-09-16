@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "b40465a7ca2e44e333e7f64f41f3ea465ed7c3b6"
+commit = "4af6043ef1643dae0cd3f61bc559149bd86b33d1"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- UI Adjustments:\n  - Changed the Graphs and Languages buttons to display as icon buttons.\n  - Adjusted the position of the Graphs button.\n  - Changed the way data charts are drawn.\n- Functional Adjustments:\n  - Now allows selection of individual rows in the data charts with corresponding functionality.\n  - Now allows right-clicking on a cell within the data chart to copy its content."
