@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ProjectMimer/StopTheClip.git"
+commit = "d9fa5cdba243314869ae9b30c789a9599a8ab084"
+owners = ["ProjectMimer"]
+project_path = "StopTheClip"
+changelog = ""
