@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "58aab1f3939d7b27d04322f99a6b8b8f2923797c"
+commit = "3d1f1888a4812d2129e7c5796b4272e10c5b206a"
 owners = ["Drahsid"]
-project_path = ""
-changelog = """1.1.5
-- Updated for 6.4
-- Shadows resolution applies to more situations
-- Fixed bug in editor where the edit override would not apply
+project_path = "BetterShadows"
+changelog = """1.2.0
+- Internal changes
 """
 
