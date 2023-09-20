@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "57095b85219890a88aedf0a80f7fdd2c11c6c3ab"
+commit = "8e4f4b172b34edbc067c9182be8fa595afa71272"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Functional Adjustments:\n  - Added a new function Location Filter under Filter Options, and it enables users to enter key words to serach transactions with relevant Location names.\n  - Added some new functions under Transactions Toolbar: Select All, Inverse Select, Unselect.\n  - Added a new interface operation logic to Transactions List, which now enables users to select a number of transactions when holding Ctrl.\n  - Adjusted Time Filter function code logic.\n- UI Adjustments:\n  - Added a sequence number column to Transactions List.\n  - Adjusted the layout of various functions when expanding/collapsing under the Filter Options.\n  - Adjusted the appearance of the functions under Filter Options except for the Inverse Sort function when enabled.\n- Others:\n  - Adjusted Transactions List draw logic.\n  - Adjusted some appropiate expressions in English localization."
+changelog = "A small fix to Merge Transactions."
