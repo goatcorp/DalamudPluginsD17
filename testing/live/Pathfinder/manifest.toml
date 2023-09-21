@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/chirpxiv/ffxiv-pathfinder.git"
+commit = "b4bb248d1b7c9d1a52b6fc082d731be28b8c6d86"
+owners = ["chirpxiv"]
+project_path = "Pathfinder"
+changelog = "Initial release"
