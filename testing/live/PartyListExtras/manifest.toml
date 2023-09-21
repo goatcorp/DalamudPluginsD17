@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PYRiTEmonark/ffxivPartyListExtras"
+commit = "62bfc80bb3100b354403b5be4addc16b7a315f39"
+owners = ["PYRiTEmonark"]
+project_path = "ffxivPartyListExtras"
+changelog = "Inital Version"
