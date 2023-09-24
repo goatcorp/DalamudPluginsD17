@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Infiziert90/DiademCalculator.git"
+commit = "a79a3579f1ef83f376d6444904e49fd2b856142d"
+owners = [
+    "Infiziert90",
+]
+project_path = "DiademCalculator"
