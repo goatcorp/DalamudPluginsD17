@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Cytraen/CombatCursorContainment.git"
-commit = "22ec9568b4396f66df81ecfc407012ebfd5d7af9"
+commit = "d4fbdee9f4eebcb4b3abc3dd5bd2320704cf20ae"
 owners = ["Cytraen"]
 changelog = """
-- Improve performance, mostly outside of combat.
-- Add button to manually toggle cursor lock while auto-lock is disabled.
+- Fix "Not in a duty" setting doing the opposite of what it should have been.
+- Fix being in queue counting as being in a duty.
 """
