@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "8e4f4b172b34edbc067c9182be8fa595afa71272"
+commit = "420dac9f15a9320799c41794bb7c550c3fa40b96"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "A small fix to Merge Transactions."
+changelog = "- Functional Adjustments:\n  - Adjusted the transactions data reading logic，which should bring obivious performance improvement.\n  - Adjusted the presentation logic of Custom Tracker, which now apply paging method to display items.\n  - Added a new functions under Transactions Toolbar: Merge, which allow you to merge any selected transactions.\n  - Adjusted the operation logic of mutilple selection when holding Ctrl.\n- UI Adjustments:\n  - Adjusted 0 Change text color when enable Change Text Coloring.\n- Others:\n  - Adjusted some appropiate expressions in English localization."
