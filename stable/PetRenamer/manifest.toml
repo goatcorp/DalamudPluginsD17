@@ -1,17 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "dc74181930ca031ab6824ae7b096f1990cdb12f1"
+commit = "d8128a98710ce3eeba50681df867d7643664251c"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.2.1.2]
-    + Fixed a rare crash occuring during targeting.
-    + Fixed imported lists not saving.
-    + [1.2.1.1]
-    + Updates now dispose properly O///O
-    + No more colour themes leaking when quitting the plugin.
-    + Huge, and I mean HUGE performance improvements.
-    + More intuitive UI and theme upgrades.
-    + There is now a help screen.
-    + Target Bars are now hook based, no more flickering.
-    + Save file version updated from 4 to 5
+    + [1.3.0.0]
+    + Images, Images everywhere.
+    + Will now show Minion and Battle Pet images
+    + Will now show profile pictures (when enabled) in the Player Select list in the Pet List screen.
+    + [1.2.4.0]
+    + Added chaching to multiple search functions improving performance by a lot. (For some functions I've measured 4x the performance :D)
+    + Added support for the minion notebook (Note that using the search function will still use work using the base minion name, trust me I'm working on it)
 """
