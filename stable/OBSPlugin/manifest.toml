@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "4d12e07eac29b1a6cb35953b1444c83e11586aca"
+commit = "e7a5d3eb1436b58db2dc92daff0574d36d7a5520"
 owners = ["Bluefissure"]
-changelog = "Don't stop recording in raid clear cutscenes"
+changelog = "StreamFX -> Composite Blur"
