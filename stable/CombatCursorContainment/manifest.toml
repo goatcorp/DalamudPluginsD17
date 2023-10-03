@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/Cytraen/CombatCursorContainment.git"
-commit = "d4fbdee9f4eebcb4b3abc3dd5bd2320704cf20ae"
+commit = "26afaf94daba5cb6211b80c537b247e890b56d65"
 owners = ["Cytraen"]
 changelog = """
-- Fix "Not in a duty" setting doing the opposite of what it should have been.
-- Fix being in queue counting as being in a duty.
+- Update for API v9.
 """
