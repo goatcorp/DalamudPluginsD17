@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/TheGreatSeparator.git'
-commit = '51e0fe042b979cb6bbc250db3b30d8c568552361'
+commit = 'e64e8bef4f0540dbd76d5cc979fbbb5aabf2f288'
 owners = [ 'lojewalo' ]
-changelog = 'Guess I forgot to publish this update...'
+changelog = 'API 9'
