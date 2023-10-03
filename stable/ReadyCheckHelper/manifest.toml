@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Infiziert90/ReadyCheckHelper.git"
-commit = "a82d4701944acef7258d20ecfc4abe10776ef6c5"
+commit = "77d5647e7ac5fd4ae430bf6be5617f6f36b1e6d2"
 owners = [
     "Infiziert90",
     "PunishedPineapple",
 ]
 project_path = "ReadyCheckHelper"
-changelog = """
-+ Added support for the new 'Align List to Bottom' option
-"""
