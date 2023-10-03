@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "b783700c606ce5760bf7bd4a5cb06ddcefbb4ca5"
+commit = "303394e6707b9fc1159c1b73daab1277d9c57b18"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Add option to disable in PvP
+Now uses the "System Message" chat type as default to avoid spamming all chat windows.
+Also fixed some chat types missing a space between player name and "has".
 """

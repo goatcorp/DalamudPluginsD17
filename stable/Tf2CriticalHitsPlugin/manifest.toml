@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "1fe89c0f15a9f595e76733631a59e12f9b999160"
+commit = "04c67c409ccbcba45e1a1342d036482521cc32f2"
 owners = ["Berna-L"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
 [TF2-ish Critical Hits]
-**Did you know Astrologians own the stars?**
-- Fix AST's Stellar Burst being considered a fairy heal. (Thanks HuiEtyud for the report!)
-- Remove extraneous logging.
+- Add option per job to set a minimum time between sounds.
+  - For example, if you set the time as 1000 ms and a critical hit sound is played,
+    no other sound (be it for critical hit, direct hit, critical heal etc.) will be played for the next second.
+  - Keep it at 0 ms to use the current behavior.
+
+(Thanks to Grayve for the idea and everyone at the Discord thread for the feedback!)
 """

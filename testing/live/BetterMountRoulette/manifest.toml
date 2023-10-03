@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+commit = "e0a261b374f5c004d8825fcf70afab05623b011a"
+version = "1.3.0.13"
+owners = ["CMDRNuffin"]
+changelog = """Now includes an option to only mount single-seated mounts while solo.
+
+Also added an option to only use mounts that can fit the entire party, or failing that, as many party members as possible."""

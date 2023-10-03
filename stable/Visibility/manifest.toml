@@ -1,11 +1,6 @@
 [plugin]
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
-commit = "f2e73bce441d54e83308a31f33534ab1974adf45"
-owners = [
-    "SheepGoMeh"
-]
+owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-changelog = """
-- Fix other players being visible when set to hidden while doing treasure maps
-- Update Chinese (Simplified) translations
-"""
+commit = "0e53262f04966de78f49152e19324275748427ec"
+changelog = "- Fix Whitelist UI adding entries to VoidList"

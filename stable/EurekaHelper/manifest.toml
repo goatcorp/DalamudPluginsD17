@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "a71b706dea7a95cd5d1b29b24fe66d5c939e9ce7"
+commit = "dce6cd8fde87ef621294b262ed6d6e3b8ce514a1"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Alarms
-- Alarms are now editable
-
 Elemental Manager
-- Add crowdsourced known positions to plugin
+- Added crowdsourced positions
 
-Opt-in and assist to crowdsource all the Elemental positions
-Post new positions on GitHub pinned issue or through Discord DM
+Misc
+- Updated contact information
 """

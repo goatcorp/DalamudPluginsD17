@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "7e2a30d6155dace594134996df4ae0f73550ff66"
+commit = "fd7ea08255fc7a26be013945a00f662dd5ae2ba9"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Fix poorly-sized voice activity indicators at certain UI scales
+Fixed some positioning bugs with the list of non-party speakers.
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "da07364715707f218143691f893be76b5d922cc3"
+commit = "711291a37ad37ff52d7a371908dfb61b4cd795e5"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Sends the speaker name in WebSocket messages
+- Fixes login issue in Azure backend
 """

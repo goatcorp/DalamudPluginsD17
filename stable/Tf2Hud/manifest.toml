@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
-commit = "2c7df503c289c54176eecc0a2dc6d7d62783a8a3"
+commit = "c28f1181443d57fc6374d81b7ad8369a8d01cbcd"
 owners = ["Berna-L"]
 project_path = "Tf2Hud"
 changelog = """
-[Win Panel]
-- Added option to have the Win Panel save the score per duty.
-  - This is the default behavior for new installations.
-  - Current users will be told about this through chat when updating the plugin.
-- Added window (accessible in the Win Panel configuration) to check the saved scores per duty.
-  - This window also has an option to copy the values as CSV to the clipboard and delete individual scores.
-- Fixed the MVP list closing when pressing ESC.
+[General]
+- Add failsafe if Dalamud thinks a Windows user is under Linux.
+- Add chat message if the TF2 installation folder could not be autodetected.
+
+(Thanks to AlexFlipnote for the report!)
 """

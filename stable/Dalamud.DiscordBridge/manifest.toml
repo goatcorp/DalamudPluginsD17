@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "80929aa4804a2b74d0f93fb50561d95e56835bab"
+commit = "c1e775e3f4b00a23714b685fb9c0ee1e365da2e9"
 owners = [
     "reiichi001",
 	"goaaats",
@@ -10,4 +10,9 @@ changelog = """
 Adds the following new commands:
 - `xl!toggleembed` - Switches between Webhooks and classical Embeds
 - `xl!togglesender` - Toggles whether or not to include the sender name in the message content
+
+Adds a bandaid for Discord's new username changes. Remember to thank Discord for removing discrimination from their platform. The bot also always accepted user ID numbers, but now it's explicitly mentioned in the setup window.
+
+Adds the following new commands:
+- xl!toggledefaultnameavatar - Switches webhook mode to use a generic bot username and avatar so messages stack. Should be combined with xl!togglesender or you will have no idea who said what.
 """

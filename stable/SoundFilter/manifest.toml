@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/SoundFilter.git'
-commit = '24be9d517f7715c9828cdc5e798a96a12abd7dd7'
-owners = [ 'ascclemens' ]
-changelog = 'API 8'
+repository = 'https://git.anna.lgbt/anna/SoundFilter.git'
+commit = '3c94e07c13ef48f2108785a915828e6bc9c46952'
+owners = [ 'lojewalo' ]
+changelog = 'Fix the sound log staying open when not closed properly'

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "11e8d1dda3438ce917c5a7f79b3f09e17496a85e"
+commit = "ccfcc07c4dec82dc7d77c3f0d3afb1d6c5814a24"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Fixed recipe for Wisdom of the Fiendhunter.
+- Added text input for filtering logos actions by name
 """

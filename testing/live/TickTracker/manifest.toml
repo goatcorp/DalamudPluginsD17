@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Kurochi51/TickTracker.git"
+commit = "ce620d9bf2f516f2e7873069d61cbe520e24effc"
+owners = ["Kurochi51"]
+project_path = "TickTracker"
+changelog = """
+- Possible fix for jumpy progress
+"""

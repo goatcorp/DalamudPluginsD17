@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "15e3fcde97748a103a9f522052527478d6268b0c"
+commit = "5eeee862b08f71f5c05402b16e536dd50398e0d8"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Force window to main monitor, hopefully fixes opaque window
+- Added support for Cross-world parties.
 """

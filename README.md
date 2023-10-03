@@ -1,3 +1,7 @@
+# 🚧 Closed for stabilization 🚧
+
+We are closing PRs on the DIP17 repo for now, while we are awaiting the patch and a stable development build. We hope that this will lighten our load on updates for when the patch is actually live, and we can be confident that submitted plugins are stable enough, leading to a faster turnaround. Thanks!
+
 # DalamudPluginsD17
 
 Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fantasy XIV](https://github.com/goatcorp/Dalamud). This repository is a successor to [DalamudPlugins](https://github.com/goatcorp/DalamudPlugins) and implements [DIP17](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md) to make the submission process easier and faster.
@@ -16,7 +20,7 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 
 When the plugin approval group checks your plugin, they will check for the following:
 
-- Does it meet [our guidelines](https://goatcorp.github.io/faq/development#q-what-am-i-allowed-to-do-in-my-plugin), as agreed upon by multiple members of the group?
+- Does it meet [our guidelines](https://dalamud.dev/plugin-development/restrictions#what-am-i-allowed-to-do-in-my-plugin), as agreed upon by multiple members of the group?
 - Does it feature any combat elements? If so, are they purely informational, and show only information the player would normally know?
 - Does it pass an informal code review?
 - Does it install cleanly?
@@ -32,8 +36,9 @@ These criteria are intended to prevent issues for users. We're happy to work wit
 ### Technical criteria
 
 There are a few technical things that you must do before submitting your plugin here. They will make your plugin nicer to use.
-- Your plugin has to have an `icon.png` that is no larger than 512x512 and no smaller than 64x64 in `images/`.
-- For regular ImGui windows that don't do anything special, like settings and utility windows, you should use the [Dalamud Windowing API](https://goatcorp.github.io/Dalamud/api/Dalamud.Interface.Windowing.html). It enhances windows with a few nice features, like integration into the native UI closing-order.
+- Your plugin **must have** an `icon.png` that is no larger than 512x512 and no smaller than 64x64 in `images/`.
+- For regular ImGui windows that don't do anything special, like settings and utility windows, you should use the [Dalamud Windowing API](https://dalamud.dev/api/Dalamud.Interface.Windowing/). It enhances windows with a few nice features, like integration into the native UI closing-order.
+- Your plugin's version/assembly version **must not** be based on a timestamp or continually increasing build number. Every time your plugin is built with a specific commit, no matter the time or date, should produce the same version.
 
 ### Submitting
 

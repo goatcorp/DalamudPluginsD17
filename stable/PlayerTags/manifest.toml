@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "c47b9a39af994de79386360484a069e05f31993b"
+commit = "618166aac7c5ba16a69ce91d404cd257370ae90b"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.9.1
-- Add master switch via sub-command *--> /playertags enableglobal on|off|toggle*
-- Updated Translation
+changelog = """- Updated community translation
+- A big Thank You to everyone who helped with translation!
 """

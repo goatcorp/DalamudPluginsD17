@@ -1,6 +1,18 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "7415fe96f544a633dcb50ec28bf02263db93d251"
+commit = "51a59efbd04bc3282996386f416b73db7e64bb55"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
-changelog = "Updated to Dalamud 8."
+changelog = """
+New features:
+* Added a configuration option to enable or disable the tooltip window.
+* Added a configuration option to enable or disable the tooltip window during duties. By default, the RPP tooltip window is now hidden while in a duty instance.
+* Added the /rpp slash command to control the plugin. Supported options: /rpp edit, /rpp profile, /rpp config, /rpp show, /rpp hide, /rpp duty show, /rpp duty hide.
+* Logged in users should now remain logged in indefinitely. In case a login session does expire because the game wasn't launched for a year, the plugin will detect this and offer to log in again.
+
+Bug fixes:
+* Fixed a bug where the tooltip window got stuck at "Retrieving profile..." under Linux if Wine was configured to identify as Windows 10, as it does since XIVLauncher Core 1.0.4.
+
+Known issues:
+* The plugin is still currently region-locked to Europe because that's the only region allowed by its backing website, Chaos Archives. This will be fixed in a future update.
+"""

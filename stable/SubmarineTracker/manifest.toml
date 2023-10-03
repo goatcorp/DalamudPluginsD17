@@ -1,17 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "79487bb95bba20c754a1ab47b445afe20d0ea830"
+commit = "85b98f16e00fc9b9f34ad0a13c133c33ecd09df3"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
-changelog = """
-[Config]
-+ New options got added
-
-[Tracker]
-+ Repair Status got added to both the overview and detailed view of the tracker
-
-[Notify]
-+ A chat notification whenever any sub parts hits 0% on return
-"""

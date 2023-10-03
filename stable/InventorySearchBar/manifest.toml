@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "9c0637049ce7f1c2e55df212dc0af811812d98a7"
+commit = "649141bd643d7fb0e0bd3bf9c0e2306626584305"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "- Added support for Patch 6.35."
+changelog = "- Added support for Patch 6.4."

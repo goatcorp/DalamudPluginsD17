@@ -2,7 +2,12 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "fe5d5787a9b4be178918a2c53a83e6763eb3c402"
+commit = "db8a4175507b3e8411afae0da6d6fd7b68cc57ff"
 changelog = """
-Logging: Messages should be more descriptive
-Translation: German updated"""
+Ui: You can now manage jobs directly in solo and detail view
+Ui: Old Examine button is now Quick Compare
+LootRule: Fixed "Can Buy"
+Options: reworked Ui for loot rules
+LootSession: You can ignore players/jobs based on certain rules
+LootMaster: you can now edit name + role priority for the Solo group        
+Translation: Updated French translation (Thanks to Arganier)"""

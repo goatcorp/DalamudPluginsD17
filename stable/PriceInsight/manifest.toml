@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "90de1b7e10eeab8244cdc82beaef01a602d1e83b"
+commit = "2b1fe544fd5b9ec79f84e033627c53dc247b42aa"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Add option to show sales per day and average sale price.
-- Fix some collectible items having price tooltips
+Fixed tooltip text color displaying incorrectly when using light theme
 """

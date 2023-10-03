@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "434fdde846f9506bbdbfb745f70d504098c7ee54"
+commit = "92de2146442f1a51e8c17db1bd1451932c5b3b3a"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added support for Patch 6.3 and Dalamud Api8."
+changelog = "- Fixed crash if Wotsit is not installed."
