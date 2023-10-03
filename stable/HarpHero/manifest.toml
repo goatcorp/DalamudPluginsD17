@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MgAl2O4/HarpHeroDalamud.git"
-commit = "5c86b170fc4b957d14e3b29c9d66250398c837dd"
+commit = "ebe4673a183a89cfd0b8b98f8792c4c8ef985d46"
 owners = [
     "MgAl2O4",
 ]
