@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/chirpxiv/SelfCare.git"
-commit = "ef2c3da2e5baaa72ea9c182583b5370b364769f3"
+commit = "f0c9e12b5d2f74d7baa9dc76748d9f9ca1784cc1"
 owners = ["chirpxiv"]
 project_path = "SelfCare"
-changelog = "Initial release"
+changelog = """
+- Updated for Dalamud API 9
+- Added a new icon (thanks @oikvw)!
+"""
