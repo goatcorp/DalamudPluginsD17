@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "dc29ebbb33303263af96e3347573adcd86cb7955"
-version = "1.2.0.12"
+commit = "49cd765517747aa750b4668c45cf5c1639a7cb56"
+version = "1.2.0.13"
 owners = ["CMDRNuffin"]
-changelog = """Fix: Prevent 6.4 crash"""
+changelog = """Upgrade to Dalamud API 9"""
