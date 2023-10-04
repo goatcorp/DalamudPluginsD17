@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sevii77/properhousing.git"
-commit = "b236d935dd78f5c40f940bb359c7de6356b50190"
+commit = "206b16b7ed9b822fae36a51cf648f2632a54a00b"
 owners = ["Sevii77"]
 project_path = "ProperHousing"
-changelog = """- 6.3 support"""
+changelog = """- 6.4 support"""

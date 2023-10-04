@@ -1,14 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "8eb196dd82333cf3460d3cc9d165bcf5eb72fb02"
+commit = "eef7140e077ad3d3e12de0b7a09f9dd743599b06"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-With the plugin appearing to have survived Patch 6.4 very comfortably, I'm ready to push the latest build to Stable. Hooray!
-
-For the non-testing world, here's a recap! CrossUp is a plugin for controller users, providing more options to customize how the game's Cross Hotbar looks and feels to use.
-- Various visual customizations, including colour schemes and layout modifications
-- Allows the Expanded Hold Controls (accessed with L→R and R→L inputs) to be displayed as separate elements onscreen, rather than sharing space with the main bar
-- Enables extra bars to automatically switch sets alongside the main bar
+Updated for patch 6.5 and API9
 """

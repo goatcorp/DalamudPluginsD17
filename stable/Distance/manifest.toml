@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "01e4bea31c1703f8cb624bbda8875cf5dde15b0f"
+commit = "a28ed6cc29f61d56d91cad5a814fc54317ea8565"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for FFXIV patch 6.4.
+- Separated the aggro arc from the aggro distance readout.  Some options are still shared, but you can now set it to use one without the other.
+- Made automatic updating of aggro data on by default *for new installations*.  If you have already loaded the plugin at least once, this change will have no effect.  Anyone can toggle the automatic update setting in the plugin configuration window at any time.
+- Workaround for enemies with RSV'd names.
+- Fixed some minor issues with the aggro data updater and improved logging.
+- Improved the configuration window.
+- Added a link to information about how distances work in the game.
 '''

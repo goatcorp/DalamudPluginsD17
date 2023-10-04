@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "db4c94afdf56a0f64a4397b865147835f495138a"
+commit = "cee423cf63e7b637c2fc0ceb8de320140dccab62"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fixed relic weapons not syncing properly
+Update for patch 6.5
 """

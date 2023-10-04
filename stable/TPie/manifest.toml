@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "434fdde846f9506bbdbfb745f70d504098c7ee54"
+commit = "4d0c309991aa464335e7dddd0ead91c3c62267e3"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added support for Patch 6.3 and Dalamud Api8."
+changelog = "- Added support for patch 6.5 and Dalamud API 9."

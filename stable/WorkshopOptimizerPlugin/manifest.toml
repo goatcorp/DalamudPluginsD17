@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/belzaru17/WorkshopOptimizerPlugin.git"
-commit = "cbaf1ee71659e61b66193492e0bf4dc30eb035f8"
+commit = "5b76e9291ea459f728fc2f6326c6e43065592df8"
 owners = ["belzaru17"]
 project_path = "WorkshopOptimizerPlugin"
-changelog = "Improved rest day handling and items usable in more than one cycle."
+changelog = "Updated for 6.4 items and workshops."

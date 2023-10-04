@@ -2,8 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "3fbca2c9ac01f7545a805d8def895fbb6fb8846f"
+commit = "827b0da843e814dc374a68d186e8e5172745dc0c"
 changelog = """
-Updated for 6.4
-Added Anabaseios Raids
-Note: Default BiS will be added when available"""
+General: Updated for Dalamud API 9
+General: Updated for FFXIV 6.5"""
