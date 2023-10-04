@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/Glamaholic.git'
-commit = 'ff7a529b5aba4befab52b7f59845ad34ee12354e'
+commit = 'e86866ae6f44ce33220b11e38fdf100804be9240'
 owners = [ 'lojewalo' ]
-changelog = 'Fix for creating saved plates from the fitting room.'
+changelog = 'API 9'

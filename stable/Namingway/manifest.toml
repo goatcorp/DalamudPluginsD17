@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/Namingway.git'
-commit = '0719b2b6f0bf222c6b2f506c09813b5e3214c4d0'
+commit = 'e1f759bd58ff584f7dc01c89993ea4708149ab1b'
 owners = [ 'lojewalo' ]
-changelog = 'it should work'
+changelog = 'API 9'
