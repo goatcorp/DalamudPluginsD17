@@ -1,8 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/ARealmRecorded.git"
-commit = "63557dedf8ada6e9943cd191fd7d44d31f0c16cd"
+commit = "7de0beecd0fc5d2838cbbcbe6f77225bc1e131c4"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Moved from testing to stable
-- Shortened dates on the replay list
-- Fixed an issue with packets failing to save'''
+- Api9'''
