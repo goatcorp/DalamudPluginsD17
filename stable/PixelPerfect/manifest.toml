@@ -2,4 +2,5 @@
 repository = "https://github.com/Haplo064/PixelPerfect.git"
 commit = "695da84f28d1827bbf61cb5b635eb647a67caf89"
 owners = ["Haplo064"]
+<<<<<<< Updated upstream
 changelog = "Added dahed ring option, and updated for API9."
