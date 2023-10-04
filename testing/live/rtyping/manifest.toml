@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "15e3fcde97748a103a9f522052527478d6268b0c"
+commit = "21942bdf922976c2c8c31131cb02299243e7500e"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Force window to main monitor, hopefully fixes opaque window
+- Update for 6.5
 """

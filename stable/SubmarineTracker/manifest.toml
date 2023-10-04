@@ -1,19 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "99c830360feb496a6fb956669f31ea12664ac597"
+commit = "1438f41bffdfa9a3525ed994d1c1111c06f5bb71"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
-changelog = """
-[New]
-+ New command to access the config menu (/sconf)
-
-[Changes]
-+ All commands act as toggle now
-
-[Builder]
-+ Improvements to load and save
-+ Added 3 letter map identification 
-+ Allow overwrite of existing save with CTRL
-"""

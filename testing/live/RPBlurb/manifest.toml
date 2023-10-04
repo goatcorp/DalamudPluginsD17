@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/RPBlurb.git"
-commit = "e14c279d4b35c82d90770ff9f6463c4ef4b25083"
+commit = "1e2e012ae24131408b2b07f5bcbb3c27116833a1"
 owners = [
     "meoiswa"
 ]
@@ -18,4 +18,16 @@ Version 1.0.0.1:
 
 Version 1.0.0.2:
  - Bugfix: ImGui text centering on other plugin windows under other specific scenarios. (For real this time)
+
+Version 1.0.0.3:
+ - Bugfix: Plugin breaks when switching to an alt. Altholics rejoice!
+ - Improvement: Descriptions can now be twice as long (512 characters).
+
+Version 1.0.1.0:
+ - Improvement: Overlay is now hidden in combat. 
+ - Feature: Option to display overlay in combat.
+
+Version 1.0.2.0:
+ - Bugfix: Attempt to fix the Style Bleeding issue, 
+   where some users have reported RPBlurb alters the UI styling of other plugins.
 """

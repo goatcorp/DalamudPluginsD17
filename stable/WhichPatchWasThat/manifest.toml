@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "33098f55232e237b47c70ab14b5ae6ec0d3a795d"
+commit = "f67f2a123acaf5cffdc968b63bb1ed12ca5ac5b0"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Add support for mounts, minions and fashion accessories
+Will now show the patch a quest was released in in the journal and quest accept window.
 """

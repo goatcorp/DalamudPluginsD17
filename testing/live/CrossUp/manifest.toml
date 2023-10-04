@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "7ab44cba7818855c892086babf3a388731e0da4b"
+commit = "3e72f99c44a063a382f98b86d08ae25c6f4e4e0f"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- NOTICE: This update to CrossUp brings a number of changes to how the plugin's configurations are saved. The plugin will do its best to port over your prior configs, but you might notice that some have been reset.
-- The plugin can now save separate configurations for each HUD Layout slot. You can activate this feature in the "HUD Options" tab.
-- A new "Frame" style option has been added for the XHB selection backdrop. This is available within the "Look & Feel > Colors" tab.
-- The interface for Left/Right bar separation has been revised. While this feature is active, the Cross Hotbar's horizontal position will be locked to a point of your choice. This should resolve a bug that caused the bar to jump around unexpectedly with HUD changes.
-- When opening the main menu, the EXHB will now properly hide itself alongside the XHB.
-- You can now set a negative value for bar separation. The minimum value is now -142, which will place the Left/Right bars directly on top of each other.
+- Added text commands to modify plugin settings via chat/macros
+- Set up IPC for integration with other plugins
+- Prepped plugin text for translation
+
+This should be one of the last testing updates before the plugin moves over to stable. Be sure to send feedback if you run into any bugs I ought to squash! Lotsa thanks!
 """

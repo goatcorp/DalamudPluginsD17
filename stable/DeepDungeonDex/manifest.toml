@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "59d35e23abbe5e8b2424c569fdeb6a605b23284f"
-changelog = "### 2.5.5 (2023-04-18)\n\n\n### Bug Fixes\n\n* opacity not being set during load (a8ff4ba)"
-version = "2.5.5"
+commit = "2372b2e0e84f1c779b98ac3bf718af01f5906c70"
+changelog = "## 2.8.0 (2023-10-03)\n\n\n### Features\n\n* api 9 update (cf32904)"
+version = "2.8.0"

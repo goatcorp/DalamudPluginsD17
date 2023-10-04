@@ -1,6 +1,15 @@
 [plugin]
 repository = "https://github.com/UnknownX7/ARealmRecorded.git"
-commit = "209ff73a2cbb7222c6834271c0a467cd42d3e9d4"
+commit = "7338f564dfbfcd9d454ae70037d8f2930f372296"
 owners = [ "UnknownX7" ]
 changelog = '''
-'''
+- Major backend changes
+- Massively increased the speed for loading certain chapters and reduced the fade in and out time
+- Added recording on logging in
+- Added the duration of each chapter to the chapter dropdown box
+- Added a button to indicate when recording is disabled
+  - You can utilize this feature to enable recording and then relog while inside a duty if you forgot to do so beforehand
+- Added a settings button to open the in game UI
+- Added a feature to hide the extended playback controls
+- Fixed the first pull not being counted on replay tooltips
+- Fixed the plugin assuming you were stuck while watching a cutscene'''

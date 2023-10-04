@@ -1,19 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "3dfd116989bfb070ef993a6b1c842fb70021f17b"
+commit = "6e89f14a46fd1b66f48c9fb361fa83ed97d28e90"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.4.1.4"
+version = "1.6.1.6"
 changelog = """\
-Retainer Venture Column/Filter
-Real Money Shop Column/Filter
-Added a window for viewing ventures + window for individual ventures
-Added a new search operator, having a single ! will show all items that are not empty
-Gil is now right aligned for easier reading
-Added more mob spawn data(thanks users for contributing)
-Fixed a copy json to clipboard crash for craft lists
-Added a Item ID column
-Added a Source World column
+**New Features**
+- Added in a gathered by filter and column
 """

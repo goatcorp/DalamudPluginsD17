@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "52c35396c59b5730753407ecc3b3c2b31736abf3"
+commit = "873aac0b9794f84266dc1ce57b370d16fdc8dfa2"
 owners = [
     "tesu",
 ]
-changelog = "updates config options for the new behavior (automatically undercutting HQ when listing HQ, don't undercut own retainer)"
+changelog = "use hooks instead of opcodes"

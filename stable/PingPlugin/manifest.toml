@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "3cbd439a86de65f6f58d927d59fce7aa0de1d96a"
+commit = "7b6cfa524ee7906dd7a624afc26ebd3a6d6bd81a"
 owners = ["karashiiro"]
 changelog = """\
-- Fixed server bar display failing to set up sometimes
+- Fix ping sometimes getting stuck at 0ms (thanks Diyagi!)
 """

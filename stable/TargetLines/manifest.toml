@@ -1,27 +1,14 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "49b5ce9d95efdb8a0474acc53fa14f70adae483a"
+commit = "f135a3b9d8ffb526af9dd65451b936e28a9536db"
 owners = ["Drahsid"]
 project_path = ""
-changelog = """1.1.0
-- Fixed Actor Refresh bug
-- Added option to toggle breathing
-- Added option for pulsing line
-- End caps of lines will no longer render if that half of the line intersects the camera
-- Added option to place the start and end point of lines at the target point instead of the feet
-- Some memory optimizations
-1.2.0
-- Added target filtering (Marked old color values obsolete, and implemented a new system for this)
-- Adjusted default values
-- Made the 'in combat' option more in depth
-- Added tooltips
-- Added outline option for fancy lines
-- Changed 'start at feet' to be a 0-1 float
-- State-machinified the TargetLine class (many minor bugs fixed, and logic is readable)
-- Visibility check now takes into account if the points are even on screen, and it checks the feet and head of the objects
-1.2.1
-- Fixed bug related to filtering shield healers
-- Fixed bug where occlusion culling may have applied if the option was disabled
-- Adjusted flag priority
-- Adjustment to default colors
+changelog = """1.2.7
+- Improved the rendering of fancy lines, now they should look less looney when they clip the camera
+- Improved visibility logic
+- Improved logic relating to intangible game objects (ghost lines should no longer appear)
+- Set default sample count for fancy lines to an odd number (should give the line a middle point with the default config)
+- Made visibility check on Game Objects less aggresive
+- Introduced a regression, where the sample count for lines is only applied when the line is constructed
 """
+

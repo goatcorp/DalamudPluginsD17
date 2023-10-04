@@ -1,22 +1,18 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "69f6eb236e88c27e675c784ef25096d1cf4b178e"
+commit = "c1e775e3f4b00a23714b685fb9c0ee1e365da2e9"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-New Changes:
-- Set fallback sendername value if there is none. This will be `FFXIV Bridge Worker <your character name>`
+Adds the following new commands:
+- `xl!toggleembed` - Switches between Webhooks and classical Embeds
+- `xl!togglesender` - Toggles whether or not to include the sender name in the message content
 
-Last Changes:
-- Fixed duplicate chat issue.
-- Added a classic embed fallback feature in case webhooks fail.
-- Fixes for NET7 / API 8
-- Updated library dependencies and switched to NetStone as submodule.
-- Switched to using full-width ＠ because Discord started enforcing username requirements on webhooks and @ isn't allowed there.
+Adds a bandaid for Discord's new username changes. Remember to thank Discord for removing discrimination from their platform. The bot also always accepted user ID numbers, but now it's explicitly mentioned in the setup window.
 
-
-**If your bot stopped working in September 2022, please enable Message Intents. See the setup guide for updated steps.**
+Adds the following new commands:
+- xl!toggledefaultnameavatar - Switches webhook mode to use a generic bot username and avatar so messages stack. Should be combined with xl!togglesender or you will have no idea who said what.
 """

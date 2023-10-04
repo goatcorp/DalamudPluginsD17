@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "c24d7f3ddb6c9ad020bcb64e20cad5cf826645b0"
+commit = "618166aac7c5ba16a69ce91d404cd257370ae90b"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """ Version 1.9
-- Target to API 8
-- Target to .NET 7
-- Updated translations
+changelog = """- Updated community translation
+- A big Thank You to everyone who helped with translation!
 """

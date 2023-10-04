@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "11e8d1dda3438ce917c5a7f79b3f09e17496a85e"
+commit = "2bc0ea1cfcb04a25bf2b055531d250def8c7da1a"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Fixed recipe for Wisdom of the Fiendhunter.
+- Update for 6.5
 """

@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "04c25733b44f910fbe241f095e4272995a3ebc39"
+commit = "9680b66cd5a783d26398379c841d854019cc16c1"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added the option [Improved Magicite Kills Detection], under General tab > Testing section.
+- Added [Score Window Kills] for HoH. Check General tab >>> Information section for more info.
+- The option [Improved Magicite Kills Detection] is enabled by default (always enabled for now).
+- The time for checking the [Time Bonus] was increased by 1 second. (from 30:01 to 30:02).
+- Small tweaks.
 """

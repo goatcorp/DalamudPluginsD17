@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "34d517340be9295ff2ec919bc8a8fb2e3008b8f3"
+commit = "bd60109fefc25c07173cb33884c064134e0f9881"
 owners = ["Kirrana"]
 project_path = "SamplePlugin"
-changelog = "Adds support for skipping 1,2,3,4 frames instead of only 1"
+changelog = "Reworked how the entire thing works, can now select a framerate that physics will be (approximately) run at directly, instead of dividing the FPS by a constant value."

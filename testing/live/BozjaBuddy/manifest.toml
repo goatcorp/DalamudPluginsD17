@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "3daf957f0fbaaa3ad10ccf33be239d32e3e21aac"
+commit = "5a2cc6f0cea74595ee5be2501d5bf2dfdeae48e9"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 0.3.0.3
-
-- Added option for Fate/CE alarms to be set to all FATEs, all CEs, all FATE/CEs, and can be filtered by zone (e.g. Zadnor zone 3). These options exclude CLL, Dalriada, Delubrum Reginae Normal & Savage.
-
-- Fixed a bug in Custom loadout tab where the whole tab would be unavailable upon using any Custom loadout Filter related features.
-- Fixed a bug in Custom loadout tab where disabling rec. loadouts would also hide user's loadouts.
-- Fixed a bug (hopefully) in Custom loadout tab where the Import from Clipboard button would not work properly. 
-- Fixed a bug where Fate/CEs would be assigned incorrect Area.
+Bozja Buddy [1.1.4.1]
+- Added Relic guide and tracking.
+- Adjustments with node graph viewer stuff.
 """

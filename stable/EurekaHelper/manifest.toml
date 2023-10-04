@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "e4ec252f4123fec0992a6cc739f5c39177ef083d"
+commit = "dce6cd8fde87ef621294b262ed6d6e3b8ce514a1"
 owners = ["snooooowy"]
 project_path = "EurekaHelper"
 changelog = """
-Relic Helper
-- Fix text not turning green when you have exact amount
-
 Elemental Manager
-- Add crowdsourced known positions to plugin
+- Added crowdsourced positions
 
-Opt-in and assist to crowdsource all the Elemental positions
-Post new positions on GitHub pinned issue or through Discord DM
+Misc
+- Updated contact information
 """
