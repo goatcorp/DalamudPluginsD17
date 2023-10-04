@@ -3,6 +3,6 @@ repository = "https://github.com/marconsou/mp-tick-bar.git"
 commit = "0d89260ffb1090f8a9b7d578d3a287afc2e21b54"
 owners = ["marconsou"]
 project_path = "MPTickBar"
-changelog = """Version 1.4.1.6
+changelog = """
 - Patch 6.5 / Dalamud API 9 update.
 """
