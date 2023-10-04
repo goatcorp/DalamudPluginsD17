@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Caraxi/FPSPlugin.git"
-commit = "cc1c09e9bef15079126cdb14f307e7e7633d4617"
+commit = "592ff1adb06b021182e7cf701a3db776f4e4c7b3"
 owners = [
     "Caraxi",
 ]

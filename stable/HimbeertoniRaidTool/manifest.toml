@@ -2,12 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "db8a4175507b3e8411afae0da6d6fd7b68cc57ff"
+commit = "827b0da843e814dc374a68d186e8e5172745dc0c"
 changelog = """
-Ui: You can now manage jobs directly in solo and detail view
-Ui: Old Examine button is now Quick Compare
-LootRule: Fixed "Can Buy"
-Options: reworked Ui for loot rules
-LootSession: You can ignore players/jobs based on certain rules
-LootMaster: you can now edit name + role priority for the Solo group        
-Translation: Updated French translation (Thanks to Arganier)"""
+General: Updated for Dalamud API 9
+General: Updated for FFXIV 6.5"""

@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '829bf354d8b1c6a6a5f030ded376dc75f1068bd1'
+commit = '97a1cb97a9904c5c54264b14b848be8421539156'
 owners = [ 'lojewalo' ]
 project_path = 'client'
 changelog = """\
-- Housing areas now have messages separated by ward/plot.
+- API 9
 """

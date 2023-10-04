@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/Tourist.git'
-commit = '5fd80a63589275230da6cf097e808783fe35edd7'
+commit = '40de971de6af2da812463512e31666055df68c6f'
 owners = [ 'lojewalo' ]
-changelog = 'Fix a crash in squadrons'
+changelog = 'API 9'

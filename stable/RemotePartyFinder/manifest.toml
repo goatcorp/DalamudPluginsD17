@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/remote-party-finder.git'
-commit = '3ab9670da14f988ee49b45f46e96ae2469f25057'
+commit = 'ef22082e539705f2aac24f0035577600246bcfb7'
 owners = [ 'lojewalo' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = 'API 8'
+changelog = 'API 9'

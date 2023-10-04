@@ -1,7 +1,7 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/ChatTwo.git'
-commit = '32e7fbe5863991c1417138307fa2760da52f5262'
+commit = '5094e70e7e7d6c6e92acde3ac2e35baa6ad41469'
 owners = [ 'lojewalo' ]
 changelog = """\
-- Update for 6.4
+- API 9
 """

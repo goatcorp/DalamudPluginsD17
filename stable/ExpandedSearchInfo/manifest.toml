@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/ExpandedSearchInfo.git'
-commit = '672e83e186542348c3eb1c06e04ecd96a5617448'
+commit = 'b8c2c2afaafbb42eb7eab2a61e4500b250d6f883'
 owners = [ 'lojewalo' ]
-changelog = '.NET 7'
+changelog = 'API 9'
