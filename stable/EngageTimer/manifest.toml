@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "0c3753f6facd0e2002c0132b314084d7cf3a6ce1"
+commit = "69ff776388847692aefa0309300d3535792edda8"
 owners = ["xorus"]
 changelog = """\
-- Fix decimals not being properly hidden with the display threshold option"""
+- Countdown Ticks: option to make them start at a certain time (e.g. only tick 1 to 10 numbers)
+- Updated to api 9
+"""

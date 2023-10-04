@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "f67f2a123acaf5cffdc968b63bb1ed12ca5ac5b0"
+commit = "f943de35e107ff88a289f7d914b30137a9753647"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Will now show the patch a quest was released in in the journal and quest accept window.
+Update for patch 6.5
 """

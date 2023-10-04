@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NotNite/DistantSeas.git"
-commit = "1558ef989175567109d0248331ed3dde71ac0f64"
+commit = "91d4fa0f6a5d5d53c87f15e0653dc5c59e95649d"
 owners = ["NotNite"]
 project_path = "DistantSeas"

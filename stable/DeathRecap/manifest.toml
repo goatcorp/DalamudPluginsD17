@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "303394e6707b9fc1159c1b73daab1277d9c57b18"
+commit = "1d596906358d7f170c3d40ed015696d7772dd9e1"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Now uses the "System Message" chat type as default to avoid spamming all chat windows.
-Also fixed some chat types missing a space between player name and "has".
+Update for patch 6.5
 """

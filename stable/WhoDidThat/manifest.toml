@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "02788ddd19ec97cc9307223bc301f0f6b9af9db7"
+commit = "e496f52ce3b5ef5069fb30a29aa5ed324345ea64"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Added a combat timer. Now you can see exactly when abilities were used in a fight!"
+changelog = "Validated for 6.5. Please report any issues through feedback!"

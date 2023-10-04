@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "2b1fe544fd5b9ec79f84e033627c53dc247b42aa"
+commit = "d0366deff8edd3941ea327e2c309c427ef3ef3cd"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed tooltip text color displaying incorrectly when using light theme
+Fixed tooltip text having randomized character spacing
 """
