@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "2b1fe544fd5b9ec79f84e033627c53dc247b42aa"
+commit = "ff7141f98b6455c56dc268adb6ca8251d106ca03"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed tooltip text color displaying incorrectly when using light theme
+Update for patch 6.5
 """
