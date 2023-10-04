@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "d74dc497de7ad2e9ac487264956cab0fb89dbb4e"
+commit = "09a16b04420b9c7b110bea23edbd24d5b7535ad0"
 owners = [ "UnknownX7" ]
 changelog = '''
-'''
+- Api9'''
