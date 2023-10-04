@@ -1,14 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/ResizableHUD.git"
-commit = "33329c857313d9209e66722f2847f58835ee026f"
+commit = "01d0da4d1450ab9059c4a67b025a906a1968aa13"
 owners = ["Drahsid"]
-project_path = ""
-changelog = """1.1.5
-- Bumped version numver
-1.1.6
-- Added opacity option
-1.1.7
-- Fix scaling being disabled by default on new entries (should have been opacity)
-- Added option to update values to on screen values
-- Fixed version numbers in changelog
+project_path = "ResizableHUD"
+changelog = """
+- Updated for 6.5
+- Updated for API9
 """
