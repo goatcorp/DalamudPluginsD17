@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "10174c7ecac47c57f0c8f765f1a019aa4082ced3"
+commit = "6e56524098f4357e5f055c77bce2e57c7103edde"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "6.5 / API9"
+changelog = "- UI Adjustments:\n  - Custom Tracker now is above currencies listbox.\n  - Reformed the interface of Custom Tracker, which should bring much performance improvement.\n  - Now the Delete button in Custom Tracker is merged with the Hide button above currencies listbox. When selecting a preset currency, the Hide button will be displayed, while when selecting a custom currency, the delete button will be displayed.\n- BUG Fixes / Functional Adjustments:\n  - Fix an issue that cause Chat Mode failing in some certain situations.\n  - Fixed compatibility issues with Custom Tracker and some new features.\n  - Modified the code logic after adding currency in Custom Tracker\n  - Modified the logic of the Min Value, and optimized the code logic for handling currency changes that occur after the Duty is completed but still within the Duty area\n  - The switch of Track In Duty no longer affects the display of Min Value button"
