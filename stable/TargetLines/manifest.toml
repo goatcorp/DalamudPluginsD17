@@ -2,7 +2,7 @@
 repository = "https://github.com/Drahsid/TargetLines.git"
 commit = "bb267f59c18f69ce97b884752854d4629deec258"
 owners = ["Drahsid"]
-project_path = ""
+project_path = "TargetLines"
 changelog = """
 - Updated for 6.5
 - Updated for API9
