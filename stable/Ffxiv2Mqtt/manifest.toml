@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "8f989ab874b3df3549b92185977a6e3dcae83373"
+commit = "1bfad2d91529ada9a53aefe52796d7f63feab2b7"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """Updated dependencies."""
+changelog = """Updated for 6.5"""
