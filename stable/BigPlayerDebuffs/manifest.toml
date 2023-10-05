@@ -5,16 +5,17 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/rgd87/BigPlayerDebuffs.git"
 # The commit to check out and build from the repository.
-commit = "b29da9f478a32d30e3966fb63c1ec8078c912bdc"
+commit = "9493748c6ba13b1d494672700fac043c3bb593bc"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "d87"
 ]
+project_path = "BigPlayerDebuffs"
 # Optional: where your project/csproj is located within the repository.
 # If empty or unspecified, it will be assumed the project is in the root of the repository.
 # project_path = "plugin"
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = "v1.1.0.8 - 6.3 Dalamud Update"
+changelog = "v1.1.0.9 - 6.5 Dalamud Update"
 # Optional: the version of the plugin. If not present, the `<Version>` specified in the `csproj`
 # will be used. If this is specified, `<Version>` must not be specified - they are mutually
 # exclusive. This allows CI workflows to generate new manifests based on e.g. Git repo tags.
