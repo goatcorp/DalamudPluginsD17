@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MacroRecorded.git"
-commit = "053dcfd3d5f15befdfa97bd791cae3055c5ada50"
+commit = "4006a155c7c4755eac94b8a08bb6d8dd81d04841"
 owners = [
     "danielbrenom",
 ]
 project_path = "MacroRecorded"
-changelog = """- Patch 6.4 package updates
+changelog = """- Patch 6.5 update
+- Dalamud API update
  """
