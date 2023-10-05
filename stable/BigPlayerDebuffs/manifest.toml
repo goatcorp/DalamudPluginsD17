@@ -10,7 +10,7 @@ commit = "9493748c6ba13b1d494672700fac043c3bb593bc"
 owners = [
     "d87"
 ]
-project_path = "BigPlayerDebuffs"
+# project_path = "BigPlayerDebuffs"
 # Optional: where your project/csproj is located within the repository.
 # If empty or unspecified, it will be assumed the project is in the root of the repository.
 # project_path = "plugin"
