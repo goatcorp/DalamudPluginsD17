@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/justscribe/g4e_ukrchatsupport.git"
-commit = "0b59c2190e2ff6ea5d8cdac1d8e23294bd4e6d66"
+commit = "614b2ebd0a60fb27a7da1a31c201f6eeb810e7f5"
 owners = ["justscribe"]
 project_path = "G4EUkrChatSupport"
-changelog = "Fix for ConfigWindow size."
+changelog = "Updated with new Dalamud requirements."
