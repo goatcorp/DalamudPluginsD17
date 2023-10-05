@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
+owners = [ "PrincessRTFM",]
+project_path = ""
+commit = "fbd01a7a546f6bfd4d7f272e922f4ac5a0b74de5"
+changelog = "Automatically turns mount BGM on or off when you use a mount, depending on which mount it is. By default, all mounts enable BGM when used. The command (`/automountbgm`) allows you to configure your current mount to disable it, or re-enable it if you change your mind."
