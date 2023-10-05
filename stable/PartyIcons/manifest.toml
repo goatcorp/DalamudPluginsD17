@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/shdwp/xivPartyIcons.git"
-commit = "b982fdea1709f3b46a9955a1f8fe958890f08612"
+commit = "65d3a70f7dbb01312c352ff16a68bf248645600b"
 owners = [
     "shdwp",
     "avafloww",
-    "squidmade",
+    "abashby",
 ]
 project_path = "PartyIcons"
 changelog = """
-- Update for 6.3, API 8, and .NET 7
-- Thanks PhaineOfCatz for the new PartyIcons plugin icon
-- Thanks Nicolette Phoenix for providing development support
+- Update for 6.4
 """

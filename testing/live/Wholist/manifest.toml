@@ -1,14 +1,24 @@
 [plugin]
 repository = "https://github.com/BitsOfAByte/Wholist.git"
-commit = "afece6d3b1dc2b938ca5db440c6870bee84f0148"
+commit = "7638a118a8fc15a6a4eb9dd4bed93e43b68dee3a"
 owners = [
     "BitsOfAByte",
 ]
 project_path = "Wholist"
 changelog = """
-Fixes:
-    - Fix list displaying a 'level 0 adventurer' when the examine/adventurer plate window was open
+**One of the last pre-releases before moving to a full stable release** 
 
-Translations
-- Add full Japanese translation.
+**New Features**
+
+- The 'Nearby Players' list is now sorted alphabetically by default.
+- New configuration options have been added:
+	* 'Show known players first': display friends, party members & other known players on the top of the list
+
+**Improvements**
+
+- The 'Nearby Players' list will now sort by distance when finding players nearby to you. In practice, this means that when you've set the 'max players shown' to lower than the current nearby players, the people closest to you will be shown first.
+
+**Translation Updates**
+
+- German translation updates
 """

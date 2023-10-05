@@ -1,9 +1,17 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "7437ac11d9d34972de774902f8f376d10863a312"
+commit = "2a6ca2328fd2f84913e6da9a54f960f330bbace5"
 owners = [
     "electr0sheep",
+    "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
-changelog = "- Fix bug I introduced for official release *facepalm* where nothing has a location"
-version = "1.0.0.1"
+changelog = """
+- Add Chinese localization
+- Fix for Aenc Ose shop name
+- Remove Garland Tools data source
+- Fix GC bugs (hopefully)
+- Add Keybinding option to switch between single and multiple results
+- Manually add a few NPC locations
+"""
+version = "2.3.0.0"

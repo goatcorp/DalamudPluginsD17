@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "77da34f2edfa7c6e82d96f7c5274b5a30d199b53"
+commit = "649141bd643d7fb0e0bd3bf9c0e2306626584305"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "- Fixed search bar with an active search disappearing when switching tabs."
+changelog = "- Added support for Patch 6.4."

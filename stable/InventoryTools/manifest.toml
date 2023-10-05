@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "8597b973a111b12a50ceee4ed19f8b21fd7f1949"
+commit = "be2a8ef9cef105a7fa688dfaad09a898cdaa5b6e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Mini update, one new feature and a refresh on some of the data sourced from garland tools for 6.2\n- Thanks to @sabrinaxiv we have a new setting for tooltips, 'Limit to items belonging to the current character?'"
-version = "1.2.0.5"
+version = "1.6.1.8"
+changelog = """\
+**Bug fix**
+- Fix crash that occurs due to duplicate item patch data
+- :plofix:
+"""

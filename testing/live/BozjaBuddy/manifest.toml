@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/kaleidocli/BozjaBuddy.git"
+commit = "5a2cc6f0cea74595ee5be2501d5bf2dfdeae48e9"
+owners = ["kaleidocli"]
+project_path = "BozjaBuddy"
+changelog = """
+Bozja Buddy [1.1.4.1]
+- Added Relic guide and tracking.
+- Adjustments with node graph viewer stuff.
+"""

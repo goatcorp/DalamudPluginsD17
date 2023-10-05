@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Drahsid/TargetLines.git"
+commit = "5c4e038244cc6d9543f809d8c8cac30019f37f8f"
+owners = ["Drahsid"]
+project_path = "TargetLines"
+changelog = """
+- Updated for 6.5
+- Updated for API9
+- Minor fixes
+"""
+

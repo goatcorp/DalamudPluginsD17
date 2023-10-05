@@ -1,7 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = '53043bd2864ff29b26e4440b90106f9fc5a6abb9'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/ChatTwo.git'
+commit = '5094e70e7e7d6c6e92acde3ac2e35baa6ad41469'
+owners = [ 'lojewalo' ]
 changelog = """\
-- API 8
+- API 9
 """

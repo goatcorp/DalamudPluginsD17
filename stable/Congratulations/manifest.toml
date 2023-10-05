@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
+commit = "51631abb71636e2a49e3a27701a78ced94145c1d"
+owners = ["Berna-L"]
+project_path = "Congratulations"
+changelog = """
+Update to API 9 / patch 6.5.
+"""

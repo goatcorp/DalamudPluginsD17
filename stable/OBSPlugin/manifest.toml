@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
+commit = "03da86900240040a258e856dbc42bf7822fd7dab"
+owners = ["Bluefissure"]
+changelog = """- StreamFX -> Composite Blur\
+- api9 (patch6.5)"""

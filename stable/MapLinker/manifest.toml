@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bluefissure/MapLinker.git"
-commit = "74deaa47e7948913595501e4ffcff39be7239959"
+commit = "676e070d533f08ba408670322fb8966431d2da6e"
 owners = ["Bluefissure"]
 project_path = "MapLinker"
-changelog = "Fix linw wrap & UI mod during combat"
+changelog = "Patch 6.5 & API9"

@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "24955fbcded462a8b5b6ea9cc417753eaaa2966d"
+commit = "5072d3bfc19d6ff3ad870f85be8791515eab97bc"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
-- i love roblox!
+- UI overhaul (fully featured settings window)
+- added distance-based oof
+- bugfixes & performance fix
+- last release before sending it off stable
 """

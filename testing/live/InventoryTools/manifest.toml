@@ -1,9 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "11dc0fc"
+commit = "baefeee3d269d1b5bf5c1ea7a1e9f478a544ad96"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "Inventory and configuration saving are now run asynchronously except when the plugin is disposing to stop potential hitches. Fixed an issue with memory sort order parsing not actually being needed when the client is first started and no ITEMODR file exists. "
-version = "1.2.0.11"
+version = "1.6.0.4"
+changelog = """\
+**Allagan Tools: v1.6.0.4**
+- Have finished crafts count correctly towards completion based on their flags
+- Add the ability to choose "Empty" as a source
+- Fix an issue where setting an item to 0 while Hide Completed is active would remove all the items
+- The craft table now has a moveable splitter with a saved position + the original collapse functionality
+- Copying a configuration into the default craft list now works
+- Stopped items that can't be bought from gil vendors from being considered as buyable(even if they have a buy from vendor price)
+- Unless there are other bugs this will be the final release before this is pushed to live
+"""

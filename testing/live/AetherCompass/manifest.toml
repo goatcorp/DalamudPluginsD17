@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/yomishino/FFXIVAetherCompass.git"
-commit = "5216a3af5193c41e868aab7a996a55bd7a4619a9"
+commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
 owners = [ "yomishino" ]
-changelog = """- Fix config loading issue (Thanks to Caraxi)
+changelog = """Patch 6.3 Update
+
+- New compass Eureka Elementals for detecting elementals in Eureka (by apetih)
+- Other minor update and bug fixes to Island Sanctuary Compass
 """

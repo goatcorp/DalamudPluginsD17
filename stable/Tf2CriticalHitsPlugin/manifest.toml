@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
+commit = "67ce7e09f4014b3634462718565d77aa7ca6f729"
+owners = ["Berna-L"]
+project_path = "Tf2CriticalHitsPlugin"
+changelog = """
+Update for API 9.
+"""

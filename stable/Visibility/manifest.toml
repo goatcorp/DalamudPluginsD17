@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
-commit = "e0f097a38c924d8f3cb486e259b72ba413c1c0c1"
-owners = ["SheepGoMeh"]
+owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-changelog = "Reworked core logic.\nAdded support for bard performance mode.\nUpdated Spanish translation."
+commit = "6fe8d4af8971e47caf3e8daeaf7ceef7db61a9c7"
+changelog = "[PR] API9"

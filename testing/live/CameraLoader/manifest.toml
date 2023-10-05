@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/NeNeppie/LightsCameraAction.git"
+commit = "206cb2406f464a85d029bc1f3c4f89fabb6748c0"
+owners = ["NeNeppie"]
+project_path = "CameraLoader"
+changelog = "- Updated for API 9 / 6.5"

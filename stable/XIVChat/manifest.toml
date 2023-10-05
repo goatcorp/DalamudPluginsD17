@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/XIVChat/XIVChat.git'
-commit = '214c90e01584e4c4a017f1b7631abf77d86e6922'
-owners = [ 'ascclemens' ]
+commit = 'a65c73a9ffc8b44626fbe11b06294fb362cb2507'
+owners = [ 'lojewalo' ]
 project_path = 'XIVChatPlugin'
 changelog = """\
-- API 8
+- API 9
 """

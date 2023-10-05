@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Arrenton/AudibleCharacterStatus.git"
+commit = "d4615cb10e8c6960f29609b595f219e7374245c9"
+owners = [
+    "Arrenton",
+]
+changelog = """
+Updated for API 8, volume level setting provides a more consistant change.
+"""

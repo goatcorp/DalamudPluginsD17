@@ -58,7 +58,7 @@ jobs:
     - name: Cache docker image
       uses: actions/cache@v3
       env:
-        cache-name: plogon
+        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
       with:
         path: ~/.plogon_cache
         key: cache-${{ env.cache-name }}
@@ -67,10 +67,12 @@ jobs:
       id: plogon_run
       working-directory: Plogon/Plogon
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_BOT_PAT }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
+        PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
+        PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
@@ -82,7 +84,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci
+        --ci --mode=PullRequest
 
         cat $GITHUB_STEP_SUMMARY
         echo ::set-output name=summary::$(cat $GITHUB_STEP_SUMMARY)

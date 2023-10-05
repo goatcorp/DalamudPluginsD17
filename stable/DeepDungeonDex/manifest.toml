@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "b0398cb1aaaf52a70d4a241bf5d408f43b0c32d8"
-changelog = "### 2.3.1 (2023-01-12)\n\n\n### Bug Fixes\n\n* add a better safeguard against invalid InstanceContent (58c61d6)"
-version = "2.3.1"
+commit = "2372b2e0e84f1c779b98ac3bf718af01f5906c70"
+changelog = "## 2.8.0 (2023-10-03)\n\n\n### Features\n\n* api 9 update (cf32904)"
+version = "2.8.0"
