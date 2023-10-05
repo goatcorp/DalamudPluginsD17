@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "fa8647dd4bb4eab10ba006ff9c4bf02a8cd7bd09"
+commit = "fc2ad8ef64e9cdb43d32dc235f970a40b5dd76df"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes login issue in Azure backend
+- Updates for API 9
 """
