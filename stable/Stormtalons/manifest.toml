@@ -1,5 +1,5 @@
 [plugin]
-changelog = "- Fixed decaying stormtalon bar counter"
-commit = "4d25c674a5733b02343ce585383ab424a2f1e7b7"
+changelog = "Updated for patch 6.5"
+commit = "f8c83352d35dda8f70d14595223b1e6532bb2513"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"
