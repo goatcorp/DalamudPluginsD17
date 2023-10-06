@@ -1,22 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "7431d8290d80d71e61f4447da204add0323cd670"
+commit = "6482d2a630c56567c5460643bcb8f86a5e5c3bc3"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.1.2]
-    + Fixed map tooltips not displaying properly.
-    + [1.4.1.1]
-    + Fixed Redraw not working if avaiable for user.
-    + [1.4.1.0]
-    Due to the huge increase in users I've gotten I am pushing this update early. It fixes a lot of important bugs, but please help me find if more bugs pop up. Thank You All :D
-    + Added a theme editor.
-    + Better settings menu.
-    + Added a Changelog Window.
-    + Most UI is now Resizable.
-    + Save File Version Updated from Version 6 to Version 7.
-    + French emotes now work better.
-    + Fixed a lot of Text Replacement Bugs.
-    + Some windows wont randomly reset anymore. (Sorry, this includes everything but the pet list :( )
-    + Cleaned up a lot of the code.
-    + Increased performance in some areas.
+    + [1.4.1.3]
+    + Fixed Emotes not displaying properly in certain situations.
 """
