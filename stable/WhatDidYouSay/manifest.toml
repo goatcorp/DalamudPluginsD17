@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WhatDidYouSay.git"
-commit = "4f100f92ebaf41f1f71423ce4cc298f35a426f23"
+commit = "43d57d6b79636455650e5c3739c754b42ec3a48f"
 owners = [
     "PunishedPineapple",
 ]
