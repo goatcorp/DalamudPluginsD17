@@ -4,4 +4,4 @@ commit = "4e66d1a87fca577bfe6d6b04b6b0ccf86ce91253"
 owners = [
     "lokinmodar",
 ]
-changelog = "API9 fixes"
+changelog = "API9 related fixes"
