@@ -1,29 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "d124bb48e981b8e9b0ab1b957e01c75fe07f09e4"
+commit = "4e289ebd744748da6144678d5c192a2be3371fab"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
-changelog = """
-[Builder]
-+ Leveling Tab has been added (thanks @ WildWolf for all the improvements)
-> Allows for a simple, customisable leveling calculator to show progress towards target Rank 
-+ Added new maximize option, for more information see the "(i)" icon in the menu
-+ Wide variety of small UI improvements
-+ All calculations now factor in guaranteed bonus experience
-
-[Tracker]
-+ The All Tab has been reworked, allowing space to show more FCs at once
-+ Yellow color will now be added to the name of the submarine that will require repair on voyage return
-+ A tooltip will show more information when hovering over any submarine
-+ The detailed view of submarines including more specific information, such as number of voyages until repairs, etc
-
-[Loot]
-+ The voyage tab has been reworked, condensing information to allow more to be shown at once
-+ Exclude Legacy now also effects the voyage history
-+ Voyage history has been reversed, the latest voyage will now always display at the top of the list
-
-Info:
-I'm looking for loot data samples, if you wish to contribute and help my efforts, please use the export function (Exluce Date Yes) in the addon and send the created dump file into the linked discord thread (Config > About Tab).
-"""

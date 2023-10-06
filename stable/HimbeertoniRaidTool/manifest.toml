@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "635dafb28ad3311401629c816808e8b65fdf6b25"
-changelog = "General: Fix a crash when using wine"
+commit = "827b0da843e814dc374a68d186e8e5172745dc0c"
+changelog = """
+General: Updated for Dalamud API 9
+General: Updated for FFXIV 6.5"""

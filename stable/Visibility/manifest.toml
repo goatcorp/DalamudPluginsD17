@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "5b4cec4c9e3530a4f8d411f69c3e3476d26aa718"
-changelog = "- Fixed context menus not working properly\n- Added missing zones to the advanced configuration option"
+commit = "6fe8d4af8971e47caf3e8daeaf7ceef7db61a9c7"
+changelog = "[PR] API9"

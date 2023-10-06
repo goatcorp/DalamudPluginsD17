@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "e5c4d7ac229cf577178129454ba32716e9bf31e3"
+commit = "fc2ad8ef64e9cdb43d32dc235f970a40b5dd76df"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Possibly fix install issues in 1.26.0 better
+- Updates for API 9
 """

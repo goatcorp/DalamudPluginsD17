@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "3f5f8a23dcd65b8e996d0f2da3cb65f040b2b6c8"
+commit = "d96e3111b5d8a576080da53667fae8a7b792a77b"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Add ability to manually set Discord usernames for characters (many thanks to Archon for implementing this!)
-
-  Head into the plugin settings and click "Advanced Individual Assignments" to set this up.
+Updated for API 9 (patch 6.5), and added a `/whostalking` command to open the plugin settings. Also fixed a mostly-hypothetical memory leak, and (hopefully) removed some overly-verbose error logging.
 """

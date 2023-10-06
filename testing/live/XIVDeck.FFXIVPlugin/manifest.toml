@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/KazWolfe/XIVDeck.git"
-commit = "d4a8470c9f23d5f5f50975ddf3a12f6bba8cd5c4"
+commit = "d1e264b14374401703546898cfdb01223b4b8011"
 owners = [
     "KazWolfe",
 ]

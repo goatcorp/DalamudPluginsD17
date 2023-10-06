@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "0a99f39cab1f70a1285d3ab184594cd840a1bd5d"
+commit = "0d97ed67a58f187fa740a4af54b486a80e87da12"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Patch 6.4 update
+changelog = """- Patch 6.5 update
+- Dalamud API update
  """
