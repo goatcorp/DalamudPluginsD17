@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "746c3adf9de6d3ec2c0b44779c172761cb47c373"
+commit = "4db9f297476761b2111f5fada3db159a22ea8386"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """- Adjustments for API 9
+changelog = """- Fixed a bug where the game can crash very randomly or on close
 """
