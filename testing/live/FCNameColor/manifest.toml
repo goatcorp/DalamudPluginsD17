@@ -1,8 +1,14 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "6d57f2206b9d0090f6222ff9da2993fdb544bd74"
+commit = "64195a25f28d2217c7325f06e75fe7a95a2b2176"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 6.4
+- Update for 6.5
+- Reworked configuration to reduce config size
+- Add ignore friends option
+- Add ability to change the group for the player's own FC
+- Allowed for additional FC list to scale for longer lists
+- Wrote migration from old config to new config
+- Switched over to new method of doing the nameplates, this should alleviate issues with name abbreviation settings
 """
