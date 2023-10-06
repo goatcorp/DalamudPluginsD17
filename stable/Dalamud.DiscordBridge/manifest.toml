@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "80929aa4804a2b74d0f93fb50561d95e56835bab"
+commit = "6af77bbf3f8030f10101b6eb87cd3a3d7a1b4012"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Adds the following new commands:
-- `xl!toggleembed` - Switches between Webhooks and classical Embeds
-- `xl!togglesender` - Toggles whether or not to include the sender name in the message content
+Updated for API 9.
 """

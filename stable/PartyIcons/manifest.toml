@@ -1,18 +1,12 @@
 [plugin]
 repository = "https://github.com/shdwp/xivPartyIcons.git"
-commit = "e377e6311ae129efff97e40b862aa3b2f2228701"
+commit = "65d3a70f7dbb01312c352ff16a68bf248645600b"
 owners = [
     "shdwp",
     "avafloww",
-    "squidmade",
+    "abashby",
 ]
 project_path = "PartyIcons"
 changelog = """
-- Added the following icons as priority icons:
-  - Looking to Meld Materia
-  - Looking for Party
-  - Game Master
-  - Game QA
-  - Event Participant
-- I plan to go through and just add all of the overworld player icons (with exceptions as needed) since that'd be easier than adding them gradually as requested.
+- Update for 6.4
 """

@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "8e5552f5f3371e619642499d92dd8f61808a6489"
+commit = "82f98489803b7d065a1968ab098be70e87cc2dd5"
 owners = [
     "electr0sheep",
+    "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fixed issue with Filter GC Results option
+- Added support for collectable shops (Nuko)
+- Added some support for relic weapons (Nuko)
+- Fix tooltip error (Nebel)
+- Update to API 9
 """
-version = "2.2.0.1"
+version = "2.4.0.0"

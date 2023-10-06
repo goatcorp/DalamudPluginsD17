@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "a212c0719c5a344e2086fcf63d7527d7f392474d"
+commit = "6383623042ac432270c7407d5e42dca0d370166d"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- a tiny description enhancement
-- fix cannot load data after change Dalamud location
+- fix incorrect initial especially for new users
 """

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "01e4bea31c1703f8cb624bbda8875cf5dde15b0f"
+commit = "8ee1642d06e0fb92e12d2af2e5b18081409e8cc3"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for FFXIV patch 6.4.
+- Updated for API 9.  Thank you Felys!
 '''

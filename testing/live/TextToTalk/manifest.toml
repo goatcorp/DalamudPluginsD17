@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "213104a530c0e8fddcc497c64ac07de52ffabda6"
+commit = "fc2ad8ef64e9cdb43d32dc235f970a40b5dd76df"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes the pop-up talk UI not being disableable
+- Updates for API 9
 """

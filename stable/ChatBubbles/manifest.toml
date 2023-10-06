@@ -1,11 +1,7 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "23c40195867480d6cc977ca0c5dc465fdf5167fa"
+commit = "64883cac88828d7543ba381c0496547f344c1a4c"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = """[Bugfixes] 
-- Bubbles showing ontop of incorrect player in raids (thanks meoiswa!)
-- Handle null reference exception (thanks NPittinger!)
-- Bubbles showing ontop of incorrect players when using <t> / <tt>
-
-Let's hope that nothing breaks with 6.4"""
+changelog = """### Updated for 6.5 & API9 compatibility
+Haplo064 did all the work there, thanks Haplo """

@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "48ca2270845567af77931679904a5f25aee749e0"
+commit = "fa39704d7c41fea338a0cf1fb7aa1fd1d7bb2a8e"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- .Net 7 Update (FFXIV 6.3)
-- Added warning for when the Twitter API limit is reached"""
+changelog = """- Removed Catboys API because it got discontinued
+- Update to Dalamud API 9"""

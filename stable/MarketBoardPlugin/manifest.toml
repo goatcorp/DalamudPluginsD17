@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "641fe694cfb12f25b7612fd044a680c4d6705a05"
+commit = "a62d3cc79937c2d71b87315676504866b689993c"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Added Advanced class filter\n- Minimum quantity in Advanced Search\n- Shopping list fixes: Correct world attribution + History total price fix\n- Made compatible with API 8 / .NET 7"
+changelog = "- Now the shopping list will stay open as long as it has item stored even if the main window is closed.\n- Added the option to show prices without the Gil Sale Tax"
