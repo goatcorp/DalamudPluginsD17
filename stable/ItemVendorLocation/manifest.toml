@@ -1,17 +1,15 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "2a6ca2328fd2f84913e6da9a54f960f330bbace5"
+commit = "82f98489803b7d065a1968ab098be70e87cc2dd5"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Add Chinese localization
-- Fix for Aenc Ose shop name
-- Remove Garland Tools data source
-- Fix GC bugs (hopefully)
-- Add Keybinding option to switch between single and multiple results
-- Manually add a few NPC locations
+- Added support for collectable shops (Nuko)
+- Added some support for relic weapons (Nuko)
+- Fix tooltip error (Nebel)
+- Update to API 9
 """
-version = "2.3.0.0"
+version = "2.4.0.0"
