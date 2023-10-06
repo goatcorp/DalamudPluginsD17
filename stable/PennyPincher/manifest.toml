@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "ef2adbc6af9e834f0beb26927563298de45f5dd4"
+commit = "cc4801c5fd793aa36c646900ea2ab72f10fe9a09"
 owners = [
     "tesu",
 ]
