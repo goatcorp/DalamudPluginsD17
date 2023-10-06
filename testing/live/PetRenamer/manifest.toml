@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "2ac86280b7ad121479a1a883a36be4e9aaaf3814"
+commit = "ef835640d83117e0a98060690b7ef4140e801c12"
 owners = ["Glyceri",]
 	changelog = """
+    + [1.4.1.1]
+    + Fixed Redraw not working if avaiable for user.
     + [1.4.1.0]
     Due to the huge increase in users I've gotten I am pushing this update early. It fixes a lot of important bugs, but please help me find if more bugs pop up. Thank You All :D
     + Added a theme editor.
