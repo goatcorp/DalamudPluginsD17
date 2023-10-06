@@ -3,3 +3,8 @@ repository = "https://github.com/kalilistic/PlayerTrack.git"
 owners = [ "kalilistic" ]
 project_path = "PlayerTrack.Plugin"
 commit = "15296c52d61b3f5c7ecf193d8233484ab5811df2"
+[plugin]
+repository = "https://github.com/kalilistic/PlayerTrack.git"
+owners = [ "kalilistic" ]
+project_path = "PlayerTrack.Plugin"
+commit = "1f6f45c945539912b4973a82aacc9761ffdbeb0d"
