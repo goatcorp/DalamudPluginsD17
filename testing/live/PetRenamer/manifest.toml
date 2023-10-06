@@ -1,21 +1,14 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1a4abbac0458cf8f809e3b3c7eef35c136c4a36f"
-owners = [
-	"Glyceri",
-]
+commit = "d8128a98710ce3eeba50681df867d7643664251c"
+owners = ["Glyceri",]
 	changelog = """
-+ [0.4.5.1]
-+ Fixed an IPC error so DelvUI has full support. 
-+ [0.4.5.0]
-+ Fixed some errors with the petlist
-+ Your tooltips and info pannels will now show your custom pet name.
-This is togglable in /petconfig,/minionconfig
-+ [0.4.4.0]
-+ The party list will now update your pets name (WITHOUT FLICKER :D)
-+ Emotes will now show your custom pets name or another persons custom name!!
-This is togglable in /petconfig,/minionconfig
-+ [0.4.3.0]
-+ Added a right click menu on your pets to open the nickname window.
-This is togglable in /petconfig,/minionconfig
+    + [1.3.0.0]
+    + Images, Images everywhere.
+    + Will now show Minion and Battle Pet images
+    + Will now show profile pictures (when enabled) in the Player Select list in the Pet List screen.
+    + [1.2.4.0]
+    + Added chaching to multiple search functions improving performance by a lot. (For some functions I've measured 4x the performance :D)
+    + Added support for the minion notebook (Note that using the search function will still use work using the base minion name, trust me I'm working on it)
+    [If you gamers don't find any issues with this version, I'm pushing it to Stable]
 """

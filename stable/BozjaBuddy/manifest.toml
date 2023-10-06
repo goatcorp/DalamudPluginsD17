@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "e7c09652f0c18ae87d7673c0cc09de3619bf5850"
+commit = "de825a38b68fe7dca691bd8eafeb3f2a0e5cb6be"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.5.2
-- Add null check for GetAddonName() in GuiScrapper.
-- Move GuiScrapper to main thread.
+Bozja Buddy 1.1.5.3
+- Remove shortcut [Alt] for expanding info-viewer due its inconvenience surpass its merits.
+- Fixes incorrect info regarding "Parts and Parcel" FATE
+- Fixes incorrect info regarding relic step "One time grind 2"
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lmcintyre/Housemate.git"
-commit = "8ed53cd99660c4cbc2356368777020bcea9a3e8e"
+commit = "64389d28ce34297ffdd6a16de1ce325cd572f9e0"
 owners = [
     "lmcintyre",
 ]

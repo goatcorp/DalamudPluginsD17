@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "02937d57e416a9611ee7c475a2236daa3ed930b4"
+commit = "d96e3111b5d8a576080da53667fae8a7b792a77b"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Added an option in the settings to disable the yellow outline for characters who haven't been matched to a user on Discord.
-
-Also fixed several bugs to do with chocobos (and probably other kinds of summon).
+Updated for API 9 (patch 6.5), and added a `/whostalking` command to open the plugin settings. Also fixed a mostly-hypothetical memory leak, and (hopefully) removed some overly-verbose error logging.
 """

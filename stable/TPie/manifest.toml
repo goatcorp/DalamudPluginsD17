@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "8cd8ac74879248c3bc5ff4aabc920e478e90a8f1"
+commit = "4d0c309991aa464335e7dddd0ead91c3c62267e3"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added support for the Wotsit plugin:\n    + You can search for rings with by name to go directly to its settings.\n    + Only rings with a name will work.\n\n- Added a Quick Settings shortcut:\n    + Double right-clicking while a ring is opened will open the settings windows for that ring:\n    + This can be disabled in the general settings.\n\n- Improved interactions when editing ring items:\n    + Selecting a different ring item when the edit window is opened will refresh the window with the newly selected item."
+changelog = "- Added support for patch 6.5 and Dalamud API 9."
