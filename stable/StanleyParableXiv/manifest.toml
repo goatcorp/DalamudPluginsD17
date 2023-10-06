@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "cc6ecf205abc4de12df8eff51cc55b3253081503"
+commit = "0ddcabcf41774dc0de8737d58734fbbaaa8aef71"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Update to API 9
-- Audio files were changed from mp3 to ogg
+- Added the option to choose between MP3 and OGG assets (defaults to MP3)
 """
