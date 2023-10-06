@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "429e82861a169d72f589b497c9c168b656b63075"
+commit = "649141bd643d7fb0e0bd3bf9c0e2306626584305"
 owners = ["Tischel"]
 project_path = "InventorySearchBar"
-changelog = "- Fixed inventories with tabs not working correctly."
+changelog = "- Added support for Patch 6.4."

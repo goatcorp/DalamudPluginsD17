@@ -16,7 +16,7 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 
 When the plugin approval group checks your plugin, they will check for the following:
 
-- Does it meet [our guidelines](https://goatcorp.github.io/faq/development#q-what-am-i-allowed-to-do-in-my-plugin), as agreed upon by multiple members of the group?
+- Does it meet [our guidelines](https://dalamud.dev/plugin-development/restrictions#what-am-i-allowed-to-do-in-my-plugin), as agreed upon by multiple members of the group?
 - Does it feature any combat elements? If so, are they purely informational, and show only information the player would normally know?
 - Does it pass an informal code review?
 - Does it install cleanly?
@@ -31,9 +31,10 @@ These criteria are intended to prevent issues for users. We're happy to work wit
 
 ### Technical criteria
 
-There are a few technical things that you should do before submitting your plugin here. They will make your plugin nicer to use.
-- Your plugin has to have an `icon.png` that is no larger than 512x512 and no smaller than 64x64 in `images/`.
-- For regular ImGui windows that don't do anything special, like settings and utility windows, you should use the [Dalamud Windowing API](https://goatcorp.github.io/Dalamud/api/Dalamud.Interface.Windowing.html). It enhances windows with a few nice features, like integration into the native UI closing-order.
+There are a few technical things that you must do before submitting your plugin here. They will make your plugin nicer to use.
+- Your plugin **must have** an `icon.png` that is no larger than 512x512 and no smaller than 64x64 in `images/`.
+- For regular ImGui windows that don't do anything special, like settings and utility windows, you should use the [Dalamud Windowing API](https://dalamud.dev/api/Dalamud.Interface.Windowing/). It enhances windows with a few nice features, like integration into the native UI closing-order.
+- Your plugin's version/assembly version **must not** be based on a timestamp or continually increasing build number. Every time your plugin is built with a specific commit, no matter the time or date, should produce the same version.
 
 ### Submitting
 
@@ -63,6 +64,12 @@ Just edit the commit hash in your manifest. Please always make your updates from
 
 If you want to trigger a re-build of your PR, just post a comment with the content "bleatbot, rebuild".
 
+## Secrets
+
+If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon-secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
+
 ---
 
-When submitting a plugin, please consider our [Acceptable Use Policy](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)>) & [Terms of Service](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)>), which, for example, detail the rights you need to grant us when uploading a plugin to this repository.
+When submitting a plugin, please consider our [Acceptable Use Policy](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Acceptable-Use-Policy-(Official-Plugin-Repository)>) & [Terms of Service](<https://github.com/goatcorp/FFXIVQuickLauncher/wiki/Terms-and-Conditions-of-Use-(XIVLauncher,-Dalamud-&-Official-Plugin-Repository)>), which, for example, detail the rights you need to grant us when uploading a plugin to this repository. 
+
+Please review the [plugin adoption policy](https://github.com/goatcorp/faq/blob/main/development.md#adoption) to understand what happens if you abandon your plugin. The FAQ also provides instructions on how to submit a plugin if taking over from another developer.

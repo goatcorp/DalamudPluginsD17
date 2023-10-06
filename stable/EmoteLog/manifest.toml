@@ -1,0 +1,9 @@
+[plugin]
+repository = 'https://github.com/RokasKil/EmoteLog.git'
+commit = '38669fb8550c777f94e7284f379671ab14dee376'
+owners = [ 'RokasKil' ]
+project_path = 'EmoteLog'
+changelog = """
+- Updated to API v9 and 6.5
+"""
+

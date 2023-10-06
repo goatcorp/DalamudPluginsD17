@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "9aa833d23c6ed9c72122c270b61591be68c99ffa"
+commit = "2a6ca2328fd2f84913e6da9a54f960f330bbace5"
 owners = [
     "electr0sheep",
+    "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Update Context Menu
-- .net7 update
+- Add Chinese localization
+- Fix for Aenc Ose shop name
+- Remove Garland Tools data source
+- Fix GC bugs (hopefully)
+- Add Keybinding option to switch between single and multiple results
+- Manually add a few NPC locations
 """
-version = "1.0.0.3"
+version = "2.3.0.0"

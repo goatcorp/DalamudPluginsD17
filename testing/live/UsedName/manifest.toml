@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "c281c41fe47084563f80cda9c50fb4fb543784ed"
+commit = "a1c40059a311e90b83c48db0805d4b4dc40a9f7c"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Increase accuracy of opcode
-- Separate data and setting
+- fix cannot read data
+- fix actual behavior is inconsistent with the description
+- add PlayerSearch button back
 """

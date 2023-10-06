@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
+commit = "b641953a730c49edf3a6f78e18b8545d5e6d10dd"
+owners = [
+    "Xpahtalo",
+]
+project_path = "ffxiv2Mqtt"
+changelog = """Updated for 6.5.
+Added the option to display subscriptions with Dalamud Toasts.
+BREAKING CHANGE: I messed up your output channel for custom subscriptions, but made sure I won't have to again in the future. Just go back into the menu, change them back to what you wanted and click Save to fix."""

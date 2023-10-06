@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Imaginary-Narwhal/GlamourWishlist.git"
+commit = "f015a7496f92aa13905cc9d5271af72cfee6cd4f"
+owners = ["Imaginary-Narwhal"]
+project_path = "GlamourWishlist"
+changelog = "Initial Release"

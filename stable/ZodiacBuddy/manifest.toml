@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/daemitus/ZodiacBuddy.git"
-owners = [ "daemitus",]
+repository = "https://github.com/MidoriKami/ZodiacBuddy.git"
+owners = [ "daemitus", "MidoriKami" ]
 project_path = "ZodiacBuddy"
-commit = "9f9b2ce6fa057242cd8579ba8df58d7722285b9d"
+commit = "770dfcf2f5298771323e7e0f5347ba8282beacdc"
 changelog = ""

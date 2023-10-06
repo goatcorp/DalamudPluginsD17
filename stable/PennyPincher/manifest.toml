@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "b553f5bd4b95779344b7dbb6d6e228d327a55820"
+commit = "873aac0b9794f84266dc1ce57b370d16fdc8dfa2"
 owners = [
     "tesu",
 ]
-changelog = ".NET 7 update"
+changelog = "use hooks instead of opcodes"

@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "2bad8abfa9095e393cb6f396b86665ce8c3a83e1"
+commit = "0d97ed67a58f187fa740a4af54b486a80e87da12"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Cloth category added
-- Removed deprecated extraction
-- Duty drops added
-- Simple information for recipes, treasure maps, desynthesis and gathering
-- Plugin overhaul
+changelog = """- Patch 6.5 update
+- Dalamud API update
  """

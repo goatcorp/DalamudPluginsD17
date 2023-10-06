@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Infiziert90/Hunty.git"
+commit = "3a8e9501bb711402e8fe9d98be4f7785c56dc844"
+owners = [
+    "Infiziert90",
+]
+project_path = "Hunty"
+changelog = """
+nofranz
+"""

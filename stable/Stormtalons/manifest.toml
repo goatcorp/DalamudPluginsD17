@@ -1,5 +1,5 @@
 [plugin]
-changelog = "6.3 Update"
-commit = "7d6e06639f8300e8afd915a82143e55f2f768bed"
+changelog = "Updated for patch 6.5"
+commit = "f8c83352d35dda8f70d14595223b1e6532bb2513"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"

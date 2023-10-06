@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "2af2afc7fb4e67c0537919146e0ba20a568fad46"
+commit = "5db803bd69c11df3088ab4cffacebc96bae1688a"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes plugin crashes when using the character editor (aesthetician etc.)
+- Updates for API 9
 """

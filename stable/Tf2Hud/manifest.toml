@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Berna-L/ffxiv-tf2-hud-plugin.git"
+commit = "a6caac078a8e9bb7a8687071a20b6dd404e51c30"
+owners = ["Berna-L"]
+project_path = "Tf2Hud"
+changelog = """
+Updated for API 9 / patch 6.5.
+"""

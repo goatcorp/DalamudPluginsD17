@@ -1,7 +1,13 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "fdbe599318ac9c842563e36069332d0e990f046a"
+commit = "3e72f99c44a063a382f98b86d08ae25c6f4e4e0f"
 owners = [
     "ItsBexy",
 ]
-changelog = "Fixed a bug with icon display in the configuration window."
+changelog = """
+- Added text commands to modify plugin settings via chat/macros
+- Set up IPC for integration with other plugins
+- Prepped plugin text for translation
+
+This should be one of the last testing updates before the plugin moves over to stable. Be sure to send feedback if you run into any bugs I ought to squash! Lotsa thanks!
+"""

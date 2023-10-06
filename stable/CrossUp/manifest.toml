@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/ItsBexy/CrossUp.git"
+commit = "eef7140e077ad3d3e12de0b7a09f9dd743599b06"
+owners = [
+    "ItsBexy",
+]
+changelog = """
+Updated for patch 6.5 and API9
+"""

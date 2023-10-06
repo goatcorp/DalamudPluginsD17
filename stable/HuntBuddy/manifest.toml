@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
-commit = "fe63fcd4ac1c5853d7f5deeb6e9d0613e95a48cf"
-owners = ["SheepGoMeh"]
+owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
+commit = "af0b20fe843fb2d3dcd9f272036697aa07560dcd"
+changelog = "- Updated HuntBuddy for API9"

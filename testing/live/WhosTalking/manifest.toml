@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/sersorrel/WhosTalking.git"
+commit = "d96e3111b5d8a576080da53667fae8a7b792a77b"
+owners = ["sersorrel"]
+project_path = "WhosTalking"
+changelog = """\
+Updated for API 9 (patch 6.5), and added a `/whostalking` command to open the plugin settings. Also fixed a mostly-hypothetical memory leak, and (hopefully) removed some overly-verbose error logging.
+"""

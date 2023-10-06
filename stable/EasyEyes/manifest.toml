@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/0ceal0t/EasyEyes.git"
-commit = "8c75b00311cca41816fe7e391b71fcc434e94f17"
+commit = "0f3367fb73c3434d42e822ad69b27347b141cd23"
 owners = [
     "0ceal0t",
 ]

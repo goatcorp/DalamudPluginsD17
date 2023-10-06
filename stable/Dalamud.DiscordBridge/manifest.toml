@@ -1,22 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "69f6eb236e88c27e675c784ef25096d1cf4b178e"
+commit = "6af77bbf3f8030f10101b6eb87cd3a3d7a1b4012"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-New Changes:
-- Set fallback sendername value if there is none. This will be `FFXIV Bridge Worker <your character name>`
-
-Last Changes:
-- Fixed duplicate chat issue.
-- Added a classic embed fallback feature in case webhooks fail.
-- Fixes for NET7 / API 8
-- Updated library dependencies and switched to NetStone as submodule.
-- Switched to using full-width ＠ because Discord started enforcing username requirements on webhooks and @ isn't allowed there.
-
-
-**If your bot stopped working in September 2022, please enable Message Intents. See the setup guide for updated steps.**
+Updated for API 9.
 """

@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59727abdd054326b4d19a1c027045ca29378d01f"
-changelog = "fixed examine functionality"
+commit = "827b0da843e814dc374a68d186e8e5172745dc0c"
+changelog = """
+General: Updated for Dalamud API 9
+General: Updated for FFXIV 6.5"""

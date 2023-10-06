@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.annaclemens.io/ascclemens/Namingway.git'
-commit = '47d5c011d2f17fcd33282521ff38195438a937f0'
-owners = [ 'ascclemens' ]
-changelog = 'API 7'
+repository = 'https://git.anna.lgbt/anna/Namingway.git'
+commit = 'e1f759bd58ff584f7dc01c89993ea4708149ab1b'
+owners = [ 'lojewalo' ]
+changelog = 'API 9'
