@@ -1,20 +1,13 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "bc935f975c86d3f4faaa0b6bedb514b86b51420c"
+commit = "c02c2e08fce3d064b0810ab52de06aafba388326"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.1.2.0
-## Feature
-updated for 6.4
+1.2.0.0
 
-for other features, I am going to be honest I forgot the descrepancy between the testing and stable release, so here are just a couple of things that I believe changed:
-
-* The All notes window:
-    * Acessible via /tnallnotes it lets you see and edit all your notes in one ImGui window
-* An alternative for the context menu:
-    * using /tnnote you can now bring up the singular note editing window based on the last hovered item allowing you to add notes to items in situations that you dont have the context menu
-* proper multiline editing
-    * both the all note window and the singular note window allow you to make notes multiline now wihtout having to use .\n everywhere
-* CharacterSpecific Notes now only hide your global notes if there is a CharacterSpecific Note and not always anymore.
+Hello Everyone,
+TooltipNotes is back for patch 6.5 and its better than ever!
+What changed?
+it may not look like much but behind the scenes a lot has changed which means now those who couldnt use TooltipNotes before due to FPS drops and it just straight up not working should niw be able to use it wihtout worries I hope
 """
