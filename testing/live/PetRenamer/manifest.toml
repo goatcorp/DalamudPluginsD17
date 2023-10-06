@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "ef835640d83117e0a98060690b7ef4140e801c12"
+commit = "31e17eee9d0e11a9bb2dab73820164cf8ba395fa"
 owners = ["Glyceri",]
 	changelog = """
+    + [1.4.1.2]
+    + Fixed map tooltips not displaying properly.
     + [1.4.1.1]
     + Fixed Redraw not working if avaiable for user.
     + [1.4.1.0]
