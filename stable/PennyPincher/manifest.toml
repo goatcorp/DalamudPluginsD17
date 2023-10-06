@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "873aac0b9794f84266dc1ce57b370d16fdc8dfa2"
+commit = "ef2adbc6af9e834f0beb26927563298de45f5dd4"
 owners = [
     "tesu",
 ]
-changelog = "use hooks instead of opcodes"
+changelog = "bump API version; reduced external dependencies"
