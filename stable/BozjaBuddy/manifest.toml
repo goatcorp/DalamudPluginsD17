@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "de825a38b68fe7dca691bd8eafeb3f2a0e5cb6be"
+commit = "1fa775ae7ca43672e9c49da675a6467ddd31d8e1"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.5.3
-- Remove shortcut [Alt] for expanding info-viewer due its inconvenience surpass its merits.
-- Fixes incorrect info regarding "Parts and Parcel" FATE
-- Fixes incorrect info regarding relic step "One time grind 2"
+Bozja Buddy 1.1.5.4
+API 9
 """
