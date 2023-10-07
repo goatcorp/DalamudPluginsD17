@@ -62,7 +62,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci --commit --build-all
+        --ci --mode=Commit --build-all
       
     - name: Upload artifact
       uses: actions/upload-artifact@v3
@@ -78,7 +78,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Update distribute"
-        ${{ github.workspace }}
         
     - name: Push plugin dist
       uses: ad-m/github-push-action@master

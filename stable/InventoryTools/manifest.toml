@@ -1,11 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1a469a63b48f68b917520922355ebfcc2de39a17"
+commit = "33d0c161a4ad88e197f477282ffaaf5c41e22fbc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.9"
+version = "1.6.1.9"
 changelog = """\
-Adjust ItemCount IPC to use int instead of uint
+**New Features**
+- Added Ephemeral Craft Lists - Add the items you need and once you've crafted them the list deletes itself
+- New craft lists will append a number on the end if a craft list with that name already exists
+- Added "Name (Selector)" filter for picking items you want to show in a list as a stop gap until a favourites and/or other system is implemented
+**Improvements**
+- Minor tweaks to the UI for clarity
 """

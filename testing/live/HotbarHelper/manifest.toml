@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/kiwikahawai/HotbarHelper.git"
+commit = "1f8a0c12e751474db31a80328c6882571a2e7bac"
+owners = [
+    "kiwikahawai",
+]
+project_path = "HotbarHelper"
+version = "0.0.2.3"
+changelog = """\
+- Fixed chat messages not respecting ignored actions (thanks Cerrelle).
+- Small UI tweak and internal changes.
+"""

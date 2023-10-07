@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/Globetrotter.git'
-commit = '2cb48ff73fcb84190d0b410e794c7f9ac4125d4a'
-owners = [ 'ascclemens' ]
-changelog = 'API 8'
+repository = 'https://git.anna.lgbt/anna/Globetrotter.git'
+commit = 'b216a78bf5ef2e6deaaa914ba648f85e1a9f0aeb'
+owners = [ 'lojewalo' ]
+changelog = 'API 9'

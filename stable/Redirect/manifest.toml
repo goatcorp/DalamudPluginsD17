@@ -6,3 +6,4 @@ owners = [
 ]
 project_path = "Redirect"
 changelog = "Fixes an issue that prevented Sprint from activating"
+

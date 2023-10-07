@@ -1,22 +1,17 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "35fdfcc7b5a876888f169de3cdd7dac459697806"
+commit = "cb6f83e7edd8819ab8ccfbad6877adb0a544f443"
 owners = [
     "meoiswa"
 ]
 project_path = "ClarityInChaos"
 changelog = """
-Version 1.2.0.0:
- - UI Polish pass
-  - Active section's header now renders in green
-  - Current BattleEffects now render in varying colors
- - No longer renders in-game Battle Effects settings unusable
-  - Changes to in-game Battle Effects settings apply to the active section
-  - Also applies to `/bfx` commands
- - Saved In-Game Settings (previously known as Backup) is now a configurable section
- - Restores Saved In-Game Settings when disabled or uninstalled
- - Removed superfluous Debug option "Print to chat"
-
-Version 1.2.0.1:
- - Fixed: Applicable section gets overwritten with In-Game Settings on startup
+Version 1.3.1.0:
+ - API 9 Compat.
+ - Renamed "Alliance" to "Alliance Raids".
+ - "Only In Duty" options for Group Sizes.
+  - When enabled, the next smaller group is used when outside of duties.
+  - If no groups are eligible, "Saved In-Game Settings" are used.
+  - Alliance Raids are always "Only In Duty" (Detection logic relies on this)
+ - ⚠️ Major refactor of Configuration, may break existing configurations. If experiencing issues, try "Reset plugin configuration and reload" from the Plugin Installer.
 """

@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "04c25733b44f910fbe241f095e4272995a3ebc39"
+commit = "77ec33eec4659563c586ce68db21b840733240ab"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added the option [Improved Magicite Kills Detection], under General tab > Testing section.
+- Patch 6.5 / Dalamud API 9 update.
+- Added mimic support for missing kills case (HoH).
+- Added Big Floors/Hall of Fallacies counting to the Statistics Window (HoH).
 """
