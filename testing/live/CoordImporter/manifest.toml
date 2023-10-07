@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/zw3lf/CoordImporter.git"
+commit = "2a3e99dfbe2e543831325461d5f514d378661330"
+owners = ["zw3lf"]
+project_path = "CoordImporter"
+changelog = "Added Dalamud Support"
