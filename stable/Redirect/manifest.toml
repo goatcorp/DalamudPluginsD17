@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "6a865b96532ec610d4942ee27cf1c032f3dc3c10"
+commit = "9fb2a3999c047573f6668fcf66b5f171e9a1edad"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Update for APIv9"
+changelog = "Fixes an issue that prevented Sprint from activating"
+
