@@ -1,10 +1,16 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/GearsetHelperPlugin.git"
-commit = "8b9791358af4514c2e3c131c7419409a1d21ce08"
+commit = "b5e6abcb9b01fa3cb1d12464c95cc366a0ba6b5b"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = "GearsetHelperPlugin"
-changelog = """
-Update to 6.2 / .NET 6
+changelog = """Patch 6.5 Update
+
+- Add a section for estimated damage calculations with various potency attacks.
+- Added an option to set a Party Bonus buff percentage for calculations.
+- Fixed the detection of food via status effects, when the setting to automatically set food is enabled.
+- Fixed the average item level being rounded incorrectly.
+- Apply the setting to automatically set food to Examine windows as well as Character.
+- Update to Dalamud API v9
 """
