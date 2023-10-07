@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "e907a0653db62cdf41035d1fe6398f05b5ab95e6"
+commit = "6a865b96532ec610d4942ee27cf1c032f3dc3c10"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Fixes for patch 6.4"
+changelog = "Update for APIv9"
