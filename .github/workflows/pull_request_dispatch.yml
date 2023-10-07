@@ -84,7 +84,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
-        --ci
+        --ci --mode=PullRequest
 
         cat $GITHUB_STEP_SUMMARY
         echo ::set-output name=summary::$(cat $GITHUB_STEP_SUMMARY)

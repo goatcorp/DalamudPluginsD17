@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "7e2a30d6155dace594134996df4ae0f73550ff66"
+commit = "d96e3111b5d8a576080da53667fae8a7b792a77b"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Fix poorly-sized voice activity indicators at certain UI scales
+Updated for API 9 (patch 6.5), and added a `/whostalking` command to open the plugin settings. Also fixed a mostly-hypothetical memory leak, and (hopefully) removed some overly-verbose error logging.
 """

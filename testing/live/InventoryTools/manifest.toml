@@ -1,18 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "f677c3a5445cfc473c7f1d74f24c81cadea10fb1"
+commit = "baefeee3d269d1b5bf5c1ea7a1e9f478a544ad96"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.5.0.0"
+version = "1.6.0.4"
 changelog = """\
-**House Storage has arrived**
-So this took a while but it has finally come to fruition. A few things to note:
-
-- To have a house register with the plugin you must first enter it, have permission and then open the 'Indoor Furnishings' menu. This will allow for the plugin to see you own the house and add it to your 'Characters' list.
-- Once the house is registered due to the way the inventory data of each section is provided, you must enter each section to have it be parsed by the plugin. For Indoor and Outdoor Furnishings you must enter the storeroom tab before that data is collected.
-- For Interior Fixtures open the relevant section in the housing menu.
-- There's a lot of moving parts so if you run into issues, bugs or crashes hit up the #plugin-help-forum on discord.
-- I'll be working on making the 'Is Housing Item' filter a bit more reliable as this might be more important now.
+**Allagan Tools: v1.6.0.4**
+- Have finished crafts count correctly towards completion based on their flags
+- Add the ability to choose "Empty" as a source
+- Fix an issue where setting an item to 0 while Hide Completed is active would remove all the items
+- The craft table now has a moveable splitter with a saved position + the original collapse functionality
+- Copying a configuration into the default craft list now works
+- Stopped items that can't be bought from gil vendors from being considered as buyable(even if they have a buy from vendor price)
+- Unless there are other bugs this will be the final release before this is pushed to live
 """

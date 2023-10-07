@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "d49ba4efb0b512487089799a39eb8a74d5d46ac9"
+commit = "10924e54c9fe15ceff22a2ba4d119e16e06ef07b"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Fix Emotes filter"
+changelog = "API V9 - Courtesy of Infi!"

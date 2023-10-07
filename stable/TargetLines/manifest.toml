@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "f135a3b9d8ffb526af9dd65451b936e28a9536db"
+commit = "5c4e038244cc6d9543f809d8c8cac30019f37f8f"
 owners = ["Drahsid"]
-project_path = ""
-changelog = """1.2.7
-- Improved the rendering of fancy lines, now they should look less looney when they clip the camera
-- Improved visibility logic
-- Improved logic relating to intangible game objects (ghost lines should no longer appear)
-- Set default sample count for fancy lines to an odd number (should give the line a middle point with the default config)
-- Made visibility check on Game Objects less aggresive
-- Introduced a regression, where the sample count for lines is only applied when the line is constructed
+project_path = "TargetLines"
+changelog = """
+- Updated for 6.5
+- Updated for API9
+- Minor fixes
 """
 

@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/BitsOfAByte/GoodFriend.git"
-commit = "f52db84d4e5f64a85585284053d79aac1dcdfc78"
+repository = "https://github.com/Blooym/GoodFriend.git"
+commit = "e610c009b4af53e069f58edd497f6dda8eb82fb0"
 owners = [
     "Blooym",
 ]

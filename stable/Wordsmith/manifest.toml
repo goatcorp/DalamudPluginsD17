@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "9f7859f5cae4840a1e93603e48840f1f1b0347a8"
+commit = "b5bdca5d4238dbb5b875ca311d172d1bd475a3d9"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.9.1 Patch Notes
-Bug Fixes:
-  [FIXED] Spellcheck not automatically running as expected."""
+changelog = """# Wordsmith v1.10.1 Patch Notes:
+[UPDATE] Updated to 6.5"""

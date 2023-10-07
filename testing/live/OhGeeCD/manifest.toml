@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/kiwikahawai/OhGeeCD.git"
+commit = "f9fec6d256121f9cb841ec2f5aeedb4affec5858"
+owners = [
+    "kiwikahawai",
+]
+project_path = "OhGeeCD"
+version = "0.0.23"
+changelog = """\
+**OhGeeCD (return to testing edition)**
+- Back after a long hiatus, adopted from darkarchon.
+- oGCD assistant providing Text To Speech, (Custom) Sound Effects and unlimited extra bars to visualize and alert you for your oGCDs.
+- Mostly tweaks and updates to work with current requirements.
+"""

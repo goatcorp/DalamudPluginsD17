@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "da07364715707f218143691f893be76b5d922cc3"
+commit = "6344c6cd5749c2b0b5a3bfa5f0774d86a881f623"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Sends the speaker name in WebSocket messages
+- Fixes voice-acted dialogue being spoken over
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "b45f9e4ee4435319285183cdb99839dbafee1bfb"
+commit = "d0366deff8edd3941ea327e2c309c427ef3ef3cd"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix crashing on sort
+Fixed tooltip text having randomized character spacing
 """

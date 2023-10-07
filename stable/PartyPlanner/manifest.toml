@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "d148bd184885daf2e0bb86fe4fb9a09eb0e93eab"
+commit = "12f95c44eeb5f3c97a279c0658c631738152da4d"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """
-- Fix a possible crash if the api is not online.
+changelog = """- Update to API 9
 """
