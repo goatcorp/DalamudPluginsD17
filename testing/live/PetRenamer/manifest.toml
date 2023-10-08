@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d8128a98710ce3eeba50681df867d7643664251c"
+commit = "a5c5b0729e28fa478d304abc81d6438f766992f0"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.3.0.0]
-    + Images, Images everywhere.
-    + Will now show Minion and Battle Pet images
-    + Will now show profile pictures (when enabled) in the Player Select list in the Pet List screen.
-    + [1.2.4.0]
-    + Added chaching to multiple search functions improving performance by a lot. (For some functions I've measured 4x the performance :D)
-    + Added support for the minion notebook (Note that using the search function will still use work using the base minion name, trust me I'm working on it)
-    [If you gamers don't find any issues with this version, I'm pushing it to Stable]
+    + [1.4.1.4]
+    + Fixed wrong names displaying in certain situations when having used /petglamour. (/petglamour will very soon receive a full rework).
 """

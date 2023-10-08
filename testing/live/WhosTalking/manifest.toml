@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "fd7ea08255fc7a26be013945a00f662dd5ae2ba9"
+commit = "d96e3111b5d8a576080da53667fae8a7b792a77b"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Fixed some positioning bugs with the list of non-party speakers.
+Updated for API 9 (patch 6.5), and added a `/whostalking` command to open the plugin settings. Also fixed a mostly-hypothetical memory leak, and (hopefully) removed some overly-verbose error logging.
 """

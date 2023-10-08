@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "5410a1f874a8f3cc94d6b5ad17a0e216522131e7"
+commit = "a62d3cc79937c2d71b87315676504866b689993c"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Open selected item page when clicking Universalis button\n- Marketboard item caching\n- Universalis fetching data prompt\n- Recent history option\n- Updated Dependencies for patch 6.4"
+changelog = "- Now the shopping list will stay open as long as it has item stored even if the main window is closed.\n- Added the option to show prices without the Gil Sale Tax"

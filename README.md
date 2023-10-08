@@ -1,7 +1,3 @@
-# 🚧 Closed for stabilization 🚧
-
-We are closing PRs on the DIP17 repo for now, while we are awaiting the patch and a stable development build. We hope that this will lighten our load on updates for when the patch is actually live, and we can be confident that submitted plugins are stable enough, leading to a faster turnaround. Thanks!
-
 # DalamudPluginsD17
 
 Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fantasy XIV](https://github.com/goatcorp/Dalamud). This repository is a successor to [DalamudPlugins](https://github.com/goatcorp/DalamudPlugins) and implements [DIP17](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md) to make the submission process easier and faster.

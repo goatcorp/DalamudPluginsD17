@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "9d978a4cd0af4476ee8caa0a8602c84dc2626782"
+commit = "c02c2e08fce3d064b0810ab52de06aafba388326"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.1.1.0
+1.2.0.0
 
-Now uses Multiline text in the noteWindow (alt+Enter will make a new line) and displays them in the allNoteWindow
-
-CharacterSpecific Notes now only hide your global notes if there is a CharacterSpecific Note and not always anymore.
-
+Hello Everyone,
+TooltipNotes is back for patch 6.5 and its better than ever!
+What changed?
+it may not look like much but behind the scenes a lot has changed which means now those who couldnt use TooltipNotes before due to FPS drops and it just straight up not working should niw be able to use it wihtout worries I hope
 """
