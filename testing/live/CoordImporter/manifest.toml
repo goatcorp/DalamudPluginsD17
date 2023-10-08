@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "2a3e99dfbe2e543831325461d5f514d378661330"
+commit = "c69cd53ca294ffc69aaae6132af995960eaf60bc"
 owners = ["zw3lf"]
 project_path = "CoordImporter"
-changelog = "Added Dalamud Support"
+changelog = "Fix Lumina problematically caching Placenames when building the map dictionary"
