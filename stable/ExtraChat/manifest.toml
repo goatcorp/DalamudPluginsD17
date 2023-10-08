@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/ExtraChat.git'
-commit = '0f20595e0fab3daaeb8cd1787c29835e1fe55c14'
+commit = 'bcbcf8d61ab3c1aaab15b4ca86093fbaa35e2b36'
 owners = [ 'lojewalo' ]
 project_path = 'client'
 changelog = '''\
-- Fix context menu for 6.4
+- API 9
 '''

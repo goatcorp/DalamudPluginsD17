@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "a4455281c2e4a6a376c4957a2e63821863ff8404"
+commit = "f943de35e107ff88a289f7d914b30137a9753647"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Add Items from Patch 6.35 through 6.4
+Update for patch 6.5
 """
