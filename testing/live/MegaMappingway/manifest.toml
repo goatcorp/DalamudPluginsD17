@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://git.anna.lgbt/anna/MegaMappingway.git'
+commit = '5ec42b4432acf2c31c5704a2503a38657f61f1a4'
+owners = [ 'lojewalo' ]
+project_path = 'client'
+changelog = """\
+- Initial release
+"""
