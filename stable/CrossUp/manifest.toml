@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "9ba9a43fafe7c8154a3bdd62f5b1fa356b68be54"
+commit = "b10628d29b4a67a9f67b52c7b42a5962f79c0c6c"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Fixed a bug wherein some of the controls for positioning the Expanded Hold bars were faulty (whoops!)
+- Tentative fix for issues in PvP areas
+- Tentative fix for issues caused by using the plugin with the XHB disabled
+- Updated UI to use WindowSystem
 """

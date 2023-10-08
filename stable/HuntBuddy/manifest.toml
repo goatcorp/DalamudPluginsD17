@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "45804a5524fd0c6e1fb8e4dbc17c99755248e4d1"
-changelog = "The `/phb next` command should no longer break when only one mark is\nfound outside of the current zone, and should handle elite marks in a\nsane and safe way that prioritises them last in the current zone, rather\nthan risking breaking because they don't have location data.\n\nAlso bumped DalamudPackager to latest (2.1.11) at the same time."
+commit = "af0b20fe843fb2d3dcd9f272036697aa07560dcd"
+changelog = "- Updated HuntBuddy for API9"

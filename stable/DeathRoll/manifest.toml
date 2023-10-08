@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "b71c1427fe981e66c5fa64dd6528a4c2e1cbb3c4"
+commit = "81f4e800dd9bd816cd4e162a77b4d41820382b81"
 owners = [
     "Infiziert90",
 ]
 project_path = "DeathRoll"
-changelog = """
-[Blackjack]
-+ Split Hand now acts like a real hand
-+ Some cleanup
-"""

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "74daa59f98e5b5d4b35b2d9227bece8a098f032d"
+commit = "d0366deff8edd3941ea327e2c309c427ef3ef3cd"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix daily sale velocity using stack sale price
+Fixed tooltip text having randomized character spacing
 """

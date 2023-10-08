@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Infiziert90/TrackyTrack.git"
+commit = "dbe0a7721802a5b53ead147a3fae6bae82adcff0"
+owners = [
+    "Infiziert90",
+]
+project_path = "TrackyTrack"

@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "9680b66cd5a783d26398379c841d854019cc16c1"
+commit = "77ec33eec4659563c586ce68db21b840733240ab"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added [Score Window Kills] for HoH. Check General tab >>> Information section for more info.
-- The option [Improved Magicite Kills Detection] is enabled by default (always enabled for now).
-- The time for checking the [Time Bonus] was increased by 1 second. (from 30:01 to 30:02).
-- Small tweaks.
+- Patch 6.5 / Dalamud API 9 update.
+- Added mimic support for missing kills case (HoH).
+- Added Big Floors/Hall of Fallacies counting to the Statistics Window (HoH).
 """

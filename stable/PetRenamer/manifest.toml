@@ -1,17 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "dc74181930ca031ab6824ae7b096f1990cdb12f1"
+commit = "d4cba4f3d24519fcc1f4e59f161bc4bf547d5e07"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.2.1.2]
-    + Fixed a rare crash occuring during targeting.
-    + Fixed imported lists not saving.
-    + [1.2.1.1]
-    + Updates now dispose properly O///O
-    + No more colour themes leaking when quitting the plugin.
-    + Huge, and I mean HUGE performance improvements.
-    + More intuitive UI and theme upgrades.
-    + There is now a help screen.
-    + Target Bars are now hook based, no more flickering.
-    + Save file version updated from 4 to 5
+    + [1.4.0.2]
+    + Fixed Map Pet Tooltips not working. (By completely removing the feature and reimplementing it later down the line when it actually fully functions and works).
 """

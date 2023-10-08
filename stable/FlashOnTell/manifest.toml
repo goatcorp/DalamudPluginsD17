@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud-FlashOnTellPlugin.git"
-commit = "7c180ea535b0e88a189b5530702fdc1445897b94"
+commit = "1261502e2c9b867c27078a7dcc6b932374dfba68"
 owners = [
     "reiichi001",
 ]
 project_path = "FlashOnTell"
-changelog = "NET7 / API 8 updates."
+changelog = "API 9 updates.\nThe /pflash command will also now try to flash the window if you tab out fast enough. You no longer need to test if it's working by actually talking to people."

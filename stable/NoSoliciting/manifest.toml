@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/NoSoliciting.git'
-commit = 'fae0b28d661f5f8cddddc39062e1638443674ec2'
+commit = 'f08baba71b8c06c86202ca8354d90adbfb91993e'
 owners = [ 'lojewalo' ]
 project_path = 'NoSoliciting'
 changelog = """\
-- API 8
+- API 9
 """

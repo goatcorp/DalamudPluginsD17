@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "d5f2aa00d707ad2cb8487f0e54874a4e23481091"
+commit = "fa39704d7c41fea338a0cf1fb7aa1fd1d7bb2a8e"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Removed Twitter API due to insane cost increases
-- Updated WAIFU.IM API to v5"""
+changelog = """- Removed Catboys API because it got discontinued
+- Update to Dalamud API 9"""

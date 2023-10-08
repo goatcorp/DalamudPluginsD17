@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/TextBoxStyler.git'
-commit = 'af01f73fe4a01bb4cc7448218e56503af0aced6b'
+commit = '2b02013ebf87f1e1479823ec16c01ef5966c1eda'
 owners = [ 'lojewalo' ]
-changelog = 'Update (please stop emailing me)'
+changelog = 'API 9'

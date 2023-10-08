@@ -1,16 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "b94a1a00abb0443a1522c38c670d7759af5a6a6f"
+commit = "33d0c161a4ad88e197f477282ffaaf5c41e22fbc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.5"
+version = "1.6.1.9"
 changelog = """\
 **New Features**
-- Added in a gathered by filter and column
-- Display options added to craft filters(invert highlighting, etc)
-
-**Fixes**
-- Catch failures to save market cache
+- Added Ephemeral Craft Lists - Add the items you need and once you've crafted them the list deletes itself
+- New craft lists will append a number on the end if a craft list with that name already exists
+- Added "Name (Selector)" filter for picking items you want to show in a list as a stop gap until a favourites and/or other system is implemented
+**Improvements**
+- Minor tweaks to the UI for clarity
 """
