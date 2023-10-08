@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DiademCalculator.git"
-commit = "6e0540c42fb90d101e8758473636669420a96830"
+commit = "e39b3ca613c6ba012d4b9f900c665b308b03c97c"
 owners = [
     "Infiziert90",
 ]
