@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "de6d91c1ae11ce0341c06f48bee4cbc34276fd4d"
+commit = "1dea369033d52db27ad82505518edb37cd0580c0"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
-changelog = """ Upgraded to 6.3
+changelog = """ Changes :
+    - Upgraded to 6.4 by @sersorrel
+    - Added option to enable only in combat
 """
