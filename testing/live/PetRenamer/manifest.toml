@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "6482d2a630c56567c5460643bcb8f86a5e5c3bc3"
+commit = "a5c5b0729e28fa478d304abc81d6438f766992f0"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.1.3]
-    + Fixed Emotes not displaying properly in certain situations.
+    + [1.4.1.4]
+    + Fixed wrong names displaying in certain situations when having used /petglamour. (/petglamour will very soon receive a full rework).
 """
