@@ -6,6 +6,6 @@ owners = [
 ]
 project_path = "WhereIsMyMouse"
 changelog = """ Changes :
-    - Upgraded to 6.4 by @sersorrel
+    - Upgraded to API 9 by @sersorrel
     - Added option to enable only in combat
 """
