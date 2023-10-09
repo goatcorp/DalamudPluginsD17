@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Blooym/Wholist.git"
-commit = "536bba8112134cfb3da75319a372f74242243b0a"
+commit = "d2e2761ca23e0dc8a887d8c6c32d15b190a62bfd"
 owners = [
     "Blooym",
 ]
