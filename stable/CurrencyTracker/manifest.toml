@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "6e56524098f4357e5f055c77bce2e57c7103edde"
+commit = "37c58e83e422ff0c17e14ab190175a3530858874"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- UI Adjustments:\n  - Custom Tracker now is above currencies listbox.\n  - Reformed the interface of Custom Tracker, which should bring much performance improvement.\n  - Now the Delete button in Custom Tracker is merged with the Hide button above currencies listbox. When selecting a preset currency, the Hide button will be displayed, while when selecting a custom currency, the delete button will be displayed.\n- BUG Fixes / Functional Adjustments:\n  - Fix an issue that cause Chat Mode failing in some certain situations.\n  - Fixed compatibility issues with Custom Tracker and some new features.\n  - Modified the code logic after adding currency in Custom Tracker\n  - Modified the logic of the Min Value, and optimized the code logic for handling currency changes that occur after the Duty is completed but still within the Duty area\n  - The switch of Track In Duty no longer affects the display of Min Value button"
+changelog = "- Preset currencies have been reduced from 19 to 3 (Now: Gil, Tomestones with/without weekly capped [exclude Poetic]). So you can delete most of them instead of just hiding now.\n- Optimised the problem that the mouse wheel page flip function was too sensitive\n- Custom Tracker now also supports mouse wheel page flipping."
