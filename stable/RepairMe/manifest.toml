@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/chalkos/RepairMe.git"
-commit = "aab8e544bb5a83f4f7c5c89924fc022e518dca64"
+commit = "9f0978ce57b30c4c4990d181e3e72d3754394e4f"
 owners = [ "chalkos" ]
 project_path = "RepairMe"
-changelog = "update to .net7 and api8"
+changelog = "update for api 9"
