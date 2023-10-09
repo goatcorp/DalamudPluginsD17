@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/Mappy.git"
-commit = "beaace936bf8930554b848f0a3ae789b18870c9a"
+commit = "ffde47a6398815e18c6f4501f3d3c6a016d68764"
 owners = ["MidoriKami"]
 project_path = "Mappy"
