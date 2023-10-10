@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "c0a5b3235cf340f619213c4abe29ee0c78afb9c6"
+commit = "5c5a75ba30bbc95805d64a1f87b89e467b1efa73"
 owners = ["Glyceri",]
 	changelog = """
+    + [1.4.2.1]
+    + Fixed a bug where Legacy Compatibily would only trigger once.
     + [1.4.2.0]
     + Every different Battle Pet model can now be assigned a name. No more naming per Job.
     + You can no longer see names on models that are Human. Sorry to those that enjoyed this feature, but it is problematic :(
