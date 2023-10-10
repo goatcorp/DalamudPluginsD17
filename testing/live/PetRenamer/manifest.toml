@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "5c5a75ba30bbc95805d64a1f87b89e467b1efa73"
+commit = "8e1f5b0e3c50e9d49ac8bff936dbfd83536d38b0"
 owners = ["Glyceri",]
 	changelog = """
+    + [1.4.2.2]
+    + Custom names will show up on Esteem again.
     + [1.4.2.1]
     + Fixed a bug where Legacy Compatibily would only trigger once.
     + [1.4.2.0]
