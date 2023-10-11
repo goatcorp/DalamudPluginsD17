@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "c02c2e08fce3d064b0810ab52de06aafba388326"
+commit = "ef9602daa4641cc2eb63eb8c408dc583514a133e"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.2.0.0
+1.2.2.0
 
-Hello Everyone,
-TooltipNotes is back for patch 6.5 and its better than ever!
-What changed?
-it may not look like much but behind the scenes a lot has changed which means now those who couldnt use TooltipNotes before due to FPS drops and it just straight up not working should niw be able to use it wihtout worries I hope
+Fixed doubling up of Allagan Tools Tooltip changes 
+Removed some erroneus logging
 """
