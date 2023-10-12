@@ -1,15 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "4b146b211d266d76b8421b7821fb5a7fb6b263e1"
+commit = "68ac5463078ff39b75a0a26a639124d310afb925"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
 changelog = """
-Version 3.1.1.0:
- - API 9 Upgrade.
- - New Trigger: Zoomed. Activates when zooming in past a certain amount. Deactivates when zooming out.
- - TiltOffset is now handled as a float, allowing for smoother tilt changes. (Thanks Cara! 💕)
- - Improved Camera Distance (zoom) handling
- - Remove usage of FFXIVClientStructs to read/set Config values
+Version 3.3.0.0:
+ - Improved Tilt Interpolation logic courtesy of @mallowmew.
 """

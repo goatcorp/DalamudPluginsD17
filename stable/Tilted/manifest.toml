@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "4b146b211d266d76b8421b7821fb5a7fb6b263e1"
+commit = "301bd03c90976637b17b90aa6cc0c10eceeed840"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
 changelog = """
-Version 3.1.1.0:
- - API 9 Upgrade.
- - New Trigger: Zoomed. Activates when zooming in past a certain amount. Deactivates when zooming out.
- - TiltOffset is now handled as a float, allowing for smoother tilt changes. (Thanks Cara! 💕)
- - Improved Camera Distance (zoom) handling
- - Remove usage of FFXIVClientStructs to read/set Config values
+Version 3.2.0.0:
+ - New Tilt option: Mapping. When this setting is enabled, the Camera Tilt will be set to a value between the "Enabled" and "Disabled"
+  values based on the Enabled and Disabled Camera Distances. This allows you to have a different tilt angle depending on how far the camera is zoomed out.
 """

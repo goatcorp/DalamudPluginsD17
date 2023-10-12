@@ -1,7 +1,16 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
-commit = "9c19f4b4826f81795c01bda39dc60e5f87e1a479"
+commit = "874efd26c094e77ed3783975e036748ac83735f1"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "0.3.1.0"
-changelog = """* Updated for Dalamud 8."""
+version = "1.0.0.0"
+changelog = """
+* Updated for Dalamud 9.
+* You can now explicitly specify 12-hour, 24-hour, or system time format for timestamps.
+* New features and bugfixes thanks to GitPaulo:
+** Added an option to show Snooper windows on startup unless closed (on by default).
+** Added filter bars to the bottom of Snooper windows.
+** Added a "joint" hover mode, which prioritizes targeted players over hovered players.
+** Disabled mouseover targeting from triggering when the mouse is over the Snooper window.
+** Fixed an issue with the percent sign (%) not rendering correctly.
+"""
