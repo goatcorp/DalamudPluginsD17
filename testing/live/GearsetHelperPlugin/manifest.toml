@@ -1,16 +1,13 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/GearsetHelperPlugin.git"
-commit = "b5e6abcb9b01fa3cb1d12464c95cc366a0ba6b5b"
+commit = "4be9ff5b01b2fe0d224b531de49b999b65f0c428"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = "GearsetHelperPlugin"
-changelog = """Patch 6.5 Update
-
-- Add a section for estimated damage calculations with various potency attacks.
-- Added an option to set a Party Bonus buff percentage for calculations.
-- Fixed the detection of food via status effects, when the setting to automatically set food is enabled.
-- Fixed the average item level being rounded incorrectly.
-- Apply the setting to automatically set food to Examine windows as well as Character.
-- Update to Dalamud API v9
+changelog = """
+- Added a setting to automatically calculate the Party Bonus percentage. This only works for characters in your party (including you).
+- Added a button to the main window to open Settings.
+- Fixed the party bonus to stats being applied after food, rather than before.
+- Did a bit of refactoring.
 """
