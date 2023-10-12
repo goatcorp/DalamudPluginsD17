@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "37c58e83e422ff0c17e14ab190175a3530858874"
+commit = "656009b9fb1599fefdc385a8500da933dba607dd"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Preset currencies have been reduced from 19 to 3 (Now: Gil, Tomestones with/without weekly capped [exclude Poetic]). So you can delete most of them instead of just hiding now.\n- Optimised the problem that the mouse wheel page flip function was too sensitive\n- Custom Tracker now also supports mouse wheel page flipping."
+changelog = "- Fixed a bug of not refreshing transactions when using the /ct command to open the main window when a certain currency was previously selected"
