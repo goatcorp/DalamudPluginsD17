@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BlueMageHelper.git"
-commit = "793bb32600bc828432d477ecb6fb9b7062e16eda"
+commit = "5fa0efda6d73d8920181fb528447359f17835c85"
 owners = [
     "Infiziert90",
 ]
