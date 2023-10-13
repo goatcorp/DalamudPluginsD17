@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "ef9602daa4641cc2eb63eb8c408dc583514a133e"
+commit = "41ec1c46ccecde2ae7912acc7d13123374b313e5"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.2.2.0
+1.2.2.1
 
-Fixed doubling up of Allagan Tools Tooltip changes 
-Removed some erroneus logging
+bugfix for character specific notes
 """
