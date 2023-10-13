@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "b10628d29b4a67a9f67b52c7b42a5962f79c0c6c"
+commit = "d86d5912e617bef1dc5886a68f19d53c2896b6f6"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Tentative fix for issues in PvP areas
-- Tentative fix for issues caused by using the plugin with the XHB disabled
-- Updated UI to use WindowSystem
+- If a hidden hotbar is switched to visible through use of CrossUp features, the plugin will no longer try to re-hide it later (it seems CrossUp was sometimes being a little too aggressive and hiding bars it shouldn't).
+- Under the hood stuff: made further adjustments to prevent errors on disposal/exit, and partially implemented IAddonLifeCycle
 """
