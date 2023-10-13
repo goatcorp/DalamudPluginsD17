@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "10924e54c9fe15ceff22a2ba4d119e16e06ef07b"
+commit = "b4a3f0c27730be5d9b80ae98c0923c720c9cfe40"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "API V9 - Courtesy of Infi!"
+changelog = "Remove Tippy IPC"
