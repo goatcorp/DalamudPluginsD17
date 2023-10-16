@@ -1,15 +1,11 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "315f8b929b38e38c769ec4d31645accf3cea0c08"
+commit = "22448c64dcd8d8684f44e177ff3f4e169eefd272"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 6.5
-- Reworked configuration to reduce config size
-- Add ignore friends option
-- Add ability to change the group for the player's own FC
-- Allowed for additional FC list to scale for longer lists
-- Wrote migration from old config to new config
-- Switched over to new method of doing the nameplates, this should alleviate issues with name abbreviation settings
-- Enabled plugin in Wolves' Den Pier
+- Add additional logic for ensuring a group always exists. This should alleviate some of the crashing issues.
+- Add failsafe when migrating the config where reset the config if something went wrong.
+- Update config migration to also save a backup of the old config.
+- Made it so that opening the config with /fcnc or through the plugin installer toggles the config on and off.
 """
