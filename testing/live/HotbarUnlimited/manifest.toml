@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/HotbarUnlimited.git"
-commit = "4731a77a0b13e466bcae20f8a2a1fcf0ca35e507"
+commit = "027ecf17dabd4a3609772aa0d7c5367cc7c0dee9"
 owners = ["MidoriKami"]
 project_path = "HotbarUnlimited"
