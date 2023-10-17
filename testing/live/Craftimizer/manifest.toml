@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/craftimizer.git"
-commit = "3e93a8196328e8373fbeb33c5f74d67c31a71400"
+commit = "234eb3a7abc3ce80a36d6688e8b5d49ed01256c2"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"
-changelog = """Release 1.2
+changelog = """Release 1.9.0
 
-- Add a helper window with recommended actions for in-progress crafts
- - More work to be done here, but it works well enough for the most part
- - I'd like to add a more strict solver in the future designed for expert crafts
-- Refactored a bunch of UI code
+- API 9
+- Huge sweeping UI changes
+- Some features have been disabled in order to get this update out in a (relatively) timely manner.
 """
