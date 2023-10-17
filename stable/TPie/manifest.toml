@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "4d0c309991aa464335e7dddd0ead91c3c62267e3"
+commit = "f0944ff7bb902701fad41873ce6e3d5aa2115bd7"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added support for patch 6.5 and Dalamud API 9."
+changelog = "- Fixed various issues related to Gear Set elements."
