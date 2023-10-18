@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "5188f0f949cc4a629d6fb50d01d2085731579f0b"
+commit = "61e2a215b83bcbc21038ac6359d90414f7fc2ac3"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
