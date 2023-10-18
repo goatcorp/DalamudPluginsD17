@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "664c1e30d65bfd296e3f978724322deaa9fad889"
+commit = "b0ace5055f3edebea4fbf2226ccc5525842dc1ef"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Fix a bug that incorrectly write in wrong character data file when track multi characters.\n- Totally rewrite Trackers."
