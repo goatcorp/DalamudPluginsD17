@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "c2a3221ecff03983a61da8f1ca69f382d2e6a5f3"
+commit = "f315cb5c693a1094f5b40be183a9de972afd4073"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.2.3]
-    + Fixed an issue where sometimes pet names would show as lower case variants.
+    + [1.4.2.4]
+    + Fixed an issue where the pet search bar would crash your game.
+    Aparently no one uses this feature so it wasn't until just now that I found this crash.
 """
