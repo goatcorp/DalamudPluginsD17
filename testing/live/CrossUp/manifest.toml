@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "3e72f99c44a063a382f98b86d08ae25c6f4e4e0f"
+commit = "9fc8ec21b6e29a0232296558251c74ff82972344"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Added text commands to modify plugin settings via chat/macros
-- Set up IPC for integration with other plugins
-- Prepped plugin text for translation
-
-This should be one of the last testing updates before the plugin moves over to stable. Be sure to send feedback if you run into any bugs I ought to squash! Lotsa thanks!
+- The "Fade Outside Combat" feature will now also consider crafting, gathering, and fishing to be forms of combat, and keep the bars visible while engaging in such pastimes.
+- Implemented a fix to prevent icons from briefly flashing white when switching bars with cooldowns ticking.
 """
