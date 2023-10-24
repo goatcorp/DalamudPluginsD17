@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "f315cb5c693a1094f5b40be183a9de972afd4073"
+commit = "ef3680a6741c31357adeac3fc34abb75fc6235f8"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.2.4]
-    + Fixed an issue where the pet search bar would crash your game.
-    Aparently no one uses this feature so it wasn't until just now that I found this crash.
+    + [1.4.2.5]
+    + Fixed an issue that caused DelvUI nameplates to not show up with this plugin enabled.
 """
