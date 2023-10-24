@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Drahsid/ResizableHUD.git"
-commit = "01d0da4d1450ab9059c4a67b025a906a1968aa13"
+commit = "ff6fc8e7ca349fa342a845f9bb6598197689de90"
 owners = ["Drahsid"]
 project_path = "ResizableHUD"
 changelog = """
-- Updated for 6.5
-- Updated for API9
+- Fixed issue causing addon inspector to not render
 """
