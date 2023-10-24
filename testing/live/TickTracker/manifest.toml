@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "af9af50d1cc8812fb9cc5e728661996ccdf9e26c"
+commit = "c6363f05af04fc0b7d3827f5ad99dc6f8707158f"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Update for 6.5
+- Reworked tick tracking due to an unreliable delegate
+- Added collision detection against certain native ui elements
+- Added an indicator on each bar when regen is active
 """
