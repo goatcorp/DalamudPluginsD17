@@ -1,11 +1,17 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/craftimizer.git"
-commit = "39e95305af9808bf9b667d1c8e81ac0e888f8f7f"
+commit = "a81b6b3b1cd5c9a4694cd3de74a3b847938d00c6"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"
-changelog = """Release 1.9.0.1
+changelog = """Release 1.9.0.3
+Quite minor, nothing too new.
 
-- API 9
-- Huge sweeping UI changes
-- Some features have been disabled in order to get this update out in a (relatively) timely manner.
+New Features:
+- Warning when Macro Chain isn't installed/enabled
+- Added an option to create a shorter macro even if it might not have a notification sound (on by default)
+
+Fixed Bugs:
+- Esc key breaks crafting log window
+- Copying from clipboard to game macros
+- Macro Chain setting does nothing
 """
