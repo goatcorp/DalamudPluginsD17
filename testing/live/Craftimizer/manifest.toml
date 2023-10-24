@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/craftimizer.git"
-commit = "60a939e023f312dbd5af9c6751b60c0a737e739d"
+commit = "a81b6b3b1cd5c9a4694cd3de74a3b847938d00c6"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"
-changelog = """Release 1.9.0.2
+changelog = """Release 1.9.0.3
 Quite minor, nothing too new.
 
 New Features:
