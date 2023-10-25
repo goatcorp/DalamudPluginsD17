@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "c6363f05af04fc0b7d3827f5ad99dc6f8707158f"
+commit = "c4a004a4e2053e837e9f58890b397a3e251a828a"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Reworked tick tracking due to an unreliable delegate
-- Added collision detection against certain native ui elements
-- Added an indicator on each bar when regen is active
+- Added additional indicators to the bar for paused regen and double speed regen.
 """
