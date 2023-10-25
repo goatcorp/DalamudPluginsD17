@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a62d3cc79937c2d71b87315676504866b689993c"
+commit = "eef61d41c76e4fb8ebb28b5c86c441b4dd488357"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Now the shopping list will stay open as long as it has item stored even if the main window is closed.\n- Added the option to show prices without the Gil Sale Tax"
+changelog = "- Fixed charts not showing up\n- Improved item name sorting by handling roman numbers\n- Clicking on an item's icon will copy the item name to the clipboard\n\n- Migrate UI to Dalamud's WindowSystem\n- Internal code cleanup and improvements"
