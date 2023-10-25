@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "fe2cc502a6a920d0200f2ed9150830f16b8ef883"
+commit = "64db4fd75f605274c7894af483b9be69dfd5961b"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.1.0"
+version = "1.0.1.1"
