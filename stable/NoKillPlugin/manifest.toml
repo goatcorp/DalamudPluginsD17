@@ -1,7 +1,6 @@
 [plugin]
 repository = "https://github.com/Bluefissure/NoKillPlugin.git"
-commit = "d1fa410f870eee3bee5502fcf7b7d139f3b2a8f3"
+commit = "564c5754cb11f137deb7dfb795decb707eed69d2"
 owners = ["Bluefissure"]
 project_path = "NoKillPlugin"
-changelog = """- .Net 7 Update (FFXIV 6.3/6.4)
-- Added a donate button"""
+changelog = """- 6.5 & API9"""
