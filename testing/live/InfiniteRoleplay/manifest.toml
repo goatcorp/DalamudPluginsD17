@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/serifas/infinite-roleplay-plugin.git"
-commit = "c4fa72470627cf3fce9c48e025ab5de58d1aa011"
+commit = "107e0028b9c71f85a5372ae91bafc39b4c3ced07"
 owners = ["serifas"]
 project_path = "Infinite Roleplay"
 changelog = "Initial Release"
