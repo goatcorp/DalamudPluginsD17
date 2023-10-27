@@ -3,4 +3,6 @@ repository = "https://github.com/Sevii77/properhousing.git"
 commit = "206b16b7ed9b822fae36a51cf648f2632a54a00b"
 owners = ["Sevii77"]
 project_path = "ProperHousing"
-changelog = """- 6.4 support"""
+changelog = """- 6.5 support
+- Improved collisions for some furniture
+- Fixed island sanctuary selection"""
