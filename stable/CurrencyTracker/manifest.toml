@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "99798790c126157a6ad9b0188d9fe6e1515cf587"
+commit = "a19f86e7aec563a67dbd88040370958ba4fb3037"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Improve recording features related to Gold Sacuer.\n- Fixed bug in writing incorrect location for quest related transactions.\n- Add Record Trade Target feature.\n- Modified some Trackers' code logic."
