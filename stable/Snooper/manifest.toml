@@ -1,16 +1,20 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
-commit = "874efd26c094e77ed3783975e036748ac83735f1"
+commit = "6fb2273f9d4fa665dc83f8e9e446fda747493f0f"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.0.0.0"
+version = "1.2.0.0"
 changelog = """
-* Updated for Dalamud 9.
-* You can now explicitly specify 12-hour, 24-hour, or system time format for timestamps.
-* New features and bugfixes thanks to GitPaulo:
-** Added an option to show Snooper windows on startup unless closed (on by default).
-** Added filter bars to the bottom of Snooper windows.
-** Added a "joint" hover mode, which prioritizes targeted players over hovered players.
-** Disabled mouseover targeting from triggering when the mouse is over the Snooper window.
-** Fixed an issue with the percent sign (%) not rendering correctly.
+Changelog from 1.1.0.0 (testing) to 1.2.0.0:
+* New feature: Chat logs are loaded from disk and persist between plugin and game restarts.
+* New feature: It is now possible to choose between local time and server time for timestamps. Default is now server time. On disk, logs are always written in server time.
+* Outgoing tells are now properly displayed in both the sender log and the receiver log.
+
+Changelog from 1.0.0.0 (stable) to 1.1.0.0:
+* New feature: Chat logs are now saved to My Documents/Snooper Logs by default (can be disabled or changed). (#8, #17)
+* New feature: Chat logs can now be copied to clipboard from Snooper windows. (#17)
+* The "+" button for the main window has been moved to the bottom toolbar to save space.
+* The bottom toolbar for the main window now includes a button to open plugin settings.
+* Fixed a bug where your own party messages were not displayed in Snooper windows including you. (#5)
+* Fixed a bug with settings not saving (#7).
 """
