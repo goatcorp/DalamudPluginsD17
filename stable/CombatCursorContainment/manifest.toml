@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Cytraen/CombatCursorContainment.git"
-commit = "26afaf94daba5cb6211b80c537b247e890b56d65"
+commit = "7496c74436ebcc5f0bf2e91eb11fe0822524aafc"
 owners = ["Cytraen"]
 changelog = """
-- Update for API v9.
+- Fixes for log spam and cursor being locked when alt+tabbed due to recent Dalamud changes.
 """
