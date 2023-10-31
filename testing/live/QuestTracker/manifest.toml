@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/isaiahcat/QuestTracker.git"
-commit = "2ab4affbca5aeb31054e29ffe4b508f3b59a62c9"
+commit = "e65ef081f44c9570dd7c4e273444158de9ed6192"
 owners = ["isaiahcat"]
 project_path = "QuestTracker"
-changelog = "New plugin"
+changelog = "Bug fixes, update icon"
