@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "1332e3739df86156f2278b9a0d9dd4fa8169df42"
+commit = "ee52eab4da06dc4620db338cf48528a40c9600cc"
 owners = [
     "PunishedPineapple",
 ]
