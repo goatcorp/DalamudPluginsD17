@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "cee423cf63e7b637c2fc0ceb8de320140dccab62"
+commit = "dbe5532dda99a41edf161cc5cd15d2bf07d9fffe"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Update for patch 6.5
+Fix STR and DEX item stats being incorrectly synced
+Fix a compatibility issue with the simple tweaks "Materia Stats" tweak
 """
