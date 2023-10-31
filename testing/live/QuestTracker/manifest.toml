@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/isaiahcat/QuestTracker.git"
+commit = "f675e652271c798e38853170bcafac0f9c474da5"
+owners = ["isaiahcat"]
+project_path = "QuestTracker"
