@@ -8,8 +8,7 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 
 - Ensure your plugin is on a publically accessible Git repo (GitHub, GitLab, any self-hosted Git instance that allows HTTP clones without authentication)
 - Update your `.csproj`
-  - Set `<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>` in a `PropertyGroup`
-  - Use `$(DalamudLibPath)` if you aren't already, see <https://github.com/goatcorp/SamplePlugin/blob/master/SamplePlugin/SamplePlugin.csproj#L29-L63>
+  - Use `$(DalamudLibPath)` if you aren't already (see [the sample plugin](https://github.com/goatcorp/SamplePlugin/blob/c6a5f5fcbf8e6812f274fab6347307c0283bd6fb/SamplePlugin/Dalamud.Plugin.Bootstrap.targets#L10) for reference)
 - Build your plugin in Release, commit your `.csproj` + the newly generated lock file
 
 ### Approval criteria
