@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1102f53b445b9f100ab3aff499e57868feb89cfc"
+commit = "f11a1122529902849bdb334e8c920d5a50fa826c"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.1]
-    + Fixed an issue where under certain circumstances this plugin wouldn't close.
+    + [1.4.3.2]
+    + Proper IPC Endpoints
+    + Removed dependancy on ... for nameplate redraws
+    + Complete rewrite of the petlist
+    + Added a Ko-fi Button
 """
