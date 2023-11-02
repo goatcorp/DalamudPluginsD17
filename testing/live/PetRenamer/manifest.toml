@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "a3eba10c310f6241223db67c9088d79e88160114"
+commit = "02c56f4f3ab9e0459370607e5f1e57c22bd533dc"
 owners = ["Glyceri",]
 	changelog = """
     + [1.4.3.3]
     + Fixed an issue where people with a dash '-' in their name could not use the plugin properly.
     + A warning will now be displayed when you enter a PVP area and the plugin disables itself.
+    + Fixed an IPC issue.
 """
