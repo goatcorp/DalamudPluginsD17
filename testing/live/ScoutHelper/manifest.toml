@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/im-scared/scout-helper"
+commit = "f2162d8dbadd24cd36898269e997fc28ee329539"
+owners = ["im-scared"]
+project_path = "ScoutHelper"
+changelog = "Add Scout Helper to the official repo ⸜(≧▽≦)⸝"
