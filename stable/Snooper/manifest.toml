@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
-commit = "bdd2eccde81985019508604851b0229c5df4f19f"
+commit = "a0fa7be17b3e9645818b5f06ad42adc98d3c4d5d"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.2.1.0"
+version = "1.2.1.1"
 changelog = """
 * Snooper will no longer play a sound when you send a tell. This was never intended. (#18)
 * If saving logs to disk is disabled, Snooper will no longer load already existing logs from disk.
+* Reduced plugin log spam, fixing an issue where exception stack traces were logged for normal operation.
 """
