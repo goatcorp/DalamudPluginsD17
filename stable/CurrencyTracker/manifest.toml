@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "ee48df477553d952f0ea90489a69ec919976b1fa"
+commit = "a19f86e7aec563a67dbd88040370958ba4fb3037"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Fixed a bug where incorrect character data was loaded after switching characters.\n- Completely rewrote the code logic for handling multiple characters.\n- Added a help page.\n- Completely rewrote Trackers. Now, different functions will exist as modules, allowing you to freely combine them in the Record Settings [DEV].\n- Added a feature to record the Content/Duty name as a note.\n- Added a feature to record the Teleport Costs.\n- Added a feature to wait for the completion of a trade/exchange before checking for currency changes.\n- Added preliminary functions for recording Gold Saucer-related information (Triple Triad, Mini Cactpot).\n- All text search functions within the plugin are now: (English) case-insensitive, (Simplified Chinese) with support for Pinyin input."
+changelog = "- Improve recording features related to Gold Sacuer.\n- Fixed bug in writing incorrect location for quest related transactions.\n- Add Record Trade Target feature.\n- Modified some Trackers' code logic."

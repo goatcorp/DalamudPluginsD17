@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "a1fdfeadedf48d3b7c85ebd99c012b1096ba5582"
+commit = "af5c6330c06937ba2cdcc8622a4fdbcc6a9a4c50"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """Updated for 6.5"""
+changelog = """Fix alliance data."""

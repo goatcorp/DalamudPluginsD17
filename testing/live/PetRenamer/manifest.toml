@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9419ee8b70ed4b4bbd374b8f2847bdf9c44de7d6"
+commit = "f11a1122529902849bdb334e8c920d5a50fa826c"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.2.2]
-    + Custom names will show up on Esteem again.
-    + [1.4.2.1]
-    + Fixed a bug where Legacy Compatibily would only trigger once.
-    + [1.4.2.0]
-    + Every different Battle Pet model can now be assigned a name. No more naming per Job.
-    + You can no longer see names on models that are Human. Sorry to those that enjoyed this feature, but it is problematic :(
-    + Save File Version Updated from Version 7 to Version 8.
+    + [1.4.3.2]
+    + Proper IPC Endpoints
+    + Removed dependancy on ... for nameplate redraws
+    + Complete rewrite of the petlist
+    + Added a Ko-fi Button
 """

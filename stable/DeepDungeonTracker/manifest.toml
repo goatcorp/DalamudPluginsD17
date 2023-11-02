@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "77ec33eec4659563c586ce68db21b840733240ab"
+commit = "88c3ee3716790aafa7c1bb47059e52a1a1f1b3bb"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Patch 6.5 / Dalamud API 9 update.
-- Added mimic support for missing kills case (HoH).
-- Added Big Floors/Hall of Fallacies counting to the Statistics Window (HoH).
+- The following windows: Tracker, Floor Set Time and Score will now be automatically hidden if you go far from the Deep Dungeon entrance (based on the sub-area of the map).
+- Some fixes on auto-correction for kill count (HoH).
 """

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
+commit = "1c37ab65ee6ff1522c1c26d39943d5d0fe39ced1"
+owners = ["PYRiTEmonark"]
+project_path = "PartyListExtras"
+changelog = "Initial Version"

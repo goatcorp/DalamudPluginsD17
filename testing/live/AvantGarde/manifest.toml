@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/NeNeppie/AvantGarde.git"
+commit = "083c83641aea08a2f1847796de65a8696c869b0a"
+owners = ["NeNeppie"]
+project_path = "AvantGarde"
+changelog = ""
