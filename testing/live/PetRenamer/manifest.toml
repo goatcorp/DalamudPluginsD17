@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "f11a1122529902849bdb334e8c920d5a50fa826c"
+commit = "f3e4221da301447a27702cf5de4d0128dfb310de"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.2]
-    + Proper IPC Endpoints
-    + Removed dependancy on ... for nameplate redraws
-    + Complete rewrite of the petlist
-    + Added a Ko-fi Button
+    + [1.4.3.3]
+    + Fixed an issue where people with a dash '-' in their name could not use the plugin properly.
+    + A warning will now be displayed when you enter a PVP area and the plugin disables itself.
 """
