@@ -2,7 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "827b0da843e814dc374a68d186e8e5172745dc0c"
+commit = "44245d3c62fd3f94949bf1977d13121c00306ac9"
 changelog = """
-General: Updated for Dalamud API 9
-General: Updated for FFXIV 6.5"""
+BiS: Can create BiS from etro link as well as the etro id
+BiS: Fixed an issue with BiS being empty for new jobs
+BiS: Switched to using BiS sets curated by etro.gg
+BiS: Removed user curated defaults from config"""

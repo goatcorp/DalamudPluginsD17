@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "ef25e74a923a84763f77284a5c78b9d4299d5151"
+commit = "0347f6d05f45df902ca9d574615de3490233edde"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
-changelog = "NET7 / API 8 support."
+changelog = """
+API 9 support. (Thank you NPittinger)
+
+New features:
+- Turn off rich presence when AFK (thank you sersorrel)
+"""

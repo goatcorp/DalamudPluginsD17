@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "10924e54c9fe15ceff22a2ba4d119e16e06ef07b"
+commit = "da2635c073b45c313897d4ca26c95c0b2e0e9440"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "API V9 - Courtesy of Infi!"
+changelog = "Fixed a logic error with tracking blocked messages and potentially a cause of frame drops during combat under specific conditions."

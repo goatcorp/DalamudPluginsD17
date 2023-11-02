@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "af9af50d1cc8812fb9cc5e728661996ccdf9e26c"
+commit = "c4a004a4e2053e837e9f58890b397a3e251a828a"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Update for 6.5
+- Added additional indicators to the bar for paused regen and double speed regen.
 """

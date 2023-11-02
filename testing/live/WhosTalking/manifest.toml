@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "d96e3111b5d8a576080da53667fae8a7b792a77b"
+commit = "98d6d6935d10bcf2e0eb63aef9dbea2bce7ef65a"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Updated for API 9 (patch 6.5), and added a `/whostalking` command to open the plugin settings. Also fixed a mostly-hypothetical memory leak, and (hopefully) removed some overly-verbose error logging.
+- Added an easier way to configure individual assignments
+- Fixed a bug causing the overlay to show up even if the party list was hidden via HUD Layout
+- Fixed a crash that could occur if the Discord API sent an invalid response
 """

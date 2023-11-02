@@ -1,13 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "be2a8ef9cef105a7fa688dfaad09a898cdaa5b6e"
+commit = "2b96b700999a454ddc0b8a6ccc1c218dc5fef08e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.8"
+version = "1.6.2.0"
 changelog = """\
-**Bug fix**
-- Fix crash that occurs due to duplicate item patch data
-- :plofix:
+**New Features**
+- Airships, Submarines, Mobs, Retainer Ventures should allow their source columns to be filtered
+- New column/filter that lets you search for the total number of recipes an item is involved in
+**Bug Fixes**
+- Fix free company credit parsing
+- Fixed some bad sub data due to SQ renaming things(thanks infi)
 """

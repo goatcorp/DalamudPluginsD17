@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/craftimizer.git"
-commit = "3e93a8196328e8373fbeb33c5f74d67c31a71400"
+commit = "a81b6b3b1cd5c9a4694cd3de74a3b847938d00c6"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"
-changelog = """Release 1.2
+changelog = """Release 1.9.0.3
+Quite minor, nothing too new.
 
-- Add a helper window with recommended actions for in-progress crafts
- - More work to be done here, but it works well enough for the most part
- - I'd like to add a more strict solver in the future designed for expert crafts
-- Refactored a bunch of UI code
+New Features:
+- Warning when Macro Chain isn't installed/enabled
+- Added an option to create a shorter macro even if it might not have a notification sound (on by default)
+
+Fixed Bugs:
+- Esc key breaks crafting log window
+- Copying from clipboard to game macros
+- Macro Chain setting does nothing
 """
