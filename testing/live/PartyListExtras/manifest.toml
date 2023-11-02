@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
-commit = "681c22fa04df61d7847980e5b56505c3a91a6b31"
+commit = "1bd0b313584cd0211c0c68ee2b86de9d757c2f36"
 owners = ["PYRiTEmonark"]
 project_path = "PartyListExtras"
 changelog = """- Fixed bugs introduced in 0.0.2.0"""
