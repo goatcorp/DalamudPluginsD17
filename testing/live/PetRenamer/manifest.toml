@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "02c56f4f3ab9e0459370607e5f1e57c22bd533dc"
+commit = "e1c7ec603414cb3597075b5848e1d7736b074838"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.3]
-    + Fixed an issue where people with a dash '-' in their name could not use the plugin properly.
-    + A warning will now be displayed when you enter a PVP area and the plugin disables itself.
-    + Fixed an IPC issue.
+    + [1.4.3.4]
+    + The plugin will now save upon removing a user!
+    + Improved stability upon logging into an alt account.
+    + Code optimizations.
+    + The pet list will now reset upon relogging.
+    + Fixed an issue where the pet list wouldn't draw correctly under certain circumstances.
 """
