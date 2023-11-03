@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://git.camora.dev/asriel/craftimizer.git"
+commit = "c7f809767e76736f9a5f74fa7a6da3346bd34f58"
+owners = [ "WorkingRobot" ]
+project_path = "Craftimizer"
+changelog = """Release 1.9.1.0
+Import your macros from elsewhere!
+
+New Features:
+- Click the import button in the macro editor, and import your own macros!
+- Supports FFXIVTeamcraft & Craftingway
+"""

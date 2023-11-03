@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/kelvin124124/CopyTranslated.git"
+commit = "b124fbd9d1d3d987174ec06ab6a104a3b29382dc"
+owners = ["kelvin124124"]
+project_path = "CopyTranslated"
+changelog = "optimize code"

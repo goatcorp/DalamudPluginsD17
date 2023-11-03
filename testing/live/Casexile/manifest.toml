@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://gitlab.com/Bakura/casexile.git"
+commit = "973a627897639ae9bd27d196fef2b628d28344d2"
+owners = ["RyouBakura"]
+project_path = ""
+changelog = "Compatibility for API 9 / 6.5"

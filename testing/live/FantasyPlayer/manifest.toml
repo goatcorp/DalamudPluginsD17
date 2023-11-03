@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "be196ef0fd35e9e9c2da19f205ef244608d097c0"
+commit = "d66dfab36e210e9ec36352a98773355c2207e6ad"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.1.1.1"
+version = "2.1.1.4"
 changelog = """\
-Allow configuration of which channel fantasy player's messages show up in
-The now playing messages are localized(thanks to Dormanil)
+**API9 Release**
+- More work on making the threading happy(hopefully no more logouts)
+- UI will indicate when it's loading it's providers
+- Assuming the logout issues resolve I'll make this a non-testing plugin
 """

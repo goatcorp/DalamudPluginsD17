@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://git.camora.dev/asriel/ItemIcons.git"
+commit = "fa350cec68d6ce3590f794cda34ac69000ccc32b"
+owners = [ "WorkingRobot" ]
+project_path = "ItemIcons"
+changelog = """Release 0.2.0.1
+
+Fixed Bugs:
+ - Possible flickering when changing inventory tabs
+ - Scaling issue when at 100% GUI scale
+ - A few incorrect armoury job icons (sorry BLMs)
+"""

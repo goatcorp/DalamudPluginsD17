@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "1102f53b445b9f100ab3aff499e57868feb89cfc"
+owners = ["Glyceri",]
+	changelog = """
+    + [1.4.3.1]
+    + Fixed an issue where under certain circumstances this plugin wouldn't close.
+"""

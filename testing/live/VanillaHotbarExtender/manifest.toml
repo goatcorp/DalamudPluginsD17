@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mustafakalash/VanillaHotbarExtender.git"
-commit = "985175c15d224582b1acc8c3d3fdfd9743340aec"
+commit = "68d4ff4720f9076591d2b4df2cb7ce87ea3f580f"
 owners = ["mustafakalash"]
 project_path = "VanillaHotbarExtender"
-changelog = "Update for patch 6.3."
+changelog = "Update for patch 6.5\nAdded `/vhe clear` command for more versatile hotbar clearing\nLoaded hotbars now save to file so they persist on job switch or log out"

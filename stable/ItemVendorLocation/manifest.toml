@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "4718a7e2572a2c24a8df338ba4845d8ce6b11adb"
+commit = "82f98489803b7d065a1968ab098be70e87cc2dd5"
 owners = [
     "electr0sheep",
+    "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Support for 6.4
+- Added support for collectable shops (Nuko)
+- Added some support for relic weapons (Nuko)
+- Fix tooltip error (Nebel)
+- Update to API 9
 """
-version = "2.2.0.2"
+version = "2.4.0.0"

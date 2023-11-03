@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "0a99f39cab1f70a1285d3ab184594cd840a1bd5d"
+commit = "19e0bb187642ec2a28d486549512ab1bcb7958e1"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Patch 6.4 update
+changelog = """- Modified loot search parsing
+- Added table sorting
+- Added level info on loot
+- Fixed cause of some crashes
+- General refactorings
  """

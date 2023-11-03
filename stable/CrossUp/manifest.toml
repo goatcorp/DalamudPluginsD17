@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "9ba9a43fafe7c8154a3bdd62f5b1fa356b68be54"
+commit = "9fc8ec21b6e29a0232296558251c74ff82972344"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Fixed a bug wherein some of the controls for positioning the Expanded Hold bars were faulty (whoops!)
+- The "Fade Outside Combat" feature will now also consider crafting, gathering, and fishing to be forms of combat, and keep the bars visible while engaging in such pastimes.
+- Implemented a fix to prevent icons from briefly flashing white when switching bars with cooldowns ticking.
 """

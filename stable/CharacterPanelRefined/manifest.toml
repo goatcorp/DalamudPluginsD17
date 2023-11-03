@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "1513e9afb6d01c2c0d61d16bf93859abca03e0a9"
+commit = "dbe5532dda99a41edf161cc5cd15d2bf07d9fffe"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fixed average damage and healing values broken by patch 6.4
+Fix STR and DEX item stats being incorrectly synced
+Fix a compatibility issue with the simple tweaks "Materia Stats" tweak
 """

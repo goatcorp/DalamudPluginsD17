@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "c85f5ab51c3ad0b6f84d24453ba49b747a197ead"
+commit = "a1c40059a311e90b83c48db0805d4b4dc40a9f7c"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- player not in FriendList of game could update
-- Add a temporary subscription list to add non friends to the plugin's player list
-- Remove Update from Player Search
-- Add Update from Company Member
+- fix cannot read data
+- fix actual behavior is inconsistent with the description
+- add PlayerSearch button back
 """

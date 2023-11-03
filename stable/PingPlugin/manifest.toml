@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "6eac83243096c5f6b7d2827a7989790d6ee5a836"
+commit = "8bdfd33027841934f9179a2414de94a2c21065a3"
 owners = ["karashiiro"]
 changelog = """\
-- Fix font management logic
+- Updates for API 9
 """

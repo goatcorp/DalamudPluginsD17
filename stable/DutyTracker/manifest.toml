@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "831ad26bd9cfba471043d7ec511de0f477a53906"
+commit = "af5c6330c06937ba2cdcc8622a4fdbcc6a9a4c50"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """Fixed a minor display bug introduced by me fixing a minor display bug in the last patch."""
+changelog = """Fix alliance data."""

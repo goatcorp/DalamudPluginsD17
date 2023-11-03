@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Imaginary-Narwhal/GlamourWishlist.git"
+commit = "a4532579a30558e214d11202ef8cc0b830459e3c"
+owners = ["Imaginary-Narwhal"]
+project_path = "GlamourWishlist"
+changelog = "Updated to API 9"

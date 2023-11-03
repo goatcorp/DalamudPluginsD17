@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "a212c0719c5a344e2086fcf63d7527d7f392474d"
+commit = "f63745f7e6cbd74c39d8bcadb0b2ab048a6d85d9"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- a tiny description enhancement
-- fix cannot load data after change Dalamud location
+- Support API9
 """

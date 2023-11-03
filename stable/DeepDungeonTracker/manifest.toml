@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "04c25733b44f910fbe241f095e4272995a3ebc39"
+commit = "88c3ee3716790aafa7c1bb47059e52a1a1f1b3bb"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added the option [Improved Magicite Kills Detection], under General tab > Testing section.
+- The following windows: Tracker, Floor Set Time and Score will now be automatically hidden if you go far from the Deep Dungeon entrance (based on the sub-area of the map).
+- Some fixes on auto-correction for kill count (HoH).
 """

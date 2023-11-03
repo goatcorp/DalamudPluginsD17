@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "52c35396c59b5730753407ecc3b3c2b31736abf3"
+commit = "cc4801c5fd793aa36c646900ea2ab72f10fe9a09"
 owners = [
     "tesu",
 ]
-changelog = "updates config options for the new behavior (automatically undercutting HQ when listing HQ, don't undercut own retainer)"
+changelog = "bump API version; reduced external dependencies"

@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "7e2a30d6155dace594134996df4ae0f73550ff66"
+commit = "98d6d6935d10bcf2e0eb63aef9dbea2bce7ef65a"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Fix poorly-sized voice activity indicators at certain UI scales
+- Added an easier way to configure individual assignments
+- Fixed a bug causing the overlay to show up even if the party list was hidden via HUD Layout
+- Fixed a crash that could occur if the Discord API sent an invalid response
 """

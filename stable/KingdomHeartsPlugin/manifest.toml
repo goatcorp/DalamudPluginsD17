@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Arrenton/KingdomHeartsPlugin.git"
-commit = "98e07ebfa36673aca40ac9f9f34b3de8eeff308f"
+commit = "ac967a7e4dc3d8d2d94a64d950a55ffade878baf"
 owners = [
     "Arrenton",
 ]
 project_path = "KingdomHeartsPlugin"
 changelog = """
-Updated for API 8
+Updated for API 9
+Changed commands /khpshow and /khphide to /khp
+Changed settings command from /khp to /khpconfig
 """

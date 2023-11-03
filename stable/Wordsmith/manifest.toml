@@ -1,10 +1,17 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "9f7859f5cae4840a1e93603e48840f1f1b0347a8"
+commit = "8d57f48fbefecae23b07abc4a58d6abe1b787c8c"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.9.1 Patch Notes
-Bug Fixes:
-  [FIXED] Spellcheck not automatically running as expected."""
+changelog = """# Wordsmith v1.11.0 Patch Notes:
+[FIXED] Fixed multiple UI scaling issues that were most notable at high scales.
+
+[FEATURE] New feature! Word usage stats. Scratch pads will now track how many times you've used a word since opening the scratch pad.
+This feature was requested so it could help users to avoid repetative typing. To view the statistics click the "Text" menu item on the scratchpad and choose "Word Statistics" sub menu item.
+You can view and clear the statistics from there.
+Do disable this feature follow these steps:
+    click the "Settings" menu item on any scratchpad or type /wordsmith.
+    Navigate to the "General" tab.
+    Uncheck the box next to "Track Word Usage." """
