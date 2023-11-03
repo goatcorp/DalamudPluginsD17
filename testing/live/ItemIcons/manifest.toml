@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/ItemIcons.git"
-commit = "fa350cec68d6ce3590f794cda34ac69000ccc32b"
+commit = "13da1ef64bd749612c015355b4d24cd3578816c9"
 owners = [ "WorkingRobot" ]
 project_path = "ItemIcons"
-changelog = """Release 0.2.0.1
+changelog = """Release 0.3.0.0
+New Changes:
+ - New Materia (Text) icon type
+ - Config window changes:
+   - Added the ability to globally disable a type of icon
+   - Added icon descriptions
+   - Added a list of used icons for every icon type
+   - Changed some names and other stuff around
 
 Fixed Bugs:
- - Possible flickering when changing inventory tabs
- - Scaling issue when at 100% GUI scale
- - A few incorrect armoury job icons (sorry BLMs)
+ - Glamour plate icons were in the wrong spot
 """
