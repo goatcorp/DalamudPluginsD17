@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "6bba5a66d0a68d9dbefef28f15d8d69fb760f363"
+commit = "96b16f3c03495c1882cf44236a3e50652461a99d"
 owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.10.3 Patch Notes:
-[FIXED] Fixed a bug that caused auto-spellcheck to not work as intended."""
+changelog = """# Wordsmith v1.11.1 Patch Notes:
+[FIXED] Fixed a crash related to zero-length words in the Tally system."""

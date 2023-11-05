@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "3b2dedd69559db26ebb0c378e343822a8eb94c40"
+commit = "c7d6315b8454797f7b5f1c78599cd92dd4440930"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes Uberduck TTS backend following API changes
+- Fixes errors while upgrading config versions
 """

@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "f11a1122529902849bdb334e8c920d5a50fa826c"
+commit = "e1c7ec603414cb3597075b5848e1d7736b074838"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.2]
-    + Proper IPC Endpoints
-    + Removed dependancy on ... for nameplate redraws
-    + Complete rewrite of the petlist
-    + Added a Ko-fi Button
+    + [1.4.3.4]
+    + The plugin will now save upon removing a user!
+    + Improved stability upon logging into an alt account.
+    + Code optimizations.
+    + The pet list will now reset upon relogging.
+    + Fixed an issue where the pet list wouldn't draw correctly under certain circumstances.
 """

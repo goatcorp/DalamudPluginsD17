@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "af5c6330c06937ba2cdcc8622a4fdbcc6a9a4c50"
+commit = "6642dfe8ae0d981717e7c56253512caf019e8c18"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """Fix alliance data."""
+changelog = """Frontlines won't include deaths for alliances that don't exist anymore.
+Added a link to the github so that it can be accessed from the installer correctly."""
