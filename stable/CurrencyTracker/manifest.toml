@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "28961e2c65efbdee5faae77b9215625f6c4d556e"
+commit = "9a1be9fa6c4d2365a199cbc53d3e965ba5a998b8"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Optimised performance\n- Fixed an issue with incorrectly recording Wondrous Tails rewards"
+changelog = "- Optimized performance.\n- Fixed an issue which could in certain situations result in the plugin not pausing recording as expected.\n- Modified the code logic of the multi-language module.\n- Changed the content of a displayed text."
