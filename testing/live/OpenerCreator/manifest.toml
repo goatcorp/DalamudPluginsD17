@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
 commit = "32bdc200ab8d7c033287869aa5a9427d4d3ebf3f"
-owners = ["herulume", "sevii"]
+owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
 changelog = "Initial approval"
