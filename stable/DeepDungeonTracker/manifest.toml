@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "88c3ee3716790aafa7c1bb47059e52a1a1f1b3bb"
+commit = "9301b802cfa0fa35479eb2b9aae5c5c6f20ed2af"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- The following windows: Tracker, Floor Set Time and Score will now be automatically hidden if you go far from the Deep Dungeon entrance (based on the sub-area of the map).
-- Some fixes on auto-correction for kill count (HoH).
+- Accurate Target HP % fix.
 """
