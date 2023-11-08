@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/craftimizer.git"
-commit = "c7f809767e76736f9a5f74fa7a6da3346bd34f58"
+commit = "80a758e24bc11a1b429dcbc9219963a6d04b41ae"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"
-changelog = """Release 1.9.1.0
-Import your macros from elsewhere!
+changelog = """
+Big solver generation fixes! *It now tries super duper hard to get to 100% HQ!*
 
-New Features:
-- Click the import button in the macro editor, and import your own macros!
-- Supports FFXIVTeamcraft & Craftingway
+New features:
+- Recipes without a need for quality will prioritize only step count
+- Minor UI tweaks
+
+Fixed bugs:
+- Solver gives a subpar macro when 100% HQ is clearly possible
+- Small off-by-1 errors with progress/quality calculations
+- Normal stepwise algorithm never finishes
 """
