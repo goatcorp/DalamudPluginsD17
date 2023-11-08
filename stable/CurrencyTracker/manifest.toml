@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "afaeebc5281c69284ee1b1b49ccbbb32ef98e074"
+commit = "7d8682612aa80c83afbc57892ae8d52875ad7055"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Fixed an issue where the plugin might miscalculate the Change of one transaction due to too fast operation.\n- Fixed an issue where the plugin would load English localization text regardless of the client's language.\n- Added Record FATE Name feature.\n- Added Record (Island Sancutary)Related Rewards/Costs feature."
