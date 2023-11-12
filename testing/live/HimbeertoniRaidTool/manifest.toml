@@ -2,11 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "9c4591526e16e9834ac29560becf9887daaf071d"
-changelog = """
-Commands: /lm toggle togles the lootmaster window
-Commands: all commands are available as sub commmnds to /hrt eg. /lm *** can be used like /hrt lm ***
-DataStorage: reworked data storage as preparation for future features
-Ui: editing gear should be more uniform and visually clear
-Ui: you can delete a piece of gear
-Ui: now shows all shops where an item is available"""
+commit = "91eb2a09148a1acf494e1a66cc4cdd6dc3233b5e"
+changelog = "Internals: Changed how groups and players are saved"
