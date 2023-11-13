@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "aa2b18953c0ccb4a91288a8266c0fb068785d463"
+commit = "8e970653901decfe16ece9b51ed810b19425db68"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Fixed the issue where some currencies were accidentally filtered out in Custom Currency Tracker interface.\n- Fixed the issue of high performance consumption in the current Custom Currency Tracker interface.\n- Modified the code logic of the content-related tracking function."
+changelog = "- Code cleanup\n- Improve performance\n- Now Using Warps will also be seen as a Teleport."
