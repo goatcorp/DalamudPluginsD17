@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/syldrathecat/CatScan.git"
+commit = "155ce6e13b3f16a055364dd7973248bdf50c4a0a"
+owners = ["syldrathecat"]
+project_path = "CatScan"
+changelog = "First version!"
