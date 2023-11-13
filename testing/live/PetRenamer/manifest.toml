@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "046c19dee30ee1dfc375957beec374d28fc223ea"
+commit = "455e9597e8c0bcd434e652e8a88c982fe365f3ee"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.4.0]
-    + Mappy is now integrated into Pet Nicknames.
-    + Fixed an issue where the Pet Rename Window would sometimes not work.
+    + [1.4.4.1]
+    + Fixed a typo. (I know, game changing content added this patch).
 """
