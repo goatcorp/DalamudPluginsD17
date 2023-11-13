@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "6c98474e389b36ac8e8fac824dee5c2d5534d55a"
+commit = "046c19dee30ee1dfc375957beec374d28fc223ea"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.5]
-    + Fixed stutter upon summoning a pet.
-    + You can now give nicknames to pets turned into player characters again.
-    (Gamers, I'm serious! If I get even a single report of this being abused again, I will disable the feature again for everybody!)
-    + Code optimizations.
+    + [1.4.4.0]
+    + Mappy is now integrated into Pet Nicknames.
+    + Fixed an issue where the Pet Rename Window would sometimes not work.
 """
