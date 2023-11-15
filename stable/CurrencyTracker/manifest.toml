@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "8e970653901decfe16ece9b51ed810b19425db68"
+commit = "e42db5973077a3554754256ed89dad97536e1acc"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Code cleanup\n- Improve performance\n- Now Using Warps will also be seen as a Teleport."
+changelog = "- Optimized code performance\n- Fixed a file read failure issue\n- Fixed an issue where the default currency was unexpectedly updated due to a client language change"
