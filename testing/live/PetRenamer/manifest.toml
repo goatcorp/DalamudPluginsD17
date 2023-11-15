@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "5b1de580080692d63e6a5213770324eb49b4a4ad"
+commit = "207e10e43306b2642dcf102cb69c92fddd984a47"
 owners = ["Glyceri",]
 	changelog = """
     + [1.4.4.1]
     + Fixed a typo. (I know, game changing content added this patch).
-    + No more kofi button
+    + No more kofi button.
+    + Emotes should now work on the japanese client again.
 """
