@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "455e9597e8c0bcd434e652e8a88c982fe365f3ee"
+commit = "5b1de580080692d63e6a5213770324eb49b4a4ad"
 owners = ["Glyceri",]
 	changelog = """
     + [1.4.4.1]
     + Fixed a typo. (I know, game changing content added this patch).
+    + No more kofi button
 """
