@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "b316cd1fa772adefd644e4f9e1698fb537fa8a89"
+commit = "c8292e3b976e3338b521c9c4695d3bffdf65b812"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Optimized performance\n- Fixed a file read failure issue\n- Fixed an issue where the default currency was unexpectedly updated due to a client language change"
