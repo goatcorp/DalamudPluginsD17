@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "9301b802cfa0fa35479eb2b9aae5c5c6f20ed2af"
+commit = "5119f59c4f2001673e0463728540eaf44b479d92"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Accurate Target HP % fix.
+- Added 3 to 8 room counts to the Statistics Window. (You can show or hide them individually on Configuration > Statistics tab)
 """
