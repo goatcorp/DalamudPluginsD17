@@ -1,17 +1,5 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/craftimizer.git"
-commit = "80a758e24bc11a1b429dcbc9219963a6d04b41ae"
+commit = "a5033463ec4b9eccb39aab4daa6c2f5a259025f9"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"
-changelog = """
-Big solver generation fixes! *It now tries super duper hard to get to 100% HQ!*
-
-New features:
-- Recipes without a need for quality will prioritize only step count
-- Minor UI tweaks
-
-Fixed bugs:
-- Solver gives a subpar macro when 100% HQ is clearly possible
-- Small off-by-1 errors with progress/quality calculations
-- Normal stepwise algorithm never finishes
-"""
