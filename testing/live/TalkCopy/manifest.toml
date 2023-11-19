@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/TalkCopy.git"
+commit = "003bd191f22fd592a77f545a06a11bc7a899c16d"
+owners = ["Glyceri",]
+	changelog = """
+    + [0.0.0.1]
+    + Automatically copies text from the Talk Box to your clipboard.
+"""
