@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "58a33ce0d16cf31afcf6e6b045bcc81c89a67f49"
-changelog = "### 2.8.2 (2023-11-10)\n\n\n### Bug Fixes\n\n* implement better font loading code to allow for all characters (beaf540)\n* recalculate mob notes if size has changed (ec122a1)\n* remove some config options that no longer affects display (8d83f5b)\n* transition MobData local storage to binary and safer save logic (89a0a1f)"
-version = "2.8.2"
+commit = "cd88eacd2e21635c05ee08f525f387c96be2b063"
+changelog = "### 2.8.3 (2023-11-19)\n\n\n### Bug Fixes\n\n* mobdata notes not being properly set after changing save logic (2713562)"
+version = "2.8.3"
