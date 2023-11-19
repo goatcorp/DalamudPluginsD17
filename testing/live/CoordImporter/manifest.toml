@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "c69cd53ca294ffc69aaae6132af995960eaf60bc"
-owners = ["zw3lf"]
+commit = "a7be703d9621ec24ad63038a5b3dfdea47bb1612"
+owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Fix Lumina problematically caching Placenames when building the map dictionary"
+changelog = "Implement export to HuntHelper train feature (thank you dit-zy!) and refactor code"
