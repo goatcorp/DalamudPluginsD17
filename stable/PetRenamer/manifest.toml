@@ -1,8 +1,31 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1102f53b445b9f100ab3aff499e57868feb89cfc"
+commit = "74ab0778383a5da5aafef272aacc85e6d04d0e87"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.1]
-    + Fixed an issue where under certain circumstances this plugin wouldn't close.
+    + [1.4.4.1]
+    + Fixed a typo. (I know, gamechanging update this one)
+    + Emotes should work on the Japanese client again!
+    + [1.4.4.0]
+    + Fixed an issue where the Pet Rename Window would sometimes not work.
+    + Mappy is now integrated into Pet Nicknames.
+    + [1.4.3.5]
+    + Fixed stutter upon summoning a pet.
+    + You can now give nicknames to pets turned into player characters again.
+    (Gamers, I'm serious! If I get even a single report of this being abused again, I will disable the feature again for everybody!)
+    + Code optimizations.
+    + [1.4.3.4]
+    + The plugin will now save upon removing a user!
+    + Improved stability upon logging into an alt account.
+    + Code optimizations.
+    + The pet list will now reset upon relogging.
+    + Fixed an issue where the pet list wouldn't draw correctly under certain circumstances.
+    + [1.4.3.3]
+    + The plugin should work for people with a - in their name now!
+    + A warning will now be displayed when you enter a PVP area and the plugin disables itself.
+    + Fixed an IPC issue.
+    + [1.4.3.2]
+    + Updated IPC Points.
+    + Removed dependency on Penumbra for redrawing nameplates.
+    + Rewrote the complete Pet List. This has been on my todo for a month now and I'm very happy with the results.
 """
