@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "86bf94064a7cb4e1a69722acc6449b62a6f98f7c"
+commit = "11bcf7e9fd6d5c1c0d3fb34c334e4198d821c5ed"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-Changes since 1.28.2
-- Improves logging during config migrations for easier debugging in the future
-
-Changes since 1.24.2
-- Adds support for ElevenLabs TTS
-- Adds Cortana voices to the \"Don't see all of your voices?\" button
+- Fixes installation errors due to config migrations from pre-1.25.0
 """
