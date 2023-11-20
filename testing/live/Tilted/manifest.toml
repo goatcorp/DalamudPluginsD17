@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "7311bce145ff0479d1af53e44342cf64cc2fb0be"
+commit = "d661842f40b3f5e47b5479be08d5ee1b7911fe2d"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
 changelog = """
-Version 3.3.0.1:
- - Improved Tilt Interpolation logic courtesy of @mallowmew.
- - Tilt Interpolation/Mapping no longer defaults to true.
+Version 3.4.0.0:
+ - Added GPose detection (Disables the plugin while GPose is active), along with a setting to ignore, courtesy of mallowmew
 """
