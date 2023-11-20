@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/s5bug/AutoTimer.git"
+commit = "53dc51164b655d84321a11806d08ce4b3d00c18a"
+owners = ["s5bug"]
+project_path = "AutoTimer"
+changelog = "Initial release"
