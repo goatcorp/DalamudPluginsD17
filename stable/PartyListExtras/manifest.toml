@@ -1,10 +1,7 @@
 [plugin]
 repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
-commit = "daa13580b2f3662c7d56964ebb263b6025d1a3b3"
+commit = "851550d37c7fe825ed40019e0f9103ae80f3d124"
 owners = ["PYRiTEmonark"]
 project_path = "PartyListExtras"
-changelog = """- Added options for showing overlay only in combat and in duty
-- Added options for showing/hiding effects by type
-- Added overlay width, offset and padding options
-- All jobs now complete (PR #1)
-- Save the Queen effects and potions (PR #1)"""
+changelog = """- Fixed speed up effects being applied twice when stacked
+- Added ability to filter out effects that should always be activated"""
