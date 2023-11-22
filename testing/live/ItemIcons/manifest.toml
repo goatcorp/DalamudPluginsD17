@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/ItemIcons.git"
-commit = "7509f34aef03bb369d6350068d7346103ba33fa2"
+commit = "ebb6c69f895f8cb1d34990cf6588680513babf7a"
 owners = [ "WorkingRobot" ]
 project_path = "ItemIcons"
