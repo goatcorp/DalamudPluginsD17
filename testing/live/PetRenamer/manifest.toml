@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "ab59f1888df84c95d301504a8d097ffed1efffd1"
+commit = "5d09a18e298bdb0fd7b9e1386e64a87ef1cedf53"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.4.2]
-    + Massive performance improvements!
+    + [1.4.4.4]
+    + Petlist is now reorderable. (Please notify me of any issues. I will personally run some extensive testing as well.)
 """
