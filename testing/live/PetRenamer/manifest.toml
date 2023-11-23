@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "5d09a18e298bdb0fd7b9e1386e64a87ef1cedf53"
+commit = "1806b02a40be48c9e70ef73c04e53785f3cac70d"
 owners = ["Glyceri",]
 	changelog = """
     + [1.4.4.4]
     + Petlist is now reorderable. (Please notify me of any issues. I will personally run some extensive testing as well.)
+    + Removed Show Kofi Button setting from the settings screen as it did nothing anymore.
 """
