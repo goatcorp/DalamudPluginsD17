@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "993af29e933928e02b45bf40201ad108abe6cd78"
+commit = "098809014f667952d3f735f70545e6529e3f08f3"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes installation errors due to config migrations from pre-1.25.0
+- Fixes config window closing in rare cases when selecting the NPC voices tab
 """
