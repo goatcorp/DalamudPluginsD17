@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/im-scared/scout-helper.git"
-commit = "f2162d8dbadd24cd36898269e997fc28ee329539"
-owners = ["dit-zy"]
+commit = "be3449ec218b4466f4b0a63a5fd6b4cc029764d2"
+owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "Add Scout Helper to the official repo ⸜(≧▽≦)⸝"
+changelog = "added a full-text mode for easier sharing of tracker link info"
