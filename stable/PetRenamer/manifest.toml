@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d530fbc1d2fa20637ffd6ed36cfa37ca54b91a21"
+commit = "3ffa550f5522427e14d0d97b347a896d1c061a0e"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.4.3]
-    + Fixed log spam that could occur.
-    + Changed to Mappy IPC to be compatible with the new update. (We forgive, but never forget!)
-    + Fixed an issue where upon switching alts another log would spam.
+    + [1.4.4.5]
+    + This plugin now works for users with a new save file!
+    + Summon text works (again) on german client...
+    + [1.4.4.4]
+    + Added the ability to reorder the Petlist.
 """
