@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/im-scared/scout-helper.git"
-commit = "b16758a8be6cc374da34f35c579a7365ce815444"
+commit = "c35de5130c3eaba8bb4d7d6aefacfa3584dd2810"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
 changelog = "added a full-text mode for easier sharing of tracker link info"
