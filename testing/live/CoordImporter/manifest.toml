@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "a7be703d9621ec24ad63038a5b3dfdea47bb1612"
+commit = "10e50c70c9be92b7712a64c1be8f0308e0eb42e9"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Implement export to HuntHelper train feature (thank you dit-zy!) and refactor code"
+changelog = "Regression fix: Coordinates once again only go to echo chat (TY badger for the bug report)"
