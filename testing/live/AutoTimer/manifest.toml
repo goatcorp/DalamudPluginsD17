@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "53dc51164b655d84321a11806d08ce4b3d00c18a"
+commit = "aa03d1dd6d0b7f02396c72db0f2b0b0410d7c7bc"
 owners = ["s5bug"]
 project_path = "AutoTimer"
-changelog = "Initial release"
+changelog = '''
+- Fix issue in which non-English versions would throw errors due to the plugin improperly matching locale-dependent strings against static strings
+- Add more information about Ninja's bar background'''
