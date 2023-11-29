@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/im-scared/scout-helper.git"
-commit = "6c0b4053e7f2ac33812266e32816ef4badd51643"
+commit = "ece8403b0c4b428aa0d817fd2ed89059218615b9"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "added a full-text mode for easier sharing of tracker link info"
+changelog = "stop crashing on startup XD;;"
