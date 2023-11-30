@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "32bdc200ab8d7c033287869aa5a9427d4d3ebf3f"
+commit = "db9c7cace823545127a8c31000ab1d971fb3fbfa"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
-changelog = "Initial approval"
+changelog = "Add healer and tank openers."
