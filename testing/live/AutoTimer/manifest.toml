@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "aa03d1dd6d0b7f02396c72db0f2b0b0410d7c7bc"
+commit = "d921a2ac869605adb19ff11f94981a7ced89c843"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Fix issue in which non-English versions would throw errors due to the plugin improperly matching locale-dependent strings against static strings
-- Add more information about Ninja's bar background'''
+- Fix issue in which UI elements and the timer bar were getting cut off due to missized windows
+- Fix issue in which Bard and Machinist autos were not being detected due to being Shots instead of Attacks'''
