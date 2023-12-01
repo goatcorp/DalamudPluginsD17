@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "2ef7d5a21c7abba788f1b983f2ff06e17aa1831a"
+commit = "9ad5b42a3337e680f76825ce573b890b51bdfa96"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "Complete code refactoring and code cleaning"
+changelog = "- Obivious performance improvement.\n- Fixed an issue where the Currency List toolbar and the Data Table Reverse Sort button did not stay centered in non-AXIS fonts\n- Record Teleport Costs Module: Added a new feature to record teleport destionation aetheryte.\n- Added a new feature: Multi-Chara Stats."
