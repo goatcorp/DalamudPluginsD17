@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "d921a2ac869605adb19ff11f94981a7ced89c843"
+commit = "82cf760dd6c9cc32bfa6dbb3aeeffd290fda9ec0"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Fix issue in which UI elements and the timer bar were getting cut off due to missized windows
-- Fix issue in which Bard and Machinist autos were not being detected due to being Shots instead of Attacks'''
+- Fix crash related to usage of non-auto-attack actions (eating food, etc.)'''
