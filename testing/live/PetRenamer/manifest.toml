@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "e1c7ec603414cb3597075b5848e1d7736b074838"
+commit = "1806b02a40be48c9e70ef73c04e53785f3cac70d"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.4]
-    + The plugin will now save upon removing a user!
-    + Improved stability upon logging into an alt account.
-    + Code optimizations.
-    + The pet list will now reset upon relogging.
-    + Fixed an issue where the pet list wouldn't draw correctly under certain circumstances.
+    + [1.4.4.4]
+    + Petlist is now reorderable. (Please notify me of any issues. I will personally run some extensive testing as well.)
+    + Removed Show Kofi Button setting from the settings screen as it did nothing anymore.
 """

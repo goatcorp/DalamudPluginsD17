@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "c69cd53ca294ffc69aaae6132af995960eaf60bc"
-owners = ["zw3lf"]
+commit = "10e50c70c9be92b7712a64c1be8f0308e0eb42e9"
+owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Fix Lumina problematically caching Placenames when building the map dictionary"
+changelog = "Regression fix: Coordinates once again only go to echo chat (TY badger for the bug report)"

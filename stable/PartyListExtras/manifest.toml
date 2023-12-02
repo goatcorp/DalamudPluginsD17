@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
+commit = "2fd2d4f2cdd03e433331c3439693e5ae77468dd0"
+owners = ["PYRiTEmonark"]
+project_path = "PartyListExtras"
+changelog = """- Fixed speed up effects being applied twice when stacked
+- Added ability to filter out effects that should always be activated"""

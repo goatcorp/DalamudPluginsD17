@@ -1,13 +1,5 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "41218f912da1dac2d497ce5ea45807efd7e4b67a"
+commit = "9ccab6e2206b009c923affa5595f13c97d005ca0"
 owners = ["apetih"]
 project_path = "client/rtyping"
-changelog = """
-- Rewritten Websocket client to make future new feature(s) easier to implement.
-- Moved some items around in the configuration window.
-- Added server Connect/Disconnect button to configuration window.
-- Added window inside Trusted Characters list for adding party member characters to the list.
-- Changed Typing detection. It now requires active typing, and expires after a prolonged idle period.
-- Added somewhat of an IPC provider.
-"""

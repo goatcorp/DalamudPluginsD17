@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "112bebff979d66bf92f8c658b843b37b2a0289d3"
+commit = "7a111d991dcbd53faf36f0ed6a57a34a3e3ef479"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Add an option to automatically hide the MP Bar on melee and phys ranged DPS
+- Fix HPBar not being present when Hide bar on full resource is enabled.
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "28961e2c65efbdee5faae77b9215625f6c4d556e"
+commit = "9ad5b42a3337e680f76825ce573b890b51bdfa96"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Optimised performance\n- Fixed an issue with incorrectly recording Wondrous Tails rewards"
+changelog = "- Obivious performance improvement.\n- Fixed an issue where the Currency List toolbar and the Data Table Reverse Sort button did not stay centered in non-AXIS fonts\n- Record Teleport Costs Module: Added a new feature to record teleport destionation aetheryte.\n- Added a new feature: Multi-Chara Stats."

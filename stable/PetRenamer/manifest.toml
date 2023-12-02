@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1102f53b445b9f100ab3aff499e57868feb89cfc"
+commit = "3ffa550f5522427e14d0d97b347a896d1c061a0e"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.3.1]
-    + Fixed an issue where under certain circumstances this plugin wouldn't close.
+    + [1.4.4.5]
+    + This plugin now works for users with a new save file!
+    + Summon text works (again) on german client...
+    + [1.4.4.4]
+    + Added the ability to reorder the Petlist.
 """

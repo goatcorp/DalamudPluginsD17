@@ -1,17 +1,5 @@
 [plugin]
 repository = "https://git.camora.dev/asriel/ItemIcons.git"
-commit = "13da1ef64bd749612c015355b4d24cd3578816c9"
+commit = "e3fd237bc29d3288c481c021839b8a13b02867ba"
 owners = [ "WorkingRobot" ]
 project_path = "ItemIcons"
-changelog = """Release 0.3.0.0
-New Changes:
- - New Materia (Text) icon type
- - Config window changes:
-   - Added the ability to globally disable a type of icon
-   - Added icon descriptions
-   - Added a list of used icons for every icon type
-   - Changed some names and other stuff around
-
-Fixed Bugs:
- - Glamour plate icons were in the wrong spot
-"""

@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "89874997292bdf8606283addc9d831f24fdbf181"
-changelog = "### 2.8.1 (2023-10-28)\n\n\n### Bug Fixes\n\n* change config saving to help stop config corruption (c7ccc68)\n* loading all fonts after plugin was loaded potentially crashing (d00ae2b)\n* windows sizes being wrong due to font scaling (aae6e6a)"
-version = "2.8.1"
+commit = "cd88eacd2e21635c05ee08f525f387c96be2b063"
+changelog = "### 2.8.3 (2023-11-19)\n\n\n### Bug Fixes\n\n* mobdata notes not being properly set after changing save logic (2713562)"
+version = "2.8.3"
