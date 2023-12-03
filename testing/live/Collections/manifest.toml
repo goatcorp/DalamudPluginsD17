@@ -1,6 +1,19 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "ab45b97963ddf83f3577982ae15b75485049481b"
+commit = "501421c6db6650e4bec409912ab5f719ade7e5b6"
 owners = ["Seventhxiv"]
 project_path = "Collections"
-changelog = "Initial version"
+changelog = """
+Collections v1.0.1.1
+- Mounts/Minions can now be summoned from the collection UI
+- Clicking on Duty sources now open the duty window
+- New feature: Copy Examine glamour
+- New feature: Copy glamour set to Plate
+- New feature: Favorite list
+- New feature: Wish list
+- A bunch of Data improvements (NPC locations, updated items to shops/instances)
+- Configuration now actually saves plugin state
+- Cache layer for Excel and Collectibles
+- Redone the Dresser observer to be more straightforward
+- Changed logs to Information level
+"""
