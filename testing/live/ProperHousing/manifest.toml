@@ -1,8 +1,6 @@
 [plugin]
 repository = "https://github.com/Sevii77/properhousing.git"
-commit = "6c35a0d391cc3b65b5ab58a5ec7df556a96c53ed"
+commit = "044b168efcc2bbdd676c10b01d98e339b6bf016e"
 owners = ["Sevii77"]
 project_path = "ProperHousing"
-changelog = """- 6.5 support
-- Improved collisions for some furniture
-- Fixed island sanctuary selection"""
+changelog = """- Fixed keybind crash"""
