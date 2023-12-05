@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1806b02a40be48c9e70ef73c04e53785f3cac70d"
+commit = "88bd9b40079dd015e44bea2ed6e27df22a2da6a2"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.4.4]
-    + Petlist is now reorderable. (Please notify me of any issues. I will personally run some extensive testing as well.)
-    + Removed Show Kofi Button setting from the settings screen as it did nothing anymore.
+    + [1.4.4.6]
+    + You can now /pet,/stroke your pet from the Pet Rename Window.
+    + Profile pictures work again.
+    This function got a complete rewrite and should now no longer DDOS a server when misusing /petdev.
+    If you experience any issues with this feature, or notice EXTREMELY LONG startup times, please notify me.
+    + Fixed some issues with dragging in the Petlist window.
+    + Profile pictures and Pet Images are now clickable.
 """
