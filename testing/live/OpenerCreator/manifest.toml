@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "db9c7cace823545127a8c31000ab1d971fb3fbfa"
+commit = "b287a2360ab0b7b52a98ba090f578f8a29d84723"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
-changelog = "Add healer and tank openers."
+changelog = "Fix countdown UI."
