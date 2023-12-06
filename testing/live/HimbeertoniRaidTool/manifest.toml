@@ -2,12 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "7bfcf54a23bd0c30748ea8de2b92525937ac1d87"
+commit = "07e697e6ecbc9fc1556f7c13efa6f609eff40985"
 changelog = """
-New Feature: You can now track multiple characters per player
-Lootmaster: Reworked group view to improve user experience this includes:
-    One click reordering of players
-    Create new player from target
-    Quickly add existing players or characters from the database
-Ui: New windows for editing players and characters
-Bugfix: corrected behaviour when deleting main job"""
+Bugfix: Lootmaster crashing and spamming log
+Bugfix: Newly created players were potentially not saved correctly"""
