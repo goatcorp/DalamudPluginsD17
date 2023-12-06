@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "12f95c44eeb5f3c97a279c0658c631738152da4d"
+commit = "77c882e3260133376a2cf18334278365331ad011"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """- Update to API 9
+changelog = """- Minor Internal Refactorings.
+- Auto update events when the window is opened if not updated before for 5 minutes.
 """
