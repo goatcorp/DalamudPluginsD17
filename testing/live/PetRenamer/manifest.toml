@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "88bd9b40079dd015e44bea2ed6e27df22a2da6a2"
+commit = "fe32101586786587350fbbd2ad8896707e176636"
 owners = ["Glyceri",]
 	changelog = """
     + [1.4.4.6]
-    + You can now /pet,/stroke your pet from the Pet Rename Window.
     + Profile pictures work again.
     This function got a complete rewrite and should now no longer DDOS a server when misusing /petdev.
     If you experience any issues with this feature, or notice EXTREMELY LONG startup times, please notify me.
