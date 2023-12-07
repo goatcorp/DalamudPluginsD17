@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "199e9916b60eda717f9385fcef43d32f1f3efc0f"
+commit = "7b1c7c59c92969ffd0e034fcca10ff5a9dfb608a"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Added tracking for Saddle Bag, Premium Saddle Bag, and Retainer items.\n- Optimized the logic of the editing feature. \n- Fixed the issue where Currency Renaming feature was not working. \n- Optimized the performance of the Multi-Chara Stats interface.\n-  Added Backup feature."
