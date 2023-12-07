@@ -1,12 +1,13 @@
 [plugin]
-repository = "https://github.com/abashby/NamePlateDebuffs.git"
-commit = "ac54d7278a4605f1bdb089e568e71568ce2da776"
+repository = "https://github.com/sourpuh/NamePlateDebuffs.git"
+commit = "cfbc973fb48fd4c31b373fc9a12ce9e00b35413c"
 owners = [
     "aers",
     "JHerig",
     "abashby",
+    "sourpuh",
 ]
 project_path = "NamePlateDebuffs"
 changelog = """
-- Update for 6.4
+- Update for 6.51
 """
