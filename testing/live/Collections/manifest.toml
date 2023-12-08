@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "5a412accd7667ec6e14bcc3e05afbadc9b989e56"
+commit = "77bd1fbab93c1bc325695295b2a020c611849185"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
