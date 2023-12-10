@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
-commit = "d084a4aab9aa83f84b3969430cf65f99723ec649"
+commit = "4be13532fb44ebb4a6e154cab875e1f5f8c4479d"
 owners = ["PYRiTEmonark"]
 project_path = "PartyListExtras"
 changelog = """- Conditional statuses implemented
