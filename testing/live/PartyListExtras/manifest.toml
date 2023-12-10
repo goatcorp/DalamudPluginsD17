@@ -1,10 +1,7 @@
 [plugin]
 repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
-commit = "daa13580b2f3662c7d56964ebb263b6025d1a3b3"
+commit = "d084a4aab9aa83f84b3969430cf65f99723ec649"
 owners = ["PYRiTEmonark"]
 project_path = "PartyListExtras"
-changelog = """- Added options for showing overlay only in combat and in duty
-- Added options for showing/hiding effects by type
-- Added overlay width, offset and padding options
-- All jobs now complete (PR #1)
-- Save the Queen effects and potions (PR #1)"""
+changelog = """- Conditional statuses implemented
+- AST cards now reflect what class they are placed on"""
