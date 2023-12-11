@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "fdf485e3fc47e90e629f88297191d5953b0731ac"
+commit = "bd52d2fe22bc5dc5dd0eddbc9f7760dec21e836d"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Performance improvements.
+- Rollback v1.0.1 changes.
+- Some performance improvements.
 """
