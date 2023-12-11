@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "fdf485e3fc47e90e629f88297191d5953b0731ac"
+commit = "e705522449cf998abb9786b0c0b42f43eb0ee798"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Performance improvements.
+- Fix for game crash.
 """
