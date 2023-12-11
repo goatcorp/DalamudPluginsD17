@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "5c9578c77f192eec0f7927bf97fa626c8ad6591b"
+commit = "59b1160ed68787b533fc750ed1b77319042f39b8"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Fixed an item-width issue.\n- Fixed an Configuration Save issue."
