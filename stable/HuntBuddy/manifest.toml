@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "f6dd17396b289d551aab59499fcafdacf99375fb"
-changelog = "- Fixed broken `/phb list` subcommand"
+commit = "07d1f58aeb832de172ffdfdb6bb562d1b029beb7"
+changelog = "Plugin windows now use Dalamud's window system, and should remember position and size between plugin loads."
