@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "2ab1e22ee0ea7b5a590eb38a368231b4b57744a1"
-changelog = "Fixed a bug that caused the plugin to crash due to identical window names."
+commit = "064c4adf59188c5b533f4d3eaa5f0bd0464c1477"
+changelog = "- Fixed debug window showing up\n- Disabled closing local hunts window"
