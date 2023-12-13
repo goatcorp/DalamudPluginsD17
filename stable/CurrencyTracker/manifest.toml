@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "88db747a054035f486b18765d84452195b3cce53"
+commit = "ceb67070a91aaaf8d55d35ad52a56a781502784e"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Optimized Language Manager code\n- Optimized the frequency of calling certain methods"
+changelog = "- Modified the logic of the Language Manager module\n- Optimized the logic of the Backup feature, now automatically backing up in case of IO exceptions\n- Now able to modify the preset note text of most modules in the Record Settings\n- Optimized the search speed of the Multi-Chara Stats feature"
