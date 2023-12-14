@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "903eee78ba326b02a404705fada18737d85d9b9a"
+commit = "751b50057db42e289af5a7fa83058f1b7088aede"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Reconstructed the interface of Settings window\n- Added Display TOTAL Gil in Currency Interface feature"
