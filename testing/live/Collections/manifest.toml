@@ -1,20 +1,10 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "77bd1fbab93c1bc325695295b2a020c611849185"
+commit = "e8d871fa2365bb98a6c4b750aaf748ba53291940"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.1.1
-- New Collections: Hairstyles, Bardings, Triple Triad, Emotes
-- Mounts/Minions can now be summoned from the collection UI
-- Clicking on Duty sources now open the duty window
-- New feature: Copy Examine glamour
-- New feature: Copy glamour set to Plate
-- New feature: Favorite list
-- New feature: Wish list
-- A bunch of Data improvements (NPC locations, updated items to shops/instances)
-- Configuration now actually saves plugin state
-- Cache layer for Excel and Collectibles
-- Redone the Dresser observer to be more straightforward
-- Changed logs to Information level
+Collections v1.0.1.2
+- New Collection: Blue Mage
+- Updated data resources
 """
