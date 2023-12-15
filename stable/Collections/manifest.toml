@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Seventhxiv/Collections.git"
+commit = "e8d871fa2365bb98a6c4b750aaf748ba53291940"
+owners = ["Seventhxiv"]
+project_path = "Collections"
+changelog = """
+Collections v1.0.1.2
+- New Collection: Blue Mage
+- Updated data resources
+"""
