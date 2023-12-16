@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "ee5fc5e4d91934cafd6aa5523ea9da9ad7984af3"
+commit = "f9937e765f1626afc015274930f7f222f2d7ff4a"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.1.3
-- Prevent some crashes by changing cache Dictionaries to Concurrent
+Collections v1.0.1.4
+- Refactoring code
 """
