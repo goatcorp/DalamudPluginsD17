@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "e8d871fa2365bb98a6c4b750aaf748ba53291940"
+commit = "ee5fc5e4d91934cafd6aa5523ea9da9ad7984af3"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.1.2
-- New Collection: Blue Mage
-- Updated data resources
+Collections v1.0.1.3
+- Prevent some crashes by changing cache Dictionaries to Concurrent
 """
