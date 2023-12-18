@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "7737a12081538cb2c2ed4bbe0f7697b6d9846dc4"
+commit = "33e1398e3ba0bb375ef10bef5fd03916b9c95be2"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
 changelog = """Fix for possible crash to desktop on wipe."""
