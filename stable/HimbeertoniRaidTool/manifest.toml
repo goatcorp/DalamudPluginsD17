@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "39fd5e8857cb60cd34db5b6bc25d6e5f78041cd9"
-changelog = "New Feature: Added in-game changelog"
+commit = "b2b787781068dec0371854ab6d5f6508d1a6d594"
+changelog = "Bugfix: Adding new players from target resulted in an empty player"
