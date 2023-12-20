@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "751b50057db42e289af5a7fa83058f1b7088aede"
+commit = "e8cbcd42051efbbe2681f8cdd3b34cb076ad83c2"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Reconstructed the interface of Settings window\n- Added Display TOTAL Gil in Currency Interface feature"
+changelog = "- Optimized performance consumption of transactions table drawing\n- Optimized interaction and file processing logic for Add Custom Currency feature\n- Fixed an issue of disabling plugins failed due to backup files being open\n- Rewritten all components based on IGameInventory service"
