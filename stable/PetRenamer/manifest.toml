@@ -1,16 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "2444e1bbacae1d96ea3416a3b9d457afaf5d1c08"
+commit = "22b131945cee402d58dd1e1b20d57caaa37e74de"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.5.0]
-    + Fixed a lot of bugs related to the search bar.
-    + Profile pictures work again.
-    This function got a complete rewrite and should now no longer DDOS a server when misusing /petdev.
-    If you experience any issues with this feature, or notice EXTREMELY LONG startup times, please notify me.
-    + Fixed some issues with dragging in the Petlist window.
-    + Profile pictures and Pet Images are now clickable.
-    + Anonymous Mode Added
-    + The pet rename window will now redraw properly under more circumstances.
-    + Added (minimal) support for the Yokai Watch Guide.
+    + [1.4.5.1]
+    + Temporarily Adds Falling Show To The Toolbar
 """
