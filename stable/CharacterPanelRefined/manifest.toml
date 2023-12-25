@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "dbe5532dda99a41edf161cc5cd15d2bf07d9fffe"
+commit = "a81349322766f116a5a9cb3b43e6697098231963"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fix STR and DEX item stats being incorrectly synced
-Fix a compatibility issue with the simple tweaks "Materia Stats" tweak
+Fix ilvl sync being incorrectly displayed in bozja and eureka.
 """
