@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "df2ab4752f5ba855eb1655455fd7c3eedcc6f768"
+commit = "7c0e29d527d8ba5b101d021c591b4e34b56843d1"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Optimized performance consumption of transactions table drawing\n- Optimized interaction and file processing logic for Add Custom Currency feature\n- Fixed an issue of disabling plugins failed due to backup files being open\n- Rewritten all components based on IGameInventory service"
+changelog = "Improved Logic."
