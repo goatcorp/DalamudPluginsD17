@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "541a00d2f317a68eae51038ed3887fc4232c38a0"
+commit = "377a4d9e7133382e5c1d7f3817478d40806f6f50"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
 changelog = "fix crafting related context menus"
