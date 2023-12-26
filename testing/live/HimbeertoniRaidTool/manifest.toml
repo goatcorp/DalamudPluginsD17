@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "91eb2a09148a1acf494e1a66cc4cdd6dc3233b5e"
-changelog = "Internals: Changed how groups and players are saved"
+commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
+changelog = "Bugfix: Lootmaster crashing and spamming log again"

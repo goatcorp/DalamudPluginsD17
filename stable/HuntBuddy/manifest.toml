@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "f6dd17396b289d551aab59499fcafdacf99375fb"
-changelog = "- Fixed broken `/phb list` subcommand"
+commit = "064c4adf59188c5b533f4d3eaa5f0bd0464c1477"
+changelog = "- Fixed debug window showing up\n- Disabled closing local hunts window"

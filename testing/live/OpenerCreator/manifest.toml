@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "db9c7cace823545127a8c31000ab1d971fb3fbfa"
+commit = "c9370512a2917ae1c596f26d5727098378856247"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
-changelog = "Add healer and tank openers."
+changelog = "Add missing openers (no AST or BRD due to too much RNG)."

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
-commit = "2fd2d4f2cdd03e433331c3439693e5ae77468dd0"
+commit = "4be13532fb44ebb4a6e154cab875e1f5f8c4479d"
 owners = ["PYRiTEmonark"]
 project_path = "PartyListExtras"
 changelog = """- Fixed speed up effects being applied twice when stacked
