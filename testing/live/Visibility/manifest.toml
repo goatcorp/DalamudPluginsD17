@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "6ce84ed800400e645ed05015c0563bfbbefd5455"
-changelog = "- Refactored UI code to address disappearing menu issues"
+commit = "445183260d34574a3cc433ea7eb7c068d5ed570a"
+changelog = "Implemented a proximity setting which lets you hide entities based on their proximity to you and the threshold (how many entities are within the proximity radius)\n\nPlease report any issues via feedback/Discord/GitHub Issues"
