@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "47b693768ebacb441d95720d59a3414e71e02eeb"
+commit = "a778aa9ee10d76eb20c10c38dea0184cc75dfaeb"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- All UI elements now can adapt to scaling\n-Now you can update the localization files in-plugin from the cloud.\n- New feature: Interval Alert - You can set unlimited customizable intervals for currencies' Change/Amount to inform you."
