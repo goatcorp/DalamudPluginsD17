@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
+commit = "edfd338042b1f4d6f8ff2a9a0379130c4dd43767"
+owners = ["Bluefissure"]
+changelog = """- Support built-in obs-websocket-plugin v5.3.0 in OBS30"""
