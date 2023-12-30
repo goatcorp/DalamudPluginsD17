@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "64c45453f3ce1a3633b771c8552dd71cbf967978"
+commit = "b8deed1995c6b30e5add841234a31c437df5740d"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.5.2]
-    + Fixes some UI elements not displaying properly.
+    + [1.4.5.3]
+    + Temporarily adds fireworks to the toolbar.
 """
