@@ -2,10 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "b500de645ac0b9e85f2b39d2058f959d6836f119"
+commit = "ce0452f11e16d23fbf845121dbcc63d4dd2a9008"
 changelog = """
-New Feature: Manage multiple gear/bis sets per job
-New Feature: Automatically updates own characters data (can be disabled in the config)
-User Interface: Made it more pretty
-User Interface: You can now hide jobs (select classes when editing a character)
-General: Correctly handle materia for previous expansions"""
+General: Remove unused gear sets from database
+Bugfix: You are now able to change to gear sets with the same name
+Bugfix: Autmotically updated gear was sometimes not saved correctly
+Perormance: Optimized load time on slow connections"""
