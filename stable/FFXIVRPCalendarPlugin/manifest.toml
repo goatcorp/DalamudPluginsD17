@@ -4,6 +4,9 @@ commit = "d00a1b474f37ebb2bb064001e020468e58c668fd"
 owners = ["erroch"]
 project_path = "FFXIVRPEventCalendarPlugin"
 changelog = """
+1.0.1.2 (2023.01.01)
+- Moved to stable plugins from testing
+- Removed deprecated PluginLog references.
 1.0.1.1 (2023.10.09)
 - Updated to Patch 6.5 release.
 1.0.1 (2023.08.09)
