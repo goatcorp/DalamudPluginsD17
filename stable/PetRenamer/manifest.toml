@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "bc4e60e097cdaf7bd1070f9700837604915492e3"
+commit = "290489e04a1c3aedd56e0c17277dcde839bfaf38"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.5.3]
-    + Temporarily adds fireworks to the toolbar.
+    + [1.4.5.4]
+    + The setting automatically Switch Petmode should now work again.
 """
