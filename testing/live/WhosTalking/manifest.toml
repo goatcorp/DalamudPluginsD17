@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "4dd9a31ebc38b84e9614c1a16d94af221584d8af"
+commit = "54bb0565bb5c8d2b3846323fe092158f71b89434"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Added ability to configure colours of voice activity indicators (find this in the plugin settings)
-- Bugfix for individual assignments in cross-world parties
+- Fixed plugin not working in DM voice calls
+- Added config option to move list of speaking users independently from the party list
 
-Thank you to the two contributors who did all the actual work for this release!
+A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
 """
