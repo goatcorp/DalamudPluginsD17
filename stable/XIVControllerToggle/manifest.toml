@@ -1,0 +1,7 @@
+  [plugin]
+  repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
+  commit = "80c673bdc3e6edb2a5018be26fdb579d4dfa2e6c"
+  owners = ["CallumCarmicheal"]
+  project_path = "XIVControllerToggle"
+  changelog = """# The Great Controller Hud Switcher 1.0.0.0
+  - Made it work(tm)"""
