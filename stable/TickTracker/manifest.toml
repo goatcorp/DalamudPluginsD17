@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "b5a3564808d40924fce7235accc00ee236f38099"
+commit = "a1cb14b1b68759ca2827d1e3a94d63bce7ba3c57"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Fix HPBar not being present when Hide bar on full resource is enabled.
+- Fix a bug that wouldn't take into account the LockBar checkbox state when showing or hiding the HP and MP bar.
+- Remove obsolete PluginEnabled option.
+- Reorganized the Settings window.
 """
