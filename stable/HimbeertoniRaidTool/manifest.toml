@@ -2,5 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "b2b787781068dec0371854ab6d5f6508d1a6d594"
-changelog = "Bugfix: Adding new players from target resulted in an empty player"
+commit = "ce0452f11e16d23fbf845121dbcc63d4dd2a9008"
+changelog = """
+General: Remove unused gear sets from database
+Bugfix: You are now able to change to gear sets with the same name
+Bugfix: Autmotically updated gear was sometimes not saved correctly
+Perormance: Optimized load time on slow connections"""

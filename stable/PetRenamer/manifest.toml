@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "62f96904860aad0636b0c9648986be5e2ea5f4ed"
+commit = "290489e04a1c3aedd56e0c17277dcde839bfaf38"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.5.1]
-    + Temporarily Adds Falling Show To The Toolbar
+    + [1.4.5.4]
+    + The setting automatically Switch Petmode should now work again.
 """
