@@ -1,10 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/eorzea-votes.git'
-commit = 'c3c95fb9e5d592bf3ab8b12789e3fa4bdfba95f5'
+commit = 'd03da2b2dda3f867fbca51a5f290122c9af090f0'
 owners = [ 'lojewalo' ]
 project_path = 'client'
 changelog = """\
-- Fix window opening when it shouldn't
-- Add option to configure refresh frequency
-- Fix missing current year in breakdown
+- Wrap text for inactive questions
+- Add pagination for inactive questions
 """
