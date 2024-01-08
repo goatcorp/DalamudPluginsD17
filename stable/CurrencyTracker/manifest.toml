@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "84a6a348ce12c13e22f47731595f6bb21019da5e"
+commit = "1854de88c4a05227fc2dfae270c8b266338a2308"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Fix an issue where Trade module will not work properly."
