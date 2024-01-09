@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "99a2b7a330d6448fac3cc7c2cbc1544b5872d65f"
+commit = "fc8cb898f08156c90e43d32da35aa208e93cc393"
 changelog = "## 2.9.0 (2024-01-08)\n\n\n### Features\n\n* implement built data file lookup on http errors (65c2c07)\n* prepare for more types (3940e62)\n* retool internal storage to prepare for built data file (749c2ee)\n\n\n### Bug Fixes\n\n* change font push to always handle throws without leaking (34312a6)"
 version = "2.9.0"
