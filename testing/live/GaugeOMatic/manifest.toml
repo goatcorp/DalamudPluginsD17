@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/itsbexy/gaugeomatic.git"
+commit = "0f1cff76ffba6cf7028a2d148c761b0dceadc720"
+owners = [
+    "ItsBexy",
+]
+changelog = """
+Gauge-O-Matic allows you to customize your job gauges with additional counters, bars, and indicators in a variety of styles. Each widget design has unique options to control its style and behaviour, and the plugin allows for importing/exporting/sharing collections of widgets as presets.
+"""
