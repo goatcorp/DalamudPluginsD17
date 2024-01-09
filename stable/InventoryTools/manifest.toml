@@ -1,13 +1,24 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "fa903f2d0ba01eaf67bedf2de15bfd3f63fe36ac"
+commit = "67bb1eaee1798be2540872d5dbd85b770b01f946"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.1"
+version = "1.6.2.2"
 changelog = """\
-**The API update**
-- Add in some new IPC calls for getting inventory(thanks to emyxiv)
-- Fix a bug with setting company craft phases(thanks to zhyupe)
+**New Features/Updates**
+- Add "Is Dropped By Mob" column/filter
+- Add "Can be Equipped" column/filter
+- Orphaned inventories will be removed on plugin load
+- Character management section has been updated
+- New IPC methods, GetSearchFilters & GetRetrievalItems - thanks pikajude
+- Gamer Escape/Console Games Wiki shorcuts in the item window and right click menus
+
+**Fixes**
+- Fix certain costs for rewards at special shops not listing properly
+- Fix "Is Timed Node" filter
+- Fix craft lists not refreshing after an item is added/removed via IPC
+- Fix an issue where history columns were not exporting any data to CSV
+- Item level filter no longer restricts to equipment, if you want to replicate this filter, use the new "Can be Equipped" filter in combination with the existing filter
 """
