@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "2fcd8776915f63e2a2ee088b7e1208ce7e5f3daf"
+commit = "182aae3481af7db7d79f28a5624bda15c340e0c9"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
