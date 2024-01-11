@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "dbb8328adb1c77dccf522a7ad46f2f20cdadf349"
+commit = "d9276f2a32fb5217a9312c8e16db68418b4bcc55"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = "- Fix an issue where the Rename Currency feature only partially renames data files.\n- Fix an issue involving a missing localization string.\n- Fix an issue where certain UI elements did not scale as anticipated.\n- Update Localization Files for English, Simplified Chinese, Traditional Chinese, and French."
