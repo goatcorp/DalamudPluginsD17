@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "eee2a278d2bbbafa51bc0409dec076780d22550e"
+commit = "63ba62a8c1905f57b832b2d48ed96d1373103e9a"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.6.0]
-    + Giving a Battle Pet command or them leaving the battle will now properly show their nicknames in chat.
-    + Tentatively fixed an issue to do with soft skeletons (/petmirage).
-    + Fireworks in the toolbar have been removed from the event.
+    + [1.4.6.1]
+    + Names should now display properly in German.
 """
