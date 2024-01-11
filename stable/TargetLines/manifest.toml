@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "5c4e038244cc6d9543f809d8c8cac30019f37f8f"
+commit = "182aae3481af7db7d79f28a5624bda15c340e0c9"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Updated for 6.5
-- Updated for API9
-- Minor fixes
+- New and improved configuration UI
+- Added option for Dynamic Sample Count when using Fancy Lines
+- Added option for UI collision when using Fancy Lines
+- Some incomplete work on a implementation of lines which do not use ImGui
 """
 
