@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "63ba62a8c1905f57b832b2d48ed96d1373103e9a"
+owners = ["Glyceri",]
+	changelog = """
+    + [1.4.6.1]
+    + Names should now display properly in German.
+"""

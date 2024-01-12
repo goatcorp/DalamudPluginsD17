@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "cd88eacd2e21635c05ee08f525f387c96be2b063"
-changelog = "### 2.8.3 (2023-11-19)\n\n\n### Bug Fixes\n\n* mobdata notes not being properly set after changing save logic (2713562)"
-version = "2.8.3"
+commit = "76c4b32a693085d3326b16b9e2a6723eb59aaa5b"
+changelog = "### 2.9.3 (2024-01-12)\n\n\n### Bug Fixes\n\n* block some content that shouldn't have displays added at a later time (7a47aae)"
+version = "2.9.3"
