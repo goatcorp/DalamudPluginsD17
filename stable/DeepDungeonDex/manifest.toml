@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "19345a3b319441740301248aa15dd8d22b4d58ad"
-changelog = "### 2.9.2 (2024-01-10)\n\n\n### Bug Fixes\n\n* change content type to local flag enum (5f2e180)\n* config window not respecting language on boot (f5e3c21)\n* data loading to only load local once if first attempt fails (d1e2e82)\n* finalize unknown content display (b1eebe2)\n* fixing edge cases with word wrapping (7f55750)\n* force language to be loaded after all other data (7d728e7)\n* mob notes not working after 2.9.0 restructuring (b598f2e)"
-version = "2.9.2"
+commit = "76c4b32a693085d3326b16b9e2a6723eb59aaa5b"
+changelog = "### 2.9.3 (2024-01-12)\n\n\n### Bug Fixes\n\n* block some content that shouldn't have displays added at a later time (7a47aae)"
+version = "2.9.3"
