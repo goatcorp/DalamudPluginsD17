@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/belzaru17/WorkshopOptimizerPlugin.git"
-commit = "e6f9cf8fb4081c7abfdf7c5ede4eeb6f442b327f"
+commit = "a3be90ef2e09b988188490b15d637f667d2c8a1d"
 owners = ["belzaru17"]
 project_path = "WorkshopOptimizerPlugin"
-changelog = "Added support for Felicitous Favors and checking of island rank and material availability (thanks for RuriRyan!)."
+changelog = "Small UI changes."
