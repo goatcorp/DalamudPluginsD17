@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "df226549d7aa7a487292fa6a02febd4e6c649124"
+commit = "6fba7b9c54d83ca7992b4f8f562a97678084db58"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Added loot tracking to maps and duties.
-- Revamped stats window with more filters and info.
-- Refactored code to improve performance, data management and maintainability.
+- Added price checking using Universalis.
+- UI improvements.
 """
