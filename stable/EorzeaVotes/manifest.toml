@@ -1,9 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/eorzea-votes.git'
-commit = 'd03da2b2dda3f867fbca51a5f290122c9af090f0'
+commit = '7d539cb99c61183b7fd82e7e7f5ca5aabbccb8b7'
 owners = [ 'lojewalo' ]
 project_path = 'client'
 changelog = """\
-- Wrap text for inactive questions
-- Add pagination for inactive questions
+- Fix logic to open window on new question
 """
