@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
-owners = [ "wolfcomp" ]
+owners = ["wolfcomp"]
 project_path = "DeepDungeonDex"
-commit = "76c4b32a693085d3326b16b9e2a6723eb59aaa5b"
-changelog = "### 2.9.3 (2024-01-12)\n\n\n### Bug Fixes\n\n* block some content that shouldn't have displays added at a later time (7a47aae)"
-version = "2.9.3"
+commit = "135c4aa203baffc9d2b4ba9f2e60061a9a18ec7f"
+changelog = ""
+version = "2.9.4"
