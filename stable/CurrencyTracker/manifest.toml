@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "77aa03b424540de904cc196924f0d890e87d7a75"
+commit = "1aed3de5cf3590e855b4fbfb54b9cce63a15ae06"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed an issue where in some cases, users could still interact with some disabled UI elements.
-- Fixed an issue where an redundant line of transaction table was drawn.
-- Optimized the interaction mode of Rename Currency feature.
-- Optimized the outlook of Multi-Chara Stats popup and Currency Settings window.
-- Update translations for German, Simplified Chinese and Traditional Chinese.
+- Fixed an issue where Interval Alert feature will create unexpected intervals.
+- Fixed an issue where Interval Alert feature will only display Gil instead of the actual item.
 """
