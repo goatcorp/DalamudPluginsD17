@@ -1,8 +1,14 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "69ff776388847692aefa0309300d3535792edda8"
+commit = "6b0d046010e59da231d15520ebd2d716fb9c3406"
 owners = ["xorus"]
 changelog = """\
-- Countdown Ticks: option to make them start at a certain time (e.g. only tick 1 to 10 numbers)
-- Updated to api 9
+- You can set alarms to play a game sound effect, change stopwatch color or display text at specified combat durations
+- Big code rewrite and a bit of optimization
+- Fix save errors when spinning color sliders like a maniac in configuration
+- Reorganized configuration file to preserve my sanity
+- "Hide original addon" now uses AddonLifecycle events instead of searching for the original countdown every frame
+- Reduce CountdownHook CPU usage by fixing a stupid event spam mistake
+- Optimize countdown display code
+- Fix the "first-draw" workaround that draws the countdown window once on plugin activation to prevent a freeze caused by ImGUI initializing the window does not occur when starting a countdown
 """
