@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "5efa759adddecd26f46bde5f7bd7cd1acf210f56"
+commit = "fd5c937716bd6224056232d06cfb7680f055e2d9"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.3.0.0
+1.3.0.1
 
-New Toggle for Quality Specific Notes:
-    Been tired of your NQ and HQ notes being differen? Fret not! now there is a toggle in the config which will prioritize NQ notes over HQ notes on HQ items
-Some behind the scenes changes:
-    Note and Label data has been migrated, due to that there might be some things not working right, if something is found that doesnt work please contact me.
-    Should some of your notes not be there anymore after the update, dont worry there should be a backup, we can restore your notes
+Bugfix for loading/saving notes
+
 """
