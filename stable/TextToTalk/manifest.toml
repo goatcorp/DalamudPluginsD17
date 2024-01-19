@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "a7491a6424ee6e02de76b0fde55d9b02c2f76d21"
+commit = "0f68a13c36ee95ee3fed997785bcc16ab5128e7c"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes NPC names being unable to be changed in the NPC voices tab of the config window
-- Adds global toggles for disabling NPC/player voice presets
+- Fixes voice preset deletions not always being saved
 """
