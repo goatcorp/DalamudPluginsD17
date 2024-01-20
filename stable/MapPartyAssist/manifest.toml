@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "bd52d2fe22bc5dc5dd0eddbc9f7760dec21e836d"
+commit = "02c3280f604be09b5f713d9bad51628b5d68e1ff"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Rollback v1.0.1 changes.
-- Some performance improvements.
+- Added loot tracking.
+- Added price checking using Universalis.
+- Major UI overhaul.
+- Performance improvements.
 """
