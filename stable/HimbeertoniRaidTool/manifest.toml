@@ -2,9 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "ce0452f11e16d23fbf845121dbcc63d4dd2a9008"
+commit = "1ec4a5ae67d067007c5c44301a43b51f52ebd630"
 changelog = """
-General: Remove unused gear sets from database
-Bugfix: You are now able to change to gear sets with the same name
-Bugfix: Autmotically updated gear was sometimes not saved correctly
-Perormance: Optimized load time on slow connections"""
+Bis: Add support for relic weapons in etro.gg sets
+Ui: Added ability to change relic stats when editing gear
+General: You can now specify which types of jobs get automatically updated/created. If you want single jobs to not show up, you can hide these in character edit
+Known issue: Stats for relic weapons are not correctly read from the Lodestone or Examine, but your manual edits will NOT be overwritten"""
