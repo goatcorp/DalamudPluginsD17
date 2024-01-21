@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Frogworks-Interactive/OOF.git"
+commit = "5525dcaf63bd698e54e88fd4c9b1e3c5df9d0ed9"
+owners = [
+    "Frogworks Interactive",
+    "codelastnight"
+]
+project_path = "OofPlugin"
+changelog = """
+- improve distance based oof (DBO)
+- clean up UI
+- update to API8
+"""
