@@ -9,5 +9,5 @@ project_path = "OofPlugin"
 changelog = """
 - improve distance based oof (DBO)
 - clean up UI
-- update to API8
+- update to API9
 """
