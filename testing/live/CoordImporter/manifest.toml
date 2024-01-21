@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "08bb6398e40316d14e147a893d71d40c190299c7"
+commit = "2c8964cd773d7f1f24e522dbcb10584e7529bfd8"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Bug fix: Add apostrophe to Bear regex so Li'l Murderer's name comes up correctly"
+changelog = "Bug fix: Get Li'l Murderer working with HuntHelper train importer"
