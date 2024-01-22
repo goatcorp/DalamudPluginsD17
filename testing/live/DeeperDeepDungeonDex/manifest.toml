@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NotNite/DeeperDeepDungeonDex.git"
-commit = "9c8d64ab60dac72446a787fb1eb859baf7cdd643"
+commit = "6e96fbb599fbb4153222f6a7642738c4cbfaf61f"
 owners = ["NotNite", "MidoriKami"]
 project_path = "DeeperDeepDungeonDex"
