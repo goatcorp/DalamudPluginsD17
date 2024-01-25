@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "d661842f40b3f5e47b5479be08d5ee1b7911fe2d"
+commit = "c9d0aaf33dbfe402b146bbef61b139be37b50151"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
 changelog = """
-Version 3.4.0.0:
+Version 3.4.1:
  - Added GPose detection (Disables the plugin while GPose is active), along with a setting to ignore, courtesy of mallowmew
+ - Added Is Flying trigger (req. by Ennea)
 """
