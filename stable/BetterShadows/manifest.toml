@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "8d117a39b1a3dd77b2c4eedb0440a8ac5fc2e51c"
+commit = "bfc884c10c8fd87868a70a2b2e944f834c75b56a"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Fix possible null reference when upgrading from very old version of the plugin
+- Fix default preset duping bug. If you were effected by this, you can just delete the additional entries.
 """
 
