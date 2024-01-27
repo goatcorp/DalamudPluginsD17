@@ -6,7 +6,7 @@ owners = [
 ]
 project_path = "Tilted"
 changelog = """
-Version 3.4.1:
+Version 3.4.1.0:
  - Added GPose detection (Disables the plugin while GPose is active), along with a setting to ignore, courtesy of mallowmew
  - Added Is Flying trigger (req. by Ennea)
 """
