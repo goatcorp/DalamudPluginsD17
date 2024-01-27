@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "8e897b8f020295c3d6234993c48b8ec4c1144fa0"
+commit = "4114d626b65fb5fd72e997257eeef52b1f7a5888"
 owners = [
     "meoiswa"
 ]
 project_path = "Tilted"
 changelog = """
-Version 3.4.1.1:
+Version 3.4.1.2:
  - Added GPose detection (Disables the plugin while GPose is active), along with a setting to ignore, courtesy of mallowmew
  - Added Is Flying trigger (req. by Ennea)
  - Fixed typo in math expression (reported by root-l)
+ - Fixed some off-by-one errors in Set/Get camera tilt
 """
