@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/s5bug/AutoTimer.git"
+commit = "82cf760dd6c9cc32bfa6dbb3aeeffd290fda9ec0"
+owners = ["s5bug"]
+project_path = "AutoTimer"
+changelog = '''
+- Fix crash related to usage of non-auto-attack actions (eating food, etc.)'''
