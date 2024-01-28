@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "bfc884c10c8fd87868a70a2b2e944f834c75b56a"
+commit = "903a5d725a50c1f13e0f6ad519e7a2f9b9ab1fd1"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Fix default preset duping bug. If you were effected by this, you can just delete the additional entries.
+- Fix oversight which could result in ShadowManager being null following plugin initialization
 """
 
