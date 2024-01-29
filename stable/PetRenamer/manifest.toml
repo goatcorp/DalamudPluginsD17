@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "63ba62a8c1905f57b832b2d48ed96d1373103e9a"
+commit = "1b621ce6f440507417998ab8799a452840f69a75"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.6.1]
-    + Names should now display properly in German.
+    + [1.4.6.2]
+    + For users that didn't split their target bars. Target Bar renaming and casting functionalities should now work!
+    (This has literally been bugged since day one. Enjoy your new feature set!)
 """
