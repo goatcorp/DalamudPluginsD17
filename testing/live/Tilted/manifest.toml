@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/meoiswa/TiltedPlugin"
+repository = "https://github.com/meoiswa/TiltedPlugin.git"
 commit = "4114d626b65fb5fd72e997257eeef52b1f7a5888"
 owners = ["meoiswa"]
 project_path = "Tilted"
