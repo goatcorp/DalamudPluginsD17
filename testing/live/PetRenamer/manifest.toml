@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "63ba62a8c1905f57b832b2d48ed96d1373103e9a"
+commit = "5a49f58e360d2ddef7f62a70614509acd5add044"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.6.1]
-    + Names should now display properly in German.
+    + [1.4.6.3]
+    + Fixed an issue where summoner would overwrite Pet Mirage settings at any given oppertunity.
+    + The chat should now be less greedy in renaming pet names.
 """
