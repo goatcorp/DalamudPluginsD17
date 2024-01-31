@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/meoiswa/fast-job-switcher.git"
+commit = "510110a1ec187ec53c59126ccb935f4c62ff7846"
+owners = ["meoiswa"]
+project_path = "FastJobSwitcher"
