@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/im-scared/scout-helper.git"
-commit = "ece8403b0c4b428aa0d817fd2ed89059218615b9"
+commit = "5c747cc08711a10ad7a22e7c35f1abf894bafbb4"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "stop crashing on startup XD;;"
+changelog = "non-functional rewrite of dependency handling"
