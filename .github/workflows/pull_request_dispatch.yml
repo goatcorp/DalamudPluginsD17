@@ -114,24 +114,27 @@ jobs:
     steps:
       - name: Check if PR has tag
         run: |
-          if [[ "$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" ${{ github.api_url }}/repos/${{ github.repository }}/pulls/${{ github.event.client_payload.prnum }}/labels | jq -r '.[].name')" != "new plugin" ]]; then
-            echo "PR does not have new plugin tag, exiting.";
-            exit 0;
+          if [[ "$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" ${{ github.api_url }}/repos/${{ github.repository }}/issues/${{ github.event.client_payload.prnum }}/labels | jq -r '.[].name')" != "new plugin" ]]; then
+            echo "PR does not have new plugin tag, exiting." && echo "::set-output name=skip_job::true" && exit 0
           fi
 
       - name: Get the last PR with the tag
         id: get_last_new_plugin_pr
+        if: ${{ needs.check_tag.outputs.skip_job != 'true' }}
         run: |
-          last_new_plugin_pr=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" ${{ github.api_url }}/repos/${{ github.repository }}/pulls?q=is:pr+label:'new plugin' | jq -r 'first(.[]) | .number')
+          closed_prs=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" ${{ github.api_url }}/repos/${{ github.repository }}/pulls)
+          last_new_plugin_pr=$(echo "$closed_prs" | jq -r --arg label "new plugin" 'map(select(.labels[].name == $label)) | first | .number')
           echo "::set-output name=last_new_plugin_pr::$last_new_plugin_pr"
 
       - name: Get assignee of the last PR
         id: get_last_new_plugin_pr_assignee
+        if: ${{ needs.check_tag.outputs.skip_job != 'true' }}
         run: |
           last_new_plugin_pr_assignee=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" ${{ github.api_url }}/repos/${{ github.repository }}/pulls/${{ needs.get_last_new_plugin_pr.outputs.last_new_plugin_pr }} | jq -r '.assignee.login')
           echo "::set-output name=last_new_plugin_pr_assignee::$last_new_plugin_pr_assignee"
 
       - name: Assign round-robin
+        if: ${{ needs.check_tag.outputs.skip_job != 'true' }}
         run: |
           assignees=("goaaats" "reiichi001" "philpax" "ackwell" "karashiiro" "lmcintyre")
           last_assignee="${{ needs.get_last_new_plugin_pr_assignee.outputs.last_new_plugin_pr_assignee }}"
