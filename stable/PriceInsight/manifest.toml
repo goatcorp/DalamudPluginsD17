@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "b60cebfd92cda4f550e91b487888a5b42df55790"
+commit = "502715016673e3358e3e1dcccb0635dc7de5b5d8"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Fixed items displaying the time of the posting of a price rather than the time it was last checked.
-- Add an option to force connect via ipv4 to universalis. Should help people experiencing issues with VPN connections.
+- Rewrote caching logic to better avoid unnecessary requests to universalis
+- Improved tooltip display when "Always display NQ and HQ" is turned off
 """
