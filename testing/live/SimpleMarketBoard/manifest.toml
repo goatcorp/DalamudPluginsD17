@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "a8c722938bd6907ac23a9914d155ac918c3d8552"
+commit = "6fe56183dcb406a0275dcd7762b140c00b25e970"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
+v1.1.0.0:
+- Improve configuration
+- Async methods refactor
+- Add loading indicator
+- Add vendor price comparison
 v1.0.0.0:
 - Initial Release
 """
