@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "ed4e2746f57653aa9e61f2c25a6ce94211483e0a"
+commit = "4df41611bf7d01655c2c844b7c7ca532b5bbe01e"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
