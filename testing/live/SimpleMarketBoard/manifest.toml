@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "58f73a336a98dfb06818be5439f2a68acf45960d"
+commit = "ab721c45ae74a3cb06b5312208da292db61c3604"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
-v1.1.0.0:
-- Improve configuration
-- Async methods refactor
-- Add loading indicator
-- Add vendor price comparison
-v1.0.0.0:
-- Initial Release
+v1.2.0.0:
+- Add an optional plugin theme for easy compatibility
+- Add using keybinding to open/close the main window
+- Add options to customize the width of columns for tables in the main window
 """
