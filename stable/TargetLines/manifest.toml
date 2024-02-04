@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "182aae3481af7db7d79f28a5624bda15c340e0c9"
+commit = "cbf010dd4d1f479d6b67a260e14c7ac252ceef2f"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- New and improved configuration UI
-- Added option for Dynamic Sample Count when using Fancy Lines
-- Added option for UI collision when using Fancy Lines
-- Some incomplete work on a implementation of lines which do not use ImGui
+- Visually improved situations where a line segment would intersect the camera with fancy lines
+- Visually improved the target line effect when viewing in first person
 """
 
