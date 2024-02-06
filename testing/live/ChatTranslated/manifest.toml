@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "daad1a319b83eda3d68cc009801e238ef17196eb"
+commit = "b2db2332ee8431bfad338c51d9145b3d90397b40"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = "Use in-game chat types so chat appears in where they belongs. Option to choose which channels get translated."
