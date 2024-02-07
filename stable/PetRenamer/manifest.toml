@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1b621ce6f440507417998ab8799a452840f69a75"
+commit = "f9e9526117aff0d6f50b1fd97eeaf7682d2267ce"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.6.2]
-    + For users that didn't split their target bars. Target Bar renaming and casting functionalities should now work!
-    (This has literally been bugged since day one. Enjoy your new feature set!)
+    + [1.4.6.4]
+    + Toolbar Events are now automatic.
+    + [1.4.6.3]
+    + Fixed an issue where summoner would overwrite Pet Mirage settings at any given oppertunity. (Now it should only happen sometimes, usually when I want it to :) )
+    + The chat should now be less greedy in renaming pet names.
+    + The context menu config setting works again.
 """
