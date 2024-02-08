@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/kelvin124124/ChatTranslated.git"
+commit = "119c24763b17fb7d99479ebf552ad20562bcb202"
+owners = ["kelvin124124"]
+project_path = "ChatTranslated"
+changelog = "Added target language option. Add functionality to min window. Fix api key saving bug."
