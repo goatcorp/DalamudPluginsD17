@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "9b75c8a67641079fb9a29902a61b49f5be559938"
+commit = "3f62e83e62e3c973e8953ccf1c5902e59afb1718"
 changelog = """
 General: Gear updates by examining now use the same restrictions as own data collection
     Localization: Redone translation
