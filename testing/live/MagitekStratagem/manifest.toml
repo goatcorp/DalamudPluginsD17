@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/meoiswa/MagitekStratagem.git"
+commit = "062da07cd37429b49e37222d64f0a609cbf1f85c"
+owners = [
+    "meoiswa"
+]
+project_path = "MagitekStratagem"
+changelog = """
+
+Version 0.2.0.0:
+ - New: Auto-detect newest Tobii Game Hub.
+ 
+ - ⚠️Experimental Plugin⚠️, merely a proof of concept.
+ - Tobii Eyetracker integration for FFXIV.
+ - Enables Gaze-at-object target aquisition. 
+ - Supports overriding Tab Target (Enemy) and Soft Target (Target Cursor)
+ - Works best for Gamepad users, but is compatible with KB&M
+ - Requires Tobii Game Hub to be installed.
+"""

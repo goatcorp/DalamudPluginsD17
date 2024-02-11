@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rreminy/FFXIV.WinTitle.git"
-commit = "1b17be482c47cca762210bea24fc73199c02b3ac"
+commit = "39ad8570ba2916a85f5dae04a5a73f72a8d491e8"
 owners = ["rreminy"]
 project_path = "."
-changelog = "API 8"
+changelog = "API 9"

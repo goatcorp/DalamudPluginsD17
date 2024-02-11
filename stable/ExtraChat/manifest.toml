@@ -1,8 +1,8 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/ExtraChat.git'
-commit = '614a51946ed00ff5949309c501b83ca27dc9e312'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/ExtraChat.git'
+commit = 'dc0e23c3daf79ad0edc43118f7ee4130210c5d42'
+owners = [ 'lojewalo' ]
 project_path = 'client'
 changelog = '''\
-- Fix context menu for 6.4
+- Fix large message bug
 '''

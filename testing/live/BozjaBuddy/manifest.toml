@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "72f41009be207daed80cd170d1312aef8478d239"
+commit = "5a2cc6f0cea74595ee5be2501d5bf2dfdeae48e9"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.1.1.0]
-- Import/Export canvas to clipboard.
-- Import/Export selected nodes to clipboard. Basically copying/pasting nodes.
-- Shortcuts for deleting nodes (Del)
-- Shortcuts for copying/pasting nodes (Ctrl + C / Ctrl + V)
-
-- Minor fixes to graph's ruler (Y-axis)
-- Fixes to deleting nodes that are packing other nodes.
+Bozja Buddy [1.1.4.1]
+- Added Relic guide and tracking.
+- Adjustments with node graph viewer stuff.
 """

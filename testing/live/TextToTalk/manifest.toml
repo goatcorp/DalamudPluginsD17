@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "1f410c617e5534339b68e6aaee60394ee952e981"
+commit = "072d88eea3bce83a3517cbc5eb918bbed8e075fc"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes Azure voice playback rates
+- Fixes Uberduck TTS backend following API changes
 """

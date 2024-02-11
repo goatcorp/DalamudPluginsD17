@@ -1,6 +1,8 @@
 [plugin]
-repository = "https://github.com/cadaeix/XIVLogger.git"
-commit = "8de0dc9b877291dd9c873b500f80648a1647f85b"
-owners = ["cadaeix"]
+repository = "https://github.com/Infiziert90/XIVLogger.git"
+commit = "4cea1e9a2dc4c71f5a83a90de0b4f59f35b943dc"
+owners = [
+  "cadaeix",
+  "Infiziert90"
+]
 project_path = "XIVLogger"
-changelog = "Bumping packages and updates"

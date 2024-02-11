@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "a079413dfa7a96e1d096d0afaa4e52ae8bf96666"
+commit = "1fa775ae7ca43672e9c49da675a6467ddd31d8e1"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy [1.0.0.3]
-- Field note Dabog (11) and Sartauvoir (14) had incorrect Fate info.
+Bozja Buddy 1.1.5.4
+API 9
 """

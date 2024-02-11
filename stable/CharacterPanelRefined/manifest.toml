@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "1513e9afb6d01c2c0d61d16bf93859abca03e0a9"
+commit = "a81349322766f116a5a9cb3b43e6697098231963"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fixed average damage and healing values broken by patch 6.4
+Fix ilvl sync being incorrectly displayed in bozja and eureka.
 """

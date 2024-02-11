@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/im-scared/scout-helper.git"
+commit = "5c747cc08711a10ad7a22e7c35f1abf894bafbb4"
+owners = ["dit-zy", "zw3lf"]
+project_path = "ScoutHelper"
+changelog = "non-functional rewrite of dependency handling"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "5410a1f874a8f3cc94d6b5ad17a0e216522131e7"
+commit = "08aa4ee40e72e422769c15f88c9a95b6cf26aee3"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Open selected item page when clicking Universalis button\n- Marketboard item caching\n- Universalis fetching data prompt\n- Recent history option\n- Updated Dependencies for patch 6.4"
+changelog = "- Fixed the plugin \"No GST\" feature (Universalis API changes)"

@@ -1,8 +1,5 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "5eeee862b08f71f5c05402b16e536dd50398e0d8"
+commit = "9ccab6e2206b009c923affa5595f13c97d005ca0"
 owners = ["apetih"]
 project_path = "client/rtyping"
-changelog = """
-- Added support for Cross-world parties.
-"""

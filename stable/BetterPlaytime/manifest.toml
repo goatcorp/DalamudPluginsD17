@@ -1,11 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "0daed3753278e19ecd2bdc8cc9093e2b45896b14"
+commit = "f4e00dc35b8177493f3ff6f743045068b7d6c8ff"
 owners = [
     "Infiziert90",
 ]
 project_path = "BetterPlaytime"
-changelog = """
-+ Switch to dalamud window system
-+ Switch from chat parsing to sig
-"""

@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://git.anna.lgbt/anna/eorzea-votes.git'
+commit = '7d539cb99c61183b7fd82e7e7f5ca5aabbccb8b7'
+owners = [ 'lojewalo' ]
+project_path = 'client'
+changelog = """\
+- Fix logic to open window on new question
+"""

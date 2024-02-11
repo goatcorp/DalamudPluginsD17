@@ -1,7 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = '3e45a005646f6b2feb5b950cb370755137a336ab'
-owners = [ 'ascclemens' ]
+repository = 'https://git.anna.lgbt/anna/ChatTwo.git'
+commit = '1ab389256b65de58f995a86229af194ea5527d2e'
+owners = [ 'lojewalo' ]
 changelog = """\
-- Update for 6.4
+- Fix issue with Dalamud custom link payloads
 """

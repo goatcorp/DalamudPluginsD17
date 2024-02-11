@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
+commit = "a912fcd7e914c9393880f8e1e894ffe23d165ee7"
+owners = ["Glyceri",]
+	changelog = """
+    + [1.4.6.4]
+    + Toolbar Events are now automatic.
+    + Fixed a bug where the Topaz Carbuncle target text would not work as intended.
+    + [1.4.6.3]
+    + Fixed an issue where summoner would overwrite Pet Mirage settings at any given oppertunity. (Now it should only happen sometimes, usually when I want it to :) )
+    + The chat should now be less greedy in renaming pet names.
+    + The context menu config setting works again.
+"""

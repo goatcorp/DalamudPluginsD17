@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/lmcintyre/PrefPro.git"
+commit = "a47e131d80ce30a0f1f6f7d023ed4c573415ba0b"
+owners = [
+    "lmcintyre",
+]
+project_path = "PrefPro"

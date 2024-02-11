@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "04c25733b44f910fbe241f095e4272995a3ebc39"
+commit = "ad72bb5f8b6e8db250f1c64de044f4b3a39da022"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Added the option [Improved Magicite Kills Detection], under General tab > Testing section.
+- Added 3 to 8 room counts to the Statistics Window. (You can show or hide them individually on Configuration > Statistics tab)
 """

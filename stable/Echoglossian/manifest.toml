@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "47f6e36cbc554ad0c1e175437213decd67cf0520"
+commit = "4e66d1a87fca577bfe6d6b04b6b0ccf86ce91253"
 owners = [
     "lokinmodar",
 ]
-changelog = "New troubleshooting tab in the Config window"
+changelog = "API9 related fixes"

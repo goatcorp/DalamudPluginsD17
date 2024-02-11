@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RedMage1993/MimicryHelper.git"
-commit = "74c34d218695c915978f2452029a69122935d9b8"
+commit = "66491a00b1e549f534e667dc7f0df83df80dff5e"
 owners = ["RedMage1993"]
 project_path = "MimicryHelper"
-changelog = "Rebuilt for 6.3"
+changelog = "Rebuilt for 6.5 & API9 -Fritz"
