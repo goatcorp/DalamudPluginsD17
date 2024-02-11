@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "cc0fa548a26e6deaaab4e0d836bfd1451df6c259"
+commit = "29484ad2721920a312e2d00393f795d6fa2c7234"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed an issue which leads to null reference exception.
+- Fix an DateTime parsing issue.
 """
