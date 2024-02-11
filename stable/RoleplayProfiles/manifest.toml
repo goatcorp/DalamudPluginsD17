@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "e8e4030514d9ea556658236137930b1c9ef49b93"
+commit = "9c228d438403a04245aedf05fc73145bb5cf534e"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
-changelog = """Updated for Dalamud 9."""
+changelog = """Added support for two-factor authentication."""
