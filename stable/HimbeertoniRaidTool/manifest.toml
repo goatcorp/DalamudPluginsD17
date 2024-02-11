@@ -2,9 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "3f62e83e62e3c973e8953ccf1c5902e59afb1718"
+commit = "a8ffb47daec9048dd2898027481b63424c21b4b9"
 changelog = """
-General: Gear updates by examining now use the same restrictions as own data collection
-    Localization: Redone translation
-    Bugfix: Selecting gear from database now works
-    Bugfix: Adding gear sets in solo view works again"""
+Localization: Fixed edit buttons tooltip to not say "add"
+    Gear: You can restrict automatic overrides for irrelevant gear (see config)
+    Localization: German (Deutsch) translation updated"""
