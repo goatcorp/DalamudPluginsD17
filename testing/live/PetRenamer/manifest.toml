@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "84c3b69507bc9be7610f66321634ea6b3ce7bd77"
+commit = "931e4a49ebbed6117e2aa8f8f88402a113700a17"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.6.3]
-    + Fixed an issue where summoner would overwrite Pet Mirage settings at any given oppertunity.
-    + The chat should now be less greedy in renaming pet names.
-    + The context menu config setting works again.
+    + [1.4.7.0]
+    + There is now a new Pet News window.
+    + You can now hide buttons in the Toolbar.
+    + Certain default images have been changed.
 """
