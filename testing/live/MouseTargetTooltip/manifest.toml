@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/53m1k0l0n/MouseTargetTooltip.git"
-commit = "c4f030806851a27329ccc4dd19d6a4a56eb6993b"
+commit = "6b1669d2f17a450b09223f95a8ee5989ffb6978c"
 owners = ["53m1k0l0n"]
 project_path = "MouseTargetTooltip"
 changelog = """- 0.0.2.0 Update API 9"""
