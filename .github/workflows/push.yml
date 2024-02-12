@@ -56,6 +56,9 @@ jobs:
         PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
         XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
+        PLOGON_S3_ACCESSKEY: ${{ secrets.PLOGON_S3_ACCESSKEY }}
+        PLOGON_S3_SECRET: ${{ secrets.PLOGON_S3_SECRET }}
+        PLOGON_S3_REGION: ${{ secrets.PLOGON_S3_REGION }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
