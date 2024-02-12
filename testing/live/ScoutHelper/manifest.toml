@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/im-scared/scout-helper.git"
-commit = "5c747cc08711a10ad7a22e7c35f1abf894bafbb4"
+repository = "https://github.com/dit-zy/scout-helper.git"
+commit = "69e8b21fa8881f7d7f1c6531ae39027681de3934"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "non-functional rewrite of dependency handling"
+changelog = "add support for siren hunts! :D"
