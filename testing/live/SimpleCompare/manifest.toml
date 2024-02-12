@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/53m1k0l0n/ffxiv-simplecompare.git"
-commit = "3871de7097be7fc8bd51112f44451e643512e193"
+commit = "f5601982f519126db727d868a42e558edf847117"
 owners = ["53m1k0l0n"]
 project_path = "SimpleCompare"
-changelog = """- Udated to API 9"""
+changelog = """- Update 2.0.0.2"""
