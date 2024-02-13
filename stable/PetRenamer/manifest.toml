@@ -3,6 +3,6 @@ repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
 commit = "a86806f4940441dc4d04ae23ce468641c6217c76"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.7.0]
+    + [1.4.7.1]
     + Ready for nicknames!
 """
