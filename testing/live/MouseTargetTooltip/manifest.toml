@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/53m1k0l0n/MouseTargetTooltip.git"
-commit = "f2b3200c63a8be2ddaa8236dfe3cbd4134e58a59"
+commit = "33e024e1ab0ccff07f756d1116f020ddd27e74e9"
 owners = ["53m1k0l0n","Gotest"]
 project_path = "MouseTargetTooltip"
-changelog = """- Icon added"""
+changelog = """- Wrong Icon path"""
