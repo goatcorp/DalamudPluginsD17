@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "1b9115f7d81a7942c4036745ad3ae7c2789430b1"
+commit = "dd72605ba33872bc31c7534400030efc41b52c0c"
 owners = [
     "ItsBexy",
 ]
