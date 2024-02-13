@@ -1,16 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "16b6c27aa6a4ea813975092536e896ef3462916d"
+commit = "c6f86b24510b5609346ca7b212d154011d0ee8fd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.3"
+version = "1.6.2.4"
 changelog = """\
-**New Features/Updates**
-**New Features**
-- Ephemeral Nodes are now supported
-- Can be Traded was split into Can be Traded and Can be placed on Market
 **Fixes**
-- Character rename restored
+- Fix potential STG crash related to fonts
 """
