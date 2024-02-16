@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "dc0e7a85515a45bcdd97cbb5893838a37ce9d850"
+commit = "1a325feb11c8e88b8e108d166f2d55749adc37ea"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
-changelog = "Attempt to fix secret reading. Add option to translate English messages."
+changelog = "Fixed a bug where English is not translated when translateEn is checked."
 [plugin.secrets]
 chatfunction_key = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAeezmQlBzptEr4kFDPVxfwQlrkFIrQEv+gW9T6hXI\nSRkwhyoasqyUkEmHw5JPl/Mo+QLnfVPZ2U1SBdiQyTgbMnNQsrETk8ey+xcg\naap2G4lj0lkBTYS2qV6OCPwFo73Pzv09g5yCiPjAs6h/unUb3sBMIuDMsSM+\nyfxY2Et8tqMPzXB2vXVGnHQIHqC7EuKRxOjJOiBpIVFAmp7dFEQOBJv4s8G0\nFlYaiMawxA==\n=Ii28\n-----END PGP MESSAGE-----\n"
