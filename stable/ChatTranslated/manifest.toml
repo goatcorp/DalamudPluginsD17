@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "055279c8610b43d758255c15a66e7d413570c0fd"
+commit = "98ad5eedf6458c90ebc773e07c83eaa0f52f9331"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = "Fixed a bug where English is not translated when translateEn is checked."
