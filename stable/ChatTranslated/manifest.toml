@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "201164e10c2d22fc3ebb3ac9c0fc5bce44664434"
+commit = "00770a485987c3b27fb250a6e0a15fa977f34e67"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = "Provide an opt-in option to send anonymized chat messages to improve translation. Optimized openai requests to reduce cost and latency."
