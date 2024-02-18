@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "af0b20fe843fb2d3dcd9f272036697aa07560dcd"
-changelog = "- Updated HuntBuddy for API9"
+commit = "064c4adf59188c5b533f4d3eaa5f0bd0464c1477"
+changelog = "- Fixed debug window showing up\n- Disabled closing local hunts window"

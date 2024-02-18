@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
+commit = "42a009dff5db8f3fd4c2eca59eb2fc9205e352aa"
+owners = [
+    "Critical-Impact",
+]
+project_path = "FantasyPlayer"
+version = "2.2.0.1"
+changelog = """\
+**Bug Fixes**
+- Fix slash commands
+"""

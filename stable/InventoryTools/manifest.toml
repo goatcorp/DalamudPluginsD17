@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "89f7afecee56b3d42bf2b3468cab60d578a01fc2"
+commit = "c6f86b24510b5609346ca7b212d154011d0ee8fd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.7"
+version = "1.6.2.4"
 changelog = """\
-**6.5 Support**
-- Added a ItemCountOwned IPC, thanks nebel :)
-- Store/Patch data added for 6.5, still missing items related to submarines and item sets, PM if you have anything to add
-- Addded plugin installer main window button
+**Fixes**
+- Fix potential STG crash related to fonts
 """

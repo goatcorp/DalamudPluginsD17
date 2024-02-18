@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "d148bd184885daf2e0bb86fe4fb9a09eb0e93eab"
+commit = "77c882e3260133376a2cf18334278365331ad011"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """
-- Fix a possible crash if the api is not online.
+changelog = """- Minor Internal Refactorings.
+- Auto update events when the window is opened if not updated before for 5 minutes.
 """

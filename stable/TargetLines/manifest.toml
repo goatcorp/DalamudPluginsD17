@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "f135a3b9d8ffb526af9dd65451b936e28a9536db"
+commit = "afa643a240e655d376577960a47a1d8a12373555"
 owners = ["Drahsid"]
-project_path = ""
-changelog = """1.2.7
-- Improved the rendering of fancy lines, now they should look less looney when they clip the camera
-- Improved visibility logic
-- Improved logic relating to intangible game objects (ghost lines should no longer appear)
-- Set default sample count for fancy lines to an odd number (should give the line a middle point with the default config)
-- Made visibility check on Game Objects less aggresive
-- Introduced a regression, where the sample count for lines is only applied when the line is constructed
+project_path = "TargetLines"
+changelog = """
+- UI occlusion now checks for line intersections, so there should no longer be segments appearing if it's rect overlaped a UI element, but did not intersect it under certain circumstances
+- Fixed a bug which would cause the end cap to have the wrong opacity when 'Fade to End' is enabled
+- Adjusted the rendering of the end caps so they appear uniform
+- Fixed issue where the first/third person transition for lines which target or source the player would appear disjointed
+- Minor optimizations in the broad phase of UI occlusion
 """
 

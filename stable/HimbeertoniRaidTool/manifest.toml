@@ -2,7 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "827b0da843e814dc374a68d186e8e5172745dc0c"
+commit = "a8ffb47daec9048dd2898027481b63424c21b4b9"
 changelog = """
-General: Updated for Dalamud API 9
-General: Updated for FFXIV 6.5"""
+Localization: Fixed edit buttons tooltip to not say "add"
+    Gear: You can restrict automatic overrides for irrelevant gear (see config)
+    Localization: German (Deutsch) translation updated"""

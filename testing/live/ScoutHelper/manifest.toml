@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/dit-zy/scout-helper.git"
+commit = "f24ba308c5ac2df1bf2eb054022332135c3f06be"
+owners = ["dit-zy", "zw3lf"]
+project_path = "ScoutHelper"
+changelog = "patch: remove instances for latest patch"

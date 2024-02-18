@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "cee423cf63e7b637c2fc0ceb8de320140dccab62"
+commit = "a81349322766f116a5a9cb3b43e6697098231963"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Update for patch 6.5
+Fix ilvl sync being incorrectly displayed in bozja and eureka.
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "711291a37ad37ff52d7a371908dfb61b4cd795e5"
+commit = "0f68a13c36ee95ee3fed997785bcc16ab5128e7c"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes login issue in Azure backend
+- Fixes voice preset deletions not always being saved
 """

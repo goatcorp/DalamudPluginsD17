@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "831ad26bd9cfba471043d7ec511de0f477a53906"
+commit = "33e1398e3ba0bb375ef10bef5fd03916b9c95be2"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """Fixed a minor display bug introduced by me fixing a minor display bug in the last patch."""
+changelog = """Fix for possible crash to desktop on wipe."""

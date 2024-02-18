@@ -51,10 +51,14 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        PAC_DISCORD_WEBHOOK: ${{ secrets.PAC_DISCORD_WEBHOOK }}
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
         XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
+        PLOGON_S3_ACCESSKEY: ${{ secrets.PLOGON_S3_ACCESSKEY }}
+        PLOGON_S3_SECRET: ${{ secrets.PLOGON_S3_SECRET }}
+        PLOGON_S3_REGION: ${{ secrets.PLOGON_S3_REGION }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
@@ -77,7 +81,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Update distribute"
+        git commit -m "Update distribute (${{ github.sha }})"
         
     - name: Push plugin dist
       uses: ad-m/github-push-action@master

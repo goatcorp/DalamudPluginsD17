@@ -1,13 +1,15 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "19eb100638003b53e072ce2e3e302df68fe9a4d9"
+commit = "062da07cd37429b49e37222d64f0a609cbf1f85c"
 owners = [
     "meoiswa"
 ]
 project_path = "MagitekStratagem"
 changelog = """
 
-Version 0.1.0.0:
+Version 0.2.0.0:
+ - New: Auto-detect newest Tobii Game Hub.
+ 
  - ⚠️Experimental Plugin⚠️, merely a proof of concept.
  - Tobii Eyetracker integration for FFXIV.
  - Enables Gaze-at-object target aquisition. 

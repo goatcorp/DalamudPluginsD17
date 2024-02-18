@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "6383623042ac432270c7407d5e42dca0d370166d"
+commit = "f63745f7e6cbd74c39d8bcadb0b2ab048a6d85d9"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- fix incorrect initial especially for new users
+- Support API9
 """
