@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "49ffd41f000b5c4dc810fb4b735520a3e0cee481"
+commit = "ed3c73fb757a02bf1584774a6edf4cd74d43c1be"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Fixes gatherable items parsing
-- Fixes map linking for some items
-- Adds table resizing
-- Adds window resizing
+changelog = """- Refactored font size calculation
  """
