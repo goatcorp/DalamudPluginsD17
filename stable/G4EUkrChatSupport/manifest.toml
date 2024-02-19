@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/justscribe/g4e_ukrchatsupport.git"
-commit = "048d60239e75c765f90c90b1f50d301f3c6828af"
+commit = "44a0b52d1830e0ead03d19479ec8ae85af8a6f89"
 owners = ["justscribe"]
 project_path = "G4EUkrChatSupport"
-changelog = "Updated with new Dalamud requirements."
+changelog = "Logo and config window update."
