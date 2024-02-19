@@ -2,8 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "a8ffb47daec9048dd2898027481b63424c21b4b9"
+commit = "4e0f0b8fe6d4d9eb352bb110900ba4e1d087b054"
 changelog = """
-Localization: Fixed edit buttons tooltip to not say "add"
-    Gear: You can restrict automatic overrides for irrelevant gear (see config)
-    Localization: German (Deutsch) translation updated"""
+Bugfix: Fixed broken materia in etro.gg sets
+(affected sets need to be updated by pressing the button
+  or automatic updates if activated)"""
