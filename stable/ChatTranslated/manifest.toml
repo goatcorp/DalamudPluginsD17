@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "00770a485987c3b27fb250a6e0a15fa977f34e67"
+commit = "f842e76871892cc5a49c2fb517c76d0316b46b4b"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
-changelog = "Provide an opt-in option to send anonymized chat messages to improve translation. Optimized openai requests to reduce cost and latency."
+changelog = "made main window resizable. added translation cache. fixed AI stupidity."
 [plugin.secrets]
 chatfunction_key = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAeezmQlBzptEr4kFDPVxfwQlrkFIrQEv+gW9T6hXI\nSRkwhyoasqyUkEmHw5JPl/Mo+QLnfVPZ2U1SBdiQyTgbMnNQsrETk8ey+xcg\naap2G4lj0lkBTYS2qV6OCPwFo73Pzv09g5yCiPjAs6h/unUb3sBMIuDMsSM+\nyfxY2Et8tqMPzXB2vXVGnHQIHqC7EuKRxOjJOiBpIVFAmp7dFEQOBJv4s8G0\nFlYaiMawxA==\n=Ii28\n-----END PGP MESSAGE-----\n"
