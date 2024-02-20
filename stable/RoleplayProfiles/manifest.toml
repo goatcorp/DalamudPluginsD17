@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "9c228d438403a04245aedf05fc73145bb5cf534e"
+commit = "94b7cdfd0b5478f87c3b0bd489660e6766275193"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
-changelog = """Added support for two-factor authentication."""
+changelog = """RPP now supports creating character profiles for the North America region (via crystalarchives.org) in addition to Europe (via chaosarchives.org). User accounts are shared for both sites."""
