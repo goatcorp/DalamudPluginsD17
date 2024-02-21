@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "b3ad1092babf584bbe6ef2f81ed60e774da6d4a2"
+commit = "d2026fe2500ec415e31da0518318ac00b579e358"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
-v1.2.0.0:
-- Add an optional plugin theme for easy compatibility
-- Add using keybinding to open/close the main window
-- Add options to customize the width of columns for tables in the main window
-... ~ v1.2.0.2:
-- Minor fixes and improvements
+v1.3.0.0
+Changelog is available via the `changelog button` on the plugin `configuration window`.
 """
