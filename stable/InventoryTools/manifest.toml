@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c6f86b24510b5609346ca7b212d154011d0ee8fd"
+commit = "6de67158f3e8a439ff9f074ef9da8cead1eb9429"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.4"
+version = "1.6.2.5"
 changelog = """\
 **Fixes**
-- Fix potential STG crash related to fonts
+- Skybuilder resource inspection needed quantity was not calculating correctly
 """
