@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "931e4a49ebbed6117e2aa8f8f88402a113700a17"
+commit = "eb47d409e49b98844e150c8cb50391c1c50dbb6f"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.7.0]
-    + There is now a new Pet News window.
-    + You can now hide buttons in the Toolbar.
-    + Certain default images have been changed.
+    [1.4.8.0]
+    The Mappy popup window is now reduced to a chat message.
+    Chat messages that Pet Nicknames sets hidden now properly remain hidden.
+    Pets on the Mappy Map will no longer show stuck when you are mounted.
+    Pet Nicknames is now enabled in the Wolves' Den Pier, but as a result even more restricted in non-Wolves' Den Pier zones.
 """
