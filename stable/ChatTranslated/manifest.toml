@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "3fe9413758d16b5c160164cd9109184e0e5c2733"
+commit = "a901469a41758bfd027aaf0510dbd3c728e51fa8"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = "New icon. Attempt to fix a bug where connection fails with VPN."
