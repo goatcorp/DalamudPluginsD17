@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "f842e76871892cc5a49c2fb517c76d0316b46b4b"
+commit = "a901469a41758bfd027aaf0510dbd3c728e51fa8"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
-changelog = "made main window resizable. added translation cache. fixed AI stupidity."
+changelog = "New icon. Attempt to fix a bug where connection fails with VPN."
 [plugin.secrets]
 chatfunction_key = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAeezmQlBzptEr4kFDPVxfwQlrkFIrQEv+gW9T6hXI\nSRkwhyoasqyUkEmHw5JPl/Mo+QLnfVPZ2U1SBdiQyTgbMnNQsrETk8ey+xcg\naap2G4lj0lkBTYS2qV6OCPwFo73Pzv09g5yCiPjAs6h/unUb3sBMIuDMsSM+\nyfxY2Et8tqMPzXB2vXVGnHQIHqC7EuKRxOjJOiBpIVFAmp7dFEQOBJv4s8G0\nFlYaiMawxA==\n=Ii28\n-----END PGP MESSAGE-----\n"
