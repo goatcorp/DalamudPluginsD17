@@ -1,12 +1,5 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "7311bce145ff0479d1af53e44342cf64cc2fb0be"
-owners = [
-    "meoiswa"
-]
+commit = "d452398944b679b56e3e9a71d8b92f30011baf76"
+owners = ["meoiswa"]
 project_path = "Tilted"
-changelog = """
-Version 3.3.0.1:
- - Improved Tilt Interpolation logic courtesy of @mallowmew.
- - Tilt Interpolation/Mapping no longer defaults to true.
-"""
