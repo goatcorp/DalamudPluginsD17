@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/mp-tick-bar.git"
-commit = "0d89260ffb1090f8a9b7d578d3a287afc2e21b54"
+commit = "edd38448ee3973671d6a64d557daa5ef9f03a2ec"
 owners = ["marconsou"]
 project_path = "MPTickBar"
 changelog = """
-- Patch 6.5 / Dalamud API 9 update.
+- Hide in pvp.
 """
