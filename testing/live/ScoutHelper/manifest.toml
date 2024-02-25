@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "3955ff762706667b48bdb8f3775a764740cb9686"
+commit = "c1982a0f72e06b34fa0cb82d0572e89ce5342c66"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "enable customizing number of instances"
+changelog = "(patch) improve some underlying framework components"
