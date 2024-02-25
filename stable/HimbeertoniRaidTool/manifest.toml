@@ -2,8 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "4e0f0b8fe6d4d9eb352bb110900ba4e1d087b054"
+commit = "95708885af6d7b1148acf70c276722a3d97b7d04"
 changelog = """
-Bugfix: Fixed broken materia in etro.gg sets
-(affected sets need to be updated by pressing the button
-  or automatic updates if activated)"""
+Bugfix: Fixes being unable to add new gear sets
+    User Interface: Add job selection (for BiS and item selection) to gear set edit user interface"""
