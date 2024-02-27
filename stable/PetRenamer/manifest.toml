@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
 commit = "e6b97264a33d5ef705427cea59047bafa1bbe86b"
-owners = ["Glyceri",]
+owners = ["Glyceri"]
 	changelog = """
     [1.4.8.1]
     Fixed an issue where commands would still show in chat.
@@ -10,3 +10,4 @@ owners = ["Glyceri",]
     Chat messages that Pet Nicknames sets hidden now properly remain hidden.
     Pets on the Mappy Map will no longer show stuck when you are mounted.
     Pet Nicknames is now enabled in the Wolves' Den Pier, but as a result even more restricted in non-Wolves' Den Pier zones.
+"""
