@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "bb56fe2e0274f0afd4af9241f241bffa383e13f7"
+commit = "13332550aa6a0858cc9b2fe3ab81dfe846adb076"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
