@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "6840505dca2e0d29bcb76cbb5ce68eee95c65f0a"
+commit = "41686616cb549fec763bf4a202babe056136ef54"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Fix bug where nodes were created while option is disabled
+- Fix loading the wrong texture version
 """
