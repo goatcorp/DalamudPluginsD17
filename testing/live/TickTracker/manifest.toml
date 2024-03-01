@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "b39c9578bb488746902566076277d0ce9125ad7f"
+commit = "6840505dca2e0d29bcb76cbb5ce68eee95c65f0a"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Added an alternative tick indicator that uses the native ui
+- Fix bug where nodes were created while option is disabled
 """
