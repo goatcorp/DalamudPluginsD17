@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "fab0e48578e46381c17f7fe73ab8b32bd03863da"
+commit = "616061f389d730697dcd8975dbc08b438f639521"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
-changelog = "various bug fixes. added option to disable plugin in duty. added Better Translation option for OpenAI API mode."
+changelog = "Use cloudflare workers."
 [plugin.secrets]
 chatfunction_key = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAeezmQlBzptEr4kFDPVxfwQlrkFIrQEv+gW9T6hXI\nSRkwhyoasqyUkEmHw5JPl/Mo+QLnfVPZ2U1SBdiQyTgbMnNQsrETk8ey+xcg\naap2G4lj0lkBTYS2qV6OCPwFo73Pzv09g5yCiPjAs6h/unUb3sBMIuDMsSM+\nyfxY2Et8tqMPzXB2vXVGnHQIHqC7EuKRxOjJOiBpIVFAmp7dFEQOBJv4s8G0\nFlYaiMawxA==\n=Ii28\n-----END PGP MESSAGE-----\n"
