@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Arcadia64/Ntfynder.git"
-commit = "0162e9d3c52054525ef75dc214373e0a68fe4173"
+commit = "f836b3c4a713d8920434ac953e2c61dcbcee5fcf"
 owners = ["Arcadia64"]
 project_path = "Ntfynder"
