@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "6382bbdfa1cf4255377bef13b056a15af10f297f"
+commit = "e57e44a668265b669a7e64de3c775fb3bc73057a"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
