@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "26253cead9bf155c33acb0f43d5ca8d60e88bd1b"
+commit = "07edc82ba82f2690a064179fd0b074dbf236005d"
 owners = ["Glyceri"]
 	changelog = """
-    [1.4.8.2]
-    Fixed an issue where active chocobos would interfere with battle pet resolving.
+    [1.4.8.3]
+    'Give Nickname' has been renamed to '[P] Rename' (Get used to it)
+    The plugin icon is changed because in reality... I cannot see green properly.
 """
