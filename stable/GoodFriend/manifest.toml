@@ -7,4 +7,4 @@ owners = [
 project_path = "src/Plugin"
 
 [plugin.secrets]
-PLOGON_SECRET_CLIENT_KEY = '-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAABV34FqOaurbmiWtIWjJQNF9XflFU7o9E+L7sRTE\nMicwo+YA/siO51iqPBCuydqPh19wsYHC/EqWlOu0W0v90lpkjdf3Qv5CMh6X\nS70MhXIj0pUBTOGySVZL9opsV3zICXQ+aAq+7DdjCFtN2aAYca31njm/tMGV\nvUtnfxRtFbG4jWRillgVccumyKtUAMKJR3ifJWWka2sCD1b9AklaAh9F8QsK\nvAvtalLMFWVKA48ZIT4Lpi8Srmnq2aLufcHYNrjIXAD6KRPedXyh92sBfPT2\n+S0Hg30jxaHRCCRw2MspyK+nSBNILw==\n=Jnsu\n-----END PGP MESSAGE-----\n'
+PLOGON_SECRET_CLIENT_KEY = '-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAtM3gj0sCaCRgLyHkWm6gmag3KmEj5KvWwlARyYQS\n+FYwlNwx3w+yJ9LtNZIn19x6UWSTX9rhEJPalO27mH7WG3ewudfTKssmx7Zy\neEkgNkF10pUBxtCiqLFOxo354CuX8rE0GspHkS6sHjfwb1AHBNkywylkzv2D\np77ollqGZozZJKt6+silO1lgEeKkIlSSlLP8tpeSRmNAtBihvz1EPuqrUM9x\nCBNZe9tuTy+SOERVmydmGEGWce0YarybiOQzwav0j8fRe6h5HEjVOKCBaQbY\nr7U9fneklCbP6nWjur/zOmSGphT3aw==\n=H53W\n-----END PGP MESSAGE-----\n'
