@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "7401f69e187c0e94365c2b337d937754f4c5d4e5"
-changelog = "Fixed an issue where the command help section could be cut off at the bottom by limiting the maximum window size and making it scrollable."
+commit = "689245c4bfdb9f0f2dab505087bce95a77cb4c86"
+changelog = "The server info bar now has a tooltip explaining that you can click it to toggle renders. There's also a note in the settings window about how to turn the entry off."
