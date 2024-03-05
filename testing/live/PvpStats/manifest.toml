@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "13332550aa6a0858cc9b2fe3ab81dfe846adb076"
+commit = "770aa26435f59d88fac827200c10feb784faa83e"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Initial testing release.
+- Fixes game crash on occluded window.
 """
