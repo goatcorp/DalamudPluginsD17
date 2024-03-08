@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "f9d9d20892debc1e2857787e4e3816ebd2817ed7"
+commit = "ed62265ff09020c972d8b4440b464034f24e41d7"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed a file save failure error that occurred when a specific item name contained characters that could not be used as a file name.
+- Fixed an issue that other modules could not be unloaded normally due to one single module unload error.
+- Fixed an issue that fails to switch the view of main window.
+- Fixed an issue that adds empty retainers to the config in some special cases.
+- Fixed an issue that some transactions quest names being lost.
+- Refactored most of the modules.
 """
