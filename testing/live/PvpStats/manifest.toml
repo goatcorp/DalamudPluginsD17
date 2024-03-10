@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "285eecc1522f9b50b27e8f90aa9f639988d959ac"
+commit = "6e46239f688c1542aa3609fa9758d3bf5f37bd0b"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Added UI resizing options.
-- Added collapse button to filters.
-- Other small UI changes.
+- Added player stats tab.
 """
