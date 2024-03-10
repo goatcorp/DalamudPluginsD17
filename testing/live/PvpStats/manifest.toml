@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "6e46239f688c1542aa3609fa9758d3bf5f37bd0b"
+commit = "0151fc8d2bced9fb8221d390ca0d2f885d7744a3"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
 - Added player stats tab.
+- Tracker window sizing options.
 """
