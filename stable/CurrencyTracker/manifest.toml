@@ -1,6 +1,12 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "a366031b96d7a64fc8e8744b6b94435cb85ea4c2"
+commit = "cf98c0c6dcf5e46cd9a967958be81a4d75abc5c4"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
-changelog = "- Improved code logic for Record TP Destination feature\n- Added Record Quest Name feature (located in Record Settings[DEV])"
+changelog = """
+- Fixed an issue that other modules could not be unloaded normally due to one single module unload error.
+- Fixed an issue that fails to switch the view of main window.
+- Fixed an issue that adds empty retainers to the config in some special cases.
+- Fixed an issue that some transactions quest names being lost.
+- Refactored most of the modules.
+"""

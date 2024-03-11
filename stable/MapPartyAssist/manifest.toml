@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/wrath16/MapPartyAssist.git"
+commit = "25ccbc0e75e01b134ba5e83d8e46e9c38b622a48"
+owners = ["wrath16"]
+project_path = "MapPartyAssist"
+changelog = """
+- Fix for handled chat messages stopping plugin from functioning.
+- Fix for special map names not being recognized.
+- Minor UI changes.
+"""

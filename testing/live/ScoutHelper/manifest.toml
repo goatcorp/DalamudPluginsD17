@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/dit-zy/scout-helper.git"
+commit = "9b3aefdf212f02d99c86e7a300f989b5929102a5"
+owners = ["dit-zy", "zw3lf"]
+project_path = "ScoutHelper"
+changelog = "(bugfix) fix error on plogon init for certain non-US region OSes"

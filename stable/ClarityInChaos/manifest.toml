@@ -1,17 +1,5 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "cb6f83e7edd8819ab8ccfbad6877adb0a544f443"
-owners = [
-    "meoiswa"
-]
+commit = "589622c29cc2e0c7af9590265a224e6849a81881"
+owners = ["meoiswa"]
 project_path = "ClarityInChaos"
-changelog = """
-Version 1.3.1.0:
- - API 9 Compat.
- - Renamed "Alliance" to "Alliance Raids".
- - "Only In Duty" options for Group Sizes.
-  - When enabled, the next smaller group is used when outside of duties.
-  - If no groups are eligible, "Saved In-Game Settings" are used.
-  - Alliance Raids are always "Only In Duty" (Detection logic relies on this)
- - ⚠️ Major refactor of Configuration, may break existing configurations. If experiencing issues, try "Reset plugin configuration and reload" from the Plugin Installer.
-"""

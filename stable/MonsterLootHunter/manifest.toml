@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "19e0bb187642ec2a28d486549512ab1bcb7958e1"
+commit = "ed3c73fb757a02bf1584774a6edf4cd74d43c1be"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Modified loot search parsing
-- Added table sorting
-- Added level info on loot
-- Fixed cause of some crashes
-- General refactorings
+changelog = """- Refactored font size calculation
  """

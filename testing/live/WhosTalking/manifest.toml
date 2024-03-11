@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "98d6d6935d10bcf2e0eb63aef9dbea2bce7ef65a"
+commit = "155bfb47cee996b1f43f189fa3c7bc5fb38e2014"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Added an easier way to configure individual assignments
-- Fixed a bug causing the overlay to show up even if the party list was hidden via HUD Layout
-- Fixed a crash that could occur if the Discord API sent an invalid response
+Fixed an extremely minor bug in the settings UI.
+
+A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
 """

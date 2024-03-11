@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "e8e4030514d9ea556658236137930b1c9ef49b93"
+commit = "94b7cdfd0b5478f87c3b0bd489660e6766275193"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
-changelog = """Updated for Dalamud 9."""
+changelog = """RPP now supports creating character profiles for the North America region (via crystalarchives.org) in addition to Europe (via chaosarchives.org). User accounts are shared for both sites."""

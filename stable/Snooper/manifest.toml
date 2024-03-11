@@ -1,16 +1,11 @@
 [plugin]
 repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
-commit = "874efd26c094e77ed3783975e036748ac83735f1"
+commit = "a0fa7be17b3e9645818b5f06ad42adc98d3c4d5d"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.0.0.0"
+version = "1.2.1.1"
 changelog = """
-* Updated for Dalamud 9.
-* You can now explicitly specify 12-hour, 24-hour, or system time format for timestamps.
-* New features and bugfixes thanks to GitPaulo:
-** Added an option to show Snooper windows on startup unless closed (on by default).
-** Added filter bars to the bottom of Snooper windows.
-** Added a "joint" hover mode, which prioritizes targeted players over hovered players.
-** Disabled mouseover targeting from triggering when the mouse is over the Snooper window.
-** Fixed an issue with the percent sign (%) not rendering correctly.
+* Snooper will no longer play a sound when you send a tell. This was never intended. (#18)
+* If saving logs to disk is disabled, Snooper will no longer load already existing logs from disk.
+* Reduced plugin log spam, fixing an issue where exception stack traces were logged for normal operation.
 """

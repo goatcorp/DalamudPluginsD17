@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "083c83641aea08a2f1847796de65a8696c869b0a"
+commit = "4fda8f9538751bba5b2b2eebebc4116096de992b"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
-changelog = ""
+changelog = "- Now supports non-English clients"

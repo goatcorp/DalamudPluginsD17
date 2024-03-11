@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "22448c64dcd8d8684f44e177ff3f4e169eefd272"
+commit = "f0669026d89d614f9b1e7d9a6e3d983eee8f781b"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Add additional logic for ensuring a group always exists. This should alleviate some of the crashing issues.
-- Add failsafe when migrating the config where reset the config if something went wrong.
-- Update config migration to also save a backup of the old config.
-- Made it so that opening the config with /fcnc or through the plugin installer toggles the config on and off.
+- Add additional logging to help with troubleshooting errors
 """

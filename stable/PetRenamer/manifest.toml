@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "ef3680a6741c31357adeac3fc34abb75fc6235f8"
-owners = ["Glyceri",]
+commit = "07edc82ba82f2690a064179fd0b074dbf236005d"
+owners = ["Glyceri"]
 	changelog = """
-    + [1.4.2.5]
-    + Fixed an issue that caused DelvUI nameplates to not show up with this plugin enabled.
+    [1.4.8.3]
+    'Give Nickname' has been renamed to '[P] Rename' (Get used to it)
+    The plugin icon is changed because in reality... I cannot see green properly.
 """

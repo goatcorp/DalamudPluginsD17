@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "af5c6330c06937ba2cdcc8622a4fdbcc6a9a4c50"
+commit = "33e1398e3ba0bb375ef10bef5fd03916b9c95be2"
 owners = ["Xpahtalo"]
 project_path = "DutyTracker"
-changelog = """Fix alliance data."""
+changelog = """Fix for possible crash to desktop on wipe."""

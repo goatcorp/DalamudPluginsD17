@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/DelvUI/DelvCD.git"
+commit = "5b5d9416ad249246d2cac5e907505f7750ba90da"
+owners = ["Tischel"]
+project_path = "DelvCD"
