@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0151fc8d2bced9fb8221d390ca0d2f885d7744a3"
+commit = "20cf2d8da5a0722bfe8cf27dfd68c9e10addfc13"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Added player stats tab.
-- Tracker window sizing options.
+- Made filter button and min matches persistent settings.
+- Re-arranged summary tab and added match length.
+- Changed job colors for ranged and caster.
 """
