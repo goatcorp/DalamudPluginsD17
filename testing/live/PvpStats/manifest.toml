@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0ad899384cd9e98b7b695cf20dad1a948e8b31d1"
+commit = "4a0dc7505b8a410968eb00011c79ad5be3d74440"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Made filter button and min matches persistent settings.
-- Re-arranged summary tab and added match length.
-- Changed job colors for ranged and caster.
+- Fix for an exception preventing sorting by some columns.
 """
