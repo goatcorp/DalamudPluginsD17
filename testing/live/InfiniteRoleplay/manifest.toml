@@ -4,3 +4,5 @@ commit = "e4b3ac548f5883311b269be4fba22602d4bacd94"
 owners = ["serifas"]
 project_path = "Infinite Roleplay"
 changelog = "Initial Release"
+[plugin.secrets]
+infinite_key = '-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdACEHe4TNRBE2H36bhngAoNxiPTrTaGrm79IvbJ5Ca\nIQgwp+fMiyZ/jpWEuYhK1uLPS3z+kt9wCxy7/LmneT2gsNxZhdGBpe2wZdB2\nEt8Mtoxj0kIBNHc852T+MTtGXFXA2tPvVW0GGeJiLW1SQ1VFA4B3omw5MBk+\nVhU4cISSDNiirlcjz+Bad0I5zKveu8msUA5Lgl8=\n=zSdn\n-----END PGP MESSAGE-----\n'
