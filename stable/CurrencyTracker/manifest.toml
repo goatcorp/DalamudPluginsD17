@@ -1,12 +1,15 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "cf98c0c6dcf5e46cd9a967958be81a4d75abc5c4"
+commit = "149282f59e7a7038867e0be8f4d63648e79ffdae"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed an issue that other modules could not be unloaded normally due to one single module unload error.
-- Fixed an issue that fails to switch the view of main window.
-- Fixed an issue that adds empty retainers to the config in some special cases.
-- Fixed an issue that some transactions quest names being lost.
-- Refactored most of the modules.
+- Code cleanup.
+- Refactored the Add Custom Currency and Multi-Chara Stats interface.
+- Refactored the LanguageManager.
+- Optimized the interface appearance of the currency list: You can now adjust the order of currencies in the list by dragging and dropping them; Deleted the original arrow buttons, and the remaining three buttons are now aequilate ones; Adjusted the indentation of the options to make them look more natural
+- Fixed an issue where a single handler uninstallation error would prevent the entire plugin from being normally disabled.
+- Fixed an issue that the automatic backup time was displayed incorrectly when the AutoBackup module was disabled and then enabled again.
+- Optimized the Main window open speed.
+- Added a new feature: Display Currency Changes in Server Bar, which allows you to show specific currency changes in the DTR bar.
 """
