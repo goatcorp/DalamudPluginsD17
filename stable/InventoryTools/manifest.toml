@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6de67158f3e8a439ff9f074ef9da8cead1eb9429"
+commit = "2dbcbcb66b1353d550d0e38e00214c29134868fc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.5"
+version = "1.6.2.6"
 changelog = """\
 **Fixes**
-- Skybuilder resource inspection needed quantity was not calculating correctly
+- The "Relative Item Level" column is no longer a debug only column, give it a try!
+- The inventory scanner now runs on the main thread(prefix for new Dalamud version)
 """
