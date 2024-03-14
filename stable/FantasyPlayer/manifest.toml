@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "42a009dff5db8f3fd4c2eca59eb2fc9205e352aa"
+commit = "0741fbd70e3acb6ac0545aadf111f4aaf58d3123"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.2.0.1"
+version = "2.2.0.2"
 changelog = """\
 **Bug Fixes**
-- Fix slash commands
+- Fixes so that the plugin disposes properly
+- The browser should now open using the same method Dalamud uses for logging in, Linux/Mac OSX users see if you can login now
 """
