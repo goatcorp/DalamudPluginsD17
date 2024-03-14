@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/eorzea-votes.git'
-commit = 'b6f5dbeb4cf7b2bf5cd8a53234e621b53c1fb501'
+commit = '12e270ece496f42c8edf7c625166629adae72b95'
 owners = [ 'lojewalo' ]
 project_path = 'client'
 changelog = """\
