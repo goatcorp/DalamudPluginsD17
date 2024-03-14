@@ -1,8 +1,10 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/eorzea-votes.git'
-commit = '7d539cb99c61183b7fd82e7e7f5ca5aabbccb8b7'
+commit = 'b6f5dbeb4cf7b2bf5cd8a53234e621b53c1fb501'
 owners = [ 'lojewalo' ]
 project_path = 'client'
 changelog = """\
-- Fix logic to open window on new question
+- Add suggestions tab
+- Show name of who suggested a question
+- Fix text wrapping in details window
 """
