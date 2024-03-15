@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "2dbcbcb66b1353d550d0e38e00214c29134868fc"
+commit = "f587741c31f8524cf8ab60c4badcf24d8ddfb82a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.6"
+version = "1.6.2.7"
 changelog = """\
 **Fixes**
-- The "Relative Item Level" column is no longer a debug only column, give it a try!
-- The inventory scanner now runs on the main thread(prefix for new Dalamud version)
+- Optimize inventory scanner further
 """
