@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "f587741c31f8524cf8ab60c4badcf24d8ddfb82a"
+commit = "799443681c0ad9e72c906d520d24c857a8d02765"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.7"
+version = "1.6.2.8"
 changelog = """\
 **Fixes**
-- Optimize inventory scanner further
+- Revert original scanner changes
 """
