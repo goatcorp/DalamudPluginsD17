@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "799443681c0ad9e72c906d520d24c857a8d02765"
+commit = "c5d3e3e6404f9997114e89dc744c9a10cbb12eea"
 owners = [
     "Critical-Impact",
 ]
@@ -8,5 +8,5 @@ project_path = "InventoryTools"
 version = "1.6.2.8"
 changelog = """\
 **Fixes**
-- Revert original scanner changes
+- Stutter fix thanks to Azure Gem, please submit feedback if you still have issues
 """
