@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "155bfb47cee996b1f43f189fa3c7bc5fb38e2014"
+commit = "3551ed35cc8909d9fbfffa579617167c6d791c8d"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Fixed an extremely minor bug in the settings UI.
+**Version 0.6.8.0**
+
+Some minor UI changes, and a fix that's meant to prevent a hypothetical memory leak in Discord – Who's Talking will no longer periodically reconnect to Discord just because it didn't see anything happening for a while.
+
+If you notice that Who's Talking stops displaying voice statuses at any point (for example, if you quit Discord and reopen it while the game is open), please let me know!
 
 A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
 """
