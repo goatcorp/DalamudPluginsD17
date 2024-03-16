@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "dd527c36535bc54019f07789afe557488d17c142"
+commit = "9f36a2d82eacba1f0185754c1fb4ac2ded3fe469"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed null reference error when ServerBar module is not enabled.
+- Fixed failure to load any module by default.
+- Fixed AutoBackup module lagging the game for a long time during backups
 """
