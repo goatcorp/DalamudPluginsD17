@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c5d3e3e6404f9997114e89dc744c9a10cbb12eea"
+commit = "bcec672b06f23c19560c4d31f8dd0cf221c24e18"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.8"
+version = "1.6.2.9"
 changelog = """\
 **Fixes**
-- Stutter fix thanks to Azure Gem, please submit feedback if you still have issues
+- Stop some game calls being made in the plugin load
+- The armoire should now highlight again
+- The default highlighting colour for tabs was incorrect
+**Improvements**
+- Highlighting now uses the addon lifecycle service provided by Dalamud
+
 """
