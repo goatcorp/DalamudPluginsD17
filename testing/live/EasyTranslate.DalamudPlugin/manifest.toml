@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "acdfc881e1cc61b9cb36d8fd32654a052abb7fce"
+commit = "6e081d22ec7653ed658e6b42a954133576f39614"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
-changelog = "Initial release"
+changelog = "Fix search result order"
