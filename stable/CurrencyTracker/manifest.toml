@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "9f36a2d82eacba1f0185754c1fb4ac2ded3fe469"
+commit = "0d04c506b63ae47a4c3e36a74c3f37bfec2c73fc"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed failure to load any module by default.
-- Fixed AutoBackup module lagging the game for a long time during backups
+- Optimized currency list right-click menu display.
+- Optimized module uninstallation logic.
+- Added the feature of deleting saved characters.
+- Code Cleanup
 """
