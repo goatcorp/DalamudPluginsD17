@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "b3c4e86e18c8f141f6452321dee41d115700bcfa"
+commit = "049531267b10a607e1b90f61f7fe335495431cc1"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
