@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "4a0dc7505b8a410968eb00011c79ad5be3d74440"
+commit = "086293d531695c1ee468641513c08bf6a973e5a5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Fix for an exception preventing sorting by some columns.
+- Add job stats tab.
+- Added CSV export to matches, players and job stats.
+- Added ability to favorite matches.
+- Many UI changes.
+- Patch 6.58 fixes.
 """
