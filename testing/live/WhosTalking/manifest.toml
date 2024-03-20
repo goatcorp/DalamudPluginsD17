@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "3551ed35cc8909d9fbfffa579617167c6d791c8d"
+commit = "d651380c76cb90cb7317651d756680e557d82b3d"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.8.0**
+**Version 0.6.9.0**
 
-Some minor UI changes, and a fix that's meant to prevent a hypothetical memory leak in Discord – Who's Talking will no longer periodically reconnect to Discord just because it didn't see anything happening for a while.
-
-If you notice that Who's Talking stops displaying voice statuses at any point (for example, if you quit Discord and reopen it while the game is open), please let me know!
+Adds a warning when certain custom Discord clients (those using arRPC) are detected. Who's Talking can't work with these clients, because they don't implement the feature that lets other applications see when you're in a voice channel.
 
 A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
 """
