@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "58905fb69cb69ae0621dfd3d375ed2b7a1eec19d"
+commit = "a046ed5a0786435c72287068f258bd4f2f4821a0"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.7.1"
+version = "1.0.8.1"
 changelog = """
-- Added Import/Export (compressed)
+- Fix issue when linking to overlapping Shared/Individual slots
+- Allow setting the Link Placeholder Icon
+
+Old Import/Export strings are not compatible with this release
 """
