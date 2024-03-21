@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "155bfb47cee996b1f43f189fa3c7bc5fb38e2014"
+commit = "d651380c76cb90cb7317651d756680e557d82b3d"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Fixed an extremely minor bug in the settings UI.
+**Version 0.6.9.0**
+
+Adds a warning when certain custom Discord clients (those using arRPC) are detected. Who's Talking can't work with these clients, because they don't implement the feature that lets other applications see when you're in a voice channel.
 
 A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
 """

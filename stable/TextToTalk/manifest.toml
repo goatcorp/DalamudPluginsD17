@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "7a54207f0f093c2d73d3067c7dc0e506288e9925"
+commit = "9315670b4e32eaa6077f800ff034fab967d17d52"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes being unable to add lexicons to the Azure voice backend
-- Fixes being unable to save changes to existing chat type presets
-- Small internal refactor which might fix some other minor bugs in voice playback
+- Fixes most issues with stutter detection and removal on names
+- Adds stutter config state to WebSocket backend payload (`.StuttersRemoved // bool`)
+- Makes some minor adjustments in preparation for the next Dalamud update
 """

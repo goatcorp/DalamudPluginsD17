@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "07edc82ba82f2690a064179fd0b074dbf236005d"
+commit = "0fe2804f4ea6767367f0ad2394d8faad619a0066"
 owners = ["Glyceri"]
 	changelog = """
-    [1.4.8.3]
-    'Give Nickname' has been renamed to '[P] Rename' (Get used to it)
-    The plugin icon is changed because in reality... I cannot see green properly.
+    [1.4.8.4]
+    .Net8 Bump
+    Fixed profile pictures not redownloading.
 """

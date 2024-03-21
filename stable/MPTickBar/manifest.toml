@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/mp-tick-bar.git"
-commit = "edd38448ee3973671d6a64d557daa5ef9f03a2ec"
+commit = "8a8a23c08537ad24286ff353469f2047da2f3cd0"
 owners = ["marconsou"]
 project_path = "MPTickBar"
 changelog = """
-- Hide in pvp.
+- .NET 8.0.
 """

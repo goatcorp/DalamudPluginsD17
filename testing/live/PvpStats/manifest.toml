@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0151fc8d2bced9fb8221d390ca0d2f885d7744a3"
+commit = "086293d531695c1ee468641513c08bf6a973e5a5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Added player stats tab.
-- Tracker window sizing options.
+- Add job stats tab.
+- Added CSV export to matches, players and job stats.
+- Added ability to favorite matches.
+- Many UI changes.
+- Patch 6.58 fixes.
 """
