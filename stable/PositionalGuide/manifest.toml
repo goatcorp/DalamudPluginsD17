@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "689245c4bfdb9f0f2dab505087bce95a77cb4c86"
-changelog = "The server info bar now has a tooltip explaining that you can click it to toggle renders. There's also a note in the settings window about how to turn the entry off."
+commit = "aaa52ba1a54065346e98596da223962cf8123fc4"
+changelog = "Update for patch 6.58, minor refactoring for new style rules, no functional changes."

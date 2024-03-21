@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "02c3280f604be09b5f713d9bad51628b5d68e1ff"
+commit = "58096bb4b399f3199b8c36ed397287376af0ba43"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Added price checking using Universalis.
-- UI improvements.
+- Bug fixes.
+- Added collapse filters button.
 """
