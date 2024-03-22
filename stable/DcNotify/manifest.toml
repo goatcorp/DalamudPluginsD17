@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/RaidenvBlack/DcNotify.git"
+commit = "3af6cd884a343da5698f9a4b967f5415862becc0"
+owners = ["RaidenvBlack"]
+project_path = "DcNotify"
+changelog = "Added Commands"
