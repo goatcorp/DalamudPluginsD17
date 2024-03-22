@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "086293d531695c1ee468641513c08bf6a973e5a5"
+commit = "9134802b22249e72e9030a0c96a72c0129af5f3b"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Add job stats tab.
-- Added CSV export to matches, players and job stats.
-- Added ability to favorite matches.
-- Many UI changes.
-- Patch 6.58 fixes.
+- Added PvP profile tab.
+- Fix for stats not updating when you change characters.
 """
