@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "545d4da5c80e13e6f3a117824881469eac7cdfec"
+commit = "c4efc4c343b1d79449afc15314c95f50dcdaeae2"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Optimized currency list right-click menu display.
-- Optimized module uninstallation logic.
-- Added the feature of deleting saved characters.
-- Code Cleanup
+- Refactored the Transactions selection logic thoroughly.
+- Fixed the issue where the current character is not at the top of the list。
+- Optimized and streamlined the acquisition logic of Multi-Chara Stats.
+- Optimized the storage logic of Currency Rule.
 """
