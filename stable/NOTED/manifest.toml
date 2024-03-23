@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "656b0b38688193eec9091268a3b1786bf2faa89f"
+commit = "a6f2c27e023e8c897a5a0ac04d2f89404e319506"
 owners = ["Tischel"]
 project_path = "NOTED"
-changelog = "- Added support for patch 6.5 and Dalamud API 9."
+changelog = "- Removed duplicated duty entries.\n- Added support for the Tab key when writing notes.\n- Fixed visual issues in the settings windows.\n- Fixed crash with notes containing the \"%\" character"
