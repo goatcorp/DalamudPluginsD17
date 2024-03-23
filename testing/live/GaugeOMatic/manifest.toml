@@ -1,16 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "086d9fd8fcdb5151c47a1e2a488e4c8825f6ff9c"
+commit = "785b1225e2e70f85bc4cedfc380f93b9393556aa"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Added a couple of missing tank invuln Status Effects (How did they get missed? Beats me! Oops!)
-- Fixed an issue wherein the Simple Bar widget would not always hide itself when set to do so
-- Renamed the "Preview" controls to "Test" for clarity.
-OTHER NOTES / KNOWN ISSUES
-- Widgets currently rely on max-level charge/stack counts, even when synced to lower levels. This has some unintended/inaccurate effects, and will be adjusted in a future update.
-- The option to track custom-entered status effects (beyond the built-in lists for each job) will be added in the future.
-- There have been reports of conflicts with other plugins (particularly the JobBars plugin) causing visual elements to fail to load, or even causing crashes. I haven't been able to replicate these issues; if this happens to you, make sure to submit a log so I can take a look!
-- Some widgets (specifically Target Reticle and Shimmering Halo) do not play nice with ReShade filters that mask UI elements. This is inherently due to the particular textures that these widgets use. They will still be kept available as options, but unfortunately there isn't a way to make them ReShade-friendly.
+- Status effects cast by the player's pet (such as Carbuncle's Radiant Aegis) are now tracked properly
+- Label text on the Beast Bar and Oath Bar widgets will now fade out correctly whenever the bar is hidden
 """
