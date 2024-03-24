@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/sourpuh/ffxiv_interjection.git"
+commit = "06728b79c1f9a8ede01f8ffc575d2a7205088555"
+owners = [
+    "sourpuh",
+]
+project_path = ""
+changelog = """
+Interjection 0.0.0.0
+- Show which casts are interruptible in the Enemy List
+- Color enmity gems when enemies are targeting other tanks
+"""
