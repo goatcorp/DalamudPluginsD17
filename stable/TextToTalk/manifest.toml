@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "9315670b4e32eaa6077f800ff034fab967d17d52"
+commit = "358060a0060dfab2afe581032cb58a0df22aa663"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes most issues with stutter detection and removal on names
-- Adds stutter config state to WebSocket backend payload (`.StuttersRemoved // bool`)
-- Makes some minor adjustments in preparation for the next Dalamud update
+- **TTS**: Fixes duplicate TTS in some fights when "Read NPC dialogue from the battle dialogue window" is enabled
+- **Triggers**: Disables whitespace triggers to avoid confusion when an empty trigger stops TTS completely
+- **Voice Unlocker**: Adds support for copying Microsoft Speech Server and `WOW6432Node` voices (thanks lazerl0rd!)
+- **UI**: Removes duplicate NPC dialogue chat types from the chat channel config
+- **UI**: Shows linkshells correctly in the chat channel config (`LS 1` instead of `Ls 1`)
+- **WebSocket**: Adds support for multiple simultaneous WebSocket connections
+- **WebSocket**: Adds support for configuring the listening address
+- **WebSocket**: Adds `NpcId` and `ChatType` to the message payload (check the README for more details)
 """
