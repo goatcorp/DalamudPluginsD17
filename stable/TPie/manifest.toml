@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "f0944ff7bb902701fad41873ce6e3d5aa2115bd7"
+commit = "3b41107b7bad7d4125357f2a0e629e42fc4eacbc"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed various issues related to Gear Set elements."
+changelog = "- Added support for the \"new\" Dalamund Fonts API."
