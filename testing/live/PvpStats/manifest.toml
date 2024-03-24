@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "9134802b22249e72e9030a0c96a72c0129af5f3b"
+commit = "6f8e60ae228a89246e316118d0f7d89474599eaf"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Added PvP profile tab.
-- Fix for stats not updating when you change characters.
+-Added Crystal Credit plotting.
+-Various UI resizing options.
+-Fix for unknown duty IDs.
 """
