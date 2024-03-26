@@ -1,15 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "358060a0060dfab2afe581032cb58a0df22aa663"
+commit = "aaebb3f3f97d37c625579addc1f8a7f98e531481"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- **TTS**: Fixes duplicate TTS in some fights when "Read NPC dialogue from the battle dialogue window" is enabled
-- **Triggers**: Disables whitespace triggers to avoid confusion when an empty trigger stops TTS completely
-- **Voice Unlocker**: Adds support for copying Microsoft Speech Server and `WOW6432Node` voices (thanks lazerl0rd!)
-- **UI**: Removes duplicate NPC dialogue chat types from the chat channel config
-- **UI**: Shows linkshells correctly in the chat channel config (`LS 1` instead of `Ls 1`)
-- **WebSocket**: Adds support for multiple simultaneous WebSocket connections
-- **WebSocket**: Adds support for configuring the listening address
-- **WebSocket**: Adds `NpcId` and `ChatType` to the message payload (check the README for more details)
+- **WebSocket**: Adds `Language` to the message payload (check the README for more details)
 """
