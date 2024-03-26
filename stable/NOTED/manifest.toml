@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "a6f2c27e023e8c897a5a0ac04d2f89404e319506"
+commit = "eb3ed19e21c67b878f04dedce83715668d7a6d12"
 owners = ["Tischel"]
 project_path = "NOTED"
-changelog = "- Removed duplicated duty entries.\n- Added support for the Tab key when writing notes.\n- Fixed visual issues in the settings windows.\n- Fixed crash with notes containing the \"%\" character"
+changelog = "- Fixed note not appearing when creating it inside the duty."
