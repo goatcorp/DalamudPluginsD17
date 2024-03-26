@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/wolfcomp/MonsterDex.git"
+owners = [ "wolfcomp" ]
+project_path = "DeepDungeonDex"
+commit = "3788db509978c7f11f2afc10cd4303877fd3580f"
+changelog = "## 2.10.0 (2024-03-26)\n\n\n### Features\n\n* implement dynamic territory definitions (dc1b984)\n* implement some time and weather lookups (25cab6c)\n* start the eureka window code (2ac685b)"
+version = "2.10.0"
