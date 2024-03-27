@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "50f2e6391a76e6617365c95762db86241498f290"
+commit = "655f5e31983d47ed0609cc4bc0a9121e7b31254c"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
--Added Crystal Credit plotting.
--Various UI resizing options.
--Fix for unknown duty IDs.
+-Added all unknown duties as ranked.
 """
