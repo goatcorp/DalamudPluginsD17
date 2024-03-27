@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "7877cafa2b2616bf7f82cdd2fd48690ab26ef661"
+commit = "2e6e245d00c16ac63950cddccc947c35fcbe7b48"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- New plugin that allows you to control the scale of summoner pets
+- Added option to scale Eos and Selene up to regular fairy size
 """
