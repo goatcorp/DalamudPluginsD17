@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "da270a0f5bf196c81720414e181f40c711141f08"
+commit = "649019052b55d8cc2cef1acbffa3c6eca770de83"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
 - Updated icon.
 - German regex fix for Dungeons of Lyhe Ghiah final chamber.
+- Bug fix for exception on modified checkpoint results.
 """
