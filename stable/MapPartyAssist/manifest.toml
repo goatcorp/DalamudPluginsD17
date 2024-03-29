@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "58096bb4b399f3199b8c36ed397287376af0ba43"
+commit = "8ec54b750305eba0b8e8d854afcd57479f590bde"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Bug fixes.
-- Added collapse filters button.
+- Updated icon.
+- German regex fix for Dungeons of Lyhe Ghiah final chamber.
 """
