@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0dc3976a1889563f41184caec1d73da338c7e687"
+commit = "be506a3b8c40fec95bb29c6eeb1e18999ec0f926"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
--Added records tab.
--Added dynamic columns to matches tab.
--Fixed a possible CTD when favoriting/unfavoriting a match.
+-Fixed game crash on viewing certain UI elements.
+-Adding data validation for teams with too many players.
 """
