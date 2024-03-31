@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "be506a3b8c40fec95bb29c6eeb1e18999ec0f926"
+commit = "4d4ef5ca2f460bbd61c68eecdc2eec0b6ab7670b"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
 -Fixed game crash on viewing certain UI elements.
+-Fixed exception on min match filter.
 -Adding data validation for teams with too many players.
 """
