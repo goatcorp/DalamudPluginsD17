@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "00a30af3e4e4a950851f4852da0186650bd99545"
+commit = "4e6ea2b157b3626aa1d54673a8a6ac58d2266b58"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = "Initial release"
