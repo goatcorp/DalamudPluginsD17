@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "eb3ed19e21c67b878f04dedce83715668d7a6d12"
+commit = "a7e4b84b33b1ed1b8e03bf4e27dd87aa54ac792b"
 owners = ["Tischel"]
 project_path = "NOTED"
-changelog = "- Fixed note not appearing when creating it inside the duty."
+changelog = "- Added a \"No Duty\" entry. Notes added to this section will be shown while outside of duties.\n- Duties are now filled automatically when creating a new note while being inside a duty.\n- Added context menu to the notes list to Export or Delete with Right Click.\n- Added context menu to the duty list to Delete all notes for a duty with Right Click."
