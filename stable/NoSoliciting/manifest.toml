@@ -1,8 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/NoSoliciting.git'
-commit = 'f08baba71b8c06c86202ca8354d90adbfb91993e'
-owners = [ 'lojewalo' ]
-project_path = 'NoSoliciting'
-changelog = """\
-- API 9
-"""
+repository = "https://github.com/kalilistic/NoSoliciting.git"
+owners = [ "kalilistic" ]
+project_path = "NoSoliciting"
+commit = "257afe3db5afbed9478cac9f4e2767753299bcc8"
