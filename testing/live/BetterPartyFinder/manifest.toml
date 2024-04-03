@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/sersorrel/BetterPartyFinder"
+repository = "https://github.com/sersorrel/BetterPartyFinder.git"
 commit = "658b8d710435421118ca4e84193ed62bfd8cdca9"
 owners = ["sersorrel"]
 changelog = """\
