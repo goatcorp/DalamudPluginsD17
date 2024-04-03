@@ -1,7 +1,6 @@
 [plugin]
 repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
-commit = "4be13532fb44ebb4a6e154cab875e1f5f8c4479d"
+commit = "4595a96fb617939999aa46fd766747218537c842"
 owners = ["PYRiTEmonark"]
 project_path = "PartyListExtras"
-changelog = """- Conditional statuses implemented
-- AST cards now reflect what class they are placed on"""
+changelog = """- Damage up, Mitigation up and Healing up are now shown in certain fly texts"""
