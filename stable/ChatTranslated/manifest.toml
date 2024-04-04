@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "093dd53a9508df176aa8c40fe0cc95448cf5481b"
+commit = "d805a8e437b2196f705308d3789e05091ec51cf6"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
-changelog = "Make translate French and German separate options. Fix crash when expanding ChatLog in certain scenarios."
+changelog = """
+- Reinforced default filter
+Now requires >2 consecutive non-English characters to trigger translation under default settings.
+"""
 [plugin.secrets]
 chatfunction_key = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAeezmQlBzptEr4kFDPVxfwQlrkFIrQEv+gW9T6hXI\nSRkwhyoasqyUkEmHw5JPl/Mo+QLnfVPZ2U1SBdiQyTgbMnNQsrETk8ey+xcg\naap2G4lj0lkBTYS2qV6OCPwFo73Pzv09g5yCiPjAs6h/unUb3sBMIuDMsSM+\nyfxY2Et8tqMPzXB2vXVGnHQIHqC7EuKRxOjJOiBpIVFAmp7dFEQOBJv4s8G0\nFlYaiMawxA==\n=Ii28\n-----END PGP MESSAGE-----\n"
