@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "aaebb3f3f97d37c625579addc1f8a7f98e531481"
+commit = "876d94fd590c2675e1191119f770ce6a8f644791"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Adds `Language` to the message payload (check the README for more details)
+- **WebSocket**: Adds `PayloadTemplate` to the message payload (check the README for more details)
 """
