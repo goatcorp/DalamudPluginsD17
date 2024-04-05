@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "2e6e245d00c16ac63950cddccc947c35fcbe7b48"
+commit = "a7f76db65f5f7db11253d7ab0b94ad246b297ac9"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- Added option to scale Eos and Selene up to regular fairy size
+- Fixed broken filter
+- Possible fix for expanding dropdown
 """
