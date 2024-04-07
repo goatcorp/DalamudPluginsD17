@@ -1,7 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/ChatTwo.git'
-commit = '1ab389256b65de58f995a86229af194ea5527d2e'
-owners = [ 'lojewalo' ]
-changelog = """\
-- Fix issue with Dalamud custom link payloads
-"""
+repository = "https://github.com/Infiziert90/ChatTwo.git"
+commit = "882099affe6fde5621b3c3de44730e6297e6f3cf"
+owners = [
+    "Infiziert90",
+    "lojewalo"
+]

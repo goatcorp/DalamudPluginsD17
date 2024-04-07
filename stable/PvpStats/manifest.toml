@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/wrath16/PvpStats.git"
+commit = "7cf1c8795aaa7c99b12b58bf9f8ec95325c5f157"
+owners = ["wrath16"]
+project_path = "PvpStats"
+changelog = """
+-Fix for window size being small on first open.
+"""

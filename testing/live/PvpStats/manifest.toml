@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "086293d531695c1ee468641513c08bf6a973e5a5"
+commit = "4d4ef5ca2f460bbd61c68eecdc2eec0b6ab7670b"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-- Add job stats tab.
-- Added CSV export to matches, players and job stats.
-- Added ability to favorite matches.
-- Many UI changes.
-- Patch 6.58 fixes.
+-Fixed game crash on viewing certain UI elements.
+-Fixed exception on min match filter.
+-Adding data validation for teams with too many players.
 """

@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "9315670b4e32eaa6077f800ff034fab967d17d52"
+commit = "b05d443c46f3cae64347b887fe0b50857a28b017"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes most issues with stutter detection and removal on names
-- Adds stutter config state to WebSocket backend payload (`.StuttersRemoved // bool`)
-- Makes some minor adjustments in preparation for the next Dalamud update
+- **WebSocket**: Adds `PayloadTemplate` to the message payload (check the README for more details)
 """

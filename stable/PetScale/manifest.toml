@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "7877cafa2b2616bf7f82cdd2fd48690ab26ef661"
+commit = "a7f76db65f5f7db11253d7ab0b94ad246b297ac9"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- New plugin that allows you to control the scale of summoner pets
+- Fixed broken filter
+- Possible fix for expanding dropdown
 """
