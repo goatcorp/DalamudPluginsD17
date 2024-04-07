@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "8540d3b14a2243131cbaead16431bb185e2fa44d"
+commit = "bed2fd1378983a3796c5b89057f542a66a4ba924"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.6.1"
+version = "1.0.9.0"
+changelog = """
+- Auto-translate support (copy/paste only)
+
+This is a fairly significant change under the hood so please report any bugs while this is under testing
+"""
