@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0fe2804f4ea6767367f0ad2394d8faad619a0066"
+commit = "6cb0bb5a50422e84a07e28610ad06fc13c5e2c88"
 owners = ["Glyceri"]
 	changelog = """
-    [1.4.8.4]
-    .Net8 Bump
-    Fixed profile pictures not redownloading.
+    [1.4.8.5]
+    PVP warning message can now be disabled
 """
