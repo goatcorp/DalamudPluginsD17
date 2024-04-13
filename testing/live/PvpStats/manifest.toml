@@ -1,10 +1,17 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "4d4ef5ca2f460bbd61c68eecdc2eec0b6ab7670b"
+commit = "08a25c032c1a35be8e3011ed0cb05579eedf77ce"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
--Fixed game crash on viewing certain UI elements.
--Fixed exception on min match filter.
--Adding data validation for teams with too many players.
+* Added player linking.
+* Added auto player linking using PlayerTrack IPC.
+* Added several more match records.
+* Added columns for Kills/Assists and KDA ratio to job/player stats.
+* Revamped 'Summary' tab and added arena summary.
+* Adjusted color scales.
+* Improved refresh performance.
+* Player CSV export now includes quick filters.
+* Added a config option for resizing window when filters are shown/hidden.
+* Other small UI tweaks.
 """
