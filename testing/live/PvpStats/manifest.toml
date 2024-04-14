@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "1618783aea9eb804b2dc6aea5082735360e645b3"
+commit = "034e5ff75d12f14b7146b37efa81bfa578ec788f"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
@@ -13,5 +13,6 @@ changelog = """
 * Improved refresh performance.
 * Player CSV export now includes quick filters.
 * Added a config option for resizing window when filters are shown/hidden.
+* Added color config.
 * Other small UI tweaks.
 """
