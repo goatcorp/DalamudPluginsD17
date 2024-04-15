@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "034e5ff75d12f14b7146b37efa81bfa578ec788f"
+commit = "a0212ce0e6c714ae3d02166afae1e794ea8016ef"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
 * Added player linking.
 * Added auto player linking using PlayerTrack IPC.
+* Added rank tier match filter.
 * Added several more match records.
 * Added columns for Kills/Assists and KDA ratio to job/player stats.
 * Revamped 'Summary' tab and added arena summary.
@@ -14,5 +15,6 @@ changelog = """
 * Player CSV export now includes quick filters.
 * Added a config option for resizing window when filters are shown/hidden.
 * Added color config.
+* Added support for Chinese player names.
 * Other small UI tweaks.
 """
