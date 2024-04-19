@@ -1,21 +1,10 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "669dc9716ca0535fc46b3edc320e80c730cca818"
+commit = "3bdcb471295fffa687a4331ce0ee6870dd64cc2b"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Refactored the implementation logic of the Currency Alert feature.
-   - Fixed the issue of unable to complete currency change transaction writing when an alert is issued incorrectly
-   - Fixed the issue of the alert only taking effect on the currently selected currency.
-   - Fixed the issue that the alert messages could not be parsed into the selected language.
-- Added support of Custom Deliveries for Record Special Exchange Result module.
-- Refactored the implementation logic of the transactions table.
-   - Reduced overall table drawing performance consumption.
-   - Fixed null reference error when deleting selected transactions.
-   - Refactored the interaction logic for holding down the left Ctrl key and the right mouse button at the same time to quickly select multiple transactions.
-   - You can now open the Quick Actions menu by right-clicking on a selected transaction.
-- Streamlined the logic of the CurrencyAddonExpand module.
-- Added a new module MoneyAddonExpand.
-- Fixed the issue that when reloading the plugin, the loading failed due to incomplete autosave during unloading.
-- Refactored the Graphs window.
+- Fixed the null reference exception issue when hovering the currency addon.
+- Optimized the logic for MobDrops module.
+- Fixed the issue that Server Bar entry would disappear when relogin to another character.
 """
