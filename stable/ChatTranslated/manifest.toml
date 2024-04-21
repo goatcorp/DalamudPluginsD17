@@ -1,25 +1,11 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "0db68586b2c67bb113985ad8da3963aaa3664213"
+commit = "fadf66907a19f4c742eeeb2d5b506df02163d20a"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-[localization]
-Added framework for localization.
-
-[ui]
-Added source language selection to translate specific languages.
-
-[translation]
-Updated filter regex.
-Excluded non-text payloads from language detection.
-Added DeepL translate mode.
-Proxy: Switched to claude models for better performance.
-Proxy: Switched to a new API key.
-Proxy service may be unstable in this version.
-
-[misc]
-Organized code.
+Added a region for proxy.
+Fixed a bug where some text is not printed in the main window.
 """
 [plugin.secrets]
 cfv2 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAVF7lQi3ll0QVVHXhrxWWvn56lJGXqQmi7PSprdGJ\nnAEwPWuybeVbiv23purRpMKyRd0Tnnm/wswuf3TJFebn+5Kr2RZctJCK4y6L\nKoGsLHON0lgBxcrMMmv4IHrxs+M7L0Rcsriaw8dI1anSCxrlafxK7g6i+Xsx\nRa57QCwJOd8rMDhmuG9H+LdJZGtcSZHiZr+UapqCJaFZOEt1dYMoZlgcCLyA\nMB4PURNf\n=9CF1\n-----END PGP MESSAGE-----\n"
