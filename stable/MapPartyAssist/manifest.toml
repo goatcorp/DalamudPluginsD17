@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "7421f34b549f95baa9a7344734077262fee69db1"
+commit = "9fd4248e092ba9fdd6ebbbf22047e8e6182ee681"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Fix German regex bug.
+* Minor item price service fixes.
 """
