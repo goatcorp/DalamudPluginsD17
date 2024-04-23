@@ -2,4 +2,4 @@
 repository = "https://github.com/WorkingRobot/Waitingway.git"
 commit = "c124fa591caf9004dea9e3ef7a159917de5a62f6"
 owners = ["avafloww", "NPittinger", "WorkingRobot"]
-project_path = "Waitingway.Dalamud"
+project_path = "Waitingway"
