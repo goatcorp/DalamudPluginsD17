@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "b34934b6c1f9b3c0f07a601a22d63acaec32d5ea"
+commit = "834f13a9c1cddf820cadbbe46f8fbb56125ffddf"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Critical fix for CTD.
+* Failed price check bug fix.
 """
