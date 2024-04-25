@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "5e7f79293ab7c0944ba7efc40d609cb0cd12afe9"
+commit = "64261c8ebad6c9470a2fd990ba0a64c47d6aa2e2"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Configurable shortcuts"
+changelog = "Minor UI tweaks"
