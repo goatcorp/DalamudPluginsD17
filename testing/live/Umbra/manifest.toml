@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "5597648503afa6226e0f512a01a6d13f95033ea3"
+commit = "ab6776204e3366fbc638c009147cc33465d29e85"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
- - Initial release
+ - Fixed an error that would occur when placing a flag marker in an area without an Aetheryte.
+ - Umbra will now use custom icons if they are available.
+ - Add an option to disable image processing for some icons under General Settings.
 """
