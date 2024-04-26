@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "5597648503afa6226e0f512a01a6d13f95033ea3"
+commit = "8ff492ad3b56bd1979d06f22509553cf9f5a86f5"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
- - Initial release
+ - Fixed an error that would occur when placing a flag marker in an area without an Aetheryte.
+ - Fixed the master volume value not displayed correctly in the volume widget.
+ - Umbra will now use custom icons if they are available.
+ - Add an option to disable image processing for some icons under General Settings.
 """
