@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/KassWasTaken/RpUtils.git"
-commit = "2fbbf45304cfecd3711e3b9feff782ebff21351b"
+commit = "03b0533335b896272cf8781963f263baf046ebde"
 owners = ["KassWasTaken"]
 project_path = "RpUtils"
