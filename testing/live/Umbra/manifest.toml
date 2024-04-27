@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "8ff492ad3b56bd1979d06f22509553cf9f5a86f5"
+commit = "6b871c6795a5fc1bb70db08e57f9d5052584c2ee"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
- - Fixed an error that would occur when placing a flag marker in an area without an Aetheryte.
- - Fixed the master volume value not displayed correctly in the volume widget.
- - Umbra will now use custom icons if they are available.
- - Add an option to disable image processing for some icons under General Settings.
+- Adhere to Dalamud's Global Font Scale setting
+- Stop rendering world markers on top of the toolbar
+- Fix some rendering of texts for German clients
 """
