@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6b871c6795a5fc1bb70db08e57f9d5052584c2ee"
+commit = "0ad5bd8f657e8a88d5a867836bf47ea5ce192000"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Adhere to Dalamud's Global Font Scale setting
-- Stop rendering world markers on top of the toolbar
-- Fix some rendering of texts for German clients
+- Add server info bar entries from other plugins
+- Add the ability to toggle individual toolbar widgets (fix)
+- Fix wrapped text sometimes cut off in the settings window
 """
