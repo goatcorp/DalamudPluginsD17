@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://gitea.0x0a.de/0x0ade/DP-VoidBox.git"
+commit = "51adb846e4a922ef0b52ed484893d42e1141d8f5"
+owners = ["0x0ade"]
+project_path = "VoidBox"
+changelog = """
+- Initial release
+"""
