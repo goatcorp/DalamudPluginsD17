@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "cdf27ddaae977e77e383e843bffc59226d5c2592"
+commit = "181e8ecf4ce80e680055f88083d9969d13c2f63a"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Add /umbra-toggle chat-command to toggle boolean options
-- Make the toolbar semi-transparent and non-interactive when editing HUD layouts
-- Add visibility settings under General Settings
-- Fix direction indicator not scaling properly with UI scale setting
+- Add tooltips to server info bar entries where applicable
+- Fix text rendering for FATE markers in foreign languages
+- Add an option to configure spacing between location & weather
+- Add an option to use alternate job icons in gearset switcher
 """
