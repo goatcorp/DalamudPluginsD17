@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "0ad5bd8f657e8a88d5a867836bf47ea5ce192000"
+commit = "cdf27ddaae977e77e383e843bffc59226d5c2592"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Add server info bar entries from other plugins
-- Add the ability to toggle individual toolbar widgets (fix)
-- Fix wrapped text sometimes cut off in the settings window
+- Add /umbra-toggle chat-command to toggle boolean options
+- Make the toolbar semi-transparent and non-interactive when editing HUD layouts
+- Add visibility settings under General Settings
+- Fix direction indicator not scaling properly with UI scale setting
 """
