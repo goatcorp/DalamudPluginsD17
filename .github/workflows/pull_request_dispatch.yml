@@ -40,7 +40,7 @@ jobs:
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests-master
-        ref: master
+        ref: main
 
     - name: Checkout Plogon
       uses: actions/checkout@v3
