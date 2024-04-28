@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://gitlab.com/moonfox-projects/simpletodo.git"
-commit = "f4f95b0c31cd090d9c1d9745ce32eaac6cef0cb8"
+commit = "6b6637ea34653f7d8a09fd7fa6fe484671d192ff"
 owners = ["Lunalicious"]
 project_path = "SimpleTodo"
 changelog = "Fixed a critical bug which forced the user to check todos from top to bottom"
