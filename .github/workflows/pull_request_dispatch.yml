@@ -28,12 +28,19 @@ jobs:
         status: in_progress
         details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
 
-    - name: Checkout manifests
+    - name: Checkout manifests from incoming PR
       uses: actions/checkout@v3
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.client_payload.ref }}
+
+    - name: Checkout manifests from master
+      uses: actions/checkout@v3
+      with:
+        repository: goatcorp/DalamudPluginsD17
+        path: manifests-master
+        ref: master
 
     - name: Checkout Plogon
       uses: actions/checkout@v3
@@ -84,6 +91,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
+        --build-overrides-file="${{ github.workspace }}/manifests-master/overrides.toml" \
         --ci --mode=PullRequest
 
         cat $GITHUB_STEP_SUMMARY
