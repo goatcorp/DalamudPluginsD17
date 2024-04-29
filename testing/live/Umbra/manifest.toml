@@ -1,11 +1,17 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "181e8ecf4ce80e680055f88083d9969d13c2f63a"
+commit = "8bbeea656c32f3f2356431c2ba80b72a1f88662a"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Add tooltips to server info bar entries where applicable
-- Fix text rendering for FATE markers in foreign languages
-- Add an option to configure spacing between location & weather
-- Add an option to use alternate job icons in gearset switcher
+- Fix BattleVFX widget not showing up in settings window
+- Fix config sometimes being reset after a plugin reload
+- Auto-hide the native DTR bar when Umbra's DTR widget is visible
+- Only show spearfishing gathering nodes while underwater
+- Add mute buttons to the volume widget for each channel
+- Add scaling option for world markers & direction indicators
+- Add an option to configure left/right margins for the toolbar
+- Add an option to adjust the vertical offset of the toolbar
+- Show sanctuary icon next to location name when applicable
+- Add Free Aetheryte to travel list
 """
