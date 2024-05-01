@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6d721017eee47d9a9e5e7a60260625ba3421d0e8"
+commit = "d39d32875d46d71bc5a1bf01dccb9c7fb93ea51c"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Reworked the settings window
-- Add a Ko-Fi button to the settings window
-- Add an option to toggle the native server info bar
-- Fixed some missing translations
+- Fixed the settings window from rebinding events more than once.
 """
