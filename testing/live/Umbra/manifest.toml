@@ -1,17 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6ca76fe6484e831646bdfbced95b12a1e78a595c"
+commit = "6d721017eee47d9a9e5e7a60260625ba3421d0e8"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Fix BattleVFX widget not showing up in settings window
-- Fix config sometimes being reset after a plugin reload
-- Auto-hide the native DTR bar when Umbra's DTR widget is visible
-- Only show spearfishing gathering nodes while underwater
-- Add mute buttons to the volume widget for each channel
-- Add scaling option for world markers & direction indicators
-- Add an option to configure left/right margins for the toolbar
-- Add an option to adjust the vertical offset of the toolbar
-- Show sanctuary icon next to location name when applicable
-- Add Free Aetheryte to travel list
+- Reworked the settings window
+- Add a Ko-Fi button to the settings window
+- Add an option to toggle the native server info bar
+- Fixed some missing translations
 """
