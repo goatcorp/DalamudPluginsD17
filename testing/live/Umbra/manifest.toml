@@ -6,7 +6,7 @@ project_path = "Umbra"
 changelog = """
 - Add an option to show main menu buttons as icons instead of text
 - Add visibility options for loading screens and idle cam
-- Add classic blue theme & use dropdown for theme presets
+- Add clear blue theme & use dropdown for theme presets
 - Increase DTR bar update interval
 - Fix exception when a character has no gearset
 """
