@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "d39d32875d46d71bc5a1bf01dccb9c7fb93ea51c"
+commit = "28cbaae71b0cd83709ebb3ff7ac4e177ffbe7f7c"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Fixed the settings window from rebinding events more than once.
+- Add an option to show main menu buttons as icons instead of text
+- Add visibility options for loading screens and idle cam
+- Add classic blue theme & use dropdown for theme presets
+- Increase DTR bar update interval
+- Fix exception when a character has no gearset
 """
