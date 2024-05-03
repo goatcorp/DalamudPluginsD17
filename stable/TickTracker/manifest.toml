@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "b3f57b45272e7c27208a851f5973666411ffb7fe"
+commit = "fa4928e63fa45bc034eb4fa291863319403805a3"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
+- Fix bug where GP tick would be halted incorrectly while fishing.
 """
