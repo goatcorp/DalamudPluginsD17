@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "2ae6b170d7d1540c7b7dea67e2b6b52d24073025"
+commit = "433a6e056369b21ff2361e0c1eda693b67ccfb9f"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Fixed weather forecast prediction (Thanks Haselnussbomber!)
+- Increase the toolbar margin limits
+- Add Toolbar Layout Editor
 """
