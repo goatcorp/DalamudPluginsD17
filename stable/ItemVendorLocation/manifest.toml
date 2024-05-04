@@ -1,17 +1,15 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "2a6ca2328fd2f84913e6da9a54f960f330bbace5"
+commit = "fc138fc71e98fef65e1a9e8bd530d56e1b536258"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Add Chinese localization
-- Fix for Aenc Ose shop name
-- Remove Garland Tools data source
-- Fix GC bugs (hopefully)
-- Add Keybinding option to switch between single and multiple results
-- Manually add a few NPC locations
+- Island Sanctuary fixes (Nuko)
+- Zadnor vendor fixes (Nuko)
+- Mysterious Map vendor fix (Nuko)
+- Special shop name fix (electr0sheep)
 """
-version = "2.3.0.0"
+version = "2.5.0.0"

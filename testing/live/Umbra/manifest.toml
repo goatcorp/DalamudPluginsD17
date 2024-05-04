@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "2ae6b170d7d1540c7b7dea67e2b6b52d24073025"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+- Fixed weather forecast prediction (Thanks Haselnussbomber!)
+"""

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/TalkCopy.git"
+commit = "491b4ea34960dc46f0ffaeeeeabdc777b7b40026"
+owners = ["Glyceri",]
+	changelog = """
+    [0.0.0.2]
+    Renamed Plogon!
+"""

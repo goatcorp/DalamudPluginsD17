@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "4830ad193f2a4a1452537efc8ecd29cfb0c54415"
-changelog = "The target circle feature hasn't been experimental in ages, it's confirmed working perfectly."
+commit = "aaa52ba1a54065346e98596da223962cf8123fc4"
+changelog = "Update for patch 6.58, minor refactoring for new style rules, no functional changes."

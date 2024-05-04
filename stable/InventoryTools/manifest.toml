@@ -1,13 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "be2a8ef9cef105a7fa688dfaad09a898cdaa5b6e"
+commit = "bcec672b06f23c19560c4d31f8dd0cf221c24e18"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.8"
+version = "1.6.2.9"
 changelog = """\
-**Bug fix**
-- Fix crash that occurs due to duplicate item patch data
-- :plofix:
+**Fixes**
+- Stop some game calls being made in the plugin load
+- The armoire should now highlight again
+- The default highlighting colour for tabs was incorrect
+**Improvements**
+- Highlighting now uses the addon lifecycle service provided by Dalamud
+
 """

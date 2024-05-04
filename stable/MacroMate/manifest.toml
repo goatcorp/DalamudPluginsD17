@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/grittyfrog/MacroMate.git"
+commit = "5c7dd83fe2bf0501b602d58c39bbfcf61fdcc5e0"
+owners = ["grittyfrog"]
+project_path = "MacroMate"
+version = "1.0.9.1"
+changelog = """
+- Auto-translate support (copy/paste only, no tab-completion)
+"""

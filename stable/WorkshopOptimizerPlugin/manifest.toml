@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/belzaru17/WorkshopOptimizerPlugin.git"
-commit = "5b76e9291ea459f728fc2f6326c6e43065592df8"
+commit = "07bcc5cfcd8e1a12ec2d90dde40600c3c8b2ba7e"
 owners = ["belzaru17"]
 project_path = "WorkshopOptimizerPlugin"
-changelog = "Updated for 6.4 items and workshops."
+changelog = "Small UI changes."

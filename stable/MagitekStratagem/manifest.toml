@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/meoiswa/MagitekStratagem.git"
+commit = "3eac489d15dbf0daaa02a4db125558acfa5d3316"
+owners = ["meoiswa"]
+project_path = "MagitekStratagem"

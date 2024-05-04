@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
+commit = "a7d452683fa904f5830fed033877bfa5dfa4b33e"
+owners = [
+    "electr0sheep",
+    "Nukoooo",
+]
+project_path = "ItemVendorLocation"
+changelog = """
+- .NET8 update (Nuko)
+- Chat2 support (Nuko + electr0sheep)
+- Correct some NPC ids (Nuko)
+- Significant improvement to loading speed (Nuko)
+- Add an option to be able to highlight selected vendor (Nuko)
+- Make it able to copy vendor info (Nuko)
+- Users can now resize the vendor window (Nuko)
+- Fix GC items don't show up in vendor list on non-English client (Nuko)
+"""
+version = "2.6.0.0"

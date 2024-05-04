@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "69ff776388847692aefa0309300d3535792edda8"
+commit = "47ffac62af3eaa5f578c53309d685e0eee6cdde1"
 owners = ["xorus"]
 changelog = """\
-- Countdown Ticks: option to make them start at a certain time (e.g. only tick 1 to 10 numbers)
-- Updated to api 9
+- Prevent stopwatch window from taking focus when appearing
 """
