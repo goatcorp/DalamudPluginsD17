@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "c5ae3ee133ea000475b23d1d0750d4dc96c88c53"
+commit = "2ae6b170d7d1540c7b7dea67e2b6b52d24073025"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Fixed an issue where the preset apply button would try to import a theme from clipboard.
-- Fixed an issue where the server info bar would not become visible when the toolbar itself was being disabled.
-- Clarified a caveat with the use of main menu icons instead of text using the option description.
+- Fixed weather forecast prediction (Thanks Haselnussbomber!)
 """
