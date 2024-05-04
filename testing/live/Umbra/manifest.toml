@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "85d96976f7d96ded04da430375ba470351d42c0c"
+commit = "4df9add05a818a7b1ba22bc4311990d0749eac7c"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 - Fix main menu cut-off when placed at right side of the toolbar
 - Add an online-status widget
 - Add option to toggle currency label in the toolbar
+- Fixed colors of active/hovered category in settings window
 """
