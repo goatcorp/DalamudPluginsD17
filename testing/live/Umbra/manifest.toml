@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "4df9add05a818a7b1ba22bc4311990d0749eac7c"
+commit = "3ee035ebf37332489cafb55d68ef5a45f1d86ba7"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -8,4 +8,5 @@ changelog = """
 - Add an online-status widget
 - Add option to toggle currency label in the toolbar
 - Fixed colors of active/hovered category in settings window
+- Fixed current weather to also reflect special weather events (Ovni, etc.)
 """
