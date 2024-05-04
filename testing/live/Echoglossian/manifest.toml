@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/lokinmodar/Echoglossian.git"
+commit = "80c4620a1741e60a8286ea08b31a1e6dd4963c38"
+owners = [
+    "lokinmodar",
+]
+changelog = "Added option to translate Quests and Journal(thanks to samulopez) and API10 related fixes"
