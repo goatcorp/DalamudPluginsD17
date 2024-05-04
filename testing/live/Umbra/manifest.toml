@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "433a6e056369b21ff2361e0c1eda693b67ccfb9f"
+commit = "85d96976f7d96ded04da430375ba470351d42c0c"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Increase the toolbar margin limits
-- Add Toolbar Layout Editor
+- Fix main menu cut-off when placed at right side of the toolbar
+- Add an online-status widget
+- Add option to toggle currency label in the toolbar
 """
