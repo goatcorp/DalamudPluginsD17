@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "3ee035ebf37332489cafb55d68ef5a45f1d86ba7"
+commit = "39d19fe2336fbe9c87e2818be8af907e33b48af5"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -9,4 +9,5 @@ changelog = """
 - Add option to toggle currency label in the toolbar
 - Fixed colors of active/hovered category in settings window
 - Fixed current weather to also reflect special weather events (Ovni, etc.)
+- Fixed gaps between elements when global font scaling is used
 """
