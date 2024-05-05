@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "fa4928e63fa45bc034eb4fa291863319403805a3"
+commit = "6d7038fe1b3328e95da0c2b3eb4acbebcce21342"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Fix bug where GP tick would be halted incorrectly while fishing.
+- Stop bar windows from stealing focus.
 """
