@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "1bb4e2eb364bcc45c2200ce0ae30685894a3f6a5"
+commit = "20c5c053f1e143993fd2946f2ac6281aa5a4c71e"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Add scrolling container to the gearset switcher groups with configurable heights
-- Add an isolated UI scaling option for all Umbra elements that works separately from Dalamud's global font scaling. You can find this option under General Settings.
+ - Added separate customizable clock widgets
+ - Removed the horizontal view from the old clock widget
+ - Slightly adjusted font sizes for better readability
+ - Sub-categories in the settings window are now collapsible
+ - Fixed missing Gearset Switcher options in settings window
 """
