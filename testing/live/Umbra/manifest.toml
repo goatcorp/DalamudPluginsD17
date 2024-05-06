@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "2ae6b170d7d1540c7b7dea67e2b6b52d24073025"
+commit = "693b4c85fd00557ccbb3f66800d3dd78604434fb"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Fixed weather forecast prediction (Thanks Haselnussbomber!)
+ - Hotfix for wrong server time display in the new ST time widget
 """
