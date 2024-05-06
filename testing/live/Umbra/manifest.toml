@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "20c5c053f1e143993fd2946f2ac6281aa5a4c71e"
+commit = "693b4c85fd00557ccbb3f66800d3dd78604434fb"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
- - Added separate customizable clock widgets
- - Removed the horizontal view from the old clock widget
- - Slightly adjusted font sizes for better readability
- - Sub-categories in the settings window are now collapsible
- - Fixed missing Gearset Switcher options in settings window
+ - Hotfix for wrong server time display in the new ST time widget
 """
