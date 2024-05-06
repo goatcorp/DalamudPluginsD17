@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "39d19fe2336fbe9c87e2818be8af907e33b48af5"
+commit = "1bb4e2eb364bcc45c2200ce0ae30685894a3f6a5"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Fix main menu cut-off when placed at right side of the toolbar
-- Add an online-status widget
-- Add option to toggle currency label in the toolbar
-- Fixed colors of active/hovered category in settings window
-- Fixed current weather to also reflect special weather events (Ovni, etc.)
-- Fixed gaps between elements when global font scaling is used
+- Add scrolling container to the gearset switcher groups with configurable heights
+- Add an isolated UI scaling option for all Umbra elements that works separately from Dalamud's global font scaling. You can find this option under General Settings.
 """
