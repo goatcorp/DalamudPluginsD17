@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "693b4c85fd00557ccbb3f66800d3dd78604434fb"
+commit = "304430097ed13f19ae798ed3df18cdc84bd788ad"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
- - Hotfix for wrong server time display in the new ST time widget
+ - Add right-click option to the Online Status widget to open the Social Window
+ - Add mentor statuses to the Online Status widget menu
 """
