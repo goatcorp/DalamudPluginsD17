@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "f6d891b19579571f9aff926375539209319bf7cb"
+commit = "459976dd20d11be42a978eca47a60e2418b25d11"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
  - Add right-click option to the Online Status widget to open the Social Window
  - Add mentor statuses to the Online Status widget menu
  - Updated the Stacked Clock widget to respect all clock-related settings
+ - Add options to toggle default label and icon for the currencies widget
 """
