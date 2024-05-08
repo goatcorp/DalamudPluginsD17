@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "459976dd20d11be42a978eca47a60e2418b25d11"
+commit = "0b7891ee0f1a4918d62174f52e86bf99931840e1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
+ - Add visibility options for combat & duties
+ - Add (optional) auto-hide functionality
+ - Add (optional) shadow aestehtics to the toolbar
  - Add right-click option to the Online Status widget to open the Social Window
  - Add mentor statuses to the Online Status widget menu
  - Updated the Stacked Clock widget to respect all clock-related settings
