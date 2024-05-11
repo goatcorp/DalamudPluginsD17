@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://gitlab.com/moonfox-projects/simpletodo.git"
-commit = "ad9e310df0c568a7ad35114b7b0caa72713d4d2d"
+commit = "cabb8b5258d2733bc5d8b1ca4e415e03e563087c"
 owners = ["Lunalicious"]
 project_path = "SimpleTodo"
-changelog = "Better Localisation system and small internal changes"
+changelog = "Better Localisation and some internal changes"
