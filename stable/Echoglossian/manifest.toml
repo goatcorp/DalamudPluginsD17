@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "80c4620a1741e60a8286ea08b31a1e6dd4963c38"
+commit = "0a3e7731834a1933f9c19010d56940f08b174051"
 owners = [
     "lokinmodar",
 ]
-changelog = "Added option to translate Quests and Journal(thanks to samulopez)"
+changelog = "Fix - Duty Objectives translation logic"
