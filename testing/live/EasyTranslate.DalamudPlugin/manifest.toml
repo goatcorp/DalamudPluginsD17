@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "021bf6b70b7858b6088ab86812fbccf1a125d8d8"
+commit = "dcddfcdf8716a34664ac3dab65be7b789d1daa48"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
-- .NET 8 upgrade
-- Use IContextMenu api
+Use game data for search instead of XIVApi
 """
