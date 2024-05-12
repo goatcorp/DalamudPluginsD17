@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://gitlab.com/moonfox-projects/simpletodo.git"
-commit = "cabb8b5258d2733bc5d8b1ca4e415e03e563087c"
+commit = "1fff493879266f54b0d9da672d0993b13cbcd225"
 owners = ["Lunalicious"]
 project_path = "SimpleTodo"
-changelog = "Better Localisation and some internal changes"
+changelog = "Allow language overriding, independently of game language"
