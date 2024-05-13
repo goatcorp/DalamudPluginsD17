@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "d47cd5fc3247ded840525a7a4a8c7015fd265a81"
+commit = "d7ae36258a8bb4dcd5b6e80bd1f8a649ba146dcd"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.10.0"
+version = "1.0.10.1"
 changelog = """
-- Add 'Player Condition' condition
-- Show current conditions when hovering on condition name
+- Fix crash when using 'run' in the Macro window under certain conditions
 """
