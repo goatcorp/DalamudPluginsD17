@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "b8be4d9e146242e432637fbffc0d9c2565494a53"
+commit = "3d9f5ed41e4eb933d59e8f2d839b0b36374fa536"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
 changelog = "Big Update! This plugin now tracks mitigation that is targeted on an enemy. I also now track Provokes, shirks, and much more! Please report any issues through feedback!"
