@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "d7ae36258a8bb4dcd5b6e80bd1f8a649ba146dcd"
+commit = "380dbe0af89f668d90da6aa941de5ef69165c14b"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.10.1"
+version = "1.0.10.2"
 changelog = """
-- Fix crash when using 'run' in the Macro window under certain conditions
+- No longer triggers config file writes when setting macros
 """
