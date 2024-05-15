@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "380dbe0af89f668d90da6aa941de5ef69165c14b"
+commit = "3b13ff18cdd900ae507dfe6b942188055fb37cea"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.10.2"
+version = "1.0.10.3"
 changelog = """
-- No longer triggers config file writes when setting macros
+- Fix significant performance issue
 """
