@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "dabc3e9c74f896fda2cfce5c13db6ee25dded377"
+commit = "3cd089f43d2ebba89f11d82b552b0637a67d606a"
 owners = [
     "Critical-Impact",
 ]
