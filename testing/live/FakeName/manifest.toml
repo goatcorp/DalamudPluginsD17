@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/ArchiDog1998/FakeName.git"
+commit = "408cf4886d34214df84922f6bf359ae8103afa9e"
+owners = ["ArchiTed"]
+project_path = "FakeName"
+changelog = """
+ - Initial release
+"""
