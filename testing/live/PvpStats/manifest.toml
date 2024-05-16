@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "3748186a6554200c512ef369d7a1f828244cd098"
+commit = "c3abdb22823584ebba61bfd4e66f2b8951186753"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Initial release of Frontline tracking. Type /flstats to check it out.
-* Fixed job filter not working on PLD.
-* Adjusted match details window to look better with non-standard font scales.
-* Fairly significant code re-factoring.
+* Added Summary and profile tabs to Frontline tracker.
+* Added team contribution stats to Frontline match details windows.
+* Fixed Frontline CSV buttons.
+* Added color config options for Frontline teams.
+* Fixed Frontline retentive filters loading from the Crystalline Conflict configuration.
 """
