@@ -4,5 +4,5 @@ commit = "dcddfcdf8716a34664ac3dab65be7b789d1daa48"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
-Use game data for search instead of XIVApi
+Initial Stable Release
 """
