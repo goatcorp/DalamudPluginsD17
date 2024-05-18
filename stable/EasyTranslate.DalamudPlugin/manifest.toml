@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "dcddfcdf8716a34664ac3dab65be7b789d1daa48"
+commit = "b33bd881f25a9d98daa6566060e666cdc86914a3"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
-Initial Stable Release
+- Improved search performance.
+- Now show the content type of the search result (ex: Action, Fate, Quest, etc...)
 """
