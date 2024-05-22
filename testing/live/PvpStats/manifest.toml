@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "3167721ba18476bbd6be23d9ebe7b26b87e45f0c"
+commit = "c3abdb22823584ebba61bfd4e66f2b8951186753"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added match duration and spectated filters.
-* Added match caching (enabled by default) for better refresh performance.
-* Player riser tracking *should* work with all languages now.
-* Centered result and job text on matches tab.
-* Added ko-fi button :3
+* Added Summary and profile tabs to Frontline tracker.
+* Added team contribution stats to Frontline match details windows.
+* Fixed Frontline CSV buttons.
+* Added color config options for Frontline teams.
+* Fixed Frontline retentive filters loading from the Crystalline Conflict configuration.
 """
