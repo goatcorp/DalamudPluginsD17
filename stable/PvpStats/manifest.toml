@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "7cf1c8795aaa7c99b12b58bf9f8ec95325c5f157"
+commit = "c3abdb22823584ebba61bfd4e66f2b8951186753"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
--Fix for window size being small on first open.
+* Added match caching for increased performance.
+* Added Frontline support.
 """

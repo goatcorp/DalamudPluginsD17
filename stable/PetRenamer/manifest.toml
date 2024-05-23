@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0fe2804f4ea6767367f0ad2394d8faad619a0066"
+commit = "4fe635152b39c4d3eaba9a7000a1cb95a3d95171"
 owners = ["Glyceri"]
 	changelog = """
-    [1.4.8.4]
-    .Net8 Bump
-    Fixed profile pictures not redownloading.
+    [1.4.8.6]
+    Fixes an issue related to new alt accounts not working.
 """

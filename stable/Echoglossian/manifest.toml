@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "4e66d1a87fca577bfe6d6b04b6b0ccf86ce91253"
+commit = "0a3e7731834a1933f9c19010d56940f08b174051"
 owners = [
     "lokinmodar",
 ]
-changelog = "API9 related fixes"
+changelog = "Fix - Duty Objectives translation logic"

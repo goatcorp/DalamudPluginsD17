@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "3b41107b7bad7d4125357f2a0e629e42fc4eacbc"
+commit = "d480a9305c8d4e2cc61d48bf6aca0fbc7b5b1d70"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added support for the \"new\" Dalamund Fonts API."
+changelog = "- The Escape key can now be used to close a ring with a toggable keybind.\n- Added a setting for rings with toggable keybinds to not execute the hovered action when closed."

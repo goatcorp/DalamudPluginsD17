@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "b361daa9fd4157b162992dc1af808bb083616f5a"
+commit = "6d7038fe1b3328e95da0c2b3eb4acbebcce21342"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Added an alternative tick indicator that uses the native ui.
-- NET8 update
+- Stop bar windows from stealing focus.
 """
