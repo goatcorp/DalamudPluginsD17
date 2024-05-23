@@ -2,5 +2,5 @@
 repository = "https://github.com/serifas/InfiniteRoleplay.git"
 commit = "230b38a05aeb2b17e89aa58b2ade046e658b23aa"
 owners = ["serifas"]
-project_path = "Infinite Roleplay"
+project_path = "InfiniteRoleplay"
 changelog = "Initial Release"
