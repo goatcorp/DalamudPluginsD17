@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "0a3e7731834a1933f9c19010d56940f08b174051"
+commit = "68c7d535aeb85606df8f54885adddf2c7ebd67e1"
 owners = [
     "lokinmodar",
 ]
-changelog = "Fix - Duty Objectives translation logic"
+changelog = "Added Deepl Translation Engine (thanks again to @samulopez)"
