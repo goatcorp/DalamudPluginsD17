@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "e9e9314035db4856bd4d31418cfd21eebdec514e"
-owners = [
-    "lokinmodar",
-]
-changelog = "Added Deepl Translation Engine (thanks again to @samulopez)"
