@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "4fe635152b39c4d3eaba9a7000a1cb95a3d95171"
+commit = "dc0d54cf94d9083cde30d58f1d21bc7f96bd9ad9"
 owners = ["Glyceri"]
 	changelog = """
-    [1.4.8.6]
-    Fixes an issue related to new alt accounts not working.
+    [1.4.8.8]
+    PetRenamer.GameObjectRenameDict is now available for other plogons to use!
 """
