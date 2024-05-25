@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "08aa4ee40e72e422769c15f88c9a95b6cf26aee3"
+commit = "d46bad5af0e0fb96ef2688eefa12a808723c9750"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Fixed the plugin \"No GST\" feature (Universalis API changes)"
+changelog = "- Reworked charts that are actually usable\n- Fixed font handling and missing glyphs\n-Fixed GUI dynamic sizing\n- .NET 8 build\n"
