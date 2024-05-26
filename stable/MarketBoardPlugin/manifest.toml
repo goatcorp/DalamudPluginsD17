@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "d46bad5af0e0fb96ef2688eefa12a808723c9750"
+commit = "081942576ae8d715e4b822f05d45518bc71d75d4"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Reworked charts that are actually usable\n- Fixed font handling and missing glyphs\n-Fixed GUI dynamic sizing\n- .NET 8 build\n"
+changelog = "- Implement favorite item list\n- Handle potential errors while fetching market data"
