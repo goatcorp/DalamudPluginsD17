@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "0d4288fced8eb2d0c481eaab271b9b8efeefecaa"
+commit = "fa80a2cf954d9b86830b1a4221daff1c6fdd6850"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Added an option to auto-close the gearset switcher when changing gearsets
-- Fixed thousands separator for clients that use NNBSP in the Currency Widget
-- Fixed the overflow container shadow effect not scaling with custom UI scale
-- Fixed & Added localization for Volume, World Marker, and Gearset widgets
-- Fixed the clock widgets showing the wrong prefix icon if the language in Umbra has been overridden.
-- Fixed the district name in the location widget to be faster and match in-game names.
+- Reworked the drawing backend.
+- OOBE window on first launch.
+- A brand new widget system.
+- Config and color profiles.
+- Individual world marker customization.
+- A metric ton of customization options.
 """
