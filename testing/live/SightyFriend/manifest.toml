@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Saladeuh/FFXIV-SightyFriend.git"
+commit = "7f30b4ccf1b140efc668c40938ed3c06e39e544b"
+owners = [
+    "Saladeuh",
+]
+project_path = "SightyFriend"
+changelog = """SightyFriend :
+  - Participate to a paths database to help blind players to navigate in the world.
+"""
