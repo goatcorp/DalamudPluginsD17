@@ -1,23 +1,23 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "7e106ffc0d72111d40535449168af58eff5c5efa"
+commit = "9cc89f3beeef93bfe3106790fdf34be53737157e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.1"
+version = "1.7.0.2"
 changelog = """\
-**Allagan Tools 1.7.0.1**
+**Allagan Tools 1.7.0.2**
 - Thanks for all the bug reports, as this is a rework they are to be expected, hopefully I've gotten the most obvious ones
 
 **Fixes:**
-- Lists would sometimes not update on login
-- Changing tab would not refresh the highlighting if it was active
-- Opening a single list with /openlist now works
-- Hotkeys for windows will toggle instead of just opening
-- Highlighting should mostly work now
-- The filter bar in lists were sharing a common object that cached what the user had typed meaning whatever you typed in one column filter would show up in all other columns of that type, this has been fixed
-- Boolean columns now use a dropdown instead of a checkbox
-- The filters window was not being removed from the open windows list making it come up on plugin load
-
+- Craft lists would ignore items in your inventory sometimes
+- Crafting items would not reduce the number in the craft list even if it was active
+- The sample filters added by the wizard now have the correct settings
+- All numeric filters now have a tooltip explaining the operators that can be used
+- Adding a new list from the item lists window will actually open the configuration window and edit the list properly
+- Removed the history notification as the configuration wizard takes care of it
+- Fixed an issue with filters showing filters in a category as having been modified when they weren't
+- Fixed a race issue on dispose of the plugin
+- Stopped certain fields from being serialized in the config
 """
