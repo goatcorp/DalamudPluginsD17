@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0018c2fa00d01da572608756b3fd1ba9dd78a70f"
+commit = "ab5982083893b133abe24192c4a0fc95b1b1004f"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added Rival Wings support.
+* Added tooltip to leave duty button when it is disabled.
+* Fix for cumbersome headers on Rival Wings match details window.
 """
