@@ -4,3 +4,4 @@ commit = "683dcaec4ea9bbfabd486b2d235a0d8626a8603e"
 owners = [ "aleysos115" ]
 changelog = "Initial version"
 version = "1.0.0"
+project_path = "FFXIVTextHooker"
