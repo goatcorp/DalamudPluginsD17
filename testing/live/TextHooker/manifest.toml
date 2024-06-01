@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/aleysos115/FFXIVTextHooker.git"
-commit = "683dcaec4ea9bbfabd486b2d235a0d8626a8603e"
+commit = "cce3b2645b032bb9992ab7726c7930001715b4d7"
 owners = [ "aleysos115" ]
 changelog = "Initial version"
 version = "1.0.0"
