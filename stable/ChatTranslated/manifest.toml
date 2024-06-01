@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "78eb4c6c7a0c101a3be48c86dbf000c2d802d80e"
+commit = "45172f072b408e3a66369441617951abd0e6e4d2"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
+Add text wrapping to main window and fix bugs.
+Remove Korean support as it cannot be rendered in game.
+Add reverse translation when translating in main window.
 New localization strings.
 """
 [plugin.secrets]
