@@ -1,23 +1,15 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "9cc89f3beeef93bfe3106790fdf34be53737157e"
+commit = "94ca133440b5d23b84c678c8d301e8d637791c7a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.2"
+version = "1.7.0.3"
 changelog = """\
-**Allagan Tools 1.7.0.2**
-- Thanks for all the bug reports, as this is a rework they are to be expected, hopefully I've gotten the most obvious ones
+**Allagan Tools 1.7.0.3**
+- This will be the last testing release before this gets released fully
 
 **Fixes:**
-- Craft lists would ignore items in your inventory sometimes
-- Crafting items would not reduce the number in the craft list even if it was active
-- The sample filters added by the wizard now have the correct settings
-- All numeric filters now have a tooltip explaining the operators that can be used
-- Adding a new list from the item lists window will actually open the configuration window and edit the list properly
-- Removed the history notification as the configuration wizard takes care of it
-- Fixed an issue with filters showing filters in a category as having been modified when they weren't
-- Fixed a race issue on dispose of the plugin
-- Stopped certain fields from being serialized in the config
+- The sort parser would sometimes not fire on client login/logout causing no inventory updates to occur
 """
