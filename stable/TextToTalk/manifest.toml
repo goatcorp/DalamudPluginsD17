@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b05d443c46f3cae64347b887fe0b50857a28b017"
+commit = "933967ee3903710a4190d55e181a86deb4c16f2b"
 project_path = "src"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Adds `PayloadTemplate` to the message payload (check the README for more details)
+- **General**: Creates a new voice preset config instead of erroring when voice presets are corrupted.
+- **General**: Adds notifications for WebSocket load errors and no-preset warnings.
+- **VoiceUnlocker**: Fixes VoiceUnlocker path again.
 """
