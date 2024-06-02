@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "374754bdadc7f968511b057fc8c10774209427e0"
+commit = "3e4e94e1ebbd4fceefc48945ebf93145aa862234"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
@@ -8,4 +8,6 @@ changelog = """
 * Added average scoreboard performance to the Frontline Tracker Summary tab.
 * Increased size of font used for alliance letters on Rival Wings match details window.
 * Changed sizing of columns in manual player links table.
+* Added result filter to Frontline tracker.
+* Fixed an exception on the credit graph when filtering by result.
 """
