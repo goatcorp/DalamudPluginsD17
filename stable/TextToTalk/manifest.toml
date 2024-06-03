@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
 commit = "933967ee3903710a4190d55e181a86deb4c16f2b"
-project_path = "src"
+project_path = "src/TextToTalk/TextToTalk.csproj"
 owners = ["karashiiro"]
 changelog = """\
 - **General**: Creates a new voice preset config instead of erroring when voice presets are corrupted.
