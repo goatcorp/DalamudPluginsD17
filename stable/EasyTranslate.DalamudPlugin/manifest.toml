@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "4029165eeaf42b51930e41f7c2fbd5d923ae9b97"
+commit = "2bd991a4ad4fbf0db9eef6c0d0d4c892d1e602d1"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
-- Fixed bug where the japanese Action names were actually in german
+- Updated description and added website link
 """
