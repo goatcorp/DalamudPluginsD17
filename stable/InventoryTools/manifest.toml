@@ -1,17 +1,35 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bcec672b06f23c19560c4d31f8dd0cf221c24e18"
+commit = "94ca133440b5d23b84c678c8d301e8d637791c7a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.9"
+version = "1.7.0.4"
 changelog = """\
-**Fixes**
-- Stop some game calls being made in the plugin load
-- The armoire should now highlight again
-- The default highlighting colour for tabs was incorrect
-**Improvements**
-- Highlighting now uses the addon lifecycle service provided by Dalamud
+**Allagan Tools 1.7 - Reworked**
+- With this version comes an entirely reworked internal structure, which should give a much more reliable base for any new features I decide to add. To go along with the new internals are:
+
+**New Features:**
+- All columns can now be renamed and some can be configured, multiple copies of the same column can be added
+- The market integration now supports multiple worlds, associated columns and craft lists can be configured to pick which worlds are applicable to you
+- The more information window has a market tab listing the current prices
+- Configuration wizard for when you first install the plugin and if you choose when new features come out
+- Buy/craft/gather button columns added
+- Favourites column added
+- Add to craft list context menu added
+- The plugin can be opened when not logged in
+- A icon can be added to the main dalamud menu for easy access
+
+
+**Changes:**
+- Filters are now called Lists so there are Item Lists and Craft Lists
+- Settings menus reworked
+- Support .net 8(finally)
+
+**Removed:**
+- Some of the older Inventory Tools specific slash commands
+
+Thanks to all the testers for their bug reports and patience <3
 
 """
