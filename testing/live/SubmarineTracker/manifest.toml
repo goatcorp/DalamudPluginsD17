@@ -1,11 +1,7 @@
 [plugin]
 repository = "https://github.com/Infiziert90/SubmarineTracker.git"
-commit = "ede11b285ba69c470e6a589925dd52c898da4d1d"
+commit = "87021188526b712c175f9db8e8bdace616777e9c"
 owners = [
     "Infiziert90",
 ]
 project_path = "SubmarineTracker"
-changelog = """
-[Builder]
-+ Show min requirements correctly 
-"""
