@@ -1,35 +1,24 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "94ca133440b5d23b84c678c8d301e8d637791c7a"
+commit = "4e7247ceb2dbcfc132e49858a2477429de1741b8"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.4"
+version = "1.7.0.5"
 changelog = """\
-**Allagan Tools 1.7 - Reworked**
-- With this version comes an entirely reworked internal structure, which should give a much more reliable base for any new features I decide to add. To go along with the new internals are:
+**Allagan Tools 1.7.0.5**
+- Thanks for all the bug reports! Please head over to #plugin-help-forum or submit feedback if you are still having issues
 
-**New Features:**
-- All columns can now be renamed and some can be configured, multiple copies of the same column can be added
-- The market integration now supports multiple worlds, associated columns and craft lists can be configured to pick which worlds are applicable to you
-- The more information window has a market tab listing the current prices
-- Configuration wizard for when you first install the plugin and if you choose when new features come out
-- Buy/craft/gather button columns added
-- Favourites column added
-- Add to craft list context menu added
-- The plugin can be opened when not logged in
-- A icon can be added to the main dalamud menu for easy access
+**New Features**
+Add to Active Craft List context menu feature added
+Next uptime column added
 
 
-**Changes:**
-- Filters are now called Lists so there are Item Lists and Craft Lists
-- Settings menus reworked
-- Support .net 8(finally)
-
-**Removed:**
-- Some of the older Inventory Tools specific slash commands
-
-Thanks to all the testers for their bug reports and patience <3
-
+**Fixes**
+Certain columns were not being saved/loaded properly when added to lists
+The tooltip footer/header were not showing up in the correct position
+The add to craft list context menu was showing up regardless of wanting it or not
+When adding an item from certain windows to a craft list, no item would be added
+When closing the crafts window, the active list will disable properly(assuming no other list window is open)
 """
