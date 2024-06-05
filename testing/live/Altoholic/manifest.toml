@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "85443b815c2ac886b3046d11b666bb33a9c975cf"
+commit = "487b2d1f6786a61d08679884a1aa57e9722951a3"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Initial version"
+changelog = "Details tab potential crash backport fix"
