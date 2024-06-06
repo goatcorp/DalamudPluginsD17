@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "2463196bf32102be17cde4662e09245807c02a43"
+commit = "46131e71b4b870155ffad5b7b3f99d5be2c1e48d"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Creates a new voice preset config instead of erroring when voice presets are corrupted.
-- **General**: Adds notifications for WebSocket load errors and no-preset warnings.
-- **General**: Adds Google Cloud voice backend (thanks kaxlabs!)
-- **General**: Adds OpenAI voice backend (thanks PassiveModding!)
-- **VoiceUnlocker**: Fixes VoiceUnlocker path again.
-- **WebSocket**: Adds race and body type to the message payload (thanks Cidan!)
+- **VoiceUnlocker**: Fixes VoiceUnlocker failing to run due to not being distributed with the plugin.
 """
