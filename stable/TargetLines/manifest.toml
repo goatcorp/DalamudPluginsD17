@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "5c4e038244cc6d9543f809d8c8cac30019f37f8f"
+commit = "afa643a240e655d376577960a47a1d8a12373555"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Updated for 6.5
-- Updated for API9
-- Minor fixes
+- UI occlusion now checks for line intersections, so there should no longer be segments appearing if it's rect overlaped a UI element, but did not intersect it under certain circumstances
+- Fixed a bug which would cause the end cap to have the wrong opacity when 'Fade to End' is enabled
+- Adjusted the rendering of the end caps so they appear uniform
+- Fixed issue where the first/third person transition for lines which target or source the player would appear disjointed
+- Minor optimizations in the broad phase of UI occlusion
 """
 

@@ -1,22 +1,5 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "35fdfcc7b5a876888f169de3cdd7dac459697806"
-owners = [
-    "meoiswa"
-]
+commit = "ed2da8d354d6f67fac1b0333f5e1095c54da1002"
+owners = ["meoiswa"]
 project_path = "ClarityInChaos"
-changelog = """
-Version 1.2.0.0:
- - UI Polish pass
-  - Active section's header now renders in green
-  - Current BattleEffects now render in varying colors
- - No longer renders in-game Battle Effects settings unusable
-  - Changes to in-game Battle Effects settings apply to the active section
-  - Also applies to `/bfx` commands
- - Saved In-Game Settings (previously known as Backup) is now a configurable section
- - Restores Saved In-Game Settings when disabled or uninstalled
- - Removed superfluous Debug option "Print to chat"
-
-Version 1.2.0.1:
- - Fixed: Applicable section gets overwritten with In-Game Settings on startup
-"""

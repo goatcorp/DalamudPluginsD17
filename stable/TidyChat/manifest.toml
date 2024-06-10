@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "d49ba4efb0b512487089799a39eb8a74d5d46ac9"
+commit = "863ea736db86548fc37820d5593423f6de122d5a"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Fix Emotes filter"
+changelog = "Fixed a logic error with tracking blocked messages and potentially a cause of frame drops during combat under specific conditions."

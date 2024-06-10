@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
+commit = "803e9f95a8b4db5003570cd4c71a1d6e0f58f3fc"
+owners = ["Maia-Everett"]
+project_path = "Snooper"
+version = "1.1.0.0"
+changelog = """
+* New feature: Chat logs are now saved to My Documents/Snooper Logs by default (can be disabled or changed). (#8, #17)
+* New feature: Chat logs can now be copied to clipboard from Snooper windows. (#17)
+* The "+" button for the main window has been moved to the bottom toolbar to save space.
+* The bottom toolbar for the main window now includes a button to open plugin settings.
+* Fixed a bug where your own party messages were not displayed in Snooper windows including you. (#5)
+* Fixed a bug with settings not saving (#7).
+"""

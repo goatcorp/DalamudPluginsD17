@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/wrath16/MapPartyAssist.git"
+commit = "58096bb4b399f3199b8c36ed397287376af0ba43"
+owners = ["wrath16"]
+project_path = "MapPartyAssist"
+changelog = """
+- Bug fixes.
+- Added collapse filters button.
+"""

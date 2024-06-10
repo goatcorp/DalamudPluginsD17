@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/wrath16/PvpStats.git"
+commit = "c3abdb22823584ebba61bfd4e66f2b8951186753"
+owners = ["wrath16"]
+project_path = "PvpStats"
+changelog = """
+* Added match caching for increased performance.
+* Added Frontline support.
+"""

@@ -1,13 +1,24 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "be2a8ef9cef105a7fa688dfaad09a898cdaa5b6e"
+commit = "4e7247ceb2dbcfc132e49858a2477429de1741b8"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.8"
+version = "1.7.0.5"
 changelog = """\
-**Bug fix**
-- Fix crash that occurs due to duplicate item patch data
-- :plofix:
+**Allagan Tools 1.7.0.5**
+- Thanks for all the bug reports! Please head over to #plugin-help-forum or submit feedback if you are still having issues
+
+**New Features**
+Add to Active Craft List context menu feature added
+Next uptime column added
+
+
+**Fixes**
+Certain columns were not being saved/loaded properly when added to lists
+The tooltip footer/header were not showing up in the correct position
+The add to craft list context menu was showing up regardless of wanting it or not
+When adding an item from certain windows to a craft list, no item would be added
+When closing the crafts window, the active list will disable properly(assuming no other list window is open)
 """

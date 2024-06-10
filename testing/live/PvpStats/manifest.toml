@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/wrath16/PvpStats.git"
+commit = "fb596d685b727feecb79426e51ae4f8b3abbab31"
+owners = ["wrath16"]
+project_path = "PvpStats"
+changelog = """
+* Fix for a bug that can result in a player being trapped inside a duty.
+"""

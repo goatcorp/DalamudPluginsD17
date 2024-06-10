@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "d96e3111b5d8a576080da53667fae8a7b792a77b"
+commit = "d651380c76cb90cb7317651d756680e557d82b3d"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Updated for API 9 (patch 6.5), and added a `/whostalking` command to open the plugin settings. Also fixed a mostly-hypothetical memory leak, and (hopefully) removed some overly-verbose error logging.
+**Version 0.6.9.0**
+
+Adds a warning when certain custom Discord clients (those using arRPC) are detected. Who's Talking can't work with these clients, because they don't implement the feature that lets other applications see when you're in a voice channel.
+
+A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
 """
