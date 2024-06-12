@@ -2,7 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "95708885af6d7b1148acf70c276722a3d97b7d04"
+commit = "863963cfecdd0392166e20702d3262698868292e"
 changelog = """
-Bugfix: Fixes being unable to add new gear sets
-    User Interface: Add job selection (for BiS and item selection) to gear set edit user interface"""
+System: Changes to data storage (drops support for data from versions < 1.4.0)
+    User Interface: New interface for searching characters from database
+    General: Fix "Dmg" Calc being slightly off
+    User Interface: Some minor Ui improvements"""
