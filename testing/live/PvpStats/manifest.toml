@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "352dd972a2c4fe992f76d7db4d8457732ebe77ab"
+commit = "b480e0422616038d2aea3e44e2014ab73f0ded01"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added peak Battle High tracking to Frontline matches.
-* Added peak Battle High and alliance columns to FL match details player stats table.
-* Added filtering by team to FL and RW match details windows.
-* Right aligned numeric columns in CC, FL and RW match detail player stats tables.
-* Added background image to FL match details window.
+* Right-aligned all numeric values in summary and player/job tables.
+* Removed window max size constraints.
 """
