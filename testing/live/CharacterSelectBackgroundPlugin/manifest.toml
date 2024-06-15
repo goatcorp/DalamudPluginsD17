@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/RokasKil/CharacterSelectBackgroundPlugin.git'
-commit = '9d3d9f69370526496d0113bbad55e769538527f3'
+commit = '96ca5aaf6a3ddb5798acbfd034de985bff09af74'
 owners = [ 'RokasKil' ]
 project_path = 'CharacterSelectBackgroundPlugin'
 changelog = """
