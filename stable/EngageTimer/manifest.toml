@@ -1,7 +1,9 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "47ffac62af3eaa5f578c53309d685e0eee6cdde1"
+commit = "1cf2e08b5837cdc7cbd7a1a92ae6b45a9c477af3"
 owners = ["xorus"]
 changelog = """\
-- Prevent stopwatch window from taking focus when appearing
+- Fix not being able to disable alarms
+- Missing translation strings in web server config
+- Hide floating window border by default (you can re-enable it in Floating Window -> styling)
 """
