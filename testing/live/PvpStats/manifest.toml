@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "c3abdb22823584ebba61bfd4e66f2b8951186753"
+commit = "b480e0422616038d2aea3e44e2014ab73f0ded01"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added Summary and profile tabs to Frontline tracker.
-* Added team contribution stats to Frontline match details windows.
-* Fixed Frontline CSV buttons.
-* Added color config options for Frontline teams.
-* Fixed Frontline retentive filters loading from the Crystalline Conflict configuration.
+* Right-aligned all numeric values in summary and player/job tables.
+* Removed window max size constraints.
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b05d443c46f3cae64347b887fe0b50857a28b017"
-project_path = "src"
+commit = "46131e71b4b870155ffad5b7b3f99d5be2c1e48d"
+project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Adds `PayloadTemplate` to the message payload (check the README for more details)
+- **VoiceUnlocker**: Fixes VoiceUnlocker failing to run due to not being distributed with the plugin.
 """

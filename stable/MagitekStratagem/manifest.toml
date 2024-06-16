@@ -1,5 +1,18 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "3eac489d15dbf0daaa02a4db125558acfa5d3316"
+commit = "ac2db895eb2efadab7936f940f125418d497f56b"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
+changelog = """
+
+Version 0.4.0.0:
+ - New: Adding Calibration points to fine-tune tracking beyond what Tobii Game Hub allows.
+ - Fixed: Circle Targetting on keyboard should now work properly.
+ 
+ - ⚠️Experimental Plugin⚠️ merely a proof of concept.
+ - Tobii Eyetracker integration for FFXIV.
+ - Enables Gaze-at-object target aquisition. 
+ - Supports overriding Tab Target (Enemy) and Soft Target (Target Cursor)
+ - Works best for Gamepad users, but is compatible with KB&M
+ - Requires Tobii Game Hub to be installed.
+"""

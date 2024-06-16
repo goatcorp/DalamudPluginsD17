@@ -1,23 +1,15 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "7e106ffc0d72111d40535449168af58eff5c5efa"
+commit = "94ca133440b5d23b84c678c8d301e8d637791c7a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.1"
+version = "1.7.0.3"
 changelog = """\
-**Allagan Tools 1.7.0.1**
-- Thanks for all the bug reports, as this is a rework they are to be expected, hopefully I've gotten the most obvious ones
+**Allagan Tools 1.7.0.3**
+- This will be the last testing release before this gets released fully
 
 **Fixes:**
-- Lists would sometimes not update on login
-- Changing tab would not refresh the highlighting if it was active
-- Opening a single list with /openlist now works
-- Hotkeys for windows will toggle instead of just opening
-- Highlighting should mostly work now
-- The filter bar in lists were sharing a common object that cached what the user had typed meaning whatever you typed in one column filter would show up in all other columns of that type, this has been fixed
-- Boolean columns now use a dropdown instead of a checkbox
-- The filters window was not being removed from the open windows list making it come up on plugin load
-
+- The sort parser would sometimes not fire on client login/logout causing no inventory updates to occur
 """

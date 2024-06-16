@@ -1,17 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bcec672b06f23c19560c4d31f8dd0cf221c24e18"
+commit = "18b93c4dc76b53dfd752efdc1bb9efe239cd2e08"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.9"
+version = "1.7.0.6"
 changelog = """\
-**Fixes**
-- Stop some game calls being made in the plugin load
-- The armoire should now highlight again
-- The default highlighting colour for tabs was incorrect
-**Improvements**
-- Highlighting now uses the addon lifecycle service provided by Dalamud
+**Allagan Tools 1.7.0.6**
 
+**New Features**
+Added Ephemeral & Hidden Node columns/filters
+
+**Bug Fixes**
+Certain items were showing as being collected from ephemeral nodes when they were not
+Columns in the columns/craft columns picker will be in alphabetical order
 """
