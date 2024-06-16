@@ -3,5 +3,6 @@ repository = "https://github.com/lmcintyre/DamageInfoPlugin.git"
 commit = "d4cac541e9a5a027fe14a595fe9661704027d578"
 owners = [
     "lmcintyre",
+    "perchbird"
 ]
 project_path = "DamageInfoPlugin"
