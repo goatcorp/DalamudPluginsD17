@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "b1e0fbd33bbab07316fd51f571cd19e24f141a5a"
+commit = "ca1491cb335671c698ccbe0f63a7cd18d0468297"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+
+Version 0.4.2.0:
+ - Fixed: Crashes when changing characters with RayCasting enabled.
+
 Version 0.4.1.0:
  - Fixed: Overlay would render as a black window when using Dalamud multi-monitor windows.
 
