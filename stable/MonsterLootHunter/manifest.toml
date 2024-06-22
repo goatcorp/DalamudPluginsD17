@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "49ffd41f000b5c4dc810fb4b735520a3e0cee481"
+commit = "c4160abd32ee0f812177e0de3ed65a8da0635c4e"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Fixes gatherable items parsing
-- Fixes map linking for some items
-- Adds table resizing
-- Adds window resizing
+changelog = """- NET8 Update
+- IContextMenu Refactor
+- General refactorings
  """

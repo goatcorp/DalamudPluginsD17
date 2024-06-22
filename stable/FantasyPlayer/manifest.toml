@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "d66dfab36e210e9ec36352a98773355c2207e6ad"
+commit = "0741fbd70e3acb6ac0545aadf111f4aaf58d3123"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.2.0.0"
+version = "2.2.0.2"
 changelog = """\
-**Stable Release**
-- Promoting this to stable as it's been in testing long enough
-- Fantasy Player is a plugin that allows you to hook your spotify account up and see what song is playing
-- If you have a subscription to spotify, extra features are available
+**Bug Fixes**
+- Fixes so that the plugin disposes properly
+- The browser should now open using the same method Dalamud uses for logging in, Linux/Mac OSX users see if you can login now
 """

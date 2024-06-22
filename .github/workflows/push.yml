@@ -56,6 +56,9 @@ jobs:
         PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
         XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
+        PLOGON_S3_ACCESSKEY: ${{ secrets.PLOGON_S3_ACCESSKEY }}
+        PLOGON_S3_SECRET: ${{ secrets.PLOGON_S3_SECRET }}
+        PLOGON_S3_REGION: ${{ secrets.PLOGON_S3_REGION }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
@@ -63,6 +66,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
+        --build-overrides-file="${{ github.workspace }}/manifests/overrides.toml" \
         --ci --mode=Commit --build-all
       
     - name: Upload artifact
@@ -78,7 +82,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Update distribute"
+        git commit -m "Update distribute (${{ github.sha }})"
         
     - name: Push plugin dist
       uses: ad-m/github-push-action@master

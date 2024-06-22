@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "f0944ff7bb902701fad41873ce6e3d5aa2115bd7"
+commit = "d480a9305c8d4e2cc61d48bf6aca0fbc7b5b1d70"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed various issues related to Gear Set elements."
+changelog = "- The Escape key can now be used to close a ring with a toggable keybind.\n- Added a setting for rings with toggable keybinds to not execute the hovered action when closed."

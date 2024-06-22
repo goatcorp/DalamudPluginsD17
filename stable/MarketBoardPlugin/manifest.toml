@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "08aa4ee40e72e422769c15f88c9a95b6cf26aee3"
+commit = "081942576ae8d715e4b822f05d45518bc71d75d4"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Fixed the plugin \"No GST\" feature (Universalis API changes)"
+changelog = "- Implement favorite item list\n- Handle potential errors while fetching market data"

@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "46c81782c5804aad267c8b5d9211ee55cab32eab"
+commit = "903a5d725a50c1f13e0f6ad519e7a2f9b9ab1fd1"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- You can now adjust the shadowmap resolution to be anything from 64p to 16384p (Default is 4096p on High)
-- Added a 'Recover Default Preset' button
-- Added an option to open the Config window when entering GPose
+- Fix oversight which could result in ShadowManager being null following plugin initialization
 """
 

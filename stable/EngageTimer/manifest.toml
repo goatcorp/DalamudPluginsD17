@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "69ff776388847692aefa0309300d3535792edda8"
+commit = "1cf2e08b5837cdc7cbd7a1a92ae6b45a9c477af3"
 owners = ["xorus"]
 changelog = """\
-- Countdown Ticks: option to make them start at a certain time (e.g. only tick 1 to 10 numbers)
-- Updated to api 9
+- Fix not being able to disable alarms
+- Missing translation strings in web server config
+- Hide floating window border by default (you can re-enable it in Floating Window -> styling)
 """

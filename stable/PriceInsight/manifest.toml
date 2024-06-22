@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "b60cebfd92cda4f550e91b487888a5b42df55790"
+commit = "d730c63891f84a44dae7489f1164a5182edbd458"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Fixed items displaying the time of the posting of a price rather than the time it was last checked.
-- Add an option to force connect via ipv4 to universalis. Should help people experiencing issues with VPN connections.
+- Support dynamis datacenter
 """

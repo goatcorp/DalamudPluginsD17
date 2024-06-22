@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "064c4adf59188c5b533f4d3eaa5f0bd0464c1477"
-changelog = "- Fixed debug window showing up\n- Disabled closing local hunts window"
+commit = "3778ebc72970176208201bc08100c73c740ec541"
+changelog = "- New IPC integration\n- Main window now maintains size between restarts\n- Plugin now directly warns users about unsupported hunts (ARR and all B-ranks)\n- Now on .net8!"

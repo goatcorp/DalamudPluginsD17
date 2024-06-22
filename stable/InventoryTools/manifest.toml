@@ -1,24 +1,18 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "67bb1eaee1798be2540872d5dbd85b770b01f946"
+commit = "18b93c4dc76b53dfd752efdc1bb9efe239cd2e08"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.2"
+version = "1.7.0.6"
 changelog = """\
-**New Features/Updates**
-- Add "Is Dropped By Mob" column/filter
-- Add "Can be Equipped" column/filter
-- Orphaned inventories will be removed on plugin load
-- Character management section has been updated
-- New IPC methods, GetSearchFilters & GetRetrievalItems - thanks pikajude
-- Gamer Escape/Console Games Wiki shorcuts in the item window and right click menus
+**Allagan Tools 1.7.0.6**
 
-**Fixes**
-- Fix certain costs for rewards at special shops not listing properly
-- Fix "Is Timed Node" filter
-- Fix craft lists not refreshing after an item is added/removed via IPC
-- Fix an issue where history columns were not exporting any data to CSV
-- Item level filter no longer restricts to equipment, if you want to replicate this filter, use the new "Can be Equipped" filter in combination with the existing filter
+**New Features**
+Added Ephemeral & Hidden Node columns/filters
+
+**Bug Fixes**
+Certain items were showing as being collected from ephemeral nodes when they were not
+Columns in the columns/craft columns picker will be in alphabetical order
 """

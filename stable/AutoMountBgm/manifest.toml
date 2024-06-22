@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
+owners = [ "PrincessRTFM",]
+project_path = ""
+commit = "0e55f7c5bad46ef28e1f99c52426fcfbf8b9b4f4"
+changelog = "It's now possible to use the UI to control per-mount BGM settings without needing to actually get on the mount and use a command. Additionally, there are filtering options in the UI for simplicity. Finally, there's now an option to disable the BGM track \"Borderless\" (mount default) without needing to manually turn off BGM for the relevant mounts."

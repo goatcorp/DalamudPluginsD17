@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "63ba62a8c1905f57b832b2d48ed96d1373103e9a"
+commit = "707665cf9a33e397c6af8e68ea3f846a9b71ebe1"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.6.1]
-    + Names should now display properly in German.
+    [1.4.8.7]
+    Upgraded to the new Context Menu system.
 """

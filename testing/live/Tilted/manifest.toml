@@ -1,11 +1,5 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "d661842f40b3f5e47b5479be08d5ee1b7911fe2d"
-owners = [
-    "meoiswa"
-]
+commit = "4114d626b65fb5fd72e997257eeef52b1f7a5888"
+owners = ["meoiswa"]
 project_path = "Tilted"
-changelog = """
-Version 3.4.0.0:
- - Added GPose detection (Disables the plugin while GPose is active), along with a setting to ignore, courtesy of mallowmew
-"""

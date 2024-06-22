@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "eee2a278d2bbbafa51bc0409dec076780d22550e"
-owners = ["Glyceri",]
+commit = "117f6b698fc510898d2e5db3e95b73fe4808317b"
+owners = ["Glyceri"]
 	changelog = """
-    + [1.4.6.0]
-    + Giving a Battle Pet command or them leaving the battle will now properly show their nicknames in chat.
-    + Tentatively fixed an issue to do with soft skeletons (/petmirage).
-    + Fireworks in the toolbar have been removed from the event.
+    [1.4.8.8]
+    PetRenamer.GameObjectRenameDict is now available for other plogons to use!
 """

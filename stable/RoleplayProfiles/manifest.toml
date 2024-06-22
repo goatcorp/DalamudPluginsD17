@@ -1,6 +1,9 @@
 [plugin]
-repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "e8e4030514d9ea556658236137930b1c9ef49b93"
+repository = "https://codeberg.org/Linneris/dalamud-roleplay-profiles.git"
+commit = "5cfc4bc3abf0a32bc28aee6f04016045287383cb"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
-changelog = """Updated for Dalamud 9."""
+changelog = """
+* The plugin no longer asks for the user password to log in. Instead, it opens an in-browser authorization page.
+* Characters from all regions are now supported thanks to the cross-region character profiles website, Central Archives (https://centralarchives.org).
+"""
