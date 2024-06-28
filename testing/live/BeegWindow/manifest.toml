@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/arcanedisgea/beegwindow.git"
-commit = "e2213f9c7db81f748871759d979bd0e9c34df60b"
+commit = "6d3418dcac1471d7d6150d5b974f8167e23bbf4e"
 owners = ["ArcaneDisgea"]
 project_path = "BeegWindow"
 changelog = "Initial Release"
