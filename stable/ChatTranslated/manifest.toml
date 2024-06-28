@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "2808c94dfb78ccba1aac3270b8bfa6abd3ba131d"
+commit = "104443dc341eba3431d33f99d2bbced6d933977d"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Boost performance when plugin windows are opened
+Add option to use custom target languages
 """
 [plugin.secrets]
 cfv2 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAVF7lQi3ll0QVVHXhrxWWvn56lJGXqQmi7PSprdGJ\nnAEwPWuybeVbiv23purRpMKyRd0Tnnm/wswuf3TJFebn+5Kr2RZctJCK4y6L\nKoGsLHON0lgBxcrMMmv4IHrxs+M7L0Rcsriaw8dI1anSCxrlafxK7g6i+Xsx\nRa57QCwJOd8rMDhmuG9H+LdJZGtcSZHiZr+UapqCJaFZOEt1dYMoZlgcCLyA\nMB4PURNf\n=9CF1\n-----END PGP MESSAGE-----\n"

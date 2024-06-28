@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "09a16b04420b9c7b110bea23edbd24d5b7535ad0"
+commit = "05c07bbce6aa7c8c04a19b325ec5769cfc728ce6"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Api9'''
+- Added custom icon support for any plugin that changes textures through Dalamud'''

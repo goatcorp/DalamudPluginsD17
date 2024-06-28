@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://git.camora.dev/asriel/craftimizer.git"
-commit = "92bc1a9d832e49f7c95cd05bf0b43fce4371b2c3"
+repository = "https://git.camora.dev/asriel/Craftimizer.git"
+commit = "90f53de3d88344084bb2413161c8051ef073dc3d"
 owners = [ "WorkingRobot" ]
 project_path = "Craftimizer"

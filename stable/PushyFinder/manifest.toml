@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/lostkagamine/PushyFinder.git"
-commit = "2490dc68c010098ef2097bc1f1404faf4bee4527"
+commit = "ac85668196b5ce930cb38b81b615f30190053925"
 owners = ["lostkagamine"]
 project_path = "PushyFinder"
-version = "1.1.1.0"
+version = "1.2.0.0"
 changelog = """
-**PushyFinder has been updated for APIv9!**
-The plugin is now functional again on current versions of FINAL FANTASY XIV, and all of your settings are still there.
-Sorry for the long wait!
+**PushyFinder now supports Discord notifications!**
+Check the new Discord tab, in the settings menu, for more info!
 """

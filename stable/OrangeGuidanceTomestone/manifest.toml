@@ -1,8 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '97a1cb97a9904c5c54264b14b848be8421539156'
-owners = [ 'lojewalo' ]
+commit = '3dc49c5fe7d2655cff80a8b6262496a241e9e5d4'
+owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- API 9
+- Add new glyph
+- Update base max message count to 20
 """

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "fb596d685b727feecb79426e51ae4f8b3abbab31"
+commit = "b480e0422616038d2aea3e44e2014ab73f0ded01"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fix for a bug that can result in a player being trapped inside a duty.
+* Right-aligned all numeric values in summary and player/job tables.
+* Removed window max size constraints.
 """
