@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "92c242f2d245f969f211afd5ab191fb98920c37e"
+commit = "7cb130aab4c90123666fcb1c64e09537300f350a"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = """### 2.1.5.1 : DT (7.0) compatibility, API10 & net8 upgrade
+changelog = """### 2.1.6.0 : DT (7.0) compatibility, API10 & net8 upgrade
 + Minor refactoring """
