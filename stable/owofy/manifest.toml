@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/reiichi001/dalamud-owo.git"
-commit = "23de78eb8d419533d69412b779294dc052e53706"
+commit = "c4c2b85b144af0d68379c8cbc5f97fa4f8c38ec8"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "owo"
-changelog = "The most important plugin, now updated for API 9!"
+changelog = "Dalamud APIX has been owofied."
