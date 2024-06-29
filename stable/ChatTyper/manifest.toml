@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/dalamud-chattyper.git"
-commit = "919cc33e9198cb52cad766fe23212cac2965931f"
+commit = "6895b35a82f889a9a61e6120702d4c28dfbfda62"
 owners = [
     "reiichi001",
 ]
