@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "09a9186cf5b67720dc606cb39e85226984b7ecfd"
+commit = "e42adcd8dacbe74852dae51a2d281b302e0c3e6f"
 owners = [
     "Meisterlala",
 ]
