@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "d0366deff8edd3941ea327e2c309c427ef3ef3cd"
+commit = "d730c63891f84a44dae7489f1164a5182edbd458"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed tooltip text having randomized character spacing
+- Support dynamis datacenter
 """

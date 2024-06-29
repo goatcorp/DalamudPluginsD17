@@ -1,8 +1,5 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/gentletouch.git"
-commit = "44a0c17b2af8045c827284fa05c62bfe148fc649"
+commit = "3e114c5c272a588cdc17126d2faa6a7b385b555f"
 owners = ["fitzchivalrik"]
 project_path = "GentleTouch"
-changelog = """
-- fix: Update for 6.4
-"""

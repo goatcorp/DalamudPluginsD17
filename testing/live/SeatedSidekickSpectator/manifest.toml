@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Cytraen/SeatedSidekickSpectator.git"
+commit = "91e6232ccad0f71b6fc9dad4cb644680def55684"
+owners = ["Cytraen"]
+changelog = """
+A new plugin that adds notifications when someone enters or exits your multi-seat mount.
+"""

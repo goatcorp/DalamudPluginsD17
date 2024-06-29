@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/wrath16/MapPartyAssist.git"
+commit = "834f13a9c1cddf820cadbbe46f8fbb56125ffddf"
+owners = ["wrath16"]
+project_path = "MapPartyAssist"
+changelog = """
+* Failed price check bug fix.
+"""

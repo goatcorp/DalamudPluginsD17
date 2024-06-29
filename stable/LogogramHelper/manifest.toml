@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "2bc0ea1cfcb04a25bf2b055531d250def8c7da1a"
+commit = "846093e7f5bd533f0d374999c9727e4e05359207"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Update for 6.5
+- Net8
 """

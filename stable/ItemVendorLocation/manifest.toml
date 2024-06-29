@@ -1,15 +1,13 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "82f98489803b7d065a1968ab098be70e87cc2dd5"
+commit = "4cb474aecf52f64955f0a20cad7cbdf8f4bed614"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Added support for collectable shops (Nuko)
-- Added some support for relic weapons (Nuko)
-- Fix tooltip error (Nebel)
-- Update to API 9
+- Fix IPC exception on dispose (Infiziert90)
+- Fix loading error for users that are on free trial or missing corresponding expansions, thank you Araiguma (Nuko)
 """
-version = "2.4.0.0"
+version = "2.6.0.1"

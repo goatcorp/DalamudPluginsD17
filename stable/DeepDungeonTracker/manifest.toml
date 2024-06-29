@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "77ec33eec4659563c586ce68db21b840733240ab"
+commit = "a725d21fdc4a5cb81cd92f6510cb015b2b106027"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Patch 6.5 / Dalamud API 9 update.
-- Added mimic support for missing kills case (HoH).
-- Added Big Floors/Hall of Fallacies counting to the Statistics Window (HoH).
+- .NET 8.0.
 """

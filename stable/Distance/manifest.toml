@@ -1,10 +1,23 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "8ee1642d06e0fb92e12d2af2e5b18081409e8cc3"
+commit = "6f1d0c10640d4d9760d399fe9a2a914c73f8dea1"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for API 9.  Thank you Felys!
+- Added distance-based fading to text widgets and nameplate distances
+- Added offsets by object type to nameplate distances.
+- Minor config UI improvements.
+
+Also contains the following differences that were previously only in the testing branch:
+- Added a custom arcs feature to match custom widgets.
+- Rewrote config UI.
+- Added job filters to all distance displays.
+- Added a filter for in and out of instance.
+- Applied other filter types to displays that did not have them.
+- Improved nameplate node setup to more closely match the base game.
+- Fixed a bug that caused nameplate text nodes to not be properly cleaned up during plugin unload.
+- Improved logging.
+- Significant code cleanup and reorganization.
 '''

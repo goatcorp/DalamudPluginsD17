@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a62d3cc79937c2d71b87315676504866b689993c"
+commit = "081942576ae8d715e4b822f05d45518bc71d75d4"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Now the shopping list will stay open as long as it has item stored even if the main window is closed.\n- Added the option to show prices without the Gil Sale Tax"
+changelog = "- Implement favorite item list\n- Handle potential errors while fetching market data"

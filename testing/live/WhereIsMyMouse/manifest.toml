@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "de6d91c1ae11ce0341c06f48bee4cbc34276fd4d"
+commit = "f840e03ce4cd6500a00652cc03e9f73e00ab1632"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
-changelog = """ Upgraded to 6.3
+changelog = """Changes :
+  - New rainbow cycling color option by @larsmonman
 """

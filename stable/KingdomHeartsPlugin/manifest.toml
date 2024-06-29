@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Arrenton/KingdomHeartsPlugin.git"
-commit = "98e07ebfa36673aca40ac9f9f34b3de8eeff308f"
+commit = "b38c6dffbfd061b8c71a1ec5952c3e70b594ccc9"
 owners = [
     "Arrenton",
 ]
 project_path = "KingdomHeartsPlugin"
 changelog = """
-Updated for API 8
+Added scale feature for class icon.
+Class icons use HD texture now.
 """
