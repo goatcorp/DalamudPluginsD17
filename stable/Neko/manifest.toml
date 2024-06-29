@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "fa39704d7c41fea338a0cf1fb7aa1fd1d7bb2a8e"
+commit = "09a9186cf5b67720dc606cb39e85226984b7ecfd"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Removed Catboys API because it got discontinued
-- Update to Dalamud API 9"""
+changelog = """- Added Dawntrail Catgirls
+- Added icon to notifications
+- Updated to API X"""
