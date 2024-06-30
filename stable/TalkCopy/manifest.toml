@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "d9598e6559d8c6bbf0754c006737bea835ca5682"
+commit = "915f3a0bf87f93a09c8beab02b3e939438d75345"
 owners = ["Glyceri",]
 	changelog = """
     [1.0.0.0]
