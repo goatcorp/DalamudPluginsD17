@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/rootdarkarchon/XIVJitterFix.git"
+commit = "b8a5cbf1a9e27076d7c427b6bd2196e5669d031d"
+owners = [
+    "rootdarkarchon"
+]
+project_path = "XIVJitterFix"
+changelog = """
+**First testing release** 
+- this plugin aims to fix the anti aliasing implementation of SquareEnix
+The game automatically disables the needed jitter for temporal antliasing during cutscenes, NPC dialogue and gpose.
+This plugin forcefully reenables this functionality, leading to a cleaner image.
+"""
