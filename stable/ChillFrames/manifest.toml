@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/ChillFrames.git"
-commit = "f7f33964ad58817df3c323a27e87e8960cc6d7e7"
+commit = "2329b37b4da3d4984692d60a2054feffc57983ff"
 owners = ["MidoriKami"]
 project_path = "ChillFrames"
