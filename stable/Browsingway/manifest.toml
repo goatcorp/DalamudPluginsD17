@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "45b2380ff73264ac5aa655448db95cb528e45858"
+commit = "8e182eb9140abb7806f4577171a4991f9ef32cb1"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Chromium 122.0.6261.112
-- Option to hide overlays out of combat (by electr0sheep)
-- .net 8 support
-- IPC refactoring
+- Bump Chromium to 126.0.6478.115
+- Api X support
 """
