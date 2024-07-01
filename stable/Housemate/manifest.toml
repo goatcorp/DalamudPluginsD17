@@ -3,5 +3,6 @@ repository = "https://github.com/lmcintyre/Housemate.git"
 commit = "64389d28ce34297ffdd6a16de1ce325cd572f9e0"
 owners = [
     "lmcintyre",
+    "perchbird"
 ]
 project_path = "Housemate"

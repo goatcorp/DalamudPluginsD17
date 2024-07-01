@@ -3,5 +3,6 @@ repository = "https://github.com/lmcintyre/PrefPro.git"
 commit = "cceda9c660b8b19dbf288bb51cc7c529621cd690"
 owners = [
     "lmcintyre",
+    "perchbird"
 ]
 project_path = "PrefPro"

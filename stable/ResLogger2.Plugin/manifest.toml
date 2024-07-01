@@ -3,5 +3,6 @@ repository = "https://github.com/lmcintyre/ResLogger2.git"
 commit = "5b01d213b5165ba38401c8be44e79fddcd39affd"
 owners = [
     "lmcintyre",
+    "perchbird"
 ]
 project_path = "ResLogger2.Plugin"
