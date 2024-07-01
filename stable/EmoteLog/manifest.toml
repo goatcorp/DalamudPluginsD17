@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = '92028d445f734a51a3470339498d1687ee776327'
+commit = 'dde908b1254bb165748bc92b6aeb9d9b6468817a'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Added support for the new Dalamud font selection
+- Dawntrail baby
 """
 
