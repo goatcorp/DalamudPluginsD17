@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kissorjeyabalan/dalamud-chatcoordinates.git"
-commit = "1344eddebc1cb25027427afced7b768f80b04f83"
+commit = "ab25005f01721600ba345e3b69c233a7abf2fd6d"
 owners = [
     "kissorjeyabalan",
 ]
