@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/dalamud-owo.git"
-commit = "23de78eb8d419533d69412b779294dc052e53706"
+commit = "e8f3b872845e709843b29c53d8550da4dee86226"
 owners = [
     "reiichi001",
 	"goaaats",
