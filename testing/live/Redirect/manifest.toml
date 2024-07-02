@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "e907a0653db62cdf41035d1fe6398f05b5ab95e6"
+commit = "81575e7c288466396307c103ea87c86e846ea9a5"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Fixes for patch 6.4"
+changelog = "APIX / 7.0 Updates"
