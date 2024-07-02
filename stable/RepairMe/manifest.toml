@@ -1,6 +1,5 @@
 [plugin]
 repository = "https://github.com/chalkos/RepairMe.git"
-commit = "9f0978ce57b30c4c4990d181e3e72d3754394e4f"
+commit = "6c02d5d05fbc79e058a930cbf8a10e747afc1305"
 owners = [ "chalkos" ]
 project_path = "RepairMe"
-changelog = "update for api 9"
