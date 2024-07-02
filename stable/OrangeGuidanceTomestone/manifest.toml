@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '02e357ae7bfeaea05802bead5076a0b3ee05f621'
+commit = '4976a2e0df29dd27344bec35be13ebf67841aaed'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
