@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "e1659e329296b839173f0e0d3ec1ff466b4ffd51"
+commit = "8c2ad9278590785a112f71b347f70fa171596061"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "APIX / 7.0 Updates"
+changelog = "Add support for AST's new card system"
