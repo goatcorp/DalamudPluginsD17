@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/Tourist.git'
-commit = '40de971de6af2da812463512e31666055df68c6f'
-owners = [ 'lojewalo' ]
-changelog = 'API 9'
+commit = '80bbef448fff5175bf9559e4259d971418f80661'
+owners = [ 'anna-is-cute' ]
+changelog = 'Dawntrail'
