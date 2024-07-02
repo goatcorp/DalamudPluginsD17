@@ -1,9 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '3dc49c5fe7d2655cff80a8b6262496a241e9e5d4'
+commit = '02e357ae7bfeaea05802bead5076a0b3ee05f621'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Add new glyph
-- Update base max message count to 20
+- Update for Dawntrail
 """
