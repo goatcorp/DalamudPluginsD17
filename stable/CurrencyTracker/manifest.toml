@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "156a5e2051f26e38cbf7e6223e899c3d77a36086"
+commit = "f34bf693dbcbcc6fe6921e4a17c59a0da74016bc"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Added support for Japanese language
-- Refactored the table columns implementation, and optimized the display effect.
-- Fixed the issue that Multi-Chara Stats interface could not be opened due to parallel operation.
-- Code cleanup
+- APIX Update.
+- Fixed the issue of currency name data files containing special characters being repeatedly created in Japanese client.
 """
