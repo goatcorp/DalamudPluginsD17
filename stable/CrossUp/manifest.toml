@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "c393c8a1721cf9439e6d9c5c9fb7b2f809e806b7"
+commit = "3b99b6a2ced98c5ccd0baabc0e2303479e218bd5"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Restored some color customization functions that had broken in 7.0
-- Fixed a few other minor bugs
+- Implemented a temp-fix for an issue with the Separate Expanded Hold feature. The cleanup function that restored the contents of "borrowed" action bars has been internally disabled, in order to prevent more severe issues with invalid actions being written to hotbar slots. This will ONLY affect you if you store other actions on those bars while the feature/plugin is not in use.
 """
