@@ -1,6 +1,0 @@
-[plugin]
-repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = '113f6c7d912ea6e7e6d99c4ee16dec42555bf9b6'
-owners = [ 'Xpahtalo' ]
-changelog = """Fixed the bug where changes wouldn't be saved if you only deleted patterns.
-Added a history window. Use /burnttoasthistory or /bth to view all toasts and whether or not they were blocked. Mouse over them for additional information."""
