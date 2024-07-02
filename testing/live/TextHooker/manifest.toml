@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/aleysos115/FFXIVTextHooker.git"
+commit = "cce3b2645b032bb9992ab7726c7930001715b4d7"
+owners = [ "aleysos115" ]
+changelog = "Initial version"
+version = "1.0.0"
+project_path = "FFXIVTextHooker"
