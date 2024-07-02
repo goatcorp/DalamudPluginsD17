@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "2982e66355549475bbe247797a55f3382e5fd979"
+commit = "9a11ef580f3088cff3e35057fdb1e523c5254dee"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
-- Updated for dawntrail compatibility
+- Fix bug where instances were not displaying the proper icon
 """
