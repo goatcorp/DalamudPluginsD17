@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "8e182eb9140abb7806f4577171a4991f9ef32cb1"
+commit = "cfef0284a7bfb2847c542662861fb31bde048ba6"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Bump Chromium to 126.0.6478.115
-- Api X support
+- Fix local storage not working after Chromium update
+  Note: Due to encryption changes in Chromium, local storage data from previous versions will be lost.
 """
