@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/HybridEidolon/eid-ffxiv-plugins.git"
+commit = "77b0d26d89f1ce3790f6033c3263f44f3e331069"
+owners = ["HybridEidolon"]
+project_path = "DynamicUIScaling"
+changelog = """\
+Initial test release.
+"""
