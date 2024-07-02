@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a62d3cc79937c2d71b87315676504866b689993c"
+commit = "49c2f2cb1d082f71e49c30796cec7161f6492199"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Now the shopping list will stay open as long as it has item stored even if the main window is closed.\n- Added the option to show prices without the Gil Sale Tax"
+changelog = "- Compatibility with FFXIV 7.0 / Dalamud API X"

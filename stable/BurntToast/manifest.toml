@@ -1,5 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/BurntToast.git'
-commit = 'd4faa3757b5c9cb9acdcd83d4330a485cfb50a5e'
-owners = [ 'lojewalo' ]
-changelog = 'API 9'
+repository = 'https://github.com/Xpahtalo/BurntToast.git'
+commit = 'e67fe152aaec27f0b882d9e61f081586387bf458'
+owners = [ 'Xpahtalo' ]
+changelog = """Updated to 7.0!
+History menu implemented so you can select your toasts to add to your filters.
+Fixed a bug that deleting filters sometimes wouldn't save."""

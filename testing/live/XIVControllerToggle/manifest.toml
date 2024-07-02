@@ -1,0 +1,12 @@
+  [plugin]
+  repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
+  commit = "37b483c2893f4eacef9d8c33787647b1051b7348"
+  owners = ["CallumCarmicheal"]
+  project_path = "XIVControllerToggle"
+  changelog = """
+  # The Great Controller Hud Switcher 1.0.1.0
+  - Attempted to fix display scaling on larger DPI monitors
+  - Fixed issue where main plugin command was registered twice
+  
+  # The Great Controller Hud Switcher 1.0.0.0
+  - Made it work(tm)"""

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Ottermandias/Accountant.git"
-commit = "fc0ce604830dea4a28a8ce85c47262c056f519c6"
+commit = "3f4ddaf2db1e3a904b7a0f658b3b86964f8de295"
 owners = [
     "Ottermandias",
 ]

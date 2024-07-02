@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "21942bdf922976c2c8c31131cb02299243e7500e"
+commit = "6d8b12cd4bd19e0e9229cc82d8a9a5a316d8d2dd"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Update for 6.5
+- Net8
+- IContextMenu change
 """

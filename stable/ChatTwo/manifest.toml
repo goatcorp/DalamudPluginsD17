@@ -1,7 +1,8 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/ChatTwo.git'
-commit = '5094e70e7e7d6c6e92acde3ac2e35baa6ad41469'
-owners = [ 'lojewalo' ]
-changelog = """\
-- API 9
-"""
+repository = "https://github.com/Infiziert90/ChatTwo.git"
+commit = "604a2cb4828720ccf4426f01fe8d08908e8ee672"
+owners = [
+    "Infiziert90",
+    "lojewalo"
+]
+project_path = "ChatTwo"

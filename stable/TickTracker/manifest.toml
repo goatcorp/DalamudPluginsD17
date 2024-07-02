@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Kurochi51/TickTracker.git"
+commit = "b9db0c620d482830e08ccf376bf0cb57b1b86478"
+owners = ["Kurochi51"]
+project_path = "TickTracker"
+changelog = """
+- Swapped to Penumbra API
+"""

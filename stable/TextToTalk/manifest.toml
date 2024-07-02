@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "6344c6cd5749c2b0b5a3bfa5f0774d86a881f623"
-project_path = "src"
+commit = "0880b0db6552568e513865d4877b8ed933c17adc"
+project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes voice-acted dialogue being spoken over
+- Updated for API10 (thanks Ania!)
 """

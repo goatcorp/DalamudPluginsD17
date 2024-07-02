@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "017977e4a253e736b24a97e0afc9ee8d15cb94ee"
-changelog = ""
+commit = "aaa52ba1a54065346e98596da223962cf8123fc4"
+changelog = "Update for patch 6.58, minor refactoring for new style rules, no functional changes."

@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "b10628d29b4a67a9f67b52c7b42a5962f79c0c6c"
+commit = "d204d6467751b668223d6f18e23810881b4dda96"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Tentative fix for issues in PvP areas
-- Tentative fix for issues caused by using the plugin with the XHB disabled
-- Updated UI to use WindowSystem
+- Updated for 7.0
 """

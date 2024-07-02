@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d4cba4f3d24519fcc1f4e59f161bc4bf547d5e07"
-owners = ["Glyceri",]
+commit = "117f6b698fc510898d2e5db3e95b73fe4808317b"
+owners = ["Glyceri"]
 	changelog = """
-    + [1.4.0.2]
-    + Fixed Map Pet Tooltips not working. (By completely removing the feature and reimplementing it later down the line when it actually fully functions and works).
+    [1.4.8.8]
+    PetRenamer.GameObjectRenameDict is now available for other plogons to use!
 """

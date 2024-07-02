@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Caraxi/ItemSearchPlugin.git"
-commit = "9883a6eac1ae0a720618c18aee2777a3f0fe33ae"
+commit = "ae0b2e07e126581c7d5f0a150cdc7d3cc54a1f5b"
 owners = [
     "Caraxi",
 ]

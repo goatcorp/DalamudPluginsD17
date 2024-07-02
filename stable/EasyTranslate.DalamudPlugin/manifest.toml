@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
+commit = "2982e66355549475bbe247797a55f3382e5fd979"
+owners = ["Olaren15"]
+project_path = "EasyTranslate.DalamudPlugin"
+changelog = """
+- Updated for dawntrail compatibility
+"""

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "6482d2a630c56567c5460643bcb8f86a5e5c3bc3"
+commit = "707665cf9a33e397c6af8e68ea3f846a9b71ebe1"
 owners = ["Glyceri",]
 	changelog = """
-    + [1.4.1.3]
-    + Fixed Emotes not displaying properly in certain situations.
+    [1.4.8.7]
+    Upgraded to the new Context Menu system.
 """

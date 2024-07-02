@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "5c1a42181d3e98dbb03caaa12ce5e6d6082983dd"
+commit = "8e182eb9140abb7806f4577171a4991f9ef32cb1"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Chromium 117.0.5938.132 (fix for CVE-2023-4863 and CVE-2023-5217)
-- API9 compatibility
-- Custom CSS feature by xorus/olee (experimental, unsupported)
+- Bump Chromium to 126.0.6478.115
+- Api X support
 """
