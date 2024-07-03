@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "9b3aefdf212f02d99c86e7a300f989b5929102a5"
+commit = "42842273450e921333b0c82bf1fe5b6e6f5bbc39"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(bugfix) fix error on plogon init for certain non-US region OSes"
+changelog = "update to support 7.0 Dawntrail"
