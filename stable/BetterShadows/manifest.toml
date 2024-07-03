@@ -1,9 +1,17 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "903a5d725a50c1f13e0f6ad519e7a2f9b9ab1fd1"
+commit = "b50bbea2f9bf71ed5b9fa7b0fbfb7fe20111539d"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Fix oversight which could result in ShadowManager being null following plugin initialization
+- Updated for API10/7.0
+- Dynamic Light Shadow Maps now supported
+-- Shadow Map support is greatly increased, but keep in mind that this also means that you may see higher vram usage
+- Shadow Cascade Settings now support the fifth cascade which was introduced in 7.0
+-- Adjusted all presets to account for the new cascade
+-- Reimplemented Long Distance (16k) preset
+-- Added Compromise (16k) preset
+-- Note that you may need to adjust your personal cascade settings due to this change
+- Reorganized configuration window
 """
 
