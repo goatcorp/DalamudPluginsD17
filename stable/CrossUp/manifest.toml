@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "3b99b6a2ced98c5ccd0baabc0e2303479e218bd5"
+commit = "817a5435e7190e333046fb46089eac0c7d3a5daf"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Implemented a temp-fix for an issue with the Separate Expanded Hold feature. The cleanup function that restored the contents of "borrowed" action bars has been internally disabled, in order to prevent more severe issues with invalid actions being written to hotbar slots. This will ONLY affect you if you store other actions on those bars while the feature/plugin is not in use.
+An issue with loading the plugin appears to have been resolved by a recent Dalamud update. This update reverts a temporary fix that was made in 1.7.0.3.
 """
