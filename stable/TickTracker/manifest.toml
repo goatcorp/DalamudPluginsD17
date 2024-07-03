@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "b9db0c620d482830e08ccf376bf0cb57b1b86478"
+commit = "73451d9e8008d1e6e3040db59a8b298c4b53e6b7"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Swapped to Penumbra API
+- Dawntrail update
 """
