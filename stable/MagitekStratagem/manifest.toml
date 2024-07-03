@@ -1,9 +1,15 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "ac2db895eb2efadab7936f940f125418d497f56b"
+commit = "ca1491cb335671c698ccbe0f63a7cd18d0468297"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+
+Version 0.4.2.0:
+ - Fixed: Crashes when changing characters with RayCasting enabled.
+
+Version 0.4.1.0:
+ - Fixed: Overlay would render as a black window when using Dalamud multi-monitor windows.
 
 Version 0.4.0.0:
  - New: Adding Calibration points to fine-tune tracking beyond what Tobii Game Hub allows.

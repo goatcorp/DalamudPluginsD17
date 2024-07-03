@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '97a1cb97a9904c5c54264b14b848be8421539156'
-owners = [ 'lojewalo' ]
+commit = '4976a2e0df29dd27344bec35be13ebf67841aaed'
+owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- API 9
+- Update for Dawntrail
 """

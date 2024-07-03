@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "081942576ae8d715e4b822f05d45518bc71d75d4"
+commit = "49c2f2cb1d082f71e49c30796cec7161f6492199"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Implement favorite item list\n- Handle potential errors while fetching market data"
+changelog = "- Compatibility with FFXIV 7.0 / Dalamud API X"
