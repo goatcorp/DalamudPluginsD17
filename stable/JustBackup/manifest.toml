@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/NightmareXIV/JustBackup.git"
 # The commit to check out and build from the repository.
-commit = "582fde8ab8dad0f3bf13cbbf4a14bf5cc2a7dcbf"
+commit = "90a9530e9ada44d890c4a8a61e83ae835cc02922"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Limiana"
