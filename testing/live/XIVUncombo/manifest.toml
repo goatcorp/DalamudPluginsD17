@@ -2,5 +2,5 @@
 repository = "https://github.com/MKhayle/XIVUnCombo.git"
 commit = "0a98f37c45e48cbbcb726e4753f77e5e0b599061"
 owners = ["MKhayle"]
-project_path = "XIVUncombo"
+project_path = "XIVUnCombo"
 changelog = """### 1.0.0.0 - Release """
