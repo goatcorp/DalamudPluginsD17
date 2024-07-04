@@ -1,5 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "ed2da8d354d6f67fac1b0333f5e1095c54da1002"
+commit = "d531c7670ef36d1ca856f38aad1e1b99dd8e502b"
 owners = ["meoiswa"]
 project_path = "ClarityInChaos"
+changelog = """
+
+Version 2.0.0.0:
+ - Update to API10
+"""

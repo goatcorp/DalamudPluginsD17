@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "d730c63891f84a44dae7489f1164a5182edbd458"
+commit = "b54bae279fee1ba2824a5709f66848ffb53d4148"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Support dynamis datacenter
+Update for 7.0
 """

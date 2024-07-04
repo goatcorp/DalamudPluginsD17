@@ -1,8 +1,17 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "491b4ea34960dc46f0ffaeeeeabdc777b7b40026"
+commit = "bac5aa7219810f0e418bf6be76e3aa57f5eedb9d"
 owners = ["Glyceri",]
 	changelog = """
-    [0.0.0.2]
-    Renamed Plogon!
+    [1.1.0.0]
+    Added the command /talkcopy settings
+    Added the command /talkcopy logs
+    Added a new Log window
+    Added more settings to the settings menu
+
+    Now capable of copying Subtitles (togglable)
+    Now capable of copying Toasts (togglable)
+    Now capable of copying Battle Toasts (togglable)
+    Now capable of copying Error Toasts (togglable)
+    Now capable of copying Area Name Toasts (togglable)
 """
