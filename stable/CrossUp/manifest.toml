@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "9fc8ec21b6e29a0232296558251c74ff82972344"
+commit = "817a5435e7190e333046fb46089eac0c7d3a5daf"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- The "Fade Outside Combat" feature will now also consider crafting, gathering, and fishing to be forms of combat, and keep the bars visible while engaging in such pastimes.
-- Implemented a fix to prevent icons from briefly flashing white when switching bars with cooldowns ticking.
+An issue with loading the plugin appears to have been resolved by a recent Dalamud update. This update reverts a temporary fix that was made in 1.7.0.3.
 """
