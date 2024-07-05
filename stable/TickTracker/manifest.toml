@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "6d7038fe1b3328e95da0c2b3eb4acbebcce21342"
+commit = "c558d9fa30a2688a11032ffaf7512ab4c68ae489"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Stop bar windows from stealing focus.
+- Dawntrail update
 """

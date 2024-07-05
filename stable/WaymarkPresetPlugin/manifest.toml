@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Infiziert90/WaymarkPresetPlugin.git"
-commit = "d130012eec3223ddc25194ad25b01eaa51e7bd87"
+commit = "e5b04004560334d17352ec7f573d7b192a1757fa"
 owners = [
     "PunishedPineapple",
     "abashby",
     "Infiziert90",
 ]
 project_path = "WaymarkPresetPlugin"
-changelog = '''
-nofranz
-'''

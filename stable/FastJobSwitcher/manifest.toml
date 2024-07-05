@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/meoiswa/fast-job-switcher.git"
-commit = "62d6a41a5cb9c365f4183a3fefd8d54beecbbf4b"
+commit = "06d1f173599f478a5d33f1147e72e3894568c0bb"
 owners = ["meoiswa"]
 project_path = "FastJobSwitcher"
+changelog = """
+Version 2.0.0.0:
+ - Updated to API10
+"""

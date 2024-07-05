@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/belzaru17/WorkshopOptimizerPlugin.git"
-commit = "07bcc5cfcd8e1a12ec2d90dde40600c3c8b2ba7e"
+commit = "1fc63f3eb572084f062dc30dcdb992ecac67206f"
 owners = ["belzaru17"]
 project_path = "WorkshopOptimizerPlugin"
-changelog = "Small UI changes."
+changelog = "Fixed cost of Corn Flakes."

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "fb596d685b727feecb79426e51ae4f8b3abbab31"
+commit = "d7bef219e06d89c6a8a4eb8b7820cf89d7d7083d"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fix for a bug that can result in a player being trapped inside a duty.
+* Updated for version 7.0 and Dalamud apiX.
+* Rival Wings matches temporarily disabled.
 """

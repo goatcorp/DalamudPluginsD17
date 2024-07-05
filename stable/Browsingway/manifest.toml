@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "45b2380ff73264ac5aa655448db95cb528e45858"
+commit = "cfef0284a7bfb2847c542662861fb31bde048ba6"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Chromium 122.0.6261.112
-- Option to hide overlays out of combat (by electr0sheep)
-- .net 8 support
-- IPC refactoring
+- Fix local storage not working after Chromium update
+  Note: Due to encryption changes in Chromium, local storage data from previous versions will be lost.
 """

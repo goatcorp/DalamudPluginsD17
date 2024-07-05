@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/awgil/ffxiv_borderless_fix.git"
-commit = "83b34e7fff7a31f5b58db189ba079b38f49d54f1"
+commit = "b2576205c0a8955e27fc34579f7e18f08a141150"
 owners = [
     "awgil"
 ]
 project_path = "borderless-fix"
-changelog = "Update for API 9"
+changelog = "Update for API 10"

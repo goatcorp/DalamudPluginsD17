@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "117f6b698fc510898d2e5db3e95b73fe4808317b"
+commit = "d81c661654741b9f2f71b72d70eca8a588dddc4b"
 owners = ["Glyceri"]
 	changelog = """
-    [1.4.8.8]
-    PetRenamer.GameObjectRenameDict is now available for other plogons to use!
+    [1.5.0.1]
+    Removed Mappy IPC. (Don't worry, Mappy will still work! Even better than before now!)
+    Updated to ApiX.
+    Updated for 7.0 version of the game.
+    
+    (New summoner summons are not yet available for renaming, I am currently power leveling summoner to lvl 100 to add them!)
 """
