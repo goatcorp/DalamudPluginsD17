@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/ActionTimeline.git"
-commit = "9c3df56537445f62a6bd3bd205f195eea739ea61"
+commit = "f877de33a550a331db48d97061da828affa5e6af"
 owners = ["Tischel"]
 project_path = "ActionTimeline"
-changelog = "- Fixed Samurai's Kaeshi: Namikiri not showing correctly on the timeline.\n- Fixed several Ninja actions not showing correctly on the timeline."
+changelog = "- Added support for Dawntrail and Dalamud API 10."
