@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/kissorjeyabalan/dalamud-chatcoordinates.git"
-commit = "11135b2e9192cc73844af2dad85f1d498f3744b8"
+commit = "06191a16b9f7e587963b63051e63d598dd3ba53b"
 owners = [
     "kissorjeyabalan",
 ]
 project_path = "ChatCoordinates"
-changelog = "- Patch 6.5"
+changelog = "- Patch 7.0 & API 10"

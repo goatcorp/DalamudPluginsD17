@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "491b4ea34960dc46f0ffaeeeeabdc777b7b40026"
+commit = "6b5a217084e94167e836afa2f8bc827971fc955d"
 owners = ["Glyceri",]
 	changelog = """
-    [0.0.0.2]
-    Renamed Plogon!
+    [1.1.0.1]
+    The settings menu now... works c:
 """

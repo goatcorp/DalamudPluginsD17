@@ -1,14 +1,16 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "155bfb47cee996b1f43f189fa3c7bc5fb38e2014"
+commit = "6518fc74efaaab592b114845e270fc0f6d17ce97"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Initial stable release!
+**Version 0.6.11.0**
 
-Who's Talking connects to your Discord client and lets you see voice activity on your party list. It should automatically match up Discord users with FFXIV players – but if that doesn't work, you can configure things in the plugin settings.
+Now supports Dawntrail!
 
-DelvUI integration is included, so Who's Talking should automatically work with DelvUI (appearance options are available in the DelvUI settings).
-
-**Please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
+Also:
+- Added a warning if you're using an unsupported Discord client
+- Hopefully fixed error spam in Delubrum Reginae (Savage)
+- Modified the sizing of the config window to accomodate power users
+- Tweaked various text to be less misleading
 """
