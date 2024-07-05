@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "1cf2e08b5837cdc7cbd7a1a92ae6b45a9c477af3"
+commit = "8173ff5416dfb86326548c5833b54a4ba994020b"
 owners = ["xorus"]
 changelog = """\
-- Fix not being able to disable alarms
-- Missing translation strings in web server config
-- Hide floating window border by default (you can re-enable it in Floating Window -> styling)
+- DT compatibility
+- Update for API10:
+  - Use new texture loading for countdown
+  - Migrate to the new font system, the floating window contents might be blurry, this will be fixed soon when I can implement font customization instead of always using the default dalamud one
+- Fix countdown being rounded instead of floored in floating window when disabling decimals
 """
