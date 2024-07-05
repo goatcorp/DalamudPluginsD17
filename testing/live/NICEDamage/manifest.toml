@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "975328b7a8826d51b4510001752e22a5ac0cd901"
-owners = ["gnargle"]
-project_path = "NICEDamage"
-changelog = "Initial version"
