@@ -66,6 +66,7 @@ jobs:
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
         --artifact-folder="${{ github.workspace }}/artifacts" \
+        --build-overrides-file="${{ github.workspace }}/manifests/overrides.toml" \
         --ci --mode=Commit --build-all
       
     - name: Upload artifact

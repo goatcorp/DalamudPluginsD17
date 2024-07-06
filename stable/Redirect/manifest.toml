@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "9fb2a3999c047573f6668fcf66b5f171e9a1edad"
+commit = "f40cbcd61b471859919d6d47f52c2c419a2f580e"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Fixes an issue that prevented Sprint from activating"
+changelog = "Updates for Dawntrail and apiX"
 

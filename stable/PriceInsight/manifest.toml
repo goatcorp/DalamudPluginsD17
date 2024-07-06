@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "502715016673e3358e3e1dcccb0635dc7de5b5d8"
+commit = "b54bae279fee1ba2824a5709f66848ffb53d4148"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Rewrote caching logic to better avoid unnecessary requests to universalis
-- Improved tooltip display when "Always display NQ and HQ" is turned off
+Update for 7.0
 """
