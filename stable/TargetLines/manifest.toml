@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "7d42e7d020bac36ce0b130343042c02261dc471e"
+commit = "842f64ac35c5a4a3b24ab92f46cb5cbab9bb124c"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Updated for API10/7.0
+- Fixed null reference in certain unnatural circumstances
+- Minor improvements to the performance of fancy lines when there are a high number of lines
+- Added option to filter party/alliance
 """
 
