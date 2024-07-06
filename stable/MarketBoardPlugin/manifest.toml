@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "49c2f2cb1d082f71e49c30796cec7161f6492199"
+commit = "20b56cd66c2aa814179c21a967d17361220980ee"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Compatibility with FFXIV 7.0 / Dalamud API X"
+changelog = "- Revert to a boxed letter icon in context menus"
