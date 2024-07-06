@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "34e7f2361a5b901441527c75b54db8af772a0aeb"
+commit = "b90041bbfc38c7817d3fe27db01a99081b977f4c"
 owners = [
     "jaycewhite"
 ]
-changelog = "Bugs fixed: friends not showing up; people still showing up on minimap if in party/alliance."
-version = "1.0.0.4"
+changelog = "Update for 6.5"
+version = "1.0.0.5"

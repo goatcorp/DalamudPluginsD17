@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "be2a8ef9cef105a7fa688dfaad09a898cdaa5b6e"
+commit = "bee6b2d2a4ef5b735cf49730a9228ecb20819f3d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.8"
+version = "1.7.0.8"
 changelog = """\
-**Bug fix**
-- Fix crash that occurs due to duplicate item patch data
-- :plofix:
+**Allagan Tools 1.7.0.8**
+- Tooltips are back in action
 """

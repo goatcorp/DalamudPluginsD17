@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "d0366deff8edd3941ea327e2c309c427ef3ef3cd"
+commit = "b54bae279fee1ba2824a5709f66848ffb53d4148"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed tooltip text having randomized character spacing
+Update for 7.0
 """

@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/kalilistic/NeatNoter.git"
-owners = [ "kalilistic" ]
+repository = "https://github.com/shadowkras/NeatNoter.git"
+owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "bb22579021cf06fcd51752b2356caad3098a3069"
+commit = "f66b2d88efb4009072d2e3f02b78b98e0b74046d"

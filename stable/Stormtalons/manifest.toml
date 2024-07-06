@@ -1,5 +1,5 @@
 [plugin]
-changelog = "- Fixed decaying stormtalon bar counter"
-commit = "4d25c674a5733b02343ce585383ab424a2f1e7b7"
+changelog = "Updated for 7.0 Dawntrail."
+commit = "1f52df0faf1b7c621985abdb0aeecf950eb58d91"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"

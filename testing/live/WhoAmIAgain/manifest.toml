@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/MidoriKami/WhoAmIAgain.git"
+commit = "830c0e3673e5a3b0aad4bbc3c262b93c92c026ee"
+owners = ["MidoriKami"]
+project_path = "WhoAmIAgain"

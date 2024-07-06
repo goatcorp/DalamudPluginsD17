@@ -1,6 +1,5 @@
 [plugin]
-repository = "https://github.com/avafloww/Waitingway.git"
-commit = "17171abb4db61fdb907abb065329f3db644bc464"
-owners = ["avafloww", "NPittinger"]
-project_path = "Waitingway.Dalamud"
-changelog = "Updated for Dalamud API 8"
+repository = "https://github.com/WorkingRobot/Waitingway.git"
+commit = "c9cc2194598a8a09fcda69f60d8970818cfa5f70"
+owners = ["avafloww", "NPittinger", "WorkingRobot"]
+project_path = "Waitingway"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/justscribe/g4e_ukrchatsupport.git"
-commit = "048d60239e75c765f90c90b1f50d301f3c6828af"
+commit = "68b0c9b0ccedf10df1888a59341333673890f875"
 owners = ["justscribe"]
 project_path = "G4EUkrChatSupport"
-changelog = "Updated with new Dalamud requirements."
+changelog = "Fix for config button styles."

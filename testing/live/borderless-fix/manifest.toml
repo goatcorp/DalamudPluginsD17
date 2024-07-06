@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/awgil/ffxiv_borderless_fix.git"
-commit = "b8e96df06cec6914bf127e9c1c72ab94ce405dd1"
-owners = [
-    "awgil"
-]
-project_path = "borderless-fix"
-changelog = "Initial release"

@@ -1,17 +1,13 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "2a6ca2328fd2f84913e6da9a54f960f330bbace5"
+commit = "4cb474aecf52f64955f0a20cad7cbdf8f4bed614"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Add Chinese localization
-- Fix for Aenc Ose shop name
-- Remove Garland Tools data source
-- Fix GC bugs (hopefully)
-- Add Keybinding option to switch between single and multiple results
-- Manually add a few NPC locations
+- Fix IPC exception on dispose (Infiziert90)
+- Fix loading error for users that are on free trial or missing corresponding expansions, thank you Araiguma (Nuko)
 """
-version = "2.3.0.0"
+version = "2.6.0.1"

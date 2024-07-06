@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "8b16c56540046bc77fc7f9a5e7d952fe3993a816"
+commit = "d66dfab36e210e9ec36352a98773355c2207e6ad"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.1.1.3"
+version = "2.1.1.4"
 changelog = """\
-Fixed crash on boot
-Altered the way the providers are loaded
+**API9 Release**
+- More work on making the threading happy(hopefully no more logouts)
+- UI will indicate when it's loading it's providers
+- Assuming the logout issues resolve I'll make this a non-testing plugin
 """

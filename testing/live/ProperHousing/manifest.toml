@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sevii77/properhousing.git"
-commit = "206b16b7ed9b822fae36a51cf648f2632a54a00b"
+commit = "044b168efcc2bbdd676c10b01d98e339b6bf016e"
 owners = ["Sevii77"]
 project_path = "ProperHousing"
-changelog = """- 6.4 support"""
+changelog = """- Fixed keybind crash"""

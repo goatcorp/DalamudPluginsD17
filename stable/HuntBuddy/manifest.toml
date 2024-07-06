@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "af0b20fe843fb2d3dcd9f272036697aa07560dcd"
-changelog = "- Updated HuntBuddy for API9"
+commit = "3778ebc72970176208201bc08100c73c740ec541"
+changelog = "- New IPC integration\n- Main window now maintains size between restarts\n- Plugin now directly warns users about unsupported hunts (ARR and all B-ranks)\n- Now on .net8!"

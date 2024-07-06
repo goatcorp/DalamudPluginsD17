@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PYRiTEmonark/PartyListExtras.git"
+commit = "4595a96fb617939999aa46fd766747218537c842"
+owners = ["PYRiTEmonark"]
+project_path = "PartyListExtras"
+changelog = """- Damage up, Mitigation up and Healing up are now shown in certain fly texts"""
