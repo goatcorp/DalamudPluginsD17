@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: reiichi001/PAC-Nag@412eabd625820b28aa9b02cd9023d3864d4331a5
+      - uses: reiichi001/PAC-Nag@266d6766e806ccd29e1f1ec2a5fbbbc030b43b8d
         with:
           token: ${{secrets.GITHUB_TOKEN}}
           discord_webhook: ${{secrets.PAC_DISCORD_WEBHOOK}}

@@ -1,5 +1,9 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/BetterPartyFinder.git'
-commit = '6ee7d4a1028649e330f2a87fc555287843906b83'
-owners = [ 'lojewalo' ]
-changelog = 'API 9'
+repository = "https://github.com/sersorrel/BetterPartyFinder.git"
+commit = "658b8d710435421118ca4e84193ed62bfd8cdca9"
+owners = ["sersorrel"]
+changelog = """\
+Fixed the bug preventing current high-end duties from showing up. Also added a category for V&C Dungeons. (Thanks to PartyLich for these changes!)
+
+Plugin adopted from Anna. Many thanks to her for all the work she put in!
+"""

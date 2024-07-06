@@ -1,4 +1,4 @@
 [plugin]
 repository = "https://github.com/mabako/TitleRoulette.git"
-commit = "7ce7cfef3e63983c9072975f75934f15ff6a4aae"
+commit = "7b30a40ad99d824f7aabbf1651f30a8f94f880e8"
 owners = ["carvelli", "mabako"]

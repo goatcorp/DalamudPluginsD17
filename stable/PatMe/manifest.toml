@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MgAl2O4/PatMeDalamud.git"
-commit = "b0b00bbfc5c8e5be6faafd20399bd83ffeaa9584"
+commit = "c2c6c03891b82aa83e79e4bf7571ab830a662e59"
 owners = [
     "MgAl2O4",
 ]

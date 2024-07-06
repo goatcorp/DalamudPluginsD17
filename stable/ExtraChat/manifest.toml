@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/ExtraChat.git'
-commit = 'dc0e23c3daf79ad0edc43118f7ee4130210c5d42'
-owners = [ 'lojewalo' ]
+commit = '9e0b8fb615eb6272bd50b9d9c60e77ed3f3d8d88'
+owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = '''\
-- Fix large message bug
+- Dawntrail
 '''

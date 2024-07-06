@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "4d4ef5ca2f460bbd61c68eecdc2eec0b6ab7670b"
+commit = "d7bef219e06d89c6a8a4eb8b7820cf89d7d7083d"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
--Fixed game crash on viewing certain UI elements.
--Fixed exception on min match filter.
--Adding data validation for teams with too many players.
+* Updated for version 7.0 and Dalamud apiX.
+* Rival Wings matches temporarily disabled.
 """

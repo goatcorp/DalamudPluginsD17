@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "08aa4ee40e72e422769c15f88c9a95b6cf26aee3"
+commit = "20b56cd66c2aa814179c21a967d17361220980ee"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Fixed the plugin \"No GST\" feature (Universalis API changes)"
+changelog = "- Revert to a boxed letter icon in context menus"

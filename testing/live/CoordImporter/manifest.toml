@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "ba8f3bbd60f37746a7b4eb01a332b4779b80c1f0"
+commit = "1351c04f5e30ee08f8b8d92be664518068e66373"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Bug fix: Prevent name collisions causing the wrong mobs to be imported to hunt helper"
+changelog = "Update for API X"

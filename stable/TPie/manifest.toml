@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "3b41107b7bad7d4125357f2a0e629e42fc4eacbc"
+commit = "e13862c306496343e2e34cd63aba4afbd8a419e3"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added support for the \"new\" Dalamund Fonts API."
+changelog = "- Added support for Dawntrail and Dalamud API 10."
