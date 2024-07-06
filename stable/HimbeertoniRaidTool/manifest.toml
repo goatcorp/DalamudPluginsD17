@@ -2,7 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "95708885af6d7b1148acf70c276722a3d97b7d04"
+commit = "e97f7ffb214eab010be740b4c3417c303fe6eaeb"
 changelog = """
-Bugfix: Fixes being unable to add new gear sets
-    User Interface: Add job selection (for BiS and item selection) to gear set edit user interface"""
+General: Updated for 7.0
+    BiS: Automatically converts non existent etro sets to local sets
+    Known Issue: Item categorization and raid infos will be amended once available
+    Known Issue: Stat calculations (e.g. HP) are most likely not correct yet"""

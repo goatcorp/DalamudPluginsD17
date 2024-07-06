@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "081942576ae8d715e4b822f05d45518bc71d75d4"
+commit = "20b56cd66c2aa814179c21a967d17361220980ee"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Implement favorite item list\n- Handle potential errors while fetching market data"
+changelog = "- Revert to a boxed letter icon in context menus"
