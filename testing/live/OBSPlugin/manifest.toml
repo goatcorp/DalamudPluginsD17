@@ -1,6 +1,5 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "ec047298395874465b37785e4e2a494e8bf63fde"
+commit = "ce83d2cb0bc4c34fc661674539b70a93db41151e"
 owners = ["Bluefissure"]
-changelog = """- Support built-in obs-websocket-plugin v5.3.0 in OBS30
-- Change the default blurring algorithm to dual linear"""
+changelog = """- ffxiv 7.0 support"""
