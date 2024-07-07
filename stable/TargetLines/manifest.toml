@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "1643e120b75a28e34f40bfc76492e9305dd145f1"
+commit = "f19f6e3d5cd4ff6abe9d69ede8de21b641de35a6"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
 - Fixed null reference in certain unnatural circumstances
+- Fixed rare case where lines would try to initialize with 0 samples
 - Minor improvements to the performance of fancy lines when there are a high number of lines
 - Added option to filter party/alliance
 """
