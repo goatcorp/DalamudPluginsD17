@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "20b56cd66c2aa814179c21a967d17361220980ee"
+commit = "a929c39e851b09e8ee99013765336bdfa68fc143"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Revert to a boxed letter icon in context menus"
+changelog = "- Better Universalis error handling"
