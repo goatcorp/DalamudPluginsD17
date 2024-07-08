@@ -2,5 +2,4 @@
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
 commit = "4e050c9e63651a4b633a714b90cb5d4018b952cf"
 owners = ["Bluefissure"]
-changelog = """- StreamFX -> Composite Blur\
-- api9 (patch6.5)"""
+changelog = """- ffxiv 7.0 support"""

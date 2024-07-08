@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "ce83d2cb0bc4c34fc661674539b70a93db41151e"
-owners = ["Bluefissure"]
-changelog = """- ffxiv 7.0 support"""
