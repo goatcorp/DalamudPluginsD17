@@ -2,8 +2,4 @@
 repository = "https://github.com/Haplo064/PixelPerfect.git"
 commit = "394da716e8c7ab1e6400c80c5a63ccc83f6374bb"
 owners = ["Haplo064"]
-changelog = "APIX Update.
-Added VPR/PCT
-Added Z axis editing
-Added Cones
-Added fill"
+changelog = "APIX Update. Added VPR/PCT. Added Z axis editing. Added Cones. Added fill"
