@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "cee423cf63e7b637c2fc0ceb8de320140dccab62"
+commit = "9a3d86cbcb55c0908e502871b9fcc54b8c5da70e"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Update for patch 6.5
+Update for 7.0
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "5410a1f874a8f3cc94d6b5ad17a0e216522131e7"
+commit = "20b56cd66c2aa814179c21a967d17361220980ee"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Open selected item page when clicking Universalis button\n- Marketboard item caching\n- Universalis fetching data prompt\n- Recent history option\n- Updated Dependencies for patch 6.4"
+changelog = "- Revert to a boxed letter icon in context menus"

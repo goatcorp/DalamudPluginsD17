@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "3d1f1888a4812d2129e7c5796b4272e10c5b206a"
+commit = "e6a618139d30d7bd9b83bcfa5b81242b62151a29"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
-changelog = """1.2.0
-- Internal changes
+changelog = """
+- Fix potential crash due to reinitializing shadowmaps redundantly
+- Fix startup crash caused by null pointer dereference on frame 0 of the plugin being active
+- Make some items in the config window more clear
 """
 

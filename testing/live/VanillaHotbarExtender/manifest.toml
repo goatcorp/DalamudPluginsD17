@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mustafakalash/VanillaHotbarExtender.git"
-commit = "985175c15d224582b1acc8c3d3fdfd9743340aec"
+commit = "dd221a5ae21ff64204b680799cef5ffc71a83dcf"
 owners = ["mustafakalash"]
 project_path = "VanillaHotbarExtender"
-changelog = "Update for patch 6.3."
+changelog = "Update for patch 7.0"

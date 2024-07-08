@@ -1,12 +1,13 @@
 [plugin]
-repository = "https://github.com/shdwp/xivPartyIcons.git"
-commit = "65d3a70f7dbb01312c352ff16a68bf248645600b"
+repository = "https://github.com/nebel/xivPartyIcons.git"
+commit = "ec4c7d303e8a5e0cada4625e823060b4839f2d84"
 owners = [
     "shdwp",
     "avafloww",
     "abashby",
+    "nebel"
 ]
 project_path = "PartyIcons"
 changelog = """
-- Update for 6.4
+- Update for 6.5
 """

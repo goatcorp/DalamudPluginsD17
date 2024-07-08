@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "f3c6db34a2465f4f57ba67789cd28e0f306395d3"
+commit = "de8985bbf8b174049d9fec03b01d185b1884c1be"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
-changelog = "Added support to marketboard. Cleaner chat log output."
+changelog = "update for apiX"

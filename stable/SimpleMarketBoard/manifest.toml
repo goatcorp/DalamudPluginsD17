@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Elypha/SimpleMarketBoard.git"
+commit = "4a61d952b631edc27e2ba86b6788060d4f3196a2"
+owners = ["Elypha"]
+project_path = "SimpleMarketBoard"
+changelog = """
+v1.6.0.0
+Changelog is available via the `Changelog` button on the Config Window.
+"""

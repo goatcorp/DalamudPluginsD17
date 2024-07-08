@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "9ba9a43fafe7c8154a3bdd62f5b1fa356b68be54"
+commit = "817a5435e7190e333046fb46089eac0c7d3a5daf"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Fixed a bug wherein some of the controls for positioning the Expanded Hold bars were faulty (whoops!)
+An issue with loading the plugin appears to have been resolved by a recent Dalamud update. This update reverts a temporary fix that was made in 1.7.0.3.
 """

@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d8128a98710ce3eeba50681df867d7643664251c"
-owners = ["Glyceri",]
+commit = "d81c661654741b9f2f71b72d70eca8a588dddc4b"
+owners = ["Glyceri"]
 	changelog = """
-    + [1.3.0.0]
-    + Images, Images everywhere.
-    + Will now show Minion and Battle Pet images
-    + Will now show profile pictures (when enabled) in the Player Select list in the Pet List screen.
-    + [1.2.4.0]
-    + Added chaching to multiple search functions improving performance by a lot. (For some functions I've measured 4x the performance :D)
-    + Added support for the minion notebook (Note that using the search function will still use work using the base minion name, trust me I'm working on it)
+    [1.5.0.1]
+    Removed Mappy IPC. (Don't worry, Mappy will still work! Even better than before now!)
+    Updated to ApiX.
+    Updated for 7.0 version of the game.
+    
+    (New summoner summons are not yet available for renaming, I am currently power leveling summoner to lvl 100 to add them!)
 """
