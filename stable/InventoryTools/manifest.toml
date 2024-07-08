@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bee6b2d2a4ef5b735cf49730a9228ecb20819f3d"
+commit = "6e7a166e6147880477076611dbaa6f8fbe087cf4"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.8"
+version = "1.7.0.9"
 changelog = """\
-**Allagan Tools 1.7.0.8**
-- Tooltips are back in action
+**Allagan Tools 1.7.0.9**
+- Company Credit will now track again
+- Import/Export of lists works properly again
+- Trial Synthesis will no longer count towards craft lists
+- Rolled back a fix applied to counter a bug in dalamud(those with inventory not scanning issues should hopefully be sorted)
+- Stopped an old migration from running that would duplicate certain columns
+- Console Games Wiki links for items with a # will now be correct
 """
