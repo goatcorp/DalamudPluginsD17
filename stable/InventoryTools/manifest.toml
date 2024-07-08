@@ -1,18 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "18b93c4dc76b53dfd752efdc1bb9efe239cd2e08"
+commit = "bee6b2d2a4ef5b735cf49730a9228ecb20819f3d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.6"
+version = "1.7.0.8"
 changelog = """\
-**Allagan Tools 1.7.0.6**
-
-**New Features**
-Added Ephemeral & Hidden Node columns/filters
-
-**Bug Fixes**
-Certain items were showing as being collected from ephemeral nodes when they were not
-Columns in the columns/craft columns picker will be in alphabetical order
+**Allagan Tools 1.7.0.8**
+- Tooltips are back in action
 """

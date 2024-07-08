@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "ca1491cb335671c698ccbe0f63a7cd18d0468297"
+commit = "afc27bc666f92624989f1742fbb1f8a7f59cda18"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+Version 0.5.0.0:
+ - Updated to API10
 
 Version 0.4.2.0:
  - Fixed: Crashes when changing characters with RayCasting enabled.

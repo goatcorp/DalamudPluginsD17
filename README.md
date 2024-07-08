@@ -1,3 +1,6 @@
+# 📢 Submissions are currently impossible 
+Please [check here](https://github.com/goatcorp/DalamudPluginsD17/issues/3848) for further details.
+
 # DalamudPluginsD17
 
 Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fantasy XIV](https://github.com/goatcorp/Dalamud). This repository implements [DIP17](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md) to make the submission process easier and faster.

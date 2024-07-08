@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "2b5b963640e323ac5eb8a7a116fdab99236b6df7"
+commit = "de8985bbf8b174049d9fec03b01d185b1884c1be"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
-changelog = "net8 & IContextMenu update"
+changelog = "update for apiX"

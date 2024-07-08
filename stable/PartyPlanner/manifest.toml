@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "77c882e3260133376a2cf18334278365331ad011"
+commit = "4097ceba2b51d078fce65d64f67a01c4b208858c"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """- Minor Internal Refactorings.
-- Auto update events when the window is opened if not updated before for 5 minutes.
+changelog = """- Updated to current API.
+- Remember the last opened tab between game sessions.
 """
