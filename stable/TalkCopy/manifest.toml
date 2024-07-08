@@ -1,17 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "bac5aa7219810f0e418bf6be76e3aa57f5eedb9d"
+commit = "6b5a217084e94167e836afa2f8bc827971fc955d"
 owners = ["Glyceri",]
 	changelog = """
-    [1.1.0.0]
-    Added the command /talkcopy settings
-    Added the command /talkcopy logs
-    Added a new Log window
-    Added more settings to the settings menu
-
-    Now capable of copying Subtitles (togglable)
-    Now capable of copying Toasts (togglable)
-    Now capable of copying Battle Toasts (togglable)
-    Now capable of copying Error Toasts (togglable)
-    Now capable of copying Area Name Toasts (togglable)
+    [1.1.0.1]
+    The settings menu now... works c:
 """

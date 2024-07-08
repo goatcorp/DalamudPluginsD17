@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/GearsetHelperPlugin.git"
-commit = "c97cf824f6dbf2401bfcbe0ade425bed99671316"
+commit = "38a490044f346ac901e177e3bbfed48cf6c5d7d0"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = "GearsetHelperPlugin"
 changelog = """
-- Fixed stats for relic weapons not being handled correctly.
+- Updated for 7.0 / apiX.
+- Added a notice to the Calculated section that math hasn't been updated for Dawntrail and may be inaccurate.
+- Fixed errors in calculating average item level with some jobs and gear pieces.
+- Fixed error in how base stats were calculated.
 """

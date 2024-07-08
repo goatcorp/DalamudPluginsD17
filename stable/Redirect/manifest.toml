@@ -6,4 +6,3 @@ owners = [
 ]
 project_path = "Redirect"
 changelog = "- Fix an issue preventing the use of Starry Muse\n- Add Chocobo companions to available redirection targets (diwo)"
-
