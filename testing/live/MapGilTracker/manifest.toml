@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Azure-Agst/MapGilTracker.git"
+commit = "7412f0c39cd6fd983cf616d3203e26aafb0d7a64"
+owners = [ "Azure-Agst" ]
+project_path = "MapGilTracker"
+changelog = """
+- Submission for testing
+"""

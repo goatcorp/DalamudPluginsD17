@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "4e66d1a87fca577bfe6d6b04b6b0ccf86ce91253"
+commit = "68c7d535aeb85606df8f54885adddf2c7ebd67e1"
 owners = [
     "lokinmodar",
 ]
-changelog = "API9 related fixes"
+changelog = "Added Deepl Translation Engine (thanks again to @samulopez)"

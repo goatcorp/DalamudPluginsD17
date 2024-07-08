@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/Bluefissure/NoKillPlugin.git"
-commit = "d1fa410f870eee3bee5502fcf7b7d139f3b2a8f3"
-owners = ["Bluefissure"]
-project_path = "NoKillPlugin"
-changelog = """- .Net 7 Update (FFXIV 6.3/6.4)
-- Added a donate button"""

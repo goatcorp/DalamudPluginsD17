@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
+repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "2372b2e0e84f1c779b98ac3bf718af01f5906c70"
-changelog = "## 2.8.0 (2023-10-03)\n\n\n### Features\n\n* api 9 update (cf32904)"
-version = "2.8.0"
+commit = "d73af20ad43a49c7b540dfbe630f62eb37b649ed"
+changelog = "## 2.11.0 (2024-07-01)\n\n\n### Features\n\n* update for apix (c931c14)"
+version = "2.11.0"

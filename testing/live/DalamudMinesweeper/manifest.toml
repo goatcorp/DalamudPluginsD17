@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
+commit = "441ba97c88c2f93ae35d598de78a00126fd907f8"
+owners = ["hunter2actual"]
+project_path = "DalamudMinesweeper"
+changelog = "Add expert difficulty"

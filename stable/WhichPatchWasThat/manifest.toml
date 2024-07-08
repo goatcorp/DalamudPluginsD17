@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "f943de35e107ff88a289f7d914b30137a9753647"
+commit = "b48a6decc3a82db1c85b54eb55ce25986beb9e38"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Update for patch 6.5
+Update for 7.0
 """

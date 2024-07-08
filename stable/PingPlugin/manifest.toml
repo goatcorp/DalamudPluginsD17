@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "8bdfd33027841934f9179a2414de94a2c21065a3"
+commit = "ce59dff751335dc5ce6d059fc9fae0c5294c27f5"
 owners = ["karashiiro"]
 changelog = """\
-- Updates for API 9
+- Updated for API X
+- Updated font handling
+- Updated lobby server addresses
+- Added fallback for Shadow ping detection
 """

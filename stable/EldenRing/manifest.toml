@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/reiichi001/EldenRingDalamud.git"
+commit = "bee85dce4ef4975102ec55407dfabdaccf082505"
+owners = [
+	"Roselyyn", 
+	"reiichi001"
+]
+project_path = "EldenRing"
+changelog = """
+Updated for API 9 Compatibility
+- Switch from opcode to dutystate by MidoriKami
+- Other API 9 update grabbed from Kurochi51's PR
+- Moved to stable because it was formerly testing exclusive, but didn't need to be.
+"""

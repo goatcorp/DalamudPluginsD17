@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "c02c2e08fce3d064b0810ab52de06aafba388326"
+commit = "af683eb0ca78b6f15915ee339a8cd6803c47053b"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.2.0.0
+1.3.0.2
 
-Hello Everyone,
-TooltipNotes is back for patch 6.5 and its better than ever!
-What changed?
-it may not look like much but behind the scenes a lot has changed which means now those who couldnt use TooltipNotes before due to FPS drops and it just straight up not working should niw be able to use it wihtout worries I hope
+Bugfix for loading notes 
+
 """

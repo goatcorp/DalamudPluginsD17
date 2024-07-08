@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/WheresWOLdo.git"
-commit = "879c8f7aefc9208f9cb8ac1425a062daf8e75ecc"
+commit = "6a9caf26e4c5ad0fd88b589e9821028018f043d4"
 owners = [
     "reiichi001",
 	"Haplo064",
 ]
 project_path = ""
-changelog = "Net7 / API 8 update. Consider migrating to WhereAmIAgain though."
+changelog = """
+API 9 update.
+
+Please consider migrating to WhereAmIAgain, which has more features and better location support. WOLdo has been in maintenance mode since API 4 (October 2021).
+"""

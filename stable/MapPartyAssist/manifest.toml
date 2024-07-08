@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/wrath16/MapPartyAssist.git"
+commit = "d23ba559f889d30caa870c99bf81b4b65e6d1595"
+owners = ["wrath16"]
+project_path = "MapPartyAssist"
+changelog = """
+* Update for 7.0.
+"""

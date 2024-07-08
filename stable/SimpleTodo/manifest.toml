@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://gitlab.com/moonfox-projects/simpletodo.git"
+commit = "ca2c6a390248faf5cb8f0cc5924b77778b3d15cb"
+owners = ["Lunalicious"]
+project_path = "SimpleTodo"
+changelog = "Public Release"

@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/WorkingRobot/Craftimizer.git"
+commit = "5d51bb21e8ce788a161e2ac9b64e4c5b4870d789"
+owners = [ "WorkingRobot" ]
+project_path = "Craftimizer"

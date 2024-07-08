@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "017977e4a253e736b24a97e0afc9ee8d15cb94ee"
-changelog = ""
+commit = "afa273e052d6c4f2518133ce352312ca9280d030"
+changelog = "Update for patch 7.0 and new Dalamud API. No functional changes."
