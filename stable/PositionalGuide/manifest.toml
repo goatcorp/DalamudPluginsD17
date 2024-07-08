@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "4830ad193f2a4a1452537efc8ecd29cfb0c54415"
-changelog = "The target circle feature hasn't been experimental in ages, it's confirmed working perfectly."
+commit = "afa273e052d6c4f2518133ce352312ca9280d030"
+changelog = "Update for patch 7.0 and new Dalamud API. No functional changes."

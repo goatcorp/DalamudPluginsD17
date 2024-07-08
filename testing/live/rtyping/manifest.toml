@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "21942bdf922976c2c8c31131cb02299243e7500e"
+commit = "7247560e7489f16b414cf61ee0bbe74e940a0dd0"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Update for 6.5
+- Update for 7.0
 """

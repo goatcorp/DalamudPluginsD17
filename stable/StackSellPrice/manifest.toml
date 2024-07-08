@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/StackSellPrice.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "74e987a77dd2344386107e2a309cbcda936458ca"
-changelog = "HQ item prices are now handled correctly (fixed rounding logic) and\nmateria prices should be calculated properly, since they're treated\nby the game as being HQ even though they _can't_ be HQ. I blame SE.\n\nAlso updated XivCommon to latest (7.0.2) as well."
+commit = "811d8a6dd507f1426fd1ffe7c248adeb6fcbfd55"
+changelog = "Update for patch 6.58, no code changes."

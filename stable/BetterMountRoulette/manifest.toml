@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "dc29ebbb33303263af96e3347573adcd86cb7955"
-version = "1.2.0.12"
+commit = "e9ed6bb27ce6a4cf15024b2052179767a72578b5"
+version = "1.3.0.16"
 owners = ["CMDRNuffin"]
-changelog = """Fix: Prevent 6.4 crash"""
+changelog = """Update for Dawntrail"""

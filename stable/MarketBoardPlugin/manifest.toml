@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "c9a5086f09b25fbc7b5a032164bf3edb0e3bad72"
+commit = "20b56cd66c2aa814179c21a967d17361220980ee"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Update for 6.5 / API 9"
+changelog = "- Revert to a boxed letter icon in context menus"

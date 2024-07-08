@@ -1,9 +1,6 @@
 [plugin]
 repository = "https://github.com/NeNeppie/LightsCameraAction.git"
-commit = "8e1c6a34d28a92c4cc84722aaa988e55f4e1f2a7"
+commit = "206cb2406f464a85d029bc1f3c4f89fabb6748c0"
 owners = ["NeNeppie"]
 project_path = "CameraLoader"
-changelog = """
-- You can now sort presets by creation date and name, under Sorting Settings in the settings tab.
-- Tidied up the preset information boxes, now also featuring cute icons.
-"""
+changelog = "- Updated for API 9 / 6.5"

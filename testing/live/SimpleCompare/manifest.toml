@@ -1,8 +1,6 @@
 [plugin]
 repository = "https://github.com/53m1k0l0n/ffxiv-simplecompare.git"
-commit = "f110b4525be843c0685eb6a1899a2244e628603f"
+commit = "f5601982f519126db727d868a42e558edf847117"
 owners = ["53m1k0l0n"]
 project_path = "SimpleCompare"
-changelog = """- Adopted and forked
-- Udated to NET 7.0 and API 8
-- Added second window for hoverditem, for a more clearly compare"""
+changelog = """- Update 2.0.0.2"""

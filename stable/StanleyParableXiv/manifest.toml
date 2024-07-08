@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "672c84f43fed7be3f508618cbafed090ee3a0b77"
+commit = "0ddcabcf41774dc0de8737d58734fbbaaa8aef71"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Fixed AFK events playing in cutscenes
-- Fixed AFK events not playing again after playing once
-- Fixed some PVP events causing a crash if a player goes missing
-- Refactored duty events to only play in whitelisted content types
-- Added a disk space check and feedback for new plugin users
+- Added the option to choose between MP3 and OGG assets (defaults to MP3)
 """
