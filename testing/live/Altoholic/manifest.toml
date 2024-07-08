@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "487b2d1f6786a61d08679884a1aa57e9722951a3"
+commit = "7bbc3eb26c665ac585e9c783933a50783d974757"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Details tab potential crash backport fix"
+changelog = "Update DT. Add Inventory, Retainers, Collection"
