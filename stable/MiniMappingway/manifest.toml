@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "0ee0245d10fee5c45e6f5593ec0dda04312ad2c7"
+commit = "fa99b8af0fab9d1378da1a782bca00cc258cfcd8"
 owners = [
     "jaycewhite"
 ]
-changelog = "Update for 7.0"
-version = "1.0.0.6"
+changelog = "Fix issue with FC markers when world/DC travelling"
+version = "1.0.0.7"
