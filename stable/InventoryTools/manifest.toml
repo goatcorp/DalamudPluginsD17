@@ -1,17 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bcec672b06f23c19560c4d31f8dd0cf221c24e18"
+commit = "81556573fff04c4eab9a120707ea6689236ba0de"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.2.9"
+version = "1.7.0.10"
 changelog = """\
-**Fixes**
-- Stop some game calls being made in the plugin load
-- The armoire should now highlight again
-- The default highlighting colour for tabs was incorrect
-**Improvements**
-- Highlighting now uses the addon lifecycle service provided by Dalamud
-
+**Allagan Tools 1.7.0.10**
+- Fix a crash that wold occur when booting the plugin for the first time.
 """

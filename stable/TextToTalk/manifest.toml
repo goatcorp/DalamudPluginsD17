@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b05d443c46f3cae64347b887fe0b50857a28b017"
-project_path = "src"
+commit = "0880b0db6552568e513865d4877b8ed933c17adc"
+project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Adds `PayloadTemplate` to the message payload (check the README for more details)
+- Updated for API10 (thanks Ania!)
 """

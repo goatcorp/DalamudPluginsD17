@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "d651380c76cb90cb7317651d756680e557d82b3d"
+commit = "5e7ffcfc0c5184b2b5c17085a5133b9803af8de9"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.9.0**
+**Version 0.6.10.0**
 
-Adds a warning when certain custom Discord clients (those using arRPC) are detected. Who's Talking can't work with these clients, because they don't implement the feature that lets other applications see when you're in a voice channel.
+Adds a workaround for issues in duties with more than 24 players, such as Delubrum Reginae (Savage).
 
 A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
 """

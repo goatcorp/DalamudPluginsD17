@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/lostkagamine/PushyFinder.git"
-commit = "2490dc68c010098ef2097bc1f1404faf4bee4527"
+commit = "d070a666fddeb7067129b664d84b3054720484a8"
 owners = ["lostkagamine"]
 project_path = "PushyFinder"
-version = "1.1.1.0"
+version = "1.3.0.0"
 changelog = """
-**PushyFinder has been updated for APIv9!**
-The plugin is now functional again on current versions of FINAL FANTASY XIV, and all of your settings are still there.
-Sorry for the long wait!
+PushyFinder is updated for Final Fantasy XIV: Dawntrail and Dalamud API 10.
 """

@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "39d19fe2336fbe9c87e2818be8af907e33b48af5"
+commit = "0d4288fced8eb2d0c481eaab271b9b8efeefecaa"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Fix main menu cut-off when placed at right side of the toolbar
-- Add an online-status widget
-- Add option to toggle currency label in the toolbar
-- Fixed colors of active/hovered category in settings window
-- Fixed current weather to also reflect special weather events (Ovni, etc.)
-- Fixed gaps between elements when global font scaling is used
+- Added an option to auto-close the gearset switcher when changing gearsets
+- Fixed thousands separator for clients that use NNBSP in the Currency Widget
+- Fixed the overflow container shadow effect not scaling with custom UI scale
+- Fixed & Added localization for Volume, World Marker, and Gearset widgets
+- Fixed the clock widgets showing the wrong prefix icon if the language in Umbra has been overridden.
+- Fixed the district name in the location widget to be faster and match in-game names.
 """

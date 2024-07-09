@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "3bdcb471295fffa687a4331ce0ee6870dd64cc2b"
+commit = "f34bf693dbcbcc6fe6921e4a17c59a0da74016bc"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed the null reference exception issue when hovering the currency addon.
-- Optimized the logic for MobDrops module.
-- Fixed the issue that Server Bar entry would disappear when relogin to another character.
+- APIX Update.
+- Fixed the issue of currency name data files containing special characters being repeatedly created in Japanese client.
 """

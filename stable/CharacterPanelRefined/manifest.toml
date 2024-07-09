@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "a81349322766f116a5a9cb3b43e6697098231963"
+commit = "cea9a111074674dd126c7b5fe3d5d53d6bff9df5"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Fix ilvl sync being incorrectly displayed in bozja and eureka.
+- Fixed incorrect stat calculation at level 100
+- Fixed viper using hunter's instinct instead of swiftscaled
 """
