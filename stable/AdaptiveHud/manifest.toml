@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Helios747/AdaptiveHudPlugin.git"
-commit = "1f9e069fd76117e9995a32f9abbbb11096bbbc37"
+commit = "0ea93f7c4b2acd69c1084752ba7d28fa73d96053"
 owners = [
     "Helios747"
 ]
