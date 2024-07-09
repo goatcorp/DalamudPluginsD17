@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "441ba97c88c2f93ae35d598de78a00126fd907f8"
+commit = "2460a248f58c3c778adc9cb7a9355d06b712569f"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Add expert difficulty"
+changelog = "Update for Dawntrail"
