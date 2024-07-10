@@ -1,16 +1,13 @@
 [plugin]
 repository = "https://github.com/rootdarkarchon/XIVJitterFix.git"
-commit = "674d6b0d912150f91238894e6cc51c4cd7ce73cd"
+commit = "b6eb82fdfb12ab6a0c836f5313ce1340bd25f699"
 owners = [
     "rootdarkarchon"
 ]
 project_path = "XIVJitterFix"
 changelog = """
-**First testing release** 
-- this plugin aims to fix the anti aliasing implementation of SquareEnix
-The game automatically disables the needed jitter for temporal antliasing during cutscenes, NPC dialogue and gpose.
-This plugin forcefully reenables this functionality, leading to a cleaner image.
-Additionally includes configuration for:
-- jitter factor multiplier
-- ignore downscaling for buffers (essential if you are running DLAA)
+- Add toggle to 'Override Downscaling Settings' that defaults to off
+  - this potentially fixes an issue where beta version of DLSSTweaks might not always apply DLSS and always fall back to DLAA
+  - If the toggle is not switched on, the plugin will not attempt to set 'Ignore Downscaling' to the engine to any value
+  - If you used the 'Ignore Downscaling' toggle for DLAA usage prior, the 'Override Downscaling Settings' toggle will be enabled instead of disabled by default
 """
