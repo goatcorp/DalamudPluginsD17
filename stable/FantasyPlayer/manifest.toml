@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "25993709a44271ffd2c9c543e31a3b9628c4201a"
+commit = "47195e747fb969af994766dc24f24becb06f98b2"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.2.0.3"
+version = "2.2.0.4"
 changelog = """\
-- apiX support
-- Use dalamud window system
-- Allow main player window to be resized to any size
+- Stop settings window from opening every boot
 """
