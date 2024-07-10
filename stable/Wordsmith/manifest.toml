@@ -5,5 +5,5 @@ owners = [
     "LadyDefile"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.11.1 Patch Notes:
-[FIXED] Fixed a crash related to zero-length words in the Tally system."""
+changelog = """# Wordsmith v1.15.0 Patch notes
+Updated Wordsmith to work with the new Dalamud API and .NET 8.0"""
