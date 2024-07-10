@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/53m1k0l0n/QuoteOfTheLobby.git"
-commit = "f5183120bd2f72791978b2b1e22bf6d0ffdb125f"
+commit = "af5687d225c27fc605d53539618d95ab031f1812"
 owners = ["53m1k0l0n"]
 project_path = "QuoteOfTheLobby"
-changelog = """- Adopted and forked
-- Udated to NET 7.0 and API 8
-- Csproj fix"""
+changelog = """- Update Api 9
+- 1.0.0.10"""

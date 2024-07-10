@@ -1,15 +1,15 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "82f98489803b7d065a1968ab098be70e87cc2dd5"
+commit = "de20a711b1105a1415935fa6b5ad0d8c0235cadc"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Added support for collectable shops (Nuko)
-- Added some support for relic weapons (Nuko)
-- Fix tooltip error (Nebel)
-- Update to API 9
+- API 10 updates
+- Make table header sticky
+- Make table rows color banded
+- Remove xivcommon dependency
 """
-version = "2.4.0.0"
+version = "2.7.0.0"

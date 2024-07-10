@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
+commit = "25993709a44271ffd2c9c543e31a3b9628c4201a"
+owners = [
+    "Critical-Impact",
+]
+project_path = "FantasyPlayer"
+version = "2.2.0.3"
+changelog = """\
+- apiX support
+- Use dalamud window system
+- Allow main player window to be resized to any size
+"""

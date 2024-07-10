@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "34e7f2361a5b901441527c75b54db8af772a0aeb"
+commit = "fa99b8af0fab9d1378da1a782bca00cc258cfcd8"
 owners = [
     "jaycewhite"
 ]
-changelog = "Bugs fixed: friends not showing up; people still showing up on minimap if in party/alliance."
-version = "1.0.0.4"
+changelog = "Fix issue with FC markers when world/DC travelling"
+version = "1.0.0.7"

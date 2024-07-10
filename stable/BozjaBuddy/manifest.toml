@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "de825a38b68fe7dca691bd8eafeb3f2a0e5cb6be"
+commit = "ccd20de8f2d5fecba19cb35a2128210a9e1b34af"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.5.3
-- Remove shortcut [Alt] for expanding info-viewer due its inconvenience surpass its merits.
-- Fixes incorrect info regarding "Parts and Parcel" FATE
-- Fixes incorrect info regarding relic step "One time grind 2"
+Bozja Buddy 1.1.6.0
+- API 10 migration.
+- Option to set visibility mode of Auxi viewer.
+- Adjust tab content UI when Auxi viewer is hidden.
+- Minor UI fixes/adjustments.
+- Fixes community links.
 """

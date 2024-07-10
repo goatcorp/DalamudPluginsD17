@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "d0366deff8edd3941ea327e2c309c427ef3ef3cd"
+commit = "71aafdc7b4e3a87dd829b2b94dc09ecee0955770"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fixed tooltip text having randomized character spacing
+Fix tooltips overflowing when using UI scaling
+Fix = occasionally showing in numbers when using french language on windows
 """

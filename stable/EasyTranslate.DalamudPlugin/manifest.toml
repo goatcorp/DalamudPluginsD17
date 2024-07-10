@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
+commit = "42a0f8d9f320bb2b0269a19890e7d289ec479f82"
+owners = ["Olaren15"]
+project_path = "EasyTranslate.DalamudPlugin"
+changelog = """
+- Added button to copy translations from search results
+- Allow searching for classes and jobs
+"""

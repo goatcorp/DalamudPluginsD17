@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/InvoxiPlayGames/paggles-xiv.git"
+commit = "566668ceb10977bbd71eaed8ceb67ccd462c4910"
+owners = ["InvoxiPlayGames"]
+project_path = "Paggles"

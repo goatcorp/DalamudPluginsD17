@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a62d3cc79937c2d71b87315676504866b689993c"
+commit = "a929c39e851b09e8ee99013765336bdfa68fc143"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Now the shopping list will stay open as long as it has item stored even if the main window is closed.\n- Added the option to show prices without the Gil Sale Tax"
+changelog = "- Better Universalis error handling"

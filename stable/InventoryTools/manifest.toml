@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "be2a8ef9cef105a7fa688dfaad09a898cdaa5b6e"
+commit = "81556573fff04c4eab9a120707ea6689236ba0de"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.6.1.8"
+version = "1.7.0.10"
 changelog = """\
-**Bug fix**
-- Fix crash that occurs due to duplicate item patch data
-- :plofix:
+**Allagan Tools 1.7.0.10**
+- Fix a crash that wold occur when booting the plugin for the first time.
 """

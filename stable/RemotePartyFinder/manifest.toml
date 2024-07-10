@@ -1,6 +1,6 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/remote-party-finder.git'
-commit = 'ef22082e539705f2aac24f0035577600246bcfb7'
-owners = [ 'lojewalo' ]
+repository = 'https://github.com/zeroeightysix/remote-party-finder.git'
+commit = '5de579c0678ee77922ff4e4e3230e8dc138b7785'
+owners = [ 'zeroeightysix' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = 'API 9'
+changelog = '.NET 8'

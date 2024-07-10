@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "5c4e038244cc6d9543f809d8c8cac30019f37f8f"
+commit = "f19f6e3d5cd4ff6abe9d69ede8de21b641de35a6"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Updated for 6.5
-- Updated for API9
-- Minor fixes
+- Fixed null reference in certain unnatural circumstances
+- Fixed rare case where lines would try to initialize with 0 samples
+- Minor improvements to the performance of fancy lines when there are a high number of lines
+- Added option to filter party/alliance
 """
 

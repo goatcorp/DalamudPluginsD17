@@ -1,12 +1,14 @@
 [plugin]
-repository = "https://github.com/abashby/NamePlateDebuffs.git"
-commit = "ac54d7278a4605f1bdb089e568e71568ce2da776"
+repository = "https://github.com/sourpuh/NamePlateDebuffs.git"
+commit = "abc1047e75512a412f62cf388c83fac77a87cfee"
 owners = [
     "aers",
     "JHerig",
     "abashby",
+    "sourpuh",
 ]
 project_path = "NamePlateDebuffs"
 changelog = """
-- Update for 6.4
+Nameplate Debuffs 1.1.0.2
+- Update for apiX
 """

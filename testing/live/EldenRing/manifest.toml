@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/reiichi001/EldenRingDalamud.git"
-commit = "8f00a28d20274ffb64f712615ea2abe9047892a0"
-owners = [
-	"Roselyyn", 
-	"reiichi001"
-]
-project_path = "EldenRing"
-changelog = "API 8 Compatibility"

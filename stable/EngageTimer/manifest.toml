@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "69ff776388847692aefa0309300d3535792edda8"
+commit = "8173ff5416dfb86326548c5833b54a4ba994020b"
 owners = ["xorus"]
 changelog = """\
-- Countdown Ticks: option to make them start at a certain time (e.g. only tick 1 to 10 numbers)
-- Updated to api 9
+- DT compatibility
+- Update for API10:
+  - Use new texture loading for countdown
+  - Migrate to the new font system, the floating window contents might be blurry, this will be fixed soon when I can implement font customization instead of always using the default dalamud one
+- Fix countdown being rounded instead of floored in floating window when disabling decimals
 """
