@@ -1,4 +1,6 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = '04791b19800db6f6cc5d892ccffe75eb2536334f'
+commit = 'b3a3e8f2d103ddc7643d9a16837d9200756abe0f'
 owners = [ 'Xpahtalo' ]
+changelog = """Updated to fix the failing load due to CS changes.
+It will also hopefully fail more gracefully and still have partial functionality when this happens again. A better system to at least let you know what has failed will come in the future."""

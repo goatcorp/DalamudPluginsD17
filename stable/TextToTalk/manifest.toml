@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "46131e71b4b870155ffad5b7b3f99d5be2c1e48d"
+commit = "0880b0db6552568e513865d4877b8ed933c17adc"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **VoiceUnlocker**: Fixes VoiceUnlocker failing to run due to not being distributed with the plugin.
+- Updated for API10 (thanks Ania!)
 """

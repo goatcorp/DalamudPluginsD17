@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "d730c63891f84a44dae7489f1164a5182edbd458"
+commit = "71aafdc7b4e3a87dd829b2b94dc09ecee0955770"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Support dynamis datacenter
+Fix tooltips overflowing when using UI scaling
+Fix = occasionally showing in numbers when using french language on windows
 """

@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "6064bc4bb4716d788960a605a77a85ac1d496871"
+commit = "b1a007140bb63557c25136fec3c1c33e6acb7137"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.11.1"
+version = "1.0.12.0"
 changelog = """
-- Fix issue when saving macros that contain auto-translate payloads
+- 7.0 support
 """

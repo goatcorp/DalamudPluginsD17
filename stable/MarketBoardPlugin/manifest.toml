@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "081942576ae8d715e4b822f05d45518bc71d75d4"
+commit = "a929c39e851b09e8ee99013765336bdfa68fc143"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Implement favorite item list\n- Handle potential errors while fetching market data"
+changelog = "- Better Universalis error handling"

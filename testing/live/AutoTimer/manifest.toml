@@ -1,7 +1,9 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "82cf760dd6c9cc32bfa6dbb3aeeffd290fda9ec0"
+commit = "282ceb1a287e6fe31040380b4cc9fa20f06a199e"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Fix crash related to usage of non-auto-attack actions (eating food, etc.)'''
+- Updated to Dawntrail
+- Resolved issue where Inspiration was incorrectly counting towards Pictomancer auto-attack haste
+- Added option to scale the bar'''

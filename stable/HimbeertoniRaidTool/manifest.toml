@@ -2,9 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "863963cfecdd0392166e20702d3262698868292e"
+commit = "e97f7ffb214eab010be740b4c3417c303fe6eaeb"
 changelog = """
-System: Changes to data storage (drops support for data from versions < 1.4.0)
-    User Interface: New interface for searching characters from database
-    General: Fix "Dmg" Calc being slightly off
-    User Interface: Some minor Ui improvements"""
+General: Updated for 7.0
+    BiS: Automatically converts non existent etro sets to local sets
+    Known Issue: Item categorization and raid infos will be amended once available
+    Known Issue: Stat calculations (e.g. HP) are most likely not correct yet"""

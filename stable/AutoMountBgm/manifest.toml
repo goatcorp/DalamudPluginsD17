@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "7713fb491d32dec20be49a096bb1776c1ccfe239"
-changelog = "The mount list can now be filtered by the BGM track filename played, making it easy to track down all mounts playing the same song. There's a new button to enable/disable BGM for all mounts visible in the list, to go with the filtering improvements."
+commit = "702ab417188802edc7e8cf8adb9054262cd7124a"
+changelog = "Updated to patch 7.0 and new API, fixed the \"disable Borderless\" option not being actually implemented. Closes #2."

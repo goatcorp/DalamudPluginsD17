@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "c4160abd32ee0f812177e0de3ed65a8da0635c4e"
+commit = "506c6db49ca5d0493b5679e14c319010ccea0dd5"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- NET8 Update
-- IContextMenu Refactor
-- General refactorings
+changelog = """- API X update
+- Necessary and general service usage refactors
  """

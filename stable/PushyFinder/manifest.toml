@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/lostkagamine/PushyFinder.git"
-commit = "ac85668196b5ce930cb38b81b615f30190053925"
+commit = "d070a666fddeb7067129b664d84b3054720484a8"
 owners = ["lostkagamine"]
 project_path = "PushyFinder"
-version = "1.2.0.0"
+version = "1.3.0.0"
 changelog = """
-**PushyFinder now supports Discord notifications!**
-Check the new Discord tab, in the settings menu, for more info!
+PushyFinder is updated for Final Fantasy XIV: Dawntrail and Dalamud API 10.
 """

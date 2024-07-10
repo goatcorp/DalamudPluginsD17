@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "6d8b12cd4bd19e0e9229cc82d8a9a5a316d8d2dd"
+commit = "e0386d9156b3f0b8328360d733bb0d8592547077"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Net8
-- IContextMenu change
+- Fixes Nameplate bubble indicator
 """

@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MacroRecorded.git"
-commit = "c50866fedc41b47e502b77055fdcd7c03165c312"
+commit = "1a2b90909b1ea5ea0ac1a32dc26b4c048075d436"
 owners = [
     "danielbrenom",
 ]
 project_path = "MacroRecorded"
-changelog = """- Adds configuration to macro wait command time
+changelog = """- Updated to 7.0
  """

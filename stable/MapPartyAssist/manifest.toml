@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "834f13a9c1cddf820cadbbe46f8fbb56125ffddf"
+commit = "d23ba559f889d30caa870c99bf81b4b65e6d1595"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Failed price check bug fix.
+* Update for 7.0.
 """
