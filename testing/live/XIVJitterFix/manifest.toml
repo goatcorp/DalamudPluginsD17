@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/rootdarkarchon/XIVJitterFix.git"
+commit = "51559f6f1b84698ad104286526429f56b3945774"
+owners = [
+    "rootdarkarchon"
+]
+project_path = "XIVJitterFix"
+changelog = """
+- Add toggle to 'Override Downscaling Settings' that defaults to off
+  - this potentially fixes an issue where beta version of DLSSTweaks might not always apply DLSS and always fall back to DLAA
+  - If the toggle is not switched on, the plugin will not attempt to set 'Ignore Downscaling' to the engine to any value
+  - If you used the 'Ignore Downscaling' toggle for DLAA usage prior, the 'Override Downscaling Settings' toggle will be enabled instead of disabledthat by default
+"""

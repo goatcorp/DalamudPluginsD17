@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "9a3d86cbcb55c0908e502871b9fcc54b8c5da70e"
+commit = "cea9a111074674dd126c7b5fe3d5d53d6bff9df5"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Update for 7.0
+- Fixed incorrect stat calculation at level 100
+- Fixed viper using hunter's instinct instead of swiftscaled
 """

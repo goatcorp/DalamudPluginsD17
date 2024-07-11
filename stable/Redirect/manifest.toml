@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "f40cbcd61b471859919d6d47f52c2c419a2f580e"
+commit = "97b9bbf73d3c10e9722f3349b8b92c1ed2445a12"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Updates for Dawntrail and apiX"
-
+changelog = "- Fix an issue preventing the use of Starry Muse\n- Add Chocobo companions to available redirection targets (diwo)"
