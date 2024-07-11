@@ -28,6 +28,14 @@ jobs:
         status: in_progress
         details_url: "https://github.com/goatcorp/DalamudPluginsD17/actions/runs/${{ github.run_id }}"
 
+    - name: Setup Difftastic
+      run: |
+        wget https://github.com/Wilfred/difftastic/releases/latest/download/difft-x86_64-unknown-linux-gnu.tar.gz
+        tar -xzf difft-x86_64-unknown-linux-gnu.tar.gz
+        sudo mv difft /usr/local/bin/difft
+        sudo chmod +x /usr/local/bin/difft
+        difft --version
+
     - name: Checkout manifests from incoming PR
       uses: actions/checkout@v3
       with:
