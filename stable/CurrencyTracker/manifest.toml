@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "4d58f82ff54b628bb16d829ae556ae9323316bcc"
+commit = "f34bf693dbcbcc6fe6921e4a17c59a0da74016bc"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Updated localization files for German and Spanish
+- APIX Update.
+- Fixed the issue of currency name data files containing special characters being repeatedly created in Japanese client.
 """

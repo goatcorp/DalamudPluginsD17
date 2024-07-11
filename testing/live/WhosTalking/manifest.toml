@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "d651380c76cb90cb7317651d756680e557d82b3d"
+commit = "158aeb5ed9c3a09b0c7c835cc5b642a726f817df"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.9.0**
+**Version 0.7.0.0**
 
-Adds a warning when certain custom Discord clients (those using arRPC) are detected. Who's Talking can't work with these clients, because they don't implement the feature that lets other applications see when you're in a voice channel.
+Adds support for rendering voice activity indicators with the game's native UI toolkit!
 
-A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
+This means that you can drag game windows on top of the party list, and the indicators will be properly rendered below the overlapping window.
+
+To test this new feature, head to the plugin settings and switch "indicator style" from "Imgui" to "Atk". Please let me know about any problems via the new Who's Talking thread in #plugin-help-forum.
 """

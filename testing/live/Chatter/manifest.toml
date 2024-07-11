@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "1493169c37467f3b9549ac4aa2c0778622dae037"
+commit = "0ae41291809f498b9fb3985a457c1289b9e38e2f"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Updated to support v6.51"
+changelog = "Updated to work with latest"
