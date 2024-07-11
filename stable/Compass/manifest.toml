@@ -1,5 +1,8 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "54d728e3fcc9b5934651b1e36ee92ca983adbea8"
+commit = "d295ada780dd63c22d33a3da0c5d747e7885f1a4"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
+changelog = """
+- feat: Update to apiX & 7.0
+"""
