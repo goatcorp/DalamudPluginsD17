@@ -36,6 +36,14 @@ jobs:
         sudo chmod +x /usr/local/bin/difft
         difft --version
 
+    - name: Setup terminal-to-html
+      run: |
+        wget https://github.com/buildkite/terminal-to-html/releases/download/v3.14.0/terminal-to-html-3.14.0-linux-amd64.gz
+        gunzip terminal-to-html-3.14.0-linux-amd64.gz
+        sudo chmod +x terminal-to-html-3.14.0-linux-amd64
+        sudo mv terminal-to-html-3.14.0-linux-amd64 /usr/local/bin/terminal-to-html
+        terminal-to-html --version
+
     - name: Checkout manifests from incoming PR
       uses: actions/checkout@v3
       with:
