@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "f1187e955f478d1b20816ccd7720db65c3d2ec18"
+commit = "cff8b1de60ab4752188e109b357f35b63cd969c9"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Reworked the drawing backend.
-- OOBE window on first launch.
-- A brand new widget system.
-- Config and color profiles.
-- Individual world marker customization.
-- A metric ton of customization options.
+Umbra updates:
+ - Fixed french characters not rendered correctly in FATE world marker names
+ - Added an indicator to FATE world markers when EXP-bonus is active (shows as boxed-star before the name)
+ - Added extra auto-hide options for the toolbar - by AltinaXIV
+ - Allow adding discontinued white scrips to the list of currencies via custom item IDs - by zbee
+ - Added support for multithreaded style computations. Opt-in and experimental but provides a significant performance boost.
+ - Added support for 4K (or larger) displays.
 """
