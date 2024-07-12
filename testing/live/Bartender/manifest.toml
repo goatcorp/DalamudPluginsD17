@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/AtaeKurri/Bartender.git"
 commit = "3fb534be7ca82835a4d6b9b1ab8ceb06c802c754"
-owners = ["Tania Anehina"]
+owners = ["AtaeKurri"]
 project_path = "Bartender"
