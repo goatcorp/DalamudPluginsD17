@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "d295ada780dd63c22d33a3da0c5d747e7885f1a4"
+commit = "a0815f57d97631f107989344a8d039ea91189555"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
 changelog = """
