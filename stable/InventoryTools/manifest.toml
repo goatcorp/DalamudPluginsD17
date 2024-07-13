@@ -1,12 +1,22 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "81556573fff04c4eab9a120707ea6689236ba0de"
+commit = "66cd4b22e4dd56bb566c43bd7a417bedadf19e68"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.10"
+version = "1.7.0.11"
 changelog = """\
-**Allagan Tools 1.7.0.10**
-- Fix a crash that wold occur when booting the plugin for the first time.
+**New Features**
+- Grand company turn in column/filter added
+- Character owner column added
+- Items that are grand company turn-ins will now display that in the Uses/Rewards section of the more item window
+- Add in inventory scope picker for "Amount Owned" tooltip allowing you to pick which items are shown
+
+**Bug Fixes**
+- Labels in the wizard should no longer be cut off
+- Tetris has returned!
+
+More fixes and features to come, stay tuned
+
 """
