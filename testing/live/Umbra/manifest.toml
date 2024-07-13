@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "28d05bdd320e94b532914348ede3015ef7dfdef6"
+commit = "1714e0a1c446a5f791f84e53bb6c00ffcc2f891d"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Updated French translations to be more consistent with the game - by krz
-- Fix mouseover area for autohide when custom margins are in effect
-- Fix raycaster not working correctly for world markers in some situations
-- Fix icon margin on custom button widget when text is empty
+- Add a widget that show the amount of free inventory space.
+- Add option to configure text vertical alignment in location & weather widgets in 2-labels-mode
+- Auto-close the gearset switcher when changing gearsets
+- Fixed main menu button icon-only margins & add tooltips in icon-only mode
+- Fixed drawing order of toolbar to ensure world markers are rendered below it
+- Fixed drawing order of compass renderer to solve flickering issue
 """
