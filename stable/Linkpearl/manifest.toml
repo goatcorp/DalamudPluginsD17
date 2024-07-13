@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/NotNite/Linkpearl.git"
+commit = "bdf4e15b32fd7a575f26f710717eff30e33f8041"
+owners = ["NotNite"]
+project_path = "Linkpearl"
