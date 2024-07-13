@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "cff8b1de60ab4752188e109b357f35b63cd969c9"
+commit = "28d05bdd320e94b532914348ede3015ef7dfdef6"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
- - Fixed french characters not rendered correctly in FATE world marker names
- - Added an indicator to FATE world markers when EXP-bonus is active (shows as boxed-star before the name)
- - Added extra auto-hide options for the toolbar - by AltinaXIV
- - Allow adding discontinued white scrips to the list of currencies via custom item IDs - by zbee
- - Added support for multithreaded style computations. Opt-in and experimental but provides a significant performance boost.
- - Added support for 4K (or larger) displays.
+- Updated French translations to be more consistent with the game - by krz
+- Fix mouseover area for autohide when custom margins are in effect
+- Fix raycaster not working correctly for world markers in some situations
+- Fix icon margin on custom button widget when text is empty
 """
