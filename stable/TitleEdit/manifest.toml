@@ -1,7 +1,13 @@
 [plugin]
-repository = "https://github.com/lmcintyre/TitleEditPlugin.git"
-commit = "5cc4a8432a524ddf2fe6dc7d03eae489b8b1f194"
+repository = "https://github.com/RokasKil/TitleEditPlugin.git"
+commit = "38f8bb06e54394ac0cd5a9612f4a77cbc4bbe2cc"
 owners = [
-    "lmcintyre",
+    "RokasKil",
 ]
 project_path = "TitleEdit"
+changelog = """
+- Fixed Dawntrail logo not showing up on startup
+- Fixed camera sometimes going out of bounds in both title and character select screens
+- Added Tulliyollal Night preset by alyssile
+- Added Kozama'uku - Midday preset by bevral
+"""

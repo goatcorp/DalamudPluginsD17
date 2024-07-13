@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "9a11ef580f3088cff3e35057fdb1e523c5254dee"
+commit = "42a0f8d9f320bb2b0269a19890e7d289ec479f82"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
-- Fix bug where instances were not displaying the proper icon
+- Added button to copy translations from search results
+- Allow searching for classes and jobs
 """

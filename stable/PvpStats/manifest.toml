@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "854cc090a497295b4786027ca1941a112d32afd6"
+commit = "9b7051d4fd395c0a802a14937c5befaec39a93d6"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed a bug where players from new Dynamis worlds would be added as extra players.
-* Rival Wings tracking (v2.0.0.0)
-* Frontline Battle high tracking (v2.0.3.0)
-* Other UI improvements (v2.0.4.0)
+* Added team stats to Frontline and Rival Wings match details.
+* Added an option to show/hide team stats to the match details window.
+* Added 'By expansion' to time filter.
+* Added options for changing alpha and text color for match scoreboard rows.
+* Left-aligned match duration in all match lists.
+* Removed auto-resize option from CC match details.
+* Other small UI tweaks.
 """

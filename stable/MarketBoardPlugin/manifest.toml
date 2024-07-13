@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "49c2f2cb1d082f71e49c30796cec7161f6492199"
+commit = "a929c39e851b09e8ee99013765336bdfa68fc143"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Compatibility with FFXIV 7.0 / Dalamud API X"
+changelog = "- Better Universalis error handling"

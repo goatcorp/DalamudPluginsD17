@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "b9db0c620d482830e08ccf376bf0cb57b1b86478"
+commit = "3b689bf45879ce4199587aed9d2140c0c5436eb6"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Swapped to Penumbra API
+- Hide native nodes if dead or in cutscene
 """
