@@ -2,6 +2,6 @@
 repository = "https://github.com/lokinmodar/Echoglossian.git"
 commit = "267827095f1296d44fe7446283c29ce305a37253"
 owners = [
-    "lokinmodar and contributors",
+    "lokinmodar",
 ]
 changelog = "v3.4.x - Hello guys! Update incoming! - BattleTalk overlays are disabled completely for the moment (there is some issue with concurrency that needs fixing) - TalkSubtitle (the cutscenes texts) are disabled due to the need of more testing"
