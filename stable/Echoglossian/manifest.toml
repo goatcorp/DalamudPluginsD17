@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "9aaa3356398d9f2bc3e878d71b1c90c20e6dcdf3"
+commit = "267827095f1296d44fe7446283c29ce305a37253"
 owners = [
-    "lokinmodar",
+    "lokinmodar and contributors",
 ]
-changelog = "v3.3.x - Fixed for APIX!! No more stuttering(TM) while translating! BattleTalk is fixed but no overlay for it yet! There may be other issues! Thanks a lot to @samulopez for the help again and thanks to @MidoriKami and @soreenpeong for the AddonLifecycle and the new Fonts API!"
+changelog = "v3.4.x - Hello guys! I've made some adjustments and tested many things and i think it is in a "releasable" state.
+
+- BattleTalk overlays are disabled completely for the moment (there is some issue with concurrency that needs fixing)
+- TalkSubtitle (the cutscenes texts) are disabled due to the need of more testing"
