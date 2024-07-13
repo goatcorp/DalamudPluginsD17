@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/SoundSetter.git"
-commit = "e1abfcd828c76bbd184114a4e30b4475a7c01ded"
+commit = "0a1aa4d1d5d1c8c9f91e26ce8c8020d92b1a6d44"
 owners = ["karashiiro"]
 changelog = """\
-- Updates for API 9
+- Updates for API X and 7.0
 """
