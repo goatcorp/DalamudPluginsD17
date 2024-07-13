@@ -6,6 +6,8 @@ owners = [
 ]
 project_path = "TitleEdit"
 changelog = """
-- Updated for Dawntrail
-- Added Dawntrail logo and title menu options
+- Fixed Dawntrail logo not showing up on startup
+- Fixed camera sometimes going out of bounds in both title and character select screens
+- Added Tulliyollal Night preset by alyssile
+- Added Kozama'uku - Midday preset by bevral
 """
