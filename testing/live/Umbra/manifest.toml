@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "7f137962248ab580f8ad17cbcedfae8b496df07f"
+commit = "927919ed2463c9d09bea769e7cee68b66ab00957"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Add option to auto-close the gearset switcher popup on gearset change (default on)
-- Add option to display the cap in the currencies widget (default on)
-- Add option to desaturate the icon of the free inventory space widget (default off)
+- Add an initial version of the Teleport-menu widget
+- Add option to desaturate icons in the Custom Button Widget
+- Add customization options to the Experience bar widget
+- Add usable teleport tickets to the travel menu
+- Fix mentor status in online status widget
 """
