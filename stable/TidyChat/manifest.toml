@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "081a325cd77c8a14dc4734a6bb739d36443ff161"
+commit = "70a7b3f9d50eff8be8617aed7e3b7717000d6495"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Update for 7.0"
+changelog = "Fix improved instance messaging for instances 4-6. Maybe fix materia attachment filter for certain name settings."
