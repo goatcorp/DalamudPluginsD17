@@ -1,10 +1,24 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "785b1225e2e70f85bc4cedfc380f93b9393556aa"
+commit = "eb5da579c9cb84b9d8ebe0208b4d1285091f5694"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Status effects cast by the player's pet (such as Carbuncle's Radiant Aegis) are now tracked properly
-- Label text on the Beast Bar and Oath Bar widgets will now fade out correctly whenever the bar is hidden
+- Updated for Dawntrail, with profiles added for VPR and PCT
+- Many jobs have new or modified default presets. If you are installing the plugin for the first time, these presets will be loaded automatically. If you have configuration data saved from a previous version of the plugin, your settings will remain as-is, but you may load the new defaults via the Presets window.
+- If you were previously tracking actions or status effects that no longer exist in 7.0, these will show up as blank entries in your Trackers tab. You can assign those widgets to something else, or simply delete them.
+
+### TRACKERS
+- Many new Statuses & Actions have been added in 7.0, and many existing ones have been deprecated. I'm working to keep the plugin caught up with these changes, but it's possible (likely) I've missed some!
+- A set of *Motif Deadline* trackers have been added for PCT. If a given motif has not yet been painted, this tracker will show the total time left to do so before your Muse cooldowns overcap/drift.
+
+### WIDGETS
+- **Removed:** The replica Huton Pinwheel widget has, sadly, been removed, as its texture asset no longer exists within the game files (But will the widget really be gone forever? Who knows...)
+
+### GAUGE TWEAKS
+- **Removed:** Now that the game itself gives the option to hide job gauges, that tweak has been removed for most jobs.
+- **Removed:** The Arcana Gauge no longer has visible text, so the option to change the font has naturally been removed.
+- **New Tweak for RDM:** **Magicked Swordplay Cue** will prompt the Balance Gauge to light up and play the appropriate SFX when Magicked Swordplay is at 3 stacks.
+- **New Tweak for VPR:** **Color-Code Vipersight** will recolor the gauge's effects to indicate your upcoming positional finisher.
 """
