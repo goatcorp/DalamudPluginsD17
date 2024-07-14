@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "1714e0a1c446a5f791f84e53bb6c00ffcc2f891d"
+commit = "7f137962248ab580f8ad17cbcedfae8b496df07f"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Add a widget that show the amount of free inventory space.
-- Add option to configure text vertical alignment in location & weather widgets in 2-labels-mode
-- Auto-close the gearset switcher when changing gearsets
-- Fixed main menu button icon-only margins & add tooltips in icon-only mode
-- Fixed drawing order of toolbar to ensure world markers are rendered below it
-- Fixed drawing order of compass renderer to solve flickering issue
+- Add option to auto-close the gearset switcher popup on gearset change (default on)
+- Add option to display the cap in the currencies widget (default on)
+- Add option to desaturate the icon of the free inventory space widget (default off)
 """
