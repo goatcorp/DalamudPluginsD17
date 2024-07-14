@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "6babd2c98c874e0bf94b675b0dc7c34ad1b5f499"
+commit = "69bc6e7d7f62fa14f416221ff9fee09c854e703c"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
 changelog = "Update Dalamud API"
