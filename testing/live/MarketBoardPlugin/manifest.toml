@@ -1,17 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "9f647104c2fc7d251705710feb5e8a24b32075c4"
+commit = "2d3f6af753599dfab06901659cb24a1bf3535637"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Add \"Remove from favorites\" context menu option in favorites
-- Add Context menu integration to non-inventory windows. For now, that includes:
-  - Chat
-  - Crafting Log
-  - Gathering Log
-  - Grand Company Supply
-  - Item Search / In-Game Market Board
-- Fix Universalis / Ko-Fi buttons appareance
-- Fix max level still set at 90
-- Fix potential issues in Universalis-related code"\
+- Refactor Universalis code to make it more resilient\
 """
