@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Lynesth/BetterTargetingSystem.git"
-commit = "429d4c5cd73682aa442b4ec8a3a6ceee478c9f7b"
+commit = "79498483b064d942e5b3d944b64b6998d496fb44"
 owners = ["Lynesth"]
 project_path = "BetterTargetingSystem"
 changelog = """
-- Update for Api 10"""
+- Fix Mouse Keybinds not working properly"""
