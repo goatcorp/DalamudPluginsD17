@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "1351c04f5e30ee08f8b8d92be664518068e66373"
+commit = "e7038a106d128f68084225f20d71689e563062e6"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Update for API X"
+changelog = "Add support for Turtle Scouter coordinates"
