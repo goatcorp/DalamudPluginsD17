@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "91e8c52f5daa3ea2c8cc3b3a5ac5a506932f913c"
+commit = "e34c6aaa4d7a1d12f4060a61148af7250c96a837"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Add option to the teleport menu popup to set a minimum number of columns (by Deckerz)
-- Add preliminary support for future society-related widgets
-- Add customizable Line Separator Widget
-- Add item HQ/NQ priority customization to the Item Button Widget
-- Fix HQ items not working with the Item Button Widget
-- Fix excessive padding in Main Menu button widget instances
+- Updated drawing lib for ULD drawing support (by wildwolf)
+- Updated teleport menu to contain icons (by wildwolf)
+- Fix teleport menu not opening an expansion while in areas without Aetherytes
 """
