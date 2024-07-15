@@ -1,6 +1,17 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "49c2f2cb1d082f71e49c30796cec7161f6492199"
+commit = "2d3f6af753599dfab06901659cb24a1bf3535637"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Compatibility with FFXIV 7.0 / Dalamud API X"
+changelog = """\
+- Add \"Remove from favorites\" context menu option in favorites
+- Add Context menu integration to non-inventory windows. For now, that includes:
+  - Chat
+  - Crafting Log
+  - Gathering Log
+  - Grand Company Supply
+  - Item Search / In-Game Market Board
+- Fix Universalis / Ko-Fi buttons appareance
+- Fix max level still set at 90
+- Refactor Universalis code to make it more resilient\
+"""

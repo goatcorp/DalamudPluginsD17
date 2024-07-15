@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "0d4288fced8eb2d0c481eaab271b9b8efeefecaa"
+commit = "fc5de8171fc816b5db2c23497968181e24f134f4"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Added an option to auto-close the gearset switcher when changing gearsets
-- Fixed thousands separator for clients that use NNBSP in the Currency Widget
-- Fixed the overflow container shadow effect not scaling with custom UI scale
-- Fixed & Added localization for Volume, World Marker, and Gearset widgets
-- Fixed the clock widgets showing the wrong prefix icon if the language in Umbra has been overridden.
-- Fixed the district name in the location widget to be faster and match in-game names.
+Umbra updates:
+- Improved the layout of the Teleport Menu widget
+- Add option to define step values in the volume widget
+- Add right-click handler to Inventory Space widget to open the key items window
+- Add Vesper-bay tickets to the Travel menu - by Emma
+- Fixed teleport menu widget desaturate icon setting
+- Fixed hunt, flag and quest markers sometimes showing in the wrong map
 """

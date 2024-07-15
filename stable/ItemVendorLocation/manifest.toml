@@ -1,13 +1,15 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "4cb474aecf52f64955f0a20cad7cbdf8f4bed614"
+commit = "de20a711b1105a1415935fa6b5ad0d8c0235cadc"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix IPC exception on dispose (Infiziert90)
-- Fix loading error for users that are on free trial or missing corresponding expansions, thank you Araiguma (Nuko)
+- API 10 updates
+- Make table header sticky
+- Make table rows color banded
+- Remove xivcommon dependency
 """
-version = "2.6.0.1"
+version = "2.7.0.0"

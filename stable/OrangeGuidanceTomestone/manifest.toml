@@ -1,8 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '4976a2e0df29dd27344bec35be13ebf67841aaed'
+commit = 'c65ff3837854c2494344d6e6130f3111dca0402a'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Update for Dawntrail
+- Use a new method of managing VFX which should fix some bugs
+- Fix invisible messages
 """

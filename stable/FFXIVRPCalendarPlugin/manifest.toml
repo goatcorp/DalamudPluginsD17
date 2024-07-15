@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/erroch/FFXIVRPEventCalendarPlugin.git"
-commit = "c4fdf00106a810a6b987304c912bee5f4e9a2f75"
+commit = "d778ae3506ed82dffd6a419765007a79e5c3c6d4"
 owners = ["erroch"]
 project_path = "FFXIVRPEventCalendarPlugin"
 changelog = """
+1.0.1.4 (2024.07.05)
+- Typo fixing.
 1.0.1.3 (2024.07.02)
 - Update for Dawntrail (7.0) release.
 - Probably fixed the icon.
