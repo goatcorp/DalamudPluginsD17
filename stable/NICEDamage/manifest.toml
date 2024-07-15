@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "377df5a89e00bedb090e8b61da625e85af25c775"
+commit = "412ee56c495519dd6fc2e4f2b6976a87b71a76d5"
 owners = ["gnargle"]
 project_path = "NICEDamage"
-changelog = "Update for 7.0. Move to stable."
+changelog = "Fixed issue where the plugin would overwrite other plugins' text."
