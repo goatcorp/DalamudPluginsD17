@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "927919ed2463c9d09bea769e7cee68b66ab00957"
+commit = "fc5de8171fc816b5db2c23497968181e24f134f4"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Add an initial version of the Teleport-menu widget
-- Add option to desaturate icons in the Custom Button Widget
-- Add customization options to the Experience bar widget
-- Add usable teleport tickets to the travel menu
-- Fix mentor status in online status widget
+- Improved the layout of the Teleport Menu widget
+- Add option to define step values in the volume widget
+- Add right-click handler to Inventory Space widget to open the key items window
+- Add Vesper-bay tickets to the Travel menu - by Emma
+- Fixed teleport menu widget desaturate icon setting
+- Fixed hunt, flag and quest markers sometimes showing in the wrong map
 """
