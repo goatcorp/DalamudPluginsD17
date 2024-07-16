@@ -15,5 +15,5 @@ Missing openers:
 - Missing some non-standard openers due to potency changes on patch 7.0.1
 
 Issues:
-- Saving openers fails to some users (under investigation)
+- Saving openers fails for some users (under investigation)
 """
