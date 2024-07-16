@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "e34c6aaa4d7a1d12f4060a61148af7250c96a837"
+commit = "457c1a1df37b0f4cc340eb8ddc08690deed6b823"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Updated drawing lib for ULD drawing support (by wildwolf)
-- Updated teleport menu to contain icons (by wildwolf)
-- Fix teleport menu not opening an expansion while in areas without Aetherytes
+- Added an option to move the Teleport widget expansion menu to the left/right in the popup.
+- Added widget popup alignment options (see General -> Toolbar settings)
+- Added Chinese (ZH) translations - by dakkidaze
+- Added ability to keep the "Add widget" window open when holding SHIFT while clicking the "Add" button
+- Partially fix multi-monitor support (may cause the gearset switcher opening to crash the game if multi-monitor support is enabled)
 """
