@@ -7,11 +7,13 @@ changelog = """
 Updates:
 - Update openers from level 90 to level 100 
 - Fix a bug that would crash the plugin due to trying to load old actions on saved openers
+
 Missing openers:
 - Missing MNK openers due to potency changes on patch 7.0.1
 - Missing BRD openers due to too much RNG (looking into a solution)
 - Missing SAM openers due to resources not being updated yet
 - Missing some non-standard openers due to potency changes on patch 7.0.1
+
 Issues:
 - Saving openers fails to some users (under investigation)
 """
