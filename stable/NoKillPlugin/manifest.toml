@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bluefissure/NoKillPlugin.git"
-commit = "95a455de3221bb0d10f69c61c14365e586c7b80c"
+commit = "b78e50bee3ec0d347757ffa9863b261c41da34f8"
 owners = ["Bluefissure"]
 project_path = "NoKillPlugin"
-changelog = """- Fix leaked hooks"""
+changelog = """- 7.0 support & apiX"""
