@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = 'b3a3e8f2d103ddc7643d9a16837d9200756abe0f'
+commit = 'da66748e8414321d04605da35994f4537d237d94'
 owners = [ 'Xpahtalo' ]
 changelog = """Fix for the bug where all toasts would get blocked when a regex got save wrong. Also improved saving again."""
