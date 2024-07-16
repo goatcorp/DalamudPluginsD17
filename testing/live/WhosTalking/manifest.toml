@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "5e7ffcfc0c5184b2b5c17085a5133b9803af8de9"
+commit = "158aeb5ed9c3a09b0c7c835cc5b642a726f817df"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.10.0**
+**Version 0.7.0.0**
 
-Adds a workaround for issues in duties with more than 24 players, such as Delubrum Reginae (Savage).
+Adds support for rendering voice activity indicators with the game's native UI toolkit!
 
-A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
+This means that you can drag game windows on top of the party list, and the indicators will be properly rendered below the overlapping window.
+
+To test this new feature, head to the plugin settings and switch "indicator style" from "Imgui" to "Atk". Please let me know about any problems via the new Who's Talking thread in #plugin-help-forum.
 """

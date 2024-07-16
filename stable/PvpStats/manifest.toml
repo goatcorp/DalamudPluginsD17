@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "d7bef219e06d89c6a8a4eb8b7820cf89d7d7083d"
+commit = "9b7051d4fd395c0a802a14937c5befaec39a93d6"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for version 7.0 and Dalamud apiX.
-* Rival Wings matches temporarily disabled.
+* Added team stats to Frontline and Rival Wings match details.
+* Added an option to show/hide team stats to the match details window.
+* Added 'By expansion' to time filter.
+* Added options for changing alpha and text color for match scoreboard rows.
+* Left-aligned match duration in all match lists.
+* Removed auto-resize option from CC match details.
+* Other small UI tweaks.
 """

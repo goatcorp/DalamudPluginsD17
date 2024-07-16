@@ -1,10 +1,16 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "785b1225e2e70f85bc4cedfc380f93b9393556aa"
+commit = "6fdc2b1ab50bb837f2c785b35e7fde6972ea716e"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Status effects cast by the player's pet (such as Carbuncle's Radiant Aegis) are now tracked properly
-- Label text on the Beast Bar and Oath Bar widgets will now fade out correctly whenever the bar is hidden
+## GAUGE TWEAKS
+- **Restored:** The tweaks to hide job gauges have been restored, as users have pointed out that the vanilla client option doesn't play very nice with the plugin.
+- **New Tweak for VPR:** *Ready to Reawaken Cue* will prompt the Serpent Offerings Gauge to light up and play the appropriate SFX after pressing Serpent's Ire, just as it would when reaching 50 gauge.
+- **New Tweaks for PCT:** *Reposition Canvases* and *Hide Easels* allow you to rearrange the layout of your three Canvases.
+
+## MISC
+- Corrected the Hind/Flank Venom text in VPR's Tweak tab
+- Removed defunct timers from the MNK default preset
 """

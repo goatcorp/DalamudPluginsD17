@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "71aafdc7b4e3a87dd829b2b94dc09ecee0955770"
+commit = "ed50930b7814dbb924d497e3d53b369f269ccefb"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix tooltips overflowing when using UI scaling
-Fix = occasionally showing in numbers when using french language on windows
+Improve caching to counteract universalis instability
 """

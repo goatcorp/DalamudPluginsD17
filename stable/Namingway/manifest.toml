@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/Namingway.git'
-commit = '2e311e4e301ed3c184b5278cbc392c247a194446'
+commit = '15019245ce4b3ba744eeb2cf7c3a9bf9fd3a021a'
 owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+changelog = 'Add Glare IV to Glareja'

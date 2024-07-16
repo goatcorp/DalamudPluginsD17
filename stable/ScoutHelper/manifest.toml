@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "3601f5a25b713e1154646761e2db1dfb0546da25"
+commit = "8e6f4fe8098e828dc718e4602a22f07715ed0ede"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(minor) add support for turtle scouter"
+changelog = "update to support 7.0 Dawntrail"

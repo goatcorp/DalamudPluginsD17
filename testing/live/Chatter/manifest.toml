@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "0ae41291809f498b9fb3985a457c1289b9e38e2f"
+commit = "73b667508a9672d92d3850ae68e545cefe2fc3eb"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Updated to work with latest"
+changelog = "Updated for API v10 and FFXIV 7.0"
