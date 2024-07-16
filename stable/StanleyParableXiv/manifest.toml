@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "0ddcabcf41774dc0de8737d58734fbbaaa8aef71"
+commit = "e14e7cd19e966a9f594abdb4d1ce2557eb2b4de2"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Added the option to choose between MP3 and OGG assets (defaults to MP3)
+- Update to API 10
+- Modified AFK event to reflect the player's AFK status
 """

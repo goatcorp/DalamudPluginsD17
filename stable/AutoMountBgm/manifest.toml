@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "d81474d26d2db538cb4fe03108ba22c609720c51"
-changelog = "The UI controls for toggling BGM per-mount were inverted. This has been fixed, and the UI should now show the BGM state of mounts correctly."
+commit = "33f4c4b1fe41ae11c69f6d62b4671417217cdba8"
+changelog = "UI checkboxes work correctly now. Additionally, I've actually released the fix that was sitting on my hard drive for the last week."

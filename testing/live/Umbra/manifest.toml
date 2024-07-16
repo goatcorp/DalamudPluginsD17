@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "fc5de8171fc816b5db2c23497968181e24f134f4"
+commit = "e34c6aaa4d7a1d12f4060a61148af7250c96a837"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Improved the layout of the Teleport Menu widget
-- Add option to define step values in the volume widget
-- Add right-click handler to Inventory Space widget to open the key items window
-- Add Vesper-bay tickets to the Travel menu - by Emma
-- Fixed teleport menu widget desaturate icon setting
-- Fixed hunt, flag and quest markers sometimes showing in the wrong map
+- Updated drawing lib for ULD drawing support (by wildwolf)
+- Updated teleport menu to contain icons (by wildwolf)
+- Fix teleport menu not opening an expansion while in areas without Aetherytes
 """
