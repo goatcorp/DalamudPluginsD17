@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "457c1a1df37b0f4cc340eb8ddc08690deed6b823"
+commit = "0c2801cef23e213a9c70d74700665d94efeace53"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Added an option to move the Teleport widget expansion menu to the left/right in the popup.
-- Added widget popup alignment options (see General -> Toolbar settings)
-- Added Chinese (ZH) translations - by dakkidaze
-- Added ability to keep the "Add widget" window open when holding SHIFT while clicking the "Add" button
-- Partially fix multi-monitor support (may cause the gearset switcher opening to crash the game if multi-monitor support is enabled)
+- Add option to enable/disable the notification when teleporting from the Teleport Menu Widget
+- Fixed crash when multi-monitor support is enabled when opening the gearset switcher popup
+- Fixed ULD loader - by wildwolf
 """
