@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "ed50930b7814dbb924d497e3d53b369f269ccefb"
+commit = "ff4d108266d53d3348f81aef9e7b0fcb97aa2b10"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Improve caching to counteract universalis instability
+- Reduce number of universalis requests to stay within rate limit
+- Clarify error message
 """
