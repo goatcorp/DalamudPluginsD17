@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Arrenton/KingdomHeartsPlugin.git"
-commit = "b38c6dffbfd061b8c71a1ec5952c3e70b594ccc9"
+commit = "e154fe8560dbde24074defe3f61e3fada132b483"
 owners = [
     "Arrenton",
 ]
 project_path = "KingdomHeartsPlugin"
 changelog = """
-Added scale feature for class icon.
-Class icons use HD texture now.
+Updated for Dawntrail
 """

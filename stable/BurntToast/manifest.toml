@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = 'b3a3e8f2d103ddc7643d9a16837d9200756abe0f'
+commit = '91900b17339557d7945fc2367c8cbebea42b1918'
 owners = [ 'Xpahtalo' ]
-changelog = """Updated to fix the failing load due to CS changes.
-It will also hopefully fail more gracefully and still have partial functionality when this happens again. A better system to at least let you know what has failed will come in the future."""
+project_path = "BurntToast"
+changelog = """Fix for the bug where all toasts would get blocked when a regex got save wrong. Also improved saving again."""

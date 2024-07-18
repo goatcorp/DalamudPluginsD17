@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a929c39e851b09e8ee99013765336bdfa68fc143"
+commit = "d6f9b76acb3106840ac2fd89c81f14aac13482a9"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Better Universalis error handling"
+changelog = "- Add basic Universalis status indicator"

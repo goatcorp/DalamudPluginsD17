@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "d90112dd151cbfc14fc0da1997441edcfc6c5828"
+commit = "3601f5a25b713e1154646761e2db1dfb0546da25"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
 changelog = "(minor) add support for turtle scouter"

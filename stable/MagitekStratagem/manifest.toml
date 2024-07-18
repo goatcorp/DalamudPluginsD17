@@ -1,9 +1,15 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "afc27bc666f92624989f1742fbb1f8a7f59cda18"
+commit = "0a813a859ea9762fb655055093b548358bad0a6c"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+Version 0.5.0.1:
+ - BREAKING: Tobii Game Hub v3.4.1 fails to track window. Until fixed, this plugin won't work.
+   To fix this, the plugin will attempt to load the API from v3.3.0, if its present on the system.
+   Players who had the plugin work before Tobii Game Hub updated itself, should find it still works.
+   Check "Plugins by Meoiswa" in the official Dalamud #plugin-help-forum section for more info.
+
 Version 0.5.0.0:
  - Updated to API10
 

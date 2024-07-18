@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "1714e0a1c446a5f791f84e53bb6c00ffcc2f891d"
+commit = "457c1a1df37b0f4cc340eb8ddc08690deed6b823"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
 Umbra updates:
-- Add a widget that show the amount of free inventory space.
-- Add option to configure text vertical alignment in location & weather widgets in 2-labels-mode
-- Auto-close the gearset switcher when changing gearsets
-- Fixed main menu button icon-only margins & add tooltips in icon-only mode
-- Fixed drawing order of toolbar to ensure world markers are rendered below it
-- Fixed drawing order of compass renderer to solve flickering issue
+- Added an option to move the Teleport widget expansion menu to the left/right in the popup.
+- Added widget popup alignment options (see General -> Toolbar settings)
+- Added Chinese (ZH) translations - by dakkidaze
+- Added ability to keep the "Add widget" window open when holding SHIFT while clicking the "Add" button
+- Partially fix multi-monitor support (may cause the gearset switcher opening to crash the game if multi-monitor support is enabled)
 """
