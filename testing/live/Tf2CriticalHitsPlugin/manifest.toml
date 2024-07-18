@@ -1,14 +1,8 @@
 [plugin]
-repository = "https://github.com/Berna-L/ffxiv-tf2-crit-plugin.git"
-commit = "04c67c409ccbcba45e1a1342d036482521cc32f2"
-owners = ["Berna-L"]
+repository = "https://github.com/jkchen2/ffxiv-tf2-crit-plugin.git"
+commit = "3c35b6b86313a24eafeeab997e1b61cc62cbdffc"
+owners = ["jkchen2"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-[TF2-ish Critical Hits]
-- Add option per job to set a minimum time between sounds.
-  - For example, if you set the time as 1000 ms and a critical hit sound is played,
-  no other sound (be it for critical hit, direct hit, critical heal etc.) will be played for the next second.
-  - Keep it at 0 ms to use the current behavior.
-
-(Thanks to Grayve for the idea and everyone at the Discord thread for the feedback!)
+Updated for FFXIV 7.01
 """
