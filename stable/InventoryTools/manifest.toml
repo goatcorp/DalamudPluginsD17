@@ -1,24 +1,22 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "e5c7084eb0c7ea13125a4c324bfbb666b8810035"
+commit = "fad7e60c0bb11ecca6610bf59074518c47a58c4e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.12"
+version = "1.7.0.13"
 changelog = """\
 ### Added
 
-- The output items of craft lists can now be ordered based on the "Output Ordering" setting by class or name
-- Added a "Is custom delivery hand in?" column/filter
-- Added a new menu in craft lists that allows you to clear all items and import/export the contents of the list(to your clipboard)
-- Added a new hotkey for opening the lists window
-- The item window has a new "Owned" section showing all the locations of items within your characters that the plugin knows about
+- Added a new "Seach" context menu, provides similar functionality to the game's search but will search across whatever scope you define
+- Bicolour Gem Vendors will now show NPCs and their respective locations
+- Added new mob spawn data (thanks to Emma <3)
+
 ### Fixed
 
-- Certain columns were not showing as available to add within craft lists
-- The active search scopes were not fully working
-- All slash commands that open AT windows will now toggle instead of only opening
-- The configuration wizard's labels should no longer clip
+- The context menu shortcuts will now work correctly in the market board
+- When using "Active Character" in any of the inventory scopes, this will now consider any "characters" owned by your logged in character as also active
+- Removed some old incorrect mob spawn data
 
 """
