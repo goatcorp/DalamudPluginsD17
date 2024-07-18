@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "267827095f1296d44fe7446283c29ce305a37253"
+commit = "71f5a4b5bd7d2a36c2bd86bee8351f216b507e0a"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.4.x - Hello guys! Update incoming! - BattleTalk overlays are disabled completely for the moment (there is some issue with concurrency that needs fixing) - TalkSubtitle (the cutscenes texts) are disabled due to the need of more testing"
+changelog = "v3.5.x
+- minor fix for Duty Finder timer stutters"
