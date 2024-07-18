@@ -4,5 +4,4 @@ commit = "71f5a4b5bd7d2a36c2bd86bee8351f216b507e0a"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.5.x
-- minor fix for Duty Finder timer stutters"
+changelog = "v3.5.x - minor fix for Duty Finder timer stutters"
