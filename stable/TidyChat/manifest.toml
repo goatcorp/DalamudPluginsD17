@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "081a325cd77c8a14dc4734a6bb739d36443ff161"
+commit = "19ebf17f76a5395c65ad962374d433ea8d6ea092"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Update for 7.0"
+changelog = "- Custom filters for the Gathering channel should properly check the Gathering channel and the GatheringSystem channel instead of only the GatheringSystem channel."
