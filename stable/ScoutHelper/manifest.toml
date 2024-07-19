@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "8e6f4fe8098e828dc718e4602a22f07715ed0ede"
+commit = "c6e2643f610dbc1d1b7daf51eba091ea39a6be88"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "update to support 7.0 Dawntrail"
+changelog = "(patch) update instance numbers"
