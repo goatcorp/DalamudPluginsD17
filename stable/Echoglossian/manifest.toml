@@ -4,5 +4,4 @@ commit = "61923c58279cb9661d02eeb09a03b1bce45225b4"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.6.x
-- fix fonts for languages unsupported by the native game's font"
+changelog = "v3.6.x - fix fonts for languages unsupported by the native game's font"
