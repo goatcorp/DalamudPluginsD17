@@ -1,22 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "fad7e60c0bb11ecca6610bf59074518c47a58c4e"
+commit = "cc6862c2e3a9e0a8fc7582c0a3835a7dbf4ea2fd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.13"
+version = "1.7.0.14"
 changelog = """\
 ### Added
 
-- Added a new "Seach" context menu, provides similar functionality to the game's search but will search across whatever scope you define
-- Bicolour Gem Vendors will now show NPCs and their respective locations
-- Added new mob spawn data (thanks to Emma <3)
+- Added a calamity salvager filter and column, also items that can be purchased from a calamity salvager will be listed within the item window for applicable items.
 
 ### Fixed
 
-- The context menu shortcuts will now work correctly in the market board
-- When using "Active Character" in any of the inventory scopes, this will now consider any "characters" owned by your logged in character as also active
-- Removed some old incorrect mob spawn data
+- Fixed a bug that would list missing ingredients for a craft even if they weren't missing
+- Fixed duplicate patch data that was breaking the patch column
 
 """
