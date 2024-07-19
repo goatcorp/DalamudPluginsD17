@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "3d49f10fb9a677a75ebfcc2c53f72afe658e83a8"
+commit = "fedcd6a1c982ad538c8199cede33fd9ce28696b3"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-Umbra updates:
-- Added toolbar widget profiles with the ability to associate them with jobs
-- Added option to disable the popup menu of the Currencies widget
-- Improved Gathering Nodes World Markers
-- Improved custom plugin disposal procedure & added hot-reloading
-- Updated drawing lib (Fixed disposal issues, by Glyceri)
+Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
