@@ -3,4 +3,4 @@ repository = "https://github.com/powellad/Toastingway.git"
 commit = "5b63a8ed70d8b575ade7e82ec1aece0075fd4351"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
-changelog = "Initial release"
+changelog = "Initial release for Toastingway"
