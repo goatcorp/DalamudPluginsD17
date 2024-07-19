@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "71f5a4b5bd7d2a36c2bd86bee8351f216b507e0a"
+commit = "61923c58279cb9661d02eeb09a03b1bce45225b4"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.5.x - minor fix for Duty Finder timer stutters"
+changelog = "v3.6.x
+- fix fonts for languages unsupported by the native game's font"
