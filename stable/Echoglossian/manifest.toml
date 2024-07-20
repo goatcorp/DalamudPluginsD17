@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "61923c58279cb9661d02eeb09a03b1bce45225b4"
+commit = "159da5dc1ecae9490977e498e6805ba199ab8633"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.6.x - fix fonts for languages unsupported by the native game's font"
+changelog = "v3.7.x - fix battleTalk dimensions calculations"
