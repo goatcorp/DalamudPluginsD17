@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "22ea7e1f3bca6297babdb7312d1e3f2682588285"
+commit = "5c9d5b767115dc5e5b9498c60983f7948b06797d"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(minor) add a notice system for displaying important notices to the user"
+changelog = "(minor) add support for collaborative scouting with turtle"
