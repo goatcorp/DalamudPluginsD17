@@ -1,9 +1,9 @@
 [plugin]
-repository = "https://github.com/Pilzinsel64/PlayerTags.git"
-commit = "1b23cb5da80a9b1e4e9aefb7a90f5c0da79b675d"
+repository = "https://git.pilzinsel64.de/pilzinsel64/playertags.git"
+commit = "03833c51558c82b10e37a726e617e1e04d1c00fc"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """- Updated for API10 & Downtrail
+changelog = """- Fixed flickering and some errors due missing icons
 """
