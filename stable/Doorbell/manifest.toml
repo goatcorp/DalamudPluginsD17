@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/Doorbell.git"
-commit = "afdee9d16758e439a03bdd21307d03dc923f6b89"
+commit = "8d14d22d2cb00ab45d44b2d082d56b31348111ea"
 owners = ["Aida-Enna"]
 project_path = ""
 changelog = "Updated for Dawntrail (7.0)"
