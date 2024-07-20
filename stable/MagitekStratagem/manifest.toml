@@ -1,32 +1,16 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "0a813a859ea9762fb655055093b548358bad0a6c"
+commit = "f3e57e042c6e9a605ca44042c132f8d4f00bb6d7"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 0.5.0.1:
- - BREAKING: Tobii Game Hub v3.4.1 fails to track window. Until fixed, this plugin won't work.
-   To fix this, the plugin will attempt to load the API from v3.3.0, if its present on the system.
-   Players who had the plugin work before Tobii Game Hub updated itself, should find it still works.
-   Check "Plugins by Meoiswa" in the official Dalamud #plugin-help-forum section for more info.
+Version 0.6.0.0:
+  - Fixed: Breaking change in Tobii Game Integration API in version 3.4.1 of the Tobii Game Hub
+  caused tracking of game window to fail. Plugin has switched over to the StreamEngine API.
+  - Removed: Custom Calibration. Had to rip it out to get StreamEngine working again, sorry!
 
-Version 0.5.0.0:
- - Updated to API10
-
-Version 0.4.2.0:
- - Fixed: Crashes when changing characters with RayCasting enabled.
-
-Version 0.4.1.0:
- - Fixed: Overlay would render as a black window when using Dalamud multi-monitor windows.
-
-Version 0.4.0.0:
- - New: Adding Calibration points to fine-tune tracking beyond what Tobii Game Hub allows.
- - Fixed: Circle Targetting on keyboard should now work properly.
- 
- - ⚠️Experimental Plugin⚠️ merely a proof of concept.
- - Tobii Eyetracker integration for FFXIV.
- - Enables Gaze-at-object target aquisition. 
- - Supports overriding Tab Target (Enemy) and Soft Target (Target Cursor)
- - Works best for Gamepad users, but is compatible with KB&M
- - Requires Tobii Game Hub to be installed.
+Known Issues:
+  - Windowed mode is currently unsupported due to the change to the new API.
+  - Some entities are not returning to normal after being highlighted by raycast detection.
+  - Entities highlighted by proximity are not returning to normal after no longer being the closest.
 """

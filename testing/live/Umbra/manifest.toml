@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "a7f4dc959becda3142b3c72954a555a132645579"
+commit = "f4160833f1ba609ef98e909a5db869c112b73d1b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-Umbra updates:
-- Add favorites system to the teleport menu widget
-- Add option to enable/disable the notification when teleporting from the Teleport Menu Widget
-- Add context menu system for widget popups to use
-- Fixed crash when multi-monitor support is enabled when opening the gearset switcher popup
-- Fixed ULD loader - by wildwolf
-- Fixed disposal of textures in drawing lib - by Glyceri
+Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
