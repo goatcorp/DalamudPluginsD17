@@ -1,16 +1,20 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "6fdc2b1ab50bb837f2c785b35e7fde6972ea716e"
+commit = "4375328e2b0e71275a168a79e199b1d4ed2f2d34"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## GAUGE TWEAKS
-- **Restored:** The tweaks to hide job gauges have been restored, as users have pointed out that the vanilla client option doesn't play very nice with the plugin.
-- **New Tweak for VPR:** *Ready to Reawaken Cue* will prompt the Serpent Offerings Gauge to light up and play the appropriate SFX after pressing Serpent's Ire, just as it would when reaching 50 gauge.
-- **New Tweaks for PCT:** *Reposition Canvases* and *Hide Easels* allow you to rearrange the layout of your three Canvases.
+## TRACKERS
+- Added data trackers for Kazematoi, Vipersight, Serpent Offerings Gauge, Astral Gauge, and Palette Gauge
+
+## WIDGETS
+Some widgets have been revised to make use of new UI functions added to the game in 7.0.
+- *Shimmering Halo* should hopefully play nicer with Reshade (although it does look slightly different from before)
+- The replica *Esprit Bar* and *Enochian Bar* widgets can now be freely rotated to any angle.
+- *Simple Circle* now offers two blending mode options.
 
 ## MISC
-- Corrected the Hind/Flank Venom text in VPR's Tweak tab
-- Removed defunct timers from the MNK default preset
+- Updates and corrections have been made to Status and Action data for some jobs
+- The plugin should now handle it a bit better when job gauge elements are hidden
 """
