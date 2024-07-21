@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "5766360d77372f5e959b826107c86009181c456c"
+commit = "c2deee542e2676f23f20409294daec0d7f14fbd5"
 owners = ["Glyceri"]
 	changelog = """
-    [1.5.0.2]
-    Fixed deprecation issue.
-    Re-enabled context menus.
+    [1.5.0.3]
+    Fixed the deprecation fix.
 """
