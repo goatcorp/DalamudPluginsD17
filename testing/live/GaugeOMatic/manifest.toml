@@ -1,9 +1,28 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "abf0840d561c96847e473b0ffd9f8eebe9bd97f5"
+commit = "017fef0b252222df144f9277f2971dd8e171dc88"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Fixed an issue where widgets pinned to certain gauges would not load when switching jobs.
+- Minor fix for a bug that occurred when switching from a DoH/DoL job to a combat job
+
+## KNOWN ISSUE: Clipping Mask Artifacts
+**The following Widgets...**
+- Simple Circle
+- Esprit Bar
+- Enochian Bar
+- Balance Gauge Overlay
+- Shimmering Halo
+- Target Reticle
+
+**...are confirmed to display incorrectly when pinned to the following gauges:**
+- Palette Gauge (PCT)
+- Addersgall Gauge (SGE)
+- Trance Gauge (SMN)
+- Song Gauge (BRD)
+
+If you're encountering this issue, a simple fix for the time being is to pin the widget to a different element-- either your job's other gauge (if it has one), or to the Parameter Bar.
+
+I hope to resolve this bug in the future; I have a general sense of the cause, but it may take some time to bear down on an exact solution. Thanks for your patience!
 """
