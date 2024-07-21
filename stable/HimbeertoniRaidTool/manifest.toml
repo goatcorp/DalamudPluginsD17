@@ -2,8 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "3cb7b8423a506865a51d47d5bf0795cfe1bfdb41"
+commit = "698f1d0adc891095461e6ff5ab911552143e6ac1"
 changelog = """
-General: Now supports switching back to Endwalker raid tiers
-    BiS: Added support for XivGear.app
-    Known Issue: XivGear.app sets are not automatically updated yet"""
+BiS: Add auto updates for XivGear.app (see config)
+    User Interface: Added headlines to multi item tooltips"""
