@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/NadyaNayme/TidyChat.git"
+commit = "c0bc1d43e0d0b711e780624371c5f4f696b0416f"
+owners = [
+    "NadyaNayme",
+]
+project_path = "TidyChat"
+changelog = "Rewritten internals to make adding new filters faster. Very few user facing changes - the largest one being the removal of 'Hide' settings. All settings are now 'Show' - please adjust your settings as necessary."
