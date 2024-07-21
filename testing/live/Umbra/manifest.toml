@@ -1,8 +1,37 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "cec5416b5c6aad8e01418c2138524be4ba2b5990"
+commit = "e00df78d85d477d0a0395f4f54e1bb7691c98437"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
+## Umbra 2.1.3
+
+### Updated Gearset Switcher
+
+The gearset switcher has been updated. It now supports more icon types, shows an experience bar for jobs that are not
+max level and now has context menus for each gearset. The context menus allow you to quickly change the gearset name,
+apply glamour plates, quick access to the portrait editor and more.
+
+#### Important Changes
+
+- The buttons to move and delete gearsets have been removed from the header and are now available in the context menu
+  for each gearset. Simply right-click on a gearset to access the context menu.
+
+- Due to the fact that there are now 11 gearset icon types to choose from, instead of the default and alternate ones,
+  the gearset icons have been reset to the "Default" icon. Please open the gearset switcher configuration and select the
+  icon type you want for the toolbar button, header and gearset buttons.
+
+- We've received numerous reports of people not seeing all of their gearsets in the popup, because it was not obvious
+  that the role lists can be scrolled through. The gearset switcher now has an _option_ that allows toggling the
+  scrolling behavior, which is now _disabled by default_ so people new to the plugin don't get confused about this again.
+  If you wish to keep using the scrolling behavior, please enable the option in the Gearset Switcher settings. It's the
+  first option under the "Popup Menu Options" category.
+
+### Fixes & Improvements
+
+- The context menus can no longer be moved around.
+- Opening the widget instance settings of a Custom Menu widget should no longer crash.
+- The drawing library has been updated to the latest version for improved performance and stability.
+
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
