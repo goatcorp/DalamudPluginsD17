@@ -1,19 +1,21 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "cc6862c2e3a9e0a8fc7582c0a3835a7dbf4ea2fd"
+commit = "c47934c78c7c085e56dcc7147f3f3d7f89b9f130"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.14"
+version = "1.7.0.15"
 changelog = """\
 ### Added
 
-- Added a calamity salvager filter and column, also items that can be purchased from a calamity salvager will be listed within the item window for applicable items.
+- The craft window will warn you when a Universalis request failed, listing the date it happened, and to inform the user of a back off period. It will also warn the user if they make too many requests in a given time period(due to too many plugins making requests).
 
 ### Fixed
 
-- Fixed a bug that would list missing ingredients for a craft even if they weren't missing
-- Fixed duplicate patch data that was breaking the patch column
+- Changing the "Retainer Retrieval" setting via the Retainer Bell icon in the craft settings column will refresh the craft list properly.
+- Fixed caching of the "Columns" tab that meant that some available columns would not show up.
+- The windows tab in the main configuration window had somehow been lost in the shuffle, it's back where it should be.
+- Some of the vendors were not parsing due to a bug in LuminaSupplemental, those vendors should now show again.
 
 """
