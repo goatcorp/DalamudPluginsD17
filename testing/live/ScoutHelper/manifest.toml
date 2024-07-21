@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "5c9d5b767115dc5e5b9498c60983f7948b06797d"
+commit = "669c5067202872bfa9f65edbe4869909012a7c3b"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(minor) add support for collaborative scouting with turtle"
+changelog = "(patch) fix turtle button tooltip during collab"
