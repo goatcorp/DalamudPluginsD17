@@ -1,9 +1,10 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = 'c65ff3837854c2494344d6e6130f3111dca0402a'
+commit = 'e789a2e7666dcab9ae098018bc86e1e615dcb13d'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Use a new method of managing VFX which should fix some bugs
-- Fix invisible messages
+- Add support for player emotes when viewing messages
+- Add search bars to word lists
+- Prevent viewer from appearing in cutscenes
 """
