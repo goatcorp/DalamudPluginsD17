@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "45ac4ab84279e0e7f9dba5d6d799584fe83a6184"
+commit = "c384fc1a027a98b477f2d647132091191eaf3478"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -32,6 +32,9 @@ apply glamour plates, quick access to the portrait editor and more.
 - The context menus can no longer be moved around.
 - Opening the widget instance settings of a Custom Menu widget should no longer crash.
 - The drawing library has been updated to the latest version for improved performance and stability.
+- Fixed a crash that occured when using the saddlebags for the Inventory Space widget during duties.
+- Fixed Items in the Custom Menu only taking normal quality items
+- Fixed Key items not being able to be used from the Custom Menu
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
