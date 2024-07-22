@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "b1a007140bb63557c25136fec3c1c33e6acb7137"
+commit = "de4c3f95b9e36687135b2c3e0cd505af1c9cb676"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.12.0"
+version = "1.0.13.0"
 changelog = """
-- 7.0 support
+- Inter-Plugin Communication (IPC) support for creating macros and groups
 """
