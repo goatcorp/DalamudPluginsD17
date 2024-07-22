@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "c9095fe5017d4c4db15e7b4f480354a77c36503e"
+commit = "e16c7aa3fb64851f444d9c8225d858463d9c866c"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-API 10 support. (Thank you Kazwolf)
+IPC updated for WaitingWay.
 """
