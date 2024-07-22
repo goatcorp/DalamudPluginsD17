@@ -1,25 +1,13 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "44aa3e3d0b1bed356586eca6c2179ac73b04afd1"
+commit = "641cf021cc26bd282b28650f03b3b061e16018d2"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
 changelog = """
 Updates:
-- Add mouseover for catch-all action
-- Centre countdown
-- Improve UI
-  - Add colour when a job role filter is selected
-  - Clean opener creator tab
-- Add the settings tab
-  -  Make countdown opt-in
-  - Move the countdown timer to settings
- - Fix bug where players could save an opener linked to the job ANY (
-   - Fixes: Saving openers fails for some users 
- - Add a setting to stop analysing actions on the first mistake
- - Add basis for multi-action groups
- - Add proper category tag
- - Internal refactors
-
-Known Issues:
-- Custom openers are loaded but fail to be analysed (bug introduced before this update)
+- Fix the bug where custom openers wouldn't load properly
+- Fix the "opener not defined" bug
+- Add ignore True North option
+- Add filter by Any/GCD/oGCD
+- Internal refactors
 """
