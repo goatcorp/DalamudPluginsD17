@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/ExpandedSearchInfo.git'
-commit = 'b8c2c2afaafbb42eb7eab2a61e4500b250d6f883'
-owners = [ 'lojewalo' ]
-changelog = 'API 9'
+repository = 'https://github.com/caitlyn-gg/ExpandedSearchInfo.git'
+commit = 'a2676714934c03ad667032bd76819201cef7688c'
+owners = [ 'caitlyn-gg' ]
+changelog = 'Updated for Dawntrail, API X'
