@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "e16c7aa3fb64851f444d9c8225d858463d9c866c"
+commit = "07ba4060253c96725e4005844c777d6e60f73957"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-IPC updated for WaitingWay.
+IPC updated for WaitingWay. Now respects scaling.
 """
