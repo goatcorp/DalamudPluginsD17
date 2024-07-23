@@ -1,49 +1,40 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "51bbe97fd9e94c90475ba9f6a0561a2653e9ae45"
+commit = "2888e59510b44c87be3df3f118c20285d10710a1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.1.4
+# Umbra 2.1.5
 
 ## New additions
 
-### Quick Access to Widget Settings
+### Copying and pasting widget instances
 
-As you might have noticed, editing widget instance settings can become a bit cumbersome if you
-always have to open the Umbra Settings window, find the widget, open it and click the cog icon.
-Continuously doing this can take up quite some time.
+You can now copy all settings of a widget instance to your clipboard and paste them into another instance of the same
+widget type from the settings window of the widget. The paste button will appear disabled if there is no valid data in
+your clipboard for that particular widget type.
 
-You can now enable **Widget Quick Setting Access** which allows you to immediately access the
-settings window of individual widgets by holding `control` + `shift` and `right-click` the
-widget on the toolbar.
+You can also create new widgets from the clipboard data from the "Add widget" window. This also allows you to share
+specific widget instance settings with other people, should you wish to do so.
 
-> Note that some widgets that are normally not interactive _may_ show highlight effects when your
-> mouse cursor is over them while this option is enabled. If this bothers you, simply disable the
-> quick access setting after you're done editing.
+### Sound Effects
 
-You can find this setting under `General Settings` -> `Toolbar Settings`.
+This version introduces a new feature to play sound effects when opening and closing widgets, as well as windows. You
+can configure these sound effects, or turn them off completely in the new "Sound Settings" category in the General
+Settings tab section.
 
 ### Other additions in this version
 
-- Added tooltip support for custom button and menu widgets.
-- Added an option to open the Favorites menu on the teleport widget by default.
-- Added an option to desaturate the icon on the online status widget.
-- Added a right-click handler to the plugin list widget to open Dalamud's Plugin installer window.
-- Added text offset options to the Flag marker widget.
-- Added text offset and icon control options to the Durability and Spiritbond widget.
-- Added a shortcut to the Materia Melding window to the Durability and Spiritbond widget.
-- Added an option to the experience bar widget to keep it visible at max level (by Drakime)
-- Added the ability to hide all text from the Weather Forecast widget.
-- Added an option to configure the weather icon's Y-offset.
-- Added an option to hide the item level from the gearset switcher widget toolbar button.
+- Added an option to the Inventory Space indicator to show remaining space instead of occupied space.
+- Added an option to show/hide plugins that appear in the Plugin List widget.
+- Added an option to show/hide map names in the Teleport widget, making the popup more condensed and taking up less space.
 
 ## Fixes & Improvements
 
-- Fixed French label being too long for the "Companion Information" button in the companion widget.
-- Increased the drawing area of world markers by a few pixels to mitigate potential text cutoff.
-- Improved the user experience of mouse/click handlers - (by AltinaXIV)
-- Added icons for the extra options in the travel menu (teleport/return/native favorites/housing/etc.)
+- Fixed an issue in which the Weather Forecast widget would vibrate in certain conditions.
+- Fixed an issue that caused popups to open when right-clicking a widget.
+- Fixed an issue that caused icons on gearset buttons to scale improperly.
+- Updated the drawing library for some minor performance improvements.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
