@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "c0bc1d43e0d0b711e780624371c5f4f696b0416f"
+commit = "dce1392e51062f6698887a6df76f05e0b6f81858"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Rewritten internals to make adding new filters faster. Very few user facing changes - the largest one being the removal of 'Hide' settings. All settings are now 'Show' - please adjust your settings as necessary."
+changelog = "Improved debugging mode (now named \"Dry Run Mode\" and new filters (Recasting when mooching, Initialized Ready Check)"
