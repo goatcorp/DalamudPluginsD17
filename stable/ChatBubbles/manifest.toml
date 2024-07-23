@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "cdba498491dbe195cafb85d8e6324fc08b08a6b6"
+commit = "4d3dadd710fe1124e818019e74cd8c8b0d21d20a"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = """### 2.1.7.0 : hopefully fixed Atticus the Primogenitor
-added chaos mode & farts"""
+changelog = """### 2.1.7.1
+- Confirmed fixing Atticus the Primogenitor (yeepeeeeee)
+- What is that smell?"""
