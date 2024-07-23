@@ -1,21 +1,25 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c47934c78c7c085e56dcc7147f3f3d7f89b9f130"
+commit = "03121694ccc9cab1e21e2581165f5a0a8850c908"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.15"
+version = "1.7.0.16"
 changelog = """\
 ### Added
 
-- The craft window will warn you when a Universalis request failed, listing the date it happened, and to inform the user of a back off period. It will also warn the user if they make too many requests in a given time period(due to too many plugins making requests).
+- Added a "Is From Fate?" filter/column
+- More data is available for the following:
+  - Desynth results of items
+  - Loot
+  - Reduction
+  - Gardening
+  - Mob Drops
+  - Submarine/Airship Drops
 
 ### Fixed
 
-- Changing the "Retainer Retrieval" setting via the Retainer Bell icon in the craft settings column will refresh the craft list properly.
-- Fixed caching of the "Columns" tab that meant that some available columns would not show up.
-- The windows tab in the main configuration window had somehow been lost in the shuffle, it's back where it should be.
-- Some of the vendors were not parsing due to a bug in LuminaSupplemental, those vendors should now show again.
+- Items should now should the show the correct type of scrip for their requirements
 
 """
