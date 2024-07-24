@@ -1,40 +1,31 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "2888e59510b44c87be3df3f118c20285d10710a1"
+commit = "9bf2464b9f58442c1e26f016e94d19352fe083a1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.1.5
+# Umbra 2.1.6
 
 ## New additions
 
-### Copying and pasting widget instances
+### Added more button background styles for the gearset switcher popup
 
-You can now copy all settings of a widget instance to your clipboard and paste them into another instance of the same
-widget type from the settings window of the widget. The paste button will appear disabled if there is no valid data in
-your clipboard for that particular widget type.
-
-You can also create new widgets from the clipboard data from the "Add widget" window. This also allows you to share
-specific widget instance settings with other people, should you wish to do so.
-
-### Sound Effects
-
-This version introduces a new feature to play sound effects when opening and closing widgets, as well as windows. You
-can configure these sound effects, or turn them off completely in the new "Sound Settings" category in the General
-Settings tab section.
+There have been numerous requests of either hiding or being able to customize the gradient colors of the gearset buttons in the gearset switcher popup. This update introduces a new option in the widget settings that allows you to choose one of 6 possible styles: Four gradients, solid color or none. The colors that are used for the roles are now customizable too in the Appearance tab, allowing you to define your own colors that best match your custom color profile!
 
 ### Other additions in this version
 
-- Added an option to the Inventory Space indicator to show remaining space instead of occupied space.
-- Added an option to show/hide plugins that appear in the Plugin List widget.
-- Added an option to show/hide map names in the Teleport widget, making the popup more condensed and taking up less space.
+- Added an option to show/hide the experience bar on the gearset buttons in the the gearset switcher.
+- Added an option to show/hide the item level on the gearset buttons in the the gearset switcher.
+- Added an option to the location widget that allows you to show both map and district in a single line.
 
 ## Fixes & Improvements
 
-- Fixed an issue in which the Weather Forecast widget would vibrate in certain conditions.
-- Fixed an issue that caused popups to open when right-clicking a widget.
-- Fixed an issue that caused icons on gearset buttons to scale improperly.
-- Updated the drawing library for some minor performance improvements.
+- The glamour plate button in the gearset switcher popup header will now use the regular glamour plate window, instead of the linking to gearset one.
+- Fixed teleport costs not updating correctly in the teleport menu widget.
+- Fixed "minimum amount of columns" not working properly in the favorites tab of the teleport menu widget.
+- Fixed incorrect spacing with neighboring widgets when using an undecorated inventory space widget.
+- Swap Dalamud Plugins and Settings buttons in the main menu to make the sorting consistent with the ESC-menu (by Emma)
+- Hide the level and experience of your Chocobo if it is already max level in the companion popup.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
