@@ -1,18 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "c4443c10bfca5c201770eb64cb11abe75cb2d215"
+commit = "3d42b5f2f54e33ad3bc2064598812078f1490a9e"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- You can now toggle whether a widget should display outside of combat/duties
-- You can now set a limited level range for a widget to appear at
-
-## PRESETS
-- Exported presets have been optimized a bit to contain less unused junk. This should result in smaller export strings all around (NOTE: I can't promise miracles, I've seen what y'all are creating)
-
-## MISC
-- Widgets that use clipping masks have been tentatively restricted from being pinned to incompatible gauges.
-- Added tooltip text for all Job Gauge data trackers
+Fixed crash on load due to improperly-compressed preset (also the plugin should now handle that sort of thing better)
 """
