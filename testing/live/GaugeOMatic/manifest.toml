@@ -1,28 +1,18 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "017fef0b252222df144f9277f2971dd8e171dc88"
+commit = "c4443c10bfca5c201770eb64cb11abe75cb2d215"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Minor fix for a bug that occurred when switching from a DoH/DoL job to a combat job
+## WIDGETS
+- You can now toggle whether a widget should display outside of combat/duties
+- You can now set a limited level range for a widget to appear at
 
-## KNOWN ISSUE: Clipping Mask Artifacts
-**The following Widgets...**
-- Simple Circle
-- Esprit Bar
-- Enochian Bar
-- Balance Gauge Overlay
-- Shimmering Halo
-- Target Reticle
+## PRESETS
+- Exported presets have been optimized a bit to contain less unused junk. This should result in smaller export strings all around (NOTE: I can't promise miracles, I've seen what y'all are creating)
 
-**...are confirmed to display incorrectly when pinned to the following gauges:**
-- Palette Gauge (PCT)
-- Addersgall Gauge (SGE)
-- Trance Gauge (SMN)
-- Song Gauge (BRD)
-
-If you're encountering this issue, a simple fix for the time being is to pin the widget to a different element-- either your job's other gauge (if it has one), or to the Parameter Bar.
-
-I hope to resolve this bug in the future; I have a general sense of the cause, but it may take some time to bear down on an exact solution. Thanks for your patience!
+## MISC
+- Widgets that use clipping masks have been tentatively restricted from being pinned to incompatible gauges.
+- Added tooltip text for all Job Gauge data trackers
 """
