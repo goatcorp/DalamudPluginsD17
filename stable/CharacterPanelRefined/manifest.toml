@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "cea9a111074674dd126c7b5fe3d5d53d6bff9df5"
+commit = "270fca12a588f18c6bc9f1c6a34480a7ec56090a"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fixed incorrect stat calculation at level 100
-- Fixed viper using hunter's instinct instead of swiftscaled
+- Tenacity is now split between provided damage increase and mitigation
+- Updated some 7.0 math
 """
