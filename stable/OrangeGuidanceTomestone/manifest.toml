@@ -1,10 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = 'e789a2e7666dcab9ae098018bc86e1e615dcb13d'
+commit = '673699a76653d9e38d4e7dccefb88a2b91cfd8ea'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Add support for player emotes when viewing messages
-- Add search bars to word lists
-- Prevent viewer from appearing in cutscenes
+- Fix certain emotes causing player phantoms to A-pose
+- Add configuration options for sign opacity and colour intensity
 """
