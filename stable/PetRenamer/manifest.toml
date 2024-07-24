@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "2eb679521828c455b3e487809571741d71923f4f"
+commit = "24217ad0e39318e078ba49627585a8e74c88f953"
 owners = ["Glyceri"]
 	changelog = """
-    [1.5.0.3]
-    Fixed the deprecation fix.
+    [1.5.0.4]
+    Fixes IPC crash with other plogons.
 """
