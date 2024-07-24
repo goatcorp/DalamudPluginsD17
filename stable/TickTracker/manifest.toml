@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "3b689bf45879ce4199587aed9d2140c0c5436eb6"
+commit = "b2ba81e4050cc23991b22bf9d8613126dcfacfff"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Hide native nodes if dead or in cutscene
 """
