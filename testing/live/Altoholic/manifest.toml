@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "7bbc3eb26c665ac585e9c783933a50783d974757"
+commit = "24336f7dfead4d0d51776d7a274e14128c82ce95"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Update DT. Add Inventory, Retainers, Collection"
+changelog = "Fix regression on currencies drawall"
