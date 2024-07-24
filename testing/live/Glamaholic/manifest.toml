@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
+commit = 'dfc351d3544a6a93750cad521dab3f9385c16d02'
+owners = [ 'caitlyn-gg' ]
+changelog = 'Updated for Dawntrail and API X'
