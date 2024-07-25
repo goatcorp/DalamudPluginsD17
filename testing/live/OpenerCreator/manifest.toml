@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "641cf021cc26bd282b28650f03b3b061e16018d2"
+commit = "ee470b92cdfddb46f5c82de49ccbcf6522d42a54"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
 changelog = """
 Updates:
-- Fix the bug where custom openers wouldn't load properly
-- Fix the "opener not defined" bug
-- Add ignore True North option
-- Add filter by Any/GCD/oGCD
+- Differentiate between GCD and oGCD on the timeline
+- Add multi-action support
+- Update DNC and NIN openers to make use of group actions
+- Add BRD openers
+- Add Info tab
 - Internal refactors
 """
