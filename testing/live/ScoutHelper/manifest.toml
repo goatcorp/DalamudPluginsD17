@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "126e40e6e55d19de89ec97a9cccdbab2aa2fb6dc"
+commit = "669c5067202872bfa9f65edbe4869909012a7c3b"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(patch) fix patch max hunts calculation to account for tweaked instances"
+changelog = "(patch) fix turtle button tooltip during collab"

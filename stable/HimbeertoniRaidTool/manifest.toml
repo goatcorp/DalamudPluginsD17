@@ -2,8 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "1175081f4e4e032a8b37ebf177226794295739a5"
+commit = "698f1d0adc891095461e6ff5ab911552143e6ac1"
 changelog = """
-General: Added loot information for normal raids and extremes
-    General: Corrected HP calculation for levels above 90
-    Lodestone Connector: PCT and VIP fixed"""
+BiS: Add auto updates for XivGear.app (see config)
+    User Interface: Added headlines to multi item tooltips"""

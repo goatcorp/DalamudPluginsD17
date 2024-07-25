@@ -1,19 +1,25 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "cc6862c2e3a9e0a8fc7582c0a3835a7dbf4ea2fd"
+commit = "03121694ccc9cab1e21e2581165f5a0a8850c908"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.14"
+version = "1.7.0.16"
 changelog = """\
 ### Added
 
-- Added a calamity salvager filter and column, also items that can be purchased from a calamity salvager will be listed within the item window for applicable items.
+- Added a "Is From Fate?" filter/column
+- More data is available for the following:
+  - Desynth results of items
+  - Loot
+  - Reduction
+  - Gardening
+  - Mob Drops
+  - Submarine/Airship Drops
 
 ### Fixed
 
-- Fixed a bug that would list missing ingredients for a craft even if they weren't missing
-- Fixed duplicate patch data that was breaking the patch column
+- Items should now should the show the correct type of scrip for their requirements
 
 """
