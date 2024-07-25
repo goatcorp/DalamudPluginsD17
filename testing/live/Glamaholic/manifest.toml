@@ -1,8 +1,7 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '735fe12b6e30dd94cecbecc8d7e992b57c28d5dc'
+commit = 'ad78fa160102201d5550cdeb6b5b397f59517b7d'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed configuration migration to keep previously saved dyes
-- Added more verbose logging to EC imports
+- Eorzea Collection importing now uses the new EC API (shoutout Edeon and the EC team for this!)
 """
