@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "4dda1713aab81f8b1dc430d2e4d6e5a845d21a54"
+commit = "fbef74040639423f4d031906789e057553bff0af"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.8.x \n - enable TalkSubtitle (cutscenes dialogues) and several font-related issues fixes"
+changelog = "v3.9.x \n - bugfix: fixed a bug related to the fonts loaded for languages that the game's native font does not support"
