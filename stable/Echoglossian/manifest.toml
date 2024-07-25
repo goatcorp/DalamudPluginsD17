@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "159da5dc1ecae9490977e498e6805ba199ab8633"
+commit = "4dda1713aab81f8b1dc430d2e4d6e5a845d21a54"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.7.x - fix battleTalk dimensions calculations"
+changelog = "v3.8.x \n - enable TalkSubtitle (cutscenes dialogues) and several font-related issues fixes"
