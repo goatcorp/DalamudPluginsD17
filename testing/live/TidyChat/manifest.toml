@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/NadyaNayme/TidyChat.git"
+commit = "dce1392e51062f6698887a6df76f05e0b6f81858"
+owners = [
+    "NadyaNayme",
+]
+project_path = "TidyChat"
+changelog = "Improved debugging mode (now named \"Dry Run Mode\" and new filters (Recasting when mooching, Initialized Ready Check)"

@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "f840e03ce4cd6500a00652cc03e9f73e00ab1632"
+commit = "b132780298b58f5e5f72895cf857850be808d8a5"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
 changelog = """Changes :
-  - New rainbow cycling color option by @larsmonman
+  - adding NoFocusOnAppearing to plugin window by @ShioIna
+  - net8 & update for api 10 by @avail
 """

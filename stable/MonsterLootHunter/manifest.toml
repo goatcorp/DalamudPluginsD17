@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "506c6db49ca5d0493b5679e14c319010ccea0dd5"
+commit = "5393b0a16007ef3ce525c0e449f76ddcf2b1ec66"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- API X update
-- Necessary and general service usage refactors
+changelog = """- Added mechanism for additional gatherables localization
+- Added options regarding data loading
+- Modified window rendering
  """

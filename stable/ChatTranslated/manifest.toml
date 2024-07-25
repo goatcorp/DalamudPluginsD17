@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "acc9a95c1ddb4c6d7c5fb61f0c3b95eeddb1bb3a"
+commit = "117611410dc71d0c4baccca180ce316e5c534b4f"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Update for apiX
+Fix LLM proxy not working.
 """
 [plugin.secrets]
-cfv2 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAVF7lQi3ll0QVVHXhrxWWvn56lJGXqQmi7PSprdGJ\nnAEwPWuybeVbiv23purRpMKyRd0Tnnm/wswuf3TJFebn+5Kr2RZctJCK4y6L\nKoGsLHON0lgBxcrMMmv4IHrxs+M7L0Rcsriaw8dI1anSCxrlafxK7g6i+Xsx\nRa57QCwJOd8rMDhmuG9H+LdJZGtcSZHiZr+UapqCJaFZOEt1dYMoZlgcCLyA\nMB4PURNf\n=9CF1\n-----END PGP MESSAGE-----\n"
+cfv3 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA9i5EbwP580i9qnhn7aIbFOqBucfkgHyMiAw/g6WM\ntC8wuOicNTjNOxH1iSThh28b81JDAWE4hNUvwJhTJo87Ez+zLNvN4yffULGt\nPGrNoCAT0lgBFA+LsaOYPohc0XMre0Js6YGMAgYsuD4aypFqIvKz/uwb6NPc\nc4/JkJoFCZSEmivpdzOmOxbCK7km6JsA3tI4+hLtmvvAKZyzejyc8Xa2gfUk\nwLcyIanJ\n=9maw\n-----END PGP MESSAGE-----\n"

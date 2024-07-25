@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
+commit = '735fe12b6e30dd94cecbecc8d7e992b57c28d5dc'
+owners = [ 'caitlyn-gg' ]
+changelog = """
+- Fixed configuration migration to keep previously saved dyes
+- Added more verbose logging to EC imports
+"""

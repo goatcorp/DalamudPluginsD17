@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "d941e247d3d3bc2d618572e86069d2cd88ce3607"
+commit = "b6694fbd87f45a23f6d1444ed5d24d3eab94f367"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
-- dawntrail mode
-- fix bug where oof plays when entering dungeon
+- fix bug where oof won't play on death
+- i hate OOP 
 """

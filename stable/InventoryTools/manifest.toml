@@ -1,12 +1,25 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bee6b2d2a4ef5b735cf49730a9228ecb20819f3d"
+commit = "03121694ccc9cab1e21e2581165f5a0a8850c908"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.8"
+version = "1.7.0.16"
 changelog = """\
-**Allagan Tools 1.7.0.8**
-- Tooltips are back in action
+### Added
+
+- Added a "Is From Fate?" filter/column
+- More data is available for the following:
+  - Desynth results of items
+  - Loot
+  - Reduction
+  - Gardening
+  - Mob Drops
+  - Submarine/Airship Drops
+
+### Fixed
+
+- Items should now should the show the correct type of scrip for their requirements
+
 """

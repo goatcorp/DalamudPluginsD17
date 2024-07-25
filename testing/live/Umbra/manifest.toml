@@ -1,13 +1,31 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "0d4288fced8eb2d0c481eaab271b9b8efeefecaa"
+commit = "9bf2464b9f58442c1e26f016e94d19352fe083a1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-- Added an option to auto-close the gearset switcher when changing gearsets
-- Fixed thousands separator for clients that use NNBSP in the Currency Widget
-- Fixed the overflow container shadow effect not scaling with custom UI scale
-- Fixed & Added localization for Volume, World Marker, and Gearset widgets
-- Fixed the clock widgets showing the wrong prefix icon if the language in Umbra has been overridden.
-- Fixed the district name in the location widget to be faster and match in-game names.
+# Umbra 2.1.6
+
+## New additions
+
+### Added more button background styles for the gearset switcher popup
+
+There have been numerous requests of either hiding or being able to customize the gradient colors of the gearset buttons in the gearset switcher popup. This update introduces a new option in the widget settings that allows you to choose one of 6 possible styles: Four gradients, solid color or none. The colors that are used for the roles are now customizable too in the Appearance tab, allowing you to define your own colors that best match your custom color profile!
+
+### Other additions in this version
+
+- Added an option to show/hide the experience bar on the gearset buttons in the the gearset switcher.
+- Added an option to show/hide the item level on the gearset buttons in the the gearset switcher.
+- Added an option to the location widget that allows you to show both map and district in a single line.
+
+## Fixes & Improvements
+
+- The glamour plate button in the gearset switcher popup header will now use the regular glamour plate window, instead of the linking to gearset one.
+- Fixed teleport costs not updating correctly in the teleport menu widget.
+- Fixed "minimum amount of columns" not working properly in the favorites tab of the teleport menu widget.
+- Fixed incorrect spacing with neighboring widgets when using an undecorated inventory space widget.
+- Swap Dalamud Plugins and Settings buttons in the main menu to make the sorting consistent with the ESC-menu (by Emma)
+- Hide the level and experience of your Chocobo if it is already max level in the companion popup.
+
+Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """

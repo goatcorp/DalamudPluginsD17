@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "d7bef219e06d89c6a8a4eb8b7820cf89d7d7083d"
+commit = "0d6094a115d50b02313f71fabf4d283417b02e98"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for version 7.0 and Dalamud apiX.
-* Rival Wings matches temporarily disabled.
+* Fixed a bug where the CC match window could not be opened if a player abandoned the match.
 """
