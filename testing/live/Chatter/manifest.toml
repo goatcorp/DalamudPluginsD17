@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "73b667508a9672d92d3850ae68e545cefe2fc3eb"
+commit = "ebfbfc8f95de74c3032f5626fed0c67b16a6312d"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Updated for API v10 and FFXIV 7.0"
+changelog = "Added group create/delete."
