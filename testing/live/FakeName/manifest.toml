@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/ArchiDog1998/FakeName.git"
-commit = "408cf4886d34214df84922f6bf359ae8103afa9e"
+commit = "28fe44ad33534c2cb3df0c0494286bccb3447df7"
 owners = ["ArchiDog1998"]
 project_path = "FakeName"
 changelog = """
- - Initial release
+ - DawnTrail ready.
 """
