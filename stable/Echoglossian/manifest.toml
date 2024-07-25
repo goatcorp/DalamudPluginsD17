@@ -4,4 +4,4 @@ commit = "4dda1713aab81f8b1dc430d2e4d6e5a845d21a54"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.8.x\n - enable TalkSubtitle (cutscenes dialogues) and several font-related issues fixes"
+changelog = "v3.8.x \n - enable TalkSubtitle (cutscenes dialogues) and several font-related issues fixes"
