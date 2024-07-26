@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '555d3ab55dc62c360dd25271f816b8e16dbe1a46'
+commit = '5514325c0255ef42c8a76ae2115428cdd73a9a33'
 owners = [ 'caitlyn-gg' ]
 changelog = """
 - Fixed a bug when applying Glamaholic plates wherein dyes would not be correctly identified or show in the preview.
