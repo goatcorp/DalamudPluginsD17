@@ -1,31 +1,34 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "9bf2464b9f58442c1e26f016e94d19352fe083a1"
+commit = "184e6317ab9d82052d7c3fc73042379ff4dec016"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.1.6
+# Umbra 2.1.7
 
 ## New additions
 
-### Added more button background styles for the gearset switcher popup
+The Custom Menu widget has received the following additions:
 
-There have been numerous requests of either hiding or being able to customize the gradient colors of the gearset buttons in the gearset switcher popup. This update introduces a new option in the widget settings that allows you to choose one of 6 possible styles: Four gradients, solid color or none. The colors that are used for the roles are now customizable too in the Appearance tab, allowing you to define your own colors that best match your custom color profile!
+- Added an option to inverse the order of menu entries.
+- Added an option that determines whether the menu should close when an entry has been clicked.
+- Added an option to control the priority of item quality for item-mode buttons.
+- Added a "Separator" menu item type to the Custom Menu entry with support for labels. Note that this functions as a "group", meaning that items below this are part of this group. This is noticeable when reversing the order of items.
 
 ### Other additions in this version
 
-- Added an option to show/hide the experience bar on the gearset buttons in the the gearset switcher.
-- Added an option to show/hide the item level on the gearset buttons in the the gearset switcher.
-- Added an option to the location widget that allows you to show both map and district in a single line.
+- Added a tooltip to the experience bar widget that shows the exact current and required experience, as well as remaining rested points.
 
 ## Fixes & Improvements
 
-- The glamour plate button in the gearset switcher popup header will now use the regular glamour plate window, instead of the linking to gearset one.
-- Fixed teleport costs not updating correctly in the teleport menu widget.
-- Fixed "minimum amount of columns" not working properly in the favorites tab of the teleport menu widget.
-- Fixed incorrect spacing with neighboring widgets when using an undecorated inventory space widget.
-- Swap Dalamud Plugins and Settings buttons in the main menu to make the sorting consistent with the ESC-menu (by Emma)
-- Hide the level and experience of your Chocobo if it is already max level in the companion popup.
+- Fixed Umbra being active while at the Aesthetician.
+- Fixed an empty "Debug" window window appearing when going into HUD editing mode.
+- Fixed the gearset switcher opening the wrong portrait when opening the portrait editor from the context menu.
+- Fixed the Inventory Space widget sometimes crashing when using the saddlebags as an information source.
+- Fixed Companion widget not working properly in Leve quests (by [Drakime](https://github.com/Drakime)).
+- Fixed German translation for "Withdraw" in the companion widget (by [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed the Durability & Spiritbond widget not updating properly during PvP (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixed an issue in the Custom Menu and Item Button widgets where Item Quality priority of NQ/HQ-only as not working correctly.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
