@@ -1,7 +1,7 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = 'ad78fa160102201d5550cdeb6b5b397f59517b7d'
+commit = '555d3ab55dc62c360dd25271f816b8e16dbe1a46'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Eorzea Collection importing now uses the new EC API (shoutout Edeon and the EC team for this!)
+- Fixed a bug when applying Glamaholic plates wherein dyes would not be correctly identified or show in the preview.
 """
