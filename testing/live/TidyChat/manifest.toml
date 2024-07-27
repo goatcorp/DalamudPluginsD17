@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "dce1392e51062f6698887a6df76f05e0b6f81858"
+commit = "9e2e3a1bc338e26ae29fef1c6a827d6da5368a6b"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Improved debugging mode (now named \"Dry Run Mode\" and new filters (Recasting when mooching, Initialized Ready Check)"
+changelog = "Adds new settings for \"smol chat\" and \"normalize specials characters\" under General->Improved Messages"
