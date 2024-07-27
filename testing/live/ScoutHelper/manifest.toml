@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "669c5067202872bfa9f65edbe4869909012a7c3b"
+commit = "9d91d1ab0b6bb4b1770fe9d3af5fdd96b5f98cc9"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(patch) fix turtle button tooltip during collab"
+changelog = "(patch) fix strange init crash"
