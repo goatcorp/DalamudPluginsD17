@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/jlkeesey/Chatter.git"
+commit = "630b72e25dde29a4990ff552affc9ef9ab57b85e"
+owners = ["jlkeesey"]
+project_path = "Chatter"
+changelog = "Moved to stable."
