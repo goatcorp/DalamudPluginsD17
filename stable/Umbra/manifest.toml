@@ -1,0 +1,24 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "7a294e72bce77420727ab2361e33a89906a75d20"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+# Umbra 2.1.8
+
+## New additions
+
+- Added world markers for party members. Ideal when participating in FATE trains!
+- Added an option to set a fixed width to some widgets (location, weather, gearset, etc.) to help stabilize your toolbar layout a bit.
+- Added an indicator (counter) to the "Add Widget" window that shows how many instances of that widget type are currently on your toolbar. This should make it easier to find newly added widget types.
+- Added a right-click action to the Companion Widget to open the native companion window.
+- Added a click action to the Location widget to open and close the world map.
+
+## Fixes & Improvements
+
+- Implemented a simple validation system for custom plugins to ensure they don't break Umbra itself due to breaking changes.
+- Permanently removed interactivity on the Spacer widget due to an issue with ImGui requiring clickable 'windows' being 32x32 pixels in size. This caused for overlap on neighboring widgets, resulting in them not being clickable anymore.
+- Fixed buttons overlapping in the Companion Widget popup when using German languages (by [Bloodsoul](https://github.com/Bloodsoul))
+
+Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
+"""
