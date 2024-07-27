@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "73b667508a9672d92d3850ae68e545cefe2fc3eb"
+commit = "008e17563fbeb6825bbcb04bc9a4936b0dd55e4d"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Updated for API v10 and FFXIV 7.0"
+changelog = "Fixed bug where user not logged."
