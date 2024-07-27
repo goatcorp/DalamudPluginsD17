@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://git.pilzinsel64.de/pilzinsel64/playertags.git"
-commit = "03833c51558c82b10e37a726e617e1e04d1c00fc"
+commit = "b14b39ef4d63c972c830b5bfd12eec6cff863af2"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """- Fixed flickering and some errors due missing icons
+changelog = """- Switched over to INamePlateGui service from core Dalamud
 """
