@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0d6094a115d50b02313f71fabf4d283417b02e98"
+commit = "19a9331b4c6feb56a26e38397ef5235ea247024d"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed a bug where the CC match window could not be opened if a player abandoned the match.
+* Updated and re-enabled Rival Wings match tracking for Dawntrail.
+* Fixed a bug where table data would be offset on the Frontline match details window.
 """
