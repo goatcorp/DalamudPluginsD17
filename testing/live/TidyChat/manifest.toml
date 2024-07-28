@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "dce1392e51062f6698887a6df76f05e0b6f81858"
+commit = "d273627272f445b150ae2e0f5b47fdbe540ba745"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Improved debugging mode (now named \"Dry Run Mode\" and new filters (Recasting when mooching, Initialized Ready Check)"
+changelog = "Bugfixes: \n -Added missing Party filters \n -Show self-loot even when filtering LootObtains channel \n -Dry Run mode no longer disables better messages \n -Having a buff that increases the number of GC seals should no longer cause the message to be blocked"

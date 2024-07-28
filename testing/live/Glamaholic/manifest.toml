@@ -1,8 +1,12 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '735fe12b6e30dd94cecbecc8d7e992b57c28d5dc'
+commit = '621089f9676bb07873013238a50a37465bf26f2d'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed configuration migration to keep previously saved dyes
-- Added more verbose logging to EC imports
+**Bug Fixes**
+- Fixed a bug where dyes may be applied to the incorrect slot if the user had previously opened a context menu for another slot first
+
+**New Features**
+- Added Troubleshooting Mode to help track down an issue with plate slots applying inconsistently or not at all
+  - Activate through Settings -> "Troubleshooting mode", then check `/xllog` for messages starting with `[Troubleshooting]`
 """

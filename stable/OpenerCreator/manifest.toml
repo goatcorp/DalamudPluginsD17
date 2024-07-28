@@ -4,7 +4,5 @@ commit = "6a09112177c6a0a94a051399f1d60d54df5ed3c5"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
 changelog = """
-Updates:
-- Add current action indicator
-- Automatically save configuration 
+Move to stable 
 """

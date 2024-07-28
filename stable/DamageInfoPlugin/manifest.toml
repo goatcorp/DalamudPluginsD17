@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lmcintyre/DamageInfoPlugin.git"
-commit = "43c18d09f39fdb275584a60fb6e4e6ed663aadbe"
+commit = "7ea73078f03abf14ede89dda1d9ef161f6ea468d"
 owners = [
     "lmcintyre",
 ]
