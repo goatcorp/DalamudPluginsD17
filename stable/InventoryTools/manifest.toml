@@ -1,25 +1,24 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "03121694ccc9cab1e21e2581165f5a0a8850c908"
+commit = "326227d9dc83f44f20c399d90ac29cdb5c9c6801"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.16"
+version = "1.7.0.17"
 changelog = """\
 ### Added
 
-- Added a "Is From Fate?" filter/column
-- More data is available for the following:
-  - Desynth results of items
-  - Loot
-  - Reduction
-  - Gardening
-  - Mob Drops
-  - Submarine/Airship Drops
+- Added a amount owned tooltip sorting option(by retainer name or by inventory category name)
+- Added a outdated gear filter/column(will compare your current class/job levels to the gear in the specified inventories)
 
 ### Fixed
 
-- Items should now should the show the correct type of scrip for their requirements
+- Table columns can be hidden/shown using the built-in imgui menu without breaking the layout
+- Fixed a bug that would cause right clicking on a list/craft table item to fail
+
+### Known Issues
+
+- Sometimes AT will fail to load, this is not a AT issue, it is a Dalamud issue that has been fixed but is currently only fixed on staging.
 
 """
