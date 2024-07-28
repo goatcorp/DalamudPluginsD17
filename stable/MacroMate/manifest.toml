@@ -1,11 +1,20 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "9b33cc895a237c360f95333bbc53fd9caddd4297"
+commit = "9c6df5d7752054d13e3f0e969491e815bcbcecd1"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.13.1"
+version = "1.0.14.0"
 changelog = """
-- Inter-Plugin Communication (IPC) support for creating macros and groups
-- Fix various scaling issues with increased global font scale
-- Allow resizing the macro part of the macro window
+Changes:
+
+- Newly created macros will now be 'Always Linked' by default (previously all conditions were added)
+- Added a new button to add all conditions
+- Improved Help window with importable examples and formatting fixes
+
+Bugfixes:
+
+- Fix initial size of macro window being too small
+- Fix macro name width with high global font scale
+- Fix padding with high global font scale
+- Fix condition editor button alignment
 """
