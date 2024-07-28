@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "9e2e3a1bc338e26ae29fef1c6a827d6da5368a6b"
+commit = "d273627272f445b150ae2e0f5b47fdbe540ba745"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Adds new settings for \"smol chat\" and \"normalize specials characters\" under General->Improved Messages"
+changelog = "Bugfixes: \n -Added missing Party filters \n -Show self-loot even when filtering LootObtains channel \n -Dry Run mode no longer disables better messages \n -Having a buff that increases the number of GC seals should no longer cause the message to be blocked"
