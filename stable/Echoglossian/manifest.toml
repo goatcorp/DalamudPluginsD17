@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "fbef74040639423f4d031906789e057553bff0af"
+commit = "93dce8535ad47a80f1c05d031853cc15679de5c1"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.9.x \n - bugfix: fixed a bug related to the fonts loaded for languages that the game's native font does not support"
+changelog = "v3.10.x \n - bugfix: fixed a bug related to assets downloading"
