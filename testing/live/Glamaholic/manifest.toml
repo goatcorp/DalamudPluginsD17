@@ -1,12 +1,12 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '30f5008025016b32c0b72bd0ccff74be53f544cf'
+commit = '621089f9676bb07873013238a50a37465bf26f2d'
 owners = [ 'caitlyn-gg' ]
 changelog = """
 **Bug Fixes**
-- Fixed a bug when applying Glamaholic plates wherein dyes would not be correctly identified or show in the preview.
+- Fixed a bug where dyes may be applied to the incorrect slot if the user had previously opened a context menu for another slot first
 
 **New Features**
-- Added "Export as Text" feature, available in the button bar at the bottom of the glamour edit and preview pane.
-- Added "Fill with New Emperor" options to fill empty slots with New Emperor either in-plate or when applying or trying a plate on.
+- Added Troubleshooting Mode to help track down an issue with plate slots applying inconsistently or not at all
+  - Activate through Settings -> "Troubleshooting mode", then check `/xllog` for messages starting with `[Troubleshooting]`
 """
