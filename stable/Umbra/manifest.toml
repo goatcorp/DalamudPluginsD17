@@ -1,19 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "e5f2579f8ce368dc984b4370fff17ad937dbade1"
+commit = "c57cf360d645c59a3ed664d3a985fc851daa0387"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.1.9
+# Umbra 2.2.0
 
-This is a small update that addresses some issues with the previous release.
+## New Additions
+
+- Added world markers for Aether Currents. Note that you need to be within 100 yalms for these to show up and have completed the necessary quest requirements.
+- Added a new widget "Retainers" that shows a list of your retainers and their status. Note that this widget disables itself if you are not on your home world or in an instanced duty.
+- Added an option to the Item Button to automatically hide itself when the configured item is not (or no longer) in your inventory.
 
 ## Fixes & Improvements
 
-- Fixed some widgets appearing to be non-interactable due to a neighboring widget overlapping them with an invisible box.
-- Fixed party member markers showing up in the game world when they shouldn't.
-- Fixed an issue where the text of some world markers did not render correctly in French.
-- Fixed the "auto-close popup" option for the gearset switcher.
+- Fixed disposal of resources when unloading or restarting the plugin. (Big thanks to Hasel & Wildwolf!)
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
