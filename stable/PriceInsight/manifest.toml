@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "18307dfdf2a9f7a7910fd504e70212b3f4683f16"
+commit = "c2da14601f7319e15217aec765ff46bbe24dfe75"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Reduce number of universalis requests to stay within rate limit
-- Clarify error message
+Utilize new experimental Universalis API.
+To enable the new API, set the config option "Use new Universalis API" (might be enabled automatically for some users).
+This API is supposed to be significantly faster and more stable than the current API, but is still under testing.
+If you are experiencing issues, disable the option for now.
 """
