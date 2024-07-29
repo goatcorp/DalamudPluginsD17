@@ -1,20 +1,25 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "c57cf360d645c59a3ed664d3a985fc851daa0387"
+commit = "01b9c67b5520cfc12f6360453694da0216e639b1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.0
+# Umbra 2.2.1
 
 ## New Additions
 
-- Added world markers for Aether Currents. Note that you need to be within 100 yalms for these to show up and have completed the necessary quest requirements.
-- Added a new widget "Retainers" that shows a list of your retainers and their status. Note that this widget disables itself if you are not on your home world or in an instanced duty.
-- Added an option to the Item Button to automatically hide itself when the configured item is not (or no longer) in your inventory.
+- Added an "Emote Chat" indicator widget that shows you if and when emotes are being sent to the chat, with an option to toggle it on or off.
+- Added a world marker type for Waymarks.
+- Added an option to the "Gathering Nodes" world markers to toggle showing the node contents on/off to reduce screen clutter.
+- Added an option to the "Item Button" widget to show the amount of the configured item in your inventory.
+- Added an option to the "Custom Button" widget to set a fixed button width.
+- Added an option to the "Companion" widget to desaturate the toolbar button icon.
 
 ## Fixes & Improvements
 
-- Fixed disposal of resources when unloading or restarting the plugin. (Big thanks to Hasel & Wildwolf!)
+- Fixed retainers without a job not being visible in the retainer widget popup.
+- Fixed the "Completed" translation for ventures in the retainer widget.
+- Fixed some German translations in the retainer widget (by [Bloodsoul](https://github.com/Bloodsoul))
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
