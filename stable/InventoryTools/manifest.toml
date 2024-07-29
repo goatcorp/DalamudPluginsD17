@@ -1,24 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "326227d9dc83f44f20c399d90ac29cdb5c9c6801"
+commit = "a4c9785336742558340824880d91fcee13da354c"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.17"
+version = "1.7.0.18"
 changelog = """\
-### Added
-
-- Added a amount owned tooltip sorting option(by retainer name or by inventory category name)
-- Added a outdated gear filter/column(will compare your current class/job levels to the gear in the specified inventories)
-
 ### Fixed
 
-- Table columns can be hidden/shown using the built-in imgui menu without breaking the layout
-- Fixed a bug that would cause right clicking on a list/craft table item to fail
-
-### Known Issues
-
-- Sometimes AT will fail to load, this is not a AT issue, it is a Dalamud issue that has been fixed but is currently only fixed on staging.
+- Hopefully fully fixed column hiding not breaking the layout
+- Craft/Gather button columns now work as intended
+- Having an empty tooltip amount owned scope would sometimes make the tooltip show no owned items
 
 """
