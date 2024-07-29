@@ -1,0 +1,6 @@
+  [plugin]
+  repository = "https://github.com/Aida-Enna/XIVControllerToggle.git"
+  commit = "4adbf35cadb843546b80649227cbfdeb30c8ed95"
+  owners = ["Aida-Enna"]
+  project_path = ""
+  changelog = "- Updated for Dawntrail (7.X)"
