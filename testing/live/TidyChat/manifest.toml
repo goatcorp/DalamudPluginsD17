@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "d273627272f445b150ae2e0f5b47fdbe540ba745"
+commit = "7cfe018c603651417394b7657e1ee30bc3c081c6"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Bugfixes: \n -Added missing Party filters \n -Show self-loot even when filtering LootObtains channel \n -Dry Run mode no longer disables better messages \n -Having a buff that increases the number of GC seals should no longer cause the message to be blocked"
+changelog = "Fix GC+10%, Fix LootNotice filters (again), Add toggle for displaying Party Information when joining a party"
