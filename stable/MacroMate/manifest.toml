@@ -1,20 +1,13 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "9c6df5d7752054d13e3f0e969491e815bcbcecd1"
+commit = "83960e4ada5a8b4bf7f7a2c85c3b4181b67ecdcd"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.14.0"
+version = "1.0.15.0"
 changelog = """
 Changes:
 
-- Newly created macros will now be 'Always Linked' by default (previously all conditions were added)
-- Added a new button to add all conditions
-- Improved Help window with importable examples and formatting fixes
-
-Bugfixes:
-
-- Fix initial size of macro window being too small
-- Fix macro name width with high global font scale
-- Fix padding with high global font scale
-- Fix condition editor button alignment
+- New command: `/macromate open <path>` which opens a macro for editing
+- New command: `/macromate help`
+- Added help window entry for paths
 """
