@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8530e810f3a9dbd8a23eadbed83d83aaf1ef2b01"
+commit = "1020247a5f7bf4704383b4ed42f143996dddd383"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = "Fix potential nullexception that prevent opening and crash if playtime command used"
