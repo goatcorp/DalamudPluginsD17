@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "ab070037c0809142f65b3374fbc889fca52cd2f9"
+commit = "f21214f2ac113d7933be11d2907c16b6f88746e0"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+Version 0.7.0.1:
+- Fixed: If Tobii Game Hub is not present, the plugin isn't usable at all.
+
 Version 0.7.0.0:
 - Added: Support for Eyeware Beam Eye Tracker. Enables eye tracking with just a webcam.
 - Fixed?: Potential fix for crashes during cutscenes.
