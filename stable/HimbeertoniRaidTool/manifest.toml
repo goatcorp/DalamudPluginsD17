@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "93e3f25e16ab852d88c0410ecd0b0691a3d6b5ce"
-changelog = "Bugfix: Fix being unable to change tabs in config"
+commit = "e88e2a3a4d3ced00f86945f54674eb1a0315b715"
+changelog = "Loot Master: Add savage loot information"
