@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "24336f7dfead4d0d51776d7a274e14128c82ce95"
+commit = "6c8d0354c6a40e4ef002714fedec75ca4648577d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Fix regression on currencies drawall"
+changelog = "Add heliometry tomestone and enable back weekly limit/timer. Add facewear collection"
