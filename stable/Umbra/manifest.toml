@@ -1,26 +1,13 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "216f7b9f6e091f1ca36a8a056b83bc3865c3ea0d"
+commit = "17c9ac62a4de056120f651ce80d745595e252974"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.3
+# Umbra 2.2.3.1 (Hotfix)
 
-## New Additions
-
-- Added a "Collection Item Button" widget that allows placing a button on your toolbar for quick access to a collection item.
-- Added a world marker type for "Sightseeing Log Vistas" that you have yet to complete.
-- Added dynamically changing mouse cursors for interactive elements.
-- Added cooldown timers in the travel menu for items and the Return action.
-- Added an option to the Clock widget that allows vertical adjustments of the prefix label/symbol.
-- Added an option to change the job icon type of the party member world markers.
-
-## Fixes & Improvements
-
-- Fixed minimized window state not taking UI scale into consideration, causing cut-offs in the titlebar height.
-- Fixed the check whether your Chocobo companion can actually be summoned.
-- Improved the window clipping system to better determine the outer bounds of native game windows that can overlap Umbra's windows.
-- Added support for outline colors (UIGlow) for the server info bar entries.
+Reverted the dynamic cursor change when hovering over interactive elements. Apparently the game plays a clicky sound
+effect when the mouse cursor changes. I had no idea it did this. Apologies for the inconvenience!
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
