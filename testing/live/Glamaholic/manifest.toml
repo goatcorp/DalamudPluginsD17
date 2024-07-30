@@ -1,10 +1,10 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '0df6635f62ed0b4fa0eac2c014777319040f8ad7'
+commit = '7fd99029d0a4bd1c6f5689cf22be693f0bbf4295'
 owners = [ 'caitlyn-gg' ]
 changelog = """
 **Bug Fixes**
-- Fixed a bug causing items to be skipped on apply if they were in the first slot of the glamour dresser.
+- Fixed a bug where Opo-opo Brown dye would fail to be recognized when importing from Eorzea Collection
 
 **New Features**
 None at this time.
