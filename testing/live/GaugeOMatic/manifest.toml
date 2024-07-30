@@ -1,18 +1,19 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "e1feeeb1e390c5c779ac823c38d7ab99a8b48d18"
+commit = "3e381a510885a6d169294de74d5fc6e59aa5a838"
 owners = [
     "ItsBexy",
 ]
 changelog = """
+This update should fix an issue with the latest client patch, which was causing crashes for BLM players using the plugin.
+
 ## WIDGETS
-- **NEW COUNTER WIDGET:** *Kazematoi Kunai*
-- **NEW STATE WIDGET:** *Kazematoi Swoosh*
-- **NEW BAR WIDGET:** *Kazematoi Bar*
-- **RESTORED WIDGET:** *Huton Pinwheel* is back from the dead!
-- Added "Hide Full" behaviour option for various Bar widgets
+- The *Simple Gems* widget has been updated with a variety of new shapes to choose from!
 
 ## TWEAKS
-- **NEW TWEAK FOR NIN:** Recolor the Ninki Gauge while under the effect of Higi
-- A testing checkbox is now available for NIN and VPR tweaks (and for future tweaks that may benefit from it)
+- **New Tweak for MNK:** Reverse the order of the icons on your Beast Chakra Gauge
+- **Temporarily Disabled:** VPR's color-coding tweak has been temporarily disabled, as it needs to be adapted for the Gauge's updated behaviour.
+
+## MISC
+- The names and timers for the recently-changed VPR statuses and actions have been updated accordingly. (I may have missed some things, will review when less sleepy.)
 """
