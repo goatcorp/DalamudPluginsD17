@@ -1,25 +1,24 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "01b9c67b5520cfc12f6360453694da0216e639b1"
+commit = "741d030764eb43f4f7a853169be93a50fa477163"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.1
+# Umbra 2.2.2
+
+## Behavioral changes
+
+- The "Enabled" state of World Markers is now `Disabled` by default. This means that newly added world marker types aren't suddenly enabled automatically anymore. If you find world markers suddenly missing, please re-enable them either from the settings window or the world markers control widget.
 
 ## New Additions
 
-- Added an "Emote Chat" indicator widget that shows you if and when emotes are being sent to the chat, with an option to toggle it on or off.
-- Added a world marker type for Waymarks.
-- Added an option to the "Gathering Nodes" world markers to toggle showing the node contents on/off to reduce screen clutter.
-- Added an option to the "Item Button" widget to show the amount of the configured item in your inventory.
-- Added an option to the "Custom Button" widget to set a fixed button width.
-- Added an option to the "Companion" widget to desaturate the toolbar button icon.
+- Added a minimize/restore button to Umbra Windows.
 
 ## Fixes & Improvements
 
-- Fixed retainers without a job not being visible in the retainer widget popup.
-- Fixed the "Completed" translation for ventures in the retainer widget.
-- Fixed some German translations in the retainer widget (by [Bloodsoul](https://github.com/Bloodsoul))
+- Fixed the French translation for "Retainer".
+- Fixed a crash that may occur when switching zones due to the Aether Current world marker factory trying to read from protected memory.
+
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
