@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "2a2da90987a5787a933e465a329534ac6f447522"
+commit = "832aad5ef5ee1f226aec5e33c0a68bb73248c0c5"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- Fixed an issue where the Retainer component would partially fail due to an addon reading error.
-- Resolved a problem causing the plugin to completely fail due to duplicate item names in specific client languages.
-- Enhanced the ServerBar component with additional display period support.
-- Added support for the Korean language.
+nofranz
 """
