@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "02d1f5783f17637f3f2f74e064bc566d484bbf93"
+commit = "620c1d0ec1832a779856160672e7cd3a53934f1c"
 owners = [ 
 	"KhloeLeclair"
 ]
