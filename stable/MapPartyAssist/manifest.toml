@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "f180365d1e9f6953613453fc6bc8f458806934e9"
+commit = "8b64723e146c54dd847d76c85d9c87f30488f925"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
 * Adds duty tracking to Cenote Ja Ja Gural.
+* Fix duplicate loot result bug.
 """
