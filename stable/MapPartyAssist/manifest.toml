@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "60ea13c0a70caa91f03923e9933f54ab2496e52a"
+commit = "5186b041f0584f318e3f4a07e76644e17e6ae02a"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Sets portal for map when duty is unknown.
+* Adds duty tracking to Cenote Ja Ja Gural.
+* Fix duplicate loot result bug.
+* Add total gil value dropped to loot tab.
 """
