@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "e88e2a3a4d3ced00f86945f54674eb1a0315b715"
-changelog = "Loot Master: Add savage loot information"
+commit = "dfa6d3195107c8220b3ae70ea97f0adc3747d96b"
+changelog = "Bugfix: Fix wrongly displayed Tome gear"
