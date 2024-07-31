@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f6f9e39c0ecd427bbcab9d31c1fa3064cd474487"
+commit = "586e4242a6b9e0e70021f516ff58f16257afe047"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = "Better handling large number of characters"
