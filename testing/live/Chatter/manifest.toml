@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "0ae41291809f498b9fb3985a457c1289b9e38e2f"
+commit = "008e17563fbeb6825bbcb04bc9a4936b0dd55e4d"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Updated to work with latest"
+changelog = "Fixed bug with user not logging."

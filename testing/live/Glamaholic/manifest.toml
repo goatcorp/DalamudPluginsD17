@@ -1,0 +1,13 @@
+[plugin]
+repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
+commit = '7fd99029d0a4bd1c6f5689cf22be693f0bbf4295'
+owners = [ 'caitlyn-gg' ]
+changelog = """
+**Bug Fixes**
+- Fixed a bug where Opo-opo Brown dye would fail to be recognized when importing from Eorzea Collection
+
+**New Features**
+None at this time.
+
+For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
+"""

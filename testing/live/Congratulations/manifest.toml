@@ -1,9 +1,8 @@
 [plugin]
-repository = "https://github.com/Berna-L/ffxiv-congratulations-plugin.git"
-commit = "ff798850f123fbd3626184d711b06adfceb54295"
-owners = ["Berna-L"]
+repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
+commit = "8a395e49d69ac09f2c639189b230b3f6ad74ab01"
+owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """
-- Update testing branch to the latest version on stable.
-- Validated on 6.38 (commendations number address is still correct and the triggers to update it and play the sound are still OK).
+Updated for FFXIV 7.01
 """

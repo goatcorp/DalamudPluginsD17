@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "71aafdc7b4e3a87dd829b2b94dc09ecee0955770"
+commit = "c2da14601f7319e15217aec765ff46bbe24dfe75"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix tooltips overflowing when using UI scaling
-Fix = occasionally showing in numbers when using french language on windows
+Utilize new experimental Universalis API.
+To enable the new API, set the config option "Use new Universalis API" (might be enabled automatically for some users).
+This API is supposed to be significantly faster and more stable than the current API, but is still under testing.
+If you are experiencing issues, disable the option for now.
 """

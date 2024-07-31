@@ -17,6 +17,14 @@ jobs:
         path: manifests
         ref: ${{ github.event.pull_request.head.sha }}
 
+    - name: Setup Difftastic
+      run: |
+        wget https://github.com/Wilfred/difftastic/releases/latest/download/difft-x86_64-unknown-linux-gnu.tar.gz
+        tar -xzf difft-x86_64-unknown-linux-gnu.tar.gz
+        sudo mv difft /usr/local/bin/difft
+        sudo chmod +x /usr/local/bin/difft
+        difft --version
+
     - name: Checkout Plogon
       uses: actions/checkout@v3
       with:

@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "17c9ac62a4de056120f651ce80d745595e252974"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+# Umbra 2.2.3.1 (Hotfix)
+
+Reverted the dynamic cursor change when hovering over interactive elements. Apparently the game plays a clicky sound
+effect when the mouse cursor changes. I had no idea it did this. Apologies for the inconvenience!
+
+Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
+"""

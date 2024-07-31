@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "377df5a89e00bedb090e8b61da625e85af25c775"
+commit = "7b9b802bc4cfe4b696ae3d3997b108a5a07878f0"
 owners = ["gnargle"]
 project_path = "NICEDamage"
-changelog = "Update for 7.0. Move to stable."
+changelog = "Fixed NICE appearing at the wrong time (I left testing code in oops)"

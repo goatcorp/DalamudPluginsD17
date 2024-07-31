@@ -1,10 +1,19 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "785b1225e2e70f85bc4cedfc380f93b9393556aa"
+commit = "3e381a510885a6d169294de74d5fc6e59aa5a838"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Status effects cast by the player's pet (such as Carbuncle's Radiant Aegis) are now tracked properly
-- Label text on the Beast Bar and Oath Bar widgets will now fade out correctly whenever the bar is hidden
+This update should fix an issue with the latest client patch, which was causing crashes for BLM players using the plugin.
+
+## WIDGETS
+- The *Simple Gems* widget has been updated with a variety of new shapes to choose from!
+
+## TWEAKS
+- **New Tweak for MNK:** Reverse the order of the icons on your Beast Chakra Gauge
+- **Temporarily Disabled:** VPR's color-coding tweak has been temporarily disabled, as it needs to be adapted for the Gauge's updated behaviour.
+
+## MISC
+- The names and timers for the recently-changed VPR statuses and actions have been updated accordingly. (I may have missed some things, will review when less sleepy.)
 """

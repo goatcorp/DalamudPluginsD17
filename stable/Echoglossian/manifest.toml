@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "68c7d535aeb85606df8f54885adddf2c7ebd67e1"
+commit = "93dce8535ad47a80f1c05d031853cc15679de5c1"
 owners = [
     "lokinmodar",
 ]
-changelog = "Added Deepl Translation Engine (thanks again to @samulopez)"
+changelog = "v3.10.x \n - bugfix: fixed a bug related to assets downloading"

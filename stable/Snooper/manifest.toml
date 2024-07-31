@@ -1,11 +1,10 @@
 [plugin]
-repository = "https://github.com/Maia-Everett/dalamud-snooper.git"
-commit = "a0fa7be17b3e9645818b5f06ad42adc98d3c4d5d"
+repository = "https://codeberg.org/Linneris/dalamud-snooper.git"
+commit = "d79d13d33e3d6babe23ad53afdc65138dca70a48"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.2.1.1"
+version = "1.3.0.0"
 changelog = """
-* Snooper will no longer play a sound when you send a tell. This was never intended. (#18)
-* If saving logs to disk is disabled, Snooper will no longer load already existing logs from disk.
-* Reduced plugin log spam, fixing an issue where exception stack traces were logged for normal operation.
+* Chat messages loaded from log files (rather than sent in the current game session) are now dimmed out.
+* Fixed a bug where failing to open log files for writing prevented Snooper from functioning properly.
 """
