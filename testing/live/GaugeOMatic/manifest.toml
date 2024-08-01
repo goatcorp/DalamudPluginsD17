@@ -1,9 +1,18 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "50b5b21591705fb9b53bb80df240ccf4afacff5e"
+commit = "5774351df1e4720eafbaa78c091545bdb08be495"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Restored the functionality of VPR gauge data and the *Color-Code Vipersight* tweak
+## Tweaks
+- Added tooltip explanations to various tweaks
+- **New VPR Tweak:** Mirror the highlights on the Vipersight Gauge (handy if you like having your Steel Fangs button on the right)
+- **Updated VPR Tweak:** Added an option to only color-code Vipersight highlights on the 3rd combo step
+
+## Misc Fixes
+- Corrected an issue where empty Addersgall Gem slots would sometimes be visible even when set to "Hide Empty"
+- Fixed an internal error in the Soul Bar widget that led to other widgets failing to update
+- Added Walking Dead and Undead Rebirth to DRK's status tracker options
+- Partially fixed an issue where bar widgets could behave strangely when set to both "Hide Full" and "Hide Empty" (a more comprehensive fix is in the works)
 """
