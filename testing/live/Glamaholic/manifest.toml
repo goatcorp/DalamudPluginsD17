@@ -1,13 +1,16 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '7fd99029d0a4bd1c6f5689cf22be693f0bbf4295'
+commit = 'd85442b7603c30394a51db389cc83a0f4ec2a92a'
 owners = [ 'caitlyn-gg' ]
 changelog = """
 **Bug Fixes**
-- Fixed a bug where Opo-opo Brown dye would fail to be recognized when importing from Eorzea Collection
+None at this time.
 
 **New Features**
-None at this time.
+- Separated Eorzea Collection features into a new menu.
+- Eorzea Collection imports are now automatically tagged as such.
+- Added the option to try a glamour on directly from EC without having to create a plate first.
+- Began support for interop with other plugins. Plugin interop features will only display if supported plugins are installed and enabled.
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """
