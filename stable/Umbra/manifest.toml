@@ -1,22 +1,49 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "0eb940fb9ad37d67dbcd48c3d1034ab15ebc49bb"
+commit = "51eb7e26c34e879a2d392ad3eb745c2215bc8a73"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.4
+# Umbra 2.2.5
 
-## New Additions
+## Streamlined Widget Options
 
-- Added a search box to the "Add Widget" and "Widget Settings" windows.
-- Added a world marker type for Treasure Coffers.
-- Added a "show coordinates" option to the Location Widget. Note that this _replaces_ the district name when enabled in order to keep things condensed.
+This update streamlines al lot of common configuration options that allows you to customize your widgets. Some widgets will get more options compared to what they previously had, including but not limited to icon size, display modes and fixed width.
 
-## Fixes & Improvements
+Affected widgets:
 
-- Fixed a 'popup-open' sound being played even though a widget button is disabled.
-- Fixes in German translations for Aether Currents & Sightseeing Log Vistas (by [Bloodsoul](https://github.com/Bloodsoul)).
-- Hide the Job Name in gearset switcher popup buttons when the gearset name is equal to the job name.
+- Collection Item Button
+- Companion Widget
+- Custom Button
+- Custom Menu Button
+- Currencies
+- Flag
+- Gearset Switcher
+- Item Button
+- Location
+- Main Menu Button
+- Weather Forecast
+
+### Breaking Changes
+
+Three internal configuration variable names got renamed with this change. This means that the following options may have been reset, depending on your widget settings:
+
+- The gearset switcher Top & Bottom text vertical offsets are reset to `-1` and `1` respectively.
+- The main menu button widget's icon desaturation setting has been reset to `false`, meaning it will show up in color.
+
+A lot of translations have been removed since these common settings now all share the same names and descriptions. As a result of this, widget settings of custom plugins that were using these translations before may show "Translation missing:...".
+
+### Ps.
+
+Although this update does not add anything new or fancy, the main reason for it is to remove a ton of what is effectively duplicate code and make the process of creating new widgets easier and require a lot less code. This alleviates some maintenance burden and quickens the review process, since there is generally less code that needs reviewing in the future.
+
+-# This update removes approximately 2100 lines of code and translations from the codebase.
+
+### Additional improvements & fixes
+
+- The items listed in the durability widget are now sorted based on spiritbond value by default.
+- Fixed the French translation for Sightseeing Log vista world markers.
+
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
