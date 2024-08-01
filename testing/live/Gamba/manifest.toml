@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Comfefe/Gamba"
+commit = "726db2f09c17a1dbceef4dd6255109bae6ca7dca"
+owners = ["Cometo"]
+project_path = "Gamba"
+changelog = ""
