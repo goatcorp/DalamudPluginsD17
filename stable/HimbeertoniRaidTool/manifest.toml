@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "dfa6d3195107c8220b3ae70ea97f0adc3747d96b"
-changelog = "Bugfix: Fix wrongly displayed Tome gear"
+commit = "ba596fc2810d305f00f6ebcfb3985b63d419ac3a"
+changelog = "Bugfix: Fix missing materia in etro sets"
