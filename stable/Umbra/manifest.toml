@@ -1,13 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "17c9ac62a4de056120f651ce80d745595e252974"
+commit = "0eb940fb9ad37d67dbcd48c3d1034ab15ebc49bb"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.3.1 (Hotfix)
+# Umbra 2.2.4
 
-Reverted the dynamic cursor change when hovering over interactive elements. Apparently the game plays a clicky sound
-effect when the mouse cursor changes. I had no idea it did this. Apologies for the inconvenience!
+## New Additions
+
+- Added a search box to the "Add Widget" and "Widget Settings" windows.
+- Added a world marker type for Treasure Coffers.
+- Added a "show coordinates" option to the Location Widget. Note that this _replaces_ the district name when enabled in order to keep things condensed.
+
+## Fixes & Improvements
+
+- Fixed a 'popup-open' sound being played even though a widget button is disabled.
+- Fixes in German translations for Aether Currents & Sightseeing Log Vistas (by [Bloodsoul](https://github.com/Bloodsoul)).
+- Hide the Job Name in gearset switcher popup buttons when the gearset name is equal to the job name.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
