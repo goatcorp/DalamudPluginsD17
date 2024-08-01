@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "cbb31481fedf58e8bf1b3d734b961d88a47593df"
+commit = "3fca9afd298eece93ae3348592b06667f6353a0e"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Fix some table with for axis font. Hide more unimplemented tabs. Fix db path to prevent char loss between version upgrade"
+changelog = "Version 0.0.0.5: Fix some table with for axis font. Hide more unimplemented tabs. Fix db path to prevent char loss between version upgrade"
