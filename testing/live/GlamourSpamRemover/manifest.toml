@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Shezwick/GlamourSpamRemover"
 commit = "0a12172858ebe234e20658f9ea00d18d0a244088"
-owners = ["Shezwick"]
+owners = ["Philpax","Shezwick"]
 project_path = "GlamourSpamRemover"
 changelog = "Initial submission"
 version = "1.0.0.0"
