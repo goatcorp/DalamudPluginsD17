@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "83960e4ada5a8b4bf7f7a2c85c3b4181b67ecdcd"
+commit = "a4894050160d82f737db9ce5af195a487570760f"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.15.0"
+version = "1.0.16.0"
 changelog = """
-Changes:
-
-- New command: `/macromate open <path>` which opens a macro for editing
-- New command: `/macromate help`
-- Added help window entry for paths
+- Added 'Import to Macro Mate' context menu action (vanilla macro UI)
+- Added 'Open in Macro Mate' context menu action (vanilla macro UI)
+- Added 'Update in Macro Mate' context menu action (vanilla macro UI)
+- Added setting to disable context menu actions
+- Fixed search clear text button not appearing
 """
