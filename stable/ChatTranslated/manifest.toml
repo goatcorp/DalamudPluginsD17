@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "117611410dc71d0c4baccca180ce316e5c534b4f"
+commit = "4123c09a867a4ced7835e6ddaf0a3d7cd196bb9e"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Fix LLM proxy not working.
+Fix main window breaking when changing UI scale.
+Replace GPT-3.5-turbo with GPT-4o-mini in OpenAI mode.
 """
 [plugin.secrets]
 cfv3 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA9i5EbwP580i9qnhn7aIbFOqBucfkgHyMiAw/g6WM\ntC8wuOicNTjNOxH1iSThh28b81JDAWE4hNUvwJhTJo87Ez+zLNvN4yffULGt\nPGrNoCAT0lgBFA+LsaOYPohc0XMre0Js6YGMAgYsuD4aypFqIvKz/uwb6NPc\nc4/JkJoFCZSEmivpdzOmOxbCK7km6JsA3tI4+hLtmvvAKZyzejyc8Xa2gfUk\nwLcyIanJ\n=9maw\n-----END PGP MESSAGE-----\n"
