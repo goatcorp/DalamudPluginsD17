@@ -2,7 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "2fead4c4dc16ef75637c29d113fe6ba94f6f1227"
-changelog = """
-Bugfix: Fix loot being inaccurate
-    Bugfix: Fix missing materia in etro sets"""
+commit = "94809b80a04dd559c233d53aaf67a71bfa61535d"
+changelog = "Bugfix: Fix update from lodestone"
