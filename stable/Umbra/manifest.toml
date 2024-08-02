@@ -10,7 +10,7 @@ changelog = """
 
 This update adds a new "Emote List" widget, providing quick and easy access to a customizable grid of emotes.
 
-The widget supports up to four categories with customizable names, presented as "tabs." The tab strip is hidden if only one category is enabled (_default_). Each tab contains a grid of 8x8 assignable slots, offering a total of 32 buttons per tab, or a _whopping_ 128 slots in total. Right-clicking a slot opens a context menu, allowing you to access the "Emote Picker" or clear the selected slot.
+The widget supports up to four categories with customizable names, presented as "tabs." The tab strip is hidden if only one category is enabled (_default_). Each tab contains a grid of 8x4 assignable slots, offering a total of 32 buttons per tab, or a _whopping_ 128 slots in total. Right-clicking a slot opens a context menu, allowing you to access the "Emote Picker" or clear the selected slot.
 
 Enjoy!
 
