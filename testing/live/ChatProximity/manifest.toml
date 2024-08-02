@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "59184e361f873a6f12e085b1094a1e876db7a874"
+commit = "4be3d3bf53c43ccdd089e535fcf5da9223de34fd"
 owners = [
     "iv230"
 ]
