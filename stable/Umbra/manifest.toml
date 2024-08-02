@@ -1,48 +1,23 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "51eb7e26c34e879a2d392ad3eb745c2215bc8a73"
+commit = "99cc2a77b0a4f3cf76cc7bf2104c09ad6e23b40b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.5
+# Umbra 2.2.6
 
-## Streamlined Widget Options
+## A gift to all the role-playing enthusiasts
 
-This update streamlines al lot of common configuration options that allows you to customize your widgets. Some widgets will get more options compared to what they previously had, including but not limited to icon size, display modes and fixed width.
+This update adds a new "Emote List" widget, providing quick and easy access to a customizable grid of emotes.
 
-Affected widgets:
+The widget supports up to four categories with customizable names, presented as "tabs." The tab strip is hidden if only one category is enabled (_default_). Each tab contains a grid of 8x8 assignable slots, offering a total of 32 buttons per tab, or a _whopping_ 128 slots in total. Right-clicking a slot opens a context menu, allowing you to access the "Emote Picker" or clear the selected slot.
 
-- Collection Item Button
-- Companion Widget
-- Custom Button
-- Custom Menu Button
-- Currencies
-- Flag
-- Gearset Switcher
-- Item Button
-- Location
-- Main Menu Button
-- Weather Forecast
+Enjoy!
 
-### Breaking Changes
+## Additional Improvements & Fixes
 
-Three internal configuration variable names got renamed with this change. This means that the following options may have been reset, depending on your widget settings:
-
-- The gearset switcher Top & Bottom text vertical offsets are reset to `-1` and `1` respectively.
-- The main menu button widget's icon desaturation setting has been reset to `false`, meaning it will show up in color.
-
-A lot of translations have been removed since these common settings now all share the same names and descriptions. As a result of this, widget settings of custom plugins that were using these translations before may show "Translation missing:...".
-
-### Ps.
-
-Although this update does not add anything new or fancy, the main reason for it is to remove a ton of what is effectively duplicate code and make the process of creating new widgets easier and require a lot less code. This alleviates some maintenance burden and quickens the review process, since there is generally less code that needs reviewing in the future.
-
--# This update removes approximately 2100 lines of code and translations from the codebase.
-
-### Additional improvements & fixes
-
-- The items listed in the durability widget are now sorted based on spiritbond value by default.
-- Fixed the French translation for Sightseeing Log vista world markers.
+- Fixed the missing translations of the "default widget settings" that came with the last update.
+- Fixed a crash that could occur when an invalid Icon ID was selected in one of the widget configuration windows.
 
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
