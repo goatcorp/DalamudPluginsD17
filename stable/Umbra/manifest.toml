@@ -1,23 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "99cc2a77b0a4f3cf76cc7bf2104c09ad6e23b40b"
+commit = "ab017ae95fd92bcfae3c3574ab01b1fd286a5eb6"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.6
+# Umbra 2.2.7
 
-## A gift to all the role-playing enthusiasts
+## Need more space?
 
-This update adds a new "Emote List" widget, providing quick and easy access to a customizable grid of emotes.
+This update introduces the "**Unified Main Menu**" widget, which consolidates all main menu buttons into a single uniform widget, which almost looks like the Windows Start Menu. It even has a little modifiable avatar picture shown in the header like the old Windows XP days. The button itself is fully customizable, similar to the custom button.
 
-The widget supports up to four categories with customizable names, presented as "tabs." The tab strip is hidden if only one category is enabled (_default_). Each tab contains a grid of 8x4 assignable slots, offering a total of 32 buttons per tab, or a _whopping_ 128 slots in total. Right-clicking a slot opens a context menu, allowing you to access the "Emote Picker" or clear the selected slot.
-
-Enjoy!
+You can "pin" your favorite entries to the main menu itself for quick & easy access. Right-click on any (non-disabled) entry to bring up the context menu which allows you to pin and unpin items. Pinned items can be sorted from their context menus as well.
 
 ## Additional Improvements & Fixes
 
-- Fixed the missing translations of the "default widget settings" that came with the last update.
-- Fixed a crash that could occur when an invalid Icon ID was selected in one of the widget configuration windows.
+- Fixed missing translations in the Experience Bar widget (by [Bloodsoul](https://github.com/Bloodsoul)).
 
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
