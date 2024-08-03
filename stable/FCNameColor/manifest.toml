@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "fa3817fe8cd64721cafc268a39791eb47ccb37f6"
+commit = "bda9fd3d0696e9f50407f1dc2e8ad658260a5843"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Dawntrail support!
-- Remove colour palette
-- Replace it with full RGB colour pickers
-  - This is a thing now, woah!! Make it hot pink!
-- Replace groups dropdown with list of groups since it's easier to pick colours now!
-- Implement Dalamud's window system for all windows
+- Fixed issue where players without titles would show as having an empty title if the "Only color FC tag" option is enabled
+- Updated error handling for the rest of FCNC to continue working if the character can't be found on Lodestone due to them being new or set to private
 """
