@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/Shezwick/GlamourSpamRemover"
-commit = "0a12172858ebe234e20658f9ea00d18d0a244088"
+repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
+commit = "a82dc77852d4b53c5eadb15e871996b30800ad08"
 owners = ["Shezwick"]
 project_path = "GlamourSpamRemover"
-changelog = "Initial submission"
-version = "1.0.0.0"
+changelog = "Fixed bad reference to repo"
+version = "1.0.0.1"
