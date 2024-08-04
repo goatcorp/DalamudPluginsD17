@@ -1,17 +1,18 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '7fd99029d0a4bd1c6f5689cf22be693f0bbf4295'
+commit = 'd6165186644024d4bf62e1531c769cc0e311c4ae'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-Glamaholic has been adopted!
+Bug Fixes
+- Opo-opo brown dye is now correctly imported for Eorzea Collection glamours.
 
-Updated for Dawntrail & API X.
+New Features
+- Began cross-plugin interoperability for other supported glamour plugins.
+  - Note: features related to other plugins will only appear if supported plugins are installed and enabled.
+- Eorzea Collection imports are now automatically tagged as such.
+- Added "Try On" for Eorzea Collection importing.
+- Added "Mass Import" for Eorzea Collection.
+- Added dye list + copy for Glamaholic plates.
 
-**New Features**
-- Added "Export as Text" feature, available in the button bar at the bottom of the glamour edit and preview pane.
-- Added "Fill with New Emperor" options to fill empty slots with New Emperor either in-plate or when applying or trying a plate on.
-- Added Troubleshooting Mode to help track down potential issues
-  - Activate through Settings -> "Troubleshooting mode", then check `/xllog` for messages starting with `[Troubleshooting]`
-
-If you encounter any issues, please enable troubleshooting mode (see above) and let us know in the Glamaholic thread of the Plugin Help Forum on Discord. Thanks!
+For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """
