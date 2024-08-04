@@ -1,18 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "e1feeeb1e390c5c779ac823c38d7ab99a8b48d18"
+commit = "250c92305ccd6fbc5d5e3246c48cc2151ce8f7ce"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- **NEW COUNTER WIDGET:** *Kazematoi Kunai*
-- **NEW STATE WIDGET:** *Kazematoi Swoosh*
-- **NEW BAR WIDGET:** *Kazematoi Bar*
-- **RESTORED WIDGET:** *Huton Pinwheel* is back from the dead!
-- Added "Hide Full" behaviour option for various Bar widgets
-
-## TWEAKS
-- **NEW TWEAK FOR NIN:** Recolor the Ninki Gauge while under the effect of Higi
-- A testing checkbox is now available for NIN and VPR tweaks (and for future tweaks that may benefit from it)
+Addressing an issue wherein the plugin could crash on the Dalamud Release branch
 """

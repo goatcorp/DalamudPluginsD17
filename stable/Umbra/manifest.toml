@@ -1,19 +1,21 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "e5f2579f8ce368dc984b4370fff17ad937dbade1"
+commit = "ab017ae95fd92bcfae3c3574ab01b1fd286a5eb6"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.1.9
+# Umbra 2.2.7
 
-This is a small update that addresses some issues with the previous release.
+## Need more space?
 
-## Fixes & Improvements
+This update introduces the "**Unified Main Menu**" widget, which consolidates all main menu buttons into a single uniform widget, which almost looks like the Windows Start Menu. It even has a little modifiable avatar picture shown in the header like the old Windows XP days. The button itself is fully customizable, similar to the custom button.
 
-- Fixed some widgets appearing to be non-interactable due to a neighboring widget overlapping them with an invisible box.
-- Fixed party member markers showing up in the game world when they shouldn't.
-- Fixed an issue where the text of some world markers did not render correctly in French.
-- Fixed the "auto-close popup" option for the gearset switcher.
+You can "pin" your favorite entries to the main menu itself for quick & easy access. Right-click on any (non-disabled) entry to bring up the context menu which allows you to pin and unpin items. Pinned items can be sorted from their context menus as well.
+
+## Additional Improvements & Fixes
+
+- Fixed missing translations in the Experience Bar widget (by [Bloodsoul](https://github.com/Bloodsoul)).
+
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """

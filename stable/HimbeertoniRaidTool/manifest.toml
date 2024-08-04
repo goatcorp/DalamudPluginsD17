@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "93e3f25e16ab852d88c0410ecd0b0691a3d6b5ce"
-changelog = "Bugfix: Fix being unable to change tabs in config"
+commit = "94809b80a04dd559c233d53aaf67a71bfa61535d"
+changelog = "Bugfix: Fix update from lodestone"

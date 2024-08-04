@@ -1,24 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "326227d9dc83f44f20c399d90ac29cdb5c9c6801"
+commit = "925a2e5b9edd4b392c98886495ba6079ac9e49f6"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.17"
+version = "1.7.0.19"
 changelog = """\
 ### Added
 
-- Added a amount owned tooltip sorting option(by retainer name or by inventory category name)
-- Added a outdated gear filter/column(will compare your current class/job levels to the gear in the specified inventories)
+- Added a new section to the item window that displays the possible recipes for an item and the ingredients for each
+- Updated patch data for 7.05
 
 ### Fixed
 
-- Table columns can be hidden/shown using the built-in imgui menu without breaking the layout
-- Fixed a bug that would cause right clicking on a list/craft table item to fail
-
-### Known Issues
-
-- Sometimes AT will fail to load, this is not a AT issue, it is a Dalamud issue that has been fixed but is currently only fixed on staging.
+- Attempting to open the craft log via AT will no longer be allowed while crafting
+- Fixed a bug that would cause the Gather/Purchase/Buy column to break how right clicking interacted with the tables
 
 """

@@ -2,7 +2,7 @@
 repository = "https://github.com/attickdoor/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "c04498d8770fdbbd493a716f744d2d9ae355aa14"
+commit = "cd36f98760ee354e29464dd415f08b4947472e1b"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -16,5 +16,5 @@ project_path = "XIVComboPlugin"
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
 		tentative 7.0 update\
-		re-added missing action ids (oops!)
+		fix broken viper combo
 		"""
