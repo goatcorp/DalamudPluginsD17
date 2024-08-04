@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "848a7a310c004dd6854b30212591d7482a6c0a1f"
+commit = "9efe831d2318cdc5fc6ff6922172b0cce1d4d71b"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.11.x \n - feature: Added ChatGPT translation engine (by chnrqpd)"
+changelog = "v3.12.x \n - fix: missing font assets that handle special characters"
