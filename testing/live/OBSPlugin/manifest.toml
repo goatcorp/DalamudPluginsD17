@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "e5aa6b788b540ec8f7f400c4cf5ab12915e9928d"
+commit = "b61018308c3672fb4b4b693fe22020ab57cb715f"
 owners = ["Bluefissure"]
 changelog = """- add replay buffer tab
 - add new commands (stream replay record scene audio)"""
