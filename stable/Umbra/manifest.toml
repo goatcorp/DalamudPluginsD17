@@ -1,26 +1,28 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "3b179af40cf29af3b74ae19cea3d66bb1cd78291"
+commit = "0045ec308891b08e32fe3109d1b78694d8a16de6"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.8
+# Umbra 2.2.9
 
-## New Additions
+## Societal Relations
 
-- Added an option to desaturate menu icons to the "Unified Main Menu" widget.
-- Added an option to manually set the banner position in the "Unified Main Menu" widget.
-- Added an option to configure the currency separator character for the "Retainers" widget.
-- Added options to show/hide columns in the "Retainers" widget.
-- Added options to configure what exactly to display in the sub-label of the Gearset Switcher. These options are named **Info Type** and can be configured individually for jobs you are still leveling and jobs at the level cap. Note that these options _replaced_ the previous "Show Item Level" option. If you had it disabled before, you'll need to set the option to "None".
-- Added an option to display synced job level in the Gearset Switcher info label (only if the above isn't set to "None" or "Item Level").
+This update introduces a _preliminary version_ of the "Societal Relations" (previously known as Beast Tribes) widget. This widget displays an overview of your current standing with unlocked beast tribes, as well as how many of the associated currency you have with them.
+
+I would like to reiterate that this is a _preliminary release_, which means that more features will be added in the near future, including but not limited to: option to teleport to a nearby Aetheryte and custom colors to better indicate your rank.
+
+You can click on a society to "pin" it to the toolbar, similar to how the Currencies widget works.
+
+## New additions
+
+- Added a right-click action to the "Emote List" widget to open the vanilla Emote List window.
+- Added tooltips to server info bar entries.
 
 ## Fixes & Improvements
 
-- The "Durability & Spiritbond" widget will now disable the repair button if you don't own any Dark Matter, otherwise it will show how many you have on the button and which grade. The button only shows the highest grade of Dark Matter that you own.
-- Updated the drawing library to use a shared framebuffer in case multiple plugins use it to preserve a bit of RAM.
-- Increased the configurable lower bounds of the toolbar margins to allow the toolbar to go offscreen further than -1px.
-
+- Fixed the Sightseeing Log Vista markers for the current release version of Dalamud (with forward compatibility to the next release)
+- Fixed the Item Level sync option in the gearset switcher not working honoring the toggle option for it.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
