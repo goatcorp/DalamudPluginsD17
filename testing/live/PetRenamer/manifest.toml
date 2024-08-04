@@ -1,30 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "955af818e6cc352bb36e8f7c33aa1d223c54f0d0"
+commit = "293748c5b71860eaa3492cc8f7ea94af08cd5ef8"
 owners = ["Glyceri",]
 	changelog = """
-    [2.0.0.5]
-    A complete rewrite of Pet Nicknames.
-    (Plus a couple sub versions due to ........ c: reasons c: )
-
-    Of Note:
-    - All your old names will transfer over!
-    - If you have shared your names with someone in the 1.x.x.x version, their names will transfer over. (This will only happen upon meeting them in game once).
-    - It's highly accurate and will only rename just the parts you want, this should work accross all client languages unlike before where that casued issues.
-    - It's infinitely faster. If you have a big list of shared people you WILL notice an improvement.
-    - UI is also completely redone using una.drawing and is now faster and looks (in my opinion) better ... please test it thoroughly as this is a MASSIVE point of contention!
-    - Pet Nicknames stays available for any other plogon that uses its data (Except Wotsit for now).
-    
-    Notable bugs that have been fixed by this update:
-    - Anything to do with /petmirage, that system was broken to the core if left unsupervised.
-    - Names displaying in places you don't want them to.
-    - Names in emotes not displaying properly for German Clients.
-    - Imports could stack.
-
-    Notable Removals (Due to their abysmally low usage rate):
-    - Reordering of pets in the list (This might return at some point).
-    - Export selection. (You either export everything or nothing at all as this goes against the spirit of sharing).
-    - Flyout text (This will return).
-    - Wotsit search (This might return, NO ONE used it).
-    - Minion and Battle Pet specific settings. (Sorry to those that liked it, but it made doing anything with the plogon just... harder).
+    [2.0.0.6]
+    Flyout text now works. (Idk why I didn't make it work to begin with...)
+    Una is the cooker so updated the drawing library.
 """
