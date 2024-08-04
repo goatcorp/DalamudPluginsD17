@@ -1,20 +1,15 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "925a2e5b9edd4b392c98886495ba6079ac9e49f6"
+commit = "8b52fd6eec34bfae78388caea84b2170da838bee"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.19"
+version = "1.7.0.20"
 changelog = """\
-### Added
-
-- Added a new section to the item window that displays the possible recipes for an item and the ingredients for each
-- Updated patch data for 7.05
-
 ### Fixed
 
-- Attempting to open the craft log via AT will no longer be allowed while crafting
-- Fixed a bug that would cause the Gather/Purchase/Buy column to break how right clicking interacted with the tables
+- Expand the inventory scanner to cover missing currency types
+- Fix alignment issue with lists
 
 """
