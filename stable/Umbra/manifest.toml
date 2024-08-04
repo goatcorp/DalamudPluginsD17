@@ -1,20 +1,25 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "ab017ae95fd92bcfae3c3574ab01b1fd286a5eb6"
+commit = "3b179af40cf29af3b74ae19cea3d66bb1cd78291"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.7
+# Umbra 2.2.8
 
-## Need more space?
+## New Additions
 
-This update introduces the "**Unified Main Menu**" widget, which consolidates all main menu buttons into a single uniform widget, which almost looks like the Windows Start Menu. It even has a little modifiable avatar picture shown in the header like the old Windows XP days. The button itself is fully customizable, similar to the custom button.
+- Added an option to desaturate menu icons to the "Unified Main Menu" widget.
+- Added an option to manually set the banner position in the "Unified Main Menu" widget.
+- Added an option to configure the currency separator character for the "Retainers" widget.
+- Added options to show/hide columns in the "Retainers" widget.
+- Added options to configure what exactly to display in the sub-label of the Gearset Switcher. These options are named **Info Type** and can be configured individually for jobs you are still leveling and jobs at the level cap. Note that these options _replaced_ the previous "Show Item Level" option. If you had it disabled before, you'll need to set the option to "None".
+- Added an option to display synced job level in the Gearset Switcher info label (only if the above isn't set to "None" or "Item Level").
 
-You can "pin" your favorite entries to the main menu itself for quick & easy access. Right-click on any (non-disabled) entry to bring up the context menu which allows you to pin and unpin items. Pinned items can be sorted from their context menus as well.
+## Fixes & Improvements
 
-## Additional Improvements & Fixes
-
-- Fixed missing translations in the Experience Bar widget (by [Bloodsoul](https://github.com/Bloodsoul)).
+- The "Durability & Spiritbond" widget will now disable the repair button if you don't own any Dark Matter, otherwise it will show how many you have on the button and which grade. The button only shows the highest grade of Dark Matter that you own.
+- Updated the drawing library to use a shared framebuffer in case multiple plugins use it to preserve a bit of RAM.
+- Increased the configurable lower bounds of the toolbar margins to allow the toolbar to go offscreen further than -1px.
 
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
