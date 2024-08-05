@@ -1,28 +1,24 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "530f3e7f26b36b146c1343b361bca639cc1de097"
+commit = "f188be513ea94df705a35dc34eea512c072f87da"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.9
+# Umbra 2.2.10
 
-## Societal Relations
+## New Additions
 
-This update introduces a _preliminary version_ of the "Societal Relations" (previously known as Beast Tribes) widget. This widget displays an overview of your current standing with unlocked beast tribes, as well as how many of the associated currency you have with them.
-
-I would like to reiterate that this is a _preliminary release_, which means that more features will be added in the near future, including but not limited to: option to teleport to a nearby Aetheryte and custom colors to better indicate your rank.
-
-You can click on a society to "pin" it to the toolbar, similar to how the Currencies widget works.
-
-## New additions
-
-- Added a right-click action to the "Emote List" widget to open the vanilla Emote List window.
-- Added tooltips to server info bar entries.
+- Added a context menu with a "Teleport to nearby Aetheryte" action to the Societal Relations widget.
+- Added a separate font configuration option for World Markers. This one defaults to Dalamud's default font. You can customize world marker fonts in the Appearance tab.
+- Added an option to the "Unified Main Menu" widget that allows you to change the banner color from "Window Accent", "Job role color" or "None".
+- Added an option to the "Unified Main Menu" widget in which you can specify the way your character's name is drawn (full name, first name, last name or initials)
 
 ## Fixes & Improvements
 
-- Fixed the Sightseeing Log Vista markers for the current release version of Dalamud (with forward compatibility to the next release)
-- Fixed the Item Level sync option in the gearset switcher not working honoring the toggle option for it.
+- Increased the maximum amount of entries in the Custom Menu widget to 24 (from 16)
+- Fixed Multi-Monitor support for World Markers and the toolbar.
+- Fixed broken toolbar and marker positions when the game is running in windowed mode.
+- Updated the Sightseeing Log Vista markers for the new Dalamud version (_Please restart your game if you haven't already done so!_)
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
