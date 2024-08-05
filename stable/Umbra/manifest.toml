@@ -1,24 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "f188be513ea94df705a35dc34eea512c072f87da"
+commit = "38f6ad002ea76364c9cd7681cb446eb308fd0a8c"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.10
+# Umbra 2.2.11
 
 ## New Additions
 
-- Added a context menu with a "Teleport to nearby Aetheryte" action to the Societal Relations widget.
-- Added a separate font configuration option for World Markers. This one defaults to Dalamud's default font. You can customize world marker fonts in the Appearance tab.
-- Added an option to the "Unified Main Menu" widget that allows you to change the banner color from "Window Accent", "Job role color" or "None".
-- Added an option to the "Unified Main Menu" widget in which you can specify the way your character's name is drawn (full name, first name, last name or initials)
+- Add an option to the Flag widget that allows you to send a chat message on _middle-mouse click_ with the flags coordinates.
+  - A configurable chat prefix is _required_, for example: `/p My flag is at`. See the Flag widget settings window for more information.
+  - You cannot send more than 1 message every 3 seconds.
+  - This feature is mainly intended for hunt/fate train conductors
 
 ## Fixes & Improvements
 
-- Increased the maximum amount of entries in the Custom Menu widget to 24 (from 16)
-- Fixed Multi-Monitor support for World Markers and the toolbar.
-- Fixed broken toolbar and marker positions when the game is running in windowed mode.
-- Updated the Sightseeing Log Vista markers for the new Dalamud version (_Please restart your game if you haven't already done so!_)
+- Disabled the toolbar sliding animation when Dalamud's "Multi-monitor support" is enabled, since this seems to cause significant drops in FPS for some users due to the toolbar being physically pushed off-screen.
+- Did some preliminary work for a future custom deliveries widget.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
