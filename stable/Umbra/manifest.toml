@@ -1,27 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "53740b2940292fe08e713caff7ea9b9f690f5b7d"
+commit = "497ae4b58612654102f7dd42d9361ab712a40145"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.13
+# Umbra 2.2.14
 
-## New Additions
+## Fixes
 
-- Added weekly allowance indicator to the "Societal Relations" widget.
-- Added option to customize the color of icons in many widgets.
-- Added option to show/hide the tooltip of the "Plugin List" widget.
-- Added customizable primary actions to the "Societal Relations" and "Custom Deliveries" widget, which allows you to configure what left-clicking an entry in the popup menu should do.
-  - The context menus have been expanded to also include a "Track" and "Untrack" option.
-  - The default action has been set to "Teleport to a nearby Aetheryte" for both of these widgets.
-- Added a right-click action to the "Societal Relations" and "Custom Deliveries" widget to teleport to a nearby Aetheryte if a society or delivery NPC is being tracked.
-
-## Fixes & Improvements
-
-- The "Plugin List" widget no longer auto-includes newly installed plugins to the list. I've received quite a lot of feedback that the initial list is usually too long due to having too many plugins installed. To remedy this, only Umbra is now visible by default to have at least one entry in the menu. Head over to the settings of the Plugin List widget to manually select which plugins should be visible in the menu. No action is required if you've already customized the list.
-- Small performance optimization in the underlying system that keeps travel destinations and main menu commands in-sync. These items are now loaded on demand instead of always being kept in-sync in the background. This should reduce some micro-stuttering on lower-end systems.
-- Allow custom plugins to reference other assemblies (by [alexfrydl](https://github.com/alexfrydl))
-- Added a developer-tool to help finding hitches/micro-stutters in Umbra's underlying systems.
+- Fixed the missing picture of Margrat in the Custom Deliveries widget.
+- Fixed the "Allowance" translations and simplified the display in both "Societal Relations" and "Custom Deliveries" widgets.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
