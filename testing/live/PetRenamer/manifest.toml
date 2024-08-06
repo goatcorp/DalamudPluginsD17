@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "293748c5b71860eaa3492cc8f7ea94af08cd5ef8"
+commit = "c9f6964395cb010e99885c9f85794ba20a66713d"
 owners = ["Glyceri",]
 	changelog = """
-    [2.0.0.6]
-    Flyout text now works. (Idk why I didn't make it work to begin with...)
-    Una is the cooker so updated the drawing library.
+    [2.1.0.0]
+    „Who... WHo CoUlDVe GuESSeD ThiS WoULd HaPpEn“
+    Rewrote all UI back to ImGui. Una.Drawing is cool, but ultimately not fitting for Pet Nicknames.
+    Im confident the UI works, it just may be missing features.
 """
