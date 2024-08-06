@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "50cd7c209ed626561b2e41d6b6444dbd4600d4fe"
+commit = "2c2ff1be0ebd24ff01fe69feaaebdad6689a331d"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -11,11 +11,14 @@ changelog = """
 - Added a "Custom Deliveries" widget to quickly give you an overview of your weekly deliveries with your trusted clients. The NPCs in the widget popup have context menus that allow you to open their details window, as well as teleport to a nearby Aetheryte.
 - Added "Safe Zone" configuration options to the World Marker's Compass settings. A safe zone is an imaginary box on your screen that you can shrink down from the edges of the screen based on the given width & height values. Whenever a world marker is outside of this boundary, the direction indicator will show for that marker. This effectively means that world markers don't necessarily have to be off-screen before a direction indicator shows up. This is particularly useful for ultra-wide users when world markers are at the sides of the screen where you normally aren't paying much attention to.
 - Added a separate option to the "Currencies" widget to show/hide the tracked currency cap on the toolbar widget itself.
+- Added weekly allowance counter to the "Societal Relations" widget.
 
 ## Fixes & Improvements
 
 - Do a case insensitive comparison in the gearset switcher popup for gearset names and job names to determine whether the job label should be hidden.
 - Fixed an issue that sometimes caused widgets not shrinking in width when their text labels are updated.
+- Did a small performance improvement where travel destinations are now only loaded when a widget actually needs the data.
+
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
