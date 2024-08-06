@@ -1,22 +1,24 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "38f6ad002ea76364c9cd7681cb446eb308fd0a8c"
+commit = "2c2ff1be0ebd24ff01fe69feaaebdad6689a331d"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.11
+# Umbra 2.2.12
 
 ## New Additions
 
-- Add an option to the Flag widget that allows you to send a chat message on _middle-mouse click_ with the flags coordinates.
-  - A configurable chat prefix is _required_, for example: `/p My flag is at`. See the Flag widget settings window for more information.
-  - You cannot send more than 1 message every 3 seconds.
-  - This feature is mainly intended for hunt/fate train conductors
+- Added a "Custom Deliveries" widget to quickly give you an overview of your weekly deliveries with your trusted clients. The NPCs in the widget popup have context menus that allow you to open their details window, as well as teleport to a nearby Aetheryte.
+- Added "Safe Zone" configuration options to the World Marker's Compass settings. A safe zone is an imaginary box on your screen that you can shrink down from the edges of the screen based on the given width & height values. Whenever a world marker is outside of this boundary, the direction indicator will show for that marker. This effectively means that world markers don't necessarily have to be off-screen before a direction indicator shows up. This is particularly useful for ultra-wide users when world markers are at the sides of the screen where you normally aren't paying much attention to.
+- Added a separate option to the "Currencies" widget to show/hide the tracked currency cap on the toolbar widget itself.
+- Added weekly allowance counter to the "Societal Relations" widget.
 
 ## Fixes & Improvements
 
-- Disabled the toolbar sliding animation when Dalamud's "Multi-monitor support" is enabled, since this seems to cause significant drops in FPS for some users due to the toolbar being physically pushed off-screen.
-- Did some preliminary work for a future custom deliveries widget.
+- Do a case insensitive comparison in the gearset switcher popup for gearset names and job names to determine whether the job label should be hidden.
+- Fixed an issue that sometimes caused widgets not shrinking in width when their text labels are updated.
+- Did a small performance improvement where travel destinations are now only loaded when a widget actually needs the data.
+
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
