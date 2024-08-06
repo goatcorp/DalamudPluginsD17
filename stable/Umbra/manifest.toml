@@ -1,24 +1,27 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "2c2ff1be0ebd24ff01fe69feaaebdad6689a331d"
+commit = "53740b2940292fe08e713caff7ea9b9f690f5b7d"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.12
+# Umbra 2.2.13
 
 ## New Additions
 
-- Added a "Custom Deliveries" widget to quickly give you an overview of your weekly deliveries with your trusted clients. The NPCs in the widget popup have context menus that allow you to open their details window, as well as teleport to a nearby Aetheryte.
-- Added "Safe Zone" configuration options to the World Marker's Compass settings. A safe zone is an imaginary box on your screen that you can shrink down from the edges of the screen based on the given width & height values. Whenever a world marker is outside of this boundary, the direction indicator will show for that marker. This effectively means that world markers don't necessarily have to be off-screen before a direction indicator shows up. This is particularly useful for ultra-wide users when world markers are at the sides of the screen where you normally aren't paying much attention to.
-- Added a separate option to the "Currencies" widget to show/hide the tracked currency cap on the toolbar widget itself.
-- Added weekly allowance counter to the "Societal Relations" widget.
+- Added weekly allowance indicator to the "Societal Relations" widget.
+- Added option to customize the color of icons in many widgets.
+- Added option to show/hide the tooltip of the "Plugin List" widget.
+- Added customizable primary actions to the "Societal Relations" and "Custom Deliveries" widget, which allows you to configure what left-clicking an entry in the popup menu should do.
+  - The context menus have been expanded to also include a "Track" and "Untrack" option.
+  - The default action has been set to "Teleport to a nearby Aetheryte" for both of these widgets.
+- Added a right-click action to the "Societal Relations" and "Custom Deliveries" widget to teleport to a nearby Aetheryte if a society or delivery NPC is being tracked.
 
 ## Fixes & Improvements
 
-- Do a case insensitive comparison in the gearset switcher popup for gearset names and job names to determine whether the job label should be hidden.
-- Fixed an issue that sometimes caused widgets not shrinking in width when their text labels are updated.
-- Did a small performance improvement where travel destinations are now only loaded when a widget actually needs the data.
-
+- The "Plugin List" widget no longer auto-includes newly installed plugins to the list. I've received quite a lot of feedback that the initial list is usually too long due to having too many plugins installed. To remedy this, only Umbra is now visible by default to have at least one entry in the menu. Head over to the settings of the Plugin List widget to manually select which plugins should be visible in the menu. No action is required if you've already customized the list.
+- Small performance optimization in the underlying system that keeps travel destinations and main menu commands in-sync. These items are now loaded on demand instead of always being kept in-sync in the background. This should reduce some micro-stuttering on lower-end systems.
+- Allow custom plugins to reference other assemblies (by [alexfrydl](https://github.com/alexfrydl))
+- Added a developer-tool to help finding hitches/micro-stutters in Umbra's underlying systems.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
