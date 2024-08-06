@@ -1,26 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "3b179af40cf29af3b74ae19cea3d66bb1cd78291"
+commit = "38f6ad002ea76364c9cd7681cb446eb308fd0a8c"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.8
+# Umbra 2.2.11
 
 ## New Additions
 
-- Added an option to desaturate menu icons to the "Unified Main Menu" widget.
-- Added an option to manually set the banner position in the "Unified Main Menu" widget.
-- Added an option to configure the currency separator character for the "Retainers" widget.
-- Added options to show/hide columns in the "Retainers" widget.
-- Added options to configure what exactly to display in the sub-label of the Gearset Switcher. These options are named **Info Type** and can be configured individually for jobs you are still leveling and jobs at the level cap. Note that these options _replaced_ the previous "Show Item Level" option. If you had it disabled before, you'll need to set the option to "None".
-- Added an option to display synced job level in the Gearset Switcher info label (only if the above isn't set to "None" or "Item Level").
+- Add an option to the Flag widget that allows you to send a chat message on _middle-mouse click_ with the flags coordinates.
+  - A configurable chat prefix is _required_, for example: `/p My flag is at`. See the Flag widget settings window for more information.
+  - You cannot send more than 1 message every 3 seconds.
+  - This feature is mainly intended for hunt/fate train conductors
 
 ## Fixes & Improvements
 
-- The "Durability & Spiritbond" widget will now disable the repair button if you don't own any Dark Matter, otherwise it will show how many you have on the button and which grade. The button only shows the highest grade of Dark Matter that you own.
-- Updated the drawing library to use a shared framebuffer in case multiple plugins use it to preserve a bit of RAM.
-- Increased the configurable lower bounds of the toolbar margins to allow the toolbar to go offscreen further than -1px.
-
+- Disabled the toolbar sliding animation when Dalamud's "Multi-monitor support" is enabled, since this seems to cause significant drops in FPS for some users due to the toolbar being physically pushed off-screen.
+- Did some preliminary work for a future custom deliveries widget.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
