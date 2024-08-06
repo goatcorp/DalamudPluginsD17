@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "9efe831d2318cdc5fc6ff6922172b0cce1d4d71b"
+commit = "ef7c92869f9a5d8e9b45240b218362d28a5e3378"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.12.x \n - fix: missing font assets that handle special characters"
+changelog = "v3.13.x \n - fix: issue when loading the plugin related to a config variable"
