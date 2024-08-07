@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "6f226bd557d439cf410abd237e21b3456a4bed77"
+commit = "163f8d48f1b1473e03b3f18fe9f0e11f631cae82"
 owners = ["Kirrana"]
 project_path = "SamplePlugin"
-changelog = "Update for API 9"
+changelog = "Update for DT & Net8"

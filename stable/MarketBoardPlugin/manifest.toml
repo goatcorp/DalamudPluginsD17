@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "20b56cd66c2aa814179c21a967d17361220980ee"
+commit = "4864123224a95ca0a687a13757d3cfad84db056c"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Revert to a boxed letter icon in context menus"
+changelog = """\
+- Limit the listing count and make it and the history count configurable\
+"""

@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "68c7d535aeb85606df8f54885adddf2c7ebd67e1"
+commit = "ef7c92869f9a5d8e9b45240b218362d28a5e3378"
 owners = [
     "lokinmodar",
 ]
-changelog = "Added Deepl Translation Engine (thanks again to @samulopez)"
+changelog = "v3.13.x \n - fix: issue when loading the plugin related to a config variable"

@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "497ae4b58612654102f7dd42d9361ab712a40145"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+# Umbra 2.2.14
+
+## Fixes
+
+- Fixed the missing picture of Margrat in the Custom Deliveries widget.
+- Fixed the "Allowance" translations and simplified the display in both "Societal Relations" and "Custom Deliveries" widgets.
+
+Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
+"""

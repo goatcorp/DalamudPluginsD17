@@ -1,6 +1,5 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "ec047298395874465b37785e4e2a494e8bf63fde"
+commit = "0798e15d9dd58e5685c385ff6d815b8c8a794a9c"
 owners = ["Bluefissure"]
-changelog = """- Support built-in obs-websocket-plugin v5.3.0 in OBS30
-- Change the default blurring algorithm to dual linear"""
+changelog = """- fix slash commands hangs the game when obs is disconnected"""

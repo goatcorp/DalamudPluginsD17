@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "0347f6d05f45df902ca9d574615de3490233edde"
+commit = "07ba4060253c96725e4005844c777d6e60f73957"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-API 9 support. (Thank you NPittinger)
-
-New features:
-- Turn off rich presence when AFK (thank you sersorrel)
+IPC updated for WaitingWay. Now respects scaling.
 """

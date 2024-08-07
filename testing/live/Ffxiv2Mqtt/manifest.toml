@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
+commit = "87e78600b63d76203985765e8b86fdf4f27bdaf5"
+owners = [
+    "Xpahtalo",
+]
+project_path = "ffxiv2Mqtt"
+changelog = """Updated for Dawntrail!"""

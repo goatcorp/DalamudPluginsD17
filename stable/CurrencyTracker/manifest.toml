@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "f34bf693dbcbcc6fe6921e4a17c59a0da74016bc"
+commit = "e9f0a92b1e37ddd229a0afbc108406833a78db74"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-- APIX Update.
-- Fixed the issue of currency name data files containing special characters being repeatedly created in Japanese client.
+nofranz
 """
