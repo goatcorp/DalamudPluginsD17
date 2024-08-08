@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/KhloeLeclair/WTSync.git"
+commit = "3c1a6912886c2a739a1fe298042faac670730fef"
+owners = [ 
+	"KhloeLeclair"
+]
+project_path = ""
+changelog = """
+This is the initial testing release of WTSync, a plugin to make it easy to do Wondrous Tails with a party.
+"""
