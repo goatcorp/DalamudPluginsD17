@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "8a60d0363d1ea53bc6958b32d2eec4e704297a67"
+commit = "6876c964d9e6263976cd606cfba5a71f362496eb"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Tracker window rework: You can now drag and drop maps to re-assign them.
-* Fix loot not registering on map chests.
-* Adjusted timing setpoints to improve reliability.
+* Adds a context menu option to announce a player's map link in party chat.
+* Adds a context menu option to restore a player's previous map link.
 """
