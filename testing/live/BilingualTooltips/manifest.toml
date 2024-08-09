@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Elypha/BilingualTooltips.git"
+commit = "1575be2176b457087ca6626fcb85ac126db5301a"
+owners = ["Elypha"]
+project_path = "BilingualTooltips"
+changelog = """
+v0.1.0.0
+Initial release.
+"""
