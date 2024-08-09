@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Zeffuro/ZDs.git"
+commit = "9673ca248912abd8e0677d5e3ed3a409eb6a0c0a"
+owners = ["Zeffuro"]
+project_path = "ZDs"
+changelog = "- Initial version of ZDs."
