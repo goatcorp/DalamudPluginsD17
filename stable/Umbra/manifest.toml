@@ -1,22 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "38f6ad002ea76364c9cd7681cb446eb308fd0a8c"
+commit = "67116eb89fdc8ada3d43a1f8d01afd02733a16b7"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.11
+# Umbra 2.2.16
 
 ## New Additions
 
-- Add an option to the Flag widget that allows you to send a chat message on _middle-mouse click_ with the flags coordinates.
-  - A configurable chat prefix is _required_, for example: `/p My flag is at`. See the Flag widget settings window for more information.
-  - You cannot send more than 1 message every 3 seconds.
-  - This feature is mainly intended for hunt/fate train conductors
+- Added a "Key Item Picker" to the "Shortcut Panel" widget. This means that you can now pin your Wondrous Tails book to your shortcut panel, amongst other things.
 
 ## Fixes & Improvements
 
-- Disabled the toolbar sliding animation when Dalamud's "Multi-monitor support" is enabled, since this seems to cause significant drops in FPS for some users due to the toolbar being physically pushed off-screen.
-- Did some preliminary work for a future custom deliveries widget.
+- Added _partial_ support for custom icons set via `/micon` and `/macroicon` in stored macros. Gearset icons and ID's (from SimpleTweaks' Extended Macro Icon tweak) are now picked up by the shortcut panel widget.
+- Implemented shared clip-region support for DelvUI. This should make sure that DelvUI no longer intercepts mouse clicks when an Umbra widget or window is on top of a DelvUI element.
+- Fixed correct macros not being selected correctly from the Macro picker in the shortcut panel widget.
+- Fixed the Societal Relations widget from growing horizontally while UI scale is < 100.
+- Fixed the bottom padding (or lack thereof) of the shortcut panel widget.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """

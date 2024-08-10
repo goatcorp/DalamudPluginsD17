@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "293748c5b71860eaa3492cc8f7ea94af08cd5ef8"
+commit = "85b9ee58d82f812a508f8a72ff7dc5870519dc93"
 owners = ["Glyceri",]
 	changelog = """
-    [2.0.0.6]
-    Flyout text now works. (Idk why I didn't make it work to begin with...)
-    Una is the cooker so updated the drawing library.
+    [2.1.0.1]
+    Added tooltips on certain elements.
 """
