@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "ef7c92869f9a5d8e9b45240b218362d28a5e3378"
+commit = "625476352d4de06c504f7188835188f58d8bbbcf"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.13.x \n - fix: issue when loading the plugin related to a config variable"
+changelog = "v3.14.x \n - feat: added special characters parsing for Latin Extended using languages that converts characters unsupported by the game's native font into supported chars. \n Check the plugin's settings window for more information."
