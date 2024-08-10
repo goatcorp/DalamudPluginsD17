@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "5186b041f0584f318e3f4a07e76644e17e6ae02a"
+commit = "6876c964d9e6263976cd606cfba5a71f362496eb"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Adds duty tracking to Cenote Ja Ja Gural.
-* Fix duplicate loot result bug.
-* Add total gil value dropped to loot tab.
+* Adds a context menu option to announce a player's map link in party chat.
+* Adds a context menu option to restore a player's previous map link.
 """

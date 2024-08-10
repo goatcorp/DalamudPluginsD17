@@ -1,15 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "497ae4b58612654102f7dd42d9361ab712a40145"
+commit = "67116eb89fdc8ada3d43a1f8d01afd02733a16b7"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.14
+# Umbra 2.2.16
 
-## Fixes
+## New Additions
 
-- Fixed the missing picture of Margrat in the Custom Deliveries widget.
-- Fixed the "Allowance" translations and simplified the display in both "Societal Relations" and "Custom Deliveries" widgets.
+- Added a "Key Item Picker" to the "Shortcut Panel" widget. This means that you can now pin your Wondrous Tails book to your shortcut panel, amongst other things.
+
+## Fixes & Improvements
+
+- Added _partial_ support for custom icons set via `/micon` and `/macroicon` in stored macros. Gearset icons and ID's (from SimpleTweaks' Extended Macro Icon tweak) are now picked up by the shortcut panel widget.
+- Implemented shared clip-region support for DelvUI. This should make sure that DelvUI no longer intercepts mouse clicks when an Umbra widget or window is on top of a DelvUI element.
+- Fixed correct macros not being selected correctly from the Macro picker in the shortcut panel widget.
+- Fixed the Societal Relations widget from growing horizontally while UI scale is < 100.
+- Fixed the bottom padding (or lack thereof) of the shortcut panel widget.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """

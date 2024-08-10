@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "e9ed6bb27ce6a4cf15024b2052179767a72578b5"
-version = "1.3.0.16"
+commit = "07d206db09a280712a8e662f73316877e0b3ca21"
+version = "1.4.0.17"
 owners = ["CMDRNuffin"]
-changelog = """Update for Dawntrail"""
+changelog = """Added option to use only SDS Fenrir/Garlond GL-IS in areas where no mount speed upgrades are unlocked."""
