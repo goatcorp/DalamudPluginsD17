@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "f8109fde65e883db7b6465beccc599497cd5ef87"
-changelog = "- Fixes incorrect check for names in VoidList and Whitelist"
+commit = "89463920b330863b02127df892109695e584aa94"
+changelog = "- Added a feature to show target of target when hidden by other settings"

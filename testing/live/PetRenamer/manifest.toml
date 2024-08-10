@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "c9f6964395cb010e99885c9f85794ba20a66713d"
+commit = "85b9ee58d82f812a508f8a72ff7dc5870519dc93"
 owners = ["Glyceri",]
 	changelog = """
-    [2.1.0.0]
-    „Who... WHo CoUlDVe GuESSeD ThiS WoULd HaPpEn“
-    Rewrote all UI back to ImGui. Una.Drawing is cool, but ultimately not fitting for Pet Nicknames.
-    Im confident the UI works, it just may be missing features.
+    [2.1.0.1]
+    Added tooltips on certain elements.
 """
