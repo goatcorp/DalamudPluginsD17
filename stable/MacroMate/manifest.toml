@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "ee7016d515e86005a17cdc4e135b5bd1a2daae41"
+commit = "fbb14785e8c333dc7ebac32495fe132a6e5821a6"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.17.1"
+version = "1.0.17.2"
 changelog = """
-- Fix IPC incorrectly overriding existing icons and links
-- Fix 'Update in Macro Mate' not updating macro text
+- Maybe fix Macro Chain crash
 """
