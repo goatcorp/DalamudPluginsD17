@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "beebe4ba91f32ef791e3135824add3441151e653"
+commit = "756a5f154ff0e4db5eb7f7850e05fd19b5ae79ae"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(patch) support new bear tracker site"
+changelog = "(patch) fix intermittent crash"
