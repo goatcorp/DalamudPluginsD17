@@ -2,14 +2,13 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "54a367365e6f73755e4402fc338f69a6b5672fb5"
+commit = "edecc1fd31c679a8c7eeaef3e8e4010a0bc6f62f"
 changelog = """
-# NeatNoter 2.6.1
+# NeatNoter 2.6.2 (Test)
 
-## Features
+## Bug fixes
 
-- Created a word count when editing notes, which also display a small warning about performance drop on long notes.
-- Created the option to set a note as an overlay, which has very little UI elements and should be more performatic for duties.
+- Fixed note's title not being editable.
 
-If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/2
+If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
 """
