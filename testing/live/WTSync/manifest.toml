@@ -1,10 +1,17 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "f1ae46aec525ea397e4491ec46e98beade3283de"
+commit = "5a92a241242af948a2f413c2dad3fb493f28b2d7"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-- Added a setting for adjusting the display size of duty images within the WTSync window. Thanks for the feedback!
+- Added configuration for various colors used in the WTSync UI.
+- Added option to colorize the server bar entry when in a matching duty.
+- Added notice that you can disable the server bar entry from Dalamud's settings, along with a helpful link.
+- Changed: Use the server bar entry to warn the player if the current duty is in their Wondrous Tails but has already been claimed.
+- Changed: Use sections for the settings window to organize things a bit better.
+- Fixed: Incorrect level range being displayed for Crystaline Conflict.
+- Fixed: The party state displaying incorrectly if you first load the plugin within a duty.
+- Fixed: Do not try to load images for Wondrous Tails entries if the image scale is set to 0.
 """
