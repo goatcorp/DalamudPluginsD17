@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "0e36eda54e834e75805439d062397e8006db77c7"
+commit = "99b0ef48c15ecf995801a029a2aebef2a2fe0110"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -14,6 +14,7 @@ changelog = """
 - Added an option to allow sub-menus in the "Unified Menu Widget" to be opened on mouse over rather than clicking.
 - Added an option to the "Gearset Switcher" widget that allows you to "hide" gearsets based on a name prefix.
 - Added an option to show/hide empty slots in the "Emote List" widget.
+- Added two options to the "Unified Main Menu" widget that allows you to customize the widths of the main menu and sub-menus individually.
 
 ### Behavioral Additions
 
