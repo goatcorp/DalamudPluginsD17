@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rreminy/FFXIV.WinTitle.git"
-commit = "fc9d7e0d5440d75f190eae3a5edcb00ab4625f3e"
+commit = "0f99f89154dde76da28fff7c3e6a8640d16be405"
 owners = ["rreminy", "herulume"]
 project_path = "."
-changelog = "Add new maintainer."
+changelog = "Add an option to set the logged character as the window title."
