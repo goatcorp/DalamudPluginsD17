@@ -33,5 +33,6 @@ You can find this option in "General Settings" -> "Toolbar Settings".
 - Fixed the auto-hide trigger region when the toolbar height was set to a larger value than 48.
 - Fixed / streamlined translations in the Accessibility & Battle Effects widget (By [Bloodsoul](https://github.com/Bloodsoul)).
 
+
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
