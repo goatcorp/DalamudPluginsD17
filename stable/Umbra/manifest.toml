@@ -1,22 +1,39 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "67116eb89fdc8ada3d43a1f8d01afd02733a16b7"
+commit = "0bb6a4f42fb8a353acf7b1b1c91d02454a7394a2"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.16
+# Umbra 2.2.17
 
 ## New Additions
 
-- Added a "Key Item Picker" to the "Shortcut Panel" widget. This means that you can now pin your Wondrous Tails book to your shortcut panel, amongst other things.
+- Added a "Collections Item Picker" to the "Shortcut Panel".
+- Added two colors for "Experience Bar" and "Experience Bar (Rested)" to facilitate customizable colors for the updated experience bar widget. This color applies to the experience bar shown in the gearset switcher as well.
+- Added an option to show the experience percentage in the gearset switcher. This allows you to toggle both the bar and percentage label individually.
+- Added an option to allow sub-menus in the "Unified Menu Widget" to be opened on mouse over rather than clicking.
+- Added an option to the "Gearset Switcher" widget that allows you to "hide" gearsets based on a name prefix.
+- Added an option to show/hide empty slots in the "Emote List" widget.
+- Added two options to the "Unified Main Menu" widget that allows you to customize the widths of the main menu and sub-menus individually.
+
+### Behavioral Additions
+
+This update allows you to customize how popups from widgets are activated using the "Popup Activation Method" option. You can choose one of three options:
+
+- `ClickAndHover` (Default) - Requires clicking on one widget after which hovering over other widgets opens their popups for as long as a popup is open.
+- `Click` - This effectively disables the "hover" trigger and requires clicking to open and close widgets.
+- `Hover` - Immediately opens popup widgets when your mouse cursor is over an associated widget.
+
+You can find this option in "General Settings" -> "Toolbar Settings".
 
 ## Fixes & Improvements
 
-- Added _partial_ support for custom icons set via `/micon` and `/macroicon` in stored macros. Gearset icons and ID's (from SimpleTweaks' Extended Macro Icon tweak) are now picked up by the shortcut panel widget.
-- Implemented shared clip-region support for DelvUI. This should make sure that DelvUI no longer intercepts mouse clicks when an Umbra widget or window is on top of a DelvUI element.
-- Fixed correct macros not being selected correctly from the Macro picker in the shortcut panel widget.
-- Fixed the Societal Relations widget from growing horizontally while UI scale is < 100.
-- Fixed the bottom padding (or lack thereof) of the shortcut panel widget.
+- Implemented improvements to the experience bar widget to show the sanctuary and level-sync icon, as well as rested experience.
+- Fixed DelvUI clip regions lingering after closing an Umbra window.
+- Fixed Societal Relations widget automatically resizing on custom UI scales (For real this time)
+- Fixed the auto-hide trigger region when the toolbar height was set to a larger value than 48.
+- Fixed / streamlined translations in the Accessibility & Battle Effects widget (By [Bloodsoul](https://github.com/Bloodsoul)).
+
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
