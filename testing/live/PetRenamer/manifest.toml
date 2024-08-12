@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9c0ac7e1b567d58fc44a6bf0fe044fd6c0e2d27c"
+commit = "b1013ca53c53287901e2d6d5ae932466f020732c"
 owners = ["Glyceri",]
 	changelog = """
-    [2.1.1.1]
-    Added a config setting for island pets.
-    You can now rename from the MJIMinionNoteBook.
+    [2.1.1.2]
+    Added the pet list button back (I lost it during aetheryte travel... sorry)
+    Fixed some german emote stuff (Badly...)
 """
