@@ -1,41 +1,23 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "7b141da8108a21375e19a3701e4025039a3141b1"
+commit = "09ce2230bc754f57dbe8439bcfa3fe1fd04f4b10"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.18
+# Umbra 2.2.19
 
-## Auxiliary Bar
+## New Additions
 
-This update introduces the Auxiliary Bar, an additional toolbar designed to complement the main toolbar, allowing you to place extra widget instances anywhere on the screen, independent of the main toolbar.
-
-### Key Features
-
-1. **Flexible Placement:** The Auxiliary Bar can be positioned anywhere on the screen, both horizontally and vertically. Unlike the main toolbar, it does not stretch to the edges of the screen but instead expands as you add more widgets. You can also customize the bar's alignment, choosing whether it grows from left to right, centers itself, or grows from right to left. This setting also affects the positioning of any popups opened from widgets on the bar.
-
-2. **Customization Options:** You can personalize the visual style of the Auxiliary Bar to either match the appearance of the main toolbar or opt for a transparent look. There is also an option to enable or disable the shadow effect around the bar, depending on your preference.
-
-3. **Profile Integration:** The Auxiliary Bar shares the same profile as the main toolbar. This means that any toolbar profiles you have will include the widgets stored on the Auxiliary Bar as well, ensuring a consistent experience across both toolbars.
-
-A dedicated section for customizing the Auxiliary Bar is available in Umbra's settings window under the "Auxiliary Widgets" category.
-
-## To DelvUI users
-
-Umbra 2.2.17 introduced interoperability with DelvUI's window clipping system which prevents it from intercepting mouse events while an Umbra popup or window is rendered on top of a DelvUI element. DelvUI's latest update also underwent modifications to the way how mouse events are handled. Somewhere along the line users have reported issues with interactivity on DelvUI's elements. In order to eliminate possible sources of which part is causing these issues, there is now an option under "General Settings" -> "Window Settings" that allows you to opt-out of this system. If you notice any changes in behavior after either enabling or disabling this setting, please report your findings on the DelvUI discord server to keep the conversation in one place. Feel free to ping me there (@Una).
-
-This option may get removed in the future, depending on whether it is still needed once DelvUI has reworked their internal handling of mouse events.
+- Added conditional visibility options to the Auxiliary Bar.
+- Added a "Duty Recorder" indicator widget that shows a simple icon whenever the duty recorder is active. This widget is not interactable, and only exists to show the indication of the recorder being active, similar to how the mail indicator widget works.
+- Added a "Text Size" options to most widgets. These allow you to configure the font sizes on individual widgets using a single label, or the double label displays respectively.
+- Added a "Maximum text width" option to most widgets which allows text - and thus the widget - to grow up until a certain size, after which the text will get truncated and appended with an ellipsis symbol.
 
 ## Fixes & Improvements
 
-- Added a safe-guard against broken texture/UI mods that could cause Umbra to crash.
-- Texture cache is now disposed upon unloading/reloading the plugin.
-- Improved the visual style of the "Unified Main Menu" widget to fix the inconsistencies with rounded corners in floating-mode.
-- Fixed the rounded corner issue in the "Experience Bar" widget for the rested-XP portion of the bar.
-- Removed the rested XP from the "Experience Bar" widget when "Precise Experience Points" is enabled to reduce clutter. The information is still available in the tooltip.
-- Added two Y-offset options for both the Sanctuary and level-sync icons in the "Experience Bar" widget in case they are positioned poorly due to custom font configurations.
-- Fixed the "Flag" widget sometimes reporting the wrong Gil cost for a nearby teleport.
-- Updated German translations in the "Accessibility" and "Gearset Switcher" widgets (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed the World Name widget not honoring the "Hide on home world" option.
+- Fixed the tooltip not working on the "Item Button" widget.
+- Replace "Aufgaben" with "Inhalten" in German translations (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
