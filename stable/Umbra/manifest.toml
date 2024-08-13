@@ -1,39 +1,41 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "0bb6a4f42fb8a353acf7b1b1c91d02454a7394a2"
+commit = "7b141da8108a21375e19a3701e4025039a3141b1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.17
+# Umbra 2.2.18
 
-## New Additions
+## Auxiliary Bar
 
-- Added a "Collections Item Picker" to the "Shortcut Panel".
-- Added two colors for "Experience Bar" and "Experience Bar (Rested)" to facilitate customizable colors for the updated experience bar widget. This color applies to the experience bar shown in the gearset switcher as well.
-- Added an option to show the experience percentage in the gearset switcher. This allows you to toggle both the bar and percentage label individually.
-- Added an option to allow sub-menus in the "Unified Menu Widget" to be opened on mouse over rather than clicking.
-- Added an option to the "Gearset Switcher" widget that allows you to "hide" gearsets based on a name prefix.
-- Added an option to show/hide empty slots in the "Emote List" widget.
-- Added two options to the "Unified Main Menu" widget that allows you to customize the widths of the main menu and sub-menus individually.
+This update introduces the Auxiliary Bar, an additional toolbar designed to complement the main toolbar, allowing you to place extra widget instances anywhere on the screen, independent of the main toolbar.
 
-### Behavioral Additions
+### Key Features
 
-This update allows you to customize how popups from widgets are activated using the "Popup Activation Method" option. You can choose one of three options:
+1. **Flexible Placement:** The Auxiliary Bar can be positioned anywhere on the screen, both horizontally and vertically. Unlike the main toolbar, it does not stretch to the edges of the screen but instead expands as you add more widgets. You can also customize the bar's alignment, choosing whether it grows from left to right, centers itself, or grows from right to left. This setting also affects the positioning of any popups opened from widgets on the bar.
 
-- `ClickAndHover` (Default) - Requires clicking on one widget after which hovering over other widgets opens their popups for as long as a popup is open.
-- `Click` - This effectively disables the "hover" trigger and requires clicking to open and close widgets.
-- `Hover` - Immediately opens popup widgets when your mouse cursor is over an associated widget.
+2. **Customization Options:** You can personalize the visual style of the Auxiliary Bar to either match the appearance of the main toolbar or opt for a transparent look. There is also an option to enable or disable the shadow effect around the bar, depending on your preference.
 
-You can find this option in "General Settings" -> "Toolbar Settings".
+3. **Profile Integration:** The Auxiliary Bar shares the same profile as the main toolbar. This means that any toolbar profiles you have will include the widgets stored on the Auxiliary Bar as well, ensuring a consistent experience across both toolbars.
+
+A dedicated section for customizing the Auxiliary Bar is available in Umbra's settings window under the "Auxiliary Widgets" category.
+
+## To DelvUI users
+
+Umbra 2.2.17 introduced interoperability with DelvUI's window clipping system which prevents it from intercepting mouse events while an Umbra popup or window is rendered on top of a DelvUI element. DelvUI's latest update also underwent modifications to the way how mouse events are handled. Somewhere along the line users have reported issues with interactivity on DelvUI's elements. In order to eliminate possible sources of which part is causing these issues, there is now an option under "General Settings" -> "Window Settings" that allows you to opt-out of this system. If you notice any changes in behavior after either enabling or disabling this setting, please report your findings on the DelvUI discord server to keep the conversation in one place. Feel free to ping me there (@Una).
+
+This option may get removed in the future, depending on whether it is still needed once DelvUI has reworked their internal handling of mouse events.
 
 ## Fixes & Improvements
 
-- Implemented improvements to the experience bar widget to show the sanctuary and level-sync icon, as well as rested experience.
-- Fixed DelvUI clip regions lingering after closing an Umbra window.
-- Fixed Societal Relations widget automatically resizing on custom UI scales (For real this time)
-- Fixed the auto-hide trigger region when the toolbar height was set to a larger value than 48.
-- Fixed / streamlined translations in the Accessibility & Battle Effects widget (By [Bloodsoul](https://github.com/Bloodsoul)).
-
+- Added a safe-guard against broken texture/UI mods that could cause Umbra to crash.
+- Texture cache is now disposed upon unloading/reloading the plugin.
+- Improved the visual style of the "Unified Main Menu" widget to fix the inconsistencies with rounded corners in floating-mode.
+- Fixed the rounded corner issue in the "Experience Bar" widget for the rested-XP portion of the bar.
+- Removed the rested XP from the "Experience Bar" widget when "Precise Experience Points" is enabled to reduce clutter. The information is still available in the tooltip.
+- Added two Y-offset options for both the Sanctuary and level-sync icons in the "Experience Bar" widget in case they are positioned poorly due to custom font configurations.
+- Fixed the "Flag" widget sometimes reporting the wrong Gil cost for a nearby teleport.
+- Updated German translations in the "Accessibility" and "Gearset Switcher" widgets (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
