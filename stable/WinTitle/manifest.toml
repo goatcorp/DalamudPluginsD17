@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rreminy/FFXIV.WinTitle.git"
-commit = "118d9dfeae928687896df67e7f15389d492ffbd4"
+commit = "ef6b104a141eab3d593a2678bc2c8844d4e1abaa"
 owners = ["rreminy", "herulume"]
 project_path = "."
-changelog = "Update title on world travel."
+changelog = "Fix load error."
