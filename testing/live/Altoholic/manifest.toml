@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "21262d606655532bb4234b91e0ccb77aea65e4ff"
+commit = "e21bc98f6fd0eb5628064270f462cac543be8862"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.9: Fix null beast tribe values at logout. Add rewards to beast tribes reputations in Progress"
+changelog = "Version 0.0.0.10: Fix missing condition for 0.0.0.9"
