@@ -1,6 +1,5 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "756a5f154ff0e4db5eb7f7850e05fd19b5ae79ae"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(patch) fix intermittent crash"
+commit = "b19c7bf988408a9ec7c197803c5e234a96547cec"
