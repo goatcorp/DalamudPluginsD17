@@ -1,25 +1,13 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "4bd1d038605855377e590ff52843f3ce4bcd4de6"
+commit = "c59ef436ff080ec3a6641c6683ef2fc575b328cb"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## INTERFACE
-- Updated the Widget Settings windows to use tabbed navigation
-- Added job icons to the main window navigation
-
-## TRACKERS
-- Added general trackers for the Combo Timer and GCD
-
-## WIDGETS
-- **New Counter Widget:** *Coil Diamonds*, recreating the diamonds from VPR's Vipersight gauge.
-- **New Counter Widget:** *Palette Pearls*, recreating the white & black paint stacks from PCT's Palette Gauge.
-- **Improved Counter Widget:** *Meditation Gems* can now extend to display any amount of stacks/charges, instead of being restricted to exactly 3.
+## TWEAKS
+- **New Tweak for BLM:** *Color MP Bar By Element*
 
 ## MISC FIXES
-- Fixed an issue wherein the Oath Gauge couldn't fully be hidden in simple mode.
-- Fixed an issue wherein using mods to alter the shape of your minimap would affect the appearance of certain widgets.
-- Fixed the status effect Eukrasian Dyskrasia being incorrectly marked as a self-buff (whoops!)
-- Linked the Guardian and Sentinel status effects
+- Fixed (?) an issue preventing Level Range rules from loading or editing correctly
 """
