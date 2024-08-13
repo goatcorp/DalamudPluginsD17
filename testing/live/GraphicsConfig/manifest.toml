@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
+commit = "3f8ab441850e89a2b15762ad5c7a47ff47d5e435"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = ""
