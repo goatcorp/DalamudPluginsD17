@@ -1,6 +1,18 @@
   [plugin]
-  repository = "https://github.com/Aida-Enna/XIVControllerToggle.git"
-  commit = "4adbf35cadb843546b80649227cbfdeb30c8ed95"
-  owners = ["Aida-Enna"]
+  repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
+  commit = "a91b8766f77622a4d9ff26c99fde933114b8b0aa"
+  owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
-  changelog = "- Updated for Dawntrail (7.X)"
+  changelog = """
+  # The Great Controller Hud Switcher 1.0.1.2
+  - Fixed issue with configuration UI not changing HUD selection
+
+  # The Great Controller Hud Switcher 1.0.1.1
+  - Updated to Dawntrial (7.X) by Aida-Enna
+
+  # The Great Controller Hud Switcher 1.0.1.0
+  - Attempted to fix display scaling on larger DPI monitors
+  - Fixed issue where main plugin command was registered twice
+  
+  # The Great Controller Hud Switcher 1.0.0.0
+  - Made it work(tm)"""
