@@ -1,20 +1,21 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "e170773a8961f4a8f70543e46bce7c1657390590"
+commit = "aaf6ca74391e8b3e8f6cc83a4f031d772586e16d"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.20
+# Umbra 2.2.21
 
 ## New Additions
 
-- Added a **Miscellaneous** category to the "Teleport" widget.
-- Added a "Hide in Cutscenes" option to the Auxiliary Bar. This option takes precedence over the other conditional visibility settings.
+- Added an **Ornaments picker** to the Shortcut Panel widget.
+- Added an **Extra Commands** picker to the Shortcut Panel widget (for gpose, idle cam and alarm).
 
-## Fixes & Improvements
+## Improvements & Fixes
 
-- Ensure the server info bar doesn't cause a crash anymore if another plugin sets their entry text to NULL.
-- Fixed an issue causing a crash-to-desktop when the Duty Recorder Widget was added to the toolbar.
+This update only contains a refactor of the underlying system of the shortcuts panel widget, which now introduces a
+"provider" system that makes it easier to add new shortcut-types in the future. Besides the two new additions, you
+shouldn't notice any changes in the UI or functionality.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
