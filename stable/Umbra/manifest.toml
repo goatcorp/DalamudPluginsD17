@@ -1,23 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "09ce2230bc754f57dbe8439bcfa3fe1fd04f4b10"
+commit = "e170773a8961f4a8f70543e46bce7c1657390590"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.19
+# Umbra 2.2.20
 
 ## New Additions
 
-- Added conditional visibility options to the Auxiliary Bar.
-- Added a "Duty Recorder" indicator widget that shows a simple icon whenever the duty recorder is active. This widget is not interactable, and only exists to show the indication of the recorder being active, similar to how the mail indicator widget works.
-- Added a "Text Size" options to most widgets. These allow you to configure the font sizes on individual widgets using a single label, or the double label displays respectively.
-- Added a "Maximum text width" option to most widgets which allows text - and thus the widget - to grow up until a certain size, after which the text will get truncated and appended with an ellipsis symbol.
+- Added a **Miscellaneous** category to the "Teleport" widget.
+- Added a "Hide in Cutscenes" option to the Auxiliary Bar. This option takes precedence over the other conditional visibility settings.
 
 ## Fixes & Improvements
 
-- Fixed the World Name widget not honoring the "Hide on home world" option.
-- Fixed the tooltip not working on the "Item Button" widget.
-- Replace "Aufgaben" with "Inhalten" in German translations (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Ensure the server info bar doesn't cause a crash anymore if another plugin sets their entry text to NULL.
+- Fixed an issue causing a crash-to-desktop when the Duty Recorder Widget was added to the toolbar.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
