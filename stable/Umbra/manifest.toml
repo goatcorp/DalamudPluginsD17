@@ -15,7 +15,7 @@ changelog = """
 ## Fixes & Improvements
 
 - Reworked the TextDecoder (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated almost a lot of German translations(by [Haselnussbomber](https://github.com/Haselnussbomber))
+- Updated a lot of German translations (by [Haselnussbomber](https://github.com/Haselnussbomber))
 - Removed the "C" rank mobs from the Hunt World Markers settings, because C rank mobs are imaginary.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
