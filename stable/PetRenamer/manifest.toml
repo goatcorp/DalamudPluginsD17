@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "24217ad0e39318e078ba49627585a8e74c88f953"
+commit = "eedb486e94cfc28fc9f4bcaf8e0f595d0100628f"
 owners = ["Glyceri"]
 	changelog = """
-    [1.5.0.4]
-    Fixes IPC crash with other plogons.
+    [2.1.1.3]
+    The 2.0 release of pet nicknames to stable!
 """
