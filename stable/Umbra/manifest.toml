@@ -1,21 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "aaf6ca74391e8b3e8f6cc83a4f031d772586e16d"
+commit = "38b048b6a2a04b4ae8cac583df6b99ef0cff46f9"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.21
+# Umbra 2.2.22
 
 ## New Additions
 
-- Added an **Ornaments picker** to the Shortcut Panel widget.
-- Added an **Extra Commands** picker to the Shortcut Panel widget (for gpose, idle cam and alarm).
+- Added an option to customize the width of the columns in the teleport widget.
+- Added an option to open expansions on hover in the teleport widget.
+- Added numbers and colored rank names in the societal relations widget.
 
-## Improvements & Fixes
+## Fixes & Improvements
 
-This update only contains a refactor of the underlying system of the shortcuts panel widget, which now introduces a
-"provider" system that makes it easier to add new shortcut-types in the future. Besides the two new additions, you
-shouldn't notice any changes in the UI or functionality.
+- Reworked the TextDecoder (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Updated a lot of German translations (by [Haselnussbomber](https://github.com/Haselnussbomber))
+- Removed the "C" rank mobs from the Hunt World Markers settings, because C rank mobs are imaginary.
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
