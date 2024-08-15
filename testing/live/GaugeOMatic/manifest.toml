@@ -1,13 +1,17 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "c59ef436ff080ec3a6641c6683ef2fc575b328cb"
+commit = "00c47ee0ff35762e1259248c293806c0f90567db"
 owners = [
     "ItsBexy",
 ]
 changelog = """
 ## TWEAKS
-- **New Tweak for BLM:** *Color MP Bar By Element*
+- **Updated SCH tweak: ** You now have the option to show the Dissipation timer instead of the Fae Aether value while the buff is active (this was previously set up as part of the default SCH preset, but has been moved into the Tweak tab).
+
+## WIDGETS
+- Added a toggle to the *Enochian Bar* widget, to control whether the Clock Hand is forced to the top layer of all widgets
 
 ## MISC FIXES
-- Fixed (?) an issue preventing Level Range rules from loading or editing correctly
+- Fixed the BLM MP color tweak to revert the bar to normal upon changing jobs
+- Fixed issues with the visibility state of GCD trackers while the GCD wasn't rolling
 """
