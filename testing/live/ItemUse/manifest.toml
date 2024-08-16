@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/ItemUse.git"
+commit = "94965b69738ec7d253ec37a1f6d38387d47bbb29"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "ItemUse"
+changelog = '''
+- Initial Release
+'''
