@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "eedb486e94cfc28fc9f4bcaf8e0f595d0100628f"
+commit = "9804ad84bdad053de780cd05a099e8104ea6a62e"
 owners = ["Glyceri"]
 	changelog = """
-    [2.1.1.3]
-    The 2.0 release of pet nicknames to stable!
+    [2.1.1.4]
+    "TYpe"
 """
