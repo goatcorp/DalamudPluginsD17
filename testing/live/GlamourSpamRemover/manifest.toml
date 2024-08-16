@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
+commit = "a82dc77852d4b53c5eadb15e871996b30800ad08"
+owners = ["Shezwick"]
+project_path = "/GlamourSpamBeGone"
+changelog = "Fixed bad project path. Forgot it was still the old WIP name"
+version = "1.0.0.1"
