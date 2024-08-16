@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "80d69c05ec13d340c55139a203ea0136721c3cf3"
+commit = "71ec51c3da5c1a365a4c115a34d69d5ced404911"
 owners = [
     "iv230"
 ]
 project_path = ""
-changelog = "First release for testing"
+changelog = """# v0.0.8
+- Fixed an issue where the first text chunk was not recolored
+- Refactored the way of dealing with already touched messages by another plugin
+"""
