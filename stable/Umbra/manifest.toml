@@ -1,22 +1,21 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "38b048b6a2a04b4ae8cac583df6b99ef0cff46f9"
+commit = "85e7c1445429819925efd2adcbc225d007c71248"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.22
+# Umbra 2.2.23
 
 ## New Additions
 
-- Added an option to customize the width of the columns in the teleport widget.
-- Added an option to open expansions on hover in the teleport widget.
-- Added numbers and colored rank names in the societal relations widget.
+- Added Food Buttons to the "Companion" widget that allows you to feed your Chocobo with different types of food. The visibility of these buttons can be toggled on or off in the settings window of this widget.
+- Added a right-click option to the "Teleport" widget to open the vanilla teleport window.
 
 ## Fixes & Improvements
 
-- Reworked the TextDecoder (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated a lot of German translations (by [Haselnussbomber](https://github.com/Haselnussbomber))
-- Removed the "C" rank mobs from the Hunt World Markers settings, because C rank mobs are imaginary.
+- Fixes wrong translations of "Item" to "Artikel" instead of "Gegenstand". (By [Haselnussbomber](https://github.com/Haselnussbomber))
+- Fix the way the maximum rank of Societal Relations are displayed, which should now correctly show Allied vs Bloodsworn based on progression. (By [Haselnussbomber](https://github.com/Haselnussbomber))
+- Fix pseudo cutscenes during combat not working for the "in cutscene" visibility checks. (By [Bloodsoul](https://github.com/Bloodsoul))
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """
