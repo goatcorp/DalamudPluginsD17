@@ -1,17 +1,17 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "00c47ee0ff35762e1259248c293806c0f90567db"
+commit = "f98f5643add4dd3df896c5831bca100995d68149"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## TWEAKS
-- **Updated SCH tweak: ** You now have the option to show the Dissipation timer instead of the Fae Aether value while the buff is active (this was previously set up as part of the default SCH preset, but has been moved into the Tweak tab).
-
 ## WIDGETS
-- Added a toggle to the *Enochian Bar* widget, to control whether the Clock Hand is forced to the top layer of all widgets
+- Added more robust positioning options to many counter widgets. Various counters now allow you to place stacks individually.
+- Improved feature parity between bar widgets. The "Hide Full/Empty" options have been added to various bars that previously didn't include them.
 
-## MISC FIXES
-- Fixed the BLM MP color tweak to revert the bar to normal upon changing jobs
-- Fixed issues with the visibility state of GCD trackers while the GCD wasn't rolling
+## ACTION TRACKERS
+- Updated a large amount of action trackers to better reflect the action's highlight state
+- Corrected an issue with auto-populating action data, which prevented actions for certain jobs from being selectable (particularly SMN, SCH, and WHM)
+- Added a condition to actions that have an MP cost. These actions will now activate a State widget if the player has enough MP to cast the action. This condition *should* account for actions whose MP costs can change (such as BLM and DRK spells)
+- Sprint has finally been added for all jobs
 """
