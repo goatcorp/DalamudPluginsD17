@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "ac448b7d84b154d66c63719b438e2038615ad25a"
+commit = "31ecfa09875c1058911fbeb6c02eb59ccef02ce5"
 owners = [
     "iv230"
 ]
 project_path = ""
-changelog = """# 0.0.9
-- Fixed an issue preventing plugin from functioning when player hole world was written down in the chat
-- Attempt to fix Chat Bubble compatibility
+changelog = """# 0.0.10
+- Fixed the warning when the user posts a message
 """
