@@ -1,5 +1,12 @@
 [plugin]
 repository = "https://github.com/AtaeKurri/Bartender.git"
-commit = "3fb534be7ca82835a4d6b9b1ab8ceb06c802c754"
+commit = "06463929c0407fecb91387dfa0e0cb0ab1f25ca3"
 owners = ["AtaeKurri"]
 project_path = "Bartender"
+changelog = """
+# v1.1.0
+
+- Hotbar slot transparency: Slots set as transparent will be ignored when loaded. Can allow for layered profiles.
+- Remove a slot by right-clicking on it.
+- New Condition "Has Status Effect".
+"""
