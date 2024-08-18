@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "a33ca843ff7fe004c3398ce6acb3602b15c0c851"
+commit = "64bcf79cd8d55d4d7248dbdfc2c6a53670280305"
 changelog = """
-User Interface: You can now adjust the way character names are displayed (see config)
-    User Interface: Make all buttons accessible in smaller windows"""
+Bugfix: "Ignore gear from previous tiers" option now works correctly if last raid tier was in a previous expansion
+    Bugfix: Updating gear by examining now works again if "Automatically update own data" is disbaled"""
