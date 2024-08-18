@@ -1,5 +1,18 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/Glamaholic.git'
-commit = 'e86866ae6f44ce33220b11e38fdf100804be9240'
-owners = [ 'lojewalo' ]
-changelog = 'API 9'
+repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
+commit = '8b16ee85dd9cba212bfa39ff28566eb2afeb86ce'
+owners = [ 'caitlyn-gg' ]
+changelog = """
+Bug Fixes
+- Opo-opo brown dye is now correctly imported for Eorzea Collection glamours.
+
+New Features
+- Began cross-plugin interoperability for other supported glamour plugins.
+  - Note: features related to other plugins will only appear if supported plugins are installed and enabled.
+- Eorzea Collection imports are now automatically tagged as such.
+- Added "Try On" for Eorzea Collection importing.
+- Added "Mass Import" for Eorzea Collection.
+- Added dye list + copy for Glamaholic plates.
+
+For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
+"""

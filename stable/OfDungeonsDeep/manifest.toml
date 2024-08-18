@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "c8005aa2428a6d375b782ff042320d2ee634b01a"
-owners = ["NotNite", "MidoriKami"]
+commit = "2b37f7e94bf6538219a5bfe4040493b371daf00d"
+owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"

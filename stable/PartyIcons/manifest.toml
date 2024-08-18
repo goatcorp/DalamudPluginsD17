@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/nebel/xivPartyIcons.git"
-commit = "66fc223ab537ae0051c67470f6acd4172b5e56b3"
+commit = "face9eeec2f77bf45d90c509e55d09b7e5d60400"
 owners = [
     "shdwp",
     "avafloww",

@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "93dce8535ad47a80f1c05d031853cc15679de5c1"
+commit = "90efc2d0cbbeb8dfb5fe2a1efbb6963d1b741c8a"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.10.x \n - bugfix: fixed a bug related to assets downloading"
+changelog = "v3.15.x \n - fixes:\n - reworked the ChatGPT ApiKey saving so the configuration does not get corrupted preventing plugin load.\n - added internal corrupted routine that detects the player is in PvP and disables some translations to avoid stuttering."

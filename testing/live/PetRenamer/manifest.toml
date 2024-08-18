@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "707665cf9a33e397c6af8e68ea3f846a9b71ebe1"
+commit = "b1013ca53c53287901e2d6d5ae932466f020732c"
 owners = ["Glyceri",]
 	changelog = """
-    [1.4.8.7]
-    Upgraded to the new Context Menu system.
+    [2.1.1.2]
+    Added the pet list button back (I lost it during aetheryte travel... sorry)
+    Fixed some german emote stuff (Badly...)
 """

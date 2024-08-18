@@ -2,4 +2,13 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "c69a1b069afa62020e32f76bf091d33f6ef1a5cb"
+commit = "edecc1fd31c679a8c7eeaef3e8e4010a0bc6f62f"
+changelog = """
+# NeatNoter 2.6.2
+
+## Bug fixes
+
+- Fixed note's title not being editable.
+
+If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
+"""

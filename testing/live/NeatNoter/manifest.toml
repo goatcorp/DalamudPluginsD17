@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/shadowkras/NeatNoter.git"
+owners = [ "shadowkras" ]
+project_path = "src/NeatNoter"
+commit = "edecc1fd31c679a8c7eeaef3e8e4010a0bc6f62f"
+changelog = """
+# NeatNoter 2.6.2 (Test)
+
+## Bug fixes
+
+- Fixed note's title not being editable.
+
+If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
+"""

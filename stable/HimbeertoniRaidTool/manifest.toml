@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "93e3f25e16ab852d88c0410ecd0b0691a3d6b5ce"
-changelog = "Bugfix: Fix being unable to change tabs in config"
+commit = "64bcf79cd8d55d4d7248dbdfc2c6a53670280305"
+changelog = """
+Bugfix: "Ignore gear from previous tiers" option now works correctly if last raid tier was in a previous expansion
+    Bugfix: Updating gear by examining now works again if "Automatically update own data" is disbaled"""

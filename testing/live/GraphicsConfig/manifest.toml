@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
+commit = "3b7b1a32f73aa9207aa6840d449901d3ce3e0cf1"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "- Fixed an issue where watching the pre-cutscene in a duty would overwrite the loaded duty preset\n-Fixed an issue where InDuty would trigger when you were queuing via DF"

@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "c2da14601f7319e15217aec765ff46bbe24dfe75"
+commit = "915f4597a5baea93d07431c287d6ab29f3be92ee"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Utilize new experimental Universalis API.
-To enable the new API, set the config option "Use new Universalis API" (might be enabled automatically for some users).
-This API is supposed to be significantly faster and more stable than the current API, but is still under testing.
-If you are experiencing issues, disable the option for now.
+- Enable new Universalis API for everyone
+- Fetch item prices whenever player or retainer inventory is opened
 """
