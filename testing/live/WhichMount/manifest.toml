@@ -2,6 +2,6 @@
 repository = "https://github.com/megurte/WhichMount.git"
 commit = "9780461e979e390687ed2af67eb0f33fe6195b21"
 owners = [
-    "Megurt"
+    "megurte"
 ]
 project_path = "WhichMount"
