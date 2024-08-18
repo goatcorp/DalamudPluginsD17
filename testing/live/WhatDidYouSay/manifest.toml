@@ -1,10 +1,7 @@
-[plugin]
-repository = "https://github.com/PunishedPineapple/WhatDidYouSay.git"
-commit = "707d4d6e51dbadf616ebbadd5ab69fe235f422c3"
+﻿[plugin]
+repository = "https://github.com/megurte/WhichMount.git"
+commit = "13a9f707a6ba4ccba0a7041532b807ea1b22fcd2"
 owners = [
-    "PunishedPineapple",
+    "Megurt",
 ]
-project_path = "WhatDidYouSay"
-changelog = '''
-- Possible fix for speech bubbles showing on the wrong part of certain models.
-'''
+project_path = "WhichMount"
