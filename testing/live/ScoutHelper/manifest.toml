@@ -1,6 +1,5 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "beebe4ba91f32ef791e3135824add3441151e653"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(patch) support new bear tracker site"
+commit = "063145a942e21a91f45ddb7bd56cfc8a7f9eac9e"

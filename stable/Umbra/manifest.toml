@@ -1,22 +1,21 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "67116eb89fdc8ada3d43a1f8d01afd02733a16b7"
+commit = "85e7c1445429819925efd2adcbc225d007c71248"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.16
+# Umbra 2.2.23
 
 ## New Additions
 
-- Added a "Key Item Picker" to the "Shortcut Panel" widget. This means that you can now pin your Wondrous Tails book to your shortcut panel, amongst other things.
+- Added Food Buttons to the "Companion" widget that allows you to feed your Chocobo with different types of food. The visibility of these buttons can be toggled on or off in the settings window of this widget.
+- Added a right-click option to the "Teleport" widget to open the vanilla teleport window.
 
 ## Fixes & Improvements
 
-- Added _partial_ support for custom icons set via `/micon` and `/macroicon` in stored macros. Gearset icons and ID's (from SimpleTweaks' Extended Macro Icon tweak) are now picked up by the shortcut panel widget.
-- Implemented shared clip-region support for DelvUI. This should make sure that DelvUI no longer intercepts mouse clicks when an Umbra widget or window is on top of a DelvUI element.
-- Fixed correct macros not being selected correctly from the Macro picker in the shortcut panel widget.
-- Fixed the Societal Relations widget from growing horizontally while UI scale is < 100.
-- Fixed the bottom padding (or lack thereof) of the shortcut panel widget.
+- Fixes wrong translations of "Item" to "Artikel" instead of "Gegenstand". (By [Haselnussbomber](https://github.com/Haselnussbomber))
+- Fix the way the maximum rank of Societal Relations are displayed, which should now correctly show Allied vs Bloodsworn based on progression. (By [Haselnussbomber](https://github.com/Haselnussbomber))
+- Fix pseudo cutscenes during combat not working for the "in cutscene" visibility checks. (By [Bloodsoul](https://github.com/Bloodsoul))
 
 Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
 """

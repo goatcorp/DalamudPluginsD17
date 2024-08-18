@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/ItemUse.git"
+commit = "617b786be83a91e0d0c3bc3c25e6177dc7d116d4"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "ItemUse"
+changelog = '''
+- Added an item flag for items used in Ehcatl Nine deliveries.  This is disabled by default, and must be enabled in settings if you want it to be displayed.
+- Coffers now show a list of which jobs will generate grand company delivery or levequest items when opening them.
+'''

@@ -1,22 +1,17 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "40c555169f005b7f1e09da66f4f726a429bc2b75"
+commit = "f98f5643add4dd3df896c5831bca100995d68149"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## INTERFACE
-- The plugin UI now displays the icons for actions, status effects, and jobs.
-- Tooltips within the plugin have been substantially updated, and now include more comprehensive details about tracked data.
+## WIDGETS
+- Added more robust positioning options to many counter widgets. Various counters now allow you to place stacks individually.
+- Improved feature parity between bar widgets. The "Hide Full/Empty" options have been added to various bars that previously didn't include them.
 
 ## ACTION TRACKERS
-The plugin has been updated extensively under the hood to fetch job action data from the game client, rather than relying on a manually-maintained file. This means many actions that were previously not included will now be selectable to track. The plugin will also more easily keep up with future changes to job actions that come with client patches.
-- Action names will now match the client localization settings.
-- The logic for using State Indicator widgets and Bar widgets with actions has been updated (check tracker tooltips for details)
-
-These changes will hopefully not impact your saved configuration data, but it's possible that you will need to make adjustments.
-
-## PRESETS
-- Fixed an issue wherein certain widgets would not keep all of their configuration values intact when saved/loaded as presets
-- Certain jobs have had their default presets updated. As always, your existing configurations will not be changed, but you can use the Presets window to load these new defaults.
+- Updated a large amount of action trackers to better reflect the action's highlight state
+- Corrected an issue with auto-populating action data, which prevented actions for certain jobs from being selectable (particularly SMN, SCH, and WHM)
+- Added a condition to actions that have an MP cost. These actions will now activate a State widget if the player has enough MP to cast the action. This condition *should* account for actions whose MP costs can change (such as BLM and DRK spells)
+- Sprint has finally been added for all jobs
 """
