@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "13a9f707a6ba4ccba0a7041532b807ea1b22fcd2"
+commit = "9780461e979e390687ed2af67eb0f33fe6195b21"
 owners = [
     "Megurt"
 ]
