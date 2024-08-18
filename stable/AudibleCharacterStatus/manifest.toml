@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Arrenton/AudibleCharacterStatus.git"
-commit = "28ebdaa089489e3db2483542dc15268c40afc16d"
+commit = "ec1f35d9981b22ebdd841bd226242da32708b14b"
 owners = [
     "Arrenton",
 ]
