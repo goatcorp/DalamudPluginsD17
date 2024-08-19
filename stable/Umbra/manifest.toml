@@ -1,22 +1,23 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "38b048b6a2a04b4ae8cac583df6b99ef0cff46f9"
+commit = "3643724ebc93fd594320a40fbccb553062ce177e"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.22
+# Umbra 2.2.24
 
 ## New Additions
 
-- Added an option to customize the width of the columns in the teleport widget.
-- Added an option to open expansions on hover in the teleport widget.
-- Added numbers and colored rank names in the societal relations widget.
+- Updated Umbra's logo & repository README.
+- Added text size options to the Durability & Spiritbond widget.
+- Added more visibility state options to the Auxiliary Bar (Duty, Combat & PvP).
 
 ## Fixes & Improvements
 
-- Reworked the TextDecoder (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated a lot of German translations (by [Haselnussbomber](https://github.com/Haselnussbomber))
-- Removed the "C" rank mobs from the Hunt World Markers settings, because C rank mobs are imaginary.
+- Prevent the Currencies widget from showing a hover effect if the popup has been disabled in the settings.
+- Properly dispose of World Marker resources (texture memory) when a marker is no longer on screen.
+- Prohibit using the teleport action if the player is in a transient state between casting and actually being mounted.
 
-Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
 """
