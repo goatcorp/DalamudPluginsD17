@@ -1,21 +1,23 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "85e7c1445429819925efd2adcbc225d007c71248"
+commit = "3643724ebc93fd594320a40fbccb553062ce177e"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.23
+# Umbra 2.2.24
 
 ## New Additions
 
-- Added Food Buttons to the "Companion" widget that allows you to feed your Chocobo with different types of food. The visibility of these buttons can be toggled on or off in the settings window of this widget.
-- Added a right-click option to the "Teleport" widget to open the vanilla teleport window.
+- Updated Umbra's logo & repository README.
+- Added text size options to the Durability & Spiritbond widget.
+- Added more visibility state options to the Auxiliary Bar (Duty, Combat & PvP).
 
 ## Fixes & Improvements
 
-- Fixes wrong translations of "Item" to "Artikel" instead of "Gegenstand". (By [Haselnussbomber](https://github.com/Haselnussbomber))
-- Fix the way the maximum rank of Societal Relations are displayed, which should now correctly show Allied vs Bloodsworn based on progression. (By [Haselnussbomber](https://github.com/Haselnussbomber))
-- Fix pseudo cutscenes during combat not working for the "in cutscene" visibility checks. (By [Bloodsoul](https://github.com/Bloodsoul))
+- Prevent the Currencies widget from showing a hover effect if the popup has been disabled in the settings.
+- Properly dispose of World Marker resources (texture memory) when a marker is no longer on screen.
+- Prohibit using the teleport action if the player is in a transient state between casting and actually being mounted.
 
-Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
 """
