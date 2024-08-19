@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "3208096bf35b66a251702face09d58bce4d21f3a"
+commit = "b4f1f1b95b81d629c81ac85e173765c45d310064"
 owners = ["Glyceri"]
 	changelog = """
-    [2.1.2.0]
-    Re-added Pet Action Chat nicknames.
+    [2.1.2.1]
+    Fixes a crucial IPC issue.
+    Adds IPC tester to the dev window. (after all, why shouldn't you get to play with my development code)
 """
