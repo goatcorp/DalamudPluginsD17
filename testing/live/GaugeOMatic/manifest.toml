@@ -1,17 +1,15 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "f98f5643add4dd3df896c5831bca100995d68149"
+commit = "94ef352fcd13154b7befa0158f17023a6bca33d7"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- Added more robust positioning options to many counter widgets. Various counters now allow you to place stacks individually.
-- Improved feature parity between bar widgets. The "Hide Full/Empty" options have been added to various bars that previously didn't include them.
+## INTERFACE
+- You can now place widgets with the mouse! Hold shift and drag+drop while the plugin's configuration window is open.
 
-## ACTION TRACKERS
-- Updated a large amount of action trackers to better reflect the action's highlight state
-- Corrected an issue with auto-populating action data, which prevented actions for certain jobs from being selectable (particularly SMN, SCH, and WHM)
-- Added a condition to actions that have an MP cost. These actions will now activate a State widget if the player has enough MP to cast the action. This condition *should* account for actions whose MP costs can change (such as BLM and DRK spells)
-- Sprint has finally been added for all jobs
+## MISC FIXES
+- Widget windows should now behave better at different Dalamud UI scales
+- Fixed an issue wherein trackers for certain upgradable combo actions (such as DRG's Chaos Thrust) didn't function correctly at all levels
+- Fixed an issue wherein actions with an upgradable number of charges (such as MCH's Drill) displayed incorrect charge counts while level synced
 """
