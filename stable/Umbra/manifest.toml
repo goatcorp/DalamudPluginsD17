@@ -1,15 +1,23 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "f6a02655e800530e7a1dc710f33f6dfcbbd61371"
+commit = "cc09642111ccdd53f04add7430dc426344684cd6"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.24.1
+# Umbra 2.2.25
+
+## New Additions
+
+- Added a new display option to the "Durability & Spiritbond" widget that only shows the percentages as stacked labels.
+- Added an option to use the FFXIV mouse cursor. You can turn this on or off in the General Settings tab. Note that this is a _global setting_ in Dalamud, meaning if other plugins already fiddle with this option, changing it in Umbra may have no effect. It is known that DelvUI overrides this by default at time of writing.
+
+-# P.S. This time there won't be any annoying machine-gun sounds when the mouse cursor changes. I promise.
 
 ## Fixes & Improvements
 
-This release solely consists of fixes and improvements that involve disposal of resources and memory management. There
-are no user-facing changes in this version.
+- Prevent shortcuts from being accidentally removed from the "Shortcut Panel" widget when the popup is opened during times when the game thinks certain actions are not unlocked (e.g. during PvP or certain loading screens).
+- Changed the default popup sound to match the sound the game plays for similar actions.
+- Enabled threaded style computation by default. This improves performance by at least 3X but may show a slight 1-frame flicker when opening the teleport widget. If this bothers you, head over to General Settings -> Experimental Settings and disable the option there.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
