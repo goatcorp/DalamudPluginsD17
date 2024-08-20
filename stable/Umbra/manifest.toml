@@ -1,22 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "3643724ebc93fd594320a40fbccb553062ce177e"
+commit = "b6e525ad1fbf7eb5b954758b220b35597703ccaf"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.24
-
-## New Additions
-
-- Updated Umbra's logo & repository README.
-- Added text size options to the Durability & Spiritbond widget.
-- Added more visibility state options to the Auxiliary Bar (Duty, Combat & PvP).
+# Umbra 2.2.24.1
 
 ## Fixes & Improvements
 
-- Prevent the Currencies widget from showing a hover effect if the popup has been disabled in the settings.
-- Properly dispose of World Marker resources (texture memory) when a marker is no longer on screen.
-- Prohibit using the teleport action if the player is in a transient state between casting and actually being mounted.
+This release solely consists of fixes and improvements that involve disposal of resources and memory management. There
+are no user-facing changes in this version.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
