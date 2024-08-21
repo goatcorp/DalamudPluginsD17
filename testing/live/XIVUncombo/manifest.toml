@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MKhayle/XIVUnCombo.git"
-commit = "2c55f4a4057358e7c86b972cc2f6f1fbe466ef30"
+commit = "56ad12d5e31ad2d6a266231783cc1d765f302f56"
 owners = ["MKhayle"]
 project_path = "XIVUnCombo"
-changelog = """### 1.0.0.0 - Release """
+changelog = """### 1.0.0.0 - XIVUncombo Release"""
