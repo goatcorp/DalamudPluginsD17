@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MKhayle/EldenRingDalamud.git"
-commit = "a065ed68492df1753e98bca47713db7060503c11"
+commit = "b7e34ef1547fd3f367cabfb914ca1889dbf28781"
 owners = [
 	"Roselyyn", 
 	"reiichi001",
