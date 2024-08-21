@@ -1,23 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "cc09642111ccdd53f04add7430dc426344684cd6"
+commit = "7eb6c00619ef3f6edee59d2dda3b422bb7423845"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.25
+# Umbra 2.2.26
 
 ## New Additions
 
-- Added a new display option to the "Durability & Spiritbond" widget that only shows the percentages as stacked labels.
-- Added an option to use the FFXIV mouse cursor. You can turn this on or off in the General Settings tab. Note that this is a _global setting_ in Dalamud, meaning if other plugins already fiddle with this option, changing it in Umbra may have no effect. It is known that DelvUI overrides this by default at time of writing.
-
--# P.S. This time there won't be any annoying machine-gun sounds when the mouse cursor changes. I promise.
+- Added an FPS counter widget. I know there are plugins that already add an FPS counter to the server info bar. However, since you can't set a fixed width for individual entries in this widget, I've decided to add one that does allow size customization to ensure your toolbar doesn't freak out when you're bouncing between 99 ~ 100 FPS.
 
 ## Fixes & Improvements
 
-- Prevent shortcuts from being accidentally removed from the "Shortcut Panel" widget when the popup is opened during times when the game thinks certain actions are not unlocked (e.g. during PvP or certain loading screens).
-- Changed the default popup sound to match the sound the game plays for similar actions.
-- Enabled threaded style computation by default. This improves performance by at least 3X but may show a slight 1-frame flicker when opening the teleport widget. If this bothers you, head over to General Settings -> Experimental Settings and disable the option there.
+- Set the default value of "Use the Game's mouse cursor" to false to keep the original behavior by default.
+- Reworked the way world markers are rendered to be much more efficient. Instead of continuously creating and destroying graphical nodes to render, the system now uses a "pool" of 255 "slots" that can host up to 3 world markers, depending on your distance aggregation settings. This also fixes a memory leak that the old system had that would eventually lock up the system because the garbage collector had to free up a couple of gigabytes of memory every now and then.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
