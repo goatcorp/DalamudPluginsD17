@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/iv230/chat-proximity.git"
+commit = "7272808035e3d2731113fa7d90ea5b985dad111b"
+owners = [
+    "iv230"
+]
+project_path = ""
+changelog = """# 0.0.11
+- Fixed an issue with vertical incidence config (by Glyceri)
+"""

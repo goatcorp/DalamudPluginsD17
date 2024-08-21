@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "24217ad0e39318e078ba49627585a8e74c88f953"
+commit = "175a77a8c6275da4b1e2998431e1e527112e4d37"
 owners = ["Glyceri"]
 	changelog = """
-    [1.5.0.4]
-    Fixes IPC crash with other plogons.
+    [2.1.2.1]
+    Fixes a crucial IPC issue.
+    Adds IPC tester to the dev window. (after all, why shouldn't you get to play with my development code)
 """

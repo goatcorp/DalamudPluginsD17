@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "d73af20ad43a49c7b540dfbe630f62eb37b649ed"
-changelog = "## 2.11.0 (2024-07-01)\n\n\n### Features\n\n* update for apix (c931c14)"
-version = "2.11.0"
+commit = "a397321b5103272805ac8943fcdcc73a840031cf"
+changelog = "### 2.11.2 (2024-08-13)\n\n\n### Bug Fixes\n\n* certain mobs not being displayed correctly in deep dungeon (e6b00d8)\n* stop window from trying to continuously resize (d4a2100)"
+version = "2.11.2"

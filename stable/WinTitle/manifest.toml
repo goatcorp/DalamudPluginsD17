@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rreminy/FFXIV.WinTitle.git"
-commit = "fc9d7e0d5440d75f190eae3a5edcb00ab4625f3e"
+commit = "ef6b104a141eab3d593a2678bc2c8844d4e1abaa"
 owners = ["rreminy", "herulume"]
 project_path = "."
-changelog = "Add new maintainer."
+changelog = "Fix load error."
