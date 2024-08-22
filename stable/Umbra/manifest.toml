@@ -1,19 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "7eb6c00619ef3f6edee59d2dda3b422bb7423845"
+commit = "cd7658d014e2ed5476b63e06ac104f3db27bf7d8"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.26
+# Umbra 2.2.27
 
 ## New Additions
 
-- Added an FPS counter widget. I know there are plugins that already add an FPS counter to the server info bar. However, since you can't set a fixed width for individual entries in this widget, I've decided to add one that does allow size customization to ensure your toolbar doesn't freak out when you're bouncing between 99 ~ 100 FPS.
+- Added a "Sanctuary Indicator" widget that simply shows a little moon icon whenever you are in a sanctuary. The widget hides itself when you are not in a sanctuary.
 
 ## Fixes & Improvements
 
-- Set the default value of "Use the Game's mouse cursor" to false to keep the original behavior by default.
-- Reworked the way world markers are rendered to be much more efficient. Instead of continuously creating and destroying graphical nodes to render, the system now uses a "pool" of 255 "slots" that can host up to 3 world markers, depending on your distance aggregation settings. This also fixes a memory leak that the old system had that would eventually lock up the system because the garbage collector had to free up a couple of gigabytes of memory every now and then.
+- Fixed an error that made it seem like you're adding 10-20 of the same widget instances when you add a new widget until you restarted Umbra. This error occured only when you opened and closed the settings window multiple times prior to adding a new widget. This was a side effect of an event listener that was still attached to disposed resources that are now properly disposed of since the last update.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
