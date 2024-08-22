@@ -1,18 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "cd7658d014e2ed5476b63e06ac104f3db27bf7d8"
+commit = "a90f736ff475e53fe53223a3739f81d51a9a71e6"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.27
+# Umbra 2.2.28
 
 ## New Additions
 
-- Added a "Sanctuary Indicator" widget that simply shows a little moon icon whenever you are in a sanctuary. The widget hides itself when you are not in a sanctuary.
+- Added "Right-click" options to the "Custom Button" widget that allows you to add an additional command or website to open when right-clicking a custom button.
+- Added a "Revert to default value" button that appears in Umbra's Settings Window when a value has changed under General- or Marker settings.
 
 ## Fixes & Improvements
 
-- Fixed an error that made it seem like you're adding 10-20 of the same widget instances when you add a new widget until you restarted Umbra. This error occured only when you opened and closed the settings window multiple times prior to adding a new widget. This was a side effect of an event listener that was still attached to disposed resources that are now properly disposed of since the last update.
+- Fixed some world markers disappearing on certain camera angles.
+- Fixed search not working in the Shortcut Panel's Macro Picker window.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
