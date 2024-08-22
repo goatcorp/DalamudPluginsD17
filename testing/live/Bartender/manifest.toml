@@ -1,5 +1,11 @@
 [plugin]
 repository = "https://github.com/AtaeKurri/Bartender.git"
-commit = "3fb534be7ca82835a4d6b9b1ab8ceb06c802c754"
+commit = "dd34acc81a84bb2effa882991d164b6600c218fa"
 owners = ["AtaeKurri"]
 project_path = "Bartender"
+changelog = """
+# v1.1.1
+
+- Added localization for slot deletion and slot transparency.
+- Added a new setting for populating newly created profiles with the current hotbars.
+"""
