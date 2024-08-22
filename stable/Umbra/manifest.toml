@@ -1,21 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "85e7c1445429819925efd2adcbc225d007c71248"
+commit = "cd7658d014e2ed5476b63e06ac104f3db27bf7d8"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.23
+# Umbra 2.2.27
 
 ## New Additions
 
-- Added Food Buttons to the "Companion" widget that allows you to feed your Chocobo with different types of food. The visibility of these buttons can be toggled on or off in the settings window of this widget.
-- Added a right-click option to the "Teleport" widget to open the vanilla teleport window.
+- Added a "Sanctuary Indicator" widget that simply shows a little moon icon whenever you are in a sanctuary. The widget hides itself when you are not in a sanctuary.
 
 ## Fixes & Improvements
 
-- Fixes wrong translations of "Item" to "Artikel" instead of "Gegenstand". (By [Haselnussbomber](https://github.com/Haselnussbomber))
-- Fix the way the maximum rank of Societal Relations are displayed, which should now correctly show Allied vs Bloodsworn based on progression. (By [Haselnussbomber](https://github.com/Haselnussbomber))
-- Fix pseudo cutscenes during combat not working for the "in cutscene" visibility checks. (By [Bloodsoul](https://github.com/Bloodsoul))
+- Fixed an error that made it seem like you're adding 10-20 of the same widget instances when you add a new widget until you restarted Umbra. This error occured only when you opened and closed the settings window multiple times prior to adding a new widget. This was a side effect of an event listener that was still attached to disposed resources that are now properly disposed of since the last update.
 
-Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
 """

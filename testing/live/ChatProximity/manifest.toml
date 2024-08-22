@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "31ecfa09875c1058911fbeb6c02eb59ccef02ce5"
+commit = "62f1a63e46a346ca8b3af714879576706e90b97a"
 owners = [
     "iv230"
 ]
 project_path = ""
-changelog = """# 0.0.10
-- Fixed the warning when the user posts a message
+changelog = """# 0.1.0
+## Major changes
+- Added compatibility with yell, standard emotes and custom emotes
+- Each channel can be enabled/disabled
+- The user can now choose the color range
+## Bugfixes
+- Special payloads as auto translated text or item links are now supported
 """

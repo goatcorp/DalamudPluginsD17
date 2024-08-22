@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "625476352d4de06c504f7188835188f58d8bbbcf"
+commit = "90efc2d0cbbeb8dfb5fe2a1efbb6963d1b741c8a"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.14.x \n - feat: added special characters parsing for Latin Extended using languages that converts characters unsupported by the game's native font into supported chars. \n Check the plugin's settings window for more information."
+changelog = "v3.15.x \n - fixes:\n - reworked the ChatGPT ApiKey saving so the configuration does not get corrupted preventing plugin load.\n - added internal corrupted routine that detects the player is in PvP and disables some translations to avoid stuttering."

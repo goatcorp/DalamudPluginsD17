@@ -1,17 +1,15 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "00c47ee0ff35762e1259248c293806c0f90567db"
+commit = "94ef352fcd13154b7befa0158f17023a6bca33d7"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## TWEAKS
-- **Updated SCH tweak: ** You now have the option to show the Dissipation timer instead of the Fae Aether value while the buff is active (this was previously set up as part of the default SCH preset, but has been moved into the Tweak tab).
-
-## WIDGETS
-- Added a toggle to the *Enochian Bar* widget, to control whether the Clock Hand is forced to the top layer of all widgets
+## INTERFACE
+- You can now place widgets with the mouse! Hold shift and drag+drop while the plugin's configuration window is open.
 
 ## MISC FIXES
-- Fixed the BLM MP color tweak to revert the bar to normal upon changing jobs
-- Fixed issues with the visibility state of GCD trackers while the GCD wasn't rolling
+- Widget windows should now behave better at different Dalamud UI scales
+- Fixed an issue wherein trackers for certain upgradable combo actions (such as DRG's Chaos Thrust) didn't function correctly at all levels
+- Fixed an issue wherein actions with an upgradable number of charges (such as MCH's Drill) displayed incorrect charge counts while level synced
 """
