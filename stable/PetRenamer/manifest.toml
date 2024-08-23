@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "175a77a8c6275da4b1e2998431e1e527112e4d37"
+commit = "42c198aa692694715fd4ec79b945f9344d7da478"
 owners = ["Glyceri"]
 	changelog = """
-    [2.1.2.1]
-    Fixes a crucial IPC issue.
-    Adds IPC tester to the dev window. (after all, why shouldn't you get to play with my development code)
+    [2.1.2.2]
+    Better Party List Resolve (AKA, if 2 people in your party have the same name, I now know who is who c:)
 """
