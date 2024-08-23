@@ -1,23 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "cc09642111ccdd53f04add7430dc426344684cd6"
+commit = "a90f736ff475e53fe53223a3739f81d51a9a71e6"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.25
+# Umbra 2.2.28
 
 ## New Additions
 
-- Added a new display option to the "Durability & Spiritbond" widget that only shows the percentages as stacked labels.
-- Added an option to use the FFXIV mouse cursor. You can turn this on or off in the General Settings tab. Note that this is a _global setting_ in Dalamud, meaning if other plugins already fiddle with this option, changing it in Umbra may have no effect. It is known that DelvUI overrides this by default at time of writing.
-
--# P.S. This time there won't be any annoying machine-gun sounds when the mouse cursor changes. I promise.
+- Added "Right-click" options to the "Custom Button" widget that allows you to add an additional command or website to open when right-clicking a custom button.
+- Added a "Revert to default value" button that appears in Umbra's Settings Window when a value has changed under General- or Marker settings.
 
 ## Fixes & Improvements
 
-- Prevent shortcuts from being accidentally removed from the "Shortcut Panel" widget when the popup is opened during times when the game thinks certain actions are not unlocked (e.g. during PvP or certain loading screens).
-- Changed the default popup sound to match the sound the game plays for similar actions.
-- Enabled threaded style computation by default. This improves performance by at least 3X but may show a slight 1-frame flicker when opening the teleport widget. If this bothers you, head over to General Settings -> Experimental Settings and disable the option there.
+- Fixed some world markers disappearing on certain camera angles.
+- Fixed search not working in the Shortcut Panel's Macro Picker window.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

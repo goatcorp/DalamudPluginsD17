@@ -1,15 +1,13 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "94ef352fcd13154b7befa0158f17023a6bca33d7"
+commit = "9898d855dfbacefa68c0f8e72eed6b365dfea9e0"
 owners = [
     "ItsBexy",
 ]
 changelog = """
 ## INTERFACE
-- You can now place widgets with the mouse! Hold shift and drag+drop while the plugin's configuration window is open.
+- You can now use Shift + Scrollwheel to change the scale of widgets while hovering them
 
 ## MISC FIXES
-- Widget windows should now behave better at different Dalamud UI scales
-- Fixed an issue wherein trackers for certain upgradable combo actions (such as DRG's Chaos Thrust) didn't function correctly at all levels
-- Fixed an issue wherein actions with an upgradable number of charges (such as MCH's Drill) displayed incorrect charge counts while level synced
+- Fixed an issue wherein all actions (even those without charges) would try to show available charges when used on counter widgets
 """
