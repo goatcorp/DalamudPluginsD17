@@ -1,0 +1,22 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganMarket.git"
+commit = "65b52d8cd6e9ee71440985eba1c56f26faf34971"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganMarket"
+version = "1.0.0.0"
+changelog = """\
+**Allagan Market**
+- First release of Allagan Market, a plugin for tracking your active retainer sales, history and helping you track when you've been undercut.
+- The plugin is still a bit rough around the edges but the following features are available:
+  - Sale/History tracking
+  - Grid/list modes for sale/history
+  - A sale summary screen
+  - DTR bar integration
+  - An overlay to help you update your active sales
+  - Exports for sales/history/summary
+  - Integration with universalis
+  - Chat notifications when you get undercut
+- Please post issues on the github if you can replicate otherwise there will be a post in the #plugin-help-forum section
+"""
