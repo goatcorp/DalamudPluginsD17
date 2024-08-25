@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "3208096bf35b66a251702face09d58bce4d21f3a"
+commit = "42c198aa692694715fd4ec79b945f9344d7da478"
 owners = ["Glyceri"]
 	changelog = """
-    [2.1.2.0]
-    Re-added Pet Action Chat nicknames.
+    [2.1.2.2]
+    Better Party List Resolve (AKA, if 2 people in your party have the same name, I now know who is who c:)
 """
