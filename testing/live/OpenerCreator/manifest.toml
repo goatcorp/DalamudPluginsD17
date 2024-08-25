@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "6a09112177c6a0a94a051399f1d60d54df5ed3c5"
+commit = "2ef3fc77d56662f9918bea30dd06cdb89c90324c"
 owners = ["herulume", "Sevii77"]
 project_path = "OpenerCreator"
 changelog = """
 Updates:
-- Add current action indicator
-- Automatically save configuration 
+- Add ability ants for next action
 """
