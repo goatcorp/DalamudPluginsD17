@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "508bb97b1c29286386dcd38636f7dbb0441cd2c0"
-version = "1.5.0.18"
+commit = "3039b7c76500d167da5e9a3116b0e08e5be21df8"
+version = "1.5.0.19"
 owners = ["CMDRNuffin"]
-changelog = """Added flying mount roulette back to the game in all the usual places (action menu, mount guide)."""
+changelog = """Fix: Plugin would crash and burn if changing the mount guide's roulette buttons failed."""
