@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "1575be2176b457087ca6626fcb85ac126db5301a"
+commit = "9cb85e01cc871650344b57d96233831c33848616"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v0.1.0.0
-Initial release.
+v0.1.0.1
+Fixed the following issues:
+- Item name translation doesn't go away after unloading the plugin.
 """
