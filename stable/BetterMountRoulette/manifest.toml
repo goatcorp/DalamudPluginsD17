@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "07d206db09a280712a8e662f73316877e0b3ca21"
-version = "1.4.0.17"
+commit = "508bb97b1c29286386dcd38636f7dbb0441cd2c0"
+version = "1.5.0.18"
 owners = ["CMDRNuffin"]
-changelog = """Added option to use only SDS Fenrir/Garlond GL-IS in areas where no mount speed upgrades are unlocked."""
+changelog = """Added flying mount roulette back to the game in all the usual places (action menu, mount guide)."""
