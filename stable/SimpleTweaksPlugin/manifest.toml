@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Caraxi/SimpleTweaksPlugin.git"
-commit = "454a67a106c9e1f0d480767548dd8658baea674f"
+commit = "d099ae42d3cd184290cea44b9d4dee3423e6b9e8"
 owners = [
     "Caraxi",
 ]
