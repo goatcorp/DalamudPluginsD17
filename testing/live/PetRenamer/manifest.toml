@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "2f128810c8a7583dd46bea64890732408c4a90e7"
+commit = "3fa3ff3f649632503c00b8ab0a3c5ff64a91f191"
 owners = ["Glyceri",]
 	changelog = """
-    [2.2.0.0]
-    Massive performance increase (This requires the testing branch)
-    Nicknames for Tooltips on the (mini)map in alliance raids should now work (probably, I ran like 20 alliance raids, it all looked fine)
-    Companion Type images are now also visible in the petlist
-    Better refresh on certain elements, namely the party list and tooltips when updated via IPC. (Stuff like target bars will still require you to retarget someone/thing for it to update, sorry)
+    [2.2.0.1]
+    Solves some targeting issues that came about due to the new update.
 """
