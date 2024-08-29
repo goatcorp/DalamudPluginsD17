@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/megurte/WhichMount.git"
+commit = "b1016943cdfaa27bf6900b4261d1054496227831"
+owners = [
+    "megurte"
+]
+project_path = "WhichMount"
