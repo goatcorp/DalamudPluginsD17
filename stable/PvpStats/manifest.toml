@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "19a9331b4c6feb56a26e38397ef5235ea247024d"
+commit = "a839b2c8b83d40946cf206c16b75d246f3832f80"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated and re-enabled Rival Wings match tracking for Dawntrail.
-* Fixed a bug where table data would be offset on the Frontline match details window.
+* Added config option to make scoreboard columns stretch-able.
+* Fixed filter name display for non-standard styles/fonts.
+* Fixed win rate coloring on Frontline summary.
+* FL and RW match details are now affected by "Always show player team on left".
+* Added an option to order FL teams by placement.
 """

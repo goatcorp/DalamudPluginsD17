@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "42c198aa692694715fd4ec79b945f9344d7da478"
+commit = "128f7d8a704d39c6c4e32dec43430b27e888b10e"
 owners = ["Glyceri"]
 	changelog = """
-    [2.1.2.2]
-    Better Party List Resolve (AKA, if 2 people in your party have the same name, I now know who is who c:)
+    [2.1.2.3]
+    Fixes a couple bugs.
+    The party list will now refresh in real time when updating names.
 """

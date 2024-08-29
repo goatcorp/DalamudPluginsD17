@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "4fda8f9538751bba5b2b2eebebc4116096de992b"
+commit = "5c6fc00d1a4a3a6d37f8cdb5df74e07fb66ade5b"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
-changelog = "- Now supports non-English clients"
+changelog = "- FOR TESTING: Fix incompatibility with multi-monitor support"
