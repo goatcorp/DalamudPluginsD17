@@ -1,10 +1,18 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "2283ae202eba37d4b3933e3258953d8591881db4"
+commit = "fac0a738a6e0a345b86cb503866675121832e2e5"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v0.1.0.1
-Fixed the following issues:
-- Item name translation doesn't go away after unloading the plugin.
+v0.2.1.1
+New Features:
+- Config to enable/disable the plugin
+- Config to set the language separately
+- Config to set the colour separately
+- Config to set offset for tooltip position
+- Config to show tooltip only when holding a hotkey
+- A text command to toggle/enable/disable the plugin
+
+Fixed Problems:
+-
 """
