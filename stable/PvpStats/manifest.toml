@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0fec032648326561187c083ee6f6c708a4e4cdd3"
+commit = "db496c0cc6faa9797ab3bef91696b1b7a70e6d42"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added Job stats tab to Frontline tracker.
-* Adjusted Frontline color scale values.
-* Added KDA to Frontline stats summary.
-* Other minor UI changes.
+* Added match tags. Set them on the match details page or through the match list context menu.
+* Added a tag filter for all game modes.
+* Added tags to the match list table.
 """
