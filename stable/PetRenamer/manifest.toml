@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d81c661654741b9f2f71b72d70eca8a588dddc4b"
+commit = "128f7d8a704d39c6c4e32dec43430b27e888b10e"
 owners = ["Glyceri"]
 	changelog = """
-    [1.5.0.1]
-    Removed Mappy IPC. (Don't worry, Mappy will still work! Even better than before now!)
-    Updated to ApiX.
-    Updated for 7.0 version of the game.
-    
-    (New summoner summons are not yet available for renaming, I am currently power leveling summoner to lvl 100 to add them!)
+    [2.1.2.3]
+    Fixes a couple bugs.
+    The party list will now refresh in real time when updating names.
 """

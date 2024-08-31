@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "854cc090a497295b4786027ca1941a112d32afd6"
+commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed a bug where players from new Dynamis worlds would be added as extra players.
-* Rival Wings tracking (v2.0.0.0)
-* Frontline Battle high tracking (v2.0.3.0)
-* Other UI improvements (v2.0.4.0)
+* Adds a progress bar to tracker windows during refreshes.
 """

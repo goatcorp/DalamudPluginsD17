@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "e274e87818a748b60a570180be845b6ab754ca4a"
-version = "1.3.0.15"
+commit = "206de4de89d1da0a2fc22f01ad6bb37b4ef4491d"
+version = "1.5.0.20"
 owners = ["CMDRNuffin"]
-changelog = """Now includes an option to only mount single-seated mounts while solo.
-
-Also added an option to only use mounts that can fit the entire party, or failing that, as many party members as possible."""
+changelog = """- Actual fix for the crashing issue from last time by replacing very brittle readonly memory manipulation with much more stable hooks.
+- Fixed a second crash that would occur if the action menu was never opened before loading or unloading the plugin while logged in."""

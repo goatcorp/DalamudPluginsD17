@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "506c6db49ca5d0493b5679e14c319010ccea0dd5"
+commit = "8e59aad278d37ae661367624f8da212147dbd750"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- API X update
-- Necessary and general service usage refactors
+changelog = """- Fixed currency parsing for vendors
+- Modified parsing mechanic for better performance
  """

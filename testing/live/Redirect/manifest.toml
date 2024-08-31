@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "8c2ad9278590785a112f71b347f70fa171596061"
+commit = "f40cbcd61b471859919d6d47f52c2c419a2f580e"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Add support for AST's new card system"
+changelog = "Restore generic UI mouseover behavior"

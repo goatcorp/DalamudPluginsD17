@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "785b1225e2e70f85bc4cedfc380f93b9393556aa"
+commit = "9898d855dfbacefa68c0f8e72eed6b365dfea9e0"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Status effects cast by the player's pet (such as Carbuncle's Radiant Aegis) are now tracked properly
-- Label text on the Beast Bar and Oath Bar widgets will now fade out correctly whenever the bar is hidden
+## INTERFACE
+- You can now use Shift + Scrollwheel to change the scale of widgets while hovering them
+
+## MISC FIXES
+- Fixed an issue wherein all actions (even those without charges) would try to show available charges when used on counter widgets
 """

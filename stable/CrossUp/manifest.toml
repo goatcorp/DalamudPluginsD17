@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "c393c8a1721cf9439e6d9c5c9fb7b2f809e806b7"
+commit = "817a5435e7190e333046fb46089eac0c7d3a5daf"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Restored some color customization functions that had broken in 7.0
-- Fixed a few other minor bugs
+An issue with loading the plugin appears to have been resolved by a recent Dalamud update. This update reverts a temporary fix that was made in 1.7.0.3.
 """

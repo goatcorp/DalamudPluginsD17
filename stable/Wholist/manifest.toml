@@ -1,7 +1,11 @@
 [plugin]
 repository = "https://github.com/Blooym/Wholist.git"
-commit = "414cdf72396c14ef47847ffcfdbfe99fc392cd45"
+commit = "4e48812c5651e08fb48f6a6044ec4222f294aca3"
 owners = [
     "Blooym",
 ]
 project_path = "Wholist"
+changelog = """
+Added the ability to change the region used for Lodestone player searches.
+Revamped some of the settings UI.
+"""

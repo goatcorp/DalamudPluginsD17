@@ -1,0 +1,21 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "5b332695888c9e52dd8d1f07218d95f93430be6b"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+# Umbra 2.2.31
+
+## New Additions
+
+- Volume Control Widget: Added buttons to toggle whether audio channels continue to play while the game is in the background. The master channel toggles the "Play sounds when window is not active" setting.
+- Coordinates widget: Added a "two-label" option that condenses the widget by showing the X and Y values as two separate smaller labels.
+
+## Fixes & Improvements
+
+- Shortcut Panel: Added support for all `/micon` variants. Big thanks to Haselnussbomber for making this possible!
+- Stacked Clock: Let the bottom clock use the same text color as the top one.
+
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
+"""

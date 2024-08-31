@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/megurte/WhichMount.git"
+commit = "909116fca27d42b75086acc0d11d553d8970406e"
+owners = [
+    "megurte"
+]
+project_path = "WhichMount"
+changelog = """ChangeLog:
+  - Support every language client
+  - Text minor fixes
+"""

@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "58096bb4b399f3199b8c36ed397287376af0ba43"
+commit = "8a60d0363d1ea53bc6958b32d2eec4e704297a67"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Bug fixes.
-- Added collapse filters button.
+* Tracker window rework: You can now drag and drop maps to re-assign them.
+* Fix loot not registering on map chests.
+* Adjusted timing setpoints to improve reliability.
 """

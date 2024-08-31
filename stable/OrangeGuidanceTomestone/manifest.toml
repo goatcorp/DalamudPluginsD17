@@ -1,8 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '4976a2e0df29dd27344bec35be13ebf67841aaed'
+commit = '673699a76653d9e38d4e7dccefb88a2b91cfd8ea'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Update for Dawntrail
+- Fix certain emotes causing player phantoms to A-pose
+- Add configuration options for sign opacity and colour intensity
 """

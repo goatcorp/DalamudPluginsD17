@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/NightmareXIV/EnmityHp.git"
 # The commit to check out and build from the repository.
-commit = "e884d9bb833180197cb2f1cc8ce0ba67f01bae24"
+commit = "ba11f0d8e280437aa2d8390e7bb9b98d1ae79508"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Limiana"

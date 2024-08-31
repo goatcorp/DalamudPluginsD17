@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Sohtoren/Altoholic.git"
+commit = "e21bc98f6fd0eb5628064270f462cac543be8862"
+owners = ["Sohtoren"]
+project_path = "Altoholic"
+changelog = "Version 0.0.0.10: Fix missing condition for 0.0.0.9"
