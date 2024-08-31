@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "13590f6dbfae485381dae6cfbac0263df9dc499e"
+commit = "6324438f3fb2391e3fd453cf13582f8da95b8bca"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-- Added a button to force WTSync to re-submit your current status to the server, in case your party members aren't seeing your status correctly.
-- Fixed the WTSync interface not opening if you're riding someone else's mount while using the option to Open with Wondrous Tails.
-- Changed some layout code to work better with different font and style settings, which will hopefully fix an issue with the settings window growing infinitely.
+This should be the last testing release before pushing this to stable, unless any bugs are found.
+
+- Added setting to hide the server info bar entry when in a non-matching duty.
+- Start polling for Wondrous Tails status changes when in Idyllshire to update a person's status if they interact with Khloe and do not then open their Wondrous Tails UI.
+- Fixed issue where game state was being incorrectly read on the main thread during plugin initialization.
 """
