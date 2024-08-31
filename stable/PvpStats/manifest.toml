@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "db496c0cc6faa9797ab3bef91696b1b7a70e6d42"
+commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added match tags. Set them on the match details page or through the match list context menu.
-* Added a tag filter for all game modes.
-* Added tags to the match list table.
+* Adds a progress bar to tracker windows during refreshes.
 """
