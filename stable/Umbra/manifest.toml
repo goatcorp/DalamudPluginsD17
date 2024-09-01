@@ -1,20 +1,30 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "5b332695888c9e52dd8d1f07218d95f93430be6b"
+commit = "4f8a1adacd652bd75792714731d40256ef2ce371"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.31
+# Umbra 2.2.32
 
 ## New Additions
 
-- Volume Control Widget: Added buttons to toggle whether audio channels continue to play while the game is in the background. The master channel toggles the "Play sounds when window is not active" setting.
-- Coordinates widget: Added a "two-label" option that condenses the widget by showing the X and Y values as two separate smaller labels.
+- Added a **Dynamic Menu** widget that is meant to be a successor of the "Custom Menu" widget. This one allows adding the same types of entries to be added like the ones from the Shortcut panel widget, as well as a "Custom entry" that has the same options as the existing Custom Menu / Button widgets. You can right-click items in this menu to start customizing.
+- Added a centralized place for number formatting that allows you to specify a custom decimal- and thousands separator in the General Settings category in the Settings window. All widgets showing numeric values will adhere to these options.
+- Added an "icon size" option to all toolbar widgets that use the "Icon Button Widget" base (volume, markers control, plugin list, battle effects, etc.)
 
 ## Fixes & Improvements
 
-- Shortcut Panel: Added support for all `/micon` variants. Big thanks to Haselnussbomber for making this possible!
-- Stacked Clock: Let the bottom clock use the same text color as the top one.
+- Fixed a potential crash that might occur when restarting the plugin from the settings window while the appearance tab is active.
+- Fixed an issue where select (dropdown) input controls were no longer visible when opening the settings window for the second time.
+- The Unified Main Menu widget will now hide the avatar image if the icon id is set to 0.
+- Streamlined all icon button widgets (volume, markers control, plugin list, battle effects) to all share the same configuration options.
+
+## Additional changes for developers
+
+- The window system is no longer internal and can be used by plugin authors.
+- Input control nodes are no longer internal and can be used by plugin authors.
+- A generic "VariablesWindow" has been added that allows creating windows that show a list of categorized input controls for an arbitrary list of variables. The new Dynamic Menu widget uses this to allow users editing custom menu entries. A future update will replace the Widget Settings window with this variant as well.
+- A new "FormatNumber" method has been added to "I18N". This method allows formatting a number that complies with user settings for decimal- and thousands separators.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
