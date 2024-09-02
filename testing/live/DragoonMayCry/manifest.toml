@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Felscream/DragoonMayCry.git"
+commit = "ab3d8b1033ebdd421c8d0dbfd4ea3702898a9eae"
+owners = ["Felscream"]
+project_path = "DragoonMayCry"
+changelog = "First submission, still WiP"
