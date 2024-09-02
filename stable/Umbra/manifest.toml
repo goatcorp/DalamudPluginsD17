@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "49e9d82dfd9c73a951d1e162de207a54d69e1b3c"
+commit = "928617517d39aa372d3c4a8b190b02c45823e9d2"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -10,6 +10,7 @@ changelog = """
 
 - Added an **Icon Picker** for "Font-Awesome" icons (the ones you see in the icon-button widgets, such as Volume, Marker Control, Battle Effects, etc.)
 - Added Icon customization options to all widgets that have static icons.
+- Added an indicator to the Emote List widget's emote picker window that indicates whether an emote is already present on the panel.
 
 ## Fixes & Improvements
 
