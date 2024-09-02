@@ -1,13 +1,22 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "b39c6102e8bcad66587ef2366fdbf3ce842b8806"
+commit = "b0ac48a809fe963bc36d222286fc67c46d557961"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.18.0"
+version = "1.0.19.0"
 changelog = """
-- Add 'Current Craft - Max Durability' condition
-- Add 'Current Craft - Max Quality' condition
-- Add 'Current Craft - Difficulty' condition
-- Add 'Run Selected' context menu action to macro windows
-- Fix Icon Picker error for hi-res icons
+New Major Feature: Subscriptions
+
+Subscriptions let you subscribe to a external macro
+repository (typically hosted on git). Subscriptions provide a two-click
+way to download the latest version of macros hosted externally, and will
+automatically notify you when new updates are available (configurable).
+
+Subscriptions only support vanilla macro features, subscription
+repositories currently cannot add links or link conditions.
+
+The primary use-case of this feature is to allow macro-using raiding
+communities to quickly share macro changes, but other use case are
+supported. Make sure to only subscribe to repositories you trust and
+make sure to verify macros before you run them!
 """
