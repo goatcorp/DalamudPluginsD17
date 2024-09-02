@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "ab3d8b1033ebdd421c8d0dbfd4ea3702898a9eae"
+commit = "d8d3ed6fd36d95c1318cef02eacb59831cd5a147"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
-changelog = "First submission, still WiP"
+changelog = "Added a final encounter rank based on time spent in each tier."
