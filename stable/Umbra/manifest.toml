@@ -1,19 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "c44a520e2542d814bfe0baaf7a47f66e4cf11428"
+commit = "49e9d82dfd9c73a951d1e162de207a54d69e1b3c"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.33
+# Umbra 2.2.34
 
 ## New Additions
 
-- Replaced all "Icon ID" input fields with an **Icon Picker**. Clicking on this type of control will open a new Icon Picker window that shows categorized icons. You can still use a custom icon ID by specifying it in the "Icon ID" input field in the icon picker window if the icon you are looking for is not in the default categorized sets.
-- Added a "Horizontal Padding" option to Icon Button Widget types. This allows you to increase the width of icon buttons in case you've disabled decorations.
+- Added an **Icon Picker** for "Font-Awesome" icons (the ones you see in the icon-button widgets, such as Volume, Marker Control, Battle Effects, etc.)
+- Added Icon customization options to all widgets that have static icons.
 
 ## Fixes & Improvements
 
-- The **Plugin List Widget** now adheres to default icon button widget settings.
+- Fixed the "Copy" and "Paste" buttons that went missing in 2.2.33 from widget instance settings windows.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
