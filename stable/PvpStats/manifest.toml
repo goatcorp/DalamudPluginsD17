@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0fec032648326561187c083ee6f6c708a4e4cdd3"
+commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added Job stats tab to Frontline tracker.
-* Adjusted Frontline color scale values.
-* Added KDA to Frontline stats summary.
-* Other minor UI changes.
+* Adds a progress bar to tracker windows during refreshes.
 """

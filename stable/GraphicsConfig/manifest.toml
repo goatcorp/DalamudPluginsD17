@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
+commit = "2d7dc5526169c8080df536f6894e6ddf7527a240"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "- Added in support for Screen Mode, Resolution, and FPS\n- Added warning that Screen Mode and Resolution will not change on load, only when you hit apply on the system config menu\n- Fixed various UI errors"

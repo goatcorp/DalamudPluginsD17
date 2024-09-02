@@ -1,22 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "944e49b206ffcc7d6860e9d3587820cfdc4f2ce6"
+commit = "c44a520e2542d814bfe0baaf7a47f66e4cf11428"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.30
+# Umbra 2.2.33
 
 ## New Additions
 
-- Added a **Stacked Clock** widget. I've decided to add this as a separate widget since the options this one provides would otherwise severely conflict with features of the existing clock widget. This one also allows you to define custom time formats.
-- Added a standalone **Coordinates** widget that shows your coordinates on the current map.
-- Added a configurable center point to the world marker's compass system.
-- Added an option to Hide the Auxiliary bar when your weapon is drawn.
-- Added the ability to right-click the mute buttons of individual channels in the volume widget popup.
+- Replaced all "Icon ID" input fields with an **Icon Picker**. Clicking on this type of control will open a new Icon Picker window that shows categorized icons. You can still use a custom icon ID by specifying it in the "Icon ID" input field in the icon picker window if the icon you are looking for is not in the default categorized sets.
+- Added a "Horizontal Padding" option to Icon Button Widget types. This allows you to increase the width of icon buttons in case you've disabled decorations.
 
 ## Fixes & Improvements
 
-- Location Widget: Switch to "Single label" mode if sub-label (district or coordinates) is empty to ensure the text is centered properly in all situations.
+- The **Plugin List Widget** now adheres to default icon button widget settings.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
