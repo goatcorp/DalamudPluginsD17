@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "928617517d39aa372d3c4a8b190b02c45823e9d2"
+commit = "b4e046a6af4429da58d07efea9e7c1b58f458af5"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
@@ -15,6 +15,8 @@ changelog = """
 ## Fixes & Improvements
 
 - Fixed the "Copy" and "Paste" buttons that went missing in 2.2.33 from widget instance settings windows.
+- Disabled the "Configure" option on Separator entries in the Dynamic Menu widget.
+- Increased the height of Separators in the Dynamic Menu widget to make it easier to right-click them.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
