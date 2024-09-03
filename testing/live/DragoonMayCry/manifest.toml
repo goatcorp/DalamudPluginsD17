@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "ab3d8b1033ebdd421c8d0dbfd4ea3702898a9eae"
+commit = "fe317a6be7bf2b40f6ee2321ddeb0fcd59b5a640"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
-changelog = "First submission, still WiP"
+changelog = "Added a final encounter rank based on time spent in each tier. Disabled for PvP. Bugfixes around the active outside instance option."
