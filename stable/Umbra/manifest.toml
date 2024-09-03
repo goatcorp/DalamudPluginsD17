@@ -1,22 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "b4e046a6af4429da58d07efea9e7c1b58f458af5"
+commit = "dc723c217b460ad87306350e20aa7e3da4641d31"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.34
+# Umbra 2.2.35
 
 ## New Additions
 
-- Added an **Icon Picker** for "Font-Awesome" icons (the ones you see in the icon-button widgets, such as Volume, Marker Control, Battle Effects, etc.)
-- Added Icon customization options to all widgets that have static icons.
-- Added an indicator to the Emote List widget's emote picker window that indicates whether an emote is already present on the panel.
+- Added "tags" to all built-in widgets that allow you to search for them in the "Add widget" window. Please note that tags are deliberately defined in English only to make it easier to direct users to the correct widgets via support channels.
 
 ## Fixes & Improvements
 
-- Fixed the "Copy" and "Paste" buttons that went missing in 2.2.33 from widget instance settings windows.
-- Disabled the "Configure" option on Separator entries in the Dynamic Menu widget.
-- Increased the height of Separators in the Dynamic Menu widget to make it easier to right-click them.
+- Teleport widget: Replaced the "Open favorites by default" checkbox with a selection option that allows you to choosebetween "Current expansion", "Favorites" and "Miscellaneous" (by [alexpado](https://github.com/alexpado)). Note that if you previously had the "Open favorites by default" option enabled, you will need to re-enable it in the new selection.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
