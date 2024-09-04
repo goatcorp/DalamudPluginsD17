@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "50877adf4583874381fb11f998e4f53abe8f6b4b"
+commit = "93777d1f6185bbb4478ee7e2318d3feb6cda65b8"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = "Initial Release"
