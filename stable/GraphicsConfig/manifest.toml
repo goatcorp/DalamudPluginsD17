@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
-commit = "2d7dc5526169c8080df536f6894e6ddf7527a240"
+commit = "2c634b87d3f46354fd3158f4ee58a125772886d3"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Added in support for Screen Mode, Resolution, and FPS\n- Added warning that Screen Mode and Resolution will not change on load, only when you hit apply on the system config menu\n- Fixed various UI errors"
+changelog = "- Fixed a bug that caused old presets to change your settings to the lowest res/windowed mode on game load if it was the last preset loaded"
