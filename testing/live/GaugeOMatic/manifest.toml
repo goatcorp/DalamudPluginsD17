@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "9898d855dfbacefa68c0f8e72eed6b365dfea9e0"
+commit = "6d317d65ec6973771205b206de32e1311f354725"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## INTERFACE
-- You can now use Shift + Scrollwheel to change the scale of widgets while hovering them
+##TRACKERS
+- Added data trackers for SMN: *Fire Attunement*, *Earth Attunement*, *Wind Attunement*, and *Summon Phase*
+- Fixed an issue wherein tracking the DoT status effects for DRG's Chaos Thrust / Chaotic Spring did not work at lower levels
+- Tentatively fixed an issue wherein charge trackers for BRD's Bloodletter / Heartbreak Shot / Rain of Death did not show the correct amount at lower levels
 
-## MISC FIXES
-- Fixed an issue wherein all actions (even those without charges) would try to show available charges when used on counter widgets
+**NOTE:** Although the issue with Bloodletter was solved with a manual fix, there may be other charge abilities that still do not show the correct value at all levels. This is due to some apparent inconsistencies in the way that the game client stores charge counts and cooldown times for different actions. If you run into other actions with this sort of bug, reports are appreciated!
 """
