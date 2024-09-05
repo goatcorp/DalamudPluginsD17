@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "aa067b6732185345816f57fac6aa8421028b55a5"
+commit = "ce6dbb897ab9f0ce7270c7f8776aea18bea06c31"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = '''
-v0.7.0
+v0.7.1
 
 - You shouldn't get demoted if you are incapacitated and the demotion timer didn't start
 - Fixed a bug where receiving damage from named abilities was considered dealing damage
 - The plugin shouldn't run if you are using a class and not a job
+- Added a window to explain how things work
 '''
