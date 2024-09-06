@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "93777d1f6185bbb4478ee7e2318d3feb6cda65b8"
+commit = "4ce9ff0b50ebc95078459ba3108c9390dfc7aa84"
 owners = ["pinapelz"]
 project_path = "Malmstone"
-changelog = "Initial Release"
+changelog = "Add tooltips to configuration options, Fix incorrect calculations for Daily Frontline 3rd place"
