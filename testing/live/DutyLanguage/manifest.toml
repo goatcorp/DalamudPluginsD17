@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/SHOEGAZEssb/DutyLanguage.git"
+commit = "941f6bdf85b61091d5e626c7cdde1fc1ffbde7eb"
+owners = ["SHOEGAZEssb"]
+project_path = "DutyLanguage"
