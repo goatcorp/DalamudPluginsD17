@@ -1,12 +1,23 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "f19f6e3d5cd4ff6abe9d69ede8de21b641de35a6"
+commit = "9d4a761677d26c5e8987b24721c25c4112a1a03a"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Fixed null reference in certain unnatural circumstances
-- Fixed rare case where lines would try to initialize with 0 samples
-- Minor improvements to the performance of fancy lines when there are a high number of lines
-- Added option to filter party/alliance
+Bug fixes:
+- Fix various cases which could cause null reference exceptions.
+- Fixed an issue where dead, and non-yet-rendered entities could have target lines.
+- Fixed an issue where it was possible to have an out of bounds exception with dynamic-sample-count fancy lines.
+- Significantly simplified the management of individual lines, improving stability reducing heap usage.
+
+Enhancements:
+- UI Occlusion now uses clip rects, resulting in a performance improvement. Additionally, UI Occlusion now supports legacy lines.
+- Minor logic improvement to target line behavior.
+- Lines now get reinitialized when settings are modified.
+- Additional tooltips added.
+
+Other:
+- Removed HelliTri test
+- Random changes to dx11 tests
 """
 
