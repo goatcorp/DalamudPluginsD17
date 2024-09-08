@@ -1,14 +1,25 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "26dbdf7a8b530e5dc0671ee72103a6c7bb2a60e8"
+commit = "040b67822cb5c7af7adefb2d48bde72b7bde2dc7"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.0.0.1"
+version = "1.0.0.2"
 changelog = """\
-**Fixes:**
-- Collapsing and expanding worlds in the main interface should work now
-- The retainers shown in the overlay will now only show ones owned by the currently logged in character
+**New Features**
+- The latest market prices are cached so that undercuts can be calculated on the fly even if you change settings
+- Undercut/undercut on login/sale notifications can be disabled/enabled and have their chat type configured
+- Undercut messages can be configured to be grouped
+- The undercut recommended price can be configured
+- The NQ/HQ comparison used when determining if an item has been undercut can be configured on a global/item level
+- Added a /amarket alias(PR from TheOddball)
 
+**Fixes**
+- The UI should eat less FPS
+- Column sorting in the list view is fixed
+- Added some additional checks in case the sale items CSV gets into a bad state
+- Fixed an exception related to the marketboard item request hook
+- "Item Update" renamed to "Stale Pricing" to hopefully make it clearer
+- Hopefully fixed the scaling issues on the overlay windows
 """
