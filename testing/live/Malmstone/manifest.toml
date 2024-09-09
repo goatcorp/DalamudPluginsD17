@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "4ce9ff0b50ebc95078459ba3108c9390dfc7aa84"
+commit = "7ee1be7c6882257a943668acbfd17ba104715872"
 owners = ["pinapelz"]
 project_path = "Malmstone"
-changelog = "Add tooltips to configuration options, Fix incorrect calculations for Daily Frontline 3rd place"
+changelog = """
+- Added option to automatically stop showing toast/chat notifications after reaching a series level
+- Added preliminary Frontline losing streak bonus tracking
+- Added tooltips with Series EXP values for each game mode
+"""
+
