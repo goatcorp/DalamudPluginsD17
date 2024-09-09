@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "e622aad8426714c1eca1155ce8059e233d6fe622"
+commit = "8f517002fe4ef5e65b6bb892192bd606d980479d"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = '''
-v0.7.3
-- Bugfixes and performance improvement
+v0.7.5
+- Bugfixes
+- Reworked the configuration ui
 '''
