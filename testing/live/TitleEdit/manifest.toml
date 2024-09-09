@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/RokasKil/TitleEdit.git"
+commit = "47c3c68f7e1dd86b3ef0bfc2d9b48d452af3826d"
+owners = [
+    "RokasKil",
+]
+project_path = "TitleEdit"
+changelog = """
+- Completely rewritten the plugin
+- Added Character Select support with the ability give your character a mount
+- Added in game preset editing and live preview
+- Hopefully fixed the preset not loading on start up issues
+- Added experimental support for world layout saving
+- Added festival saving support
+- Added the ability to recolor title screen UI
+- Added the ability to roll the camera in title screen
+- Added the ability to save multiple groups of presets to cycle through randomly
+"""
