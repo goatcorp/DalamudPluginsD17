@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "296c80a84bac5944dc54d256beb67619d7ddde3f"
+commit = "fcc25df09181d61674703807ceb66c99f587b492"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.11: Database migration"
+changelog = "Version 0.0.0.12: Character blacklisting, progress MSQ & Events"
