@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "98b1736f9f578f4d66698de321ae7cc85a534ce3"
+commit = "8dd8dc166e98a50d35918a2715808b39208aa6d7"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-- Added option to automatically stop showing toast/chat notifications after reaching a series level
-- Added preliminary Frontline losing streak bonus tracking
-- Added tooltips with Series EXP values for each game mode
+Bug Fixes:
+- Fix an issue where initial Frontline stats is cached before player is loaded
+- Fix UI bug where toggling Frontline bonus off and on doesn't mark data as potentially outdated
+- Fix initial PVP profile data loading to handle alts
 """
 
