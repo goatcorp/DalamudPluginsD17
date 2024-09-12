@@ -1,22 +1,17 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "b0ac48a809fe963bc36d222286fc67c46d557961"
+commit = "874335f3fa26abeef4285de4f4b3179ecd549c29"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.19.0"
+version = "1.0.19.1"
 changelog = """
-New Major Feature: Subscriptions
-
-Subscriptions let you subscribe to a external macro
-repository (typically hosted on git). Subscriptions provide a two-click
-way to download the latest version of macros hosted externally, and will
-automatically notify you when new updates are available (configurable).
-
-Subscriptions only support vanilla macro features, subscription
-repositories currently cannot add links or link conditions.
-
-The primary use-case of this feature is to allow macro-using raiding
-communities to quickly share macro changes, but other use case are
-supported. Make sure to only subscribe to repositories you trust and
-make sure to verify macros before you run them!
+- Subscription status window no longer auto-grows forever
+- Made subscription job downloads Parallel (max 4 at a time), this
+  significantly speeds up sync time for large subscriptions.
+- Significantly improved caching of subscription macros, checking for
+  updates is now much quicker and will only fully download a macro when
+  changes have been made.
+- Limited subscription jobs to 1 at a time (to prevent getting rate-limited by github).
+- Made subscription loading spinners fancier
+- Added 'Copy URL to Clipboard' action to subscriptions
 """
