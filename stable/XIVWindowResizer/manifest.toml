@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/AlexCSDev/XIVWindowResizer.git"
+commit = "4d2b778d8f7e4e31d431912b6fbf392d1e1daf52"
+owners = ["AlexCSDev"]
+project_path = "XIVWindowResizer"
+changelog = "Updated for Dawntrail"

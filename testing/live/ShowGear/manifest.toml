@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sersorrel/ShowGear.git"
-commit = "ecc9b9f6cc62f1c8a9ee20684d2e5df605a34976"
+commit = "cfcd1d21ba7bdfa836eab74f3363d7fd4c356b4d"
 owners = ["sersorrel"]
 project_path = "ShowGear"
-changelog = "Update for 6.3"
+changelog = "Update for API 9"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "f0944ff7bb902701fad41873ce6e3d5aa2115bd7"
+commit = "7c4e96c75e9b78d7920419c6ff1453bb171de558"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed various issues related to Gear Set elements."
+changelog = "- Added setting to Nested Ring Elements so they can be activated by clicking instead of hovering."

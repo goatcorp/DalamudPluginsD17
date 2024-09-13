@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
+owners = [ "PrincessRTFM",]
+project_path = ""
+commit = "33f4c4b1fe41ae11c69f6d62b4671417217cdba8"
+changelog = "UI checkboxes work correctly now. Additionally, I've actually released the fix that was sitting on my hard drive for the last week."

@@ -1,7 +1,10 @@
 [plugin]
-repository = "https://github.com/lmcintyre/TitleEditPlugin.git"
-commit = "763274cbc97cef961074a7ff5a274ff9f4cab371"
+repository = "https://github.com/RokasKil/TitleEditPlugin.git"
+commit = "80d759a3f994dd6a01fbc955c4ec791aa456aaaa"
 owners = [
-    "lmcintyre",
+    "RokasKil",
 ]
 project_path = "TitleEdit"
+changelog = """
+- Fixed new bundled presets not actually being bundled
+"""

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "da2635c073b45c313897d4ca26c95c0b2e0e9440"
+commit = "19ebf17f76a5395c65ad962374d433ea8d6ea092"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Fixed a logic error with tracking blocked messages and potentially a cause of frame drops during combat under specific conditions."
+changelog = "- Custom filters for the Gathering channel should properly check the Gathering channel and the GatheringSystem channel instead of only the GatheringSystem channel."

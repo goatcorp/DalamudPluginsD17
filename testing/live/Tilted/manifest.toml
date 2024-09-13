@@ -1,11 +1,5 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "68ac5463078ff39b75a0a26a639124d310afb925"
-owners = [
-    "meoiswa"
-]
+commit = "4114d626b65fb5fd72e997257eeef52b1f7a5888"
+owners = ["meoiswa"]
 project_path = "Tilted"
-changelog = """
-Version 3.3.0.0:
- - Improved Tilt Interpolation logic courtesy of @mallowmew.
-"""

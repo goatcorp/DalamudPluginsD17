@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
+commit = "8dd8dc166e98a50d35918a2715808b39208aa6d7"
+owners = ["pinapelz"]
+project_path = "Malmstone"
+changelog = """
+Bug Fixes:
+- Fix an issue where initial Frontline stats is cached before player is loaded
+- Fix UI bug where toggling Frontline bonus off and on doesn't mark data as potentially outdated
+- Fix initial PVP profile data loading to handle alts
+"""
+

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "8ee1642d06e0fb92e12d2af2e5b18081409e8cc3"
+commit = "8590a50e3a1bf5c3ee0afcbdd88d8aba32dce70a"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for API 9.  Thank you Felys!
+- Displays distance units as meters now instead of yalms in the Japanese-language client in order to match tooltips.
 '''

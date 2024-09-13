@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/53m1k0l0n/MouseTargetTooltip.git"
+commit = "07b5c252fc0f1a695845a0095df8bcaf337ff3e2"
+owners = ["53m1k0l0n","Gotest"]
+project_path = "MouseTargetTooltip"
+changelog = """- Update for Dawntrail and newer Dalamud"""

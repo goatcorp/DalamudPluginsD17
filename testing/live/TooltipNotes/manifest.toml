@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "c02c2e08fce3d064b0810ab52de06aafba388326"
+commit = "9017c2fbf98e1384af1449b4dd0b502b2c4df349"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.2.0.0
+1.4.0.0
 
-Hello Everyone,
-TooltipNotes is back for patch 6.5 and its better than ever!
-What changed?
-it may not look like much but behind the scenes a lot has changed which means now those who couldnt use TooltipNotes before due to FPS drops and it just straight up not working should niw be able to use it wihtout worries I hope
+Release for 7.1!
+
+The release for DT is finally here! Nothing special changed, there is now a blue T infront of the context Menu. But it Works!
+
 """

@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Arrenton/AudibleCharacterStatus.git"
-commit = "d4615cb10e8c6960f29609b595f219e7374245c9"
+commit = "ec1f35d9981b22ebdd841bd226242da32708b14b"
 owners = [
     "Arrenton",
 ]
 changelog = """
-Updated for API 8, volume level setting provides a more consistant change.
+Updated for API 10.
+Added support for OGG files.
+Added an error message for when there's an issue with a file.
 """

@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "af0b20fe843fb2d3dcd9f272036697aa07560dcd"
-changelog = "- Updated HuntBuddy for API9"
+commit = "c770aa3a6963ca32ad3b17dd3780e5cb34107e79"
+changelog = "Removes mention of third-party plugin from settings window."

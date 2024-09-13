@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "c4a004a4e2053e837e9f58890b397a3e251a828a"
+commit = "41686616cb549fec763bf4a202babe056136ef54"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Added additional indicators to the bar for paused regen and double speed regen.
+- Fix loading the wrong texture version
 """

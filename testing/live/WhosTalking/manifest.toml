@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "98d6d6935d10bcf2e0eb63aef9dbea2bce7ef65a"
+commit = "c57f8c039d83a14e06b603a7c305f8f98181feaa"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-- Added an easier way to configure individual assignments
-- Fixed a bug causing the overlay to show up even if the party list was hidden via HUD Layout
-- Fixed a crash that could occur if the Discord API sent an invalid response
+**Version 0.8.0.0**
+
+- Add an option to display all Discord users, even when they're talking (thanks to iris for implementing this)
+
+I'd like this release to go to the stable channel soon. Please report any issues in #plugin-help-forum!
 """

@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "301bd03c90976637b17b90aa6cc0c10eceeed840"
-owners = [
-    "meoiswa"
-]
+commit = "18acdf50fab7bf04f1e431d18d05581eb639a5e3"
+owners = ["meoiswa"]
 project_path = "Tilted"
 changelog = """
-Version 3.2.0.0:
- - New Tilt option: Mapping. When this setting is enabled, the Camera Tilt will be set to a value between the "Enabled" and "Disabled"
-  values based on the Enabled and Disabled Camera Distances. This allows you to have a different tilt angle depending on how far the camera is zoomed out.
+
+Version 4.0.0.0:
+ - Updated to API10
 """
