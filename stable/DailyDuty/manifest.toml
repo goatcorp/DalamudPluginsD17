@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/DailyDuty.git"
-commit = "f1866d178ddc85f213c0bf01bbd89a0ec2d19ba4"
+commit = "8a4af9c5cf565768975ce01fb52b08da7ed327d5"
 owners = ["MidoriKami"]
 project_path = "DailyDuty"

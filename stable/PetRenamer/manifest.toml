@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "175a77a8c6275da4b1e2998431e1e527112e4d37"
+commit = "69c46fae34f81a5fa561a71f78f9baeea752f5ea"
 owners = ["Glyceri"]
 	changelog = """
-    [2.1.2.1]
-    Fixes a crucial IPC issue.
-    Adds IPC tester to the dev window. (after all, why shouldn't you get to play with my development code)
+    [2.2.0.3]
+    Fixed an issue where the Petlist incorrectly thought the selected user was the local user.
+    Fixed an issue where users wouldn't transform into IPC users upon receiving IPC data (this clears manual shares unless synced, this is intentional from now on).
+    Fixed an issue where users with zero pets would show up in the Petlist. This was impossible to occur before, since the implementation of sync this occurs when someone has zero pets.
+    Added a subtle outline on input fields that are empty.
 """
