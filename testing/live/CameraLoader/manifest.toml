@@ -1,6 +1,15 @@
 [plugin]
 repository = "https://github.com/NeNeppie/LightsCameraAction.git"
-commit = "61f4c3cac7c2c2a0508915d8e64aaa77cbc150cd"
+commit = "dce3eee161a2ba7f316cd82e687c98eb143d20b0"
 owners = ["NeNeppie"]
 project_path = "CameraLoader"
-changelog = "- (Very) Minor UI tweaks"
+changelog = """
+Available for testing:
+- Implemented preset importing/exporting.
+ - By default, imported presets keep their original creation date. This can be changed in the settings tab, to help with sorting.
+ - Share your studio setups!
+- More minor tweaks and fixes.
+ - Like being able to create presets with duplicate names. Not sure how this bug survived for as long as it did.
+ - Error messages have been moved to the chat log.
+- First major release (Still starting at the testing branch though!)
+"""
