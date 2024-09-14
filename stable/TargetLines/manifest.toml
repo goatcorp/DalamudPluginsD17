@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "f19f6e3d5cd4ff6abe9d69ede8de21b641de35a6"
+commit = "df0fe72bb40bf727798d6359a37f3701d7b21168"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Fixed null reference in certain unnatural circumstances
-- Fixed rare case where lines would try to initialize with 0 samples
-- Minor improvements to the performance of fancy lines when there are a high number of lines
-- Added option to filter party/alliance
+Bug fixes:
+- Fixed issue where either the fallback line or a null line would be visible when no filter was matched
+
+Enhancements:
+- Added the ability to add a "Focus Target" filter to the line filter settings, allowing the user to visualize their focus target.
 """
 

@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "9898d855dfbacefa68c0f8e72eed6b365dfea9e0"
+commit = "30d86198b2435734b914566c5c51e1e4ced19893"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## INTERFACE
-- You can now use Shift + Scrollwheel to change the scale of widgets while hovering them
-
-## MISC FIXES
-- Fixed an issue wherein all actions (even those without charges) would try to show available charges when used on counter widgets
+Implemented a further fix for Bloodletter and other charge action trackers.
 """

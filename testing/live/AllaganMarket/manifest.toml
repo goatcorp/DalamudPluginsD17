@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganMarket.git"
+commit = "a59c7e69902373425f2c7c3b3652390760adcbcc"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganMarket"
+version = "1.0.0.4"
+changelog = """\
+**Fixes**
+- Retainer ordering will be tracked properly which will fix any highlighting related issues
+- Viewing the current offerings for an item will mark it as updated at that point and clear any highlighting on that line
+- The undercut logic should now consider your own items undercut until you've got them at the correct price
+"""
