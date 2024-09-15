@@ -1,10 +1,19 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "8f517002fe4ef5e65b6bb892192bd606d980479d"
+commit = "af98698f5de0a2448ddbdd764072af25da4a18f0"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = '''
-v0.7.5
+- Added announcers and dynamic background music selectable on a job per job basis
+- Announcers :
+    - Default DmC5 (new default)
+    - DmC5 Balrog VA / Michael Schwalbe
+    - Nico
+    - Morisson
+- Dynamic BGM (experimental, only inside instances, will mute game's BGM)
+    - Bury the Light
+    - Devil Trigger
+    - Crimson Cloud
+- Changed some values, it shouls take longer to reach S, but it should be easier to maintain
 - Bugfixes
-- Reworked the configuration ui
 '''
