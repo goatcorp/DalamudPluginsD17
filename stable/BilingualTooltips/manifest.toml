@@ -1,16 +1,13 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "f30d9319862fe897e03615922ba5b3db3a5eaefe"
+commit = "199edf5fa56256ab56436f2d20aa48e85a9d89a1"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v1.0.0.0
-All features you can find in this plugin should now be working as intended.
-
+v1.0.1.0
 New Features:
-- Translation for tooltips of actions, traits and general actions
-- Improved UI layout
+- NA
 
 Fixed Problems:
-- Config colour does not work
+- Name translation does not go away on the hotkey mode.
 """
