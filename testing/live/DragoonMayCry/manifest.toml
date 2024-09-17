@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "b8550dc82ecf361ac5d5d714a6a2acfe32dcba0f"
+commit = "0ee5284fd78386e24f98457c37fe2ad27db209a5"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = '''
-- Bugfix : the plugin wouldn't initialize on some windows configuration
+- Reworked the job configuration UI
+- It is now possible to disable the plugin for specific jobs
+- Bugfixes :
+    - Dynamic BGM wouldn't start if you entered an instance from the wolve's den pier
+    - The game's BGM wouldn't unmute if you disabled dynamic BGM inside an instance
 '''
