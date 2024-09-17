@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/HybridCamera.git"
-commit = "42d564148e4a0f42f4b1265cce8d753b6aa9e8ff"
+commit = "c211e25a531bf7a9b9d47dd6a4ea5cdae1494315"
 owners = ["Drahsid"]
 project_path = "HybridCamera"
 changelog = """
 - Added controller support and removed the requirement for whitelisted movement keys
+- Added option for standard-style backpedaling to move the player at full speed
 - Fixed bugs related to the first frame of movement being in the wrong movement mode
 - Removed esoteric and experimental configuration options
 """
