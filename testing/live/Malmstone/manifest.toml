@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "8dd8dc166e98a50d35918a2715808b39208aa6d7"
+commit = "880e621b92574f79c2db16a73eb18b6a01249936"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-Bug Fixes:
-- Fix an issue where initial Frontline stats is cached before player is loaded
-- Fix UI bug where toggling Frontline bonus off and on doesn't mark data as potentially outdated
-- Fix initial PVP profile data loading to handle alts
+Features:
+- Tracks Series Level above 30, even if you claim the "Extra Level" rewards
+- Option to modify PVP Profile and Series Malmstone GUI to show Series Levels above 30
+- Organize Configuation into tabs
 """
 
