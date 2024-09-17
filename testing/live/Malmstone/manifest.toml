@@ -7,6 +7,6 @@ changelog = """
 Features:
 - Tracks Series Level above 30, even if you claim the "Extra Level" rewards
 - Option to modify PVP Profile and Series Malmstone GUI to show Series Levels above 30
-- Organize Configuation into tabs
+- Organize Configuration into tabs
 """
 
