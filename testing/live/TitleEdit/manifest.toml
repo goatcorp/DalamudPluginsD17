@@ -8,5 +8,5 @@ project_path = "TitleEdit"
 changelog = """
 - Fixed reading camera angles when in 3rd person
 - Fixed reading Eorzea time
-- Added an option to hide your name in chracter select to ease preset sharing
+- Added an option to hide your name in character select to ease preset sharing
 """
