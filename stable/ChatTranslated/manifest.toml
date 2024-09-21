@@ -1,14 +1,10 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "5f80a32c449f6d411a815766e5f27a0e6e9f15b1"
+commit = "1f610f8735271fedbb4dd71894dd57314bb9f1ea"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-added support for other OpenAI-compatible APIs
-updated embeddings for RAG and added a minimum score threshold
-removed optional data collection
-added support for multiple languages
-new localization strings
+fixed a bug where channel settings are overwritten on game or plugin restart
 """
 [plugin.secrets]
 cfv3 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA9i5EbwP580i9qnhn7aIbFOqBucfkgHyMiAw/g6WM\ntC8wuOicNTjNOxH1iSThh28b81JDAWE4hNUvwJhTJo87Ez+zLNvN4yffULGt\nPGrNoCAT0lgBFA+LsaOYPohc0XMre0Js6YGMAgYsuD4aypFqIvKz/uwb6NPc\nc4/JkJoFCZSEmivpdzOmOxbCK7km6JsA3tI4+hLtmvvAKZyzejyc8Xa2gfUk\nwLcyIanJ\n=9maw\n-----END PGP MESSAGE-----\n"
