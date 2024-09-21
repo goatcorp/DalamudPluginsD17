@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "d7bef219e06d89c6a8a4eb8b7820cf89d7d7083d"
+commit = "8390edc91db59501d0d782ee5fd9e910420b5320"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for version 7.0 and Dalamud apiX.
-* Rival Wings matches temporarily disabled.
+* Reworked tracker window refresh to load each tab asynchronously and to perform incremental refreshes.
+* Re-scaled stat color values for Crystalline Conflict.
+* Added KDA to Crystalline Conflict summary.
+* Fixed team status not working for the FL/RW player filter.
 """

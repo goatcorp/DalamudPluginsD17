@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/KhloeLeclair/WTSync.git"
+commit = "6324438f3fb2391e3fd453cf13582f8da95b8bca"
+owners = [ 
+	"KhloeLeclair"
+]
+project_path = ""
+changelog = """
+This is the first stable channel release of WTSync, a new plugin that makes it easier to do Wondrous Tails together with other players.
+
+There have been no changes since the latest testing release.
+"""

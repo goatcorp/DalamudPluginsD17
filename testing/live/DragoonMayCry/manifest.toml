@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/Felscream/DragoonMayCry.git"
+commit = "29810caeeedff5c9d5c143356b01035024560d56"
+owners = ["Felscream"]
+project_path = "DragoonMayCry"
+changelog = '''
+- Reworked the job configuration UI
+- It is now possible to disable the plugin for specific jobs
+- Added a muffled effect on death to the dynamic BGM
+- Bugfixes :
+    - Dynamic BGM wouldn't start if you entered a non PvP instance from the wolve's den pier
+    - The game's BGM wouldn't unmute if you disabled dynamic BGM inside an instance
+    - Changing the OS audio default output device will now redirect sound to the new output instead of playing on the old one
+    - Sometimes, the dynamic BGM would not transition to the combat state due to an error
+'''

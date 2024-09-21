@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "158aeb5ed9c3a09b0c7c835cc5b642a726f817df"
+commit = "c57f8c039d83a14e06b603a7c305f8f98181feaa"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.7.0.0**
+**Version 0.8.0.0**
 
-Adds support for rendering voice activity indicators with the game's native UI toolkit!
+- Add an option to display all Discord users, even when they're talking (thanks to iris for implementing this)
 
-This means that you can drag game windows on top of the party list, and the indicators will be properly rendered below the overlapping window.
-
-To test this new feature, head to the plugin settings and switch "indicator style" from "Imgui" to "Atk". Please let me know about any problems via the new Who's Talking thread in #plugin-help-forum.
+I'd like this release to go to the stable channel soon. Please report any issues in #plugin-help-forum!
 """

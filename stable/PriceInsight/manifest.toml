@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "71aafdc7b4e3a87dd829b2b94dc09ecee0955770"
+commit = "915f4597a5baea93d07431c287d6ab29f3be92ee"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Fix tooltips overflowing when using UI scaling
-Fix = occasionally showing in numbers when using french language on windows
+- Enable new Universalis API for everyone
+- Fetch item prices whenever player or retainer inventory is opened
 """

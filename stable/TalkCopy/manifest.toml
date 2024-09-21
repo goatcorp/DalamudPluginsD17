@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "7803d3dc19a4a61c12276875955cfc7ec81e0fb2"
+commit = "7d71e04fea01e17122a43d909b71418b4fca8b27"
 owners = ["Glyceri",]
 	changelog = """
-    [1.1.0.2]
-    Some addons have the same name but a different ID. This caused issues.
+    [1.1.0.3]
+    Updated the logo because I was getting nominations for the old one...
 """

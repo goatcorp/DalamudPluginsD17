@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "ccd20de8f2d5fecba19cb35a2128210a9e1b34af"
+commit = "3c15e4ab559f76bf67ea0346b49b9d38af641b35"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.6.0
-- API 10 migration.
-- Option to set visibility mode of Auxi viewer.
-- Adjust tab content UI when Auxi viewer is hidden.
-- Minor UI fixes/adjustments.
-- Fixes community links.
+Bozja Buddy 1.1.6.1
+- Added plugin preview images.
 """

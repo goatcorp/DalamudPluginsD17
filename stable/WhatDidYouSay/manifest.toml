@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WhatDidYouSay.git"
-commit = "668050fb28fb68aec9d0fc14a380eb5bcba4257e"
+commit = "707d4d6e51dbadf616ebbadd5ab69fe235f422c3"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "WhatDidYouSay"
 changelog = '''
-- Updated for Dalamud API 10.
+- Possible fix for speech bubbles showing on the wrong part of certain models.
 '''

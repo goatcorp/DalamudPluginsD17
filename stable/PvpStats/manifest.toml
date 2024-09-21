@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "9b7051d4fd395c0a802a14937c5befaec39a93d6"
+commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added team stats to Frontline and Rival Wings match details.
-* Added an option to show/hide team stats to the match details window.
-* Added 'By expansion' to time filter.
-* Added options for changing alpha and text color for match scoreboard rows.
-* Left-aligned match duration in all match lists.
-* Removed auto-resize option from CC match details.
-* Other small UI tweaks.
+* Adds a progress bar to tracker windows during refreshes.
 """

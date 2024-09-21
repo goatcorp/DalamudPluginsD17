@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEditPlugin.git"
-commit = "b787ae5de6e16aa84aba8521a018a7eb8a5eb652"
+commit = "80d759a3f994dd6a01fbc955c4ec791aa456aaaa"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Updated for Dawntrail
-- Added Dawntrail logo and title menu options
+- Fixed new bundled presets not actually being bundled
 """

@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "9aaa3356398d9f2bc3e878d71b1c90c20e6dcdf3"
+commit = "90efc2d0cbbeb8dfb5fe2a1efbb6963d1b741c8a"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.3.x - Fixed for APIX!! No more stuttering(TM) while translating! BattleTalk is fixed but no overlay for it yet! There may be other issues! Thanks a lot to @samulopez for the help again and thanks to @MidoriKami and @soreenpeong for the AddonLifecycle and the new Fonts API!"
+changelog = "v3.15.x \n - fixes:\n - reworked the ChatGPT ApiKey saving so the configuration does not get corrupted preventing plugin load.\n - added internal corrupted routine that detects the player is in PvP and disables some translations to avoid stuttering."

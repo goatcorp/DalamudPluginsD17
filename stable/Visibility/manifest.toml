@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "0e0d82958f991fbd53fafcad9ccf6c167bf3b40f"
-changelog = "- Updated Visibility to support Dawntrail (Thanks @Infiziert90)\n- Removed ContextMenu support until further notice"
+commit = "89463920b330863b02127df892109695e584aa94"
+changelog = "- Added a feature to show target of target when hidden by other settings"

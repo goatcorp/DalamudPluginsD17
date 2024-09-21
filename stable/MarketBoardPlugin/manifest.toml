@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a929c39e851b09e8ee99013765336bdfa68fc143"
+commit = "4864123224a95ca0a687a13757d3cfad84db056c"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Better Universalis error handling"
+changelog = """\
+- Limit the listing count and make it and the history count configurable\
+"""
