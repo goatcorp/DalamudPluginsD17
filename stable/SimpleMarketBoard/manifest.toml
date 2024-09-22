@@ -1,13 +1,17 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "0dd08e94145627249b09aec3abc5404d4922041a"
+commit = "f39c98b2199db760846697ebf7b7a5653f33f05d"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
-v1.9.0.0
+v1.8.0.0
 New Features:
-- Add more options for world selection.
+- Add custom theme support.
+- Add button size offset.
+- Add configurable additional worlds/DCs/regions to target world menu.
 
 Fixed Problems:
-- Icon not showing up.
+- NA
+
++ 1.8.1.0: Fix background search.
 """
