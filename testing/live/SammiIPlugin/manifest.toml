@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/HatTheTurtle/SAMMIWebhookPlugin.git"
-commit = "f992d26b3bf9a285c2dc6826e4403bcac1063d3a"
+commit = "9b181529b1c50664ca50cb3653ede5eb2d820b2a"
 owners = ["HatTheTurtle"]
 project_path = "SammiPlugin"
 changelog = "Initial release, support for player character name/hp/mp, flying text for damage/buffs/debuffs, and player class/job/role actions used."
