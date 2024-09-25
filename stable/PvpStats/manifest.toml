@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
+commit = "8390edc91db59501d0d782ee5fd9e910420b5320"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Adds a progress bar to tracker windows during refreshes.
+* Reworked tracker window refresh to load each tab asynchronously and to perform incremental refreshes.
+* Re-scaled stat color values for Crystalline Conflict.
+* Added KDA to Crystalline Conflict summary.
+* Fixed team status not working for the FL/RW player filter.
 """
