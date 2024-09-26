@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "ef4c68c9f6c9228b3e1f09390439d12ab3448557"
+commit = "0d45cc53534a384dfdd387d982cde84c6c2becd4"
 owners = [
-    "LadyDefile"
+    "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.0 Patch notes
-Updated Wordsmith to work with the new Dalamud API and .NET 8.0"""
+changelog = """# Wordsmith v1.15.1
+Minor update. Mostly to fix soon to be broken links (Like Github)."""
