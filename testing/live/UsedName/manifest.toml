@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "a1c40059a311e90b83c48db0805d4b4dc40a9f7c"
+commit = "cca4a2515938bc8a7ec942ff90ffaadce352c357"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- fix cannot read data
-- fix actual behavior is inconsistent with the description
-- add PlayerSearch button back
+- partially support 7.0
+- Command `/pname update` currently not available
 """
