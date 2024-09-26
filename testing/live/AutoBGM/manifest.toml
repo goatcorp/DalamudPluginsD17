@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/autobgm.git"
-commit = "d965b959b13297634b8d15ca85b40097a8042b5c"
+commit = "4200303a95e3331fa6b790e47aeac0f506c442b0"
 owners = ["meoiswa"]
 project_path = "AutoBGM"
 changelog = """
