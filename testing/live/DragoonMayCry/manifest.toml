@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "9cb83a30216cf58655630ba40b059b8e05a96b32"
+commit = "9105bc46f69bebe91f45574f85d4967542dc5a94"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = '''
-- Added more debuffs that shouldn't derank you
-- BGM will fade out when leaving an instance
-- Toggling the muffled on death option will actually enable / disable it
-- Bugfixes :
-    - Dynamic BGM wouldn't transition properly into the combat state
-    - Fixed transition timings in Bury the Light
-    - Final rank wouldn't display
+- Compatibility with FlyTextFilter plugin
+- Added Subhuman
+- Added Estinien Must Die mode
+
+Known issue : ranking down while a Subhuman transition is playing may cause blank in the audio for a short time
 '''
