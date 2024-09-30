@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "f036ae234edb6124fd8d68e66533b7266cee0fdf"
+commit = "f1c2402a147df2a83ad4da39425cfc2f1dc1209d"
 owners = [
     "iv230"
 ]
 project_path = ""
-changelog = """# 1.1.0
+changelog = """# 1.1.1
+- Fixed config
+# 1.1.0
 - Added indoor reducer
  - This is meant to make discussion in indoor and crowded areas event more readable
 - Added some tooltip to main options
