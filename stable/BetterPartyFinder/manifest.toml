@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BetterPartyFinder.git"
-commit = "5287b000f3aa52cebddc083e3fe486db7bcd9378"
+commit = "574da7a8a4065bbb8b0b2a17d11cbc5f89363f57"
 owners = [
   "Infiziert90"
 ]
