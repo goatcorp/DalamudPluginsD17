@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "0dd08e94145627249b09aec3abc5404d4922041a"
+commit = "383ac89201a92bb3d394b371a937d8bb76e874d1"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
@@ -10,4 +10,8 @@ New Features:
 
 Fixed Problems:
 - Icon not showing up.
+
++ 1.9.1.0: Fix background search.
++ 1.9.2.0: Optimise world selection sorting & de-duplication.
++ 1.9.3.0: Fix hotkey to open window.
 """

@@ -1,24 +1,21 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "12fa467cabfd27d9c47cab0b5a5ff61530c2096d"
+commit = "4990b164f8c3d3c1102f4b390b5c4c4d1ec7e7ea"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.36
+# Umbra 2.2.37
 
 ## New Additions
 
-- Custom Deliveries widget: Added unique colors for the heart icons in the widget that can be configured from the Appearance tab in Umbra's settings window. These new colors are part of your color profile. (By [Bloodsoul](https://github.com/Bloodsoul))
-- Durability & Spiritbond widget: Added options to specify how both durability and spiritbond values should be calculated and displayed. Available options are: Minimum, Average and Maximum. The default values are set to the original implementation. (by [alexpado](https://github.com/alexpado)).
-- Durability & Spiritbond widget: Added options to show progress bars instead of values. (by [alexpado](https://github.com/alexpado))
-- Dynamic Menu widget: Add the ability to set a label on separators. You can now right-click a separator and click "Configure" to open a window in which you can set a label.
-- Gearset Switcher widget: Added an option to change the visual theme of the buttons in the popup header. (by [alexpado](https://github.com/alexpado))
-- Widget settings: Added a button to clear all widgets from a column in the toolbar widget's panel in Umbra's settings window. (by [alexpado](https://github.com/alexpado))
+- Added a "Hide threshold" to the FPS counter widget to automatically hide itself if the current FPS is above a set limit.
+- Added a "Label" option to the FPS counter widget for the "FPS"-text that appears next to the counter.
 
 ## Fixes & Improvements
 
-- Dynamic Menu Widget: Show custom menu name in the widgets configurator column in Umbra's settings window to make multiple instances of this type more distinguishable from one another. (by [alexpado](https://github.com/alexpado))
-- Fixed a crash that occurred when restarting umbra from the settings window.
+- Prevent an error while in Deep Dungeons due to the World Marker system attempting to access a zone while none is available.
+- Show the correct "Deep Dungeon Level" as synced level in the Experience Bar widget.
+- Whether the Sanctuary Icon is shown on the location widget no longer relies on your character having Glamour abilities unlocked.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

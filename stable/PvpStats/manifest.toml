@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
+commit = "c8d2352ce83f8128143697116f58f2f5d6abc345"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Adds a progress bar to tracker windows during refreshes.
+* Added player table to Frontline tracker.
+* Added Damage to PCs and Damage to Other columns to Frontline job table.
+* Reworked auto player links for performance.
 """
