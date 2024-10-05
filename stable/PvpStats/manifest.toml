@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "c8d2352ce83f8128143697116f58f2f5d6abc345"
+commit = "f13d762e5358f658729e676a60f200a1c3130ba0"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added player table to Frontline tracker.
-* Added Damage to PCs and Damage to Other columns to Frontline job table.
-* Reworked auto player links for performance.
+* Fixed Frontline player and job tab filters not persisting.
+* Fixed player link settings not being used.
+* Rival Wings match guards now updates the button text.
+* Added /lastmatch command to open the match details window of the most recent match of any game mode.
 """
