@@ -1,18 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "cdef127a1bf446a37f1cbc9457fd7549b05e139b"
+commit = "61f44f86434fbd2fb899c64ba576f7781c4a9938"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.38
-
-## New Additions
-
-- Added an experience bar background to the gearset switcher widget. (By [alexpado](https://github.com/alexpado))
+# Umbra 2.2.39
 
 ## Fixes & Improvements
 
-- Fixed a couple of deprecations in de codebase.
+### Gearset Switcher
+- Progressbar now properly scale with the global UI Scale (By [alexpado](https://github.com/alexpado))
+
+### Durability Widget
+- Progressbar now properly scale with the global UI Scale (By [alexpado](https://github.com/alexpado))
+- Better layout for margins in split mode, which allow better scaling, too. (By [alexpado](https://github.com/alexpado))
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
