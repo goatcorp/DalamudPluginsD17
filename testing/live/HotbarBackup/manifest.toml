@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MistralsA/HotbarBackup.git"
-commit = "9eed85e47e8f71e722042fd8207920eb35f971ac"
+commit = "ce5873939e98df18f56045f2e7ad20181778abed"
 owners = [
   "MistralsA"
 ]
