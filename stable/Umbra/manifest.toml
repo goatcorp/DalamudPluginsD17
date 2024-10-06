@@ -1,21 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "4990b164f8c3d3c1102f4b390b5c4c4d1ec7e7ea"
+commit = "cdef127a1bf446a37f1cbc9457fd7549b05e139b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.37
+# Umbra 2.2.38
 
 ## New Additions
 
-- Added a "Hide threshold" to the FPS counter widget to automatically hide itself if the current FPS is above a set limit.
-- Added a "Label" option to the FPS counter widget for the "FPS"-text that appears next to the counter.
+- Added an experience bar background to the gearset switcher widget. (By [alexpado](https://github.com/alexpado))
 
 ## Fixes & Improvements
 
-- Prevent an error while in Deep Dungeons due to the World Marker system attempting to access a zone while none is available.
-- Show the correct "Deep Dungeon Level" as synced level in the Experience Bar widget.
-- Whether the Sanctuary Icon is shown on the location widget no longer relies on your character having Glamour abilities unlocked.
+- Fixed a couple of deprecations in de codebase.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
