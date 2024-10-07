@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "9c07689868cb58f74ff1a794852921f07d358523"
+commit = "f4d6304ff9337fe541906bd6b610e753dfba9ae9"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = '''
-Stable release
+- Final rank is now attributed based on total encounter uptime
 '''
