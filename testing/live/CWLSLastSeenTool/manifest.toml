@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/radax864/CWLSLastSeenTool.git"
+commit = "88750db995bc3c9998555cf29477dec373591d16"
+owners = ["radax864"]
+project_path = "CWLSLastSeenTool"
+changelog = "Version 1.0.0.1 for review for release"
