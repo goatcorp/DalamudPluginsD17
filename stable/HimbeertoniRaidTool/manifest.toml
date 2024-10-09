@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "64bcf79cd8d55d4d7248dbdfc2c6a53670280305"
+commit = "2a1d3b991284aa22be42c6cbddfe53210c14b758"
 changelog = """
-Bugfix: "Ignore gear from previous tiers" option now works correctly if last raid tier was in a previous expansion
-    Bugfix: Updating gear by examining now works again if "Automatically update own data" is disbaled"""
+New Feature: Automatically switch character in solo tab to currently logged in one
+    Bugfix: Ignoring lower ilvl gear works again"""
