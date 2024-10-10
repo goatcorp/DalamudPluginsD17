@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "07ba4060253c96725e4005844c777d6e60f73957"
+commit = "2c0e8a68b2117eec29daa422c81db4b00ffc62d4"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-IPC updated for WaitingWay. Now respects scaling.
+Now includes a setting to automatically run a Wine IPC Bridge for Linux users (if you need one).
+
+XIV On Mac users should continue to use the Wine IPC Bridge available in the XOM program settings.
+
+This change has no effect for Windows users of the plugin.
 """
