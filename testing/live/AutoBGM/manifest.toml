@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/meoiswa/autobgm.git"
+commit = "df92c1e4c9f06bec8e4915ed502660a42f52832a"
+owners = ["meoiswa"]
+project_path = "AutoBGM"
+changelog = """
+
+Version 1.0.0.0:
+ - Initial Release
+"""
