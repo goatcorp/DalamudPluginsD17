@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Jrogo7/VenueManager.git"
+commit = "410c16f7d5a3df50c57d138706f50c289e665e1c"
+owners = ["Jrogo7"]
+project_path = "VenueManager"
+changelog = "Initial submission to Dalamud plugins"
