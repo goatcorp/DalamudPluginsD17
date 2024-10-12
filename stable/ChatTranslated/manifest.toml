@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "53aa40d7e3f0d1e5538e9f467f3dedd0b70bd064"
+commit = "7a96823d1134c1f75070be13e99699f131c23b05"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
