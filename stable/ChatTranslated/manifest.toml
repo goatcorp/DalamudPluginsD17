@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "56f45d7560f101d10289f515f61e32008863c5b1"
+commit = "7d4a9fcb5014729a174fb75f6e641bd47b55bee9"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-added Yandex as backup when checking chat message language
-added chat context to prompt when using LLM
-organized code
+Fixed a bug where the main window translation would occasionally fail.
 """
 [plugin.secrets]
 cfv4 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA6pJhuSH6dczvaYeD63zu9acSslPwCOL07H3Y/I9U\nSXEwniIxuJhNXosTsVRTjAuMsJkf2H7+hqecwkWKmgz+VZZMxjDZbOdbqlgn\n6JGaH5zw0lgBjaBo5SyBVnczrQjwcGcf4m/iPKneI2SBxCZ2o7doT3TsVLZ2\nEW7s+tFBVwq4zPikZwAHya561/n3qPFfch+Hh+GwdLCs3B3+xTUhvMD/J+02\npwAOqraG\n=ytna\n-----END PGP MESSAGE-----\n"
