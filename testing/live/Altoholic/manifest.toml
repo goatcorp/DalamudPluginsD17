@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "90a7b7e5b4e90c238276acff2cd94cc2a2d56a30"
+commit = "d4bc6d96f9dc18f04560c1101542b5eddc46d81d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.13: Hildibrand, Rolequest and societal reputation progress"
+changelog = "Version 0.0.0.14: Duties progress"
