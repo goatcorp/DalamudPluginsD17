@@ -1,15 +1,25 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "8b52fd6eec34bfae78388caea84b2170da838bee"
+commit = "47346d18b78b89b2256ddc5be42965fef16e49d7"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.20"
+version = "1.7.1.0"
 changelog = """\
+This is a fairly large release, please expect some bugs
+### Added
+- Curated lists(build your own lists with whatever you want in them)
+- Added a new menu bar to the list/craft windows
+- Added more options for copying/pasting
+- Craft zone, dye count, materia count, are recipes completed and remove columns added
+- Dye count, materia count, are recipes completed filters added
+- The dye column can be configured to show stain 1/2/both
+- Added a new layout(single)
 ### Fixed
-
-- Expand the inventory scanner to cover missing currency types
-- Fix alignment issue with lists
+- The second dye will now track (thanks emyxiv)
+- Craft columns could not be edited
+- Fixed market ordering
+- The way inventory sorting is tracked should be faster
 
 """
