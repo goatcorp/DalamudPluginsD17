@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "2964fad591c1e2f341a8b58f59b890ebc88ef554"
+commit = "db56dd74abefae249b686a492b6acde7a6dc663a"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed UI overrides not working with vanilla title screens
-- Fixed crashes when used in a client without all the expansions
-- Added an option to select what title screen movie should play
-- Remember the last used directory when exporting or importing a preset to a file
+- Fixed vfx objects with multiple tracks playing every time on top of itself when you switch characters without switching presets
 """

@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "f13d762e5358f658729e676a60f200a1c3130ba0"
+commit = "c141eb72da053a849e02db8013a4d58c030ceb91"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed Frontline player and job tab filters not persisting.
-* Fixed player link settings not being used.
-* Rival Wings match guards now updates the button text.
-* Added /lastmatch command to open the match details window of the most recent match of any game mode.
+* Added player table to Rival Wings tracker.
+* Reworked refresh for most tabs. Matches are now processed asynchronously. This can reduce refresh times by up to 50%.
+* Rescaled Rival Wings color values.
+* Fixed an exception on Crystalline Conflict job and player Time On Crystal columns.
+* Fixed Rival Wings summary per minute stats not calculating properly.
+* Fix for a game crash that could occur after a Rival Wings match.
 """
