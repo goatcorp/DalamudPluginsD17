@@ -1,25 +1,15 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "47346d18b78b89b2256ddc5be42965fef16e49d7"
+commit = "83b8166c2973294dee01824de377ae124eebb9d9"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.1.0"
+version = "1.7.1.1"
 changelog = """\
-This is a fairly large release, please expect some bugs
-### Added
-- Curated lists(build your own lists with whatever you want in them)
-- Added a new menu bar to the list/craft windows
-- Added more options for copying/pasting
-- Craft zone, dye count, materia count, are recipes completed and remove columns added
-- Dye count, materia count, are recipes completed filters added
-- The dye column can be configured to show stain 1/2/both
-- Added a new layout(single)
 ### Fixed
-- The second dye will now track (thanks emyxiv)
-- Craft columns could not be edited
-- Fixed market ordering
-- The way inventory sorting is tracked should be faster
+- Fix an issue with the retainer list highlighting more than it should
+- Fix an issue causing a migration to crash
+- Fix an issue that stops "Remove from craft list" from showing in the right click menu
 
 """
