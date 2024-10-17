@@ -1,6 +1,12 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "410c16f7d5a3df50c57d138706f50c289e665e1c"
+commit = "635d14dc968feb9d3c6cc3e9d7c1ead3a2087078"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
-changelog = "Initial submission to Dalamud plugins"
+changelog = """
+
+- Fixed issues with Stats tab not loading. 
+- Added option to webserver config to not send players not in the house. 
+- Fixed building beta version. 
+
+"""
