@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "2b0a6cab956a12b1267b39e242e70ae85f5f635d"
+commit = "bd2dfd77b49eb7bd8626ce8e3ef605196f44e4c3"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- The best final rank in selected duties is saved for your character.
-- Only Dawntrail raids and trials available before 7.10, and previous expansions ultimates are currently tracked.
-- Failing a mechanic will impact your final rank.
-- Added on option to disable chat output.
-More info available on the 'How it works' window.
+Kill date was not read from stored data
 """
