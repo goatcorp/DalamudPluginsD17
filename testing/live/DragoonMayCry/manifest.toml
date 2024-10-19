@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "9c07689868cb58f74ff1a794852921f07d358523"
+commit = "bd2dfd77b49eb7bd8626ce8e3ef605196f44e4c3"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
-changelog = '''
-Stable release
-'''
+changelog = """
+Kill date was not read from stored data
+"""

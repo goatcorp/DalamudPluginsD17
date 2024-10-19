@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Drahsid/HybridCamera.git"
+commit = "03cdfaca131cf54f7a915ad140189b7c822c01c4"
+owners = ["Drahsid"]
+project_path = "HybridCamera"
+changelog = """
+- Added controller support and removed the requirement for whitelisted movement keys
+- Fixed bugs related to the first frame of movement being in the wrong movement mode
+- Removed esoteric and experimental configuration options
+"""
