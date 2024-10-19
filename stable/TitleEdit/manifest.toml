@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "db56dd74abefae249b686a492b6acde7a6dc663a"
+commit = "d9e83314ee4be29e3d35c3732e48ccdb0983d96d"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed vfx objects with multiple tracks playing every time on top of itself when you switch characters without switching presets
+- Fixed camera ignoring the zoom curve on initial load to the character select screen
+- Fixed character select camera position values being transferred to the retainer creation
+- Fixed a typo in the "Aetherial Sea" character select option
 """
