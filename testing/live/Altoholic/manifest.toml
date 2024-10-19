@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "d4bc6d96f9dc18f04560c1101542b5eddc46d81d"
+commit = "97c158addd273b1365c4d6d6f8ad8241d5e3a0d3"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.14: Duties progress"
+changelog = "Version 0.0.0.15: Fix install sql and valentione 2020 quest id"
