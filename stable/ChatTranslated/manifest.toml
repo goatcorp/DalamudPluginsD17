@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "7d4a9fcb5014729a174fb75f6e641bd47b55bee9"
+commit = "0cb7aa4d8e9f95fe570e061979b41cd484633c30"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Fixed a bug where the main window translation would occasionally fail.
+Fixed a bug where the main window translation is not shown.
+Added more accurate chat context capturing for LLM-based translations.
+Added a switch to include chat context in LLM prompt.
 """
 [plugin.secrets]
 cfv4 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA6pJhuSH6dczvaYeD63zu9acSslPwCOL07H3Y/I9U\nSXEwniIxuJhNXosTsVRTjAuMsJkf2H7+hqecwkWKmgz+VZZMxjDZbOdbqlgn\n6JGaH5zw0lgBjaBo5SyBVnczrQjwcGcf4m/iPKneI2SBxCZ2o7doT3TsVLZ2\nEW7s+tFBVwq4zPikZwAHya561/n3qPFfch+Hh+GwdLCs3B3+xTUhvMD/J+02\npwAOqraG\n=ytna\n-----END PGP MESSAGE-----\n"
