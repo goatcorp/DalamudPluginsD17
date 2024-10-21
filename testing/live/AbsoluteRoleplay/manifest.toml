@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "0b54ba1a00fb0460a8eca93c2833099da4c903b6"
+commit = "a2f15120857dbca4400f321fbf05124a126c9371"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
 changelog = "Added proper SSL connections with TLS and some quality of life changes."
