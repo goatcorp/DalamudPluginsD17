@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "c6b1975309a2a280d8b1771927d618db93d2bbf1"
+commit = "64e9a4214fff3ba6c318f17cc39430e17cd2d09a"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.16: Fix addcharacter missing bracket"
+changelog = "Version 0.0.0.17: Move things out of OnFrameworkUpdate"
