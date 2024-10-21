@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "90a7b7e5b4e90c238276acff2cd94cc2a2d56a30"
+commit = "c6b1975309a2a280d8b1771927d618db93d2bbf1"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.13: Hildibrand, Rolequest and societal reputation progress"
+changelog = "Version 0.0.0.16: Fix addcharacter missing bracket"
