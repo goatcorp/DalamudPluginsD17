@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "a2f15120857dbca4400f321fbf05124a126c9371"
+commit = "3ee53490791d14a647d8dd6bb954225dcc96e969"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
-changelog = "Added proper SSL connections with TLS and some quality of life changes."
+changelog = "Added tooltip functionality for when you hover your mouse over a player that is connected with you or is not set to private profile. Overhauled the options window."
