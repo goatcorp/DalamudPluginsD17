@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "64e9a4214fff3ba6c318f17cc39430e17cd2d09a"
+commit = "98e70da61356e45a92e175c113ee59475326df46"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.17: Move things out of OnFrameworkUpdate"
+changelog = "Version 0.0.0.18: Add Blunderville event rewards tab"
