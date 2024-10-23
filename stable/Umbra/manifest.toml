@@ -1,21 +1,16 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "1bdb912904171db5f507b8187924e72862667077"
+commit = "a2ce0d78b325c09a09d8ffebc524ecfa89988bee"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.40
-
-## New Additions
-
-- Added an option to change the display mode of the experience bar in the Gearset Switcher widget: "Never", "Hide When Full" and "Always". (By [alexpado](https://github.com/alexpado))
-- Added an option to override the color of the experience bar in the Gearset Switcher widget. (By [alexpado](https://github.com/alexpado))
-- Added an option to the Gearset Switcher that allows you to customize the width of gearset buttons in the popup.
-- Added an option to the Stacked Clocks widget to enable/disable the popup.
-- Added a "Return" action to the Teleport Widget's Miscellaneous menu.
+# Umbra 2.2.41
 
 ## Fixes & Improvements
-- Ensure the experience bar in the Gearset Switcher widget stretches across the full width of the widget. (Related Discord thread: [Gearset Switcher widget - Experience Bar](https://discord.com/channels/1263935915517149298/1292289493830991965)) (By [alexpado](https://github.com/alexpado))
+
+- Add support for GeneralAction and PvPQuickChat icons in macros (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Updated German translations (by [Bloodsoul](https://github.com/Bloodsoul)).
+- Updated Chinese translations (by [LittleNightmare](https://github.com/LittleNightmare) and [DeepseaXX](https://github.com/DeepseaXX)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
