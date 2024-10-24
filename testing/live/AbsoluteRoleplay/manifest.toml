@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "c62b07bce1fd0b99b8fb0bd55b9dfadf97d2acde"
+commit = "c87be8023d876f3f4832d26f4371ab5a7ffb5f3b"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
-changelog = "Added tooltip functionality for when you hover your mouse over a player that is connected with you or is not set to private profile. Overhauled the options window."
+changelog = "Fixed an issue with profiles not resetting on character swap. Added the ability to save and load your profile locally. Fixed some scaling issues with the ui and very large dalamud ui resolutions. Finally you can delete your profile completely Be careful <3"
+
