@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "2c9552054f8e8d9a171ee319567c3418138002b2"
+commit = "c0ae9ea575b839c6fd21ed4b437e382b326bcae3"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
-changelog = "Fixed an issue with profiles not resetting on character swap. Added the ability to save and load your profile locally. Fixed some scaling issues with the ui and very large dalamud ui resolutions. Finally you can delete your profile completely Be careful <3"
+changelog = "Fixed an issue with profiles not resetting on character swap, and profiles not loading correctly in some cases Added the ability to save and load your profile locally. Fixed some scaling issues with the ui and very large dalamud ui resolutions. Finally you can delete your profile completely Be careful <3"
 
