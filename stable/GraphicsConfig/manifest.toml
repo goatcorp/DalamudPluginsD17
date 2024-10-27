@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
-commit = "1ee125d98471a143a080ae41d6a5e632fbd195bb"
+commit = "0d2637bd1d77b954f6affba56f05780b6da29d61"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Move preset directory to PluginConfigs appdata folder to avoid stupid windows permissions stuff and fall in line with how other plugins store things."
+changelog = "- Fix a bug with the new preset location\n- Move preset directory to PluginConfigs appdata folder to avoid stupid windows permissions stuff and fall in line with how other plugins store things."
