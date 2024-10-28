@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "a6ee7bcb3029c3f57a5bc1858b7f571ebf7199d2"
+commit = "7041de7a3adb4ced2b0c2c6db2a9f4d996ddacee"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-Fixed the issue that ServerBar sometimes does not display properly
+Fixed the issue of failed multi-chara functionality
 """

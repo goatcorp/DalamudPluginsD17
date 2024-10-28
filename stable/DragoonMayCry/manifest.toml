@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "9c07689868cb58f74ff1a794852921f07d358523"
+commit = "5918785aaee1406779c324c922fe0006a9f5df54"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
-changelog = '''
-Stable release
-'''
+changelog = """
+- The time window used to determine if a GCD is dropped or clipped is now configurable. This will not affect how the final rank is calculated.
+- Added modifiers for Astrologian, Bard, Scholar, Sage and White Mage :
+    - Refreshing DoTs before they fade will grants points to the style meter
+    - Using AST cards, Scholar's energy drain, Sage's addersgall, and WHM lilies will also grant points to the meter.
+More info about those modifiers in the 'How it works' window.
+"""

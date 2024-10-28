@@ -1,15 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "83b8166c2973294dee01824de377ae124eebb9d9"
+commit = "ef4f92be8fbf130351d1dbd7154ff65ba681107e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.1.1"
+version = "1.7.1.2"
 changelog = """\
 ### Fixed
-- Fix an issue with the retainer list highlighting more than it should
-- Fix an issue causing a migration to crash
-- Fix an issue that stops "Remove from craft list" from showing in the right click menu
+- Fix an issue with the craft button
+- Fix highlighting in the free company chest not working
 
 """

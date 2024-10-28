@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
-commit = "9a3b8e4c4288a37b6ca18ae78cb9e89da1b8d887"
+commit = "0d2637bd1d77b954f6affba56f05780b6da29d61"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Fixed a bug that caused old presets to change your settings to the lowest res/windowed mode on game load if it was the last preset loaded"
+changelog = "- Fix a bug with the new preset location\n- Move preset directory to PluginConfigs appdata folder to avoid stupid windows permissions stuff and fall in line with how other plugins store things."

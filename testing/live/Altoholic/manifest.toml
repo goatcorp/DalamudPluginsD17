@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "d4bc6d96f9dc18f04560c1101542b5eddc46d81d"
+commit = "98e70da61356e45a92e175c113ee59475326df46"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.14: Duties progress"
+changelog = "Version 0.0.0.18: Add Blunderville event rewards tab"
