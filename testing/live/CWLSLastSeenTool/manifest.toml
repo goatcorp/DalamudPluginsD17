@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "f4d8ec09f91930551bf8ff2db6e16f74717915f2"
+commit = "070c1cbb1d70a01bdf7ea1973e0773afa10ae396"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
 changelog = """\
-CWLSLastSeenTool Version 1.1.0.0
+Version 1.1.1.0
 
-- Major rewrite. Tidy up main code and methods.
-- Added proper support for multiple cross-world linkshells.
-- Members no longer in the CWLS will show in red.
-- Added member count to currently selected CWLS.
+- List now shows an online count.
+- World name lookup now uses lumina.
+- Members no longer in the CWLS will now have the state Not Found.
+- Member count and offline count now ignore Not Found members.
+- Icon updated.
 """

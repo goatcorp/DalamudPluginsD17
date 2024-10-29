@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "6501dcfe0ce0a64dd6c1dd700f015b64b85473a0"
-changelog = "- Updated VoidList to support account tracking (You will not be able to see character name changes or account information)\n- Updated Whitelist to track characters by their ID"
+commit = "650eb77b41cc08c2f30fd5c4bf03cd2df978d4fe"
+changelog = "* Fixes a loading error with `VoidList` and `Whitelist`"
