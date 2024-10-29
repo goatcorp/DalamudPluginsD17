@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "c0ae9ea575b839c6fd21ed4b437e382b326bcae3"
+commit = "bed3bcde8dd9768c6c7fa8ac3320f113bc1f0571"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
 changelog = "Completely overhauled the profile creation with support for multiple profiles per character. You can now choose which character to set to specific characters in game or swap them out as you want. Added an option to disable tooltips in combat. Added auto login functionality."
