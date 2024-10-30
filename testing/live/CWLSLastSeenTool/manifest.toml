@@ -1,14 +1,10 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "070c1cbb1d70a01bdf7ea1973e0773afa10ae396"
+commit = "b84c715ca2f095fab82aa6115d523cd3cf8733b3"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
-changelog = """\
-Version 1.1.1.0
+changelog = """
+Version 1.1.2.0
 
-- List now shows an online count.
-- World name lookup now uses lumina.
-- Members no longer in the CWLS will now have the state Not Found.
-- Member count and offline count now ignore Not Found members.
-- Icon updated.
+- ImGui.BeginCombo and ImGui.BeginTable swapped over to ImRaii. Hopefully no more crashes if either element fails.
 """
