@@ -1,17 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "874335f3fa26abeef4285de4f4b3179ecd549c29"
+commit = "a34f9685f56b1aa64b48ec9e1dd04f4cd649a843"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.19.1"
+version = "1.0.19.4"
 changelog = """
-- Subscription status window no longer auto-grows forever
-- Made subscription job downloads Parallel (max 4 at a time), this
-  significantly speeds up sync time for large subscriptions.
-- Significantly improved caching of subscription macros, checking for
-  updates is now much quicker and will only fully download a macro when
-  changes have been made.
-- Limited subscription jobs to 1 at a time (to prevent getting rate-limited by github).
-- Made subscription loading spinners fancier
-- Added 'Copy URL to Clipboard' action to subscriptions
+- Adds 'favourites' to 'Insert Special Character' menu
 """

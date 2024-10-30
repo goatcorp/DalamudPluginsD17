@@ -1,8 +1,14 @@
 [plugin]
 repository = "https://github.com/anya-hichu/ChatContext.git"
-commit = "dc41f6819ce31881ceb0694a3139b200a9bd61e7"
+commit = "13e5225893d908304825081c0bbd22b7a6f83c75"
 owners = [
     "anya-hichu",
 ]
 project_path = "ChatContext"
-version = "0.0.0.1"
+version = "0.0.0.2"
+changelog = """
+  - Fix support for alliance and party chat
+  - Add title bar buttons
+  - Compact main window and reduce minimum height
+  - Add logging for lookup
+"""

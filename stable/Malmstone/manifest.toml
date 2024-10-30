@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
+commit = "86e365d62fb66baddb0481a1f0c1bbf1b7fd00f6"
+owners = ["pinapelz"]
+project_path = "Malmstone"
+changelog = """
+Stable Release! This is a plugin with features that help make Series Malmstones in PVP a better experience
+"""
+

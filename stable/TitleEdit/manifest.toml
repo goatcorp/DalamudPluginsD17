@@ -1,10 +1,12 @@
 [plugin]
-repository = "https://github.com/RokasKil/TitleEditPlugin.git"
-commit = "80d759a3f994dd6a01fbc955c4ec791aa456aaaa"
+repository = "https://github.com/RokasKil/TitleEdit.git"
+commit = "d9e83314ee4be29e3d35c3732e48ccdb0983d96d"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed new bundled presets not actually being bundled
+- Fixed camera ignoring the zoom curve on initial load to the character select screen
+- Fixed character select camera position values being transferred to the retainer creation
+- Fixed a typo in the "Aetherial Sea" character select option
 """
