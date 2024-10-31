@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "2c87c668c9c3e13a6bca8619a69063dd6540504a"
+commit = "511627e1cb6562063ea795591967a2af21c19c7a"
 owners = ["Glyceri",]
 	changelog = """
-    [1.2.0.0]
-    Now automatically copies the text of tooltips.
-    Added a Text Copy Mode. This allows you to copy text from ANY text element on the screen. (Default entry is: 'Ctrl' + 'Shift' + 'Space')
-    Text will now properly parse and no longer display '=' from time to time.
-    You can now disable metadata in copied text.
+    [1.2.0.1]
+    The outline on text elements should now be accurate.
 """
