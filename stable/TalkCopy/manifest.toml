@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "511627e1cb6562063ea795591967a2af21c19c7a"
+commit = "fa896f8330eedbf5517054d853a0d1820b6f2dba"
 owners = ["Glyceri",]
 	changelog = """
-    [1.2.0.1]
-    The outline on text elements should now be accurate.
+    [1.2.1.0]
+    By request it will now copy certain lists of text. (Think of the context menu for example)
 """
