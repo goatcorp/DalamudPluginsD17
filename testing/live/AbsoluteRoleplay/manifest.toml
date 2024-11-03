@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "af0174de3adc8d919fe1584f2e2a6133b2966bf6"
+commit = "37d4a9b91c08ac5f0c11e0ab25c0f7d4ccb8906a"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
-changelog = "Path for aggressive personality and Lawful Evil alignment images. Lock tooltip on click player option added. Tooltip positioning added for non draggable tooltiip."
+changelog = "Fixed scaling for different resolutions, disabled tooltip when in gpose and moved the report button to the right side of the profile window, away from the notes button."
 
