@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "37d4a9b91c08ac5f0c11e0ab25c0f7d4ccb8906a"
+commit = "84fa847bf06e1cf59b4f88e9d68516a18d30cdaf"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
-changelog = "Fixed scaling for different resolutions, disabled tooltip when in gpose and moved the report button to the right side of the profile window, away from the notes button."
+changelog = "Fixed tooltips to finally work properly when targeting / mousing over from one target to another. Fixed 18+ tags issue."
 
