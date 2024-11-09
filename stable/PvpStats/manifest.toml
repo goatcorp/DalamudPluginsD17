@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "d0dae497d69e586e2aeeac5caa2ab4bedb9d9d42"
+commit = "25594f4e971decfea9176070422559435d899fe0"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
@@ -11,4 +11,5 @@ changelog = """
 * Added NAND, NOR and partial match logic to the tags filter.
 * Added a function on the Matches to mass set tags.
 * Some refresh performance optimizations.
+* Fixed team filters not working on match details windows.
 """
