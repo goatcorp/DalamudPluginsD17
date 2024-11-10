@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "c6a71f2c58a3061c9448628d504a2421d80844bb"
+commit = "7f5cb903bbac636cdae44b000838c55854ccfb39"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Fix messages showing up in the wrong channel.
+Updated deepl translate.
+- (Should) improve translation quality
+- Fixed 400 error when using Chinese simplified and traditional as target language
 """
 [plugin.secrets]
 cfv4 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA6pJhuSH6dczvaYeD63zu9acSslPwCOL07H3Y/I9U\nSXEwniIxuJhNXosTsVRTjAuMsJkf2H7+hqecwkWKmgz+VZZMxjDZbOdbqlgn\n6JGaH5zw0lgBjaBo5SyBVnczrQjwcGcf4m/iPKneI2SBxCZ2o7doT3TsVLZ2\nEW7s+tFBVwq4zPikZwAHya561/n3qPFfch+Hh+GwdLCs3B3+xTUhvMD/J+02\npwAOqraG\n=ytna\n-----END PGP MESSAGE-----\n"

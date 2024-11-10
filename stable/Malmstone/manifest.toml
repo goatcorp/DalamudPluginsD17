@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "86e365d62fb66baddb0481a1f0c1bbf1b7fd00f6"
+commit = "03e77b493927d15105646aad30251ab2ab6f99c4"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-Stable Release! This is a plugin with features that help make Series Malmstones in PVP a better experience
+Bug Fix: Incorrect level shown when claiming with 2 or more extra levels (Series Malmstone 30+)
 """
-
