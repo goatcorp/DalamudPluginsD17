@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Jish2637/MountRadio.git"
-commit = "96bc1f6b6d4f8135780045b8d6f5ffca2bf35c6c"
+commit = "421e62f1d23d9dc1f00d16fca9b3c4f618021097"
 owners = ["Jish2637"]
 project_path = "MountRadio"
 changelog = "Initial Release"
