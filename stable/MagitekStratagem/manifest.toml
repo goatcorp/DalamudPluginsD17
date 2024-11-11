@@ -1,16 +1,25 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "f3e57e042c6e9a605ca44042c132f8d4f00bb6d7"
+commit = "7141c03646135158204d0bd4284fcd5a857baece"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+Version 0.7.0.2:
+- Another attempt to fix crashes during cutscenes.
+
+Version 0.7.0.1:
+- Fixed: If Tobii Game Hub is not present, the plugin isn't usable at all.
+
+Version 0.7.0.0:
+- Added: Support for Eyeware Beam Eye Tracker. Enables eye tracking with just a webcam.
+- Fixed?: Potential fix for crashes during cutscenes.
+
 Version 0.6.0.0:
-  - Fixed: Breaking change in Tobii Game Integration API in version 3.4.1 of the Tobii Game Hub
-  caused tracking of game window to fail. Plugin has switched over to the StreamEngine API.
-  - Removed: Custom Calibration. Had to rip it out to get StreamEngine working again, sorry!
+- Fixed: Breaking change in Tobii Game Integration API in version 3.4.1 of the Tobii Game Hub caused tracking of game window to fail. Plugin has switched over to the StreamEngine API.
+- Removed: Custom Calibration. Had to rip it out to get StreamEngine working again, sorry!
 
 Known Issues:
-  - Windowed mode is currently unsupported due to the change to the new API.
-  - Some entities are not returning to normal after being highlighted by raycast detection.
-  - Entities highlighted by proximity are not returning to normal after no longer being the closest.
+- Windowed mode is currently unsupported due to the change to the new API.
+- Some entities are not returning to normal after being highlighted by raycast detection.
+- Entities highlighted by proximity are not returning to normal after no longer being the closest.
 """

@@ -1,6 +1,5 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "c6e2643f610dbc1d1b7daf51eba091ea39a6be88"
+commit = "7db3022906da598c98c53c604ba21cd4c40f9ce5"
 owners = ["dit-zy", "zw3lf"]
 project_path = "ScoutHelper"
-changelog = "(patch) update instance numbers"

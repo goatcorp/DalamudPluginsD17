@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
+commit = "35e43339cd95ca712ae29b1664cb2e3542c27477"
+owners = ["Kirrana"]
+project_path = "SamplePlugin"
+changelog = "Replace crash warning string with visual glitch warning, put in stable"

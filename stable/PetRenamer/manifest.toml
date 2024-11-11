@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "24217ad0e39318e078ba49627585a8e74c88f953"
+commit = "e61677beef574388414090a39e54ab0b80976632"
 owners = ["Glyceri"]
 	changelog = """
-    [1.5.0.4]
-    Fixes IPC crash with other plogons.
+    [2.2.0.5]
+    Tentative fix for unplayable lag during extremely rare conditions.
 """

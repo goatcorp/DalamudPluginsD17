@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "3d42b5f2f54e33ad3bc2064598812078f1490a9e"
+commit = "30d86198b2435734b914566c5c51e1e4ced19893"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Fixed crash on load due to improperly-compressed preset (also the plugin should now handle that sort of thing better)
+Implemented a further fix for Bloodletter and other charge action trackers.
 """

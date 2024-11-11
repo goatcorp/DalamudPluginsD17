@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/shadowkras/NeatNoter.git"
+owners = [ "shadowkras" ]
+project_path = "src/NeatNoter"
+commit = "1002631526fa03aad9f02f2376a0c38dea5931d8"
+changelog = """
+# NeatNoter 2.6.4 (Test)
+
+## Features
+
+- Created settings to improve the visibility of the overlay windows. You can now adjust the font size and color.
+
+If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
+"""

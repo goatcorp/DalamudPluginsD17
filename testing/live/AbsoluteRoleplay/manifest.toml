@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/serifas/AbsoluteRP.git"
+commit = "84fa847bf06e1cf59b4f88e9d68516a18d30cdaf"
+owners = ["serifas"]
+project_path = "AbsoluteRoleplay"
+changelog = "Fixed tooltips to finally work properly when targeting / mousing over from one target to another. Fixed 18+ tags issue."
+

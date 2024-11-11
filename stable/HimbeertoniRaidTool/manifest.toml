@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "698f1d0adc891095461e6ff5ab911552143e6ac1"
+commit = "2a1d3b991284aa22be42c6cbddfe53210c14b758"
 changelog = """
-BiS: Add auto updates for XivGear.app (see config)
-    User Interface: Added headlines to multi item tooltips"""
+New Feature: Automatically switch character in solo tab to currently logged in one
+    Bugfix: Ignoring lower ilvl gear works again"""

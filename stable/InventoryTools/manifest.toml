@@ -1,25 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "03121694ccc9cab1e21e2581165f5a0a8850c908"
+commit = "ef4f92be8fbf130351d1dbd7154ff65ba681107e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.16"
+version = "1.7.1.2"
 changelog = """\
-### Added
-
-- Added a "Is From Fate?" filter/column
-- More data is available for the following:
-  - Desynth results of items
-  - Loot
-  - Reduction
-  - Gardening
-  - Mob Drops
-  - Submarine/Airship Drops
-
 ### Fixed
-
-- Items should now should the show the correct type of scrip for their requirements
+- Fix an issue with the craft button
+- Fix highlighting in the free company chest not working
 
 """

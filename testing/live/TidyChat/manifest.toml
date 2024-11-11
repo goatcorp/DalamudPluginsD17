@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "dce1392e51062f6698887a6df76f05e0b6f81858"
+commit = "7cfe018c603651417394b7657e1ee30bc3c081c6"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Improved debugging mode (now named \"Dry Run Mode\" and new filters (Recasting when mooching, Initialized Ready Check)"
+changelog = "Fix GC+10%, Fix LootNotice filters (again), Add toggle for displaying Party Information when joining a party"

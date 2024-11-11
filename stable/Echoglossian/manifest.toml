@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "159da5dc1ecae9490977e498e6805ba199ab8633"
+commit = "90efc2d0cbbeb8dfb5fe2a1efbb6963d1b741c8a"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.7.x - fix battleTalk dimensions calculations"
+changelog = "v3.15.x \n - fixes:\n - reworked the ChatGPT ApiKey saving so the configuration does not get corrupted preventing plugin load.\n - added internal corrupted routine that detects the player is in PvP and disables some translations to avoid stuttering."
