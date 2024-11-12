@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+commit = "efadbdad5ee70b1ba864580920b591846b8a6723"
+version = "1.6.0.21"
+owners = ["CMDRNuffin"]
+changelog = """- Reworked the general settings page
+- Added a feature to display the mount selected by the roulette in the cast bar (also works for unmodified roulettes)
+- Added a feature to choose the cast bar display of groups being mounted via /pmount (choose normal roulette, flying roulette or display mount)
+- Made /pmount a little more lenient by allowing the mount group name to be enclosed in quotes"""

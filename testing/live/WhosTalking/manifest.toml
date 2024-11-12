@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "0238d9b25503ac199b9d5fca9a6cbdddd3529d33"
+commit = "c57f8c039d83a14e06b603a7c305f8f98181feaa"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.7.2.0**
+**Version 0.8.0.0**
 
-- Fix plugin ignoring group DMs, for real this time (thanks to Asriel for the report)
+- Add an option to display all Discord users, even when they're talking (thanks to iris for implementing this)
 
-**Known issue:** the native UI indicators are invisible with certain graphical mods. This will be resolved in a future update. In the meantime, users experiencing this issue can head to the plugin settings and switch "indicator style" to "Imgui".
+I'd like this release to go to the stable channel soon. Please report any issues in #plugin-help-forum!
 """

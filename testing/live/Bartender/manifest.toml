@@ -1,12 +1,16 @@
 [plugin]
 repository = "https://github.com/AtaeKurri/Bartender.git"
-commit = "06463929c0407fecb91387dfa0e0cb0ab1f25ca3"
+commit = "dabb3046fd7da31299c645e44433e23f823cdc98"
 owners = ["AtaeKurri"]
 project_path = "Bartender"
 changelog = """
-# v1.1.0
+# v1.1.2
 
-- Hotbar slot transparency: Slots set as transparent will be ignored when loaded. Can allow for layered profiles.
-- Remove a slot by right-clicking on it.
-- New Condition "Has Status Effect".
+- Added Misc. Condition "Is Targeting".
+- Added Misc. Condition "Is Minion Out".
+- Added Misc. Condition "Is Mount Out".
+- Profiles loaded by Condition Sets now have matching colors for active and inactive.
+
+- Fixed a bug with HQ item icons not being displayed.
+- Fixed a bug with shifting slots inside hotbars.
 """

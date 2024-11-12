@@ -1,17 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "f98f5643add4dd3df896c5831bca100995d68149"
+commit = "30d86198b2435734b914566c5c51e1e4ced19893"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- Added more robust positioning options to many counter widgets. Various counters now allow you to place stacks individually.
-- Improved feature parity between bar widgets. The "Hide Full/Empty" options have been added to various bars that previously didn't include them.
-
-## ACTION TRACKERS
-- Updated a large amount of action trackers to better reflect the action's highlight state
-- Corrected an issue with auto-populating action data, which prevented actions for certain jobs from being selectable (particularly SMN, SCH, and WHM)
-- Added a condition to actions that have an MP cost. These actions will now activate a State widget if the player has enough MP to cast the action. This condition *should* account for actions whose MP costs can change (such as BLM and DRK spells)
-- Sprint has finally been added for all jobs
+Implemented a further fix for Bloodletter and other charge action trackers.
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "e21bc98f6fd0eb5628064270f462cac543be8862"
+commit = "215e1af167b225eb060b278e0ee6600b8f947b30"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.10: Fix missing condition for 0.0.0.9"
+changelog = "Version 0.0.0.20: Add unlocked duty backend, current equipped facewear and ornament (not listed yet). Fix details page facewear slot. Add old moogle trove rewards"
