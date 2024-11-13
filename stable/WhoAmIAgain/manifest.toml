@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MKhayle/WhoAmIAgain.git"
-commit = "af1c9581779e812b6d743c41d97b7278849e52ab"
+commit = "99f1e0363050bb2acbe691bb9eb71de77395a49a"
 owners = ["MidoriKami", "MKhayle"]
 project_path = "WhoAmIAgain"
 changelog = "API11 update"
