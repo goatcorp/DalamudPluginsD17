@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "03e77b493927d15105646aad30251ab2ab6f99c4"
+commit = "32f7ba23d1b2b931f748819c9dce6ce6bc7473a2"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-Bug Fix: Incorrect level shown when claiming with 2 or more extra levels (Series Malmstone 30+)
+API11 Support. Handle resetting saved Series Level after a new PVP Season
 """
