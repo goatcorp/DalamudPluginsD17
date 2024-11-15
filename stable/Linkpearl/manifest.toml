@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NotNite/Linkpearl.git"
-commit = "b8cfe9c26c24c9a3e265eed72191eacd251e5350"
+commit = "2d43449b90020548bfb2683e6caee45c9fae4910"
 owners = ["NotNite"]
 project_path = "Linkpearl"
