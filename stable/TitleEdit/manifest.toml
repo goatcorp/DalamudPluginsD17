@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "e24a5ce8760a647485b572322b9e6e82a8df2c22"
+commit = "7ac7f30945d9ab89c2fd58004f4f237276a63956"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed Dawntrail title screen music not playing when switching to title screen for chracter select
-- Added an option to not interrupt BGM when switching between screens with the same track (ON by default)
+- 7.1 and API11 update
+- When using the "Track player location" feature with "Save Eorzea time" unchecked, the plugin will use the current Eorzea time instead of midnight (thanks @Scrxtchy)
+- Added an option to use current Eorzea time instead of a predefined time in presets
+- Rewrote world layout change detection hooking to fix a rare crash
 """
