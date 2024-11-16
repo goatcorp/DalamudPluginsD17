@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "6324438f3fb2391e3fd453cf13582f8da95b8bca"
+commit = "deadd14776689544d69391e48bb3b7b8300cedbf"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-This is the first stable channel release of WTSync, a new plugin that makes it easier to do Wondrous Tails together with other players.
+* 7.1 Changes + Dalamud API11
 
-There have been no changes since the latest testing release.
+* Added a feature to select a random duty from the list of matching duties when clicking an entry in WTSync, rather than just going through them in order. Hopefully that makes reclears slightly more interesting, especially with the newer broader categories.
 """
