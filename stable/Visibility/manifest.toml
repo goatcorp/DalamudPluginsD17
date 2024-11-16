@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "6501dcfe0ce0a64dd6c1dd700f015b64b85473a0"
-changelog = "- Updated VoidList to support account tracking (You will not be able to see character name changes or account information)\n- Updated Whitelist to track characters by their ID"
+commit = "2fe7047d5c4d4345811eaf3de98764967ef6466d"
+changelog = "- Updated plugin for 7.1"

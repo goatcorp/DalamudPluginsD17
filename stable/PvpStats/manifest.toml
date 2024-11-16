@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8390edc91db59501d0d782ee5fd9e910420b5320"
+commit = "25594f4e971decfea9176070422559435d899fe0"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Reworked tracker window refresh to load each tab asynchronously and to perform incremental refreshes.
-* Re-scaled stat color values for Crystalline Conflict.
-* Added KDA to Crystalline Conflict summary.
-* Fixed team status not working for the FL/RW player filter.
+* Added Frontline Records tab.
+* Improved Crystalline Conflict Records tab refresh performance significantly.
+* Added 'By patch' as a time filter option.
+* Added relational options to the time filter when filtering by ranked season, expansion or patch.
+* Added NAND, NOR and partial match logic to the tags filter.
+* Added a function on the Matches to mass set tags.
+* Some refresh performance optimizations.
+* Fixed team filters not working on match details windows.
 """

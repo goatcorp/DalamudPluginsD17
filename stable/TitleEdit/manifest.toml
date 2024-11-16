@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "2964fad591c1e2f341a8b58f59b890ebc88ef554"
+commit = "e24a5ce8760a647485b572322b9e6e82a8df2c22"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed UI overrides not working with vanilla title screens
-- Fixed crashes when used in a client without all the expansions
-- Added an option to select what title screen movie should play
-- Remember the last used directory when exporting or importing a preset to a file
+- Fixed Dawntrail title screen music not playing when switching to title screen for chracter select
+- Added an option to not interrupt BGM when switching between screens with the same track (ON by default)
 """

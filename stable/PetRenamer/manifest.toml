@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9fb2cde217a6ff3900010b4c7c928c6f31a96cf3"
+commit = "e61677beef574388414090a39e54ab0b80976632"
 owners = ["Glyceri"]
 	changelog = """
-    [2.2.0.4]
-    Empty data will get send over IPC a lot less. (This shouldn't happen actually, I just haven't found the underlying issue yet.)
-    Made the rename window's minimum width slightly smaller so people won't hamstring themselves into not seeing the input field.
-    Added a couple tags so people will find the plugin via very specific search querries easier.
+    [2.2.0.5]
+    Tentative fix for unplayable lag during extremely rare conditions.
 """

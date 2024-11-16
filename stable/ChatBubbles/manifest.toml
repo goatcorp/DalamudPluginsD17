@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "fe803677085f3a9733177b7c842874cacb5118b1"
+commit = "3b5eff79e6689e7d2745b76b327d9e08e46546c4"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = """### 2.1.7.1
-- Confirmed fixing Atticus the Primogenitor (yeepeeeeee)
-- What is that smell?"""
+changelog = """### 2.1.7.2
+-# API11 update for patch 7.1
+-# Sent the code to Square Enix for vanilla chat bubbles in patch 7.2"""

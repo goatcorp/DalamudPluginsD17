@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "55bc26ba196e756c686de0d4738e32e2f5a90635"
+commit = "1a920942a05a8a7d80a448f72ad38cdf74c7b423"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Removed bot stop/start on logout/login events. It seems this was causing some issues.
+Sets the bot to idle when game is launched or logged out. Sets the bot to online when a character is currently logged in.
 
-The plugin will also now cache LocalPlayer on every Framework ticket instead of only on Login events. That should help with LocalPlayer resolutions showing up as null when they shouldn't be.
+This may behave strangely for users who are sharing their bot token. (Don't do that.)
 """

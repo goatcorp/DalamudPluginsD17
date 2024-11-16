@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Noevain/VoiceDirector.git"
+commit = "70fc1afd3c3e287ad0277d57a2d1df0812eeb3a8"
+owners = ["Noevain"]
+project_path = "VoiceDirector"
+changelog = "Search is not case sensitive anymore"

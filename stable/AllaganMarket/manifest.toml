@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "2b8d80b83b6760ad12a224d922029a772a3ae15e"
+commit = "57bf2469ae878c5d3f95c38cc190f9128a8fe40d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.0.0.6"
+version = "1.0.0.7"
 changelog = """\
 **Fixes**
-- Fixed an issue where old prices would still persist even if they were no longer applicable.
-- You should no longer be notified of a previous valid undercut that is now no longer valid(notifications are queued so they are re-evalulated at the time of sending)
+- The order in which items were assumed to be listed was not taking HQ items into account leading to incorrectly highlighted entries
 """
