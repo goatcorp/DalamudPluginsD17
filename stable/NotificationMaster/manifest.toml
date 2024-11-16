@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/NightmareXIV/NotificationMaster.git"
 # The commit to check out and build from the repository.
-commit = "8edbc8426faef0651caabbcf2e62469709b01750"
+commit = "5462ce2503313b5faff93923387e8fbb2fb61d3b"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Limiana"
