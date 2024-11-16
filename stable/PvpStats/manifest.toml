@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "25594f4e971decfea9176070422559435d899fe0"
+commit = "251da2efa624329a07ebee7d1e85ec542396c5d5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added Frontline Records tab.
-* Improved Crystalline Conflict Records tab refresh performance significantly.
-* Added 'By patch' as a time filter option.
-* Added relational options to the time filter when filtering by ranked season, expansion or patch.
-* Added NAND, NOR and partial match logic to the tags filter.
-* Added a function on the Matches to mass set tags.
-* Some refresh performance optimizations.
-* Fixed team filters not working on match details windows.
+* Updated for api11 and game patch 7.1.
+* Added Rival Wings Records and Jobs tabs.
+* Refresh performance optimizations.
 """
