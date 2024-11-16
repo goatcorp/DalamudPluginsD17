@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/lmcintyre/ResLogger2.git"
-commit = "5b01d213b5165ba38401c8be44e79fddcd39affd"
+repository = "https://github.com/perchbirdd/ResLogger2.git"
+commit = "8f02811ef188c5fabf31f300aaea8d0f413bbd39"
 owners = [
-    "lmcintyre",
+    "perchbirdd",
 ]
 project_path = "ResLogger2.Plugin"

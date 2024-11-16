@@ -1,6 +1,7 @@
 [plugin]
-repository = "https://github.com/Xpahtalo/DutyTracker.git"
-commit = "33e1398e3ba0bb375ef10bef5fd03916b9c95be2"
-owners = ["Xpahtalo"]
+repository = "https://github.com/Infiziert90/DutyTracker.git"
+commit = "06050aaf67c2b7abcaa3dfbe841a92489c33b9ef"
+owners = [
+  "Infiziert90"
+]
 project_path = "DutyTracker"
-changelog = """Fix for possible crash to desktop on wipe."""

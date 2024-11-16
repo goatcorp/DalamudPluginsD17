@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "915f3a0bf87f93a09c8beab02b3e939438d75345"
+commit = "fa896f8330eedbf5517054d853a0d1820b6f2dba"
 owners = ["Glyceri",]
 	changelog = """
-    [1.0.0.0]
-    Updated for ApiX
+    [1.2.1.0]
+    By request it will now copy certain lists of text. (Think of the context menu for example)
 """

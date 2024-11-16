@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "854cc090a497295b4786027ca1941a112d32afd6"
+commit = "25594f4e971decfea9176070422559435d899fe0"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed a bug where players from new Dynamis worlds would be added as extra players.
-* Rival Wings tracking (v2.0.0.0)
-* Frontline Battle high tracking (v2.0.3.0)
-* Other UI improvements (v2.0.4.0)
+* Added Frontline Records tab.
+* Improved Crystalline Conflict Records tab refresh performance significantly.
+* Added 'By patch' as a time filter option.
+* Added relational options to the time filter when filtering by ranked season, expansion or patch.
+* Added NAND, NOR and partial match logic to the tags filter.
+* Added a function on the Matches to mass set tags.
+* Some refresh performance optimizations.
+* Fixed team filters not working on match details windows.
 """

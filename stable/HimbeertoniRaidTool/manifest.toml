@@ -2,9 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "e97f7ffb214eab010be740b4c3417c303fe6eaeb"
+commit = "2a1d3b991284aa22be42c6cbddfe53210c14b758"
 changelog = """
-General: Updated for 7.0
-    BiS: Automatically converts non existent etro sets to local sets
-    Known Issue: Item categorization and raid infos will be amended once available
-    Known Issue: Stat calculations (e.g. HP) are most likely not correct yet"""
+New Feature: Automatically switch character in solo tab to currently logged in one
+    Bugfix: Ignoring lower ilvl gear works again"""

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "2b5b963640e323ac5eb8a7a116fdab99236b6df7"
+commit = "82a2fc7ad992f779f4fa1ef774bc7f1b60bc9888"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
-changelog = "net8 & IContextMenu update"
+changelog = "Added multi-language mode: Choose which language's item name to copy when opening the context menu."

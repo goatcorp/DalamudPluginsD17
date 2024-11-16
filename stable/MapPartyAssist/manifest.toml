@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "834f13a9c1cddf820cadbbe46f8fbb56125ffddf"
+commit = "6876c964d9e6263976cd606cfba5a71f362496eb"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Failed price check bug fix.
+* Adds a context menu option to announce a player's map link in party chat.
+* Adds a context menu option to restore a player's previous map link.
 """

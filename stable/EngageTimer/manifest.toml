@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "1cf2e08b5837cdc7cbd7a1a92ae6b45a9c477af3"
+commit = "870a38f916b3c02918460c48d88185e088fb85f6"
 owners = ["xorus"]
 changelog = """\
-- Fix not being able to disable alarms
-- Missing translation strings in web server config
-- Hide floating window border by default (you can re-enable it in Floating Window -> styling)
+- Option to hide the stopwatch/floating window in cutscenes
+- Enabling light effect animation would show an error texture and required a plugin restart to be loaded properly 
 """

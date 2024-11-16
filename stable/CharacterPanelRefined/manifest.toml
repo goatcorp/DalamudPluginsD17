@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "9a3d86cbcb55c0908e502871b9fcc54b8c5da70e"
+commit = "270fca12a588f18c6bc9f1c6a34480a7ec56090a"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-Update for 7.0
+- Tenacity is now split between provided damage increase and mitigation
+- Updated some 7.0 math
 """

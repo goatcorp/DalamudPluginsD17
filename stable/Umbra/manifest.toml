@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "8bd47b4e0de7b95062340cd49eace1359f22ac19"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+# Umbra 2.2.42
+
+## New Additions
+
+- WorldNameWidget: Add toggleable data center label (by [Drakime](https://github.com/Drakime)).
+
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
+"""

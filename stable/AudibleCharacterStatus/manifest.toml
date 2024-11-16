@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Arrenton/AudibleCharacterStatus.git"
-commit = "a497b6cb09157ef3a15ec88559ea817ce3c463f7"
+commit = "ec1f35d9981b22ebdd841bd226242da32708b14b"
 owners = [
     "Arrenton",
 ]
 changelog = """
-Updated for API 9.
+Updated for API 10.
+Added support for OGG files.
+Added an error message for when there's an issue with a file.
 """

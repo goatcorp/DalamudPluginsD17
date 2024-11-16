@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "f0669026d89d614f9b1e7d9a6e3d983eee8f781b"
+commit = "bda9fd3d0696e9f50407f1dc2e8ad658260a5843"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Add additional logging to help with troubleshooting errors
+- Fixed issue where players without titles would show as having an empty title if the "Only color FC tag" option is enabled
+- Updated error handling for the rest of FCNC to continue working if the character can't be found on Lodestone due to them being new or set to private
 """

@@ -1,16 +1,20 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "6518fc74efaaab592b114845e270fc0f6d17ce97"
+commit = "c57f8c039d83a14e06b603a7c305f8f98181feaa"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.11.0**
+**Version 0.8.0.0**
 
-Now supports Dawntrail!
+I forgot to push an update to the stable branch for two months. Oops!
 
-Also:
-- Added a warning if you're using an unsupported Discord client
-- Hopefully fixed error spam in Delubrum Reginae (Savage)
-- Modified the sizing of the config window to accomodate power users
-- Tweaked various text to be less misleading
+The major change in this version is support for rendering voice activity indicators with the game's native UI toolkit ("ATK"), so windows that cover up the party list don't get coloured boxes drawn on top of them. You can enable this in the plugin settings; there are still a couple of minor bugs and oddities – for example, certain UI mods make the ATK-rendered indicators invisible – so it's opt-in for now.
+
+There are also two new options, both implemented by iris (thanks!):
+- Non-rounded voice activity indicators, useful for users of certain graphical mods (only works with ImGui rendering)
+- Toggle to display all Discord users all the time, even when they're not talking
+
+Fixes:
+- Preview icons in settings window now scroll properly (thanks to @foophoof for the report)
+- Group DMs now actually work, for real this time (thanks to Asriel for the report)
 """

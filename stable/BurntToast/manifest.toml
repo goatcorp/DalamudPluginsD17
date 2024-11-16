@@ -1,7 +1,6 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = 'e67fe152aaec27f0b882d9e61f081586387bf458'
+commit = 'ec82f40fca072da2ecb6a12c4f9e6994c7cd6d5c'
 owners = [ 'Xpahtalo' ]
-changelog = """Updated to 7.0!
-History menu implemented so you can select your toasts to add to your filters.
-Fixed a bug that deleting filters sometimes wouldn't save."""
+project_path = "BurntToast"
+changelog = """Fix BattleTalk bug."""

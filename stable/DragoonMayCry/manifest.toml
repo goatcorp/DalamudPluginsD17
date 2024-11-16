@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Felscream/DragoonMayCry.git"
+commit = "46b0e955f902dfc915b35996ad6631eba76a83e3"
+owners = ["Felscream"]
+project_path = "DragoonMayCry"
+changelog = """
+- Announcer randomization
+- Rank display scaling
+- Displayed duties names in the character's record window are localized with the client's language
+"""

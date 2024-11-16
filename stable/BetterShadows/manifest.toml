@@ -1,17 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "b50bbea2f9bf71ed5b9fa7b0fbfb7fe20111539d"
+commit = "835a7bc994d95f74c6b7a6bf3f06c8d27092973c"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Updated for API10/7.0
-- Dynamic Light Shadow Maps now supported
--- Shadow Map support is greatly increased, but keep in mind that this also means that you may see higher vram usage
-- Shadow Cascade Settings now support the fifth cascade which was introduced in 7.0
--- Adjusted all presets to account for the new cascade
--- Reimplemented Long Distance (16k) preset
--- Added Compromise (16k) preset
--- Note that you may need to adjust your personal cascade settings due to this change
-- Reorganized configuration window
+- Made the appearance of shadows behave correctly when using "Strongest" shadow softening setting. Note that the "Strongest" shadow softening setting has vanilla bugs which may be more pronounced at higher shadowmap resolutions.
+- Added option to Dynamically adjust shadow cascade distances based on the original game values, and the resolution of the global shadowmap. This is toggled on by default, since most people were not using the per-territory cascade settings. This should naturally make shadows appear at greater distances, with higher quality.
 """
 

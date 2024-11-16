@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "49c2f2cb1d082f71e49c30796cec7161f6492199"
+commit = "4864123224a95ca0a687a13757d3cfad84db056c"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Compatibility with FFXIV 7.0 / Dalamud API X"
+changelog = """\
+- Limit the listing count and make it and the history count configurable\
+"""

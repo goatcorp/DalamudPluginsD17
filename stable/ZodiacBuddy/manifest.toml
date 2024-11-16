@@ -2,5 +2,4 @@
 repository = "https://github.com/MidoriKami/ZodiacBuddy.git"
 owners = [ "daemitus", "MidoriKami" ]
 project_path = "ZodiacBuddy"
-commit = "770dfcf2f5298771323e7e0f5347ba8282beacdc"
-changelog = ""
+commit = "2e3dc4bfa2f64896bc6aa991eb4b355b97b5ef04"
