@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "7729ac8771f4acb83e7488e3d63d84faa2b0bfc3"
+commit = "f03fda988c61b14240e0c2679a0f96aca8c5636a"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Update to API 11
+- Fix exception spam on first launch before login
 """
