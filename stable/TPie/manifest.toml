@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "7c4e96c75e9b78d7920419c6ff1453bb171de558"
+commit = "1ff8c14f516a9ddaea6f74652707376628aecca4"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added setting to Nested Ring Elements so they can be activated by clicking instead of hovering."
+changelog = "- Added support for Patch 7.1 and Dalamud API 11."
