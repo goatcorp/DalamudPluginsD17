@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "8590a50e3a1bf5c3ee0afcbdd88d8aba32dce70a"
+commit = "9b73eb9d7ce41e1934085b25519dba4ce92e5ecc"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Displays distance units as meters now instead of yalms in the Japanese-language client in order to match tooltips.
+- Updated for Dalamud API 11 and .net 9.
+- Please note that arcs (both boss aggro and custom) are not currently being drawn on-screen.  Please do not submit feedback about this known issue.  The Dalamud API function for converting world coordinates to screen coordinates is behaving differently than before patch 7.1.  Depending on whether that is intentional, a future plugin update may be required to address this once the dust has settled.  You can still enable the boss aggro distance text widget if desired.
 '''
