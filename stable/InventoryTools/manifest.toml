@@ -1,14 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ef4f92be8fbf130351d1dbd7154ff65ba681107e"
+commit = "160d5b81de30d0fdd7ec47b191630912bd44e9fd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.1.2"
+version = "1.11.0.0"
 changelog = """\
-### Fixed
-- Fix an issue with the craft button
-- Fix highlighting in the free company chest not working
+### The Lumina Rewrite
+- With support for API11 comes a rewrite of AT's data layer that was required due to lumina changes(how we access the game's sheet data)
+- There will definitely be some broken things and changes with how the sources/uses are displayed/used in craft lists so please bear with me
+- Sources and uses will generally be more detailed now and hovering over them will provide you with seal costs/rewards/etc
+- Memory/load time improvements, I've seen as little as 100MB not factoring in lumina's own caches, I've seen it load in under 2-3 seconds now too
+- Any bugs, please jump on the xivlauncher discord or from AT's menu hit File -> Report a issue
 
 """
