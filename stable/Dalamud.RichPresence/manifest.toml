@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "9eb39c7969c883babd0d1403e717f813b9dab6f7"
+commit = "45023ed66f17f5954df95657a1e045c3848873c0"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-Updated for API 11. 
+Updated for API 11, now with fixed region images (hopefully).
 
 Please report if you use a non-English client language and AFK status doesn't work.
 """
