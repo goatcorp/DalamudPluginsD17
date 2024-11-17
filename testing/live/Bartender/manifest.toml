@@ -1,16 +1,10 @@
 [plugin]
 repository = "https://github.com/AtaeKurri/Bartender.git"
-commit = "dabb3046fd7da31299c645e44433e23f823cdc98"
+commit = "cccb027b4b0e0335451545b98148b6be3d6961f7"
 owners = ["AtaeKurri"]
 project_path = "Bartender"
 changelog = """
-# v1.1.2
+# v1.1.3
 
-- Added Misc. Condition "Is Targeting".
-- Added Misc. Condition "Is Minion Out".
-- Added Misc. Condition "Is Mount Out".
-- Profiles loaded by Condition Sets now have matching colors for active and inactive.
-
-- Fixed a bug with HQ item icons not being displayed.
-- Fixed a bug with shifting slots inside hotbars.
+- Push for 7.1
 """
