@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "d70f664d33cb7fcbba2bfe97edc8487e864f3b9f"
+commit = "06ffc2ee85332d219002375e8b197ded5cc9d4c4"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for Dawntrail"
+changelog = "Update for 7.1"
