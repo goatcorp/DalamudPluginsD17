@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6ee8d4d5ce7301abbdb310af101c4aab35fca621"
+commit = "51d4ca43dd36102ed4548c746bdb82437fe133f5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.22: Api11 and 7.1 data"
+changelog = "Version 0.0.0.23: Double dyes on gear tooltips, retainer all items gil fix (thanks Felicity)"
