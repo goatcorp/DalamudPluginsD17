@@ -1,9 +1,17 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "4a61d952b631edc27e2ba86b6788060d4f3196a2"
+commit = "383ac89201a92bb3d394b371a937d8bb76e874d1"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
-v1.6.0.0
-Changelog is available via the `Changelog` button on the Config Window.
+v1.9.0.0
+New Features:
+- Add more options for world selection.
+
+Fixed Problems:
+- Icon not showing up.
+
++ 1.9.1.0: Fix background search.
++ 1.9.2.0: Optimise world selection sorting & de-duplication.
++ 1.9.3.0: Fix hotkey to open window.
 """

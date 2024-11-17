@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bee6b2d2a4ef5b735cf49730a9228ecb20819f3d"
+commit = "160d5b81de30d0fdd7ec47b191630912bd44e9fd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.8"
+version = "1.11.0.0"
 changelog = """\
-**Allagan Tools 1.7.0.8**
-- Tooltips are back in action
+### The Lumina Rewrite
+- With support for API11 comes a rewrite of AT's data layer that was required due to lumina changes(how we access the game's sheet data)
+- There will definitely be some broken things and changes with how the sources/uses are displayed/used in craft lists so please bear with me
+- Sources and uses will generally be more detailed now and hovering over them will provide you with seal costs/rewards/etc
+- Memory/load time improvements, I've seen as little as 100MB not factoring in lumina's own caches, I've seen it load in under 2-3 seconds now too
+- Any bugs, please jump on the xivlauncher discord or from AT's menu hit File -> Report a issue
+
 """

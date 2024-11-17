@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "c5f4959baa1fd0e1b3343e81e8119850140950ce"
+commit = "0292519f4ca7a619b9b99df0b90fa122e6e92c90"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.1.5
-- Added Progress Bar
-- Tool Tip UI improvements
-- Job selector buttons changed: left click to switch, right click to toggle
+Collections v1.0.2.0
+Updating for Dawntrail
+- API X support
+- Adding PCT and VPR
+- Update dye system to target 1st slot (need to follow up to support 2nd slot)
 """

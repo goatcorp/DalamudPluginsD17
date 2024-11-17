@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "20b56cd66c2aa814179c21a967d17361220980ee"
+commit = "7b4288160555d65dd798cbb54fa3a7a100f4df57"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Revert to a boxed letter icon in context menus"
+changelog = """\
+- Update to API 11\
+"""

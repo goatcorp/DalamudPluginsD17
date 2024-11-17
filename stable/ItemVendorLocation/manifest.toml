@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "4cb474aecf52f64955f0a20cad7cbdf8f4bed614"
+commit = "c942d0e89a1402a7f80e96ff712681e12ec0bd17"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix IPC exception on dispose (Infiziert90)
-- Fix loading error for users that are on free trial or missing corresponding expansions, thank you Araiguma (Nuko)
+- Update scrip mapping for DT by Orphis
 """
-version = "2.6.0.1"
+version = "2.7.1.0"

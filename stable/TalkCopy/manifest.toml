@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "6b5a217084e94167e836afa2f8bc827971fc955d"
+commit = "fa896f8330eedbf5517054d853a0d1820b6f2dba"
 owners = ["Glyceri",]
 	changelog = """
-    [1.1.0.1]
-    The settings menu now... works c:
+    [1.2.1.0]
+    By request it will now copy certain lists of text. (Think of the context menu for example)
 """

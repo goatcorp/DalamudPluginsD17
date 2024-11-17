@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "0880b0db6552568e513865d4877b8ed933c17adc"
+commit = "c2ea32eba9662a9f63af694d32d2af66f8384a88"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for API10 (thanks Ania!)
+- **General**: Updates for API 11 (thanks aniachan!)
 """

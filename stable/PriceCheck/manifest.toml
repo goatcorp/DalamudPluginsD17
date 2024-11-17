@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/kalilistic/PriceCheck.git"
-owners = [ "kalilistic" ]
-project_path = "src/PriceCheck"
-commit = "ef617c57372314ef31e84286d7330568a54172a5"
+owners = ["kalilistic"]
+project_path = "PriceCheck.Plugin"
+commit = "e950dca174e8cf447b175234b06040385cc593b4"

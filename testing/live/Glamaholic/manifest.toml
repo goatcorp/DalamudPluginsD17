@@ -1,0 +1,14 @@
+[plugin]
+repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
+commit = '8b16ee85dd9cba212bfa39ff28566eb2afeb86ce'
+owners = [ 'caitlyn-gg' ]
+changelog = """
+**Bug Fixes**
+- Fixed a bug related to plugin interop that could occasionally cause a crash when used.
+
+**New Features**
+- Added "Mass Import" for Eorzea Collection.
+- Added dye list + copy for Glamaholic plates.
+
+For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
+"""

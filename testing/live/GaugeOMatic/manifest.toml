@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "785b1225e2e70f85bc4cedfc380f93b9393556aa"
+commit = "30d86198b2435734b914566c5c51e1e4ced19893"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Status effects cast by the player's pet (such as Carbuncle's Radiant Aegis) are now tracked properly
-- Label text on the Beast Bar and Oath Bar widgets will now fade out correctly whenever the bar is hidden
+Implemented a further fix for Bloodletter and other charge action trackers.
 """

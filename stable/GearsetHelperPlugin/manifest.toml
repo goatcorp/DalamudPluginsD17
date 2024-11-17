@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/GearsetHelperPlugin.git"
-commit = "38a490044f346ac901e177e3bbfed48cf6c5d7d0"
+commit = "6a85a6c2e86529695bf62c8a64977e52aa5dc6a7"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = "GearsetHelperPlugin"
 changelog = """
-- Updated for 7.0 / apiX.
-- Added a notice to the Calculated section that math hasn't been updated for Dawntrail and may be inaccurate.
-- Fixed errors in calculating average item level with some jobs and gear pieces.
-- Fixed error in how base stats were calculated.
+Update for 7.1 and Dalamud API 11.
 """

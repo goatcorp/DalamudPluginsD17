@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/ItemUse.git"
+commit = "555f3e8c478b0bdfc1bf9eb285446a6456d5a551"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "ItemUse"
+changelog = '''
+- Icons for coffer jobs have been moved into the item description.
+- Added optional highlighting of the text "Crafting Material" and "[Suitable for display in aquariums tier X and higher.]" in item descriptions.
+- The player's grand company is now determined automatically when displaying the GC icon.
+'''

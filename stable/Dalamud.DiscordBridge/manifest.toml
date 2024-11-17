@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "7c94d2265439da50674024cac45d49c49f5e3dfc"
+commit = "1a920942a05a8a7d80a448f72ad38cdf74c7b423"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Updated for API 10.
+Sets the bot to idle when game is launched or logged out. Sets the bot to online when a character is currently logged in.
+
+This may behave strangely for users who are sharing their bot token. (Don't do that.)
 """
