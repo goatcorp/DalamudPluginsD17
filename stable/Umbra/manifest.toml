@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "8bd47b4e0de7b95062340cd49eace1359f22ac19"
+commit = "3f9e3f9596d254374510944ef66df70c660db638"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.42
+# Umbra 2.3.0
 
-## New Additions
-
-- WorldNameWidget: Add toggleable data center label (by [Drakime](https://github.com/Drakime)).
+Umbra has been updated for **Patch 7.1**.
+Custom plugins should be recompiled against this (2.3) version of Umbra before they can be used again.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
