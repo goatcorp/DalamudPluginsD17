@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "438909f7e92556ed62eee0ad92aca5cd7286ff8f"
+commit = "b0ae61de9faec9b31bd656a3a017377f0fcd96a2"
 owners = ["Tischel"]
 project_path = "TPie"
 changelog = "- Fixed Action items not appearing in the rings when on certain jobs."
