@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "7ac7f30945d9ab89c2fd58004f4f237276a63956"
+commit = "e5ba1b81feb48d51ec89c4a441b670c36ce4d26c"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- 7.1 and API11 update
-- When using the "Track player location" feature with "Save Eorzea time" unchecked, the plugin will use the current Eorzea time instead of midnight (thanks @Scrxtchy)
-- Added an option to use current Eorzea time instead of a predefined time in presets
-- Rewrote world layout change detection hooking to fix a rare crash
+- Updated the BGM google sheets link
+- Updated the included BGM csv
+- Fixed load issue when trying to migrate from an old V2 install with corrupted presets
 """
