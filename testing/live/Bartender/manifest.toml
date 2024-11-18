@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/AtaeKurri/Bartender.git"
 commit = "cccb027b4b0e0335451545b98148b6be3d6961f7"
-owners = ["AtaeKurri"]
+owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
 # v1.1.3
