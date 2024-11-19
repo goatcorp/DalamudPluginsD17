@@ -1,14 +1,10 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "f1c2402a147df2a83ad4da39425cfc2f1dc1209d"
+commit = "3ec5ff2f91a3b94b7853c05c456c63c4239765cb"
 owners = [
     "iv230"
 ]
 project_path = ""
-changelog = """# 1.1.1
-- Fixed config
-# 1.1.0
-- Added indoor reducer
- - This is meant to make discussion in indoor and crowded areas event more readable
-- Added some tooltip to main options
+changelog = """# 1.1.2
+- Bump do Dalamud API 11 (FFXIV 7.1)
 """

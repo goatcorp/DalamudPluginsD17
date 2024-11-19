@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "d70f664d33cb7fcbba2bfe97edc8487e864f3b9f"
+commit = "5f886140e79a14954f4cfd1ef3213235ed2df956"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for Dawntrail"
+changelog = "Consider game won when all safe cells revealed, even if not all mines are flagged (thanks cheege)"

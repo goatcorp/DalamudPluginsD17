@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "e7038a106d128f68084225f20d71689e563062e6"
+commit = "9c7daefbdda79b39b763f42112ab9116dd2089b0"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Add support for Turtle Scouter coordinates"
+changelog = "update for patch 7.1, dalamud api11"

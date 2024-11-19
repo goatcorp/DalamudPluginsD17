@@ -1,14 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ef4f92be8fbf130351d1dbd7154ff65ba681107e"
+commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.1.2"
+version = "1.11.0.1"
 changelog = """\
 ### Fixed
-- Fix an issue with the craft button
-- Fix highlighting in the free company chest not working
+- The plugin will now use the dalamud language instead of english
+- Stopped certain gathering points from showing up that had bad data
+- Tooltips were tweaked and should now show properly
+- Shared models within the Item Window is back
 
+### Added
+- Added item uses: Chocobo Item, Indoor Furnishing
+- Added item sources: Achievement
 """
