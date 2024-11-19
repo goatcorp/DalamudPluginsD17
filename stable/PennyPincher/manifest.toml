@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "935940c623baf2512254eee9638192ea4f7bb202"
+commit = "d90bbf9bf76be1d0a26aa7e2819e790097b4a725"
 owners = [
     "tesu",
 ]
-changelog = "bump API version"
+changelog = "fix retainer detection bug"
