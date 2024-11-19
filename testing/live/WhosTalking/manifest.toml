@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "c57f8c039d83a14e06b603a7c305f8f98181feaa"
+commit = "ae6bfc5b9c7776b09abb2a51e16e755f9025608f"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.0.0**
+**Version 0.8.1.0**
 
-- Add an option to display all Discord users, even when they're talking (thanks to iris for implementing this)
+Updated for patch 7.1.
 
-I'd like this release to go to the stable channel soon. Please report any issues in #plugin-help-forum!
+**Request for testing:** please enable ImGui indicators in the Who's Talking settings, then try Who's Talking in an alliance raid, and check whether indicators are drawn correctly for the other alliances (they should be drawn around the entire job icon). Ping @sersorrel or report in https://discord.com/channels/581875019861328007/1260701371846365246 with results! (Screenshots are ideal.)
 """
