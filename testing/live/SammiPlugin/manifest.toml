@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/HatTheTurtle/SAMMIWebhookPlugin.git"
-commit = "be4c8cafd2f2bccb29254095027ee08c5461e093"
+commit = "a47f374fa5a6d61babe4a05482ea186d478ee559"
 owners = ["HatTheTurtle"]
 project_path = "SammiPlugin"
 changelog = "Update for Dalamud API 11, added support for basic condition information"
