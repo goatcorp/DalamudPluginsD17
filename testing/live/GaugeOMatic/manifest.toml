@@ -1,14 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "7c8e6f4fba391af523bbf818b72c66472e11a167"
+commit = "32ef4b60a29afbe6dddd486d07e6b0b93416da38"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Updated for 7.1 / api11
-- Corrected Living Muse cooldown length when below level 96
-- The `Oath Sigil` widget now respects the option to hide the wings
-- Updated Chakra Gauge Tracker to account for 10 chakras
-- Fixed SMN's Attunement trackers to show time in seconds instead of in milliseconds
-- Attempted fix for an issue wherein the plugin failed to track highlighted actions with adjusted IDs (for example, Chaotic Spring)
+- Added audio options for GaugeBar widgets. A chosen sound effect can now play when the bar value increases to (or drops below) a custom threshold.
+- Added free positioning control options to the `Parameter Glow` widget.
 """
