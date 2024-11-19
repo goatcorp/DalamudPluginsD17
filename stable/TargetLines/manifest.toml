@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "df0fe72bb40bf727798d6359a37f3701d7b21168"
+commit = "ace8a361a49c219f6cd70cdc82b4ec77040c8182"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
 Bug fixes:
-- Fixed issue where either the fallback line or a null line would be visible when no filter was matched
-
-Enhancements:
-- Added the ability to add a "Focus Target" filter to the line filter settings, allowing the user to visualize their focus target.
+- Fixed issue where focus target lines would repeatedly play dying animation when the player died
+- Fixed issue where resetting to default wouldn't always update the filters
 """
 
