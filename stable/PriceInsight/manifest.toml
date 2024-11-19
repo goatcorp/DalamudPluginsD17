@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "915f4597a5baea93d07431c287d6ab29f3be92ee"
+commit = "3c2a04ebfb2b4982db37599c507ef8515cfd5235"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Enable new Universalis API for everyone
-- Fetch item prices whenever player or retainer inventory is opened
+- Update for patch 7.1
 """

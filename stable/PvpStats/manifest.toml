@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "9ff6bb3ee3528bb3882c1a2ebad95c9569910cc5"
+commit = "251da2efa624329a07ebee7d1e85ec542396c5d5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Adds a progress bar to tracker windows during refreshes.
+* Updated for api11 and game patch 7.1.
+* Added Rival Wings Records and Jobs tabs.
+* Refresh performance optimizations.
 """

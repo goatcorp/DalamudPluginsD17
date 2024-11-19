@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8390edc91db59501d0d782ee5fd9e910420b5320"
+commit = "c141eb72da053a849e02db8013a4d58c030ceb91"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Reworked tracker window refresh to load each tab asynchronously and to perform incremental refreshes.
-* Re-scaled stat color values for Crystalline Conflict.
-* Added KDA to Crystalline Conflict summary.
-* Fixed team status not working for the FL/RW player filter.
+* Added player table to Rival Wings tracker.
+* Reworked refresh for most tabs. Matches are now processed asynchronously. This can reduce refresh times by up to 50%.
+* Rescaled Rival Wings color values.
+* Fixed an exception on Crystalline Conflict job and player Time On Crystal columns.
+* Fixed Rival Wings summary per minute stats not calculating properly.
+* Fix for a game crash that could occur after a Rival Wings match.
 """

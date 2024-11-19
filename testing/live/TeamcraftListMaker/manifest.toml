@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Aida-Enna/TeamcraftListMaker.git"
-commit = "734ecc52d4a390806fba52e392fd31c5551d9491"
-owners = ["Aida-Enna"]
-project_path = ""
-changelog = "- Removed the settings button (there are no settings)\n- Added a few items to the tags\n- Version bump"

@@ -1,22 +1,12 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "5b3e3609ddb86e76eb1c9f794125bb9296b56dcb"
+commit = "e5ba1b81feb48d51ec89c4a441b670c36ce4d26c"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-Moved Title Edit V3 from testing to stable branch
-- Completely rewritten the plugin
-- Added Character Select support with the ability give your character a mount
-- Added in game preset editing and live preview
-- Fixed the preset not loading on start up issues
-- Fixed saving and loading presets with sub levels (The Empty, Elysion and others)
-- Added experimental support for world layout saving
-- Added festival saving support
-- Added the ability to recolor title screen UI
-- Added the ability to roll the camera in title screen
-- Added the ability to save multiple groups of presets to cycle through randomly
-- Added an option to hide your name in character select to ease preset sharing
-- Added character select presets by Thorian, Kamgigari and bot_
+- Updated the BGM google sheets link
+- Updated the included BGM csv
+- Fixed load issue when trying to migrate from an old V2 install with corrupted presets
 """

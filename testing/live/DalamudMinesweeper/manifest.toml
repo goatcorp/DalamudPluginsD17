@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "d70f664d33cb7fcbba2bfe97edc8487e864f3b9f"
-owners = ["hunter2actual"]
-project_path = "DalamudMinesweeper"
-changelog = "Update for Dawntrail"

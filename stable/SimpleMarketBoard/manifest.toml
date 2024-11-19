@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "383ac89201a92bb3d394b371a937d8bb76e874d1"
+commit = "a6c33e4a14608730c2d6713a999e47bdd36cd768"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
@@ -14,4 +14,5 @@ Fixed Problems:
 + 1.9.1.0: Fix background search.
 + 1.9.2.0: Optimise world selection sorting & de-duplication.
 + 1.9.3.0: Fix hotkey to open window.
++ 1.9.5.0: Update to API 11.
 """
