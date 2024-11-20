@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "32ef4b60a29afbe6dddd486d07e6b0b93416da38"
+commit = "ae4c3659afadb3552fb32f6257c2b4b20d934bfc"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Added audio options for GaugeBar widgets. A chosen sound effect can now play when the bar value increases to (or drops below) a custom threshold.
-- Added free positioning control options to the `Parameter Glow` widget.
+## TRACKERS
+- Added multiple song trackers for BRD. These can be used to track song time remaining, stacks of Repertoire, and/or Minstrel's Coda status.
+
+## MISC
+- Added the missing `Behavior` tab to the `Simple Timer` widget.
 """
