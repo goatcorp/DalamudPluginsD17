@@ -1,13 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "3f9e3f9596d254374510944ef66df70c660db638"
+commit = "6557dcb7749816064be4ef45f688beab86c1b195"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.0
+# Umbra 2.3.1
 
-Umbra has been updated for **Patch 7.1**.
-Custom plugins should be recompiled against this (2.3) version of Umbra before they can be used again.
+## New Additions
+
+- Dynamic Menu Widget: Add support for alt-labels & icon color masks in "Custom Entry" items, (By [Ivinedra](https://github.com/Ivinedra)).
+
+## Fixes & Improvements
+
+- Updated the icon picker library. SE has shuffled/removed some icons, which caused the icon picker to misbehave.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
