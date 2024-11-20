@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "8ddf2479a89fffcf1d3b978cf10963216cd03625"
+commit = "97b20852fc265ae3d27f08be4bc48a20e9182615"
 owners = ["Glyceri",]
 	changelog = """
-    [2.3.0.0]
-    Updated for 7.1
-    You can now add colours to names (this needs broader testing by you guys c:, but seems to work just fine)
+    [2.3.0.1]
+    Fixes sharing not working.
 """
