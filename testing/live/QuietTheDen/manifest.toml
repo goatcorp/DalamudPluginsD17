@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/xorelcodes/QuietTheDen.git"
+commit = "879963b00141ea9f1b1ad2ec91686b58f2b35331"
+owners = ["xorelcodes"]
+project_path = "QuietDen"
+changelog = "Initial Commit, first plugin attempt!"
