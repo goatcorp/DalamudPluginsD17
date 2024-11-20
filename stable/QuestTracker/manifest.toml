@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/isaiahcat/QuestTracker.git"
+commit = "dc09a186dee77431476f13b65895aa15579b3a26"
+owners = ["isaiahcat"]
+project_path = "QuestTracker"
+changelog = "Update seasonal quests"

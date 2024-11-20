@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/RandomClassSelector.git"
+commit = "bfc1640b6fb277c54880f4fe96a1d175a05d2921"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "- Updated for patch 7.1"

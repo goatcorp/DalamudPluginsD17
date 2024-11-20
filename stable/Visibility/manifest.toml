@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "e05e9be4b2654e6ac74c027669a1ac2f7fa882d8"
-changelog = "* Fixed FC check for local player"
+commit = "2fe7047d5c4d4345811eaf3de98764967ef6466d"
+changelog = "- Updated plugin for 7.1"

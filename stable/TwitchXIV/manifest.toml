@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TwitchXIV.git"
-commit = "e0141b89b1069ea7c368ac9956fecbc199feb514"
+commit = "7afed804f9449769cade4a2cfb002845b3936d4b"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "Updated for patch 7.0"
+changelog = "- Updated for patch 7.1"

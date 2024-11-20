@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Bluefissure/MultiHit.git"
+commit = "b3b02f0319ff4eab20970f66db5e432a390b53aa"
+owners = ["Bluefissure"]
+project_path = "MultiHit"
+changelog = """
+- update for 7.1
+- move to stable
+"""

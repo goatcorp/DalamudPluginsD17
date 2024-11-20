@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "00df5c80f95c448e73e0946cf21752f57f6c9cd1"
+commit = "294cdcd00297cfc5afd404c53501044ba3fe2977"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Added Restart button."
+changelog = ""

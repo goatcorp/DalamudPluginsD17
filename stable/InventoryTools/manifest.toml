@@ -1,20 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "925a2e5b9edd4b392c98886495ba6079ac9e49f6"
+commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.19"
+version = "1.11.0.1"
 changelog = """\
-### Added
-
-- Added a new section to the item window that displays the possible recipes for an item and the ingredients for each
-- Updated patch data for 7.05
-
 ### Fixed
+- The plugin will now use the dalamud language instead of english
+- Stopped certain gathering points from showing up that had bad data
+- Tooltips were tweaked and should now show properly
+- Shared models within the Item Window is back
 
-- Attempting to open the craft log via AT will no longer be allowed while crafting
-- Fixed a bug that would cause the Gather/Purchase/Buy column to break how right clicking interacted with the tables
-
+### Added
+- Added item uses: Chocobo Item, Indoor Furnishing
+- Added item sources: Achievement
 """

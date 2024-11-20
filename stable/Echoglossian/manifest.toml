@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "93dce8535ad47a80f1c05d031853cc15679de5c1"
+commit = "671299edab0048a8b45c798e789ae79ed473a9a1"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.10.x \n - bugfix: fixed a bug related to assets downloading"
+changelog = "v3.16.x \n - fixes:\n - API11/v7.1 compatibility."

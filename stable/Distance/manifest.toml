@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "fa74fa6b19444d4b6e40b414bc10185e7c46dd5c"
+commit = "8590a50e3a1bf5c3ee0afcbdd88d8aba32dce70a"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for Dalamud API 10.
-- Changed UI mouseover target resolution to be more stable.
-- Thank you damolitionn for doing most of the API 10 update work.
+- Displays distance units as meters now instead of yalms in the Japanese-language client in order to match tooltips.
 '''

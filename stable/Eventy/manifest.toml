@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Eventy.git"
-commit = "ce6bc1e3f790158a68d5c6600e50b0474ea6d153"
+commit = "902c673532d89f108c2a3326735f3951606ef038"
 owners = [
     "Infiziert90"
 ]

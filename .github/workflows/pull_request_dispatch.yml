@@ -98,6 +98,7 @@ jobs:
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
+        PLOGON_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
         GITHUB_RUN_ID: ${{ github.run_id }}
       run: |

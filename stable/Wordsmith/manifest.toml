@@ -1,9 +1,9 @@
 [plugin]
-repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "ef4c68c9f6c9228b3e1f09390439d12ab3448557"
+repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
+commit = "1cf7b68afd5a841bbbfd20a5801fe3e97f3a88b1"
 owners = [
-    "LadyDefile"
+    "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.0 Patch notes
-Updated Wordsmith to work with the new Dalamud API and .NET 8.0"""
+changelog = """# Wordsmith v1.15.2
+Fixed an issue where attempting to close all scratchpads with the `Close All` button in SettingsUI could cause a crash."""

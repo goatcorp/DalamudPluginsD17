@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/WorkingRobot/Waitingway.git"
-commit = "c9cc2194598a8a09fcda69f60d8970818cfa5f70"
-owners = ["avafloww", "NPittinger", "WorkingRobot"]
+commit = "35f6c835d041b790e6a90276ce912c692836355a"
+owners = ["WorkingRobot"]
 project_path = "Waitingway"
