@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/perchbirdd/DamageInfoPlugin.git"
-commit = "33c6ddee95f96b674c71668dfba003dae5b8d799"
+commit = "8ef975f6d3e723c81b1f69216add408db816b790"
 owners = [
     "perchbirdd",
 ]
