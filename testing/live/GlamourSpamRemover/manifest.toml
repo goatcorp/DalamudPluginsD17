@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
-commit = "08ccd99438a3dfbb22eabcc9e06bc686af3cf2b4"
+commit = "8446cc2f2132b425f1863b49d91c04d08f6dadcb"
 owners = ["Shezwick"]
 project_path = "/GlamourSpamBeGone"
-changelog = "Added a debugging console"
-version = "1.2.1.0"
+changelog = "Addressed bug with the debug console that could cause crashes"
+version = "1.2.2.0"
