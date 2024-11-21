@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "79d44ebb79bfb257ac5afddbe0446ee60dc3c6ed"
+commit = "c3f1bac4c7d86a448f0797512f713f79ac49ebdd"
 owners = ["gnargle"]
 project_path = "NICEDamage"
 changelog = "API Bump"
