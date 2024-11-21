@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "a34f9685f56b1aa64b48ec9e1dd04f4cd649a843"
+commit = "afd98c279bfe83fc1b43baf4f01012561282acee"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.19.4"
+version = "1.0.20.0"
 changelog = """
-- Adds 'favourites' to 'Insert Special Character' menu
+- 7.1 update
 """
