@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "e5ba1b81feb48d51ec89c4a441b670c36ce4d26c"
+commit = "fdbd72a995b3f9d6a3ee6a04874aa2655874c626"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
-changelog = """
-- Updated the BGM google sheets link
-- Updated the included BGM csv
-- Fixed load issue when trying to migrate from an old V2 install with corrupted presets
-"""
