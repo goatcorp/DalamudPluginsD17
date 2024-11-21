@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Bluefissure/MultiHit.git"
-commit = "e81481bb1abc83db73547008761b949897e80b73"
-owners = ["Bluefissure"]
-project_path = "MultiHit"
-changelog = """
-- readying for testing live
-"""

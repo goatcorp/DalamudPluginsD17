@@ -1,15 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "58f1b2a634d21e28f2e916516992f51b42defcb5"
+commit = "6557dcb7749816064be4ef45f688beab86c1b195"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.29
+# Umbra 2.3.1
+
+## New Additions
+
+- Dynamic Menu Widget: Add support for alt-labels & icon color masks in "Custom Entry" items, (By [Ivinedra](https://github.com/Ivinedra)).
 
 ## Fixes & Improvements
 
-- Removed excessive padding on most widgets in non-decorative mode. This will move most widgets closer to each other. If this bothers you, either increase the item spacing in toolbar settings, or increase the "Horizontal button padding" in the widgets to increase the spacing. Note that this change only affects widgets that have decorations turned off.
-- Fixed the minimum icon ID limit of 14 on the shortcut panel. This was clearly a bug and not an intended "limitation".
+- Updated the icon picker library. SE has shuffled/removed some icons, which caused the icon picker to misbehave.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

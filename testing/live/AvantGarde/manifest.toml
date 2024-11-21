@@ -1,6 +1,12 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "5c6fc00d1a4a3a6d37f8cdb5df74e07fb66ade5b"
+commit = "b2d7fc445e5336e5a62f9dd01b86ee1b8e37fb06"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
-changelog = "- FOR TESTING: Fix incompatibility with multi-monitor support"
+changelog = """
+Moved to stable:
+- Fix incompatibility with multi-monitor support.
+Available for testing:
+- Added item interaction. Click on an item to open up a submenu.
+ - You can Try on, Search, Link and Copy to Clipboard, as well as open the item in your browser for extra info.
+"""

@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "3039b7c76500d167da5e9a3116b0e08e5be21df8"
-version = "1.5.0.19"
+commit = "206de4de89d1da0a2fc22f01ad6bb37b4ef4491d"
+version = "1.5.0.20"
 owners = ["CMDRNuffin"]
-changelog = """Fix: Plugin would crash and burn if changing the mount guide's roulette buttons failed."""
+changelog = """- Actual fix for the crashing issue from last time by replacing very brittle readonly memory manipulation with much more stable hooks.
+- Fixed a second crash that would occur if the action menu was never opened before loading or unloading the plugin while logged in."""

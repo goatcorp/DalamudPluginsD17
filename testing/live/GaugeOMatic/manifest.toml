@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "9898d855dfbacefa68c0f8e72eed6b365dfea9e0"
+commit = "ae4c3659afadb3552fb32f6257c2b4b20d934bfc"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## INTERFACE
-- You can now use Shift + Scrollwheel to change the scale of widgets while hovering them
+## TRACKERS
+- Added multiple song trackers for BRD. These can be used to track song time remaining, stacks of Repertoire, and/or Minstrel's Coda status.
 
-## MISC FIXES
-- Fixed an issue wherein all actions (even those without charges) would try to show available charges when used on counter widgets
+## MISC
+- Added the missing `Behavior` tab to the `Simple Timer` widget.
 """

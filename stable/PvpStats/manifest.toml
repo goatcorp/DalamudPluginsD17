@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "a839b2c8b83d40946cf206c16b75d246f3832f80"
+commit = "251da2efa624329a07ebee7d1e85ec542396c5d5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added config option to make scoreboard columns stretch-able.
-* Fixed filter name display for non-standard styles/fonts.
-* Fixed win rate coloring on Frontline summary.
-* FL and RW match details are now affected by "Always show player team on left".
-* Added an option to order FL teams by placement.
+* Updated for api11 and game patch 7.1.
+* Added Rival Wings Records and Jobs tabs.
+* Refresh performance optimizations.
 """

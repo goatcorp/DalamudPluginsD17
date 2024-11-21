@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "97b9bbf73d3c10e9722f3349b8b92c1ed2445a12"
+commit = "0feec227f3ae7d17dcc3c91ebc7b9bf7973061a9"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "- Fix an issue preventing the use of Starry Muse\n- Add Chocobo companions to available redirection targets (diwo)"
+changelog = "- Updates for API11 / Lumina"
