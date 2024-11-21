@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-GraceGawker.git"
-commit = "09630ba102843957a27ea81ed3e535b932fb1d80"
+commit = "385fd660818f95992bf8890b4cfc4a553986c44a"
 owners = ["mashirochan"]
 project_path = "GraceGawker"
-changelog = "Initial plugin test release!"
+changelog = "Update to Dalamud API v11 and add percent coloring option"
