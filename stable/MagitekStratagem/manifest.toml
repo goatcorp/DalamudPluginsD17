@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "f21214f2ac113d7933be11d2907c16b6f88746e0"
+commit = "7141c03646135158204d0bd4284fcd5a857baece"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+Version 0.7.0.2:
+- Another attempt to fix crashes during cutscenes.
+
 Version 0.7.0.1:
 - Fixed: If Tobii Game Hub is not present, the plugin isn't usable at all.
 

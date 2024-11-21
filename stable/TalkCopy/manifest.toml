@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "7d71e04fea01e17122a43d909b71418b4fca8b27"
+commit = "6cfadb3447f67966d834356d6b300e0a206c9e1b"
 owners = ["Glyceri",]
 	changelog = """
-    [1.1.0.3]
-    Updated the logo because I was getting nominations for the old one...
+    [1.2.1.1]
+    Updated for 7.1
 """

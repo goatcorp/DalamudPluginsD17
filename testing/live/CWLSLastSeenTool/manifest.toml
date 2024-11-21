@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/radax864/CWLSLastSeenTool.git"
+commit = "b84c715ca2f095fab82aa6115d523cd3cf8733b3"
+owners = ["radax864"]
+project_path = "CWLSLastSeenTool"
+changelog = """
+Version 1.1.2.0
+
+- ImGui.BeginCombo and ImGui.BeginTable swapped over to ImRaii. Hopefully no more crashes if either element fails.
+"""

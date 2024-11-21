@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
-commit = "9a3b8e4c4288a37b6ca18ae78cb9e89da1b8d887"
+commit = "b5601f558163afac34df0d6b5ab7dddd1db660fd"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Fixed a bug that caused old presets to change your settings to the lowest res/windowed mode on game load if it was the last preset loaded"
+changelog = "- Updated for patch 7.1"

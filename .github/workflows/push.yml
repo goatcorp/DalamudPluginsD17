@@ -10,6 +10,42 @@ jobs:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
+    - name: Get Pull Request data
+      uses: actions/github-script@v7
+      id: get_pr_data
+      with:
+        script: |
+          const pr = (
+            await github.rest.repos.listPullRequestsAssociatedWithCommit({
+              commit_sha: context.sha,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            })
+          ).data[0];
+      
+          const reviews = (
+            await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            })
+          ).data;
+      
+          // Filter reviews for approved ones
+          const approvedReviews = reviews.filter(review => review.state === 'APPROVED');
+      
+          if (approvedReviews.length === 0) {
+            throw new Error("Pull request has no approved reviews.");
+          }
+      
+          // Setting the output explicitly
+          return {
+            number: pr.number,
+            title: pr.title,
+            first_approved_reviewer: approvedReviews[0].user.login
+          };
+        outputs: result
+
     - name: Checkout manifests
       uses: actions/checkout@v3
       with:
@@ -63,6 +99,7 @@ jobs:
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
+        PLOGON_ACTOR: ${{ fromJson(steps.get_pr_data.outputs.result).first_approved_reviewer }}
         XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
         PLOGON_S3_ACCESSKEY: ${{ secrets.PLOGON_S3_ACCESSKEY }}
         PLOGON_S3_SECRET: ${{ secrets.PLOGON_S3_SECRET }}

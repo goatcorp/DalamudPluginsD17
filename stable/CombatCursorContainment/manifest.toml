@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Cytraen/CombatCursorContainment.git"
-commit = "7488322e01ca5312f38bfb92e32379f23a3832c2"
+commit = "f64e2326e6ae7c44bc2cff45630321f67b8b589a"
 owners = ["Cytraen"]
 changelog = """
-- Update for 7.0
+- Update for 7.1
 """

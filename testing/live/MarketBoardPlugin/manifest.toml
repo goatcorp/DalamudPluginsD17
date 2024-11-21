@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "2d3f6af753599dfab06901659cb24a1bf3535637"
+commit = "7b4288160555d65dd798cbb54fa3a7a100f4df57"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Refactor Universalis code to make it more resilient\
+- Update to API 11\
 """

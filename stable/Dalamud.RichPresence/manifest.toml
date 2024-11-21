@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "07ba4060253c96725e4005844c777d6e60f73957"
+commit = "9048907220fb59d35c3fb6f264b610a984668b51"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-IPC updated for WaitingWay. Now respects scaling.
+Updated for API 11, now with fixed region images and full job names.
+
+Please report if you use a non-English client language and AFK status doesn't work.
 """
