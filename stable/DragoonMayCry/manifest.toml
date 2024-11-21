@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "8cc182520354e6a04f1aeec26c2b9ad0379b081b"
+commit = "a7d9a1ef8fe9a4a493a2ab7e2db69dd53e995ff6"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- 7.1 update
-- Added the Jade Stoa (Unreal) and Sphene's Burden (Extreme) to tracked duties
+- Enemies with less than 2 HP are now considered untargetable
+- Getting the paralysis debuff will derank you.
 """
