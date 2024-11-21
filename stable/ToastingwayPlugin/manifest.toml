@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/powellad/Toastingway.git"
-commit = "e6c1d27d9d8299ab7cf3a73c3a0f6ff5ac35eed7"
+commit = "c35c571d9122581b644cc7051f7b8e45ab979e21"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
-changelog = "Initial release for Toastingway"
+changelog = "- Added support for patch 7.1 and Dalamud API v11"
