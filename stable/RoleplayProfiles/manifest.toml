@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-roleplay-profiles.git"
-commit = "c4ade08e38e97d443ab810f39f4a73e2b856d509"
+commit = "ce35356a7ee501535a2bfa468cfdf70d341cb3d3"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
 changelog = """
-* Updated for Dawntrail.
-* Character profiles will only display when there is a profile to display. No "Loading" or "Profile not found".
+Update to Dalamud API 11.
 """

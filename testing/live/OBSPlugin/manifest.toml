@@ -1,5 +1,0 @@
-[plugin]
-repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "0798e15d9dd58e5685c385ff6d815b8c8a794a9c"
-owners = ["Bluefissure"]
-changelog = """- fix slash commands hangs the game when obs is disconnected"""

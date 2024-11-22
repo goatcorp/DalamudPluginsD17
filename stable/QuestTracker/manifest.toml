@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/isaiahcat/QuestTracker.git"
-commit = "2ed4eb1621572cebfbea5ed11212bdb88d2cee20"
+commit = "e7bfa7fc0f2125389a70b1761fe2a72c751e501d"
 owners = ["isaiahcat"]
 project_path = "QuestTracker"
-changelog = "Initial stable release, added images to description"
+changelog = "Support for Dalamud 11.0.0 and 7.1"

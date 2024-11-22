@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "c141eb72da053a849e02db8013a4d58c030ceb91"
+commit = "251da2efa624329a07ebee7d1e85ec542396c5d5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added player table to Rival Wings tracker.
-* Reworked refresh for most tabs. Matches are now processed asynchronously. This can reduce refresh times by up to 50%.
-* Rescaled Rival Wings color values.
-* Fixed an exception on Crystalline Conflict job and player Time On Crystal columns.
-* Fixed Rival Wings summary per minute stats not calculating properly.
-* Fix for a game crash that could occur after a Rival Wings match.
+* Updated for api11 and game patch 7.1.
+* Added Rival Wings Records and Jobs tabs.
+* Refresh performance optimizations.
 """
