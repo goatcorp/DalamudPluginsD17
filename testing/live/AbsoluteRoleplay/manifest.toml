@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "c0ae9ea575b839c6fd21ed4b437e382b326bcae3"
+commit = "a1ab1fb7d7bf3c43bcc1b0cee3d8b68a2270c808"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
-changelog = "Fixed an issue with profiles not resetting on character swap, and profiles not loading correctly in some cases Added the ability to save and load your profile locally. Fixed some scaling issues with the ui and very large dalamud ui resolutions. Finally you can delete your profile completely Be careful <3"
+changelog = "Added modifiable tooltips to images for author credits and so on. Added the ability to lock tooltips when targeting a player even when draggable. Removed fields from target profiles when they are empty. Set the default value of alignment and personality to none.."
 

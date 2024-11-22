@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/GearsetHelperPlugin.git"
-commit = "b39aead334bd9140b38438a444e79b706d9362f4"
+commit = "6a85a6c2e86529695bf62c8a64977e52aa5dc6a7"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = "GearsetHelperPlugin"
 changelog = """
-- Added GCD tier calculations.
-- Added support for exporting gearsets to XivGear.app
-- Added tool-tips to various icon buttons.
-- Fixed exporting Pictomancer and Viper gearsets to Ariyala.
+Update for 7.1 and Dalamud API 11.
 """

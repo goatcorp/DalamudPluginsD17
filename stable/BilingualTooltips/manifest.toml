@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "199edf5fa56256ab56436f2d20aa48e85a9d89a1"
+commit = "6d103d62d284660e7fc2b5f7eb7b0f4e5a384f6c"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v1.0.1.0
+v1.0.2.0
 New Features:
-- NA
+- Update game patch 7.1
 
 Fixed Problems:
-- Name translation does not go away on the hotkey mode.
+
 """

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "9e36914875a6ec13ef9d1d7b62a9a1381be6de00"
+commit = "6922093ea6d68af019730e168ebffa4bf491475a"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """Updated for Dawntrail!"""
+changelog = """API11 support.
+Pictomancer and Viper job gauges added."""

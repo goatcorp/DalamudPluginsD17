@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "f63745f7e6cbd74c39d8bcadb0b2ab048a6d85d9"
+commit = "87a35a1bcbaffbd225cc1d70deaa208a8e9acc0b"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Support API9
+- partially support 7.0
+- Command `/pname update` currently not available
+- fix cannot correct detect the type of Novice Network
+- Left-click to copy text
+- Proviod option to show CID (Default: close)
 """
