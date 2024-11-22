@@ -9,5 +9,5 @@ changelog = """
 Version 1.0.0.3:
   - Support version 7.2
   - Added new mounts
-  - Added suppot for mute list context menu
+  - Added support for mute list context menu
 """
