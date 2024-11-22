@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "0347f6d05f45df902ca9d574615de3490233edde"
+commit = "9048907220fb59d35c3fb6f264b610a984668b51"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-API 9 support. (Thank you NPittinger)
+Updated for API 11, now with fixed region images and full job names.
 
-New features:
-- Turn off rich presence when AFK (thank you sersorrel)
+Please report if you use a non-English client language and AFK status doesn't work.
 """

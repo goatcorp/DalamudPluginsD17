@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/iv230/chat-proximity.git"
+commit = "3ec5ff2f91a3b94b7853c05c456c63c4239765cb"
+owners = [
+    "iv230"
+]
+project_path = ""
+changelog = """# 1.1.2
+- Bump do Dalamud API 11 (FFXIV 7.1)
+"""

@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "c558d9fa30a2688a11032ffaf7512ab4c68ae489"
+commit = "3a5db58df830d9606bc0ad2929005663a25bf5be"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Dawntrail update
 """

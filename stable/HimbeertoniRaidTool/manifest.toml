@@ -2,9 +2,18 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "e97f7ffb214eab010be740b4c3417c303fe6eaeb"
+commit = "bc840b90ecc64409f297c1191e4fcd65b4f0beac"
 changelog = """
-General: Updated for 7.0
-    BiS: Automatically converts non existent etro sets to local sets
-    Known Issue: Item categorization and raid infos will be amended once available
-    Known Issue: Stat calculations (e.g. HP) are most likely not correct yet"""
+New Feature: Gearsets can have an alias. If an alias is set it is shown instead of the name in the Ui
+      This is editable even for sets from etro or XivGearApp
+    User Interface: Gearset origin is now shown in selection dropdown
+    General: Updated for 7.1
+    User Interface: New layout for the stats
+    User Interface: Overhauled item tooltips
+    Bugfix: Deleted sets get correctly removed from the gear/bis list
+    BiS: Update gear set buttons now work for XivGearApp (like they did for etro)
+    User Interface: Searching gear from database now actually shows useful information
+    User Interface: New layout for inventory/wallet
+    User Interface: Job selection buttons are bigger to have enough space for level 100 jobs
+Known Issues:
+    Known Issue: Previous wallet and inventory data is lost"""

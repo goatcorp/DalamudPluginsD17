@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = 'b3a3e8f2d103ddc7643d9a16837d9200756abe0f'
+commit = 'b462e5db2319f4420591953b2892a1cced8a9174'
 owners = [ 'Xpahtalo' ]
-changelog = """Updated to fix the failing load due to CS changes.
-It will also hopefully fail more gracefully and still have partial functionality when this happens again. A better system to at least let you know what has failed will come in the future."""
+project_path = "BurntToast"
+changelog = """API11"""

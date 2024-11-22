@@ -1,9 +1,9 @@
 [plugin]
-repository = "https://github.com/LadyDefile/Wordsmith-DalamudPlugin.git"
-commit = "96b16f3c03495c1882cf44236a3e50652461a99d"
+repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
+commit = "1cf7b68afd5a841bbbfd20a5801fe3e97f3a88b1"
 owners = [
-    "LadyDefile"
+    "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.11.1 Patch Notes:
-[FIXED] Fixed a crash related to zero-length words in the Tally system."""
+changelog = """# Wordsmith v1.15.2
+Fixed an issue where attempting to close all scratchpads with the `Close All` button in SettingsUI could cause a crash."""

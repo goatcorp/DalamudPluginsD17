@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "b54bae279fee1ba2824a5709f66848ffb53d4148"
+commit = "3c2a04ebfb2b4982db37599c507ef8515cfd5235"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Update for 7.0
+- Update for patch 7.1
 """

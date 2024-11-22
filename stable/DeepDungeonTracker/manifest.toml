@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "a725d21fdc4a5cb81cd92f6510cb015b2b106027"
+commit = "904cd5c09009fdce743319dd662952f1d4e6a495"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- .NET 8.0.
+- Patch 7.1 / Dalamud API 11 update.
 """

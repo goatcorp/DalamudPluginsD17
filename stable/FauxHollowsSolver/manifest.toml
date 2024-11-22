@@ -2,5 +2,4 @@
 repository = "https://github.com/MidoriKami/FauxHollowsSolver.git"
 owners = [ "daemitus", "MidoriKami" ]
 project_path = "FauxHollowsSolver"
-commit = "8dfa2a49e05f5cff282acd1ae235a9e140262cd7"
-changelog = ""
+commit = "2e06d21664e9a02b9c7b63658e83f60718490fcd"

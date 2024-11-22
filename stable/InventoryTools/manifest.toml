@@ -1,12 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bee6b2d2a4ef5b735cf49730a9228ecb20819f3d"
+commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.8"
+version = "1.11.0.1"
 changelog = """\
-**Allagan Tools 1.7.0.8**
-- Tooltips are back in action
+### Fixed
+- The plugin will now use the dalamud language instead of english
+- Stopped certain gathering points from showing up that had bad data
+- Tooltips were tweaked and should now show properly
+- Shared models within the Item Window is back
+
+### Added
+- Added item uses: Chocobo Item, Indoor Furnishing
+- Added item sources: Achievement
 """

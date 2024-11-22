@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/meoiswa/autobgm.git"
+commit = "872eebfa065907fb4d8ecf6341f19789a3d119f8"
+owners = ["meoiswa"]
+project_path = "AutoBGM"
+changelog = """
+
+Version 1.2.0.0:
+ - Upgrade to API11
+"""
