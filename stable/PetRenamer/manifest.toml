@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "e61677beef574388414090a39e54ab0b80976632"
+commit = "357d93a21f1e8955d91618dc98e817ec70750f7c"
 owners = ["Glyceri"]
 	changelog = """
-    [2.2.0.5]
-    Tentative fix for unplayable lag during extremely rare conditions.
+    [2.3.0.2]
+    7.1 Update.
+    Colours on petnames now work.
 """
