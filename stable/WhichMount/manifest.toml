@@ -7,7 +7,7 @@ owners = [
 project_path = "WhichMount"
 changelog = """
 Version 1.0.0.3:
-  - Support version 7.2
+  - Support version 7.1
   - Added new mounts
   - Added support for mute list context menu
 """
