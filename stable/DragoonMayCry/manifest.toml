@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "8cc182520354e6a04f1aeec26c2b9ad0379b081b"
+commit = "07b0e4f84963973eaa3ccc7a601266cd9b100542"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- 7.1 update
-- Added the Jade Stoa (Unreal) and Sphene's Burden (Extreme) to tracked duties
+Trying to fix the plugin error on load after an update. If it still happens, restart your game. Sorry for the inconvenience
 """
