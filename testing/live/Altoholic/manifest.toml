@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "2aa789c4c9d482bf8e0d4cda24c265b358c7265d"
+commit = "6009d3fc2f8ae3c898d8df407d6aac9e048ec74a"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.25: Fix reputation tab and add new pelupelu reward"
+changelog = "Version 0.0.0.26: Version 0.0.0.26: Add missing framer kits ids. Add Deep Dungeons, Guildhests, Treasure Hunts, Ultimate, V&C Dungeon Finder duties and pelupelu framerkit reward. Add player houses"
