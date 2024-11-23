@@ -1,7 +1,9 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "206de4de89d1da0a2fc22f01ad6bb37b4ef4491d"
-version = "1.5.0.20"
+commit = "d64155db6a37af69bf4111b988968d55bd914fd7"
+version = "1.6.0.23"
 owners = ["CMDRNuffin"]
-changelog = """- Actual fix for the crashing issue from last time by replacing very brittle readonly memory manipulation with much more stable hooks.
-- Fixed a second crash that would occur if the action menu was never opened before loading or unloading the plugin while logged in."""
+changelog = """- Reworked the general settings page
+- Added a feature to display the mount selected by the roulette in the cast bar (also works for unmodified roulettes)
+- Added a feature to choose the cast bar display of groups being mounted via /pmount (choose normal roulette, flying roulette or display mount)
+- Made /pmount a little more lenient by allowing the mount group name to be enclosed in quotes"""
