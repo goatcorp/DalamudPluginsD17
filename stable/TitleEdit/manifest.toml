@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "fdbd72a995b3f9d6a3ee6a04874aa2655874c626"
+commit = "3d248a8e15c0ae1ecb9cf82017918b03fad7777c"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
+changelog = """
+- Fixed the vanilla A Realm Reborn preset not loading on game startup, causing plugin load errors depending on configuration
+"""
