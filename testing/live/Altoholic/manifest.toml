@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "a468e82a889836da03705a77f0ffa6d01630dbf7"
+commit = "6009d3fc2f8ae3c898d8df407d6aac9e048ec74a"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.24: Fix mix up duty unlocked-completed data and add database version"
+changelog = "Version 0.0.0.26: Version 0.0.0.26: Add missing framer kits ids. Add Deep Dungeons, Guildhests, Treasure Hunts, Ultimate, V&C Dungeon Finder duties and pelupelu framerkit reward. Add player houses"

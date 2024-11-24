@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "e5ba1b81feb48d51ec89c4a441b670c36ce4d26c"
+commit = "3d248a8e15c0ae1ecb9cf82017918b03fad7777c"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Updated the BGM google sheets link
-- Updated the included BGM csv
-- Fixed load issue when trying to migrate from an old V2 install with corrupted presets
+- Fixed the vanilla A Realm Reborn preset not loading on game startup, causing plugin load errors depending on configuration
 """
