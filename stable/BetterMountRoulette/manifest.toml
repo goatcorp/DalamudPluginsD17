@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "e9ed6bb27ce6a4cf15024b2052179767a72578b5"
-version = "1.3.0.16"
+commit = "6f91990f3174e4b6b89cfc1162731b7f80b09d21"
+version = "1.6.1.24"
 owners = ["CMDRNuffin"]
-changelog = """Update for Dawntrail"""
+changelog = """Fix scaling issues"""

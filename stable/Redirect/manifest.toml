@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "f40cbcd61b471859919d6d47f52c2c419a2f580e"
+commit = "0feec227f3ae7d17dcc3c91ebc7b9bf7973061a9"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "Updates for Dawntrail and apiX"
-
+changelog = "- Updates for API11 / Lumina"

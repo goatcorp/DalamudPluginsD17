@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "ef8e96c476206593cbfe37412633fe54d401b720"
+commit = "802f09facebe2dd75d1ac84a1af4c2b3e39d833c"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.5.5
-- Minor bug fix.
-- Data for stats calc added.
+Bozja Buddy 1.1.6.2
+- API 11 bump
 """

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Guerzoniansus/CleanHuntChat.git"
+commit = "885fee0419ea6cbf65d0eab135b7f1c007694b48"
+owners = ["Guerzoniansus"]
+project_path = "CleanHuntChat"
+changelog = "Version 1.0"

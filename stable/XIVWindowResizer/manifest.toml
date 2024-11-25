@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AlexCSDev/XIVWindowResizer.git"
-commit = "c2b83bcd6d6736cf2e25bf8c0ca92fe26fe0996a"
+commit = "d62d79f7f6c78c45cad60edd7f8a6cf58718151c"
 owners = ["AlexCSDev"]
 project_path = "XIVWindowResizer"
-changelog = ".net 8"
+changelog = "Updated for 7.1"

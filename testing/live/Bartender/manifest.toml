@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/AtaeKurri/Bartender.git"
+commit = "1850ccf10152ec57934371c2a675c73d76fd5195"
+owners = ["RulHolos"]
+project_path = "Bartender"
+changelog = """
+# v1.1.4
+
+- Added variables to /barload and /barclear
+- Fixed Excel ComboBox
+"""

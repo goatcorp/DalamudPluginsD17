@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "785b1225e2e70f85bc4cedfc380f93b9393556aa"
+commit = "ae4c3659afadb3552fb32f6257c2b4b20d934bfc"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Status effects cast by the player's pet (such as Carbuncle's Radiant Aegis) are now tracked properly
-- Label text on the Beast Bar and Oath Bar widgets will now fade out correctly whenever the bar is hidden
+## TRACKERS
+- Added multiple song trackers for BRD. These can be used to track song time remaining, stacks of Repertoire, and/or Minstrel's Coda status.
+
+## MISC
+- Added the missing `Behavior` tab to the `Simple Timer` widget.
 """

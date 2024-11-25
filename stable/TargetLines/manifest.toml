@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "7d42e7d020bac36ce0b130343042c02261dc471e"
+commit = "ace8a361a49c219f6cd70cdc82b4ec77040c8182"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Updated for API10/7.0
+Bug fixes:
+- Fixed issue where focus target lines would repeatedly play dying animation when the player died
+- Fixed issue where resetting to default wouldn't always update the filters
 """
 

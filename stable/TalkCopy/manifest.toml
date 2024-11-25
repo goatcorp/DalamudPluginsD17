@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/TalkCopy.git"
-commit = "6b5a217084e94167e836afa2f8bc827971fc955d"
+commit = "6cfadb3447f67966d834356d6b300e0a206c9e1b"
 owners = ["Glyceri",]
 	changelog = """
-    [1.1.0.1]
-    The settings menu now... works c:
+    [1.2.1.1]
+    Updated for 7.1
 """

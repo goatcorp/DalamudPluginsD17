@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = 'dde908b1254bb165748bc92b6aeb9d9b6468817a'
+commit = 'd3fc4dfac4e92ad230da9fc0f4b185264f52decd'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Dawntrail baby
+- Update for 7.1
 """
 
