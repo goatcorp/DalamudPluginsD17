@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/AtmoOmen/CurrencyTracker.git"
-commit = "7041de7a3adb4ced2b0c2c6db2a9f4d996ddacee"
+commit = "885ee74e190970b0e6c0d422fa475f6753135446"
 owners = ["AtmoOmen"]
 project_path = "CurrencyTracker"
 changelog = """
-Fixed the issue of failed multi-chara functionality
+API 11 / 7.1 Update
 """
