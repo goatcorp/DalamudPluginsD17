@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://git.pilzinsel64.de/pilzinsel64/playertags.git"
-commit = "b14b39ef4d63c972c830b5bfd12eec6cff863af2"
+commit = "098d77bcc27d943dac181d65dace8354061208a4"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """- Switched over to INamePlateGui service from core Dalamud
+changelog = """- Update for API 11
 """
