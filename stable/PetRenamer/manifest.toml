@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "3269c8262d363e23ed122fcf5b97f6d44abef91e"
+commit = "5574ee8a078927dd2bb903f7cae35197202bc944"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.3]
-    Fixes a couple tooltip and colour bugs.
+    [2.3.0.4]
+    Fixes tooltips breaking
 """
