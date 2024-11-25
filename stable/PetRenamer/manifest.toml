@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "357d93a21f1e8955d91618dc98e817ec70750f7c"
+commit = "5574ee8a078927dd2bb903f7cae35197202bc944"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.2]
-    7.1 Update.
-    Colours on petnames now work.
+    [2.3.0.4]
+    Fixes tooltips breaking
 """

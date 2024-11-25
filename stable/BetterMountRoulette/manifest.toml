@@ -1,7 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "206de4de89d1da0a2fc22f01ad6bb37b4ef4491d"
-version = "1.5.0.20"
+commit = "6f91990f3174e4b6b89cfc1162731b7f80b09d21"
+version = "1.6.1.24"
 owners = ["CMDRNuffin"]
-changelog = """- Actual fix for the crashing issue from last time by replacing very brittle readonly memory manipulation with much more stable hooks.
-- Fixed a second crash that would occur if the action menu was never opened before loading or unloading the plugin while logged in."""
+changelog = """Fix scaling issues"""
