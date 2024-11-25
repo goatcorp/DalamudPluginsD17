@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "e55c720601d6964570dddd9f1ab5b72cfccf38e3"
+commit = "3ac3098c5da32c662cd9ecd854c37ea0a91ada09"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Patch 7.1/Api11 update.
+* Fixed Cenote Ja Ja Gural missing from duty result imports.
 """
