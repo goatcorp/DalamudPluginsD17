@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "a1ab1fb7d7bf3c43bcc1b0cee3d8b68a2270c808"
+commit = "807d863a5c6cb2ebbac987e8c961c3e80a0bd387"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
 changelog = "Added modifiable tooltips to images for author credits and so on. Added the ability to lock tooltips when targeting a player even when draggable. Removed fields from target profiles when they are empty. Set the default value of alignment and personality to none.."
