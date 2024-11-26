@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "07b0e4f84963973eaa3ccc7a601266cd9b100542"
+commit = "fba0369e1ec52d46b32da107c478b4ddf0af7022"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Trying to fix the plugin error on load after an update. If it still happens, restart your game. Sorry for the inconvenience
+- Option to hide progress gauge
+- Option to block announcer on blunders
+- Gold Saucer Edition
+- Configurable score multiplier
+- FRU
 """
