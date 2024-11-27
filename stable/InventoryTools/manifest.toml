@@ -1,19 +1,25 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
+commit = "d48d4d6e2c4827d890fb685f80a17f966f361a4f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.1"
+version = "1.11.0.2"
 changelog = """\
 ### Fixed
-- The plugin will now use the dalamud language instead of english
-- Stopped certain gathering points from showing up that had bad data
-- Tooltips were tweaked and should now show properly
-- Shared models within the Item Window is back
+- Gemstones should now list in craft list sourcing again
+- Houses that have had their interior design changed will now list the correct zone
+- The glamour chest should be parsing again
+- Hopefully squashed a bug in the retainer list that was causing crashes
+- Issues with searching for items when adding to craft/curated lists are fixed
 
 ### Added
-- Added item uses: Chocobo Item, Indoor Furnishing
-- Added item sources: Achievement
+- Added "Open Crafting Log", "Open Gathering Log", "Open Fishing Log" context menu options
+- Added "Open Crafting Log", "Open Gathering Log", "Open Fishing Log", "Open Log" hotkeys
+- Added a "Expert Delivery Seal Count" column/filter
+- The "Acquisition" column can now have which icons it shows configured(uses column to come in a later version)
+- All sources/uses now have detailed tooltips(with more improvements to come), grouping, click actions, right click actions
+- When uptimes are listed, it will show the soonest uptime along with an icon that shows all uptimes for that item
+- Cash shop sources now have a price in USD
 """
