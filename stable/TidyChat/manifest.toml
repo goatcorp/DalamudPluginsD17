@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "19ebf17f76a5395c65ad962374d433ea8d6ea092"
+commit = "4badf94e1c8288e3a242af7b983db56f8b381746"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "- Custom filters for the Gathering channel should properly check the Gathering channel and the GatheringSystem channel instead of only the GatheringSystem channel."
+changelog = "1.x -> 2.0.6 Release -- Mostly internal changes to logic to make Tidy Chat easier to maintain and add new filters going forward."
