@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "fba0369e1ec52d46b32da107c478b4ddf0af7022"
+commit = "c90e2b650f1eacbfc961bc2089cd51975330978e"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Option to hide progress gauge
-- Option to block announcer on blunders
-- Gold Saucer Edition
-- Configurable score multiplier
-- FRU
+- Fixed a bug that would block audio from the game after a change in the default audio output
 """
