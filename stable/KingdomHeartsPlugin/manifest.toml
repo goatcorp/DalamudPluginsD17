@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Arrenton/KingdomHeartsPlugin.git"
-commit = "e154fe8560dbde24074defe3f61e3fada132b483"
+commit = "c463e474bc8f98bf570d892a2c4b2a2ebf913db0"
 owners = [
     "Arrenton",
 ]
 project_path = "KingdomHeartsPlugin"
 changelog = """
-Updated for Dawntrail
+Updated to API 11.
 """
