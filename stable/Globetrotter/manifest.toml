@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/Globetrotter.git'
-commit = '07848c7ca6fc44ce8740899a1e8591b9eb2e0aab'
+commit = '6deecfd5549e264aa464819a85889c1ebc30ed70'
 owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+changelog = 'API 11'
