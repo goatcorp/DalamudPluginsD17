@@ -1,19 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
+commit = "3ac1e7d3908cefb73db12d533100317d1b2a1a8f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.1"
+version = "1.11.0.3"
 changelog = """\
 ### Fixed
-- The plugin will now use the dalamud language instead of english
-- Stopped certain gathering points from showing up that had bad data
-- Tooltips were tweaked and should now show properly
-- Shared models within the Item Window is back
+- Hopefully squashed a bug with the retainer list and highlighting
+- Improvements to the NPC parsing means more vendors should have locations/shops
 
-### Added
-- Added item uses: Chocobo Item, Indoor Furnishing
-- Added item sources: Achievement
 """

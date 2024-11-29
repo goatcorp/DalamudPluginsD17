@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "07b0e4f84963973eaa3ccc7a601266cd9b100542"
+commit = "c90e2b650f1eacbfc961bc2089cd51975330978e"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Trying to fix the plugin error on load after an update. If it still happens, restart your game. Sorry for the inconvenience
+- Fixed a bug that would block audio from the game after a change in the default audio output
 """
