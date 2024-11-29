@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "e24a5ce8760a647485b572322b9e6e82a8df2c22"
+commit = "3d248a8e15c0ae1ecb9cf82017918b03fad7777c"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed Dawntrail title screen music not playing when switching to title screen for chracter select
-- Added an option to not interrupt BGM when switching between screens with the same track (ON by default)
+- Fixed the vanilla A Realm Reborn preset not loading on game startup, causing plugin load errors depending on configuration
 """

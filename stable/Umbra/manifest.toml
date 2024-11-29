@@ -1,14 +1,17 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "8bd47b4e0de7b95062340cd49eace1359f22ac19"
+commit = "1aa5f1659ed931d5431df28e8d92234533a6c20b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.42
+# Umbra 2.3.2
 
-## New Additions
+## Fixes & Improvements
 
-- WorldNameWidget: Add toggleable data center label (by [Drakime](https://github.com/Drakime)).
+- Re-added some missing icons to the Icon Picker (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed a text-rendering issue in Vista world markers (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Fix black bar on multi monitor if it spans larger than the monitor (By [wolfcomp](https://github.com/wolfcomp)).
+- Replaced all occurrences of `.ToDalamudString().TextValue` with `.ExtractText()` to make string conversion more consistent across the plugin.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

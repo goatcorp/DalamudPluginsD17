@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/isaiahcat/QuestTracker.git"
-commit = "dc09a186dee77431476f13b65895aa15579b3a26"
+commit = "e7bfa7fc0f2125389a70b1761fe2a72c751e501d"
 owners = ["isaiahcat"]
 project_path = "QuestTracker"
-changelog = "Update seasonal quests"
+changelog = "Support for Dalamud 11.0.0 and 7.1"

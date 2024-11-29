@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ef4f92be8fbf130351d1dbd7154ff65ba681107e"
+commit = "3ac1e7d3908cefb73db12d533100317d1b2a1a8f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.1.2"
+version = "1.11.0.3"
 changelog = """\
 ### Fixed
-- Fix an issue with the craft button
-- Fix highlighting in the free company chest not working
+- Hopefully squashed a bug with the retainer list and highlighting
+- Improvements to the NPC parsing means more vendors should have locations/shops
 
 """

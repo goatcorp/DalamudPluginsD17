@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "870a38f916b3c02918460c48d88185e088fb85f6"
+commit = "d94ce5dbea7b2b088aaa5310ae4b49cfafcfadff"
 owners = ["xorus"]
 changelog = """\
-- Option to hide the stopwatch/floating window in cutscenes
-- Enabling light effect animation would show an error texture and required a plugin restart to be loaded properly 
+- API11 update
 """

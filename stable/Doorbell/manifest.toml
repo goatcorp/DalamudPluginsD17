@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/Doorbell.git"
-commit = "fb024cec0ff078a3cae63363b1d9e76ec7cf3b67"
+commit = "b25eeaf8233deded8d1e21f21a1e120a634e7ada"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "Updated for Dawntrail (7.0)"
+changelog = "- Added support for the new Minimalist housing"

@@ -1,15 +1,16 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "0942007195083fc188df6d01d730a49d02640a95"
+commit = "d21bf5c4da26603b6d4df9eca3a762fb07680be3"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-Now includes a setting to automatically run a Wine IPC Bridge for Linux users (if you need one).
+Updated for API 11, maybe with party fixes.
 
-XIV On Mac users should continue to use the Wine IPC Bridge available in the XOM program settings.
+Please submit a feedback or post in the XIVLauncher and Dalamud discord server if:
+- You use a non-English client language and AFK status doesn't work.
+- Parties do not work
 
-This change has no effect for Windows users of the plugin.
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "4864123224a95ca0a687a13757d3cfad84db056c"
+commit = "313edf58163ce804ac7bf553f1e41f4c82df093c"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Limit the listing count and make it and the history count configurable\
+- Context Menu: fix unhandled exception if item not in Item sheet (eg. key items)\
 """

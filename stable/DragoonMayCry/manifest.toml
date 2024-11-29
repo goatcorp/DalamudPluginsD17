@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "46b0e955f902dfc915b35996ad6631eba76a83e3"
+commit = "c90e2b650f1eacbfc961bc2089cd51975330978e"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Announcer randomization
-- Rank display scaling
-- Displayed duties names in the character's record window are localized with the client's language
+- Fixed a bug that would block audio from the game after a change in the default audio output
 """

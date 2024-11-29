@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "7b9b802bc4cfe4b696ae3d3997b108a5a07878f0"
+commit = "912209ce17aaf6da89de95f2e0d848b7164583c4"
 owners = ["gnargle"]
 project_path = "NICEDamage"
-changelog = "Fixed NICE appearing at the wrong time (I left testing code in oops)"
+changelog = "API Bump"
