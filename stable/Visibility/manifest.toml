@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "0e0d82958f991fbd53fafcad9ccf6c167bf3b40f"
-changelog = "- Updated Visibility to support Dawntrail (Thanks @Infiziert90)\n- Removed ContextMenu support until further notice"
+commit = "2fe7047d5c4d4345811eaf3de98764967ef6466d"
+changelog = "- Updated plugin for 7.1"

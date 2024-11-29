@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "55bc26ba196e756c686de0d4738e32e2f5a90635"
+commit = "a44ec1b5cd3b9545918c03367d4f8f42956bcb28"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Removed bot stop/start on logout/login events. It seems this was causing some issues.
-
-The plugin will also now cache LocalPlayer on every Framework ticket instead of only on Login events. That should help with LocalPlayer resolutions showing up as null when they shouldn't be.
+Updated for API 11
 """

@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "d6f9b76acb3106840ac2fd89c81f14aac13482a9"
+commit = "313edf58163ce804ac7bf553f1e41f4c82df093c"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = "- Add basic Universalis status indicator"
+changelog = """\
+- Context Menu: fix unhandled exception if item not in Item sheet (eg. key items)\
+"""

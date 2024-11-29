@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/iv230/chat-proximity.git"
+commit = "5e58458e13e4f8b814c88a2c7ff217c9558e7887"
+owners = [
+    "iv230"
+]
+project_path = ""
+changelog = """# 1.2.0
+- Added an option to color differently messages if targeing a character or if the character targets you
+"""

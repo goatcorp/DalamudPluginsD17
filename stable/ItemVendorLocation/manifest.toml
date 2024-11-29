@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "de20a711b1105a1415935fa6b5ad0d8c0235cadc"
+commit = "730cb0408bfd62464427df28d063fee4b2a06b43"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- API 10 updates
-- Make table header sticky
-- Make table rows color banded
-- Remove xivcommon dependency
+- 7.1 updates
 """
-version = "2.7.0.0"
+version = "2.8.0.0"

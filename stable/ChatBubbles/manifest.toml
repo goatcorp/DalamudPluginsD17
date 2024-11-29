@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "7cb130aab4c90123666fcb1c64e09537300f350a"
+commit = "3b5eff79e6689e7d2745b76b327d9e08e46546c4"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = """### 2.1.6.0 : DT (7.0) compatibility, API10 & net8 upgrade
-+ Minor refactoring """
+changelog = """### 2.1.7.2
+-# API11 update for patch 7.1
+-# Sent the code to Square Enix for vanilla chat bubbles in patch 7.2"""

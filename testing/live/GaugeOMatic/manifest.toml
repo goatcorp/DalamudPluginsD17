@@ -1,20 +1,13 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "4375328e2b0e71275a168a79e199b1d4ed2f2d34"
+commit = "ae4c3659afadb3552fb32f6257c2b4b20d934bfc"
 owners = [
     "ItsBexy",
 ]
 changelog = """
 ## TRACKERS
-- Added data trackers for Kazematoi, Vipersight, Serpent Offerings Gauge, Astral Gauge, and Palette Gauge
-
-## WIDGETS
-Some widgets have been revised to make use of new UI functions added to the game in 7.0.
-- *Shimmering Halo* should hopefully play nicer with Reshade (although it does look slightly different from before)
-- The replica *Esprit Bar* and *Enochian Bar* widgets can now be freely rotated to any angle.
-- *Simple Circle* now offers two blending mode options.
+- Added multiple song trackers for BRD. These can be used to track song time remaining, stacks of Repertoire, and/or Minstrel's Coda status.
 
 ## MISC
-- Updates and corrections have been made to Status and Action data for some jobs
-- The plugin should now handle it a bit better when job gauge elements are hidden
+- Added the missing `Behavior` tab to the `Simple Timer` widget.
 """

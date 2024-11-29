@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/una-xiv/umbra.git"
-commit = "f4160833f1ba609ef98e909a5db869c112b73d1b"
-owners = ["haroldiedema"]
-project_path = "Umbra"
-changelog = """
-Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
-"""

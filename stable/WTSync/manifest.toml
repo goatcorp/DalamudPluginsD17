@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/KhloeLeclair/WTSync.git"
+commit = "deadd14776689544d69391e48bb3b7b8300cedbf"
+owners = [ 
+	"KhloeLeclair"
+]
+project_path = ""
+changelog = """
+* 7.1 Changes + Dalamud API11
+
+* Added a feature to select a random duty from the list of matching duties when clicking an entry in WTSync, rather than just going through them in order. Hopefully that makes reclears slightly more interesting, especially with the newer broader categories.
+"""

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "41ec1c46ccecde2ae7912acc7d13123374b313e5"
+commit = "60d1c73f065dddcadb7848ed648ac40c83fd0175"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.2.2.1
+1.5.0.0
 
-bugfix for character specific notes
+API 11 Fixes
 """
