@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "0d6094a115d50b02313f71fabf4d283417b02e98"
+commit = "251da2efa624329a07ebee7d1e85ec542396c5d5"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed a bug where the CC match window could not be opened if a player abandoned the match.
+* Updated for api11 and game patch 7.1.
+* Added Rival Wings Records and Jobs tabs.
+* Refresh performance optimizations.
 """

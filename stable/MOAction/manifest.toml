@@ -14,7 +14,7 @@ owners = [
 project_path = "MOAction"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\
-		7.1\
+changelog = """
+		7.1
 		ty alluneve
-		"""
+"""

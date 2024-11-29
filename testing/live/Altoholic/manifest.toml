@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Sohtoren/Altoholic.git"
+commit = "6f7d342c893da78c666beead878ac573f0668b0b"
+owners = ["Sohtoren"]
+project_path = "Altoholic"
+changelog = "Version 0.0.0.27: Add unread letters notification icon, rework /altoholic command, fix pelupelu framer kit required rank"

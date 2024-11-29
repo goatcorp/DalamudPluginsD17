@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/KoizumiChan/CraftRemnantsXIV.git"
+commit = "85408c452eb4c493a2bdfc0f5e46898e7f354415"
+owners = ["KoizumiChan"]
+project_path = "CraftRemaining"
+changelog = "Initial Release, Added progress and quality remaining to native UI. Useful in compilation with calculations tab."

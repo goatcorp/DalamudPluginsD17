@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/NadyaNayme/TidyChat.git"
+commit = "7cfe018c603651417394b7657e1ee30bc3c081c6"
+owners = [
+    "NadyaNayme",
+]
+project_path = "TidyChat"
+changelog = "Fix GC+10%, Fix LootNotice filters (again), Add toggle for displaying Party Information when joining a party"

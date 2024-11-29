@@ -1,5 +1,9 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/Glamaholic.git'
-commit = 'e86866ae6f44ce33220b11e38fdf100804be9240'
-owners = [ 'lojewalo' ]
-changelog = 'API 9'
+repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
+commit = '3d65cfe8877753199bc1ed3dd476f19a3bccc1d8'
+owners = [ 'caitlyn-gg' ]
+changelog = """
+Fixed a bug wherein the second dye slot would not be set when a plate was applied.
+
+For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
+"""

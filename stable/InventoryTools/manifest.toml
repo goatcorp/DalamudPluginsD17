@@ -1,19 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "cc6862c2e3a9e0a8fc7582c0a3835a7dbf4ea2fd"
+commit = "3ac1e7d3908cefb73db12d533100317d1b2a1a8f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.14"
+version = "1.11.0.3"
 changelog = """\
-### Added
-
-- Added a calamity salvager filter and column, also items that can be purchased from a calamity salvager will be listed within the item window for applicable items.
-
 ### Fixed
-
-- Fixed a bug that would list missing ingredients for a craft even if they weren't missing
-- Fixed duplicate patch data that was breaking the patch column
+- Hopefully squashed a bug with the retainer list and highlighting
+- Improvements to the NPC parsing means more vendors should have locations/shops
 
 """

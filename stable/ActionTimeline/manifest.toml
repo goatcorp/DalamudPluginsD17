@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/ActionTimeline.git"
-commit = "f877de33a550a331db48d97061da828affa5e6af"
+commit = "7bfe9b76ee2b07a837ba2b14f1f9452cfb7ab1ea"
 owners = ["Tischel"]
 project_path = "ActionTimeline"
-changelog = "- Added support for Dawntrail and Dalamud API 10."
+changelog = "- Added support for Patch 7.1 and Dalamud API 11.\n- Added support for items."

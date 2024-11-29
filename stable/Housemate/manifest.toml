@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/lmcintyre/Housemate.git"
-commit = "9c9bcd6d6d12e003350870b1be858010efbb408b"
+repository = "https://github.com/perchbirdd/Housemate.git"
+commit = "fa737559216bdf86c6845ae38b18352ab5749d37"
 owners = [
-    "lmcintyre",
+    "perchbirdd",
 ]
 project_path = "Housemate"

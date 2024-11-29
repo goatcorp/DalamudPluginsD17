@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "0f74ffc6ff6222825d81439f4c6b18a244b4c524"
+commit = "31dac8ef29fafd16465562e097e15fda40ea8209"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- DT Update
-- Support added for Solar Bahamut
+- API 11 stuff and things
 """

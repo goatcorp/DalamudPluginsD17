@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "fa3817fe8cd64721cafc268a39791eb47ccb37f6"
+commit = "4c3c1f70b96512644ddb62724a11e2e1d602bffe"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Dawntrail support!
-- Remove colour palette
-- Replace it with full RGB colour pickers
-  - This is a thing now, woah!! Make it hot pink!
-- Replace groups dropdown with list of groups since it's easier to pick colours now!
-- Implement Dalamud's window system for all windows
+- Update for 7.1
 """

@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "18307dfdf2a9f7a7910fd504e70212b3f4683f16"
+commit = "3f3998e00a3a9150b813655b7785d6a2c61a8384"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Reduce number of universalis requests to stay within rate limit
-- Clarify error message
+- Fix item quantities being tracked incorrectly
 """

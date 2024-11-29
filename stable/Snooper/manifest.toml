@@ -1,7 +1,9 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-snooper.git"
-commit = "c39433005697abc177849121afe659ed82226eb9"
+commit = "8de76411c4c46a342cf18a200ce8d3905bdb6933"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.2.1.2"
-changelog = """Updated for Dawntrail."""
+version = "1.4.0.1"
+changelog = """
+Update to Dalamud API 11.
+"""

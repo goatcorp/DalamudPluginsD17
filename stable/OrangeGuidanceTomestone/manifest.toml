@@ -1,9 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = 'c65ff3837854c2494344d6e6130f3111dca0402a'
+commit = '8842c04ccd1f24c57a64c40fc07420f443213c3e'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Use a new method of managing VFX which should fix some bugs
-- Fix invisible messages
+- Bump now that ClientStructs is fixed
 """

@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/goaaats/Dalamud.FullscreenCutscenes.git"
-commit = "0cf8c7ed36e5c061dc64cce74b8894847e99fdd8"
+repository = "https://github.com/MapleHinata/Dalamud.FullscreenCutscenes.git"
+commit = "0913753c7874210f62f1ad9e37635887901bc4bd"
 owners = [
-    "goaaats",
+    "MapleHinata",
 ]
 project_path = "Dalamud.FullscreenCutscenes"

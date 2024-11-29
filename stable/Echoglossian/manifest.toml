@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "159da5dc1ecae9490977e498e6805ba199ab8633"
+commit = "671299edab0048a8b45c798e789ae79ed473a9a1"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.7.x - fix battleTalk dimensions calculations"
+changelog = "v3.16.x \n - fixes:\n - API11/v7.1 compatibility."
