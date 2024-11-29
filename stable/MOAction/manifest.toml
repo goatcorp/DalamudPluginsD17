@@ -2,7 +2,7 @@
 repository = "https://github.com/attickdoor/MOActionPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "292a0b039322432f32619c6dce354db0815b0fd3"
+commit = "77703d85e7e9bf57fa5f757856685ef3a0d97cfb"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,6 +15,6 @@ project_path = "MOAction"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		7.0 update\
-		Ground target at mouse works again
+		7.1\
+		ty alluneve
 		"""
