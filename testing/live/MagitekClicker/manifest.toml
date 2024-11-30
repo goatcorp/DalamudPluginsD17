@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ereti/MagitekClicker.git"
+commit = "20817374f7d770e5c74a3e0261fbc2b04af0632b"
+owners = ["ereti"]
+project_path = "MagitekClicker"
+changelog = "Initial release"
