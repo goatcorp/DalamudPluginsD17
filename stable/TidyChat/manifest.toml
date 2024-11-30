@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "d1e85bb7c64fadf33702a1a1f4f3090f2c924783"
+commit = "79401d1d9282c513c3c753ee295f2229d72c79c3"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Only log to XLLog when Debug Mode / Dry Run Mode is enabled ; fixes Custom Emotes used by Player"
+changelog = "Disable Tidy Chat for combat-related channels ; fix S Rank Hunts and Experience Gain filters"
