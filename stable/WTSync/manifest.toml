@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "deadd14776689544d69391e48bb3b7b8300cedbf"
+commit = "311d125a90085a5cd1142f0ae62b6dbb827b9782"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-* 7.1 Changes + Dalamud API11
+* Added: Share links. Got a friend who can't or doesn't use plugins? You can now generate a link and they can view WTSync in their browser. For privacy, these links expire after 30 minutes and only show characters' initials.
+* Added: Wondrous Tails statistics. What duties are people doing? Are people finishing their Wondrous Tails? How many stickers do people have? Find out now with our new weekly reports.
 
-* Added a feature to select a random duty from the list of matching duties when clicking an entry in WTSync, rather than just going through them in order. Hopefully that makes reclears slightly more interesting, especially with the newer broader categories.
+* Added option to opt out from statistics. The data is fully anonymous, but I understand some people aren't cool with that sort of thing so, for those of you who aren't, just opt out and you won't be included.
+* Added links to the WTSync website to its settings window.
 """
