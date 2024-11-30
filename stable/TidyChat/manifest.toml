@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "fed8009db1500f86fb8300fa4483dbe9ef0d96ab"
+commit = "79401d1d9282c513c3c753ee295f2229d72c79c3"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Fix Custom Filters ; Adds 'Show All Other Crafting/Gathering' filters courtesy of ALymphocyte"
+changelog = "Disable Tidy Chat for combat-related channels ; fix S Rank Hunts and Experience Gain filters"
