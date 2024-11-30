@@ -1,18 +1,17 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6557dcb7749816064be4ef45f688beab86c1b195"
+commit = "1aa5f1659ed931d5431df28e8d92234533a6c20b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.1
-
-## New Additions
-
-- Dynamic Menu Widget: Add support for alt-labels & icon color masks in "Custom Entry" items, (By [Ivinedra](https://github.com/Ivinedra)).
+# Umbra 2.3.2
 
 ## Fixes & Improvements
 
-- Updated the icon picker library. SE has shuffled/removed some icons, which caused the icon picker to misbehave.
+- Re-added some missing icons to the Icon Picker (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed a text-rendering issue in Vista world markers (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Fix black bar on multi monitor if it spans larger than the monitor (By [wolfcomp](https://github.com/wolfcomp)).
+- Replaced all occurrences of `.ToDalamudString().TextValue` with `.ExtractText()` to make string conversion more consistent across the plugin.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

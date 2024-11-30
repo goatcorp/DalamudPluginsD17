@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/erroch/FFXIVRPEventCalendarPlugin.git"
-commit = "d778ae3506ed82dffd6a419765007a79e5c3c6d4"
+commit = "9b4e7aa560f41bb57decb59819df7287e0b3eec6"
 owners = ["erroch"]
 project_path = "FFXIVRPEventCalendarPlugin"
 changelog = """
+1.0.1.5 (2024.11.24)
+- Updated for Dawntrail (7.1) release.
+- Added sorting to the server events.
 1.0.1.4 (2024.07.05)
 - Typo fixing.
 1.0.1.3 (2024.07.02)

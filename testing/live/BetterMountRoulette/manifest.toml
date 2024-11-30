@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "d64155db6a37af69bf4111b988968d55bd914fd7"
-version = "1.6.0.22"
-owners = ["CMDRNuffin"]
-changelog = """Update for 7.1/API 11"""

@@ -1,13 +1,16 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "9048907220fb59d35c3fb6f264b610a984668b51"
+commit = "d21bf5c4da26603b6d4df9eca3a762fb07680be3"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-Updated for API 11, now with fixed region images and full job names.
+Updated for API 11, maybe with party fixes.
 
-Please report if you use a non-English client language and AFK status doesn't work.
+Please submit a feedback or post in the XIVLauncher and Dalamud discord server if:
+- You use a non-English client language and AFK status doesn't work.
+- Parties do not work
+
 """

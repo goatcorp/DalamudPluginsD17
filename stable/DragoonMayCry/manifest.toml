@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "a7d9a1ef8fe9a4a493a2ab7e2db69dd53e995ff6"
+commit = "c90e2b650f1eacbfc961bc2089cd51975330978e"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Enemies with less than 2 HP are now considered untargetable
-- Getting the paralysis debuff will derank you.
+- Fixed a bug that would block audio from the game after a change in the default audio output
 """

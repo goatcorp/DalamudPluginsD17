@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "19ebf17f76a5395c65ad962374d433ea8d6ea092"
+commit = "79401d1d9282c513c3c753ee295f2229d72c79c3"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "- Custom filters for the Gathering channel should properly check the Gathering channel and the GatheringSystem channel instead of only the GatheringSystem channel."
+changelog = "Disable Tidy Chat for combat-related channels ; fix S Rank Hunts and Experience Gain filters"

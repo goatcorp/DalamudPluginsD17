@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "2aa789c4c9d482bf8e0d4cda24c265b358c7265d"
+commit = "6f7d342c893da78c666beead878ac573f0668b0b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.25: Fix reputation tab and add new pelupelu reward"
+changelog = "Version 0.0.0.27: Add unread letters notification icon, rework /altoholic command, fix pelupelu framer kit required rank"
