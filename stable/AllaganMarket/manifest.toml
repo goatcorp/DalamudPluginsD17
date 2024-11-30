@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "8faea3e1edbf270a3d86751ac363ba067bd6e30b"
+commit = "7371530563fabe029d72e3c5bda794f9139d88cf"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.0"
+version = "1.1.0.1"
 changelog = """\
-**Fixes**
-- API11 support
+**Changes**
+ - Add "Open Crafting Log" to context menu inside plugin windows
+ - The order of items is now retrieved directly from the game so highlighting should always highlight the correct item
 """
