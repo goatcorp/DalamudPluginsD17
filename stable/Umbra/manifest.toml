@@ -1,17 +1,25 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "1aa5f1659ed931d5431df28e8d92234533a6c20b"
+commit = "cb0259b3f03b872ff9767ffe48368f3916fb0a47"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.2
+# Umbra 2.3.3
+
+## New Additions
+
+- Added a new World Marker Type that shows links to adjacent- and instanced areas.
+- Added available blue (feature) quests to the Quest Objective Markers with optional "red quest"-filter to show/hide unavailable quests due to job/level restrictions.
+- Added an option to enable/disable rounded corners of the toolbars and widget popup frames. You can find a checkbox for this in the General Settings -> Toolbar Settings and Appearance -> Popup Appearance sections respectively.
+- Added a right-click action to the Custom Deliveries widget to open the "Client List" window immediately, since it now shows more useful information.
+- Added a text-size configuration option to the experience bar widget.
+- Added a [XIV Instant Messenger](https://github.com/NightmareXIV/XIVInstantMessenger) widget that gives you quick access to open conversations and has a visual indicator for unread messages. Note that this widget is only available (and visible in the widget list) if the XIV Instant Messenger plugin is installed and enabled. You may need to restart Umbra if you decide to install XIV Instant Messenger while Umbra is already running in order for the widget to show up in the list of available widgets.
+- Added an option to the Gearset Switcher that allows you to modify the height of gearset buttons in the popup (by [Drakime](https://github.com/Drakime)).
 
 ## Fixes & Improvements
 
-- Re-added some missing icons to the Icon Picker (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fixed a text-rendering issue in Vista world markers (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Fix black bar on multi monitor if it spans larger than the monitor (By [wolfcomp](https://github.com/wolfcomp)).
-- Replaced all occurrences of `.ToDalamudString().TextValue` with `.ExtractText()` to make string conversion more consistent across the plugin.
+- Removed the decimal point from the World Markers.
+- Fixed an issue in the World Markers settings window in which some controls were showing unexpected behavior due to internal naming collisions.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
