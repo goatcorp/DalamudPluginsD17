@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "40560c63f33de41afa9ce49b7cc283a0b82c57a5"
+commit = "299aba46c6998bb56e7c948954aeb064788def47"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Added support for patch 7.1 and API 11
-- Changed owners
+- Fixes for 7.1
 """
