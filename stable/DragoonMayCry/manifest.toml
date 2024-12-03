@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "c90e2b650f1eacbfc961bc2089cd51975330978e"
+commit = "c8978cef7e34c18b5e81a3587c24b74aca1417c4"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Fixed a bug that would block audio from the game after a change in the default audio output
+- fix : LB effects would trigger mutiple times when multiple targets are hit
 """
