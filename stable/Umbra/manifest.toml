@@ -1,25 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "f673d7e7b6cbe4143be8b7bf3adb36f273cfe049"
+commit = "6ed3a69aad1035a38a55cab61caa18de94f4b7c3"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.3
+# Umbra 2.3.4
 
 ## New Additions
 
-- Added a new World Marker Type that shows links to adjacent- and instanced areas.
-- Added available blue (feature) quests to the Quest Objective Markers with optional "red quest"-filter to show/hide unavailable quests due to job/level restrictions.
-- Added an option to enable/disable rounded corners of the toolbars and widget popup frames. You can find a checkbox for this in the General Settings -> Toolbar Settings and Appearance -> Popup Appearance sections respectively.
-- Added a right-click action to the Custom Deliveries widget to open the "Client List" window immediately, since it now shows more useful information.
-- Added a text-size configuration option to the experience bar widget.
-- Added a [XIV Instant Messenger](https://github.com/NightmareXIV/XIVInstantMessenger) widget that gives you quick access to open conversations and has a visual indicator for unread messages. Note that this widget is only available (and visible in the widget list) if the XIV Instant Messenger plugin is installed and enabled. You may need to restart Umbra if you decide to install XIV Instant Messenger while Umbra is already running in order for the widget to show up in the list of available widgets.
-- Added an option to the Gearset Switcher that allows you to modify the height of gearset buttons in the popup (by [Drakime](https://github.com/Drakime)).
+- Added an option that allows you to customize the maximum visible distance of world markers. This means that markers will no longer render if they are further away than the configured distance. You can find this option for each individual marker type under the "World Markers" panel in Umbra's settings window.
 
 ## Fixes & Improvements
 
-- Removed the decimal point from the World Markers.
-- Fixed an issue in the World Markers settings window in which some controls were showing unexpected behavior due to internal naming collisions.
+- Fixed Adjacent Area Marker positions for maps with offsets. (Thanks Wildwolf!)
+- Added additional toggleable marker types to Adjacent Area Markers (Aetheryte, Aethernet, Taxi, etc.)
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
