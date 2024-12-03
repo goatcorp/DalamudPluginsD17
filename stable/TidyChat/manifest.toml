@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "79401d1d9282c513c3c753ee295f2229d72c79c3"
+commit = "9678195b23cc4f69d5fd9c795c849bee824b373e"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Disable Tidy Chat for combat-related channels ; fix S Rank Hunts and Experience Gain filters"
+changelog = "Skip messages filtered by other plugins such as NoSol to prevent unfiltering them. Narrows the channels that run filters further as unnecessary channels were still having rules ran against them"
