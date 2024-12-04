@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/hunter2actual/BigNaelQuotes.git"
+commit = "8efd5a1ed69a0293c66b8a25d13e4c6b63fee94b"
+owners = ["hunter2actual"]
+project_path = "BigNaelQuotes"
+changelog = "Testing build"
