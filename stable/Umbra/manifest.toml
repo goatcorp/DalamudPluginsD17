@@ -1,19 +1,14 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6ed3a69aad1035a38a55cab61caa18de94f4b7c3"
+commit = "4ca0ef3a01dd128c66c1ad4ea8c0377f8eb664ec"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.4
-
-## New Additions
-
-- Added an option that allows you to customize the maximum visible distance of world markers. This means that markers will no longer render if they are further away than the configured distance. You can find this option for each individual marker type under the "World Markers" panel in Umbra's settings window.
+# Umbra 2.3.5
 
 ## Fixes & Improvements
 
-- Fixed Adjacent Area Marker positions for maps with offsets. (Thanks Wildwolf!)
-- Added additional toggleable marker types to Adjacent Area Markers (Aetheryte, Aethernet, Taxi, etc.)
+- Fixed a crash in the Party Member World Markers due to the missing "Max Visible Distance" configuration variable (by [mustafakalash](https://github.com/mustafakalash)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
