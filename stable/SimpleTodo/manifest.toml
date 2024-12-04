@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://gitlab.com/moonfox-projects/simpletodo.git"
-commit = "95f85fa732f5c47206c79af96b12cf376d1e0a23"
+commit = "a75f8805e8225184e529d19b5e5958017818e5e2"
 owners = ["Lunalicious"]
 project_path = "SimpleTodo"
 changelog = "Update for API 11"
