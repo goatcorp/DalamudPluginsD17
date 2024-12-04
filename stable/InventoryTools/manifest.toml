@@ -1,14 +1,28 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "3ac1e7d3908cefb73db12d533100317d1b2a1a8f"
+commit = "b21463a0af12108908a35717d9268f1b07c42be2"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.3"
+version = "1.11.0.4"
 changelog = """\
-### Fixed
-- Hopefully squashed a bug with the retainer list and highlighting
-- Improvements to the NPC parsing means more vendors should have locations/shops
+### Added
+- Added a yes/no filter for every single source/use
+- Added a yes/no filter for every single source/use category
+- Added a item unlock tooltip(shows which characters have an item unlocked)
+- Added a search for the list configuration(hopefully this helps configuring lists easier)
+- The craft calculator now allows for a scope to be picked(you can choose which inventories you want to use)
+- Added exterior house items and housing fixtures as uses
 
+### Changed
+- Unlocks are now tracked more reliably
+- The way filters are displayed in the list configuration has been adjusted
+- Certain filters were superceeded by the source/use system, any lists using those have been migrated
+- Amount Owned was renamed to Item Locations
+
+### Fixed
+- Item searching in a few places was inconsistent
+- Certain tabs of the list configuration page were causing massive FPS drops
+- The sample lists did not have any columns by default
 """
