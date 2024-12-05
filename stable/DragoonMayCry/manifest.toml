@@ -1,8 +1,14 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "c8978cef7e34c18b5e81a3587c24b74aca1417c4"
+commit = "e58e6183cdb71abfe67b4e74c7f5d166a435690c"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- fix : LB effects would trigger mutiple times when multiple targets are hit
+- Removed check box to enable 'Estinien Must Die'
+- Difficulties selectable with a combo selection : 'Sprout', 'Wyrm Hunter' (default), 'Estinien Must Die'
+- New difficulty mode "Sprout" :
+  - Dropping your GCD will increase the decay rate of the progress gauge instead of demoting you.
+  - Duties performance are not recorded for jobs in Sprout mode
+- Added a 3s delay before the demotion warning starts if you just have been demoted.
+- Increased the configurable range limit to determine if a GCD was dropped from 1 s to 2.5 s 
 """
