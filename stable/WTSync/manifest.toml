@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "bad99025cde42e0e6ee93eb3ea0353bfc49c8bc0"
+commit = "091120354ed4d79ecc77eb4165be148949d79ecf"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-* Added: Ability to open the Duty Finder to a relevant duty when clicking a Wondrous Tails entry directly in the Wondrous Tails UI.
-
-* Fixed: Bug where we would attempt to open the Duty Finder to a roulette while in an instance.
-* Maintenance: Update the various API endpoints to new URLs.
+* Added: Ability to switch WTSync to offline mode without disabling it. In offline mode, your Wondrous Tails data won't be sent to the server and you won't receive any data from the server about your party members.
+* Changed: Ensure data is erased from the server when disabling WTSync without logging out first.
 """
