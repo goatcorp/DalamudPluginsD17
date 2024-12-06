@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/arcanedisgea/beegwindow.git"
-commit = "3f19c4f8a1eb2d7a0d21466631414f868037cea7"
+commit = "7a881a9e2c158b46c518da81f802f753e06bc1ff"
 owners = ["ArcaneDisgea"]
 project_path = "BeegWindow"
-changelog = "Initial Release"
+changelog = "Update to api 11"
