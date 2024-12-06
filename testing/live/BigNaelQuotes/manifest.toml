@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/BigNaelQuotes.git"
-commit = "76074baad3432c87613b4b31b5c4e86b911737aa"
+commit = "c0a1334e15a4435dbf07327435adce3eb5773d39"
 owners = ["hunter2actual"]
 project_path = "BigNaelQuotes"
-changelog = "Remove ability to configure NPC name"
+changelog = "Randomize test quote selection"
