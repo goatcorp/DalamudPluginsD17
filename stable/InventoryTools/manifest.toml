@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ded6d01c1f7817fa14f46bc0bd21173d844338e4"
+commit = "daf54eeea553c7bc86e3dc88508b24e6093f2bbc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.5"
+version = "1.11.0.6"
 changelog = """\
 ### Fixed
-- Certain tooltips were active even when disabled in the settings
+- Stopped the unlocks from being wiped on logout
+- The characters in the unlock tooltip will be shown alphabetically
 """
