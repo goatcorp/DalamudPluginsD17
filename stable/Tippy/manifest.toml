@@ -2,7 +2,7 @@
 repository = "https://github.com/Critical-Impact/Tippy.git"
 owners = [ "kalilistic", "Critical-Impact" ]
 project_path = "src/Tippy"
-commit = "a584897594e538e21cccdfe87a9fa235009ec023"
+commit = "824029878a5f999ec252c1a5ba43d63a78ad27df"
 version = "1.11.0.0"
 changelog = """\
 ### Tippy - The Retippening
