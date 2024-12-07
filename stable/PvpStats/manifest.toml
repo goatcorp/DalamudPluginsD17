@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "19a9331b4c6feb56a26e38397ef5235ea247024d"
+commit = "8288395edf0a6bf6887af18d4aad7b64fd170f14"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated and re-enabled Rival Wings match tracking for Dawntrail.
-* Fixed a bug where table data would be offset on the Frontline match details window.
+* Add season 12 and patch 7.11 and 7.1X time filter options.
 """

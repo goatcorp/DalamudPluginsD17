@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/radax864/CWLSLastSeenTool.git"
+commit = "be9676b29444782a108cc3fb8e42e26eeed01f9e"
+owners = ["radax864"]
+project_path = "CWLSLastSeenTool"
+changelog = """
+Version 1.1.2.1
+
+- Update to API 11 and Lumina 5 for patch 7.1.
+"""

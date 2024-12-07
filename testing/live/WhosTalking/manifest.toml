@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "8943cf8677f8690766b66ca183c55c5172546e8c"
+commit = "fc3ff36fe2430efa410a3948101d6bd20767e579"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.7.1.0**
+**Version 0.8.2.0**
 
-- Fix scrolling of preview icons in settings window (thanks to @foophoof for the report)
-- Add option for non-rounded voice activity indicators, useful for users of certain graphical mods (thanks to iris for the implementation)
-
-**Known issue:** the native UI indicators are invisible with certain graphical mods. This will be resolved in a future update. In the meantime, users experiencing this issue can head to the plugin settings and switch "indicator style" to "Imgui".
+Fixed a bug where Discord users would be displayed on top of your chocobo if you didn't have a pet summoned.
 """

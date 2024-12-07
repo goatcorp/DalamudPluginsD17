@@ -1,0 +1,14 @@
+name: Manually commit staged plugins
+on: [workflow_dispatch]
+
+jobs:
+  run-plogon:
+    name: Build Plugins
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Signal XLWeb commit
+      run: |
+        curl --request POST \
+        --url https://kamori.goats.dev/Plogon/CommitStagedPlugins \
+        --header 'X-XL-Key: ${{ secrets.XLWEB_KEY }}'

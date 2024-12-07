@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "2d3f6af753599dfab06901659cb24a1bf3535637"
-owners = ["fmauNeko"]
-project_path = "MarketBoardPlugin"
-changelog = """\
-- Refactor Universalis code to make it more resilient\
-"""

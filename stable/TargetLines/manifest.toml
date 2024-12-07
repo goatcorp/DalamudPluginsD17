@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "f19f6e3d5cd4ff6abe9d69ede8de21b641de35a6"
+commit = "ace8a361a49c219f6cd70cdc82b4ec77040c8182"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Fixed null reference in certain unnatural circumstances
-- Fixed rare case where lines would try to initialize with 0 samples
-- Minor improvements to the performance of fancy lines when there are a high number of lines
-- Added option to filter party/alliance
+Bug fixes:
+- Fixed issue where focus target lines would repeatedly play dying animation when the player died
+- Fixed issue where resetting to default wouldn't always update the filters
 """
 

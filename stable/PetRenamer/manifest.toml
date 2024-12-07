@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "24217ad0e39318e078ba49627585a8e74c88f953"
+commit = "d58c3e97313565acd030d097d0247a8486689264"
 owners = ["Glyceri"]
 	changelog = """
-    [1.5.0.4]
-    Fixes IPC crash with other plogons.
+    [2.3.0.5]
+    Fixes colours not exporting and importing properly (gamers, I was very ill, which is my copium excuse for why we've had so many bugs lately)
 """

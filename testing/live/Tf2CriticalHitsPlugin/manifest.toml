@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-tf2-crit-plugin.git"
-commit = "c846943d0e9c9c8bec583e82c467a51041fd7d6c"
+commit = "356dc4650aec5a39f6c9c4e8ea05513d1d866bc8"
 owners = ["jkchen2"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Fix player/pet logic order
+Updated for FFXIV 7.11
 """

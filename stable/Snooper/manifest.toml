@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-snooper.git"
-commit = "d79d13d33e3d6babe23ad53afdc65138dca70a48"
+commit = "8de76411c4c46a342cf18a200ce8d3905bdb6933"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.3.0.0"
+version = "1.4.0.1"
 changelog = """
-* Chat messages loaded from log files (rather than sent in the current game session) are now dimmed out.
-* Fixed a bug where failing to open log files for writing prevented Snooper from functioning properly.
+Update to Dalamud API 11.
 """

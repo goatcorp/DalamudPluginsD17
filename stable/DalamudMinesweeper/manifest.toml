@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "d70f664d33cb7fcbba2bfe97edc8487e864f3b9f"
+commit = "8c4d06c400af3c7406373b5a55919948399f3fb3"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for Dawntrail"
+changelog = "Pause timer when game window closed"

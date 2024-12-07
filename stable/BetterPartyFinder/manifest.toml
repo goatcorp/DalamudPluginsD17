@@ -1,9 +1,6 @@
 [plugin]
-repository = "https://github.com/sersorrel/BetterPartyFinder.git"
-commit = "658b8d710435421118ca4e84193ed62bfd8cdca9"
-owners = ["sersorrel"]
-changelog = """\
-Fixed the bug preventing current high-end duties from showing up. Also added a category for V&C Dungeons. (Thanks to PartyLich for these changes!)
-
-Plugin adopted from Anna. Many thanks to her for all the work she put in!
-"""
+repository = "https://github.com/Infiziert90/BetterPartyFinder.git"
+commit = "8702434d1303c713b6800d5e619fdfb738826167"
+owners = [
+  "Infiziert90"
+]

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Helios747/AdaptiveHudPlugin.git"
-commit = "0ea93f7c4b2acd69c1084752ba7d28fa73d96053"
+commit = "f9876fbe6837ece0a8c0419f87a61c5994aa9b0e"
 owners = [
     "Helios747"
 ]
 project_path = "AdaptiveHud"
-changelog = "fix problem where config window can get stuck"
+changelog = "API11"

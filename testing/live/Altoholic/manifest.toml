@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "3fca9afd298eece93ae3348592b06667f6353a0e"
+commit = "6f7d342c893da78c666beead878ac573f0668b0b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.5: Fix some table with for axis font. Hide more unimplemented tabs. Fix db path to prevent char loss between version upgrade"
+changelog = "Version 0.0.0.27: Add unread letters notification icon, rework /altoholic command, fix pelupelu framer kit required rank"
