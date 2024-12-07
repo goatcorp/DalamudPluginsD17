@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
-commit = "0f020dad7219180f6197a9d0dd7af74d548ea734"
+commit = "7aa9d57632aad6870d239e08795492fc53895842"
 owners = [ "Blackcatz1911" ]
-changelog = "1.0.1"
+changelog = "1.0.2"
