@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "06ffc2ee85332d219002375e8b197ded5cc9d4c4"
+commit = "5f886140e79a14954f4cfd1ef3213235ed2df956"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for 7.1"
+changelog = "Consider game won when all safe cells revealed, even if not all mines are flagged (thanks cheege)"

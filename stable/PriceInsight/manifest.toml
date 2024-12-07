@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "3c2a04ebfb2b4982db37599c507ef8515cfd5235"
+commit = "3f3998e00a3a9150b813655b7785d6a2c61a8384"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Update for patch 7.1
+- Fix item quantities being tracked incorrectly
 """

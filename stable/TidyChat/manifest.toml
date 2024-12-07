@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "19ebf17f76a5395c65ad962374d433ea8d6ea092"
+commit = "9678195b23cc4f69d5fd9c795c849bee824b373e"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "- Custom filters for the Gathering channel should properly check the Gathering channel and the GatheringSystem channel instead of only the GatheringSystem channel."
+changelog = "Skip messages filtered by other plugins such as NoSol to prevent unfiltering them. Narrows the channels that run filters further as unnecessary channels were still having rules ran against them"

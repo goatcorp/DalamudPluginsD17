@@ -1,9 +1,5 @@
 [plugin]
-repository = "https://github.com/yomishino/FFXIVAetherCompass.git"
-commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
-owners = [ "yomishino" ]
-changelog = """Patch 6.3 Update
-
-- New compass Eureka Elementals for detecting elementals in Eureka (by apetih)
-- Other minor update and bug fixes to Island Sanctuary Compass
-"""
+repository = "https://github.com/Cytraen/AetherCompass.git"
+commit = "96e3b3d4a45c8a3ee0186dd13bcd3f0e06bba8ac"
+owners = [ "Cytraen" ]
+changelog = "Update for 7.1"

@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
-commit = "99a6c470f7f7b4b5b71c5f6e91d27daebd1df333"
+commit = "107ffe9326600c6209f497db59cca7e4a4f8772c"
 owners = ["Shezwick"]
 project_path = "/GlamourSpamBeGone"
-changelog = "Added support for non-english client languages"
-version = "1.1.0.0"
+changelog = "Addressed bug where messages would not get removed if name display settings were not the default value."
+version = "1.2.3.0"

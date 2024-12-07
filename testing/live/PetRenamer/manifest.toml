@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "3fa3ff3f649632503c00b8ab0a3c5ff64a91f191"
+commit = "97b20852fc265ae3d27f08be4bc48a20e9182615"
 owners = ["Glyceri",]
 	changelog = """
-    [2.2.0.1]
-    Solves some targeting issues that came about due to the new update.
+    [2.3.0.1]
+    Fixes sharing not working.
 """

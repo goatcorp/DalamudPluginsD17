@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Hunty.git"
-commit = "9858ae3959fe2e0dd9a5517573dc160e5cd1ba0f"
+commit = "e96f35f5fcf3d61e65a4711ddd63db799e469157"
 owners = [
     "Infiziert90",
 ]
