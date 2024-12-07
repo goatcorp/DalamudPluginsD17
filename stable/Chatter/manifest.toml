@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "00df5c80f95c448e73e0946cf21752f57f6c9cd1"
+commit = "8d3b7e441451027f84bfef31870e7c523d836a36"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = "Added Restart button."
+changelog = "Upgrade to 7.1"
