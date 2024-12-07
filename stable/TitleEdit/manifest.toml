@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "526c2e87727c4636234a2fa2588d51602d60953b"
+commit = "bf1743724da94a5dc27f9ab6f21c928498acb57b"
 owners = [
     "RokasKil",
 ]
