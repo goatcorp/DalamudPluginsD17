@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "3d248a8e15c0ae1ecb9cf82017918b03fad7777c"
+commit = "526c2e87727c4636234a2fa2588d51602d60953b"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed the vanilla A Realm Reborn preset not loading on game startup, causing plugin load errors depending on configuration
+- Added housing support (thanks @Caraxi)
+- Imporoved weather loading to prevent transitions
+- Added a new character select preset "TE_Futures Rewritten"
 """
