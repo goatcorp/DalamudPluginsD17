@@ -1,5 +1,13 @@
 [plugin]
-repository = "https://github.com/kalilistic/Tippy.git"
-owners = [ "kalilistic" ]
+repository = "https://github.com/Critical-Impact/Tippy.git"
+owners = [ "kalilistic", "Critical-Impact" ]
 project_path = "src/Tippy"
-commit = "5c18d6b21461b0bbe4583a86787ef4a3565e5ce6"
+commit = "a584897594e538e21cccdfe87a9fa235009ec023"
+version = "1.11.0.0"
+changelog = """\
+### Tippy - The Retippening
+Tippy returns with vengeance!
+Thanks to kalilistic for letting me adopt this plugin.
+I will try to make sure that Tippy maintains the same level of service that he used to provide.
+Please also look forward to some new tippy integrations in the future.
+"""
