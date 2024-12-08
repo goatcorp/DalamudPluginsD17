@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "479217ba5048498d317f370ca4efc77f84c12768"
+commit = "76312a80bcbf9d1226585a1569e958a8f7cc7f53"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
-changelog = """### Of Dungeons Deep v1.0.2.0
--# API11 / 7.1
+changelog = """
+- Tons of data fixes for several monsters & their attacks (like, a lot.)
+- DDCompendium source data updated
+- Fixed EO Floor notes for 21-30, 31-40
+- Fixed HoH Floor notes for 91-100
+- Fixed PotD Floor notes for 191-200
 """
