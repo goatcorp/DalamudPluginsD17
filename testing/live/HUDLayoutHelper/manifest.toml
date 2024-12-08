@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Mary-Usagi/FFXIV-HUDLayoutHelper.git"
+commit = "96207325b9705b2cdca0cd85986dc49c36e60b60"
+owners = ["Mary-Usagi"]
+project_path = "HUDLayoutHelper"
+changelog = """
+- Added undo, redo, copy and paste functionalities to the HUD Layout editor.  
+- Added a toggleable overlay for helping with alignment of elements in the HUD Layout editor.  
+"""
