@@ -1,8 +1,14 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "f03fda988c61b14240e0c2679a0f96aca8c5636a"
+commit = "5e47e516ed5c9b6a5b25d895e927e24d392cdbc5"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Fix exception spam on first launch before login
+- Added device driver and output selection and will now default to DirectSound (thanks cubelord187!)
+- Fix PvP multikills
+- Fix PvP event inconsistencies if started from Wolves' Den
+- Fix PvP 10-second countdown event desync in Frontlines and Rival Wings
+- Fix player disconnect and reconnect events not firing (thanks Caim!)
+- Fix Triple Triad Invitational Parlor firing duty completed events
+- Other bug fixes and optimizations
 """
