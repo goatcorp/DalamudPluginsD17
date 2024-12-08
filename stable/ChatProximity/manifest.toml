@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "08bc8ec364b0d0258827981c40ac99f7ca5dfc1a"
+commit = "084b16d0ba06213e335581fdd22f0071cfa3d93e"
 owners = [
     "iv230"
 ]
 project_path = ""
-changelog = """#1.3.0
-- Added slash command to edit config
-## 1.2.1
-- Added slash command to edit config
+changelog = """## 1.3.1
+- Fixed targeting/targeted color switch
 """
