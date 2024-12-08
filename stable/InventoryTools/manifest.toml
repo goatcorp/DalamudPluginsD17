@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "3ac1e7d3908cefb73db12d533100317d1b2a1a8f"
+commit = "daf54eeea553c7bc86e3dc88508b24e6093f2bbc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.3"
+version = "1.11.0.6"
 changelog = """\
 ### Fixed
-- Hopefully squashed a bug with the retainer list and highlighting
-- Improvements to the NPC parsing means more vendors should have locations/shops
-
+- Stopped the unlocks from being wiped on logout
+- The characters in the unlock tooltip will be shown alphabetically
 """
