@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TwitchXIV.git"
-commit = "7afed804f9449769cade4a2cfb002845b3936d4b"
+commit = "d3adf9f43e85e783b809341627b845f1ce745a2a"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Updated for patch 7.1"
+changelog = "- Fixed the issue with getting an oauth token\n- Fixed a small bug that could display text twice instead of once. It did not actually send two messages."
