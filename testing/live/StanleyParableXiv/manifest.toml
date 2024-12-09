@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "8f09cfcf532c9ab564c4ff1528d19764aee88b62"
+commit = "7023a4f250acd633637e0a02b602afe0b5c8197b"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Added device driver and output selection and will now default to DirectSound (thanks cubelord187!)
-- Fix PvP multikills
-- Fix PvP event inconsistencies if started from Wolves' Den
-- Fix PvP 10-second countdown event desync in Frontlines and Rival Wings
-- Fix player disconnect and reconnect events not firing (thanks Caim!)
-- Fix Triple Triad Invitational Parlor firing duty completed events
-- Other bug fixes and optimizations
+- Fix crashes when loading audio device lists
 """
