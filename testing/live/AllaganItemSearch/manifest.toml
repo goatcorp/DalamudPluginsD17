@@ -1,0 +1,20 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
+commit = "dfa516a78a5e69b2c458871f4dfffebae02f5a2b"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganItemSearch"
+version = "1.0.0.0"
+changelog = """\
+**Allagan Item Search**
+Allagan Item Search is a dalamud plugin designed to help you search through the in-game items.
+It's current features include:
+ - All the basic filters you'd expect
+ - Source/use filters
+ - Filter pinning
+ - Customizable layout
+ - Dressing mode
+ - Intergates with AT's More Information window if installed
+ - Title menu button integration
+"""
