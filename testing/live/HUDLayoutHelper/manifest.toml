@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Mary-Usagi/FFXIV-HUDLayoutHelper.git"
-commit = "0f6886e919cb907a1af52bffc2b5273310038eee"
+commit = "e383f68b638725a386fa778af0f5fb61dffb74b9"
 owners = ["Mary-Usagi"]
 project_path = "HUDLayoutHelper"
 changelog = """
