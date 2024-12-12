@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d58c3e97313565acd030d097d0247a8486689264"
+commit = "9395d69c754400d0d84293aa84cd2a701c13aed6"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.5]
-    Fixes colours not exporting and importing properly (gamers, I was very ill, which is my copium excuse for why we've had so many bugs lately)
+    [2.3.0.6]
+    Fixes some castbars not properly utilizing the pet mirage variant of a name.
+    Small internal changes that fixes code style consistencies.
 """
