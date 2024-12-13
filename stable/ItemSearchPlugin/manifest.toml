@@ -1,7 +1,12 @@
 [plugin]
 repository = "https://github.com/Caraxi/ItemSearchPlugin.git"
-commit = "181a9b387201e4dbfbd0540fe02c9256b1032f17"
+commit = "90aca89bf3dbc87504b239dee551d0e43db5ecf1"
 owners = [
-    "Caraxi",
+    "Caraxi", "MKhayle",
 ]
-project_path = "ItemSearchPlugin"
+project_path = "ItemSearchPlugin",
+changelog = """
+### API11 / 7.1 update
+- Fixed the market board integration
+- Swapped to Dalamud.SDK
+"""
