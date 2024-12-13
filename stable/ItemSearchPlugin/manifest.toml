@@ -4,7 +4,7 @@ commit = "90aca89bf3dbc87504b239dee551d0e43db5ecf1"
 owners = [
     "Caraxi", "MKhayle",
 ]
-project_path = "ItemSearchPlugin",
+project_path = "ItemSearchPlugin"
 changelog = """
 ### API11 / 7.1 update
 - Fixed the market board integration
