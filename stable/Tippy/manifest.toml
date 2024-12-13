@@ -1,5 +1,11 @@
 [plugin]
-repository = "https://github.com/kalilistic/Tippy.git"
-owners = [ "kalilistic" ]
+repository = "https://github.com/Critical-Impact/Tippy.git"
+owners = [ "kalilistic", "Critical-Impact" ]
 project_path = "src/Tippy"
-commit = "5c18d6b21461b0bbe4583a86787ef4a3565e5ce6"
+commit = "234239fcab1674242fa155279406f4060521c395"
+version = "1.11.0.1"
+changelog = """\
+### Fixes
+- Will now use dalamuds language
+- Will now reload the tips when dalamuds language changes
+"""

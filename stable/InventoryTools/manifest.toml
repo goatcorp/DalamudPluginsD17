@@ -1,19 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
+commit = "daf54eeea553c7bc86e3dc88508b24e6093f2bbc"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.1"
+version = "1.11.0.6"
 changelog = """\
 ### Fixed
-- The plugin will now use the dalamud language instead of english
-- Stopped certain gathering points from showing up that had bad data
-- Tooltips were tweaked and should now show properly
-- Shared models within the Item Window is back
-
-### Added
-- Added item uses: Chocobo Item, Indoor Furnishing
-- Added item sources: Achievement
+- Stopped the unlocks from being wiped on logout
+- The characters in the unlock tooltip will be shown alphabetically
 """

@@ -1,18 +1,16 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6557dcb7749816064be4ef45f688beab86c1b195"
+commit = "a21544f78560d377c2af59f81f688e074eedeaa8"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.1
-
-## New Additions
-
-- Dynamic Menu Widget: Add support for alt-labels & icon color masks in "Custom Entry" items, (By [Ivinedra](https://github.com/Ivinedra)).
+# Umbra 2.3.6
 
 ## Fixes & Improvements
 
-- Updated the icon picker library. SE has shuffled/removed some icons, which caused the icon picker to misbehave.
+- Fix MainCommandShortcut disabled status (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Switch to ProcessChatBoxEntry from ClientStructs (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Make ReadOnlySeString.ReplaceText replace all occurrences (by [Haselnussbomber](https://github.com/Haselnussbomber)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

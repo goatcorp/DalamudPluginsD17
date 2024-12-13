@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "fdbd72a995b3f9d6a3ee6a04874aa2655874c626"
+commit = "551db777729f4a5fddf1cfe6372221ba9103b9ca"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
+changelog = """
+- Fixed housing related issues and crashes
+"""
