@@ -9,4 +9,5 @@ changelog = """
 ### API11 / 7.1 update
 - Fixed the market board integration
 - Swapped to Dalamud.SDK
+-# Credits to Sidiousious for most of this update!
 """
