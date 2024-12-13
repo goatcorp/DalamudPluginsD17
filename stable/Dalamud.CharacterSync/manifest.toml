@@ -2,7 +2,7 @@
 repository = "https://github.com/reiichi001/Dalamud.CharacterSync.git"
 commit = "6121184e1336b63657ab86494f38c0a7b5a7a724"
 owners = [
-    "goaaats",
+	"goaaats",
 	"reiichi001"
 ]
 project_path = "Dalamud.CharacterSync"
