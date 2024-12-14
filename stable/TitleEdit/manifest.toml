@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "3026a93a734b3f4d37b1ebd825a4da7eb1457e59"
+commit = "5593d55e66d463f9bcc234738d854fe345a927bb"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
 - Prevent housing stuff from leaking into character creation
+- Fix a housing crash on startup
 """
