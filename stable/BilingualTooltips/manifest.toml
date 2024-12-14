@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "d1b1bbce28c3a58e873f1ebd8da78ed2945d619c"
+commit = "587dcf4b73ebd76d1371a541b4f05b7cd7490a24"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
@@ -10,4 +10,5 @@ New Features:
 
 Fixed Problems:
 - General actions (Return) gets a wrong translation.
+- (1.1.1.0) Translation not showing up when result is null or config is off.
 """
