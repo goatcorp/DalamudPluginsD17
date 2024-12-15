@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "9678195b23cc4f69d5fd9c795c849bee824b373e"
+commit = "2106cfc2d9ddc7ecc26fadd952e951f3c7a3f2d9"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Skip messages filtered by other plugins such as NoSol to prevent unfiltering them. Narrows the channels that run filters further as unnecessary channels were still having rules ran against them"
+changelog = "New Emote Filters - disabled by default. Various fixes to filters not working as expected due to improper regex or misleading labels"
