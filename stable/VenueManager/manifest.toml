@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "0b7ca745a538a315aca011e4a438de2901ae2f49"
+commit = "6ed857c63dabf722f4b2af2caa49c187595792a8"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
 
-- Updated for Dalamud API 11.
+- updated method for getting house id.
 
 """
