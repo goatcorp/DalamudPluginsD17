@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "9c36d80009cdb5dfbbc31c3c3f11e2f40c628be4"
+commit = "9362082aded290afcc1d1b3f23e91e79b4e09cd5"
 owners = [
     "lokinmodar",
 ]
