@@ -1,13 +1,20 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "199edf5fa56256ab56436f2d20aa48e85a9d89a1"
+commit = "57cdfbec9b22f62ed15c3c41a8395b9e7d5122ff"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v1.0.1.0
+v1.1.0.0
 New Features:
-- NA
+- Multilingual panel to view more language variations at once.
 
 Fixed Problems:
-- Name translation does not go away on the hotkey mode.
+- General actions (Return) gets a wrong translation.
+- (1.1.1.0) Translation not showing up when result is null or config is off.
+- (1.1.1.0) More toggles to control multilingual panel hotkey behaviour.
+
+v1.2.0.0
+New Features:
+- Add bilingual Duty names for various contents finder windows.
+
 """

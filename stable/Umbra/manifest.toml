@@ -1,14 +1,16 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "8bd47b4e0de7b95062340cd49eace1359f22ac19"
+commit = "a21544f78560d377c2af59f81f688e074eedeaa8"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.42
+# Umbra 2.3.6
 
-## New Additions
+## Fixes & Improvements
 
-- WorldNameWidget: Add toggleable data center label (by [Drakime](https://github.com/Drakime)).
+- Fix MainCommandShortcut disabled status (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Switch to ProcessChatBoxEntry from ClientStructs (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Make ReadOnlySeString.ReplaceText replace all occurrences (by [Haselnussbomber](https://github.com/Haselnussbomber)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

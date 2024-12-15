@@ -1,12 +1,15 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "c942d0e89a1402a7f80e96ff712681e12ec0bd17"
+commit = "cc571191c780d50647b7afec01bccf5f7aa9fd1f"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Update scrip mapping for DT by Orphis
+- Added config option for NPC highlight color
+- Added ability to highlight multiple NPCs
+- Added ability to highlight menu selections, as well as config option to change color
+- Added more specific shop names for a few special shops
 """
-version = "2.7.1.0"
+version = "2.9.0.0"

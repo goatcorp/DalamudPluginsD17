@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/kalilistic/SillyChat.git"
-owners = [ "kalilistic" ]
+owners = [ "kalilistic", "MKhayle" ]
 project_path = "src/SillyChat"
-commit = "0f716fbe4ab5070df21d75b83bba3ce6657509f2"
+commit = "82f65c44cee32c8d489e0552ac83e4abf0a374a5"
+changelog = """### The Great Revival
+-# API11 / 7.1
+-# Chocobo & Moogle translators added
+"""

@@ -1,7 +1,12 @@
 [plugin]
 repository = "https://github.com/Caraxi/ItemSearchPlugin.git"
-commit = "181a9b387201e4dbfbd0540fe02c9256b1032f17"
+commit = "c00f67a5198297a0b17398f1ba57d7f12e5dc1c5"
 owners = [
-    "Caraxi",
+    "Caraxi", "MKhayle",
 ]
 project_path = "ItemSearchPlugin"
+changelog = """
+-# Fixed VPR/PCT (for real this time, credits to wtlangford)
+-# Fixed the <-> issues in some item names in FR/DE
+-# Fixed not being able to search for said item names in FR/DE
+"""

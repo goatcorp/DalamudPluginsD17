@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "6876c964d9e6263976cd606cfba5a71f362496eb"
+commit = "3ac3098c5da32c662cd9ecd854c37ea0a91ada09"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Adds a context menu option to announce a player's map link in party chat.
-* Adds a context menu option to restore a player's previous map link.
+* Fixed Cenote Ja Ja Gural missing from duty result imports.
 """

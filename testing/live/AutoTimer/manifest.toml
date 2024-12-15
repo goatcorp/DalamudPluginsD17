@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "69d4e0bd090c827aeaf306db8f09a18be6b7ad28"
+commit = "fdd50a2d9f9b79a2fcd38a600b23b4266c8b21a1"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Added option to hide bar label independently (CHUGGO, #3)'''
+- Fix issue where bar wasn't properly hidden on command execution'''

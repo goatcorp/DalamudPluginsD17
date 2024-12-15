@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "7ac7f30945d9ab89c2fd58004f4f237276a63956"
+commit = "5593d55e66d463f9bcc234738d854fe345a927bb"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- 7.1 and API11 update
-- When using the "Track player location" feature with "Save Eorzea time" unchecked, the plugin will use the current Eorzea time instead of midnight (thanks @Scrxtchy)
-- Added an option to use current Eorzea time instead of a predefined time in presets
-- Rewrote world layout change detection hooking to fix a rare crash
+- Prevent housing stuff from leaking into character creation
+- Fix a housing crash on startup
 """

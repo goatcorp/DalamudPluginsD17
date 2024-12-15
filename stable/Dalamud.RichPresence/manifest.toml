@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "0942007195083fc188df6d01d730a49d02640a95"
+commit = "503c1f56ddd42f89f0e4211d96d1ab5e0c272c49"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-Now includes a setting to automatically run a Wine IPC Bridge for Linux users (if you need one).
-
-XIV On Mac users should continue to use the Wine IPC Bridge available in the XOM program settings.
-
-This change has no effect for Windows users of the plugin.
 """

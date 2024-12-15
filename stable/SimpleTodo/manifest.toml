@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://gitlab.com/moonfox-projects/simpletodo.git"
-commit = "d645c982541386ae73f7097f64e7902d498ee2b4"
+commit = "a75f8805e8225184e529d19b5e5958017818e5e2"
 owners = ["Lunalicious"]
 project_path = "SimpleTodo"
-changelog = "Update for Dawntrail"
+changelog = "Update for API 11"

@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "20523a5ae403ce1e07467116dd6f85ebe3a32c0b"
+commit = "8689d9f1ec25cee16f4e618bcc38ba0d1285ef22"
 owners = ["Haplo064"]
-changelog = "APIX Update. Added VPR/PCT. Added Z axis editing. Added Cones. Added fill"
+changelog = "7.1"

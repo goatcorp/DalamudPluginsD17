@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "935940c623baf2512254eee9638192ea4f7bb202"
+commit = "6eee1772e387a63daa3219ec573e23b4af81823f"
 owners = [
     "tesu",
 ]
-changelog = "bump API version"
+changelog = "minor bugfixes and code cleanup"

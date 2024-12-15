@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ef4f92be8fbf130351d1dbd7154ff65ba681107e"
+commit = "131e70032ecee15fc655e0f81d074ad52ba5c4a0"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.1.2"
+version = "1.11.0.7"
 changelog = """\
-### Fixed
-- Fix an issue with the craft button
-- Fix highlighting in the free company chest not working
-
+### Added
+- Added a new craft list mode, stock mode allows you to enter how much of an item you want in total in your inventory, rather than how much you want to gather/craft/buy
 """
