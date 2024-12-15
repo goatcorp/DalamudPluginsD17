@@ -1,15 +1,14 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "cc571191c780d50647b7afec01bccf5f7aa9fd1f"
+commit = "a991749274a9606acb67ca7116dbb42c4eed02e5"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Added config option for NPC highlight color
-- Added ability to highlight multiple NPCs
-- Added ability to highlight menu selections, as well as config option to change color
-- Added more specific shop names for a few special shops
+- Fix highlighting issue when not every vendor for item has a shop name
+- Fix highlighting issue where menu selection was specific enough (multiple things highlighted)
+- Add additional shop names
 """
-version = "2.9.0.0"
+version = "2.9.0.3"
