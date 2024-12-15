@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "bf1743724da94a5dc27f9ab6f21c928498acb57b"
+commit = "5593d55e66d463f9bcc234738d854fe345a927bb"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Added housing support (thanks @Caraxi)
-- Imporoved weather loading to prevent transitions
-- Added a new character select preset "TE_Futures Rewritten"
+- Prevent housing stuff from leaking into character creation
+- Fix a housing crash on startup
 """
