@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "7509ffce1dfd4ef9e4a812a48f1ce0af587a432e"
+commit = "860e4477e220cd169d127a10f1d2c82049892243"
 owners = [
     "ItsBexy",
 ]
 changelog = """
 ## WIDGETS
-- Added an Icon option to bar & timer widgets. You can now display the icon for an action or status effect next to its widget. (Also works dynamically with castbar widgets!)
-- Added the missing "Behavior" tab to more widgets. Whoops!
-
-Currently only bar & timer widgets have sound and icon options, but these settings will be added to other widget types in the (hopefully near) future.
+- Fixed an issue with scaling options for the `Shimmering Halo` widget
+- Added Icon and Sound options to counter widgets
 """
