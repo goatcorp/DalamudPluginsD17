@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "daf54eeea553c7bc86e3dc88508b24e6093f2bbc"
+commit = "131e70032ecee15fc655e0f81d074ad52ba5c4a0"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.6"
+version = "1.11.0.7"
 changelog = """\
-### Fixed
-- Stopped the unlocks from being wiped on logout
-- The characters in the unlock tooltip will be shown alphabetically
+### Added
+- Added a new craft list mode, stock mode allows you to enter how much of an item you want in total in your inventory, rather than how much you want to gather/craft/buy
 """
