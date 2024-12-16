@@ -82,13 +82,13 @@ jobs:
         mkdir artifacts
         mkdir work
         
-    - name: Cache docker image
-      uses: actions/cache@v3
-      env:
-        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
-      with:
-        path: ~/.plogon_cache
-        key: cache-${{ env.cache-name }}
+#    - name: Cache docker image
+#      uses: actions/cache@v3
+#      env:
+#        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
+#      with:
+#        path: ~/.plogon_cache
+#        key: cache-${{ env.cache-name }}
 
     - name: Run Plogon
       working-directory: Plogon/Plogon
@@ -104,7 +104,7 @@ jobs:
         PLOGON_S3_ACCESSKEY: ${{ secrets.PLOGON_S3_ACCESSKEY }}
         PLOGON_S3_SECRET: ${{ secrets.PLOGON_S3_SECRET }}
         PLOGON_S3_REGION: ${{ secrets.PLOGON_S3_REGION }}
-        PLOGON_INTERNAL_S3_APIURL: $PLOGON_GLADE_APIURL
+        PLOGON_INTERNAL_S3_APIURL: ${{ vars.PLOGON_GLADE_APIURL }}
         PLOGON_INTERNAL_S3_ACCESSKEY: ${{ secrets.PLOGON_GLADE_ACCESSKEY }}
         PLOGON_INTERNAL_S3_SECRET: ${{ secrets.PLOGON_GLADE_SECRET }}
       run: |
