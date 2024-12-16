@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "6ed857c63dabf722f4b2af2caa49c187595792a8"
+commit = "7d82573472d07ffae17cbe192a5d9afaedb09255"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
 
 - updated method for getting house id.
+- Added territory id to the setting page for debugging 
 
 """
