@@ -1,20 +1,7 @@
 [plugin]
-repository = "https://github.com/attickdoor/MOActionPlugin.git"
-
-# The commit to check out and build from the repository.
-commit = "77703d85e7e9bf57fa5f757856685ef3a0d97cfb"
-
-# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+repository = "https://github.com/Infiziert90/MOActionPlugin.git"
+commit = "a45f8213f48b1d1c82b2dc88a0d52e31e7aec000"
 owners = [
-    "attickdoor"
+    "Infiziert90"
 ]
-
-# Optional: where your project/csproj is located within the repository.
-# If empty or unspecified, it will be assumed the project is in the root of the repository.
 project_path = "MOAction"
-
-# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """
-		7.1
-		ty alluneve
-"""
