@@ -78,13 +78,13 @@ jobs:
         mkdir static
         mkdir work
         
-    - name: Cache docker image
-      uses: actions/cache@v3
-      env:
-        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
-      with:
-        path: ~/.plogon_cache
-        key: cache-${{ env.cache-name }}
+#    - name: Cache docker image
+#      uses: actions/cache@v3
+#      env:
+#        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
+#      with:
+#        path: ~/.plogon_cache
+#        key: cache-${{ env.cache-name }}
 
     - name: Run Plogon
       id: plogon_run
@@ -96,6 +96,9 @@ jobs:
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
+        PLOGON_INTERNAL_S3_APIURL: ${{ vars.PLOGON_GLADE_APIURL }}
+        PLOGON_INTERNAL_S3_ACCESSKEY: ${{ secrets.PLOGON_GLADE_ACCESSKEY }}
+        PLOGON_INTERNAL_S3_SECRET: ${{ secrets.PLOGON_GLADE_SECRET }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
         PLOGON_ACTOR: ${{ github.event.client_payload.actor }}

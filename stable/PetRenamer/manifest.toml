@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9395d69c754400d0d84293aa84cd2a701c13aed6"
+commit = "cd27d7e8fbe78f9f1e2f6b2bfa3b21ddec42fd89"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.6]
-    Fixes some castbars not properly utilizing the pet mirage variant of a name.
-    Small internal changes that fixes code style consistencies.
+    [2.3.0.7]
+    Fixes the import button literally not working if you didn't have that user in your list via a previous update (This button hasn't worked in a WHILE).
+    Tentative fix for chat messages appearing empty in spots where pets with or without a nickname should appear. 
 """
