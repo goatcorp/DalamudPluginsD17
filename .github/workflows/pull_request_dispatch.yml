@@ -45,38 +45,46 @@ jobs:
         terminal-to-html --version
 
     - name: Checkout manifests from incoming PR
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.client_payload.ref }}
 
     - name: Checkout manifests from master
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests-master
         ref: main
 
     - name: Checkout Plogon
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/Plogon
-        #ref: V1.0.6
         path: Plogon
 
     - name: Checkout Dist
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/PluginDistD17
         path: output
         ref: main
+        sparse-checkout: |
+          state.json
+        sparse-checkout-cone-mode: false
 
     - name: Create required folders
       run: |
         mkdir artifacts
         mkdir static
         mkdir work
+
+    # TODO: Use future plogon config as cache key
+    - name: Cache Docker images.
+      uses: ScribeMD/docker-cache@0.5.0
+      with:
+        key: docker-${{ runner.os }} #-${{ hashFiles(paths) }}
         
 #    - name: Cache docker image
 #      uses: actions/cache@v3
