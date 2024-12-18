@@ -101,10 +101,14 @@ jobs:
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
         PLOGON_ACTOR: ${{ fromJson(steps.get_pr_data.outputs.result).first_approved_reviewer }}
         XLWEB_KEY: ${{ secrets.XLWEB_KEY }}
+        PLOGON_S3_HISTORY_BUCKET: ${{ vars.PLOGON_S3_HISTORY_BUCKET }}
+        PLOGON_S3_DIFFS_BUCKET: ${{ vars.PLOGON_S3_DIFFS_BUCKET }}
         PLOGON_S3_ACCESSKEY: ${{ secrets.PLOGON_S3_ACCESSKEY }}
         PLOGON_S3_SECRET: ${{ secrets.PLOGON_S3_SECRET }}
         PLOGON_S3_REGION: ${{ secrets.PLOGON_S3_REGION }}
         PLOGON_INTERNAL_S3_APIURL: ${{ vars.PLOGON_GLADE_APIURL }}
+        PLOGON_INTERNAL_S3_WEBURL: ${{ vars.PLOGON_GLADE_WEBURL }}
+        PLOGON_INTERNAL_S3_REGION: ${{ vars.PLOGON_GLADE_REGION }}
         PLOGON_INTERNAL_S3_ACCESSKEY: ${{ secrets.PLOGON_GLADE_ACCESSKEY }}
         PLOGON_INTERNAL_S3_SECRET: ${{ secrets.PLOGON_GLADE_SECRET }}
       run: |
