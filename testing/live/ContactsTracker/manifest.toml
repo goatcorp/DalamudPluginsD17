@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "c069e65333e01cae49c0083a4479dbe0eb654c20"
+commit = "1c6cc8d1fef81a9b1a62e9d3b1defa403ca70a85"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
