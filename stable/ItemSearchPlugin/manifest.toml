@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/Caraxi/ItemSearchPlugin.git"
-commit = "c00f67a5198297a0b17398f1ba57d7f12e5dc1c5"
+commit = "7a8d553a2fbc049594c44b935adf53b2d4b174fa"
 owners = [
     "Caraxi", "MKhayle",
 ]
 project_path = "ItemSearchPlugin"
 changelog = """
--# Fixed VPR/PCT (for real this time, credits to wtlangford)
--# Fixed the <-> issues in some item names in FR/DE
--# Fixed not being able to search for said item names in FR/DE
+- Added a By Patch filter option (thanks @Kouzukii for the data I absolutely stole without pity from Which Patch Was That)
+- Added right clicking on most options to revert them to their default state
+-# Fixed the Try On issue where it didn't apply the second dye when using the up/down arrow keys
+-# Fixed the size of the selected item box to make it the same size as unselected to avoid misclicking in the list by @smrq
+-# Fixed the size of the job selection area in the Equip as filter to avoid clipping because some sheep complained
 """
