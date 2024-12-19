@@ -1,26 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "9e68e4d9c78e8d8c63c87f69e9e956c514049596"
+commit = "6ba05395597484526d210f0ff98c173d44974844"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.8"
+version = "1.11.0.9"
 changelog = """\
 ### Added
-- The craft overlay has arrived, this collapsable overlay will show you the next steps in your current craft project.
-  - Has a menu for each item for buying/gathering/crafting
-  - Is retainer aware, so it'll only show you what you need to extract from each retainer while it's open
-  - Provides quick switching between active craft list
-- Item icons within the AT interface can now be hovered and a tooltip will show, this can be configured to show never/on icon hover/row hover
-- Right clicking on any item within AT will now provide a Gather/Buy/Craft menu with the ability to teleport to specific nodes/shops
-- New filter called "Glamour Ready Combined", shows if an item is part of a set that gets combined in the glamour chest
-- Extra vendors have been included
-- The item window will show if an item has been combined into a glamour ready set
-- Initial 7.11 data
+- Added the gathering points required for dark matter clusters to be listed
+- Added company craft prototypes as uses on related items
+- Added /craftoverlay to toggle the craft overlay
+- The craft overlay will be hidden in duties/deep dungeon/cutscenes, this can be configured in settings
 
-### Fixed
-- Fishing/Spearfishing items should show more accurate locations
-- Certain vendors were not showing due to having no name will now show their NPCs name instead
-- Housing vendors have been de-deduplicated
 """
