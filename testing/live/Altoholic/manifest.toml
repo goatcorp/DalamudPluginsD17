@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6f7d342c893da78c666beead878ac573f0668b0b"
+commit = "ea023f258adace2e5e1209e0a3b0f59aefb2bf31"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.27: Add unread letters notification icon, rework /altoholic command, fix pelupelu framer kit required rank"
+changelog = "Version 0.0.0.28: Add unlocked duties indicator to duties list. Add reset command to reset window position. Fix some table width. Add dt Hildibrand"
