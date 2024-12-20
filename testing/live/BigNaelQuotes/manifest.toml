@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/hunter2actual/BigNaelQuotes.git"
+commit = "c0a1334e15a4435dbf07327435adce3eb5773d39"
+owners = ["hunter2actual"]
+project_path = "BigNaelQuotes"
+changelog = "Randomize test quote selection"
