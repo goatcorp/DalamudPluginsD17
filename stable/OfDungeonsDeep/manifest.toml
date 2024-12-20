@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "6f7ec926c1b17d8338ea7a932ed59218f2c3cfdb"
+commit = "df8740f974c454cb2b9354228ec9b5292bf3d125"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
 changelog = """
-- Tons of data fixes for several monsters & their attacks (like, a lot.)
-- DDCompendium source data updated
-- Fixed EO Floor notes for 21-30, 31-40
-- Fixed HoH Floor notes for 91-100
-- Fixed PotD Floor notes for 191-200
+### Dead Targeting update
+- Added a configuration (opt out) to allow target data info to keep being displayed even if you're dead, whether from damage or a skill issue, so you can still call out mechanics/attacks to your allies pretending to be a living encyclopedia
+-# -Went deeper into the dungeon
 """
