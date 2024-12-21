@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "ea023f258adace2e5e1209e0a3b0f59aefb2bf31"
+commit = "f48c5a20da966c9b105b2afb050c187d8d38b51c"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.28: Add unlocked duties indicator to duties list. Add reset command to reset window position. Fix some table width. Add dt Hildibrand"
+changelog = "Version 0.0.0.29: Replace ascii icon to fontawesome"
