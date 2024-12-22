@@ -1,16 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "a21544f78560d377c2af59f81f688e074eedeaa8"
+commit = "c8995ba2f8cba7d812839a244122bc6a6165362a"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.6
+# Umbra 2.3.7
 
-## Fixes & Improvements
+## New Additions
 
-- Fix MainCommandShortcut disabled status (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Switch to ProcessChatBoxEntry from ClientStructs (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Make ReadOnlySeString.ReplaceText replace all occurrences (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Added the addition of bonus icons in the Custom Deliveries widget (By [wolfcomp](https://github.com/wolfcomp) and [Bloodsoul](https://github.com/Bloodsoul)).
+- Added max rank level color customization for the buttons in the gearset switcher widget. This adds a new color ("_Maximum Level indicator_") to the theme system that can be customized in the Appearance tab in Umbra's Settings window. (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
