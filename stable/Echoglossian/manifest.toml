@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "9362082aded290afcc1d1b3f23e91e79b4e09cd5"
+commit = "2faf145850377c8ed9c06296f00c8cd23351ef6d"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.17.x \n - fixes:\n - ChatGPT endpoints and additional settings (by @kelvin124124).\n - Updated supported languages for ChatGPT and DeepL"
+changelog = "v3.18.x \n fixes:\n - Correct engine shown for language selected at ChatGPT engine settings UI (by @kelvin124124 and @tcfshcrw ).\n - Filtered-out error messages from saving to DB"
