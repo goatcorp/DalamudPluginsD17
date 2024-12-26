@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "d3d522dc2c85ca94147edebbfe2b2ddce03c72ea"
+commit = "9d48f6a4abe792fd367c545d7289a037f36879ee"
 owners = ["Glyceri",]
 	changelog = """
     [0.1.0.0]
