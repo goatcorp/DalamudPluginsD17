@@ -1,8 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/ARealmRecorded.git"
-commit = "8a093fd08f2112a7fa3e065a9a1bfecb2b5d6a5a"
+commit = "4fd56892905b42eb822ccd5620fa2c9d5396ed22"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed a crash on certain long recordings (Thanks to Limiana)
-- Fixed the UI position when the game is not on the main monitor (Thanks to Iris)
-- Fixed an issue preventing the replay from saving for some users'''
+- Added support for Chaotic raids (Aireil tested and approved)'''
