@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "3ac3098c5da32c662cd9ecd854c37ea0a91ada09"
+commit = "f1aa6d2c849eaff74a46f8332c7b45dbf770e8a0"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed Cenote Ja Ja Gural missing from duty result imports.
+* Map links on cross-world parties are now picked up.
+* Stability bug fixes.
 """
