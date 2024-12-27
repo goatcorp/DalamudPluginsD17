@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Cytraen/AetherCompass.git"
-commit = "1c9f9348ba5ec1c93b856ddcae57f713f9067908"
+commit = "c49eaab0176505958c95b0ee645d20793505cd35"
 owners = [ "Cytraen" ]
-changelog = "Temporarily disabled notifications to fix crashing"
+changelog = "Fix crashing when using sound effect notifications"
