@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Populo/RetainerSales.git"
-commit = "55c3b77776df5465a3462d1d5657a0fdbfae87c1"
+commit = "1ba53cc87382692f0070aecae937e862c69952b5"
 owners = ["Populo"]
 project_path = "RetainerSales"
 changelog = "Initial Release"
