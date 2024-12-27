@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Cytraen/AetherCompass.git"
-commit = "96e3b3d4a45c8a3ee0186dd13bcd3f0e06bba8ac"
+commit = "1c9f9348ba5ec1c93b856ddcae57f713f9067908"
 owners = [ "Cytraen" ]
-changelog = "Update for 7.1"
+changelog = "Temporarily disabled notifications to fix crashing"
