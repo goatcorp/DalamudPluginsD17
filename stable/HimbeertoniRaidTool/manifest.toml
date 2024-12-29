@@ -2,18 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "bc840b90ecc64409f297c1191e4fcd65b4f0beac"
+commit = "e03797e6e4ae61cf6a9f0c6f5cd158cf8f1486ea"
 changelog = """
-New Feature: Gearsets can have an alias. If an alias is set it is shown instead of the name in the Ui
-      This is editable even for sets from etro or XivGearApp
-    User Interface: Gearset origin is now shown in selection dropdown
-    General: Updated for 7.1
-    User Interface: New layout for the stats
-    User Interface: Overhauled item tooltips
-    Bugfix: Deleted sets get correctly removed from the gear/bis list
-    BiS: Update gear set buttons now work for XivGearApp (like they did for etro)
-    User Interface: Searching gear from database now actually shows useful information
-    User Interface: New layout for inventory/wallet
-    User Interface: Job selection buttons are bigger to have enough space for level 100 jobs
-Known Issues:
-    Known Issue: Previous wallet and inventory data is lost"""
+Gear: GearSets now support selection of food. You need to update all set from etro.gg and XivGear.app to get the food
+    Configuration: You can trigger updates for all gear sets from the options
+    Bugfix: XivGear.app sets now behave as expected (on update and edit)
+    System: A lot of changes on underlying systems. If you notice anything behaving strangely let me know via the official discord"""
