@@ -1,0 +1,31 @@
+[plugin]
+repository = "https://github.com/Glyceri/AcquisitionDate.git"
+commit = "9d48f6a4abe792fd367c545d7289a037f36879ee"
+owners = ["Glyceri",]
+	changelog = """
+    [0.1.0.0]
+    Initial commit of Acquired Date!
+
+    This plugin tracks and shows you the date you acquired/got the following:
+    - Achievements
+    - Quests
+    - Duties
+    - Levels (For any Job)
+    - Fish
+    - Sightseeing Log Entries
+    - Glasses
+    - Minions
+    - Mouts
+    - Orchestrion Rolls
+    - Fashion Accessories
+    And more!
+
+    Using the lodestone you can import a backlog of the following dates:
+    - Achievements
+    - Quests
+    - Glasses
+    - Minions
+    - Mounts
+
+    Expect a UI rework and more ways of importing data soon after release!
+"""
