@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "299aba46c6998bb56e7c948954aeb064788def47"
+commit = "ddf86b5171bc86d770dadac06dc2644ad679ac86"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Fixes for 7.1
+- SoundEffect to ChatSoundEffect
+- Minor updates to Chat message sending to use CS values over direct addresses
 """
