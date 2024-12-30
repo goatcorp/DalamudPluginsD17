@@ -2,9 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "e03797e6e4ae61cf6a9f0c6f5cd158cf8f1486ea"
+commit = "59fedafc070abbe7da35f72b78f32121ca0282a5"
 changelog = """
-Gear: GearSets now support selection of food. You need to update all set from etro.gg and XivGear.app to get the food
-    Configuration: You can trigger updates for all gear sets from the options
-    Bugfix: XivGear.app sets now behave as expected (on update and edit)
-    System: A lot of changes on underlying systems. If you notice anything behaving strangely let me know via the official discord"""
+User Interface: Added food information wherever relevant
+    User Interface: Tooltips for food now contain the food's effects
+    Bugfix: Fix Gear/BiS equality with materia enabled
+    Bugfix: Fixed crash on startup in certain cases"""
