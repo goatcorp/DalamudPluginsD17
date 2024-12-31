@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "ddf86b5171bc86d770dadac06dc2644ad679ac86"
+commit = "bc04896bf5d0fa68c4336f027e5afbd17a9acdfe"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- SoundEffect to ChatSoundEffect
+- SoundEffect to ChatSoundEffect (fixed migration)
 - Minor updates to Chat message sending to use CS values over direct addresses
 """
