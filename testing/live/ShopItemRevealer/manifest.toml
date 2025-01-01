@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/Era-FFXIV/ShopItemRevealer.git"
-commit = "865a86317d0c3af6c1870895559f2b7cc61d9b2b"
+commit = "e8f0eaf87960b7554bf815da5423bdbb0d2a3396"
 owners = ["nathanctech"]
-changelog = "Initial release"
+changelog = """
+1.0.2
+- Adds sorting the table by item name (default) or quantity required.
+- Fixes another imgui assert.
+"""
