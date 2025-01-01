@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Populo/RetainerSales.git"
-commit = "1ba53cc87382692f0070aecae937e862c69952b5"
+commit = "f6c18f4f634ef1380c3cd22efe9def81da5082f4"
 owners = ["Populo"]
 project_path = "RetainerSales"
-changelog = "Initial Release"
+changelog = "fix error when opening unrelated selectstring addon"
