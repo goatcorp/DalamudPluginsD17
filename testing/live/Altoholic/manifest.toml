@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f48c5a20da966c9b105b2afb050c187d8d38b51c"
+commit = "367bcd15c59eb1459bc37ac23c9e526f7f3d9cea"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.29: Replace ascii icon to fontawesome"
+changelog = "Version 0.0.0.30: Adding Heavensturn 2025"
