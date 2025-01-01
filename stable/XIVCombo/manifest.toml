@@ -1,12 +1,12 @@
 [plugin]
-repository = "https://github.com/MKhayle/XIVComboPlugin.git"
+repository = "https://github.com/attickdoor/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "f73c92735ad3179f3da83b11b5f4803f2e49b368"
+commit = "35c8e78d8039d40236c29d72b809b1faa6816c14"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
-    "MKhayle"
+    "attickdoor"
 ]
 
 # Optional: where your project/csproj is located within the repository.
@@ -15,12 +15,6 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		## Adoption of XIVCombo
-		- A new UI, more modern and more fitting for the increasing amount of jobs has been added to XIVCombo.
-		- Currently, all 65 existing combos have been kept while keeping feature parity as much as possible.
-		- Your previous settings will not carry over this new version. A welcoming pop-up will warn you about it.
-		- No new features, except the new UI. Maybe later, who knows? Updates should be more consistent from now on.
-		- The GitHub repository will be cleaned up (issues and pull requests closed) as nothing there are relevant anymore.
-		- Please use the Feedback feature of Dalamud to report any issues you would meet.
-		-# :french_bread: :croissant:  
+		7.1\
+		we did it reddit
 		"""
