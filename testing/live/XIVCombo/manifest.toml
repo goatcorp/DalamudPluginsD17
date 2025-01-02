@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "f73c92735ad3179f3da83b11b5f4803f2e49b368"
+commit = "c8b69acb240dfc5b483eeed16a27c7066d37e105"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
