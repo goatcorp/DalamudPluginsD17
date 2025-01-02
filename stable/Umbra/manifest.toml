@@ -1,15 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "c8995ba2f8cba7d812839a244122bc6a6165362a"
+commit = "c0444d8fca63c1e91a49921dea189faf77bef6d1"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.7
+# Umbra 2.3.8
 
 ## New Additions
 
-- Added the addition of bonus icons in the Custom Deliveries widget (By [wolfcomp](https://github.com/wolfcomp) and [Bloodsoul](https://github.com/Bloodsoul)).
-- Added max rank level color customization for the buttons in the gearset switcher widget. This adds a new color ("_Maximum Level indicator_") to the theme system that can be customized in the Appearance tab in Umbra's Settings window. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added an option to hide the "Lv. XXX" text from gearset buttons in the Gearset Switcher widget for jobs with capped levels.
+
+## Fixes & Improvements
+
+- Dynamically resize the popup width of the Custom Deliveries widget based on the amount of bonus icons shown.
+- Fixed the default "Max level indicator" text color. It wasn't supposed to look pink.
+- Split the location widget text into 2 lines when visiting the company workshop and the "Show district label" option is turned on.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
