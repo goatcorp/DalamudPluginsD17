@@ -1,20 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "d63e6bc83d7a68b3f4e6f3b7f88820095aaaea9a"
+commit = "a1a0a648462a3854a63619c83304bf6f9d040668"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganItemSearch"
-version = "1.0.0.0"
+version = "1.0.0.1"
 changelog = """\
-**Allagan Item Search**
-Allagan Item Search is a dalamud plugin designed to help you search through the in-game items.
-It's current features include:
- - All the basic filters you'd expect
- - Source/use filters
- - Filter pinning
- - Customizable layout
- - Dressing mode
- - Intergates with AT's More Information window if installed
- - Title menu button integration
+**Changes**
+- Glamour Ready Source/Set split into 2 different filters
+- Used in Company Craft Prototype filter added
+- Fixed plugin description/tagline
 """
