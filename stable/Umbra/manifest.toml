@@ -8,7 +8,7 @@ changelog = """
 
 ## Fixes & Improvements
 
-- Fixed the dynamic width calculation of the Custom Deliveries widget popup (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed the dynamic width calculation of the Custom Deliveries widget popup (By [wolfcomp](https://github.com/wolfcomp) and [Bloodsoul](https://github.com/Bloodsoul)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
