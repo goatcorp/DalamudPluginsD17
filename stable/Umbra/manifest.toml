@@ -1,20 +1,14 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "c0444d8fca63c1e91a49921dea189faf77bef6d1"
+commit = "7ca6fa0228ebdee874b8b10b0f7006fe86c62088"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.8
-
-## New Additions
-
-- Added an option to hide the "Lv. XXX" text from gearset buttons in the Gearset Switcher widget for jobs with capped levels.
+# Umbra 2.3.9
 
 ## Fixes & Improvements
 
-- Dynamically resize the popup width of the Custom Deliveries widget based on the amount of bonus icons shown.
-- Fixed the default "Max level indicator" text color. It wasn't supposed to look pink.
-- Split the location widget text into 2 lines when visiting the company workshop and the "Show district label" option is turned on.
+- Fixed the dynamic width calculation of the Custom Deliveries widget popup (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
