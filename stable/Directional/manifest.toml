@@ -1,8 +1,5 @@
 [plugin]
-repository = "https://github.com/herulume/Directional.git"
-commit = "4464607e3f80f3244eacd66b67c289e2ceeb4791"
-owners = ["herulume", "Sevii77"]
+repository = "https://github.com/Infiziert90/Directional.git"
+commit = "c1a62665e4f8a2c018c8d3f667e6a14983209341"
+owners = ["Infiziert90", "herulume", "Sevii77"]
 project_path = "Directional"
-changelog = """
-Stable release
-"""
