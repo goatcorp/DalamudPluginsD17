@@ -1,5 +1,10 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "bbc06de4d55debc4fb3bde8d06d286e89f0d6e08"
+commit = "8335d8b1ff54adcc6fb60848033a582646eb2178"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
+changelog = """
+[0.1.0.2]
+- New History Tab UI
+- Average Duration Query
+"""
