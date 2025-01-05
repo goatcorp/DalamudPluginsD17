@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "79401d1d9282c513c3c753ee295f2229d72c79c3"
+commit = "2106cfc2d9ddc7ecc26fadd952e951f3c7a3f2d9"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Disable Tidy Chat for combat-related channels ; fix S Rank Hunts and Experience Gain filters"
+changelog = "New Emote Filters - disabled by default. Various fixes to filters not working as expected due to improper regex or misleading labels"

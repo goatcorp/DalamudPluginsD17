@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "c90e2b650f1eacbfc961bc2089cd51975330978e"
+commit = "919d5499ca8903af877f1d93a2d4dfa659492ed3"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Fixed a bug that would block audio from the game after a change in the default audio output
+- Fix error pop up when opening job configuration menu
 """

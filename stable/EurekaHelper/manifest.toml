@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "40560c63f33de41afa9ce49b7cc283a0b82c57a5"
+commit = "f7d39c0e081f5297702a02d88e404adff0c4caef"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Added support for patch 7.1 and API 11
-- Changed owners
+- Allows switching to use chat sound effects
 """

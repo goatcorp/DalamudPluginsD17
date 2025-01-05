@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/hunter2actual/BigNaelQuotes.git"
+commit = "fbb82b130f4c1f1b5b6f1569d8a82c1231a55bf6"
+owners = ["hunter2actual"]
+project_path = "BigNaelQuotes"
+changelog = "Add JP/CN support"

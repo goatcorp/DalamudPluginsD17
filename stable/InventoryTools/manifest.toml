@@ -1,14 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "3ac1e7d3908cefb73db12d533100317d1b2a1a8f"
+commit = "6ba05395597484526d210f0ff98c173d44974844"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.3"
+version = "1.11.0.9"
 changelog = """\
-### Fixed
-- Hopefully squashed a bug with the retainer list and highlighting
-- Improvements to the NPC parsing means more vendors should have locations/shops
+### Added
+- Added the gathering points required for dark matter clusters to be listed
+- Added company craft prototypes as uses on related items
+- Added /craftoverlay to toggle the craft overlay
+- The craft overlay will be hidden in duties/deep dungeon/cutscenes, this can be configured in settings
 
 """

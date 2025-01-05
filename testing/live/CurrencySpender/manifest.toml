@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
+commit = "7e339e0ec37b27ec233cd715048b84f7ed968e71"
+owners = [ "Blackcatz1911" ]
+changelog = """\
+**1.0.4**
+- Added: Bicolor gemstone warnings now dynamically react to the current status of Shared Fates
+- Added: Made the tables a bit fancier
+- Added: Possibility to add items to an "Items of Interest" list
+- Fixed: Player login logic to trigger player updates automatically
+- Fixed: Some locations & aetherytes were incorrect
+- Changed: Rewrote GC Shop handling
+"""
