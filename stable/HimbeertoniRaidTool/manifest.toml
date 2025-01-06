@@ -2,9 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59fedafc070abbe7da35f72b78f32121ca0282a5"
+commit = "35151e31bcda28cfca13ec51a7d77e39707ef0aa"
 changelog = """
-User Interface: Added food information wherever relevant
-    User Interface: Tooltips for food now contain the food's effects
-    Bugfix: Fix Gear/BiS equality with materia enabled
-    Bugfix: Fixed crash on startup in certain cases"""
+User Interface: Add quick select for job/character/player (similar to gear sets)
+    User Interface: Improved usability of BiS section in gear edit
+    Bugfix: 2nd,3rd,... set from XivGear.app sheets are now fetched correctly, not always the 1st"""
