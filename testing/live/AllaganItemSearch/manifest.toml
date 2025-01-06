@@ -1,14 +1,15 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "a1a0a648462a3854a63619c83304bf6f9d040668"
+commit = "708fb7ba71b2d2764ce39edad678d3239f4aa5c4"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganItemSearch"
-version = "1.0.0.1"
+version = "1.0.0.2"
 changelog = """\
 **Changes**
-- Glamour Ready Source/Set split into 2 different filters
-- Used in Company Craft Prototype filter added
-- Fixed plugin description/tagline
+- Move filters into tabs
+- Add filter search tab
+- /asearch + text will search for an item by name and open the window
+- Added operator explanation to name tooltip
 """
