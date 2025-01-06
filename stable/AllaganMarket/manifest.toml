@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "6e44b1af31be211a54a2ca22e925f5180d216872"
+commit = "071ebae9da2db9ae14237578caa97968f6b693e1"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.2"
+version = "1.1.0.3"
 changelog = """\
 **Changes**
- - Added a "Copy to Game" button inside the retainer sell list overlay
+ - The sale history search will now work in both view modes
+ - The icon filter will no longer show in the sidebar
 """
