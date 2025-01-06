@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/kalilistic/NoSoliciting.git"
-owners = [ "kalilistic" ]
-project_path = "NoSoliciting"
-commit = "b7da1784294ac303a43183472c920bf8eff45be3"
+owners = ["kalilistic"]
+project_path = "NoSoliciting.Plugin"
+commit = "62e4610cde147aff2ecaf4701668037dbc97570e"
