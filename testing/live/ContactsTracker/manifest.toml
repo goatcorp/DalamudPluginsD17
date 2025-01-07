@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "ada6ada1119df00071ddf1dae52985f20243a6fe"
+commit = "ef9ba911dc6f07c3cfa6dad272a05bcfe1a043d3"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[0.1.0.3]
-- Update Description
-- Add Missing Configuration for Incomplete entry
-- Hold CTRL to Delete
+[0.2.0.0]
+- Log Party Members' Job
+- Add About Tab
 """
