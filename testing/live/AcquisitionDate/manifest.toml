@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "b24077b42e2c2380640169d7bf6ac10aedfee629"
+commit = "d0ec533871169ccb25caec2d570f479986dfb640"
 owners = ["Glyceri",]
 	changelog = """
-    [0.1.1.0]
-    Added smaller alias commands				(Typing hard)
-    The acquiry window now shows what character is active	(You can log out and still acquire data for your last logged in character; this is to combat loading screens ruining this feature. It was VERY unclear who you were collecting data for however)
-    More forgiving Session Token Entry				(People mentioned that having leading or trailing whitespaces made the session token not work. This makes that more forgiving.)
-    More UI Warnings/Tips					(This is because I regularly hear acquiring data using a VPN does NOT work)
-    You can now set the delay between requests. 		(This is to combat excessive cancelled queues if your internet is slightly slow. (Will never go below 1.5 seconds))
-    The Debug Window now shows all acquired data in a list 	(This is a preview of what the upcoming Date List will behave like, I just need it to be tested early)
+    [0.1.1.1]
+    Fixes acquisition for users with ' and - in their name to not work.
 """
