@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "12f47364163769f26f34bda69aa8a984dc6ab6de"
+commit = "f89a819cf9ec9a28715f261d41ae00ba4d9bb8ef"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +15,8 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\		
-- Fixed MCH's Hypercharge not behaving like it used to. 
+- Fixed RDM's Verstone/Verfire Feature procs overwriting Scorch and Resolution.
+- Fixed RDM's AoE Combo icons displaying Energy Drain instead of Swiftcast,
+- Fixed an issue with RPR's Communio not turning properly into Perfectio when using the Enshroud Communio Feature.
+- -# Made some 0.0001ms optimizations for lesser entropy (or bigger?)
 		"""
