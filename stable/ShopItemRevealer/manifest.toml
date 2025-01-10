@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/Era-FFXIV/ShopItemRevealer.git"
-commit = "e8f0eaf87960b7554bf815da5423bdbb0d2a3396"
+commit = "b82169e2a58ec2e07aafd69dbb2844cdb334e10f"
 owners = ["nathanctech"]
 changelog = """
+1.1.0
+ - Adds gemstone vendor support with FATE rank requirement tracking.
+ - Added some help desk at the bottom of the window.
+ - Showing/hiding unrevealed items now re-sorts the table correctly.
+ - Some code cleanup
 1.0.2
 - Adds sorting the table by item name (default) or quantity required.
 - Fixes another imgui assert.
