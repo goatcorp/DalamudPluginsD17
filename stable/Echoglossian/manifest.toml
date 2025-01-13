@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "8ab6d0f3dc1f33fd5f533d64f030b832eecd5913"
+commit = "b765ae28de79aaca29377d0db03c6dbd0a61d917"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.19.x \n fixes:\n - Correct config url for ChatGPT"
+changelog = "v3.20.x \n fixes:\n - Tentative fix for 'Plugin could not be loaded error'."
