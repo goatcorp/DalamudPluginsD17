@@ -1,16 +1,32 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6ba05395597484526d210f0ff98c173d44974844"
+commit = "b20ed3ccf3dd0221f2ffe4cd2e6c073842fa9439"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.9"
+version = "1.11.0.10"
 changelog = """\
-### Added
-- Added the gathering points required for dark matter clusters to be listed
-- Added company craft prototypes as uses on related items
-- Added /craftoverlay to toggle the craft overlay
-- The craft overlay will be hidden in duties/deep dungeon/cutscenes, this can be configured in settings
+## Added
+ - Items that can be crossbred will now show as a source/use
+ - Added basic shop highlighting(only gil shops so far)
+ - The required column now has a icon that when hovered will give you a breakdown of that particular item in relation to the craft(required, missing, etc)
+ - Add to curated list context menu feature
+ - New installs now come with a housing list
+ - The inventory data now saves on it's own thread to stop hitching when a user has a lot of items
+
+## Fixed
+ - Exterior house storage should now be scanned properly
+ - Items that are considered currency will no longer be grouped as currency if they are to be purchased
+ - Fixed some bugs related to how craft numbers are calculated
+ - Fixed a few imgui asserts
+ - The can be equipped filter and favourites should work again
+ - The monster drop tooltip was showing a monster instead the map
+ - NPCs with no shop locations will now longer show up in the action menu in the craft overlay
+ - Window positions should save properly(they weren't saving if the window was open)
+ - Grand company shops had the wrong seal counts
+ - Spectacles will now be considered acquirable and will show in the acquired tooltip
+ - Added missing gathering points
+ - When crafting an item that relied on inspection, the subcrafts were not being generated properly
 
 """
