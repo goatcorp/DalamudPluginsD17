@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "ef9ba911dc6f07c3cfa6dad272a05bcfe1a043d3"
+commit = "226ab0fba7ad9d1cf314123d3207f8468fe1f5f3"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[0.2.0.0]
-- Log Party Members' Job
-- Add About Tab
+[0.2.0.1]
+- Disable record when using ARR
 """
