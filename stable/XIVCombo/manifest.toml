@@ -1,12 +1,12 @@
 [plugin]
-repository = "https://github.com/attickdoor/XIVComboPlugin.git"
+repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "35c8e78d8039d40236c29d72b809b1faa6816c14"
+commit = "964a0d9b9651a2225f961f24e43fba81bdfc01cd"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
-    "attickdoor"
+    "MKhayle"
 ]
 
 # Optional: where your project/csproj is located within the repository.
@@ -14,7 +14,17 @@ owners = [
 project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\
-		7.1\
-		we did it reddit
+changelog = """\	
+## Adoption of XIVCombo
+- <:croissant:>
+- A new UI, more modern and more fitting for the increasing amount of jobs has been added to XIVCombo.
+- Currently, all 65 existing combos have been kept while keeping feature parity as much as possible.
+- Your previous settings will not carry over this new version. A welcoming pop-up will warn you about it.
+- No new features, except the new UI. Maybe later, who knows? Updates should be more consistent from now on.
+- The GitHub repository will be cleaned up (issues and pull requests closed) as nothing there are relevant anymore.
+- Please use the Feedback feature of Dalamud to report any issues you would meet.
+- </:croissant:>
+
+### New from 2.0.0.5
+- Fixed DRK's Stalwart Soul not reverting to Unleash when below level 40.
 		"""
