@@ -132,7 +132,7 @@ jobs:
         echo ${{ steps.plogon_run.outputs.summary }}
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: plugin-artifact
         path: artifacts
