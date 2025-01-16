@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "964a0d9b9651a2225f961f24e43fba81bdfc01cd"
+commit = "b36a4b66e3f0dae14a563c9eecceb7431e291280"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,16 +15,5 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\	
-## Adoption of XIVCombo
-- <:croissant:>
-- A new UI, more modern and more fitting for the increasing amount of jobs has been added to XIVCombo.
-- Currently, all 65 existing combos have been kept while keeping feature parity as much as possible.
-- Your previous settings will not carry over this new version. A welcoming pop-up will warn you about it.
-- No new features, except the new UI. Maybe later, who knows? Updates should be more consistent from now on.
-- The GitHub repository will be cleaned up (issues and pull requests closed) as nothing there are relevant anymore.
-- Please use the Feedback feature of Dalamud to report any issues you would meet.
-- </:croissant:>
-
-### New from 2.0.0.5
-- Fixed DRK's Stalwart Soul not reverting to Unleash when below level 40.
+- Fixed MCH's Hypercharge and Spreadshot combos being swapped.
 		"""
