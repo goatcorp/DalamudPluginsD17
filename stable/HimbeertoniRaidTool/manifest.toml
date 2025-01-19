@@ -2,8 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "35151e31bcda28cfca13ec51a7d77e39707ef0aa"
-changelog = """
-User Interface: Add quick select for job/character/player (similar to gear sets)
-    User Interface: Improved usability of BiS section in gear edit
-    Bugfix: 2nd,3rd,... set from XivGear.app sheets are now fetched correctly, not always the 1st"""
+commit = "4be4fdaed527626e0ca2c79caecc16876e8e3ac1"
+changelog = "New Feature: Stats can now take a party bonus into account (adjust the default in settings)"
