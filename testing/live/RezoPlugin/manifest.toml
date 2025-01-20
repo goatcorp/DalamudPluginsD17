@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/rreminy/RezoPlugin.git"
-commit = "4225e5ab5a707a93b7161e7c76fcdb7a566defc7"
+commit = "7de73385857121c3665cc6330a0ebd91b3a896ac"
 owners = ["rreminy"]
 project_path = "RezoPlugin"
