@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "0292519f4ca7a619b9b99df0b90fa122e6e92c90"
+commit = "256daf1418c855880ea586f4096d7bc3467f7f09"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.0
-Updating for Dawntrail
-- API X support
-- Adding PCT and VPR
-- Update dye system to target 1st slot (need to follow up to support 2nd slot)
+Collections v1.0.2.1
+- Update to API 11
+- Fix preview bugs
 """
