@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8288395edf0a6bf6887af18d4aad7b64fd170f14"
+commit = "6e53e3c2d73115dd174a007adb78e955d2b00207"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Add season 12 and patch 7.11 and 7.1X time filter options.
+* Update time filter options for patch 7.16.
+* Adjusted Crystalline Conflict color scaling for damage dealt and taken.
+* Updated default columns on Player/Job tabs.
 """
