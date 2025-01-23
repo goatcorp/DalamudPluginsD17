@@ -1,13 +1,21 @@
-
 [plugin]
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "8a05067f07f3a29d4eed7a35c0dd4edd3dbe0c37"
-changelog = """\
-**1.0.5**
-- Fixed: Flame and Serpent NPCs were swapped
-- Fixed: Battlefield Etiquette tracking issues
-- Changed: Rephrased the punchline and description of the plugin
+commit = "9042081e7091f6624c3fa34c5067dec91f026a12"
+changelog = """
+## 1.1.0
+### Added
+- A setting to filter out unwanted collectables.
+- A setting to filter out unwanted currencies.
+- A setting to display how many selected collectables are missing directly in the main window.
+- Sortable tables for all sections except ventures.
+- MGP, Crafters' Scrip, Gatherers' Scrip, and Skybuilders' Scrip were added to the currency list.
+- A configuration wizard to guide users through new settings.
+### Fixed 
+- Veteran's Clan Mark Log and Mythic Clan Mark Log were missing as sub currency.
+- Grand Company seals were not correctly tracked in certain scenarios.
+### Changed
+- New and cleaner UI for the main window displaying the currencies.
 """
-version = "1.0.5"
+version = "1.1.0"
