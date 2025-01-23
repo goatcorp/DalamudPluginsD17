@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
+commit = "386d116488a7ed4bb810a89725801acba85a3568"
+owners = ["mashirochan"]
+project_path = "RazerReader"
+changelog = "Initial plugin release"
