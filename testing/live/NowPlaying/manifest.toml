@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/wompscode/NowPlaying.git"
+commit = "02e4a6f08def3b39aa2b011b64f911326e9a2c5b"
+owners = ["wompscode"]
+project_path = "NowPlaying"
+changelog = "Initial version of NowPlaying. Supported (officially - haven't tested outside of Windows) on Windows only."
