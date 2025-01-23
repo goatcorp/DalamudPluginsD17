@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/silasary/apxiv.git"
+commit = "5ef6d6e1eaca37fd0e6a4d6680da2c49d09a2fd1"
+owners = ["Silasary"]
+project_path = "ArchipelagoXIV"
+changelog = "Added link to setup guide for people who are new to Archipelago, and fixed Duty Finder icons."
