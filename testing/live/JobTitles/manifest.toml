@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/keifufu/JobTitles.git"
+commit = "36306a7f5cbc0586165ac343c61213319a5d7db3"
+owners = ["keifufu"]
+project_path = "."
+changelog = "Initial Release"
