@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "503c1f56ddd42f89f0e4211d96d1ab5e0c272c49"
+commit = "c234057f3d2c97726c59de60f70aa77c1bd4a80d"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
+Bump WineRPCBridge version. (Thankyou @blooym)
+
+Disable assets for now. There's an issue with them right now. They'll be enabled in a new update once working again.
 """
