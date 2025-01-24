@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Noevain/DotCalculator"
+repository = "https://github.com/Noevain/DotCalculator.git"
 owners = ["Noevain"]
 project_path = "DotCalculator"
 commit = "212683d5d238721f9083270ce0af8f1e0f2a914b"
