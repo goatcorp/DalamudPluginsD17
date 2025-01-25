@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "367bcd15c59eb1459bc37ac23c9e526f7f3d9cea"
+commit = "61140c957cfdfcf39d429ea915bc508ec1907eab"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.30: Adding Heavensturn 2025"
+changelog = "Version 0.0.0.31: Add button to delete housing. Add autosave, autosave timer setting and chat message."
