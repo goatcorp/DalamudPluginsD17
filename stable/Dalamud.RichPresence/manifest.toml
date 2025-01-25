@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "503c1f56ddd42f89f0e4211d96d1ab5e0c272c49"
+commit = "13b153ca1cbbc1cad20cea84d501f11be95af940"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
+Bump WineRPCBridge version. (Thankyou @blooym)
 """
