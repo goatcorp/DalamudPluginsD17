@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "2e963d394c1961ab7d419f9280fadbb3339b8e2b"
+commit = "90e492f7a79dfc094ae93c9b75d082c851350245"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
 Initial test release.
-Fix compile bug
+API 11
 """
