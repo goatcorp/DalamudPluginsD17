@@ -2,20 +2,15 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "9042081e7091f6624c3fa34c5067dec91f026a12"
+commit = "c9c6517417d1de0532568b47e394e2e16c81d13e"
 changelog = """
-## 1.1.0
+## 1.1.1
 ### Added
-- A setting to filter out unwanted collectables.
-- A setting to filter out unwanted currencies.
-- A setting to display how many selected collectables are missing directly in the main window.
-- Sortable tables for all sections except ventures.
-- MGP, Crafters' Scrip, Gatherers' Scrip, and Skybuilders' Scrip were added to the currency list.
-- A configuration wizard to guide users through new settings.
+- Tooltip for Map and Teleport Buttons.
 ### Fixed 
-- Veteran's Clan Mark Log and Mythic Clan Mark Log were missing as sub currency.
-- Grand Company seals were not correctly tracked in certain scenarios.
+- Missing NPC data for Quinnana was added.
+- Default Scrip Exchange is now in Limsa Lower Decks.
 ### Changed
-- New and cleaner UI for the main window displaying the currencies.
+- Code Cleanup tasks.
 """
-version = "1.1.0"
+version = "1.1.1"
