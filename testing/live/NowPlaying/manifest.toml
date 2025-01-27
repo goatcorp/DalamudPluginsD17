@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "02e4a6f08def3b39aa2b011b64f911326e9a2c5b"
+commit = "fc3f576b4cff540555e733bc00a934330ac660e2"
 owners = ["wompscode"]
 project_path = "NowPlaying"
-changelog = "Initial version of NowPlaying. Supported (officially - haven't tested outside of Windows) on Windows only."
+changelog = "Implement hiding status bar element on pause (new default), and add play and pause command (implemented from feedback requests). Rewrite command argument handler."
