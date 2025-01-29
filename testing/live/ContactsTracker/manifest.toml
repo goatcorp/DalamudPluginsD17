@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "226ab0fba7ad9d1cf314123d3207f8468fe1f5f3"
+commit = "9fca7a2c8c66f7b69171db4c310cc45ab7457e59"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[0.2.0.1]
-- Disable record when using ARR
+[0.3.0.0]
+## Big Change
+- Change the method of recording. (for future localization)
+- Old data should be automatically migrated to new records once updated.
 """
