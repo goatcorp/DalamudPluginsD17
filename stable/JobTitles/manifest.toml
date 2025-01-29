@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "1eaf92200e9f859432b43c454ee67d8bfc037788"
+commit = "7ad3da5294044fceb22caa2410403f3c9a21b16b"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-- Moved from Testing to Stable.
-- Added a new UI.
-- Added options for base classes, e.g. Marauder.
+- Fixed incorrectly scaled icon
 """
