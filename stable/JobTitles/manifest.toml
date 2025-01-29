@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "1eaf92200e9f859432b43c454ee67d8bfc037788"
+commit = "c1b5a908bf8b65a90f5c5ef6a6e0612e9ff0b159"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-- Moved from Testing to Stable.
-- Added a new UI.
-- Added options for base classes, e.g. Marauder.
+- Added option to print title changes to chat
+- Fixed incorrectly scaled icon
 """
