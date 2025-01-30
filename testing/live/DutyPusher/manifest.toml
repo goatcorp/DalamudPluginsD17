@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "90e492f7a79dfc094ae93c9b75d082c851350245"
+commit = "6ddc04d14ad9923291d87759f85e4c0dfe9e09db"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
 Initial test release.
 API 11
+Add Telegram Offical Bot API Support
 """
