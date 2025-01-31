@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/wompscode/NowPlaying.git"
+commit = "308e82d0f1609cbcec031a1f25555c718fdcfdad"
+owners = ["wompscode"]
+project_path = "NowPlaying"
+changelog = "Alterations to how bar element hides based on song metadata. Cleanup to main class, and change description, etc. Move to stable."
