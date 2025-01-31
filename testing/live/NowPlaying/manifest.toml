@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "078db9333483d494c565d78ed1bf16ab3440e215"
-owners = ["wompscode"]
-project_path = "NowPlaying"
-changelog = "Allow player session to be cycled. /nowplaying cycle or click the server bar element.\n\nCleanup and changes to how media controls are sent (send via SMTC so more than one player can be used at once, keep fallback of virtual key presses though). This definitely breaks any sort of Linux support that could've been had (I don't know if WINE handles virtual keypresses either. I didn't get that far in testing.)"
