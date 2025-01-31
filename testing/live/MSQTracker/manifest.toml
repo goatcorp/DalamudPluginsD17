@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/bunnycou/MSQTrackerFFXIV"
+repository = "https://github.com/bunnycou/MSQTrackerFFXIV.git"
 commit = "c47417a8107aa98ca93dcaca427a5e74d22f14a6"
 owners = ["bunnycou"]
 project_path = "MSQTracker"
