@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "5ef6d6e1eaca37fd0e6a4d6680da2c49d09a2fd1"
+commit = "ecc9145078e1edce1a965914c638a7243063ba63"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Added link to setup guide for people who are new to Archipelago, and fixed Duty Finder icons."
+changelog = "Coloured text chat and (one-way) Deathlink support."
