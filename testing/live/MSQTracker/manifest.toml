@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/bunnycou/MSQTrackerFFXIV"
+commit = "0f6d9c5de6fb20ca4d384bb2391d07d61378f583"
+owners = ["bunnycou"]
+project_path = "MSQTrackerFFXIV"
+changelog = "Track your MSQ progress"
