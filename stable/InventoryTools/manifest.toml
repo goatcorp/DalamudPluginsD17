@@ -1,21 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "19ad312f899527164021e710f318436d19862796"
+commit = "021f438cc8c1ee7c6a46603bcf79d125a8a96fdd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.11"
+version = "1.11.0.12"
 changelog = """\
-## Added
- - Configuration window reorganised with more sub-sections
- - Source/Use grouping is now configurable
- - Each tooltip modification can now have it's own colour set(or will fallback to the default colour)
- - Source/use tooltip added, will show you the sources/uses for an item inside the tooltip, fully configurable allowing for sources/uses to be hidden/grouped/ungrouped/reordered
- - The `Add Item Locations` tooltip can now be sorted by Item quantity
-
-## Fixed
- - Worked around a bug in a third-party library that could cause the plugin to not load
- - Fixed an issue in how certain craft yields are calculated
-
+- Fixed hang on boot
 """
