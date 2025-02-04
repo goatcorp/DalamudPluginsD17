@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Caraxi/SimpleMapTracker.git"
-commit = "8e1496fd78ef0c9cd29a8c1db1664489ebe46184"
+commit = "bdbe25ff614fcd8bcb044fdaa3a0cd46c58f403f"
 owners = [
     "Caraxi",
 ]

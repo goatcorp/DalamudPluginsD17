@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "367bcd15c59eb1459bc37ac23c9e526f7f3d9cea"
+commit = "4214bd0fed47dce879aed9371a7721073cc6f200"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.30: Adding Heavensturn 2025"
+changelog = "Version 0.0.0.33: Add valentione 2025 event"

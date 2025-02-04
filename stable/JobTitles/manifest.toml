@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/keifufu/JobTitles.git"
+commit = "c1b5a908bf8b65a90f5c5ef6a6e0612e9ff0b159"
+owners = ["keifufu"]
+project_path = "."
+changelog = """
+- Added option to print title changes to chat
+- Fixed incorrectly scaled icon
+"""

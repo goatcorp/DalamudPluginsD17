@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "0292519f4ca7a619b9b99df0b90fa122e6e92c90"
+commit = "149d85218e6d5f73a7633e39ca6b6e026735315d"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.0
-Updating for Dawntrail
-- API X support
-- Adding PCT and VPR
-- Update dye system to target 1st slot (need to follow up to support 2nd slot)
+Collections v1.0.2.2
+- Fixed glamour UI interaction sometimes not working
+- Fixed job picker UI
+- Fixed Container data source
+- Fixed SpecialShop data source
 """

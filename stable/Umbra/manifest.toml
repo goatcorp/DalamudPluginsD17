@@ -1,14 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "7ca6fa0228ebdee874b8b10b0f7006fe86c62088"
+commit = "03c121d6a71b127fa8b05089979768e378bd1060"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.9
+# Umbra 2.3.10
 
 ## Fixes & Improvements
 
-- Fixed the dynamic width calculation of the Custom Deliveries widget popup (By [wolfcomp](https://github.com/wolfcomp) and [Bloodsoul](https://github.com/Bloodsoul)).
+- Add Island Sanctuary ferry to Zone Markers (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix gearset switcher max level color for newly added sets (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

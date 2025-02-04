@@ -1,13 +1,16 @@
-
 [plugin]
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "8a05067f07f3a29d4eed7a35c0dd4edd3dbe0c37"
-changelog = """\
-**1.0.5**
-- Fixed: Flame and Serpent NPCs were swapped
-- Fixed: Battlefield Etiquette tracking issues
-- Changed: Rephrased the punchline and description of the plugin
+commit = "c9c6517417d1de0532568b47e394e2e16c81d13e"
+changelog = """
+## 1.1.1
+### Added
+- Tooltip for Map and Teleport Buttons.
+### Fixed 
+- Missing NPC data for Quinnana was added.
+- Default Scrip Exchange is now in Limsa Lower Decks.
+### Changed
+- Code Cleanup tasks.
 """
-version = "1.0.5"
+version = "1.1.1"
