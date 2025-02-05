@@ -2,20 +2,18 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "9042081e7091f6624c3fa34c5067dec91f026a12"
+commit = "3bc285bf5e4297aa67e2d9b2cc4090ed8b8dd972"
 changelog = """
-## 1.1.0
+## 1.1.2
 ### Added
-- A setting to filter out unwanted collectables.
-- A setting to filter out unwanted currencies.
-- A setting to display how many selected collectables are missing directly in the main window.
-- Sortable tables for all sections except ventures.
-- MGP, Crafters' Scrip, Gatherers' Scrip, and Skybuilders' Scrip were added to the currency list.
-- A configuration wizard to guide users through new settings.
+- A setting to toggle the display of sellable items on the marketboard.
+- Material coffers and Triple Triad card packs added to collectables.
+- Island cowries were added to the currencies.
+- The Mahjong vendor, and therefore a new collectable type, was added.
+- Added a context menu for items, allowing users to either link or copy the item name.
 ### Fixed 
-- Veteran's Clan Mark Log and Mythic Clan Mark Log were missing as sub currency.
-- Grand Company seals were not correctly tracked in certain scenarios.
+- Unlock status of items should now be correctly reflected.
 ### Changed
-- New and cleaner UI for the main window displaying the currencies.
+- Adjustments to the Grand Company rankings to address issues with item display.
 """
-version = "1.1.0"
+version = "1.1.2"
