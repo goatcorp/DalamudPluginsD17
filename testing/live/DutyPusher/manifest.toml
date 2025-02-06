@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "6ddc04d14ad9923291d87759f85e4c0dfe9e09db"
+commit = "97e4c5abedef7e5680b61f3cf9305dca3d1a169f"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
 Initial test release.
 API 11
-Add Telegram Offical Bot API Support
+Add Telegram Official Bot API Support
+Refactored the code logic to reduce coupling between certain services.
+Completely rewritten the DutyListener.
+Added localization support for de, es, fr, it, ja, ko, no, ru, and tw.
 """
