@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "fc3f576b4cff540555e733bc00a934330ac660e2"
-owners = ["wompscode"]
-project_path = "NowPlaying"
-changelog = "Implement hiding status bar element on pause (new default), and add play and pause command (implemented from feedback requests). Rewrite command argument handler."
