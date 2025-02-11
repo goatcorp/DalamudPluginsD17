@@ -1,6 +1,13 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "77a8ce989363343f556a7d6f1718fa4317ebb3d6"
+commit = "1c9f70eadc092ed9c9b6265af65300931207d523"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
-changelog = "Initial testing release"
+changelog = """\
+##Initial testing release##
+ - Added ability to customize highlight color in config
+ - Added search for gearpiece items in inventory
+ - Added configurable behavior for matching behavior of auto-assignment
+ - resx localization (en impl. only)
+ - bugfixes
+"""
