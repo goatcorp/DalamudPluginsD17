@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Paparogue/Tabnado.git"
+commit = "71a6cb6f4e0d4e672f58bf332ccfa10b488421dd"
+project_path = "Tabnado"
+owners = ["Paparogue"]
+changelog = "Initial Release"
