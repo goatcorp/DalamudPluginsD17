@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "144b29fd0cd18e5faa96e6ec72898e7599192158"
+commit = "18d297fcd87d01dfcf72d797f1348ed31788ccf9"
 owners = ["Abyeon"]
 project_path = "Racingway"
-changelog = "Added importing/exporting"
+changelog = "UI Overhaul, temporary record saving, and review player racing lines via the records tab!"
