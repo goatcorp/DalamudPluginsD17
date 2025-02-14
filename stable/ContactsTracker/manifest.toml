@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/DueDine/ContactsTracker.git"
+commit = "a82446da711aa633bf53bd200ebeb6a49410a8db"
+owners = ["DueDine"]
+project_path = "ContactsTracker"
+changelog = """
+[1.0.0.0]
+- Move to stable
+"""
