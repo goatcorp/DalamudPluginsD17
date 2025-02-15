@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Paparogue/Tabnado.git"
-commit = "8e2e08f83f4d487a648172f5f06a11a95131154d"
+commit = "4d1901aa88359331eab4731dac78b0d9290ee8a7"
 project_path = "Tabnado"
-owners = ["Paparogue"]
-changelog = "Bugfixes, Tab Target Reset Method added."
+owners = ["Paparogue", "Mentor Btw"]
+changelog = "Bugfixes, Tab Target Reset Methods added, Fixed Key Registration, Fixed ClearTargetTable"
