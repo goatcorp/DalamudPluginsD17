@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Paparogue/Tabnado.git"
-commit = "f5e448968d6d7b8e352e8215d528dfce5d593c20"
+commit = "aee2a191ef86e4cb37a4b7790e0a96a76a14914f"
 project_path = "Tabnado"
 owners = ["Paparogue", "Mentor Btw"]
-changelog = "Bugfixes, Added Raycast Percent"
+changelog = "FPS Bugfixes"
