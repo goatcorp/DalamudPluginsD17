@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/QLEDHDTV/PhlegmaDilemma.git"
-commit = "d99387591efc8a962e5aed8ff0c7c9149562201b"
+commit = "1692cb83e204a10f3ab0fe7739f9cc31e3a30c75"
 owners = ["QLEDHDTV"]
 project_path = "PhlegmaDilemma"
-changelog = "Initial release (0.2.0.0)"
+changelog = "Initial release (0.2.1.0)"
