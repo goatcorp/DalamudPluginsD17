@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
 commit = "b98853af56a02876022cda6ab3fd3dd0a3c453d5"
-project_path = "src"
+project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
 - **General**: Reduces internal plugin log level for most TTS events
