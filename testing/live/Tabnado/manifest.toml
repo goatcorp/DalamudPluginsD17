@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Paparogue/Tabnado.git"
-commit = "aee2a191ef86e4cb37a4b7790e0a96a76a14914f"
+commit = "2ba1b43c53da088675c39a5fb41f537c0395e1eb"
 project_path = "Tabnado"
 owners = ["Paparogue", "Mentor Btw"]
-changelog = "FPS Bugfixes"
+changelog = "Fixed an issue with Raycasts on flying enemies"
