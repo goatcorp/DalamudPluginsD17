@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Paparogue/Tabnado.git"
-commit = "4d1901aa88359331eab4731dac78b0d9290ee8a7"
+commit = "f5e448968d6d7b8e352e8215d528dfce5d593c20"
 project_path = "Tabnado"
 owners = ["Paparogue", "Mentor Btw"]
-changelog = "Bugfixes, Tab Target Reset Methods added, Fixed Key Registration, Fixed ClearTargetTable"
+changelog = "Bugfixes, Added Raycast Percent"
