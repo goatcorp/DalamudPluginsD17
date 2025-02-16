@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Paparogue/Tabnado.git"
-commit = "7b65563a009d9f8558f07669638bd84593daef05"
+commit = "875fc1c3262ee3a4d1407d8604d722aa3db1808d"
 project_path = "Tabnado"
 owners = ["Paparogue", "Mentor Btw"]
-changelog = "More bugfixes"
+changelog = "More bugfixes and fps improvements"
