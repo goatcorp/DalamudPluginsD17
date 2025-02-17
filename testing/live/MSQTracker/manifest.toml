@@ -2,5 +2,5 @@
 repository = "https://github.com/bunnycou/MSQTrackerFFXIV.git"
 commit = "798b591e770faf4587cf7c12bafff4fe026b2333"
 owners = ["bunnycou"]
-project_path = "MSQTracker"
+project_path = "MSQTrackerFFXIV"
 changelog = "Track your MSQ progress"
