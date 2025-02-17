@@ -1,21 +1,32 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "19ad312f899527164021e710f318436d19862796"
+commit = "b20ed3ccf3dd0221f2ffe4cd2e6c073842fa9439"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.11"
+version = "1.11.0.10"
 changelog = """\
 ## Added
- - Configuration window reorganised with more sub-sections
- - Source/Use grouping is now configurable
- - Each tooltip modification can now have it's own colour set(or will fallback to the default colour)
- - Source/use tooltip added, will show you the sources/uses for an item inside the tooltip, fully configurable allowing for sources/uses to be hidden/grouped/ungrouped/reordered
- - The `Add Item Locations` tooltip can now be sorted by Item quantity
+ - Items that can be crossbred will now show as a source/use
+ - Added basic shop highlighting(only gil shops so far)
+ - The required column now has a icon that when hovered will give you a breakdown of that particular item in relation to the craft(required, missing, etc)
+ - Add to curated list context menu feature
+ - New installs now come with a housing list
+ - The inventory data now saves on it's own thread to stop hitching when a user has a lot of items
 
 ## Fixed
- - Worked around a bug in a third-party library that could cause the plugin to not load
- - Fixed an issue in how certain craft yields are calculated
+ - Exterior house storage should now be scanned properly
+ - Items that are considered currency will no longer be grouped as currency if they are to be purchased
+ - Fixed some bugs related to how craft numbers are calculated
+ - Fixed a few imgui asserts
+ - The can be equipped filter and favourites should work again
+ - The monster drop tooltip was showing a monster instead the map
+ - NPCs with no shop locations will now longer show up in the action menu in the craft overlay
+ - Window positions should save properly(they weren't saving if the window was open)
+ - Grand company shops had the wrong seal counts
+ - Spectacles will now be considered acquirable and will show in the acquired tooltip
+ - Added missing gathering points
+ - When crafting an item that relied on inspection, the subcrafts were not being generated properly
 
 """
