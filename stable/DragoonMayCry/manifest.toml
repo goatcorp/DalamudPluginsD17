@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "11ead230217e2b880d530ce4153678e2cfe9aa08"
+commit = "919d5499ca8903af877f1d93a2d4dfa659492ed3"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- You can split the gauge from the rank icon and scale them separately
+- Fix error pop up when opening job configuration menu
 """
