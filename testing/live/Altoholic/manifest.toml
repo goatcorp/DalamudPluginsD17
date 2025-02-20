@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "4214bd0fed47dce879aed9371a7721073cc6f200"
+commit = "311f18f3a89d0519a80eb2ab0f5b427a26eb8971"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.33: Add valentione 2025 event"
+changelog = "Version 0.0.0.34: Fix Blunderville framer's kit reward. Add rewards for Moogle Treasure Trove The Hunt for Phantasmagoria."
