@@ -2,15 +2,18 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "c9c6517417d1de0532568b47e394e2e16c81d13e"
+commit = "3bc285bf5e4297aa67e2d9b2cc4090ed8b8dd972"
 changelog = """
-## 1.1.1
+## 1.1.2
 ### Added
-- Tooltip for Map and Teleport Buttons.
+- A setting to toggle the display of sellable items on the marketboard.
+- Material coffers and Triple Triad card packs added to collectables.
+- Island cowries were added to the currencies.
+- The Mahjong vendor, and therefore a new collectable type, was added.
+- Added a context menu for items, allowing users to either link or copy the item name.
 ### Fixed 
-- Missing NPC data for Quinnana was added.
-- Default Scrip Exchange is now in Limsa Lower Decks.
+- Unlock status of items should now be correctly reflected.
 ### Changed
-- Code Cleanup tasks.
+- Adjustments to the Grand Company rankings to address issues with item display.
 """
-version = "1.1.1"
+version = "1.1.2"
