@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "ad38a9e9f118b78d3abaa05dbae555abd332ec06"
+commit = "3fd474b24b7b4cbdd6ab4735eace534a2443d0b3"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.1.0]
-- Add query: frequency of dungeon in each roulette
-- Add button to open analyze window directly
+[1.0.2.0]
+- Add localization support (Only English at the moment)
 """
