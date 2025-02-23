@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Paparogue/Tabnado.git"
-commit = "6448e42edecf7caf433bb190942ac4160e821bb9"
+commit = "345e6e59c8eba2d27b979708078ed08c53d1e50b"
 project_path = "Tabnado"
 owners = ["Paparogue", "Mentor Btw"]
-changelog = "More sliders, more options, combos and bugfixes"
+changelog = "New Options, Bugfixes and wonderful things."
