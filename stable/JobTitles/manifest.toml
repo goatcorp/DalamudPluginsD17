@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "c1b5a908bf8b65a90f5c5ef6a6e0612e9ff0b159"
+commit = "236dec70141d2d755a3c61f74a386fb58161e5a8"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-- Added option to print title changes to chat
-- Fixed incorrectly scaled icon
+- Added option to use GARO titles in PVP
 """
