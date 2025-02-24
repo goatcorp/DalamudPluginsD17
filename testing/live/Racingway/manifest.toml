@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Abyeon/Racingway.git"
+commit = "c57a5488289f977faab1ecc14201d13a756498ee"
+owners = ["Abyeon"]
+project_path = "Racingway"
+changelog = "Large rewrite- added Database for routes and records. Load/unload routes when you change zones. Replay records. Updated trigger logic to reflect how speedrunners start/stop their timers."
