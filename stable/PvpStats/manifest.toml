@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "d4dfc5ab5f70b41900eb6375bf985920fe547a92"
+commit = "2daf3a10cfb90dd4866201dc351d3dc7378c4c86"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Match event timelines are now being recorded for Rival Wings matches.
-* Fixed Rival Wings merc counts not counting properly.
-* Added an Easter egg to the Crystalline Conflict match details window.
+* Removed ContentId and AccountId recording.
 """
