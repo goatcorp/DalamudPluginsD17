@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Paparogue/Tabnado.git"
-commit = "9cb5f5d32f2362173e552e784684b33da0313629"
+commit = "c4f49dc2177bdeda615633857e77cd43f67322cc"
 project_path = "Tabnado"
 owners = ["Paparogue", "Mentor Btw"]
-changelog = "Moved the Camera and GroupManager Init Call, fixed some descriptions."
+changelog = "Fixed several issues with some of the targeting logic."
