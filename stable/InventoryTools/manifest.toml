@@ -1,11 +1,22 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "021f438cc8c1ee7c6a46603bcf79d125a8a96fdd"
+commit = "4ea705d72545e6d32f9e119bdb52d9109f5c9762"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.12"
+version = "1.11.1.0"
 changelog = """\
-- Fixed hang on boot
+**Added**
+ - Most coffers should now list what they contain
+
+**Fixes**
+ - Added missing NPCs
+ - Some shop items listed the wrong currency
+ - Fishing map markers when using Gather(Advanced) were in the wrong spot
+ - The wrong quantity was being calculated in stock mode in certain situations
+ - Sourcing items from Desynthesis works again in craft lists
+ - An edge case would cause FC points to be zerod
+
+This release has a lot of backend changes to prepare for localization, if you notice any weirdness open a bug ticket or post on discord
 """
