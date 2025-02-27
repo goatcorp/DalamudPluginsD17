@@ -1,22 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "4ea705d72545e6d32f9e119bdb52d9109f5c9762"
+commit = "d57da77f0879232043cf8e4a9dc4a320dcec23bd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.1.0"
+version = "1.11.1.1"
 changelog = """\
-**Added**
- - Most coffers should now list what they contain
-
 **Fixes**
- - Added missing NPCs
- - Some shop items listed the wrong currency
- - Fishing map markers when using Gather(Advanced) were in the wrong spot
- - The wrong quantity was being calculated in stock mode in certain situations
- - Sourcing items from Desynthesis works again in craft lists
- - An edge case would cause FC points to be zerod
+ - If the an item is to be sourced by desynthesis in a craft list, it's ingredients cannot have their source set to crafting.
+ - A depth limit was added to craft lists in case something breaks free of the above limitation
+ - Allowed the glamour chest to scan for more items
+ - The use information configuration pane was showing sources and not uses
 
-This release has a lot of backend changes to prepare for localization, if you notice any weirdness open a bug ticket or post on discord
+**Added**
+ - All tooltips additions now have a default colour and a colour must be picked
+ - The item unlock tooltip can now be configured to group by acquired and also hide characters who have acquired the item already
 """
