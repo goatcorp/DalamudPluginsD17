@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "11ead230217e2b880d530ce4153678e2cfe9aa08"
+commit = "2a2bd104f7d84d62a167ebbdb802f6bca91d5991"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- You can split the gauge from the rank icon and scale them separately
+Added commands
+`dmc bgm` toggles dynamic BGM on / off (global setting)
+`dmc job` toggles the plugin on / off for the current job (music + gauge)
 """
