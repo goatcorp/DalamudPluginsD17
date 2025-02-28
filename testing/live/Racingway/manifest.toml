@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "0d0c8d1cd992a080423d5dd11e24988f657c50b8"
+commit = "e48b7686a3b9b08a246e6b8fb5ddb4dc4e145426"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.4.3 [TESTING]
-- Fixed crash when Track Others was enabled
+v0.0.4.5 [TESTING]
+- Fixed tracking characters that aren't players.
+- Added about tab with links to github, Strange Housing, and Ko-fi
+- Added warning about database being deleted.
 
 Known Issues:
 - Need to refresh when importing routes from clipboard
