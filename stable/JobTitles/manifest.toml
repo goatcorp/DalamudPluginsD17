@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "166179d59bd17066f4475ad108a26514d37bf918"
+commit = "8cef70ea1e249241a7b956b462de64a8a678e493"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-- Added option to use GARO titles in PVP
+- various minor logic fixes
 """
