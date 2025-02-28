@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ab18fb539e551c67ae97093e9d923be2065d26d5"
+commit = "d70545f7a1428ecd45045afb48b936e9bd04545d"
 owners = [
     "Critical-Impact",
 ]
@@ -12,4 +12,5 @@ changelog = """\
  - Fixed an issue with the market tooltip causing lag
  - Retainer market items should parse properly again
  - The "Keep market prices for X hours" setting was not being respected
+ - Teleporting to vendors via the buy menu would sometimes send you to the wrong zone
 """
