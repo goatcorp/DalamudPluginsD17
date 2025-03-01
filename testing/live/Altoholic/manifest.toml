@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "311f18f3a89d0519a80eb2ab0f5b427a26eb8971"
+commit = "573fa3d43acc206dbd605aff5562afae76f737b1"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.34: Fix Blunderville framer's kit reward. Add rewards for Moogle Treasure Trove The Hunt for Phantasmagoria."
+changelog = """\
+- **Currencies**: Add missing currency separator in currency all and retainer all
+- **General**: Fix blacklisted warning on blacklisted character when trying to open altoholic
+- **Progress**: Fix wrong mount id for moogle event Phantasmagoria for legendary kamuy
+"""
