@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "22454057c578a3736deccc8160d7afce35ff0c74"
+commit = "9c3fcb59113a3fa5786270410ec683429d08776a"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
 
-- Fixed district detection to be more accurate with new house interior features
+- Another fix for district detection to be more accurate with new house interior features
 
 """
