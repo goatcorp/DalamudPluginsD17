@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Paparogue/Tabnado.git"
+commit = "9cc9894f2c85623bb0f684ce9f69e0f7f447e57e"
+project_path = "Tabnado"
+owners = ["Paparogue", "Mentor Btw"]
+changelog = "Fixes an issue where some boss summons where not considered valid targets."
