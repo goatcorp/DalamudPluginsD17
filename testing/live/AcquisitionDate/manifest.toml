@@ -1,10 +1,16 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "0d12448e1c4fdc691b06a711434f57d8878028f5"
+commit = "75777da52866ffeba221e57ab993b13c0013a623"
 owners = ["Glyceri",]
 	changelog = """
-[0.1.1.3]
-- Automatically adds the Chocobo mount based on your achievement.
-- Will now pull data for legacy quests as well.
-- Fixed an issue (because I didn't think properly) that stops the whole queue from failing if a minion, mount or facewear had an invalid date or could for some reason not be parsed.
+ [0.2.0.0]
+- Fixes downloads not working.
+- Build the system around parsers instead of parsing directly in web requests.
+- Language based date formatting
+- Now shows if a date is the earliest date and potetially not accurate or could be acquired before a given date.
+- Downloads now parse the pages language instead of asuming the page language.
+- Downloads should be more stable in general.
+
+! The plugin is undergoing majour reworks which had to be pushed earlier than I expected.
+! You should see no issues but there's a lot of ""framework"" and unused code in this update.
 """
