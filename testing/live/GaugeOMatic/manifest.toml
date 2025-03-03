@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "32ef4b60a29afbe6dddd486d07e6b0b93416da38"
+commit = "860e4477e220cd169d127a10f1d2c82049892243"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Added audio options for GaugeBar widgets. A chosen sound effect can now play when the bar value increases to (or drops below) a custom threshold.
-- Added free positioning control options to the `Parameter Glow` widget.
+## WIDGETS
+- Fixed an issue with scaling options for the `Shimmering Halo` widget
+- Added Icon and Sound options to counter widgets
 """

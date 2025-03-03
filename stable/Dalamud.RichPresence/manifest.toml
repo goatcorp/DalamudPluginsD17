@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "9048907220fb59d35c3fb6f264b610a984668b51"
+commit = "490e4ec708142a2d8d1bc9910e9146efe07648ca"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-Updated for API 11, now with fixed region images and full job names.
-
-Please report if you use a non-English client language and AFK status doesn't work.
+Replace WineRPCBridge with a version that doesn't get flagged as a false positive by Windows AVs. (Windows users will never run this file btw. It's only for Linux users.)
 """

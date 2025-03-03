@@ -1,19 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
+commit = "d70545f7a1428ecd45045afb48b936e9bd04545d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.1"
+version = "1.11.1.2"
 changelog = """\
-### Fixed
-- The plugin will now use the dalamud language instead of english
-- Stopped certain gathering points from showing up that had bad data
-- Tooltips were tweaked and should now show properly
-- Shared models within the Item Window is back
-
-### Added
-- Added item uses: Chocobo Item, Indoor Furnishing
-- Added item sources: Achievement
+**Fixes**
+ - Market cache data is now saved in the background
+ - Fixed an issue with the market tooltip causing lag
+ - Retainer market items should parse properly again
+ - The "Keep market prices for X hours" setting was not being respected
+ - Teleporting to vendors via the buy menu would sometimes send you to the wrong zone
 """

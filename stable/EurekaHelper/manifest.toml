@@ -1,12 +1,8 @@
 [plugin]
-repository = "https://github.com/snorux/EurekaHelper.git"
-commit = "ec64acfb769b2f3bef8fa442b3fde2fb101a0f31"
-owners = ["snorux"]
+repository = "https://github.com/KangasZ/EurekaHelper.git"
+commit = "f7d39c0e081f5297702a02d88e404adff0c4caef"
+owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-Elemental Manager
-- Added crowdsourced positions
-
-Misc
-- Updated to API 9
+- Allows switching to use chat sound effects
 """

@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/SoundFilter.git'
-commit = '100829e0e763927f569f695d2033150e409efe2c'
+commit = '18dce1368b46a6dec8bca782dee9552853f7ceb0'
 owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+changelog = 'API 11'

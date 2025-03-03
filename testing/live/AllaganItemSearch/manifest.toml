@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
+commit = "708fb7ba71b2d2764ce39edad678d3239f4aa5c4"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganItemSearch"
+version = "1.0.0.2"
+changelog = """\
+**Changes**
+- Move filters into tabs
+- Add filter search tab
+- /asearch + text will search for an item by name and open the window
+- Added operator explanation to name tooltip
+"""

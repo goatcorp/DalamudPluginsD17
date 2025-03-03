@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/PeepingTom.git'
-commit = 'b1de54bcae64edf97c9f90614a588e64b5d0ae34'
+commit = '1fd837a6ca75a02817436be3627897018e96a511'
 owners = [ 'anna-is-cute' ]
 project_path = 'Peeping Tom'
 changelog = '''\
-- Dawntrail
+- API 11
 '''

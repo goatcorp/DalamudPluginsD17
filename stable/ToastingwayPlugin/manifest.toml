@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/powellad/Toastingway.git"
-commit = "e6c1d27d9d8299ab7cf3a73c3a0f6ff5ac35eed7"
+commit = "33621f87359fd5b730f225551f54024f0c4a2095"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
-changelog = "Initial release for Toastingway"
+changelog = """
+- Fixed up some code issues
+- Added better support for HQ items
+""" 

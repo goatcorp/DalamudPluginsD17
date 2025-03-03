@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "c72bdcd31a1d7ab538db10a52e678b7a3cf43169"
+commit = "3b72e2ea37030aa3992a9b0b03ce15735af54505"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed macros'''
+- Fixed ImGui asserts'''

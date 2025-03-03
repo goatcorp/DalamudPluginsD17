@@ -1,0 +1,6 @@
+[plugin]
+repository = 'https://github.com/Xpahtalo/BurntToast.git'
+commit = '1421fa6a17fdd144e0c176686cf83d0a7a11c998'
+owners = [ 'Xpahtalo' ]
+project_path = "BurntToast"
+changelog = """Add GimmickText support. (That text with the red background telling you to do mechanics.)"""

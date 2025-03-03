@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MKhayle/DeviceChangeFix.git"
-commit = "adba3783d7a809c8e981b805d7d8d22310fd4e8f"
-owners = ["Jessidhia", "MKhayle"]
+commit = "0c5b4451ca383814c9fca703825fff3b29ee1870"
+owners = ["Jessidhia", "MKhayle", "nopjmp"]
 project_path = "DeviceChangeFix"
-changelog = "DT updated. May fix issues that DT didn't fix."
+changelog = "7.1 update, may or may not fix your device."

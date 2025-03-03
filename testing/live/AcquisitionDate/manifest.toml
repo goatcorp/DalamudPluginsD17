@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Glyceri/AcquisitionDate.git"
+commit = "0d12448e1c4fdc691b06a711434f57d8878028f5"
+owners = ["Glyceri",]
+	changelog = """
+[0.1.1.3]
+- Automatically adds the Chocobo mount based on your achievement.
+- Will now pull data for legacy quests as well.
+- Fixed an issue (because I didn't think properly) that stops the whole queue from failing if a minion, mount or facewear had an invalid date or could for some reason not be parsed.
+"""

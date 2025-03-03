@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-snooper.git"
-commit = "b6796cae28a23668e10ed3040d55da5a90828bbe"
+commit = "8de76411c4c46a342cf18a200ce8d3905bdb6933"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.4.0.0"
+version = "1.4.0.1"
 changelog = """
-* Log messages now display dates (not just times) when the date is different from today, so that old messages loaded from log files will have more context to them.
-* Fixed a bug where log windows didn't auto-scroll to the very end.
+Update to Dalamud API 11.
 """

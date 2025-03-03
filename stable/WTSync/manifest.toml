@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "deadd14776689544d69391e48bb3b7b8300cedbf"
+commit = "091120354ed4d79ecc77eb4165be148949d79ecf"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-* 7.1 Changes + Dalamud API11
-
-* Added a feature to select a random duty from the list of matching duties when clicking an entry in WTSync, rather than just going through them in order. Hopefully that makes reclears slightly more interesting, especially with the newer broader categories.
+* Added: Ability to switch WTSync to offline mode without disabling it. In offline mode, your Wondrous Tails data won't be sent to the server and you won't receive any data from the server about your party members.
+* Changed: Ensure data is erased from the server when disabling WTSync without logging out first.
 """

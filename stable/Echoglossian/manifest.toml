@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "671299edab0048a8b45c798e789ae79ed473a9a1"
+commit = "b765ae28de79aaca29377d0db03c6dbd0a61d917"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.16.x \n - fixes:\n - API11/v7.1 compatibility."
+changelog = "v3.20.x \n fixes:\n - Tentative fix for 'Plugin could not be loaded error'."

@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "635d14dc968feb9d3c6cc3e9d7c1ead3a2087078"
+commit = "22454057c578a3736deccc8160d7afce35ff0c74"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
 
-- Fixed issues with Stats tab not loading. 
-- Added option to webserver config to not send players not in the house. 
-- Fixed building beta version. 
+- Fixed district detection to be more accurate with new house interior features
 
 """
