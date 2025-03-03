@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "1225131ae56628bf3a7a02425adb88b2dec80383"
+commit = "c95f9e7eae667afa332b01545bbf4b388aeb7cf0"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
 changelog = "Added more options for tooltips to disable when bound to pvp or duty as well as a new profile preview button."
