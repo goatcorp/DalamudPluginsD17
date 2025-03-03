@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "49fa67b3fd48557688475ee6b4e229fad0a681ff"
+commit = "90f83ac47c0b976ec546b8ad411390271acded61"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Version 0.1.0.0**
- - Complete rewrite of item prerequisite system to support more sources
- - Use LuminaSupplemental for coffer contents
- - Indent gearpieces in UI for increased readability
- - Increase initial main window size
- - Fix bug where changes would not save if no gearset changes were applied
- - Fix assignment handling for gearpieces with empty materia slots
- - Fix incorrect gearpiece display color when unobtainable
+**Version 0.1.0.1**
+ - Fix config migration not updating version
+ - Fix web imports of gearsets with no gearpieces
 """
