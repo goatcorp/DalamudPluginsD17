@@ -1,19 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "d57da77f0879232043cf8e4a9dc4a320dcec23bd"
+commit = "d70545f7a1428ecd45045afb48b936e9bd04545d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.1.1"
+version = "1.11.1.2"
 changelog = """\
 **Fixes**
- - If the an item is to be sourced by desynthesis in a craft list, it's ingredients cannot have their source set to crafting.
- - A depth limit was added to craft lists in case something breaks free of the above limitation
- - Allowed the glamour chest to scan for more items
- - The use information configuration pane was showing sources and not uses
-
-**Added**
- - All tooltips additions now have a default colour and a colour must be picked
- - The item unlock tooltip can now be configured to group by acquired and also hide characters who have acquired the item already
+ - Market cache data is now saved in the background
+ - Fixed an issue with the market tooltip causing lag
+ - Retainer market items should parse properly again
+ - The "Keep market prices for X hours" setting was not being respected
+ - Teleporting to vendors via the buy menu would sometimes send you to the wrong zone
 """
