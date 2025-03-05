@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "ce9ea6065ea386a65e8cb835effdd86c8fee1d04"
+commit = "03710dfdfb87692e16591f495d774f92cd63ad37"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Twisted chat cleaning a bit.
-Integrated OpenAI compatible class to keep things simple.
-Removed RAG since it doesn't seem to help.
-Rotate secret for LLM proxy.
-Actually get active chatlog when getting chat context, instead of always getting the first chat tab.
-Update localization strings.
+Fix broken deepl translate.
+Google translate quality dropped. Use bing for backup for now.
+Bump GTranslate.
 """
 [plugin.secrets]
 cfv5 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAwWjD3/KyJImP8dQmxaYopsnRrAzxTTyBXpjy8wD+\nukMwftTv2MvAmtpo4gs6XnvaiOwFbWGronS9JHxu6KX7VkYfqyoLBZNMdo+P\nqkCaSBuI0lgBYA7NBgG1qsc01OP7aWuQCwEsBTgBxUKHu3NXpJUA39789ZdG\nlijhq24gEee+H7e6TALiGvYh++jDhm7W07WnfBbuN8u/LmRlzXr9t+0ASIVv\niamGCfnX\n=iNor\n-----END PGP MESSAGE-----\n"
