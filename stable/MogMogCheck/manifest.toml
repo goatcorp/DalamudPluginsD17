@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haselnussbomber/MogMogCheck.git"
-commit = "6a9bf1b035bd1b16b88f13f3be6db452c54b37a3"
+commit = "55a031853ec201df3926cd00eeee3c9bd12d8548"
 owners = [ "Haselnussbomber" ]
 project_path = "MogMogCheck"

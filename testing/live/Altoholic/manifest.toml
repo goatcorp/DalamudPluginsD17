@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "573fa3d43acc206dbd605aff5562afae76f737b1"
+commit = "217f9fb04ed857a4a8ef89b6417ce0d6bb77db06"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Currencies**: Add missing currency separator in currency all and retainer all
-- **General**: Fix blacklisted warning on blacklisted character when trying to open altoholic
-- **Progress**: Fix wrong mount id for moogle event Phantasmagoria for legendary kamuy
+- **Progress**: Adding Little Ladies' Day 2025 event
 """
