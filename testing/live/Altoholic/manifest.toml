@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "217f9fb04ed857a4a8ef89b6417ce0d6bb77db06"
+commit = "81cb64bc2e4b2476a249c0a05e33acdffe46297b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Adding Little Ladies' Day 2025 event
+- **General**: Adding hairstyles tracking
+- **Progress**: Hairstyles from moogle events are now displayed correctly if obtained
+- **Characters**: Gils on the main characters tab now display both character and retainers gils. Mouse hover the gils to see the source.
 """
