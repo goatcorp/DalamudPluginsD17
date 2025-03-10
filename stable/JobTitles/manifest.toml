@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "7060ded6b682bbcaadfe3743f378abcc85463d8e"
+commit = "8117037bf80cbab846ef03e63bbddf94dc1bfc91"
 owners = ["keifufu"]
 project_path = "."
