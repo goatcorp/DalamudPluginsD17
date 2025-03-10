@@ -10,6 +10,7 @@ changelog = """\
 **Fixes**
  - Fix duplicate craft list crash
  - Fix 'Filter items when in retainer' setting not being respected
+
 **Added**
  - Source/Use columns will output a summarized description when exporting to a CSV/json
  - Right clicking on a source/use icon will now give you the ability to "Copy Source/Use Information" making it easier to share source/use information with others
