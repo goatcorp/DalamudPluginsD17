@@ -57,6 +57,7 @@ jobs:
         repository: goatcorp/DalamudPluginsD17
         path: manifests-master
         ref: main
+        fetch-depth: 0
 
     - name: Checkout Plogon
       uses: actions/checkout@v4
@@ -81,7 +82,7 @@ jobs:
         mkdir work
 
     # TODO: Use future plogon config as cache key
-    - name: Cache Docker images.
+    - name: Cache Docker images
       uses: ScribeMD/docker-cache@0.5.0
       with:
         key: docker-${{ runner.os }} #-${{ hashFiles(paths) }}
@@ -119,6 +120,7 @@ jobs:
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
+        --master-manifest-folder="${{ github.workspace }}/manifests-master" \
         --output-folder="${{ github.workspace }}/output" \
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
