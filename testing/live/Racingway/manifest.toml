@@ -1,15 +1,18 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "e48b7686a3b9b08a246e6b8fb5ddb4dc4e145426"
+commit = "4cdea5b5948126b8b652c45a7877d76a2212fa1f"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.4.5 [TESTING]
-- Fixed tracking characters that aren't players.
-- Added about tab with links to github, Strange Housing, and Ko-fi
-- Added warning about database being deleted.
+This update wipes your DB! This shouldn't happen again in the future.
 
-Known Issues:
-- Need to refresh when importing routes from clipboard
-- Triggers displaying incorrectly when a portion is behind the camera
+v0.0.5.6 [TESTING]
+- Rewrite on how routes are saved
+- Accurate address creation for routes
+- Create explore tab for showing all routes
+- Save records to routes
+- Added tracking of fails and finishes for client
+- Added display of db size on disk
+
+If you find issues, please submit any feedback!
 """
