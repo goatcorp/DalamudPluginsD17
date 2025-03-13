@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "81cb64bc2e4b2476a249c0a05e33acdffe46297b"
+commit = "4acc079e43d4943d428abe87922306ae94b8c38a"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Adding hairstyles tracking
-- **Progress**: Hairstyles from moogle events are now displayed correctly if obtained
-- **Characters**: Gils on the main characters tab now display both character and retainers gils. Mouse hover the gils to see the source.
+- **General**: Rework hairstyles tracking and add facepaint part
+- **Collection**: Collectable (ie: Purchasable) Hairstyles and Facepaints are now added
 """
