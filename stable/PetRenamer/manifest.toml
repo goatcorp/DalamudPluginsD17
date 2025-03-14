@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d3159038a1b06a55f98d733f5a864bf655c7f246"
+commit = "9b50d3882861e564a9f0f46cdfc4932f8217baf9"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.10]
-    Now shows version number on windows.
-    Uses BNpcName name instead of Pet name fixing some display names not renaming properly.
+[2.3.0.12]
+Tentative fix for memory leak from faulty IPC users.
+Couple small stability changes (Thanks Haselnussbomber) :erm:
 """
