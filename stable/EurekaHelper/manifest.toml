@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "f7d39c0e081f5297702a02d88e404adff0c4caef"
+commit = "2de0b52ca801f5ac3839d1a1ae10473a687c45f2"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Allows switching to use chat sound effects
+- Updates to tracker window to include more sortable columns
+- Fixes to 'Respawn In' column sort (#8)
 """
