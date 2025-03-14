@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gposingway/Sightseeingway.git"
-commit = "339b3edffa4da6f011e46d9fc7306bb1e5abf29c"
+commit = "f54d50ccae7d9493561813f7b388811b80da62cf"
 owners = ["gposingway","LeonAquitaine"]
 project_path = "Sightseeingway"
 changelog = "Initial version"
