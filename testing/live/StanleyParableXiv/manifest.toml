@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "e14e7cd19e966a9f594abdb4d1ce2557eb2b4de2"
+commit = "7023a4f250acd633637e0a02b602afe0b5c8197b"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Update to API 10
-- Modified AFK event to reflect the player's AFK status
+- Fix crashes when loading audio device lists
 """

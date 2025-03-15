@@ -1,19 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
+commit = "0290053b454e384df74f5983553d7f5b786c93b5"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.1"
+version = "1.11.1.3"
 changelog = """\
-### Fixed
-- The plugin will now use the dalamud language instead of english
-- Stopped certain gathering points from showing up that had bad data
-- Tooltips were tweaked and should now show properly
-- Shared models within the Item Window is back
+**Fixes**
+ - Fix duplicate craft list crash
+ - Fix 'Filter items when in retainer' setting not being respected
 
-### Added
-- Added item uses: Chocobo Item, Indoor Furnishing
-- Added item sources: Achievement
+**Added**
+ - Source/Use columns will output a summarized description when exporting to a CSV/json
+ - Right clicking on a source/use icon will now give you the ability to "Copy Source/Use Information" making it easier to share source/use information with others
 """

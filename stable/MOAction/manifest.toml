@@ -1,20 +1,7 @@
 [plugin]
-repository = "https://github.com/attickdoor/MOActionPlugin.git"
-
-# The commit to check out and build from the repository.
-commit = "292a0b039322432f32619c6dce354db0815b0fd3"
-
-# The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
+repository = "https://github.com/Infiziert90/MOActionPlugin.git"
+commit = "4876be3a210fe333ad49e03237de3344f5c36596"
 owners = [
-    "attickdoor"
+    "Infiziert90"
 ]
-
-# Optional: where your project/csproj is located within the repository.
-# If empty or unspecified, it will be assumed the project is in the root of the repository.
 project_path = "MOAction"
-
-# The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\
-		7.0 update\
-		Ground target at mouse works again
-		"""

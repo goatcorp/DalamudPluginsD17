@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6009d3fc2f8ae3c898d8df407d6aac9e048ec74a"
+commit = "f4842a692dc33b8715e24b1068f43fbe314844c5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.26: Version 0.0.0.26: Add missing framer kits ids. Add Deep Dungeons, Guildhests, Treasure Hunts, Ultimate, V&C Dungeon Finder duties and pelupelu framerkit reward. Add player houses"
+changelog = """\
+- **General**: Rework hairstyles tracking and add facepaint part
+- **Collection**: Collectable (ie: Purchasable) Hairstyles and Facepaints are now added
+"""

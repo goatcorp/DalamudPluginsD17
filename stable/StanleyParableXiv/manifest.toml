@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "f03fda988c61b14240e0c2679a0f96aca8c5636a"
+commit = "7023a4f250acd633637e0a02b602afe0b5c8197b"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Fix exception spam on first launch before login
+- Fix crashes when loading audio device lists
 """

@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "07b0e4f84963973eaa3ccc7a601266cd9b100542"
+commit = "2a2bd104f7d84d62a167ebbdb802f6bca91d5991"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Trying to fix the plugin error on load after an update. If it still happens, restart your game. Sorry for the inconvenience
+Added commands
+`dmc bgm` toggles dynamic BGM on / off (global setting)
+`dmc job` toggles the plugin on / off for the current job (music + gauge)
 """

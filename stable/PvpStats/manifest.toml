@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "251da2efa624329a07ebee7d1e85ec542396c5d5"
+commit = "6b672469abac2a16258ce1664996fafdc48533ca"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for api11 and game patch 7.1.
-* Added Rival Wings Records and Jobs tabs.
-* Refresh performance optimizations.
+* Added 7.2X periods to time filter.
+* Fixed a bug with blacklisted player names on match intro.
 """

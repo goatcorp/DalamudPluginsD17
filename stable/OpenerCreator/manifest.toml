@@ -1,9 +1,5 @@
 [plugin]
-repository = "https://github.com/herulume/OpenerCreator.git"
-commit = "627cc80495ae78259c83750b686de57e0008ed9a"
-owners = ["herulume", "Sevii77"]
+repository = "https://github.com/Infiziert90/OpenerCreator.git"
+commit = "51856098e893e26d74782311a64b55fe16268383"
+owners = ["Infiziert90", "herulume", "Sevii77"]
 project_path = "OpenerCreator"
-changelog = """
-- Add ability ants for next action
-- Add SAM standard opener (oops)
-"""

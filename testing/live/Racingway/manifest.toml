@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Abyeon/Racingway.git"
+commit = "d4475b45191c70cd8cd5e189f2dcaefe22df90b0"
+owners = ["Abyeon"]
+project_path = "Racingway"
+changelog = """
+v0.0.5.7 [TESTING]
+- Fixed route import/export not working
+
+If you find issues, please submit any feedback!
+"""

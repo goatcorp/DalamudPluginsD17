@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "0b7ca745a538a315aca011e4a438de2901ae2f49"
+commit = "9c3fcb59113a3fa5786270410ec683429d08776a"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
 
-- Updated for Dalamud API 11.
+- Another fix for district detection to be more accurate with new house interior features
 
 """

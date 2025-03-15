@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "5f886140e79a14954f4cfd1ef3213235ed2df956"
+commit = "8c4d06c400af3c7406373b5a55919948399f3fb3"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Consider game won when all safe cells revealed, even if not all mines are flagged (thanks cheege)"
+changelog = "Pause timer when game window closed"
