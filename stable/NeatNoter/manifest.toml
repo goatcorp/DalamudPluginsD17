@@ -2,7 +2,7 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "844fce08fdc171f12c5226fa2b0dd2c5b66f5de2"
+commit = "33695e5b5397198c6a90c006942d9a7c9c203e87"
 changelog = """
 # NeatNoter 2.7.1
 
