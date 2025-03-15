@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/RajahOmen/BisBuddy.git"
+commit = "ab63af76b6b40ead7c9faa6cf1dde3cbaa7adc31"
+owners = ["RajahOmen"]
+project_path = "BisBuddy"
