@@ -2,13 +2,13 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "b17d7bb9e96bbb7752af03bf5786ed36232ed671"
+commit = "844fce08fdc171f12c5226fa2b0dd2c5b66f5de2"
 changelog = """
-# NeatNoter 2.7.0 (Test)
+# NeatNoter 2.7.1 (Test)
 
 ## Features
 
-- Adds support for Patch 7.1 and Dalamud API 11.
+- Created an option to reset the overlay position.
 
 If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
 """
