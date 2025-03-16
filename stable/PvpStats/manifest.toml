@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "6b672469abac2a16258ce1664996fafdc48533ca"
+commit = "955731903d405c554e5765d5a5cbf37ae7c31794"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added 7.2X periods to time filter.
-* Fixed a bug with blacklisted player names on match intro.
+* Added Graphs tab to Rival Wings match details window.
 """
