@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "e9e0ba53b84e4605af522aacd7d473cab595e653"
+commit = "fbef2d0a687b0a2fa8ee048eaac2259f1a73e114"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.5.8 [TESTING]
-- Fix routes tab using old export code
-- Add timer overlay
+v0.0.6.0 [TESTING]
+- Add font manager
+- Update UI for settings tab
+- Fix issue where importing from the routes tab would cause null exceptions
+- Fix issue where you couldn't delete routes if they weren't loaded
 """
