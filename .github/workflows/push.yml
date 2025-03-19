@@ -16,6 +16,7 @@ jobs:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.pull_request.head.sha }}
+        fetch-depth: 0
 
     - name: Setup Difftastic
       run: |
