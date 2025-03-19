@@ -77,6 +77,7 @@ jobs:
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
+        --master-manifest-folder="${{ github.workspace }}/manifests" \
         --output-folder="${{ github.workspace }}/output" \
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
