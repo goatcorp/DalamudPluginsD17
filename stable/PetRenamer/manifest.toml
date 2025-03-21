@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9b50d3882861e564a9f0f46cdfc4932f8217baf9"
+commit = "dbcfa944f9e5f5966649b7fa7ecc26ffe53bf1d6"
 owners = ["Glyceri"]
 	changelog = """
-[2.3.0.12]
-Tentative fix for memory leak from faulty IPC users.
-Couple small stability changes (Thanks Haselnussbomber) :erm:
+[2.3.0.14]
+Fixes a quite common crash.
 """
