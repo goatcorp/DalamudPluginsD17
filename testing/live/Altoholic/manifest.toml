@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "caa80dcc2658f5f58ab763ebf82e40c556efcbb1"
+commit = "8af1fee61a6434ba2c9facd45ef43575620b96b8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add secret recipe book and vista tracking
-- **Collection**: secret recipe books (tomes) and sightseeing log (vista) are now added
+- **General**: Add armoire tracking
+- **Inventories**: Add armoire tab and inventory
 """
