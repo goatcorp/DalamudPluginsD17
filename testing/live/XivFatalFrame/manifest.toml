@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glyceri/XivFatalFrame.git"
-commit = "b41dd9e34f4397f228010f3b2e738e5b7cc782bf"
+commit = "ed321d9b31f6133a028f0d633c11d7f9a388f1e0"
 owners = ["Glyceri",]
 	changelog = """
 [0.1.0.0] (First Version)
