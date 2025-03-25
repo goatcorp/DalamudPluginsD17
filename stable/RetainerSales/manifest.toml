@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Populo/RetainerSales.git"
-commit = "f6c18f4f634ef1380c3cd22efe9def81da5082f4"
+commit = "ff75eb3c4d218d3ffe9392b0e169ece15a810215"
 owners = ["Populo"]
 project_path = "RetainerSales"
-changelog = "Leave testing"
+changelog = "api12 bump"
