@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/XivFatalFrame.git"
-commit = "ed321d9b31f6133a028f0d633c11d7f9a388f1e0"
+commit = "8e2ea555952371bef8c88eb026d463bed5a68966"
 owners = ["Glyceri",]
 	changelog = """
+[0.1.1.0]
+- Updated for 7.2
+
 [0.1.0.0] (First Version)
 - Take a screenshot every time you die.
 
