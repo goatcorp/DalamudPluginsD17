@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "860e4477e220cd169d127a10f1d2c82049892243"
+commit = "dc362527f7336bdd456da1f150466b0c292f96f4"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- Fixed an issue with scaling options for the `Shimmering Halo` widget
-- Added Icon and Sound options to counter widgets
+- Updated for API 12
+- Attempted to fix some issues with counter widgets not animating correctly when their values quickly change
 """
