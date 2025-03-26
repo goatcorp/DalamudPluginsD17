@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sourpuh/NamePlateDebuffs.git"
-commit = "2bbc225c62a34f02a11fee20085cb4adf358483c"
+commit = "54229cb286d7762708ba811804c64351cba5a684"
 owners = [
     "aers",
     "JHerig",
@@ -9,6 +9,6 @@ owners = [
 ]
 project_path = "NamePlateDebuffs"
 changelog = """
-Nameplate Debuffs 1.1.0.4
-- Api 11
+Nameplate Debuffs 1.1.0.5
+- Api 12
 """
