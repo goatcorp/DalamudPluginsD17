@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "fd593f958337050cd36c49f2e39709137f73fd3c"
+commit = "e40f817bafefa401e76d3f32b8e58ce44d3b2c62"
 owners = ["karashiiro"]
 changelog = """\
 - Updated for 7.2
