@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "638935b30af2b2c7aff6475750cec385166f3534"
+commit = "136193fdc07bdd53c8fdb3faea537fb88c47492f"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed a rare on load issue
-- Added the option to hide vanilla and built in presets
-- Updated the about section
+- API12 and 7.2 patch update
 """
