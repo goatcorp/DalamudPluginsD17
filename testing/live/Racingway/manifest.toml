@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "143600800a63a94eedb8ea435a9baeba4a89d35c"
+commit = "9b4c62e0dc286dc181042c2281359a4f52be1d97"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
