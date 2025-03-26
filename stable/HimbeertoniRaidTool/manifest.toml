@@ -2,7 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "2a1d3b991284aa22be42c6cbddfe53210c14b758"
-changelog = """
-New Feature: Automatically switch character in solo tab to currently logged in one
-    Bugfix: Ignoring lower ilvl gear works again"""
+commit = "4be4fdaed527626e0ca2c79caecc16876e8e3ac1"
+changelog = "New Feature: Stats can now take a party bonus into account (adjust the default in settings)"

@@ -1,12 +1,12 @@
 [plugin]
-repository = "https://github.com/attickdoor/AbilityAntsPlugin.git"
+repository = "https://github.com/Zeffuro/AbilityAntsPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "13bfa83b91db39a136fa278da7e73201628a083b"
+commit = "adb7b7949feed4cdb3aa22fca479e6559ac78d78"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
-    "attickdoor"
+    "Zeffuro"
 ]
 
 # Optional: where your project/csproj is located within the repository.
@@ -15,5 +15,5 @@ project_path = "AbilityAntsPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		ants in your pants!\
+		Fix Umbral Draw for Astrologian
 		"""

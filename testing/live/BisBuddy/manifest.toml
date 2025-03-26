@@ -1,0 +1,17 @@
+[plugin]
+repository = "https://github.com/RajahOmen/BisBuddy.git"
+commit = "ab63af76b6b40ead7c9faa6cf1dde3cbaa7adc31"
+owners = ["RajahOmen"]
+project_path = "BisBuddy"
+changelog = """\
+**Changes**
+ - Updated importing UI (and backend)
+ - Added import support for Teamcraft plaintext gearsets
+ - Added option "Next Materia Only" to only show next materia to meld, disabled by default
+ - Added color to individual materia in meld plan window to convey meld status
+**Fixes**
+ - Fix importing from etro for HQ items with materia
+ - Fix prerequisite assignment logic not working, like at all
+ - Fix item tooltip gearset names truncating too aggressively with low gearset counts
+ - Fix bug with highlights not getting updated immediately with some inventory changes
+"""

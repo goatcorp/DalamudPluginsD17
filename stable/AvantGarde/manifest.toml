@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "b2d7fc445e5336e5a62f9dd01b86ee1b8e37fb06"
+commit = "760c3060588001a6a3d9b9af6092cdd844600e38"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-Moved to stable:
-- Added item interaction. Click on an item to open up a submenu.
- - You can Try on, Search, Link and Copy to Clipboard, as well as open the item in your browser for additional info.
+Minor GUI fixes
 """

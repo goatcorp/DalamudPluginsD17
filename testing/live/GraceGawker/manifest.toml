@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/mashirochan/FFXIV-GraceGawker.git"
-commit = "09630ba102843957a27ea81ed3e535b932fb1d80"
-owners = ["mashirochan"]
-project_path = "GraceGawker"
-changelog = "Initial plugin test release!"

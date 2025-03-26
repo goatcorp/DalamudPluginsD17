@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/zeroeightysix/remote-party-finder.git'
-commit = 'fb6027caa06089cd321a0d74bbdcbaf2f45633de'
+commit = '031cb81faf9a1988235784ad6f641814c7ade9e1'
 owners = [ 'zeroeightysix' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = 'Update for Dawntrail'
+changelog = 'Added a new additional backend and user configuration window'

@@ -1,16 +1,14 @@
 [plugin]
-repository = "https://github.com/AtaeKurri/Bartender.git"
-commit = "dabb3046fd7da31299c645e44433e23f823cdc98"
-owners = ["AtaeKurri"]
+repository = "https://github.com/RulHolos/Bartender.git"
+commit = "7f9288ea409f54c35dbff7879aa794e24fc8ef46"
+owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-# v1.1.2
+# v1.1.5
 
-- Added Misc. Condition "Is Targeting".
-- Added Misc. Condition "Is Minion Out".
-- Added Misc. Condition "Is Mount Out".
-- Profiles loaded by Condition Sets now have matching colors for active and inactive.
-
-- Fixed a bug with HQ item icons not being displayed.
-- Fixed a bug with shifting slots inside hotbars.
+- Added /barsave command.
+- Fixed an issue with undo/redo on saving profiles.
+- Added an IPC action.
+- Added German localization (Thanks Sol!).
+- Remade the plugin's icon.
 """

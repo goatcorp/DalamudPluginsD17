@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "c942d0e89a1402a7f80e96ff712681e12ec0bd17"
+commit = "a991749274a9606acb67ca7116dbb42c4eed02e5"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Update scrip mapping for DT by Orphis
+- Fix highlighting issue when not every vendor for item has a shop name
+- Fix highlighting issue where menu selection was specific enough (multiple things highlighted)
+- Add additional shop names
 """
-version = "2.7.1.0"
+version = "2.9.0.3"

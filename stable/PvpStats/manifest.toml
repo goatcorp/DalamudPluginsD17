@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "251da2efa624329a07ebee7d1e85ec542396c5d5"
+commit = "8638bb5f879d2ecb9fb12d83d32f4e0d2732c31d"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for api11 and game patch 7.1.
-* Added Rival Wings Records and Jobs tabs.
-* Refresh performance optimizations.
+* Added mech count graph to Rival Wings match details.
+* Added mid and merc event icons to Rival Wings match details graphs.
 """

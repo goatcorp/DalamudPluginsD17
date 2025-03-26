@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Noevain/VoiceDirector.git"
+commit = "07f2e9063220613fe17807d88968fc9eaa21f36c"
+owners = ["Noevain"]
+project_path = "VoiceDirector"
+changelog = "Release to stable, VoiceDirector is a plugin thats lets you select your VO language for specific duties "

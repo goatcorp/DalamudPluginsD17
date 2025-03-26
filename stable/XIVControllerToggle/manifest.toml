@@ -1,9 +1,13 @@
   [plugin]
   repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
-  commit = "a91b8766f77622a4d9ff26c99fde933114b8b0aa"
+  commit = "311e448d2b74c77dd5136fa3a8af2839dc387282"
   owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
   changelog = """
+  # The Great Controller Hud Switcher 1.0.1.3
+  - Updated to DT 7.1
+  - Added hide chat on switch when changing hud layout
+
   # The Great Controller Hud Switcher 1.0.1.2
   - Fixed issue with configuration UI not changing HUD selection
 

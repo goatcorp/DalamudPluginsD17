@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/Bluefissure/MultiHit.git"
-commit = "b9a709f4e373dbe34e81767f230d4ad6fbdd71c8"
-owners = ["Bluefissure"]
-project_path = "MultiHit"
-changelog = """
-- try to fix crashing
-- support namingway
-"""

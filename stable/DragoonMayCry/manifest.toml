@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "8cc182520354e6a04f1aeec26c2b9ad0379b081b"
+commit = "2a2bd104f7d84d62a167ebbdb802f6bca91d5991"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- 7.1 update
-- Added the Jade Stoa (Unreal) and Sphene's Burden (Extreme) to tracked duties
+Added commands
+`dmc bgm` toggles dynamic BGM on / off (global setting)
+`dmc job` toggles the plugin on / off for the current job (music + gauge)
 """

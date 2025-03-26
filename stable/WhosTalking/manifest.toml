@@ -1,20 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "c57f8c039d83a14e06b603a7c305f8f98181feaa"
+commit = "fc3ff36fe2430efa410a3948101d6bd20767e579"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.0.0**
+**Version 0.8.2.0**
 
-I forgot to push an update to the stable branch for two months. Oops!
-
-The major change in this version is support for rendering voice activity indicators with the game's native UI toolkit ("ATK"), so windows that cover up the party list don't get coloured boxes drawn on top of them. You can enable this in the plugin settings; there are still a couple of minor bugs and oddities – for example, certain UI mods make the ATK-rendered indicators invisible – so it's opt-in for now.
-
-There are also two new options, both implemented by iris (thanks!):
-- Non-rounded voice activity indicators, useful for users of certain graphical mods (only works with ImGui rendering)
-- Toggle to display all Discord users all the time, even when they're not talking
-
-Fixes:
-- Preview icons in settings window now scroll properly (thanks to @foophoof for the report)
-- Group DMs now actually work, for real this time (thanks to Asriel for the report)
+Fixed a bug where Discord users would be displayed on top of your chocobo if you didn't have a pet summoned.
 """

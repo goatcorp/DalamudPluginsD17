@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
+commit = "76f2f8f64aac31da0309a694cb1ce53039599e07"
+owners = ["MorCherlf"]
+project_path = "DutyPusher"
+changelog = """\
+Initial test release.
+API 11
+Add Telegram Official Bot API Support
+Refactored the code logic to reduce coupling between certain services.
+Completely rewritten the DutyListener.
+Added localization support for de, es, fr, it, ja, ko, no, ru, and tw.
+Bug Fixed:
+1. Error URL initialization in BarkChannel;
+2. Uncatchable thrown exception.
+"""

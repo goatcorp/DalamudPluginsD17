@@ -1,12 +1,12 @@
 [plugin]
-repository = "https://github.com/attickdoor/XIVComboPlugin.git"
+repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "df259c4b57c99efa0ddfe8d8ffa6e29a14b759dd"
+commit = "b36a4b66e3f0dae14a563c9eecceb7431e291280"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
-    "attickdoor"
+    "MKhayle"
 ]
 
 # Optional: where your project/csproj is located within the repository.
@@ -14,7 +14,6 @@ owners = [
 project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\
-		Dawntrail update, supporting new jobs and abilities, cleaning up obsolete combos\
-		Welcome to the family MNK
+changelog = """\	
+- Fixed MCH's Hypercharge and Spreadshot combos being swapped.
 		"""

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/MBHistory.git"
-commit = "9194f1ce4dee42ccfc1c7358a04ece7a4a843fdb"
+commit = "b9ca9e1e138dfe858ff1a647d30f1552c679da96"
 owners = [
     "Infiziert90",
 ]

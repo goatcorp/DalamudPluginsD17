@@ -1,13 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "3f9e3f9596d254374510944ef66df70c660db638"
+commit = "03c121d6a71b127fa8b05089979768e378bd1060"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.0
+# Umbra 2.3.10
 
-Umbra has been updated for **Patch 7.1**.
-Custom plugins should be recompiled against this (2.3) version of Umbra before they can be used again.
+## Fixes & Improvements
+
+- Add Island Sanctuary ferry to Zone Markers (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix gearset switcher max level color for newly added sets (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "c57f8c039d83a14e06b603a7c305f8f98181feaa"
+commit = "6b9edf1cd47dc4fb1f539534ad650668dc1b25f5"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.0.0**
+**Version 0.8.4.0**
 
-- Add an option to display all Discord users, even when they're talking (thanks to iris for implementing this)
+You can now configure which port Who's Talking uses to communicate with the Discord client. This is primarily useful if you have multiple Discord clients open at the same time.
 
-I'd like this release to go to the stable channel soon. Please report any issues in #plugin-help-forum!
+Many thanks to SayuShira for implementing this feature!
 """

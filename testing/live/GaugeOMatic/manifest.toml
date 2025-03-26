@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "30d86198b2435734b914566c5c51e1e4ced19893"
+commit = "860e4477e220cd169d127a10f1d2c82049892243"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-Implemented a further fix for Bloodletter and other charge action trackers.
+## WIDGETS
+- Fixed an issue with scaling options for the `Shimmering Halo` widget
+- Added Icon and Sound options to counter widgets
 """
