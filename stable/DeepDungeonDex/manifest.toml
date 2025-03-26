@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "e4a5fe1e82d4e61d6c39d591f99ff673799c547c"
+commit = "2649067768761e0b5af02b82ba83d2b59555ab27"
 changelog = "### 2.12.2 (2025-03-26)\n\n\n### Bug Fixes\n\n* 7.2 release changes (d280581)\n* change one type to CS (5da2903)"
 version = "2.12.2"
