@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "b36a4b66e3f0dae14a563c9eecceb7431e291280"
+commit = "01bf54e9dc51a69725468d4194783d408a536193"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +15,6 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\	
-- Fixed MCH's Hypercharge and Spreadshot combos being swapped.
+- API 12 update
+- Fixed MNK's Coeurl feature not working if you were level 30 (thanks CGRocky for the feedback)
 		"""
