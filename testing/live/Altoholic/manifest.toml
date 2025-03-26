@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8af1fee61a6434ba2c9facd45ef43575620b96b8"
+commit = "59dde603974390f251c767b1cc32612865f55b18"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add armoire tracking
-- **Inventories**: Add armoire tab and inventory
+- **General**: Add glamour dresser tracking.
+- **Collection**: Updating facewear with 7.2 one.
+- **Currencies**: Adding allagan tomestone of mathematics. Moving Aesthetics to deprecated.
+- **Inventories**: Add glamour dresser tab and inventory.
 """
