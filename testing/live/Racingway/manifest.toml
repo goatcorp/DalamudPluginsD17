@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "a96b2c75c19ca48d237b67e0b136bbc14e7e9532"
+commit = "9b4c62e0dc286dc181042c2281359a4f52be1d97"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.1 [TESTING]
-- Fix hitches when finishing/failing routes
-- Fix hitches when updating route information
-- Racingway should hopefully just be more performative now
+v0.0.6.3 [TESTING]
+- Update to api 12
+- Fix UI timer not resetting when going back to start
 """
