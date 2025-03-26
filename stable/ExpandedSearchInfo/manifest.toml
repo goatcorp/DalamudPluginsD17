@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/ExpandedSearchInfo.git'
-commit = '94d160898b8d2abe07b11e8d70e21ec143de536f'
+commit = '5196b82d438395e3bc7990a21f7c1cac19dfc7e0'
 owners = [ 'caitlyn-gg' ]
-changelog = 'Updated for patch 7.1'
+changelog = 'Updated for API 12'
