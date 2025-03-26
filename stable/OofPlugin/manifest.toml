@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "b6694fbd87f45a23f6d1444ed5d24d3eab94f367"
+commit = "a1d891eb402fa39850404e926cdfc1cd35dc3403"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
-- fix bug where oof won't play on death
-- i hate OOP 
+- update for api 11 / 7.11 patch
 """

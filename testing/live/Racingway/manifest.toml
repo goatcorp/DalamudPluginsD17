@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Abyeon/Racingway.git"
+commit = "a96b2c75c19ca48d237b67e0b136bbc14e7e9532"
+owners = ["Abyeon"]
+project_path = "Racingway"
+changelog = """
+v0.0.6.1 [TESTING]
+- Fix hitches when finishing/failing routes
+- Fix hitches when updating route information
+- Racingway should hopefully just be more performative now
+"""

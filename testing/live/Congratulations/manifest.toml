@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "713429b6e264a92f1fccb1f0c2fa45888fbc6ac1"
+commit = "30feb420936885592e2f01f4376184665b3aface"
 owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """

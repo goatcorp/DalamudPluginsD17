@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "c90e2b650f1eacbfc961bc2089cd51975330978e"
+commit = "2a2bd104f7d84d62a167ebbdb802f6bca91d5991"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Fixed a bug that would block audio from the game after a change in the default audio output
+Added commands
+`dmc bgm` toggles dynamic BGM on / off (global setting)
+`dmc job` toggles the plugin on / off for the current job (music + gauge)
 """

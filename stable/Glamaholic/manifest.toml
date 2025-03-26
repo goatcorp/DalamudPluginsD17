@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '3d65cfe8877753199bc1ed3dd476f19a3bccc1d8'
+commit = '9061a78593e583949402e3bd4038c32196e2974a'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-Fixed a bug wherein the second dye slot would not be set when a plate was applied.
+- Fixed an issue in the UI drawing code which would cause an assert if enabled.
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

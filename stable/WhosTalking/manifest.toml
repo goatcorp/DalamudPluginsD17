@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "ae6bfc5b9c7776b09abb2a51e16e755f9025608f"
+commit = "fc3ff36fe2430efa410a3948101d6bd20767e579"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.1.0**
+**Version 0.8.2.0**
 
-Updated for patch 7.1.
+Fixed a bug where Discord users would be displayed on top of your chocobo if you didn't have a pet summoned.
 """

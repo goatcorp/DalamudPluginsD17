@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "ae4c3659afadb3552fb32f6257c2b4b20d934bfc"
+commit = "860e4477e220cd169d127a10f1d2c82049892243"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## TRACKERS
-- Added multiple song trackers for BRD. These can be used to track song time remaining, stacks of Repertoire, and/or Minstrel's Coda status.
-
-## MISC
-- Added the missing `Behavior` tab to the `Simple Timer` widget.
+## WIDGETS
+- Fixed an issue with scaling options for the `Shimmering Halo` widget
+- Added Icon and Sound options to counter widgets
 """

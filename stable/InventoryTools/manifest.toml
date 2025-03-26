@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "3ac1e7d3908cefb73db12d533100317d1b2a1a8f"
+commit = "0a3ba459f9999884853cdb551788207b7fc96ff8"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.3"
+version = "1.11.1.4"
 changelog = """\
-### Fixed
-- Hopefully squashed a bug with the retainer list and highlighting
-- Improvements to the NPC parsing means more vendors should have locations/shops
-
+**Fixes**
+ - Fix an issue stopping list configurations from being exported/copied
+ - Fix an issue with certain shops listing the wrong currency for their cost
+ - Fix an issue when opening the "More Information" menu/other context menus from the Search results of the marketboard
 """

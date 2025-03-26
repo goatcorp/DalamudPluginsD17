@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/wompscode/NowPlaying.git"
+commit = "0d4ac238db59fea511f0103904b9d6093a42f55c"
+owners = ["wompscode"]
+project_path = "NowPlaying"
+changelog = "Bandaid fix to temporary occasional bug."

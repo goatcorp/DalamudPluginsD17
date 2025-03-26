@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "311d125a90085a5cd1142f0ae62b6dbb827b9782"
+commit = "091120354ed4d79ecc77eb4165be148949d79ecf"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-* Added: Share links. Got a friend who can't or doesn't use plugins? You can now generate a link and they can view WTSync in their browser. For privacy, these links expire after 30 minutes and only show characters' initials.
-* Added: Wondrous Tails statistics. What duties are people doing? Are people finishing their Wondrous Tails? How many stickers do people have? Find out now with our new weekly reports.
-
-* Added option to opt out from statistics. The data is fully anonymous, but I understand some people aren't cool with that sort of thing so, for those of you who aren't, just opt out and you won't be included.
-* Added links to the WTSync website to its settings window.
+* Added: Ability to switch WTSync to offline mode without disabling it. In offline mode, your Wondrous Tails data won't be sent to the server and you won't receive any data from the server about your party members.
+* Changed: Ensure data is erased from the server when disabling WTSync without logging out first.
 """
