@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "9bfa7dbd9bbf254f759491acec326cef9dbb3f43"
+commit = "8bded6fdb77f6838e87df48482374a4862b6d6b0"
 changelog = "- Updated plugin for 7.2"
