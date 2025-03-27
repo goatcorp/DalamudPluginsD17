@@ -37,8 +37,8 @@ jobs:
           # The --json flag allows us to specify exact fields we want
           gh pr list \
             --state open \
-            --json number,author,headRefName,updatedAt,createdAt \
-            --template '{{range .}}{{if or (ge .updatedAt "'"$THRESHOLD_DATE"'") (ge .createdAt "'"$THRESHOLD_DATE"'")}}{{.number}} {{.author.login}} {{.headRefName}}{{"\n"}}{{end}}{{end}}' | \
+            --json number,author,headRefOid,updatedAt,createdAt \
+            --template '{{range .}}{{if or (ge .updatedAt "'"$THRESHOLD_DATE"'") (ge .createdAt "'"$THRESHOLD_DATE"'")}}{{.number}} {{.author.login}} {{.headRefOid}}{{"\n"}}{{end}}{{end}}' | \
           while read -r PR_NUM ACTOR HEAD_REF; do
             # Create repository dispatch for each PR
             curl -L \
