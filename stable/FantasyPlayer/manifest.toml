@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "a1659937ba7d9a245b0c40ca41319f54749976fc"
+commit = "24084564ea1c3b4c4bf97defa9db214ccb5a026a"
 owners = [
     "Critical-Impact",
 ]
