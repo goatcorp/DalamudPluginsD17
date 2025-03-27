@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8638bb5f879d2ecb9fb12d83d32f4e0d2732c31d"
+commit = "8bd364c2e511d27ab05775ccbabc77f3ec497270"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added mech count graph to Rival Wings match details.
-* Added mid and merc event icons to Rival Wings match details graphs.
+* Updated for patch 7.2.
 """
