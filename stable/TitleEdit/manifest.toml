@@ -6,5 +6,5 @@ owners = [
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixing camera bouncing in character select when using the "Character model position" Camera follow setting
+- Fixed camera bouncing in character select when using the "Character model position" Camera follow setting
 """
