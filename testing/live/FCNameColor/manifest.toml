@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "2f18729e74477f3a1a78056733897602461a0a96"
+commit = "8c233c09175c9e524ffa45eef271526d0607c3ba"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Fix FC matching issue
+- Revert changes made to FC matching logic
 """
