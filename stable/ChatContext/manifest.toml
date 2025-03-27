@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/anya-hichu/ChatContext.git"
-commit = "fac9016a5c290a4b8aeb044e98f5a7a6eef6c8f5"
+commit = "caac1669efbddff12ed00b949a54ccb71e0f60c5"
 owners = [
     "anya-hichu",
 ]
 project_path = "ChatContext"
-version = "0.0.1.3"
-changelog = " - Fix crash when main window is partially out of screen"
+version = "0.0.2.0"
+changelog = " - Api 12"
