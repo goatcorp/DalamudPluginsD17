@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "3b72e2ea37030aa3992a9b0b03ce15735af54505"
+commit = "2b7e2baa0dc52ff971296f4b2d8ef3b68284c00a"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed ImGui asserts'''
+- Fixed for 7.2'''
