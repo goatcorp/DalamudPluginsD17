@@ -1,10 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/eorzea-votes.git'
-commit = '2b9af4f93a315c561cf8a5d6d868e1778085603e'
+commit = '4931be6b071751f826a855245062001cc671579a'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Line wrap buttons to fit them all on screen
-- Update to NET 8
-- Add open main UI and open settings buttons to installer
+- API 12
+- Weekly questions instead of daily
 """
