@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "0d4ac238db59fea511f0103904b9d6093a42f55c"
+commit = "a5a8774fddce2f5469d1ef9885b5653471729225"
 owners = ["wompscode"]
 project_path = "NowPlaying"
-changelog = "Bandaid fix to temporary occasional bug."
+changelog = "7.2, bump to API12 - clarification for some possible warnings in log."

@@ -2,10 +2,9 @@
 repository = "https://github.com/Critical-Impact/Tippy.git"
 owners = [ "kalilistic", "Critical-Impact" ]
 project_path = "src/Tippy"
-commit = "234239fcab1674242fa155279406f4060521c395"
-version = "1.11.0.1"
+commit = "73c35158859c2711b0ef8421112095bbfe8df9c3"
+version = "1.12.0.1"
 changelog = """\
-### Fixes
-- Will now use dalamuds language
-- Will now reload the tips when dalamuds language changes
+- API12 support
+
 """

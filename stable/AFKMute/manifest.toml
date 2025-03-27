@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/AFKMute.git"
-commit = "3bbbd030b46ed95424be9685571f7244284ec239"
+commit = "a0db4885ba88e4e5de7b071a6d4a0c8de26eedee"
 owners = ["wompscode"]
 project_path = "AFKMute"
-changelog = "Save state of master volume and last known AFK state of player, and unmute on game start accordingly. Thanks for reporting this."
+changelog = "Patch 7.2: bump to api12"

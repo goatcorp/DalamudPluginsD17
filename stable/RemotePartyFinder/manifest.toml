@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/zeroeightysix/remote-party-finder.git'
-commit = '031cb81faf9a1988235784ad6f641814c7ade9e1'
+commit = '8f964f53dd079d48801c07bac6c745c01a368c76'
 owners = [ 'zeroeightysix' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = 'Added a new additional backend and user configuration window'
+changelog = 'Update for 7.2'

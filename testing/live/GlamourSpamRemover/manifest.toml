@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
-commit = "55ae3d4d13aa474c8ea23f924e5d990048339632"
+commit = "a93d46d19c38f2678f9841cfe7e21e57146e0a02"
 owners = ["Shezwick"]
 project_path = "/GlamourSpamBeGone"
-changelog = "Added Chinese language support. Thank you, lsl1225!"
-version = "1.2.5.0"
+changelog = "Updated for patch 7.2"
+version = "1.7.2.0"

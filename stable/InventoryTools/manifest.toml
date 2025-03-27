@@ -1,17 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0290053b454e384df74f5983553d7f5b786c93b5"
+commit = "0a3ba459f9999884853cdb551788207b7fc96ff8"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.1.3"
+version = "1.11.1.4"
 changelog = """\
 **Fixes**
- - Fix duplicate craft list crash
- - Fix 'Filter items when in retainer' setting not being respected
-
-**Added**
- - Source/Use columns will output a summarized description when exporting to a CSV/json
- - Right clicking on a source/use icon will now give you the ability to "Copy Source/Use Information" making it easier to share source/use information with others
+ - Fix an issue stopping list configurations from being exported/copied
+ - Fix an issue with certain shops listing the wrong currency for their cost
+ - Fix an issue when opening the "More Information" menu/other context menus from the Search results of the marketboard
 """

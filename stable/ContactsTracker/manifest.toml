@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "3fd474b24b7b4cbdd6ab4735eace534a2443d0b3"
+commit = "9e51d93026641eabb937c31210214ef19dcdf269"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.2.0]
-- Add localization support (Only English at the moment)
+[1.0.3.0]
+- API 12
 """
