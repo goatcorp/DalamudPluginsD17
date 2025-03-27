@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "9c7daefbdda79b39b763f42112ab9116dd2089b0"
+commit = "a3374fec59f1e33b872d4d706032e53f4efa24c1"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "update for patch 7.1, dalamud api11"
+changelog = "Bump for API v12"

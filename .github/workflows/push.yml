@@ -16,6 +16,7 @@ jobs:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.pull_request.head.sha }}
+        fetch-depth: 0
 
     - name: Setup Difftastic
       run: |
@@ -77,6 +78,7 @@ jobs:
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
+        --master-manifest-folder="${{ github.workspace }}/manifests" \
         --output-folder="${{ github.workspace }}/output" \
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \

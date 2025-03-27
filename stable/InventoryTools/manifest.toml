@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "021f438cc8c1ee7c6a46603bcf79d125a8a96fdd"
+commit = "0a3ba459f9999884853cdb551788207b7fc96ff8"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.12"
+version = "1.11.1.4"
 changelog = """\
-- Fixed hang on boot
+**Fixes**
+ - Fix an issue stopping list configurations from being exported/copied
+ - Fix an issue with certain shops listing the wrong currency for their cost
+ - Fix an issue when opening the "More Information" menu/other context menus from the Search results of the marketboard
 """

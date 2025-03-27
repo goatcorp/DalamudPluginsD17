@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Drahsid/ResizableHUD.git"
-commit = "e1d6ea56d5a6125f0da50bc8760558a58f4a1fc7"
+commit = "07895ae65bc394e83d1b0b7981f4ea1c70b5b7b4"
 owners = ["Drahsid"]
 project_path = "ResizableHUD"
 changelog = """
-- ResizableHUD now only attempt to position nodes that have been setup (Thanks @two-zee)
+- Updated for API12
 """

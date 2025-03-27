@@ -2,7 +2,7 @@
 repository = "https://github.com/Zeffuro/AbilityAntsPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "adb7b7949feed4cdb3aa22fca479e6559ac78d78"
+commit = "a8802a6c98bb30fabd434f351e95be8f47d245f1"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +15,5 @@ project_path = "AbilityAntsPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		Fix Umbral Draw for Astrologian
+		Update to API12
 		"""
