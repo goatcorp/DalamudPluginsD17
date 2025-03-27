@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/anya-hichu/ChatContext.git"
-commit = "caac1669efbddff12ed00b949a54ccb71e0f60c5"
+commit = "d6f64b2bee1021d7c2c50a963ea16ff642e5c53a"
 owners = [
     "anya-hichu",
 ]
