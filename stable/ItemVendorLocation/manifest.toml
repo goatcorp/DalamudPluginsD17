@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "730cb0408bfd62464427df28d063fee4b2a06b43"
+commit = "a991749274a9606acb67ca7116dbb42c4eed02e5"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- 7.1 updates
+- Fix highlighting issue when not every vendor for item has a shop name
+- Fix highlighting issue where menu selection was specific enough (multiple things highlighted)
+- Add additional shop names
 """
-version = "2.8.0.0"
+version = "2.9.0.3"

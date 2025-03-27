@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "091120354ed4d79ecc77eb4165be148949d79ecf"
+commit = "11267644a53a565f7ee8d237e0ddecc7816ed80f"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-* Added: Ability to switch WTSync to offline mode without disabling it. In offline mode, your Wondrous Tails data won't be sent to the server and you won't receive any data from the server about your party members.
-* Changed: Ensure data is erased from the server when disabling WTSync without logging out first.
+* Added: Setting to hide the server bar entry when not in a duty.
+* Maintenance: Migrate to Dalamud SDK / API 12.
 """

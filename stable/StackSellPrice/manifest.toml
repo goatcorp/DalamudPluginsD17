@@ -1,6 +1,5 @@
 [plugin]
-repository = "https://github.com/PrincessRTFM/StackSellPrice.git"
-owners = [ "PrincessRTFM",]
+repository = "https://github.com/Infiziert90/StackSellPrice.git"
+owners = [ "PrincessRTFM", "Infiziert90"]
 project_path = ""
-commit = "811d8a6dd507f1426fd1ffe7c248adeb6fcbfd55"
-changelog = "Update for patch 6.58, no code changes."
+commit = "c28ddb4e71cd7b4a7987b61cb915274144f8d4fb"

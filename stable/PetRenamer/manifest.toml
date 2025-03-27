@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d58c3e97313565acd030d097d0247a8486689264"
+commit = "2f971b525d9879bc7b40fb450e2f0f2d30f749a0"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.5]
-    Fixes colours not exporting and importing properly (gamers, I was very ill, which is my copium excuse for why we've had so many bugs lately)
+[2.4.0.0]
+Stability fixes made by Haselnussbomber
+Updated for 7.2
 """

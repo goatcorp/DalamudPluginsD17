@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aireil/FlyTextFilter.git"
-commit = "0ac607d086713f0f5c8b59c832a1cceb03d3c4f2"
+commit = "141cc154f8e6b192ff71cf07beaaf8b82332187f"
 owners = [
     "Aireil",
 ]

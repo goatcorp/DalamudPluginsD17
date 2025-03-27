@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "e09614012a9585fbaadbd93d8b18aca915e65c33"
+commit = "8a2da61c4a3bb4638a692d4529d410a6fefddbcc"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Adjust dynamic cascade formula to be less conservative, and to have more significant changes at 4096p shadows.
-- Add option to use a separate shadowmap for combat, with the intent of allowing users to improve their performance when it matters.
+- Updated for most recent patch
+- Reimplemented combat shadowmaps
 """
 

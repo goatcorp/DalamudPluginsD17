@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/DueDine/ContactsTracker.git"
+commit = "fe003bddab0a4cd38e249a2cb0b94c26037ee121"
+owners = ["DueDine"]
+project_path = "ContactsTracker"
+changelog = """
+[0.3.0.1]
+- Fix error when handle in-progress entry
+"""

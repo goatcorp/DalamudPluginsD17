@@ -1,14 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "e58e6183cdb71abfe67b4e74c7f5d166a435690c"
+commit = "2a2bd104f7d84d62a167ebbdb802f6bca91d5991"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Removed check box to enable 'Estinien Must Die'
-- Difficulties selectable with a combo selection : 'Sprout', 'Wyrm Hunter' (default), 'Estinien Must Die'
-- New difficulty mode "Sprout" :
-  - Dropping your GCD will increase the decay rate of the progress gauge instead of demoting you.
-  - Duties performance are not recorded for jobs in Sprout mode
-- Added a 3s delay before the demotion warning starts if you just have been demoted.
-- Increased the configurable range limit to determine if a GCD was dropped from 1 s to 2.5 s 
+Added commands
+`dmc bgm` toggles dynamic BGM on / off (global setting)
+`dmc job` toggles the plugin on / off for the current job (music + gauge)
 """
