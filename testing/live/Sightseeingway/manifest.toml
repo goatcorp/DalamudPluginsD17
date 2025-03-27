@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gposingway/Sightseeingway.git"
-commit = "4836a59fd6642601b133a940dd4b65b84b8cc1f8"
+commit = "da514beb44f88040bbdcff0c2afd633a6e77c81c"
 owners = ["gposingway","LeonAquitaine"]
 project_path = "Sightseeingway"
 changelog = "Updated for 7.2 / API 12"
