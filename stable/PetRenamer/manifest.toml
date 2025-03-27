@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "4c6544127838263017fe2d02d8b393aad391b462"
+commit = "2f971b525d9879bc7b40fb450e2f0f2d30f749a0"
 owners = ["Glyceri"]
 	changelog = """
-[2.3.0.14]
-Fixes a quite common crash.
+[2.4.0.0]
+Stability fixes made by Haselnussbomber
+Updated for 7.2
 """
