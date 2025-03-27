@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "8d18f0bc810a3aa0e04317be2209ca1040c97aff"
+commit = "79212d924498c68c71e0dab785b66fad4d08cf73"
 owners = [
     "Critical-Impact",
 ]
