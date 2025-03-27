@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "4d2e7144a388468d33164d18a302e5275e4eb03d"
+commit = "ba237c887c8f1cac3c3d7fa69e4289dc4bdc0b4d"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Fix for a crash on player logout
+- Temporary fix for an issue retrieving Action data from the game
 """
