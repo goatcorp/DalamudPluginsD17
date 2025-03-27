@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "3de501aa2f45035e9d335b71f62ad76e8ff2e6d4"
+commit = "bcf270996950e02e60d4c39c7d4854b728115f12"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
