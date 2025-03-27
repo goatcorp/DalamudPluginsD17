@@ -10,7 +10,7 @@ on:
         default: '2 days ago'
 
 permissions:
-  contents: read
+  contents: write # for repo dispatches
   pull-requests: read
 
 jobs:
