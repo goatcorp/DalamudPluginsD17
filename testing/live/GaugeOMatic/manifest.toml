@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "860e4477e220cd169d127a10f1d2c82049892243"
+commit = "4d2e7144a388468d33164d18a302e5275e4eb03d"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- Fixed an issue with scaling options for the `Shimmering Halo` widget
-- Added Icon and Sound options to counter widgets
+- Fix for a crash on player logout
 """

@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "df8740f974c454cb2b9354228ec9b5292bf3d125"
+commit = "086debc8f56aa751195fb1840e6c34b16a44740a"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
 changelog = """
-### Dead Targeting update
-- Added a configuration (opt out) to allow target data info to keep being displayed even if you're dead, whether from damage or a skill issue, so you can still call out mechanics/attacks to your allies pretending to be a living encyclopedia
--# -Went deeper into the dungeon
+- API 12 update
 """

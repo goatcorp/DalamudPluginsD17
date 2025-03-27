@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "6b672469abac2a16258ce1664996fafdc48533ca"
+commit = "8bd364c2e511d27ab05775ccbabc77f3ec497270"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added 7.2X periods to time filter.
-* Fixed a bug with blacklisted player names on match intro.
+* Updated for patch 7.2.
 """

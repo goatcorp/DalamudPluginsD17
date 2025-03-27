@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MapleHinata/Dalamud.LoadingImage.git"
-commit = "3c89f036177f0d364e6d141ae6b1948132a7cfc0"
+commit = "98f73d9dc10bbb6467d6db37f598edfabd5e0760"
 owners = [
     "MapleHinata",
 ]

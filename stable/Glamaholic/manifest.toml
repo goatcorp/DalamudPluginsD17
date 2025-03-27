@@ -1,10 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '15b50a2757b6252656cc7cd3f78b3825676f8334'
+commit = '9061a78593e583949402e3bd4038c32196e2974a'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Eorzea Collection glamours with items containing NBSP characters should now import correctly.
-- Added a plugin interop command suggested by @subaruyashiro, see plugin help for more information.
+- Fixed an issue in the UI drawing code which would cause an assert if enabled.
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """
