@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "764114be644d69f985750aa5d94dfb709c62ac16"
+commit = "bcc82999bff6b6b1a56c02796c557b1f61ae36e9"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- API12 and 7.2 patch update
+- Fixed camera bouncing in character select when using the "Character model position" Camera follow setting
 """
