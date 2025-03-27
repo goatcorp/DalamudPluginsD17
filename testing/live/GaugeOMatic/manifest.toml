@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "dc362527f7336bdd456da1f150466b0c292f96f4"
+commit = "4d2e7144a388468d33164d18a302e5275e4eb03d"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Updated for API 12
-- Attempted to fix some issues with counter widgets not animating correctly when their values quickly change
+- Fix for a crash on player logout
 """
