@@ -2,7 +2,7 @@
 repository = "https://github.com/Noevain/DotCalculator.git"
 owners = ["Noevain"]
 project_path = "DotCalculator"
-commit = "9b597b694a0c3a54db27b5324bcddf91c5e9f107"
+commit = "07b85cc3927f0fd776b6e5627eacd834a5efd1cb"
 changelog = '''
-DoT Calculator is a new plugin that attempts to tell you just how salted the earth is.
+API12 update, the earth is unsalted...
 '''
