@@ -2,7 +2,7 @@
 repository = "https://github.com/Noevain/DotCalculator.git"
 owners = ["Noevain"]
 project_path = "DotCalculator"
-commit = "07b85cc3927f0fd776b6e5627eacd834a5efd1cb"
+commit = "526c430d3b150d2566f7e4941be2375e0ade30cd"
 changelog = '''
 API12 update, the earth is unsalted...
 '''
