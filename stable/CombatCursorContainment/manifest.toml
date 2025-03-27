@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/Cytraen/CombatCursorContainment.git"
-commit = "f64e2326e6ae7c44bc2cff45630321f67b8b589a"
+commit = "0e8ff199fd5ed58b7dff7259cdbd848d78ca154f"
 owners = ["Cytraen"]
 changelog = """
-- Update for 7.1
+- Update for 7.2
+- Add option to unlock cursor during phase transitions
 """

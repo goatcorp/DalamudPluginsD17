@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "7509ffce1dfd4ef9e4a812a48f1ce0af587a432e"
+commit = "4d2e7144a388468d33164d18a302e5275e4eb03d"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- Added an Icon option to bar & timer widgets. You can now display the icon for an action or status effect next to its widget. (Also works dynamically with castbar widgets!)
-- Added the missing "Behavior" tab to more widgets. Whoops!
-
-Currently only bar & timer widgets have sound and icon options, but these settings will be added to other widget types in the (hopefully near) future.
+- Fix for a crash on player logout
 """

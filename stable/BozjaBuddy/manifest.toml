@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "83ca4edcca4aeb9685196acb05d18bbffb6d09dc"
+commit = "6ee0849b5465ded2882b062ef05f9e682f915d47"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.6.3
-- Fixed auto-job update. Fixed char stats and notes window.
+[1.1.6.4] Added new servers in DRS community tab
 """

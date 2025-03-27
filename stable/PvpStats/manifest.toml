@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8288395edf0a6bf6887af18d4aad7b64fd170f14"
+commit = "8bd364c2e511d27ab05775ccbabc77f3ec497270"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Add season 12 and patch 7.11 and 7.1X time filter options.
+* Updated for patch 7.2.
 """
