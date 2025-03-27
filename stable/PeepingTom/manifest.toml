@@ -1,7 +1,7 @@
 [plugin]
 repository = 'https://github.com/Caraxi/PeepingTom.git'
 commit = '9e1e08aa6a89e291a9a454c9b80644a2806443b8'
-owners = [ 'anna-is-cute', 'caraxi' ]
+owners = [ 'anna-is-cute', 'Caraxi' ]
 project_path = 'Peeping Tom'
 changelog = '''\
 - API 12
