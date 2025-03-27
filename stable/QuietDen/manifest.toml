@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/xorelcodes/QuietTheDen.git"
-commit = "0d6410b71463729692135535c12f4562d7a7d742"
+commit = "094cca835b5dbd2aed23e6a222e13f6f33b61630"
 owners = ["xorelcodes"]
 project_path = "QuietDen"
 changelog = "QuietDen v1.1 API 12"
