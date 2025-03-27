@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "958e8488b92b01b431eddaadbe79d7b6615256dc"
+commit = "16b29d1913d29587256f61e72c8fadd7fbadc0eb"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 0.10.0.0:
+Version 0.11.0.0:
+- Upgrade to API12
 - ⚠️Experimental Release.
 - Removed native integrations and native Dll loading, should minimize potential crashes and isolate the game from instability.
 - Built-in standalone server: Tracker integrations are now handled via an child process, automatically managed by the plugin.
