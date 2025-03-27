@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "7c1829e119e3560ce63612e1e0ef7d82cbc65d43"
+commit = "a5a8774fddce2f5469d1ef9885b5653471729225"
 owners = ["wompscode"]
 project_path = "NowPlaying"
 changelog = "7.2, bump to API12 - clarification for some possible warnings in log."
