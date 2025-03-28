@@ -1,18 +1,10 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "4cdea5b5948126b8b652c45a7877d76a2212fa1f"
+commit = "9b4c62e0dc286dc181042c2281359a4f52be1d97"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-This update wipes your DB! This shouldn't happen again in the future.
-
-v0.0.5.6 [TESTING]
-- Rewrite on how routes are saved
-- Accurate address creation for routes
-- Create explore tab for showing all routes
-- Save records to routes
-- Added tracking of fails and finishes for client
-- Added display of db size on disk
-
-If you find issues, please submit any feedback!
+v0.0.6.3 [TESTING]
+- Update to api 12
+- Fix UI timer not resetting when going back to start
 """

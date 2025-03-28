@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "071ebae9da2db9ae14237578caa97968f6b693e1"
+commit = "7fc51c06ae550255de156e87464d322e3c25c2b5"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.3"
+version = "1.1.0.4"
 changelog = """\
-**Changes**
- - The sale history search will now work in both view modes
- - The icon filter will no longer show in the sidebar
+- API12 support
 """

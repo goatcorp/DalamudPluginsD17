@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "65056e32668f3bb457374dcf3624abf2b3cca3f1"
+commit = "de63a703c3b6296c01fd474200220c77dfbc3cca"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Fixes TTS playing over voice-acted dialogue
+- **General**: Updates for latest Dalamud API
+- **General**: Reduces internal plugin log level for most TTS events
+- **General**: Potential fix for rare and unreproducible crash when reading from dialogue windows (please DM me logs if this happens to you!)
+- **WebSocket**: Fixes configuration errors only showing up in the UI for one frame
+- **WebSocket**: Potential fix for speaker gender always being "None" for some plugin users
+- **OpenAI**: Updated supported voice list
 """

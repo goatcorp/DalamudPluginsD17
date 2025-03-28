@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/FFXIV-Sonar/SonarDistrib.git"
-commit = "fed66ff43cd7b9c76174c5765f314c28b8070067"
+commit = "b457d5bc5ba24c8ac4df7fbd7f4fcaf236dd0b91"
 owners = ["rreminy"]
 project_path = "SonarPlugin"
 changelog = "Check Sonar News for more information: https://news.ffxivsonar.com"

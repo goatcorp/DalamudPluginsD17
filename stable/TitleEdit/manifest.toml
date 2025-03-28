@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "638935b30af2b2c7aff6475750cec385166f3534"
+commit = "bcc82999bff6b6b1a56c02796c557b1f61ae36e9"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed a rare on load issue
-- Added the option to hide vanilla and built in presets
-- Updated the about section
+- Fixed camera bouncing in character select when using the "Character model position" Camera follow setting
 """
