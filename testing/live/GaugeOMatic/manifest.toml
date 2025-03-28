@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "ba237c887c8f1cac3c3d7fa69e4289dc4bdc0b4d"
+commit = "43f2276d04a890d754ca52f3ce70a588a447da39"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Temporary fix for an issue retrieving Action data from the game
+- Reverting previous temp-fix now that sheets are updated
 """
