@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "b03d6b74d12ab39be8d0a838ee2796c1888ea977"
+commit = "ffb2c253ebdac68b4e6e2d591ee0c0762527afca"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Changes**
- - Updated to 7.2 / API 12
- - Completed meld plans no longer appear when melding
- - Remove opinionated sorting on materia display order, show original
 **Fixes**
- - Fix various errors with item assignment edge cases
+ - Fix Next Materia Only config tooltip being backwards
+ - Fix detection of HQ items
 """
