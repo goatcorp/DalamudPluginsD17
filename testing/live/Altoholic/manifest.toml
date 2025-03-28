@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "367bcd15c59eb1459bc37ac23c9e526f7f3d9cea"
+commit = "59dde603974390f251c767b1cc32612865f55b18"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.30: Adding Heavensturn 2025"
+changelog = """\
+- **General**: Add glamour dresser tracking.
+- **Collection**: Updating facewear with 7.2 one.
+- **Currencies**: Adding allagan tomestone of mathematics. Moving Aesthetics to deprecated.
+- **Inventories**: Add glamour dresser tab and inventory.
+"""

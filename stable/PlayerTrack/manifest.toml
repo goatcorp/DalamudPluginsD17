@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/kalilistic/PlayerTrack.git"
-owners = ["kalilistic"]
+repository = "https://github.com/Infiziert90/PlayerTrack.git"
+owners = ["Infiziert90"]
 project_path = "PlayerTrack.Plugin"
-commit = "e366fd4678de76044e4a7269ff588138ed0eb2ac"
+commit = "24b3c23188b76e3101ffe9c041e5507a22fabdc2"

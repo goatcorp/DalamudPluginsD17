@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "ac80c1a2e4e13feadcdf02ac738f3208642c382a"
+commit = "fd926d272b5196b489b54d7de4441624260e1839"
 owners = ["Bluefissure"]
-changelog = """- fix: partylist name"""
+changelog = """patch 7.2 and api12"""

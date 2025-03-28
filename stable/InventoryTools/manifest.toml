@@ -1,16 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6ba05395597484526d210f0ff98c173d44974844"
+commit = "1f184750dc725dde8fedcd848627d109255350a6"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.9"
+version = "1.12.0.0"
 changelog = """\
-### Added
-- Added the gathering points required for dark matter clusters to be listed
-- Added company craft prototypes as uses on related items
-- Added /craftoverlay to toggle the craft overlay
-- The craft overlay will be hidden in duties/deep dungeon/cutscenes, this can be configured in settings
-
+ - API12 support
+ - Craft Window can now import garland tools group URLs
+ - Are recipes completed filter/column now only show recipes that can actually be completed in the log
+ - Thank you for your patience and the horses
 """

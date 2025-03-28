@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/salanth357/NoTypeSay.git"
+commit = "2166a5cedd6eb8875e8893502c802f11f8c80b6d"
+owners = ["salanth357"]
+project_path = "NoTypeSay"

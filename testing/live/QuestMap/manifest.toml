@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://github.com/rreminy/QuestMap.git'
+commit = '2d26ed9a43c21bc4014340a843dd6289d267e402'
+owners = [ 'anna-is-cute', 'rreminy' ]
+changelog = 'API 12 Bump'

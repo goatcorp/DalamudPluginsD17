@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/RajahOmen/BisBuddy.git"
+commit = "6c16a76abca0141cfc9ba59d0904e48627970042"
+owners = ["RajahOmen"]
+project_path = "BisBuddy"
+changelog = """\
+**Fixes**
+ - Fix issue with some german item names containing erroneous characters
+ - Fix materia abbreviations not working properly for other languages
+"""

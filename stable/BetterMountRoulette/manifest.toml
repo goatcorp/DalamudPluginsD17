@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "6f91990f3174e4b6b89cfc1162731b7f80b09d21"
-version = "1.6.1.24"
+commit = "d0816b9ca617f1555820144dd774573fef006030"
+version = "1.7.0.25"
 owners = ["CMDRNuffin"]
-changelog = """Fix scaling issues"""
+changelog = """Update for 7.2
+
+Also
+- Made Flying Mount Roulette button in Mount Guide and Action List opt-out
+- Hid most error messages
+- Made the remaining error messages opt-out"""

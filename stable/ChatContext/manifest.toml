@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/anya-hichu/ChatContext.git"
-commit = "f9c3aa52c80d86a9fd2d22d399eaf5f88ec9fe84"
+commit = "d6f64b2bee1021d7c2c50a963ea16ff642e5c53a"
 owners = [
     "anya-hichu",
 ]
 project_path = "ChatContext"
-version = "0.0.1.2"
-changelog = " - Fix chat type selection not being persisted properly"
+version = "0.0.2.0"
+changelog = " - Api 12"

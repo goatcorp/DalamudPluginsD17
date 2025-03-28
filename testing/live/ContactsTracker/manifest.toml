@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "ef9ba911dc6f07c3cfa6dad272a05bcfe1a043d3"
+commit = "fe003bddab0a4cd38e249a2cb0b94c26037ee121"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[0.2.0.0]
-- Log Party Members' Job
-- Add About Tab
+[0.3.0.1]
+- Fix error when handle in-progress entry
 """

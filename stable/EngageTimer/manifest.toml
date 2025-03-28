@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "1b76fb8a3403de88282b496897651def6e49e843"
+commit = "45ed92ad94b814bcb076e8ccf66bdb8408266711"
 owners = ["xorus"]
 changelog = """\
-- Fix imgui asserts
+- Option to Hide FW Timer in Combat-Related Cutscenes (#77)
 """
