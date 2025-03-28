@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0a3ba459f9999884853cdb551788207b7fc96ff8"
+commit = "1f184750dc725dde8fedcd848627d109255350a6"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.1.4"
+version = "1.12.0.0"
 changelog = """\
-**Fixes**
- - Fix an issue stopping list configurations from being exported/copied
- - Fix an issue with certain shops listing the wrong currency for their cost
- - Fix an issue when opening the "More Information" menu/other context menus from the Search results of the marketboard
+ - API12 support
+ - Craft Window can now import garland tools group URLs
+ - Are recipes completed filter/column now only show recipes that can actually be completed in the log
+ - Thank you for your patience and the horses
 """
