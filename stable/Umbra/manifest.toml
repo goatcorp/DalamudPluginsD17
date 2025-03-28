@@ -1,15 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "03c121d6a71b127fa8b05089979768e378bd1060"
+commit = "dc552877aae98ab2b09a94115989ef5dcdce882b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.10
+# Umbra 2.3.11
+
+Updated for Patch 7.2.
+
+Thanks you for your contributions to this release: [Bloodsoul](https://github.com/Bloodsoul) and [LTS-FFXIV](https://github.com/LTS-FFXIV)!
 
 ## Fixes & Improvements
 
-- Add Island Sanctuary ferry to Zone Markers (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fix gearset switcher max level color for newly added sets (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Shorten the placeholder text of the empty button in the Dynamic Menu Widget + tooltip added for clarity (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix German translation in Volume Widget (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
