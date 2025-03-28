@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = 'f8d1809af2d6de554ee645301c325a0c5165e6b7'
+commit = 'cd60887dfc34b6e18a2f1c893c1160c14c642c7d'
 owners = [ 'caitlyn-gg' ]
 changelog = """
 - Updated for API 12
