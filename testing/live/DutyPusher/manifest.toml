@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "6f755d2e6898565df89ec8296262bbc4bcc60dab"
+commit = "ddde103a2a5c38dc4bd87fac83000ee46567e1d7"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
