@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/xorus/EngageTimer.git"
-commit = "45ed92ad94b814bcb076e8ccf66bdb8408266711"
+commit = "e1e4e2f6153e34dba0cccec23cd048ff1fb84814"
 owners = ["xorus"]
 changelog = """\
-- Option to Hide FW Timer in Combat-Related Cutscenes (#77)
+- Update for API12
 """
