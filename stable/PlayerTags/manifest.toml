@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://git.pilzinsel64.de/pilzinsel64/playertags.git"
-commit = "098d77bcc27d943dac181d65dace8354061208a4"
+commit = "5820c8c00ea77cc71d3e5a1fbd7cd001616a345d"
 owners = [
     "Pilzinsel64",
 ]
 project_path = "PlayerTags"
-changelog = """- Update for API 11
+changelog = """- Update for API 12
 """
