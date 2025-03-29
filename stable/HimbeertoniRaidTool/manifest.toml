@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "25246e0e9666f146d70857e0208cc2df906e9eb8"
+commit = "079166026a0d43282518165466775bd4c763f03a"
 changelog = """
 General: Updated for 7.2
     General: Home world transfer /name changes of known characters are now automatically applied with gear updates
