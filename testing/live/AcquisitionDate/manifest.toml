@@ -1,16 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "75777da52866ffeba221e57ab993b13c0013a623"
+commit = "4fb480a5493ccc4747a69f1bca7834ed4acb994b"
 owners = ["Glyceri",]
 	changelog = """
- [0.2.0.0]
-- Fixes downloads not working.
-- Build the system around parsers instead of parsing directly in web requests.
-- Language based date formatting
-- Now shows if a date is the earliest date and potetially not accurate or could be acquired before a given date.
-- Downloads now parse the pages language instead of asuming the page language.
-- Downloads should be more stable in general.
-
-! The plugin is undergoing majour reworks which had to be pushed earlier than I expected.
-! You should see no issues but there's a lot of ""framework"" and unused code in this update.
+ [0.3.0.0]
+- Updated for 7.2
 """
