@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/LPHotbars.git"
-commit = "346e6034aa042534ebbaea0777be9b6a7bc18559"
+commit = "0c512d2cd79799770eb0ac5a2fbae8485484317c"
 owners = ["gnargle"]
 project_path = "LaunchpadHotbars"
-changelog = "API Bump"
+changelog = "Update LPHotbars to 7.2. Also move to stable."
