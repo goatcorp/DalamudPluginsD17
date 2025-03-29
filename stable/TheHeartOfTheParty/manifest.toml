@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/TheHeartOfTheParty.git'
-commit = 'c4b21f67ed9ce70c9ffa3dc4281431f386b4b7c8'
+commit = 'b0838de092b426991c7242c3d638ccf8e84eb8bb'
 owners = [ 'anna-is-cute', 'MKhayle' ]
 changelog = 'API12 update. Added a Main UI callback so it can be used with Wotsit!'
