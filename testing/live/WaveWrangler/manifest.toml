@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/mashirochan/FFXIV-WaveWrangler.git"
+commit = "a9cce8dc5d067a0cee407bf73268dd8f71769b19"
+owners = ["mashirochan"]
+project_path = "WaveWrangler"
+changelog = "Initial plugin release"
