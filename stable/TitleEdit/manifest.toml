@@ -1,10 +1,10 @@
 [plugin]
-repository = "https://github.com/RokasKil/TitleEditPlugin.git"
-commit = "80d759a3f994dd6a01fbc955c4ec791aa456aaaa"
+repository = "https://github.com/RokasKil/TitleEdit.git"
+commit = "bcc82999bff6b6b1a56c02796c557b1f61ae36e9"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed new bundled presets not actually being bundled
+- Fixed camera bouncing in character select when using the "Character model position" Camera follow setting
 """

@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/Tourist.git'
-commit = '80bbef448fff5175bf9559e4259d971418f80661'
-owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+repository = 'https://github.com/foophoof/Tourist.git'
+commit = '32e83f8d1d46f81ef1210bc770a6931f398a576c'
+owners = [ 'foophoof' ]
+changelog = 'API 12'

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "f63745f7e6cbd74c39d8bcadb0b2ab048a6d85d9"
+commit = "3bdb13b143bfbda0ae46449cc88112a591e55cb1"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- Support API9
+- support api 12
 """

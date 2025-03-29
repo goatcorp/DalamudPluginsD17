@@ -2,5 +2,5 @@
 repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
 owners = [ "PrincessRTFM",]
 project_path = ""
-commit = "3e4d13e48e5a7875abbace37181aa0dfece90645"
-changelog = "The word \"colour\" was spelled wrong in one place, and spelled \"wrong\" (american version) in another. These have now been corrected. No functional changes."
+commit = "c6b4e851b15dfebdd7e0823d5bc8ce51b0724405"
+changelog = "Update to API11 PR'd by a friendly user. No functional changes."

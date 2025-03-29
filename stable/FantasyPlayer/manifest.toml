@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "47195e747fb969af994766dc24f24becb06f98b2"
+commit = "e6ada894ab0108170fa06bc768caaf482a9d846d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.2.0.4"
+version = "2.3.0.1"
 changelog = """\
-- Stop settings window from opening every boot
+- API12 support
 """

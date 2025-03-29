@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
+commit = "ddde103a2a5c38dc4bd87fac83000ee46567e1d7"
+owners = ["MorCherlf"]
+project_path = "DutyPusher"
+changelog = """\
+Updated to API12
+"""

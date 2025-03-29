@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "07ba4060253c96725e4005844c777d6e60f73957"
+commit = "25b9605a9ea5bc68619b50576769b3850d7c0b0e"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-IPC updated for WaitingWay. Now respects scaling.
+Updated for API 12.
+
+Reminder: WineRPCBridge could get flagged as a false positive by Windows AVs. (Windows users will never run this file. It's only for Linux users.)
 """

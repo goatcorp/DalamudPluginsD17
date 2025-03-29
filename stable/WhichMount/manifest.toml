@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/megurte/WhichMount.git"
+commit = "bc95bc28046755e0787a781e9310f00becc5a22a"
+owners = [
+    "megurte"
+]
+project_path = "WhichMount"
+changelog = """
+Version 1.0.0.3:
+  - Support version 7.1
+  - Added new mounts
+  - Added support for mute list context menu
+"""

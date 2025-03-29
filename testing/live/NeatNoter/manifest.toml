@@ -2,14 +2,13 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "54a367365e6f73755e4402fc338f69a6b5672fb5"
+commit = "7b69e1150acb71aaf8388dfe3b5b54e666525eed"
 changelog = """
-# NeatNoter 2.6.1
+# NeatNoter 2.7.2 (Test)
 
 ## Features
 
-- Created a word count when editing notes, which also display a small warning about performance drop on long notes.
-- Created the option to set a note as an overlay, which has very little UI elements and should be more performatic for duties.
+- Updated to dalamud api 12 and dotnet 9.
 
-If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/2
+If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
 """

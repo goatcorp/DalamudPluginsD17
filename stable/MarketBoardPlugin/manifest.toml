@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "4864123224a95ca0a687a13757d3cfad84db056c"
+commit = "aba67be22f9a44f4ed5a97abbceca889e1b06697"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Limit the listing count and make it and the history count configurable\
+- Game version 7.2 / API 12 compatibility\
+- Append datacenter name to the world name when Cross-DC is selected\
 """

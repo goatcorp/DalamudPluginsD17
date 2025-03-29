@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/RulHolos/Bartender.git"
+commit = "993b34e0c5b73ce7dadd039aaec377e63b9c38a7"
+owners = ["RulHolos"]
+project_path = "Bartender"
+changelog = """
+# v1.1.6
+
+- Profile Interface reworked
+- Profile ordering issues fixed
+- Backup system (experimental)
+- Invalid Condition Set fixed
+- Added a level condition (Misc. Condition tab)
+- Fixed some issues related to ImGui
+- Switching to stable branch
+"""

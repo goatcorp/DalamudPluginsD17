@@ -1,16 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "6518fc74efaaab592b114845e270fc0f6d17ce97"
+commit = "fc3ff36fe2430efa410a3948101d6bd20767e579"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.11.0**
+**Version 0.8.2.0**
 
-Now supports Dawntrail!
-
-Also:
-- Added a warning if you're using an unsupported Discord client
-- Hopefully fixed error spam in Delubrum Reginae (Savage)
-- Modified the sizing of the config window to accomodate power users
-- Tweaked various text to be less misleading
+Fixed a bug where Discord users would be displayed on top of your chocobo if you didn't have a pet summoned.
 """

@@ -1,15 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "8b52fd6eec34bfae78388caea84b2170da838bee"
+commit = "1f184750dc725dde8fedcd848627d109255350a6"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.20"
+version = "1.12.0.0"
 changelog = """\
-### Fixed
-
-- Expand the inventory scanner to cover missing currency types
-- Fix alignment issue with lists
-
+ - API12 support
+ - Craft Window can now import garland tools group URLs
+ - Are recipes completed filter/column now only show recipes that can actually be completed in the log
+ - Thank you for your patience and the horses
 """

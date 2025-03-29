@@ -1,9 +1,5 @@
 [plugin]
-repository = "https://github.com/yomishino/FFXIVAetherCompass.git"
-commit = "d66f1c86e65e31925dbb51d88598822619d0e19b"
-owners = [ "yomishino" ]
-changelog = """Patch 6.3 Update
-
-- New compass Eureka Elementals for detecting elementals in Eureka (by apetih)
-- Other minor update and bug fixes to Island Sanctuary Compass
-"""
+repository = "https://github.com/Cytraen/AetherCompass.git"
+commit = "c49eaab0176505958c95b0ee645d20793505cd35"
+owners = [ "Cytraen" ]
+changelog = "Fix crashing when using sound effect notifications"

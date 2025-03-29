@@ -1,22 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "40c555169f005b7f1e09da66f4f726a429bc2b75"
+commit = "43f2276d04a890d754ca52f3ce70a588a447da39"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## INTERFACE
-- The plugin UI now displays the icons for actions, status effects, and jobs.
-- Tooltips within the plugin have been substantially updated, and now include more comprehensive details about tracked data.
-
-## ACTION TRACKERS
-The plugin has been updated extensively under the hood to fetch job action data from the game client, rather than relying on a manually-maintained file. This means many actions that were previously not included will now be selectable to track. The plugin will also more easily keep up with future changes to job actions that come with client patches.
-- Action names will now match the client localization settings.
-- The logic for using State Indicator widgets and Bar widgets with actions has been updated (check tracker tooltips for details)
-
-These changes will hopefully not impact your saved configuration data, but it's possible that you will need to make adjustments.
-
-## PRESETS
-- Fixed an issue wherein certain widgets would not keep all of their configuration values intact when saved/loaded as presets
-- Certain jobs have had their default presets updated. As always, your existing configurations will not be changed, but you can use the Presets window to load these new defaults.
+- Reverting previous temp-fix now that sheets are updated
 """

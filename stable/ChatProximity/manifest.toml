@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/iv230/chat-proximity.git"
+commit = "15d0b8a6ead70ae66289a9c037cd0d9e88c37858"
+owners = [
+    "iv230"
+]
+project_path = ""
+changelog = """## 1.3.2
+- Updated to API 12/.NET 9
+"""

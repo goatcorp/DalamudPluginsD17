@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/ItemUse.git"
+commit = "3ad9d20921fec60b9269ef1e684f716d96bf2750"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "ItemUse"
+changelog = '''
+- Fixed an issue where fish previously did not display certain flags correctly when collectible.
+- Added data for missing wrist gear coffers and removed data for certain inapplicable coffers.
+- Example icons now show next to their relevant settings in the plugin configuration window.
+- Users can now customize the item text highlight colors.
+- Code cleanup.
+'''

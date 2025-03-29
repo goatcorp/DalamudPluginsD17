@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "35e43339cd95ca712ae29b1664cb2e3542c27477"
-owners = ["Kirrana"]
+repository = "https://github.com/ItsLunaYup/xivlauncher_physics_plugin.git"
+commit = "b6e15bbc4d29fc18cea610aee42c09acaf60ebcd"
+owners = ["ItsLunaYup"]
 project_path = "SamplePlugin"
-changelog = "Replace crash warning string with visual glitch warning, put in stable"
+changelog = "Update for 7.2, and took ownership from Kirrana"

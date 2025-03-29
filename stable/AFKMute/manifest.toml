@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/wompscode/AFKMute.git"
+commit = "a0db4885ba88e4e5de7b071a6d4a0c8de26eedee"
+owners = ["wompscode"]
+project_path = "AFKMute"
+changelog = "Patch 7.2: bump to api12"

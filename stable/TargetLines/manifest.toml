@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "f19f6e3d5cd4ff6abe9d69ede8de21b641de35a6"
+commit = "ecefc1c77052cf316b0b62ccf7d8650b95a167b7"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Fixed null reference in certain unnatural circumstances
-- Fixed rare case where lines would try to initialize with 0 samples
-- Minor improvements to the performance of fancy lines when there are a high number of lines
-- Added option to filter party/alliance
+Bug fixes:
+- Fixed an issue where the plugin would output an error in regards to the focus target when logging out with a focus target. Additionally, fixed an issue with the focus target line respawning on a dead entity.
+- Added some LOD options which may improve performance at no visual cost: "Use ScreenSpace LOD" and "View Angle Sampling".
+Known Issues:
+- After logging into a character, returning to the title screen may cause target lines to not appear on all entities. This can be fixed by restarting the plugin.
 """
 

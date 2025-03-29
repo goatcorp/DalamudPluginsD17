@@ -45,46 +45,55 @@ jobs:
         terminal-to-html --version
 
     - name: Checkout manifests from incoming PR
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests
         ref: ${{ github.event.client_payload.ref }}
 
     - name: Checkout manifests from master
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/DalamudPluginsD17
         path: manifests-master
         ref: main
+        fetch-depth: 0
 
     - name: Checkout Plogon
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/Plogon
-        #ref: V1.0.6
         path: Plogon
 
     - name: Checkout Dist
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: goatcorp/PluginDistD17
         path: output
         ref: main
+        sparse-checkout: |
+          state.json
+        sparse-checkout-cone-mode: false
 
     - name: Create required folders
       run: |
         mkdir artifacts
         mkdir static
         mkdir work
-        
-    - name: Cache docker image
-      uses: actions/cache@v3
-      env:
-        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
+
+    # TODO: Use future plogon config as cache key
+    - name: Cache Docker images
+      uses: ScribeMD/docker-cache@0.5.0
       with:
-        path: ~/.plogon_cache
-        key: cache-${{ env.cache-name }}
+        key: docker-${{ runner.os }} #-${{ hashFiles(paths) }}
+        
+#    - name: Cache docker image
+#      uses: actions/cache@v3
+#      env:
+#        cache-name: ${{ secrets.EXTENDED_IMAGE_LINK }}
+#      with:
+#        path: ~/.plogon_cache
+#        key: cache-${{ env.cache-name }}
 
     - name: Run Plogon
       id: plogon_run
@@ -96,13 +105,22 @@ jobs:
         EXTENDED_IMAGE_LINK: ${{ secrets.EXTENDED_IMAGE_LINK }}
         PLOGON_SECRETS_PK: ${{ secrets.PLOGON_SECRETS_PK }}
         PLOGON_SECRETS_PK_PASSWORD: ${{ secrets.PLOGON_SECRETS_PK_PASSWORD }}
+        PLOGON_S3_HISTORY_BUCKET: ${{ vars.PLOGON_S3_HISTORY_BUCKET }}
+        PLOGON_S3_DIFFS_BUCKET: ${{ vars.PLOGON_S3_DIFFS_BUCKET }}
+        PLOGON_INTERNAL_S3_APIURL: ${{ vars.PLOGON_GLADE_APIURL }}
+        PLOGON_INTERNAL_S3_WEBURL: ${{ vars.PLOGON_GLADE_WEBURL }}
+        PLOGON_INTERNAL_S3_REGION: ${{ vars.PLOGON_GLADE_REGION }}
+        PLOGON_INTERNAL_S3_ACCESSKEY: ${{ secrets.PLOGON_GLADE_ACCESSKEY }}
+        PLOGON_INTERNAL_S3_SECRET: ${{ secrets.PLOGON_GLADE_SECRET }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_ACTOR: ${{ github.event.client_payload.actor }}
+        PLOGON_ACTOR: ${{ github.event.client_payload.actor }}
         GITHUB_PR_NUM: ${{ github.event.client_payload.prnum }}
         GITHUB_RUN_ID: ${{ github.run_id }}
       run: |
         dotnet run -- \
         --manifest-folder="${{ github.workspace }}/manifests" \
+        --master-manifest-folder="${{ github.workspace }}/manifests-master" \
         --output-folder="${{ github.workspace }}/output" \
         --work-folder="${{ github.workspace }}/work" \
         --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
@@ -116,7 +134,7 @@ jobs:
         echo ${{ steps.plogon_run.outputs.summary }}
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: plugin-artifact
         path: artifacts

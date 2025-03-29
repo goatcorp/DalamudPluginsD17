@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/powellad/Toastingway.git"
+commit = "33621f87359fd5b730f225551f54024f0c4a2095"
+owners = ["powellad"]
+project_path = "ToastingwayPlugin"
+changelog = """
+- Fixed up some code issues
+- Added better support for HQ items
+""" 

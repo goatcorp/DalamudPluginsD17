@@ -1,28 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "ba2c69c011eed370e543df99dcb76672972b5d2b"
+commit = "dc552877aae98ab2b09a94115989ef5dcdce882b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.2.15
+# Umbra 2.3.11
 
-## Shortcut Panel
+Updated for Patch 7.2.
 
-Have you ever found yourself in need of more hotbars for things that aren't job-related? This update introduces a new widget, the "**Shortcut Panel**", which is effectively an additional hotbar (panel). It looks similar to the Emote widget but instead of only being capable of holding emotes, it can contain a whole bunch of stuff, including items from your inventory, mounts, minions, stored macros, and even shortcuts to your commonly used crafting recipes.
-
-The panel allows you to customize the amount of rows and columns, up to a maximum of 16. Similar to the "Emote List" widget, it also supports up to 4 categories. This means that a single category can hold a maximum of 256 slots, or 1024 over all 4 categories in total.
-
--# Although this widget shares similarities to the Emote List widget, this widget is meant to be a _general purpose_ widget, meaning it does not have any type-specific settings. It is _not_ designed for customization of names, icon colors, or any other type-specific settings like toggling the option to send emotes to chat for example.
+Thanks you for your contributions to this release: [Bloodsoul](https://github.com/Bloodsoul) and [LTS-FFXIV](https://github.com/LTS-FFXIV)!
 
 ## Fixes & Improvements
 
-- Added "Looking to Meld" & "Looking for Party" statuses to the "Online Status" widget.
-- Fixed the Societal Relations widget automatically expanding in width when a custom UI scale was used.
-- Fixed an issue in the drawing library where the "gap" between nodes did not take custom UI scale into account.
-- Fixed the "Main Menu Button" popups not syncing properly.
-- Fixed a couple of minor translation issues.
+- Shorten the placeholder text of the empty button in the Dynamic Menu Widget + tooltip added for clarity (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix German translation in Volume Widget (By [Bloodsoul](https://github.com/Bloodsoul)).
 
--# This is a rather large update, meaning it may take a little while for it to become available.
-
-Visit the Umbra Discord server for the latest updates and information: https://discord.gg/xaEnsuAhmm
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
 """

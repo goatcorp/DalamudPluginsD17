@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "07d206db09a280712a8e662f73316877e0b3ca21"
-version = "1.4.0.17"
+commit = "d0816b9ca617f1555820144dd774573fef006030"
+version = "1.7.0.25"
 owners = ["CMDRNuffin"]
-changelog = """Added option to use only SDS Fenrir/Garlond GL-IS in areas where no mount speed upgrades are unlocked."""
+changelog = """Update for 7.2
+
+Also
+- Made Flying Mount Roulette button in Mount Guide and Action List opt-out
+- Hid most error messages
+- Made the remaining error messages opt-out"""

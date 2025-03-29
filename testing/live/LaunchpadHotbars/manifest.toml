@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/gnargle/LPHotbars.git"
+commit = "346e6034aa042534ebbaea0777be9b6a7bc18559"
+owners = ["gnargle"]
+project_path = "LaunchpadHotbars"
+changelog = "API Bump"
