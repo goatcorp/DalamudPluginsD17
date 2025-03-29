@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "31dac8ef29fafd16465562e097e15fda40ea8209"
+commit = "bf326ad1de0d9f9c5bbfd5d084124d37a519d2c5"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- API 11 stuff and things
+- API 12 update
 """
