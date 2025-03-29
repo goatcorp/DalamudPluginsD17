@@ -3,4 +3,7 @@ repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
 commit = "25246e0e9666f146d70857e0208cc2df906e9eb8"
-changelog = "New Feature: Stats can now take a party bonus into account (adjust the default in settings)"
+changelog = """
+General: Updated for 7.2
+    General: Home world transfer /name changes of known characters are now automatically applied with gear updates
+    System: Some changes to item handling which should reduce size of database files"""
