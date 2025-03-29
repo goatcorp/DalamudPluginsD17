@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "a7d9a1ef8fe9a4a493a2ab7e2db69dd53e995ff6"
+commit = "2a2bd104f7d84d62a167ebbdb802f6bca91d5991"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Enemies with less than 2 HP are now considered untargetable
-- Getting the paralysis debuff will derank you.
+Added commands
+`dmc bgm` toggles dynamic BGM on / off (global setting)
+`dmc job` toggles the plugin on / off for the current job (music + gauge)
 """

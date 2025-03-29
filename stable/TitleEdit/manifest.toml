@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "fdbd72a995b3f9d6a3ee6a04874aa2655874c626"
+commit = "bcc82999bff6b6b1a56c02796c557b1f61ae36e9"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
+changelog = """
+- Fixed camera bouncing in character select when using the "Character model position" Camera follow setting
+"""

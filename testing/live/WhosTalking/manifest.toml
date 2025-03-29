@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "ae6bfc5b9c7776b09abb2a51e16e755f9025608f"
+commit = "1b4bf813ab1cd5eb5c52a919a7810007dfee6e66"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.1.0**
+**Version 0.8.5.0**
 
-Updated for patch 7.1.
-
-**Request for testing:** please enable ImGui indicators in the Who's Talking settings, then try Who's Talking in an alliance raid, and check whether indicators are drawn correctly for the other alliances (they should be drawn around the entire job icon). Ping @sersorrel or report in https://discord.com/channels/581875019861328007/1260701371846365246 with results! (Screenshots are ideal.)
+Updated for patch 7.2 (API 12).
 """

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "e55c720601d6964570dddd9f1ab5b72cfccf38e3"
+commit = "f1aa6d2c849eaff74a46f8332c7b45dbf770e8a0"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Patch 7.1/Api11 update.
+* Map links on cross-world parties are now picked up.
+* Stability bug fixes.
 """

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Abyeon/Racingway.git"
+commit = "aa8cf0d17e600a35a6a568c13a133bfd6e3e3a60"
+owners = ["Abyeon"]
+project_path = "Racingway"
+changelog = """
+v0.0.6.4 [TESTING]
+- Fix lag in routes tab
+"""

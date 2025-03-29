@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "124428f6e4cb995becb03deb860ad1d4d9f4f10b"
+commit = "71ac32ff338a7c2c445d68b49d250d1f74dfae7a"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Update for 7.1
+- Update to ffxiv 7.2 and dalamud api12
 """

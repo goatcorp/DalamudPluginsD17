@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "c2ee86503a372ff8bd9dccc9cd3cf1f64a4d49f1"
+commit = "31dac8ef29fafd16465562e097e15fda40ea8209"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- Switched pet matching to use ContentId, thus eliminating false-positive matches
-- Added support for custom sizes of MCH, SCH, DRK, and fixed-size SMN pets
-- Pet custom size will not be set in PvP
-- Added the ability to add a new entry by typing the character name in the Character filter box
-- Fixed bug where fairy setting would always set a size
-- Pets will revert to their vanilla size when an entry is removed and on plugin unload, if they're still around
-- Slowed down the plugin by only 3.5 times instead of 4.5 times
+- API 11 stuff and things
 """

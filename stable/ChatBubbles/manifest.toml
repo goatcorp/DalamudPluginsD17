@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "3b5eff79e6689e7d2745b76b327d9e08e46546c4"
+commit = "787639d0e5a1c7df7d8367a40d0f40a374ead27f"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
-changelog = """### 2.1.7.2
--# API11 update for patch 7.1
--# Sent the code to Square Enix for vanilla chat bubbles in patch 7.2"""
+changelog = """
+-# API12 update for patch 7.2
+-# Don't type fart in your chat bubbles"""

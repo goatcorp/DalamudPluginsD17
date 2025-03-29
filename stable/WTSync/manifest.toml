@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "deadd14776689544d69391e48bb3b7b8300cedbf"
+commit = "11267644a53a565f7ee8d237e0ddecc7816ed80f"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-* 7.1 Changes + Dalamud API11
-
-* Added a feature to select a random duty from the list of matching duties when clicking an entry in WTSync, rather than just going through them in order. Hopefully that makes reclears slightly more interesting, especially with the newer broader categories.
+* Added: Setting to hide the server bar entry when not in a duty.
+* Maintenance: Migrate to Dalamud SDK / API 12.
 """

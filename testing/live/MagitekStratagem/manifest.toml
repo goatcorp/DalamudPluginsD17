@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/meoiswa/MagitekStratagem.git"
+commit = "5829bb09edacb82bafe7014eeee8bc5f053769a9"
+owners = ["meoiswa"]
+project_path = "MagitekStratagem"
+changelog = """
+Version 0.11.0.0:
+- Upgrade to API12
+- ⚠️Experimental Release.
+- Removed native integrations and native Dll loading, should minimize potential crashes and isolate the game from instability.
+- Built-in standalone server: Tracker integrations are now handled via an child process, automatically managed by the plugin.
+    - To achieve this, the plugin has been given an entrypoint and turned into an AspNet Web project, it can now both be loaded by Dalamud as a Plugin, or run within Dotnet (or via its accompanying .exe) as the Server.
+    - The server automatically starts and stops as needed, and it will also terminate itself if 10 seconds pass with no active connections.
+
+Known Issues:
+- Windowed mode is currently unsupported.
+- Some entities are not returning to normal after being highlighted by raycast detection.
+- Entities highlighted by proximity are not returning to normal after no longer being the closest.
+"""

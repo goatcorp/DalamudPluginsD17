@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "afd98c279bfe83fc1b43baf4f01012561282acee"
+commit = "f1f03c02993c7a66d61370dc2eb1a270cfa00173"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.20.0"
+version = "1.0.21.1"
 changelog = """
-- 7.1 update
+- Patch 7.2 support
+- Added HUD Layout condition
+- Added `/mm run` command
+- Rewritten MacroChain support, hopefully preventing crashes this time
 """

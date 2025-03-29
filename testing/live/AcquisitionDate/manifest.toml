@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/AcquisitionDate.git"
+commit = "4fb480a5493ccc4747a69f1bca7834ed4acb994b"
+owners = ["Glyceri",]
+	changelog = """
+ [0.3.0.0]
+- Updated for 7.2
+"""

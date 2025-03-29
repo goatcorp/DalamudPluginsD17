@@ -1,18 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6557dcb7749816064be4ef45f688beab86c1b195"
+commit = "dc552877aae98ab2b09a94115989ef5dcdce882b"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.1
+# Umbra 2.3.11
 
-## New Additions
+Updated for Patch 7.2.
 
-- Dynamic Menu Widget: Add support for alt-labels & icon color masks in "Custom Entry" items, (By [Ivinedra](https://github.com/Ivinedra)).
+Thanks you for your contributions to this release: [Bloodsoul](https://github.com/Bloodsoul) and [LTS-FFXIV](https://github.com/LTS-FFXIV)!
 
 ## Fixes & Improvements
 
-- Updated the icon picker library. SE has shuffled/removed some icons, which caused the icon picker to misbehave.
+- Shorten the placeholder text of the empty button in the Dynamic Menu Widget + tooltip added for clarity (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix German translation in Volume Widget (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "479217ba5048498d317f370ca4efc77f84c12768"
+commit = "086debc8f56aa751195fb1840e6c34b16a44740a"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
-changelog = """### Of Dungeons Deep v1.0.2.0
--# API11 / 7.1
+changelog = """
+- API 12 update
 """

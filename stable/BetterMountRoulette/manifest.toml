@@ -1,7 +1,11 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "206de4de89d1da0a2fc22f01ad6bb37b4ef4491d"
-version = "1.5.0.20"
+commit = "d0816b9ca617f1555820144dd774573fef006030"
+version = "1.7.0.25"
 owners = ["CMDRNuffin"]
-changelog = """- Actual fix for the crashing issue from last time by replacing very brittle readonly memory manipulation with much more stable hooks.
-- Fixed a second crash that would occur if the action menu was never opened before loading or unloading the plugin while logged in."""
+changelog = """Update for 7.2
+
+Also
+- Made Flying Mount Roulette button in Mount Guide and Action List opt-out
+- Hid most error messages
+- Made the remaining error messages opt-out"""

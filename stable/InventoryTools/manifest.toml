@@ -1,19 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0d56bdadb3a857d4361cd9c3adac6a1505fd2029"
+commit = "1f184750dc725dde8fedcd848627d109255350a6"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.1"
+version = "1.12.0.0"
 changelog = """\
-### Fixed
-- The plugin will now use the dalamud language instead of english
-- Stopped certain gathering points from showing up that had bad data
-- Tooltips were tweaked and should now show properly
-- Shared models within the Item Window is back
-
-### Added
-- Added item uses: Chocobo Item, Indoor Furnishing
-- Added item sources: Achievement
+ - API12 support
+ - Craft Window can now import garland tools group URLs
+ - Are recipes completed filter/column now only show recipes that can actually be completed in the log
+ - Thank you for your patience and the horses
 """

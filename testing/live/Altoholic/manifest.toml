@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "2aa789c4c9d482bf8e0d4cda24c265b358c7265d"
+commit = "ca6f7903b1f8d0add53c7e0caa5b1d58db4a0a59"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.25: Fix reputation tab and add new pelupelu reward"
+changelog = """\
+- **General**: Add pvp tracking. Add PvP Profile tab.
+- **Collection**: Updating framerskits with 7.2 one.
+- **PvP Profile**: Add PvP Profile and series rewards.
+"""

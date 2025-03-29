@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "5f886140e79a14954f4cfd1ef3213235ed2df956"
+commit = "ba0ed1121c8dba80d7da149d58095bd50a33f258"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Consider game won when all safe cells revealed, even if not all mines are flagged (thanks cheege)"
+changelog = "Update for api12/dotnet9"
