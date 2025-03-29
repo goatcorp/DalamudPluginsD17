@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/powellad/Toastingway.git"
-commit = "09650a086728edab71dc0acd8035c6b1df411edb"
+commit = "5b386ea30a7f8f0efd80987d1c78c309409c677e"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
 version = "1.2.0.2"
