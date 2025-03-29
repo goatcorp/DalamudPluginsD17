@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "4fb480a5493ccc4747a69f1bca7834ed4acb994b"
+commit = "b88de0fc0bfde2db07f2fc0155024485bd0185d1"
 owners = ["Glyceri",]
 	changelog = """
- [0.3.0.0]
-- Updated for 7.2
+ [0.3.0.1]
+- Can start up
 """
