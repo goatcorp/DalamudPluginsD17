@@ -2,8 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "f1d3ba3a0374cc04fe44cff2dd8110e01c5fcbb8"
-changelog = """
-General: Updated for 7.2
-    General: Home world transfer /name changes of known characters are now automatically applied with gear updates
-    System: Some changes to item handling which should reduce size of database files"""
+commit = "2d1519a73306a1fdb94b608812f310bea92b1bce"
+changelog = "Bugfix: Babyface coffers resolve to the correct items now"
