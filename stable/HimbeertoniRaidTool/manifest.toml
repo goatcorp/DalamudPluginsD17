@@ -2,8 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "f1d3ba3a0374cc04fe44cff2dd8110e01c5fcbb8"
+commit = "a6357d0dcb7a3884157b80ab6f9048c0ad57f18c"
 changelog = """
-General: Updated for 7.2
-    General: Home world transfer /name changes of known characters are now automatically applied with gear updates
-    System: Some changes to item handling which should reduce size of database files"""
+Bugfix: Tomestone gear is now displayed properly
+    Bugfix: item level coloring works correctly (was off by 10)"""
