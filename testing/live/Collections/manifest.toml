@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "149d85218e6d5f73a7633e39ca6b6e026735315d"
+commit = "b9dd050c0d9dc7070349d6ac50ec8537b231c8ad"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.2
-- Fixed glamour UI interaction sometimes not working
-- Fixed job picker UI
-- Fixed Container data source
-- Fixed SpecialShop data source
+Collections v1.0.2.3
+- Update to API 12
 """
