@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "fdd50a2d9f9b79a2fcd38a600b23b4266c8b21a1"
+commit = "6b018eaf563a1f79866215c4eca360daf5a1017a"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Fix issue where bar wasn't properly hidden on command execution'''
+- Update to 7.2'''
