@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "f8b6ca0cba7488bd1fa91219fcbdbd355ab09944"
+commit = "8357cda3180bb722ab318ac02d0981d723195099"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
 changelog = """
-Version 1.1.3.0
+Version 1.1.4.0
 
-- Updated settings/advanced options window layout.
-- Added advanced option to delete the whole selected CWLS list.
-- Added advanced option to merge/update the selected CWLS list against a new Cross-world Linkshell (for lists orphaned by Cross-world Linkshell name changes).
+- Updated to Dalamud API 12 and .NET 9
 """
