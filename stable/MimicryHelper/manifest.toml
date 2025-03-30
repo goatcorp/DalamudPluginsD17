@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RedMage1993/MimicryHelper.git"
-commit = "580486b913bd7e731448367325e8bdc5eb4dc4bf"
+commit = "ab3fd44752d9013fcfdfcd0bcb5bc973880bbb5d"
 owners = ["RedMage1993"]
 project_path = "MimicryHelper"
-changelog = "Rebuilt for patch 7.1 and Dalamud v11"
+changelog = "Rebuilt for patch 7.2"
