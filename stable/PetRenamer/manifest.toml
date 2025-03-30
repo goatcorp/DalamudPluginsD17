@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "cd27d7e8fbe78f9f1e2f6b2bfa3b21ddec42fd89"
+commit = "5cad8f1c24dab229c86e6f391f0f5d9eeaa4122f"
 owners = ["Glyceri"]
 	changelog = """
-    [2.3.0.7]
-    Fixes the import button literally not working if you didn't have that user in your list via a previous update (This button hasn't worked in a WHILE).
-    Tentative fix for chat messages appearing empty in spots where pets with or without a nickname should appear. 
+[2.4.0.1] (SHAME)
+Fixes tooltips not working.
 """

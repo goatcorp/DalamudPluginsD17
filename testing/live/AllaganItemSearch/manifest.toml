@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "a1a0a648462a3854a63619c83304bf6f9d040668"
+commit = "5cc2e19142cbe5717465220193e6afb5f412e5e9"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganItemSearch"
-version = "1.0.0.1"
+version = "1.0.0.3"
 changelog = """\
-**Changes**
-- Glamour Ready Source/Set split into 2 different filters
-- Used in Company Craft Prototype filter added
-- Fixed plugin description/tagline
+- API12 support
 """

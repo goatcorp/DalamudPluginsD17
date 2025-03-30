@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "76e06b91b85031e4f5461506da9013ef5f3828fe"
+commit = "42e416eb34cdf9f013ed7ecf7e54ab396c180904"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- API 11 things and stuff
+- API 12 update
 """

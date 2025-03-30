@@ -2,9 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59fedafc070abbe7da35f72b78f32121ca0282a5"
+commit = "f1d3ba3a0374cc04fe44cff2dd8110e01c5fcbb8"
 changelog = """
-User Interface: Added food information wherever relevant
-    User Interface: Tooltips for food now contain the food's effects
-    Bugfix: Fix Gear/BiS equality with materia enabled
-    Bugfix: Fixed crash on startup in certain cases"""
+General: Updated for 7.2
+    General: Home world transfer /name changes of known characters are now automatically applied with gear updates
+    System: Some changes to item handling which should reduce size of database files"""

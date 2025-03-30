@@ -1,9 +1,9 @@
 [plugin]
-repository = "https://github.com/lostkagamine/PushyFinder.git"
-commit = "527a3ed5658d0a85ca268b5267db75731a3738ef"
-owners = ["lostkagamine"]
+repository = "https://github.com/snightshade/PushyFinder.git"
+commit = "09bdd72e30d6de077da3d273928615af40d6c639"
+owners = ["snightshade"]
 project_path = "PushyFinder"
-version = "1.3.0.1"
+version = "1.3.1.0"
 changelog = """
-PushyFinder is updated for Final Fantasy XIV: Dawntrail patch 7.11 and Dalamud API level 11.
+API 12, XIV 7.2. Fix ntfy.sh topics not being taken into account (oops).
 """

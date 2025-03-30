@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/AFKMute.git"
-commit = "7aa1e3a82e9364645feceac40f8cfd3fc4611467"
+commit = "a0db4885ba88e4e5de7b071a6d4a0c8de26eedee"
 owners = ["wompscode"]
 project_path = "AFKMute"
-changelog = "Move to api11 and check if master volume was muted prior to going AFK."
+changelog = "Patch 7.2: bump to api12"

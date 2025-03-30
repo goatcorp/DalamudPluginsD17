@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/chirpxiv/ffxiv-pathfinder.git"
-commit = "227ead58f0a52806ef03bfec1335750dca5d9470"
+commit = "8fa8f1b1259e5d4864845db8b0631cf6b86a32da"
 owners = ["chirpxiv"]
 project_path = "Pathfinder"
-changelog = "Update for Dalamud API 10"
+changelog = "DAPI 12"

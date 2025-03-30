@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "f7d39c0e081f5297702a02d88e404adff0c4caef"
+commit = "8affa9a8ccbad52ed3234ef118279407e7678dfa"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Allows switching to use chat sound effects
+- Fix ShoutToChat
 """

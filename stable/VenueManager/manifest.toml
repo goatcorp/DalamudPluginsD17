@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "3db213e9a26d631198fdf955735a77140d90d1c4"
+commit = "57a76b0a7476529f06e4730d2b8cc8ad775d7497"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
 
-- Updated method for getting house id.
-- Added territory id to the setting page for debugging 
-- Updated how being in a house is detected 
+- Updated Dalamud version 
 
 """
