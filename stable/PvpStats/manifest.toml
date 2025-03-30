@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8bd364c2e511d27ab05775ccbabc77f3ec497270"
+commit = "9d1c66ae52a0331ca5e438ebed5accb0c08e9180"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for patch 7.2.
+* Fixed Rival Wings tracker not working.
 """
