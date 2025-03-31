@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/Namingway.git'
-commit = '780177cee2bf5cc83735a7c885fc2aeb60412bc0'
+commit = 'fbd153abb62550fefb84d3d79d2422878d77eb7d'
 owners = [ 'anna-is-cute', 'MKhayle' ]
-changelog = 'API12 update. Credits to Franz for the API11 update.'
+changelog = 'Fixing status/actions not being displayed in the edit mode if they lack an icon in the game data.'
