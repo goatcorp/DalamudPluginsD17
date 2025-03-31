@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "bfa51ff6975d99624fa05b2f04dac192bb5792d1"
+commit = "7c49e30284865169678ceb6a8c547ea6b40487b5"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Update for 7.2 duties and API v12."
+changelog = "Fix crash related to accessing player's current class from async threads."
