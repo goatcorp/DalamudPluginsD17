@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "fc3ff36fe2430efa410a3948101d6bd20767e579"
+commit = "1b4bf813ab1cd5eb5c52a919a7810007dfee6e66"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.2.0**
+**Version 0.8.5.0**
 
-Fixed a bug where Discord users would be displayed on top of your chocobo if you didn't have a pet summoned.
+Fixed some rare crashes, and updated for patch 7.2 (API 12).
+
+Additionally, you can now configure which port Who's Talking uses to communicate with the Discord client. This is primarily useful if you have multiple Discord clients open at the same time.
 """
