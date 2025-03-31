@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "ca6f7903b1f8d0add53c7e0caa5b1d58db4a0a59"
+commit = "24f7f385868779ccc8b30443c5a73bf72f99118b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add pvp tracking. Add PvP Profile tab.
-- **Collection**: Updating framerskits with 7.2 one.
-- **PvP Profile**: Add PvP Profile and series rewards.
+- **General**: Fixes
 """
