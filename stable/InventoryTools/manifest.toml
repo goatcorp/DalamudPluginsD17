@@ -1,14 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1f184750dc725dde8fedcd848627d109255350a6"
+commit = "bbf18e82f1c33f995fb59a995cd2081e363e484b"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.0"
+version = "1.12.0.1"
 changelog = """\
- - API12 support
- - Craft Window can now import garland tools group URLs
- - Are recipes completed filter/column now only show recipes that can actually be completed in the log
- - Thank you for your patience and the horses
+**Fixes**
+ - The tomestones required for certain items was wrong
+ - Fixed searching when multiple columns with the same name were added
+ - Clarified the name/help text on some of the buttons
+
+**Added**
+ - Craft lists can be displayed in reverse order via the "Reverse Craft List Order?" filter setting
+ - The "Total Quantity Available" column can have a scope configured allowing you to pick which characters are considered when calculating the total
+ - Adding items from a craft list to another craft/curated list now lets you which part of the craft list you want to add
+ - Added a clear search button for the craft/curated item search bar
 """
