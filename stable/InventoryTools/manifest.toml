@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bbf18e82f1c33f995fb59a995cd2081e363e484b"
+commit = "432081a67681f9949794684b3311cf1dc6ba611f"
 owners = [
     "Critical-Impact",
 ]
@@ -11,6 +11,8 @@ changelog = """\
  - The tomestones required for certain items was wrong
  - Fixed searching when multiple columns with the same name were added
  - Clarified the name/help text on some of the buttons
+ - The teleporter integration was not working
+ - Optimisations to the internal message queue, things should pop up faster in the plugin
 
 **Added**
  - Craft lists can be displayed in reverse order via the "Reverse Craft List Order?" filter setting
