@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "96f4494d7ef2cc7c0b0aaa4d31a4a05ddeb1145f"
+commit = "ff4455ccefeda82117eeda1d15479fde32e5f477"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- 7.20 updates
-- Option to hide the style meter during cutscenes (default on)
-- Configurable dynamic BGM blacklist for duties. Dynamic BGM will not play in the duties you selected
-
-Note : style scaling may be off since FF Logs data is not currently available for 7.20 and lots of jobs have received potency adjustments.
-
-Please Yoshi P bring back Endwalker BLM #MakeBLMGreatAgain
+Adjusted role style scaling following potency changes
 """
