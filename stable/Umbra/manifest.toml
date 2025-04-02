@@ -4,16 +4,16 @@ commit = "1b3cdc581145d0e8c9d6d4c267dcb6d4ba6b25ab"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.12
+# Umbra 2.3.14
 
-## New additions
+## New Additions
 
-- Added a "Pick random job" to the gearset switcher. This button picks a random DoW/DoM job that is the highest level amongst your other gearsets. The button does nothing if there are no candidates to pick from (e.g. you only have one gearset). This was a request to "spice things up" when doing Daily Roulettes.
+- Added a "Compass" plugin.
 
 ## Fixes & Improvements
 
-- Removed the TextDecoder from Umbra that was responsible for some translations as this is now integrated into Dalamud itself (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated Umbra to use Dalamud.NET.SDK (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Prohibit teleporting to estates while world visiting.
+- Show the correct zone name in redecorated houses (by [Haselnussbomber](https://github.com/Haselnussbomber)).
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
