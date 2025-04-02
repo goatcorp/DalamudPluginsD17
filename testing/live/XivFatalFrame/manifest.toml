@@ -1,17 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/XivFatalFrame.git"
-commit = "95c04c774b8fac57602037f54f1d149b57a7db32"
+commit = "e2b435f25cb9271009bde2b3e63a129140c2c63c"
 owners = ["Glyceri",]
 	changelog = """
-[0.1.1.1]
-- Actually updated for 7.2
-
-[0.1.1.0]
-- Updated for 7.2
-
-[0.1.0.0] (First Version)
-- Take a screenshot every time you die.
-
-(It also takes screenshots upon certain unlocks and completions.)
-(This is configurable)
+[0.2.0.0]
+- You can now set custom delay timers for a screenshot (Some options have pvp specific delays).
+- The version number and coffee button should no longer overlap... hopefully
+- Fixes error log messages not showing (teehee)
 """
