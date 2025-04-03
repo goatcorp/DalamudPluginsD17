@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "2fc9ce15ca17dc9c73ed7a45b65f180ec2b01d28"
+commit = "76756baefaa13a9faed3c95682c16cf6d98298f1"
 owners = [
     "NadyaNayme",
 ]
