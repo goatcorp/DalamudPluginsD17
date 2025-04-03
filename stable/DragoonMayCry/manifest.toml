@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "ff4455ccefeda82117eeda1d15479fde32e5f477"
+commit = "b85b6b4e19da97b4a95c96c425c3f7e4938caa69"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Adjusted role style scaling following potency changes
+Removed file integrity check after files are downloaded
 """
