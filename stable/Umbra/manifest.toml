@@ -1,19 +1,14 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "33d54e29504ffebf5ae92a900a50ee6657373249"
+commit = "27b878dabba749ffd4195a00cb06fb08421d6dbe"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.14
-
-## New Additions
-
-- Added a "Compass" plugin.
+# Umbra 2.3.15
 
 ## Fixes & Improvements
 
-- Prohibit teleporting to estates while world visiting.
-- Show the correct zone name in redecorated houses (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Fixed a crash when restarting the game while having the Compass widget enabled.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
