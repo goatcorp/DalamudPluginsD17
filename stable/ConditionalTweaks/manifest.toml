@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lackyas/TTD-s-Conditional-Tweaks.git"
-commit = "ecff8c5e1d31dbd51d7aa0d981e4402b9258c79f"
+commit = "e68c28d0cc6ee75fa9ce5a0888ccae1a118d8525"
 owners = ["lackyas"]
 project_path = "SamplePlugin"
 changelog = "Initial release"
