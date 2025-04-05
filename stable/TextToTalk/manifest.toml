@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "471de21fcebeff79e1fabbc117da70b68f1837dd"
+commit = "4bf22565fe4224159d46b281dea2ea7614c57209"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Possible fix for crashes when reading the dialogue window
-- **OpenAI**: Fixed TTS not respecting model choice for OpenAI
-- **OpenAI**: Added support for gpt-4o-mini-tts, including new voices and support for instructions
-
-Thanks to PassiveModding for all of the OpenAI-related improvements!
+- **General**: Fixed crashes when reading the battle dialogue window
 """
