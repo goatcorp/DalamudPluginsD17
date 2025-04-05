@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "9d1c66ae52a0331ca5e438ebed5accb0c08e9180"
+commit = "33a5b65ed5db4c2343a69563e8767a868a2b6e70"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed Rival Wings tracker not working.
+* Added match timeline tracking to Frontline matches.
+* Added Graphs tab to Frontline match details window.
 """
