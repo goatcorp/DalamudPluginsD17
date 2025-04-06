@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "e6a17553e2cad3121a0e144aedaa1e6adce818f8"
+commit = "05765d84ddfd0521f7d8facb0081cf6e92ea9416"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.5"
+version = "1.1.0.6"
 changelog = """\
- - Improvements to Universalis websocket handling
- - ImGui asserts fixed
- - Minor UI fixes for summary tab
- - Rounding calculated recommended price feature (by Dodfisk)
+ - Fix potential crash on boot
+ - Fix certain background services probably using more CPU than they should
 """
