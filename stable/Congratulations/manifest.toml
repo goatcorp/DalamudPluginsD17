@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "30feb420936885592e2f01f4376184665b3aface"
+commit = "1ccab8d203f99ffd652607e926e5553f59f7c403"
 owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """
-Updated for FFXIV 7.11
+Updated for FFXIV 7.2
 """
