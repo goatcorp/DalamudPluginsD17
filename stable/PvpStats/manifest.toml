@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "33a5b65ed5db4c2343a69563e8767a868a2b6e70"
+commit = "01fc368ee3b234b2001ad0c8748c915030ce4beb"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added match timeline tracking to Frontline matches.
-* Added Graphs tab to Frontline match details window.
+* Fixed incorrect alliance soaring stacks on Rival Wings matches.
 """
