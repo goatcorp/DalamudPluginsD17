@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
-commit = "e36b53f5b6e9557397031c58b20cad3b5f4dfe5b"
+commit = "c0da57c95e91b5fa2d5d4f26a5b6b188684c7c92"
 owners = [
     "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.3
+changelog = """# Wordsmith v1.15.4
 Updated to latest Dalamud version"""

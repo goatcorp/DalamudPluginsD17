@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Kirrana/xivlauncher_physics_plugin.git"
-commit = "6a1c76e9977f4b56c71dabb86bcc6ec0ca935979"
-owners = ["Kirrana"]
+repository = "https://github.com/ItsLunaYup/xivlauncher_physics_plugin.git"
+commit = "b6e15bbc4d29fc18cea610aee42c09acaf60ebcd"
+owners = ["ItsLunaYup"]
 project_path = "SamplePlugin"
-changelog = "Update for 7.1 by ItsLunaYup, they also cleaned up code a bit with help from wolfcomp"
+changelog = "Update for 7.2, and took ownership from Kirrana"

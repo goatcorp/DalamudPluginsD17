@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/GearsetHelperPlugin.git"
-commit = "6a85a6c2e86529695bf62c8a64977e52aa5dc6a7"
+commit = "5ff34dc0f3020cec054bf0574b0003e2c7a8652d"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = "GearsetHelperPlugin"
 changelog = """
-Update for 7.1 and Dalamud API 11.
+* Changed: Update damage math.
+* Fixed: Ensure a job's speed attribute is always displayed in the stat table.
+* Maintenance: Migrate to Dalamud SDK / API 12.
 """

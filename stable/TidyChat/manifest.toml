@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "9678195b23cc4f69d5fd9c795c849bee824b373e"
+commit = "76756baefaa13a9faed3c95682c16cf6d98298f1"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Skip messages filtered by other plugins such as NoSol to prevent unfiltering them. Narrows the channels that run filters further as unnecessary channels were still having rules ran against them"
+changelog = "API Bump"

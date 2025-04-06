@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6f7d342c893da78c666beead878ac573f0668b0b"
+commit = "667fd19a437185bcbfba78e0c0e5c5beda72abf5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Version 0.0.0.27: Add unread letters notification icon, rework /altoholic command, fix pelupelu framer kit required rank"
+changelog = """\
+- **Progress**: Adding Hatching-tide seasonal event and 7.2 MSQ
+"""

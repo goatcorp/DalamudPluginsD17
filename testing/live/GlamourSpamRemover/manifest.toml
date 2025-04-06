@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
-commit = "107ffe9326600c6209f497db59cca7e4a4f8772c"
+commit = "a93d46d19c38f2678f9841cfe7e21e57146e0a02"
 owners = ["Shezwick"]
 project_path = "/GlamourSpamBeGone"
-changelog = "Addressed bug where messages would not get removed if name display settings were not the default value."
-version = "1.2.3.0"
+changelog = "Updated for patch 7.2"
+version = "1.7.2.0"

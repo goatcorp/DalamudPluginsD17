@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/jlkeesey/Chatter.git"
-commit = "294cdcd00297cfc5afd404c53501044ba3fe2977"
+commit = "8d3b7e441451027f84bfef31870e7c523d836a36"
 owners = ["jlkeesey"]
 project_path = "Chatter"
-changelog = ""
+changelog = "Upgrade to 7.1"

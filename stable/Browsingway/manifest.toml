@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "fde17ad94892719fbf241acfe710d95aef844e6a"
+commit = "a8564d17c1c9d8d726cef409abd8db7cf88dccb2"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Bump Chromium to 130.0.6723.70
-- Api 11 support
+- Bump Chromium to 134.0.6998.178
+- (this fixes CVE-2025-2783)
 """

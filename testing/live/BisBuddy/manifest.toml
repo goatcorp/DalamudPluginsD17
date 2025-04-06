@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/RajahOmen/BisBuddy.git"
+commit = "ffb2c253ebdac68b4e6e2d591ee0c0762527afca"
+owners = ["RajahOmen"]
+project_path = "BisBuddy"
+changelog = """\
+**Fixes**
+ - Fix Next Materia Only config tooltip being backwards
+ - Fix detection of HQ items
+"""

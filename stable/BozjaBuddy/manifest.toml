@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "83ca4edcca4aeb9685196acb05d18bbffb6d09dc"
+commit = "0fc585e08412ee0d33af9248d823f36fbf0b63aa"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.6.3
-- Fixed auto-job update. Fixed char stats and notes window.
+[1.1.6.6] API bump. Modified the build script.
 """

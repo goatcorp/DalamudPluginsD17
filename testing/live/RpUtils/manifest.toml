@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/KassWasTaken/RpUtils.git"
-commit = "f18f14769fbf8aca764fd889d0104a4b8ff02e8c"
-owners = ["KassWasTaken"]
+commit = "4c106c5b0bdf6092eb86469c941b590546184f84"
+owners = ["KassWasTaken", "erroch"]
 project_path = "RpUtils"
+changelog = """
+0.3.0 (2024.12.08)
+- Updated for Dawntrail (7.1) release.
+"""

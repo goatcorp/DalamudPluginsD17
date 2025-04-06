@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/chirpxiv/SelfCare.git"
-commit = "560f8be2434555cf5f9308035dd1e8e758930555"
-owners = ["chirpxiv"]
+commit = "7ed782685f8b72791be7928880b3c303b768b978"
+owners = ["chirpxiv", "MKhayle"]
 project_path = "SelfCare"
 changelog = """
-- Moved to stable release
-- Updated for Dalamud API 10
-- Added "Break Reminder" alert by @alyssadev
+-# API 12 update
 """

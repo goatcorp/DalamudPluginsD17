@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "b0ae61de9faec9b31bd656a3a017377f0fcd96a2"
+commit = "631203ec6d7add8529ff97f5e57c8dba6a34801a"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed Action items not appearing in the rings when on certain jobs."
+changelog = "- Added support for Patch 7.2 and Dalamud API 12."

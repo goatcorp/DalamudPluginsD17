@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
+commit = "5cc2e19142cbe5717465220193e6afb5f412e5e9"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganItemSearch"
+version = "1.0.0.3"
+changelog = """\
+- Move out of testing
+"""

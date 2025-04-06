@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/RulHolos/Bartender.git"
+commit = "dd8db4c4b92f9dd235a38119ae7a402759ebe987"
+owners = ["RulHolos"]
+project_path = "Bartender"
+changelog = """
+# v1.1.6.1
+
+- Fixed an issue with command arguments not working
+- Added an alias "level" to the "lvl" argument
+"""

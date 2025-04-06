@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/RajahOmen/BisBuddy.git"
+commit = "c1420389259f8685f66c849d14126ae59717c968"
+owners = ["RajahOmen"]
+project_path = "BisBuddy"
+changelog = """\
+**Hotfix**
+ - Temporarily partially disable materia attach highlighting while investigating crashing
+"""

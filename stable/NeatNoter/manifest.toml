@@ -2,13 +2,13 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "b17d7bb9e96bbb7752af03bf5786ed36232ed671"
+commit = "7b69e1150acb71aaf8388dfe3b5b54e666525eed"
 changelog = """
-# NeatNoter 2.7.0
+# NeatNoter 2.7.2
 
 ## Features
 
-- Adds support for Patch 7.1 and Dalamud API 11.
+- Updated to dalamud api 12 and dotnet 9.
 
 If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
 """

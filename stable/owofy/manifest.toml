@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/reiichi001/dalamud-owo.git"
-commit = "835b0df807037416e641e5944b136aca54a58da8"
+commit = "065f09d6e5ba370d1bb4c2f3d0fe9f1dcc1c8e6f"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "owo"
-changelog = "The most important plugin, now updated for API 11."
+changelog = "The most important plugin, now updated for API 12."

@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
+commit = "ada9113b37d41a4e834bdf9b4df19fcf19a46ecd"
+owners = ["0x0ade"]
+project_path = "CustomResolution2782"
+changelog = """
+- Fix mis-sized windowed mode windows on startup.
+- Update to API 12
+- Update offsets for 7.2
+"""
