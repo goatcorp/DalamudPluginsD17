@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "3ac3098c5da32c662cd9ecd854c37ea0a91ada09"
+commit = "58c583e9a4ca5fad053dc8953b0417197e0b9e80"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed Cenote Ja Ja Gural missing from duty result imports.
+* Fixed price service not working.
 """

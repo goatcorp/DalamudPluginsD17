@@ -1,13 +1,22 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "daf54eeea553c7bc86e3dc88508b24e6093f2bbc"
+commit = "432081a67681f9949794684b3311cf1dc6ba611f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.11.0.6"
+version = "1.12.0.1"
 changelog = """\
-### Fixed
-- Stopped the unlocks from being wiped on logout
-- The characters in the unlock tooltip will be shown alphabetically
+**Fixes**
+ - The tomestones required for certain items was wrong
+ - Fixed searching when multiple columns with the same name were added
+ - Clarified the name/help text on some of the buttons
+ - The teleporter integration was not working
+ - Optimisations to the internal message queue, things should pop up faster in the plugin
+
+**Added**
+ - Craft lists can be displayed in reverse order via the "Reverse Craft List Order?" filter setting
+ - The "Total Quantity Available" column can have a scope configured allowing you to pick which characters are considered when calculating the total
+ - Adding items from a craft list to another craft/curated list now lets you which part of the craft list you want to add
+ - Added a clear search button for the craft/curated item search bar
 """

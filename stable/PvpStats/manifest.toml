@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8288395edf0a6bf6887af18d4aad7b64fd170f14"
+commit = "01fc368ee3b234b2001ad0c8748c915030ce4beb"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Add season 12 and patch 7.11 and 7.1X time filter options.
+* Fixed incorrect alliance soaring stacks on Rival Wings matches.
 """

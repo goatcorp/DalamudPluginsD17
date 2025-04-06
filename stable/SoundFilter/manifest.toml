@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/SoundFilter.git'
-commit = '18dce1368b46a6dec8bca782dee9552853f7ceb0'
-owners = [ 'anna-is-cute' ]
-changelog = 'API 11'
+repository = 'https://github.com/Cytraen/SoundFilter.git'
+commit = '84014879fa8edef2be99374d9491049fab3dcfe0'
+owners = ['Cytraen']
+changelog = '7.2 / API 12'

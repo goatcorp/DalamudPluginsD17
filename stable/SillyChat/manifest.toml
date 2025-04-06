@@ -1,5 +1,8 @@
 [plugin]
-repository = "https://github.com/kalilistic/SillyChat.git"
-owners = [ "kalilistic" ]
+repository = "https://github.com/MKhayle/SillyChat.git"
+owners = [ "kalilistic", "MKhayle" ]
 project_path = "src/SillyChat"
-commit = "0f716fbe4ab5070df21d75b83bba3ce6657509f2"
+commit = "385e2af0c619ca93533765fb3e35085c4574fab1"
+changelog = """
+- API 12 update
+"""
