@@ -1,1 +1,7 @@
-
+[plugin]
+repository = "https://github.com/CHUGGO/SlashExit.git"
+commit = "a792c2b2bb33a140d1880b5fb969b004bafd61c8"
+owners = [
+    "CHUGGO",
+]
+project_path = "SlashExit"
