@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "638935b30af2b2c7aff6475750cec385166f3534"
+commit = "32dcd1e38a8e9a6eeffbde9ab8ba5b8f4bcba24b"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed a rare on load issue
-- Added the option to hide vanilla and built in presets
-- Updated the about section
+- Fixed crash on login when using a Solution 9 (and maybe some other zone I wasn't aware of) title screen
 """

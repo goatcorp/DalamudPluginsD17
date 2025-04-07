@@ -1,0 +1,5 @@
+[plugin]
+repository = 'https://github.com/Cytraen/SoundFilter.git'
+commit = 'ac0727e6602c6aae0031552ba51dfc465fea521d'
+owners = ['Cytraen']
+changelog = 'Fix long-standing "Ambient Sounds" channel noise bug'

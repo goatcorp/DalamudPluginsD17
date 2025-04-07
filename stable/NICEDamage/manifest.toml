@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "912209ce17aaf6da89de95f2e0d848b7164583c4"
+commit = "530e72ac8a252d11af6d52b7d0918f46402d766d"
 owners = ["gnargle"]
 project_path = "NICEDamage"
-changelog = "API Bump"
+changelog = "Update NICEDamage for 7.2"

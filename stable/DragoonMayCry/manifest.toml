@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "2a2bd104f7d84d62a167ebbdb802f6bca91d5991"
+commit = "b85b6b4e19da97b4a95c96c425c3f7e4938caa69"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Added commands
-`dmc bgm` toggles dynamic BGM on / off (global setting)
-`dmc job` toggles the plugin on / off for the current job (music + gauge)
+Removed file integrity check after files are downloaded
 """

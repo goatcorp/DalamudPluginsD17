@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '9061a78593e583949402e3bd4038c32196e2974a'
+commit = 'cfd25e91c7836e5baa1eb2c029ad9293833085f0'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed an issue in the UI drawing code which would cause an assert if enabled.
+- Updated for API 12
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "9b4c62e0dc286dc181042c2281359a4f52be1d97"
+commit = "f3d9828eec44ab1ea48a4319d546920a7e90ca7a"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.3 [TESTING]
-- Update to api 12
-- Fix UI timer not resetting when going back to start
+v0.0.6.5 [TESTING]
+- Fix records tab
+- Add importing records (they're very large at the moment)
+- Make right-click to display records work for loaded routes
+
+Known Issues:
+- Highlighted record loses it's color when you start a race
 """

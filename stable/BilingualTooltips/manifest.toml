@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "a7232a088a95a397060e53026ae056af2cd0e4c4"
+commit = "dcd50dde460ca09effce468c3463e8980baaf52c"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
@@ -19,4 +19,5 @@ New Features:
 
 Fixed Problems:
 - (1.2.1.0) Duty name starting with 'the' are not handled correctly.
+- (1.2.2.0) Multiple on-screen Journal are not handled correctly.
 """

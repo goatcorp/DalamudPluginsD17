@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8bd364c2e511d27ab05775ccbabc77f3ec497270"
+commit = "01fc368ee3b234b2001ad0c8748c915030ce4beb"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for patch 7.2.
+* Fixed incorrect alliance soaring stacks on Rival Wings matches.
 """

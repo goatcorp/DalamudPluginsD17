@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "db9d44d6f5d41097b61c0628e6f6d3f51434ec8b"
+commit = "8affa9a8ccbad52ed3234ef118279407e7678dfa"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- 7.2 / API 12 Update
+- Fix ShoutToChat
 """
