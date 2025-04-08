@@ -1,12 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "0b8d77302819f466984bc81259a2393200032f9c"
+commit = "70c453aea482eabeb0a5941801987510cbc600a5"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.6"
+version = "1.1.0.7"
 changelog = """\
- - Fix potential crash on boot
- - Fix certain background services probably using more CPU than they should
+ - Certain settings were showing up as blank in settings
+ - Retainer display order retrieval has been improved
+ - Retainers will be displayed in display order in the main window
+ - Individual undercut settings for items were not being persisted
+ - Fixed an issue when rounding was enabled
+ - Costs coming from the game will always take precedence
+ - Fixed an issue with costs not being marked as the latest
+ - The price change window overlay will now show where the data was sourced from(game, universalis, etc)
+
 """
