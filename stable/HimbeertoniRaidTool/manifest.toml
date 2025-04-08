@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "2d1519a73306a1fdb94b608812f310bea92b1bce"
+commit = "617e7c46a182f760eeae4461b71b9add84608925"
 changelog = "Bugfix: Babyface coffers resolve to the correct items now"
