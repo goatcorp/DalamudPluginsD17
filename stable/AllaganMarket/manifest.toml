@@ -1,19 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "70c453aea482eabeb0a5941801987510cbc600a5"
+commit = "a7f1eefb1276f19a8c927acbe313e3520095f637"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.7"
+version = "1.1.0.8"
 changelog = """\
- - Certain settings were showing up as blank in settings
- - Retainer display order retrieval has been improved
- - Retainers will be displayed in display order in the main window
- - Individual undercut settings for items were not being persisted
- - Fixed an issue when rounding was enabled
- - Costs coming from the game will always take precedence
- - Fixed an issue with costs not being marked as the latest
- - The price change window overlay will now show where the data was sourced from(game, universalis, etc)
-
+ - Fixed an issue with universalis dates not being converted into the user's time which would make them newer/older than they should be(unless you were in UTC)
+ - Moved "Sourced From" into tooltip icon
 """
