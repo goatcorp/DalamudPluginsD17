@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/53m1k0l0n/ffxiv-simplecompare.git"
-commit = "38850d39c24a1f0b661cda14ca488d4715a732f8"
-owners = ["53m1k0l0n"]
+repository = "https://github.com/Cyenia/ffxiv-simplecompare.git"
+commit = "fb00474f5d8c6d58dc1246d2bfa11591d19e09d5"
+owners = ["Cyenia"]
 project_path = "SimpleCompare"
-changelog = """- Update 2.0.0.3"""
+changelog = """- Updated for 7.2 / API 12"""
