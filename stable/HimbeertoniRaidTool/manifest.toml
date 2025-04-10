@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "2d1519a73306a1fdb94b608812f310bea92b1bce"
-changelog = "Bugfix: Babyface coffers resolve to the correct items now"
+commit = "6d2b82d3dcdc8e4a83a9b57f357f0f31dcffb9b1"
+changelog = """
+User Interface: Reorganized buttons in gear edit to account for long names
+    User Interface: Edit windows and inventory window open centered now"""

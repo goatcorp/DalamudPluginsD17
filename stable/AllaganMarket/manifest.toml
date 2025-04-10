@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "0b8d77302819f466984bc81259a2393200032f9c"
+commit = "a7f1eefb1276f19a8c927acbe313e3520095f637"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.6"
+version = "1.1.0.8"
 changelog = """\
- - Fix potential crash on boot
- - Fix certain background services probably using more CPU than they should
+ - Fixed an issue with universalis dates not being converted into the user's time which would make them newer/older than they should be(unless you were in UTC)
+ - Moved "Sourced From" into tooltip icon
 """
