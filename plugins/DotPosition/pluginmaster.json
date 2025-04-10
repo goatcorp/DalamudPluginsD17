@@ -1,0 +1,27 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Dot Position",
+  "Description": "Displays a customizable position marker under your character",
+  "Version": "1.0.0",
+  "Authors": [
+    "dechamps-chen"
+  ],
+  "Tags": [
+    "dot",
+    "position",
+    "hitbox",
+    "character",
+    "location"
+  ],
+  "IconUrl": "https://imgur.com/6ny8rpm",
+  "ImageUrls": [
+    "https://imgur.com/a/bXh8ZCq"
+  ],
+  "DownloadLinkInstall": "https://github.com/dechamps-chen/DotPosition/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/dechamps-chen/DotPosition/releases/latest/download/latest.zip",
+  "DownloadLinkTesting": "https://github.com/dechamps-chen/DotPosition/releases/latest/download/latest.zip",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12
+}
