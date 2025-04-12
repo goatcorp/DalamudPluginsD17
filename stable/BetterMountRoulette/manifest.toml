@@ -1,11 +1,6 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "d0816b9ca617f1555820144dd774573fef006030"
-version = "1.7.0.25"
+commit = "7fe6538480358c0d9113def55c7f8a1798c91b97"
+version = "1.7.1.26"
 owners = ["CMDRNuffin"]
-changelog = """Update for 7.2
-
-Also
-- Made Flying Mount Roulette button in Mount Guide and Action List opt-out
-- Hid most error messages
-- Made the remaining error messages opt-out"""
+changelog = """Bugfix: remove error spam in log after closing any plugin window."""
