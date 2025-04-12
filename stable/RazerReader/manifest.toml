@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "777016281b2142c35e2ba918ac7fd27b7054507d"
+commit = "5dd29367b67a23f918843cf01ece228c8b9ce09a"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Update to API 12"
+changelog = "Dynamically parse devices in logs"
