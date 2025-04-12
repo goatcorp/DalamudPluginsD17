@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "58c583e9a4ca5fad053dc8953b0417197e0b9e80"
+commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed price service not working.
+* Fix map links and loot not tracking with abbreviated name settings.
+* Announcing a map should now no longer overwrite your stored map link.
 """
