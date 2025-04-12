@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Olaren15/ffxiv-status-contrast"
+repository = "https://github.com/Olaren15/ffxiv-status-contrast.git"
 commit = "2132ada546815af41f576598a65df51d354ca132"
 owners = ["Olaren15"]
 project_path = "StatusContrast"
