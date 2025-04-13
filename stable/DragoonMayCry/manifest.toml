@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "b85b6b4e19da97b4a95c96c425c3f7e4938caa69"
+commit = "c0b0ba5ca9e16cf1c18673faffcbc42cc32933c4"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Removed file integrity check after files are downloaded
+- New command '/dmc next' to play the next BGM when set to 'Randomize' (outside of combat only)
+- Devils Never Cry 
 """
