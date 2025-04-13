@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gposingway/Sightseeingway.git"
-commit = "28ed48dd8c43dd3830d02e042e2486cff24f501f"
+commit = "94d34cd07d0bc287d5ca89e725802644bf6439a2"
 owners = ["gposingway","LeonAquitaine"]
 project_path = "Sightseeingway"
-changelog = "Initial Stable version"
+changelog = "Event handling optimization; less lag when changing configurations."
