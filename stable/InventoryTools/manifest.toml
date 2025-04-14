@@ -1,12 +1,25 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0d2efd14c59aed578618c14ff3391043cf21e972"
+commit = "80bea9acf2857a8b99e9a8ef681ce9b362b78e39"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.2"
+version = "1.12.0.3"
 changelog = """\
+**Added**
+ - Universalis button added to item window
+ - Attributes column added
+ - Each attribute added as a filter
+ - Physical Damage, Magical Damage, Delay column/filters added
+ - Fishing and spearfishing were split into 2 different ingredient sourcing types in craft lists, your ingredient sourcing lists will be migrated automatically to have both options.
+ - Desynthesis will now show up as different sources allowing you to pick which item you want to desynthesis
+ - When an item has multiple options to be sourced by reduction, gardening, desynthesis or by another item, the ingredient sourcing order will be taken into account to pick the default
+
 **Fixes**
- - Plugin shutdown time should hopefully be much faster
+ - Special shop costs were not being collated properly
+ - Added more safety around opening the crafting log
+ - Added more logging around craft completion
+ - Fixed minor race issue with window restoration
+ - Closing the crafting overlay will disable highlighting if applicable now
 """
