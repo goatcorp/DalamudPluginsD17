@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/QuackieMackie/QuestJournal.git"
+commit = "0ac89a5ae83e9a43508e1aa88ee6c3c36c6d7530"
+owners = ["QuackieMackie"]
+project_path = "QuestJournal"
+changelog = "Initial Commit"
