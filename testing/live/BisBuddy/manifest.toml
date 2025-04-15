@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "5604c3aaa19ea6c356d3b044ec7e2b5dfc984b09"
+commit = "dbcd8e63955f7f0c4503460fa9cf26e254e36562"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
-Rewrite of highlighting backend to hopefully fix crashes, again
+- Fix issue where auto inventory updates wasn't working
+- Fix issue where highlights would stay visible while melding window wasn't visible while melding
 """
