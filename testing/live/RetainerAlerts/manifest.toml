@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/Ibcrootbeer/RetainerAlerts"
+repository = "https://github.com/Ibcrootbeer/RetainerAlerts.git"
 commit = "6cc29257bacd0e0878d5cd22bf46c024cb7cfe7d"
 owners = ["Ibcrootbeer"]
 project_path = "RetainerAlerts"
