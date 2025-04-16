@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "942b4ab461e734039fcda423f96577688e68289e"
+commit = "e4178094ccead47677df84de4bd066233c462d7f"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Added**
-- Add (optional) feature to highlight a gearpiece's materia to meldable prerequisite items
-- Add (optional) feature to not highlight materia for gearpieces not yet collected
 **Fixes**
-- Fix issue where recent coffer prerequisites wouldn't populate when game language is not english
+- Fix erroneous explanation in uncollected item materia help text
+- Fix prerequisite item melds not being recorded
 """
