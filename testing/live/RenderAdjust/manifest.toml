@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Glorou/RenderAdjust.git"
-commit = "8c2b6101238b656c1e529938d11c8e38676dd2d0"
+commit = "ffcfbd8a2e4aacd43b65c9f931356fa0f729c753"
 owners = [ "Glorou" ]
 project_path = "RenderAdjust"
