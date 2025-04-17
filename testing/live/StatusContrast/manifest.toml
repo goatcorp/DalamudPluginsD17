@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-status-contrast.git"
-commit = "2132ada546815af41f576598a65df51d354ca132"
+commit = "fb35625fe57a2a8fa08c48086ea16c2d533c8cba"
 owners = ["Olaren15"]
 project_path = "StatusContrast"
 changelog = """
-- Initial testing release
+- Fix game crash when logging out
 """
