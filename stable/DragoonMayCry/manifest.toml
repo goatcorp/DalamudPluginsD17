@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "c0b0ba5ca9e16cf1c18673faffcbc42cc32933c4"
+commit = "a5d444e64b631552910d13d85cb31fb94296ecd5"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- New command '/dmc next' to play the next BGM when set to 'Randomize' (outside of combat only)
-- Devils Never Cry 
+- Fixed GCD clipping detection following 7.2 changes
+- Lowered final rank uptime requirements
 """
