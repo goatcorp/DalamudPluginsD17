@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "01fc368ee3b234b2001ad0c8748c915030ce4beb"
+commit = "ecaebba711b83f7b65e1374c97b49015cccb706b"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed incorrect alliance soaring stacks on Rival Wings matches.
+* Added new match records for Frontline and Rival Wings.
+* Added validation for known misrecords in Rival Wings tracker.
+* Performance improvement on player tab filters.
 """
