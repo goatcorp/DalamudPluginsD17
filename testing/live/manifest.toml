@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
+commit = "a3dc46370c084bd14a684177a7643b9f2131c351"
+owners = ["VioletStardustXIV"]
+project_path = "XivGearExport"
+changelog = "Initial testing release"
