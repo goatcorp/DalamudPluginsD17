@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-status-contrast.git"
-commit = "fb35625fe57a2a8fa08c48086ea16c2d533c8cba"
+commit = "786fad9b0f0edd02bcf3b91b25d64d8161e57861"
 owners = ["Olaren15"]
 project_path = "StatusContrast"
 changelog = """
-- Fix game crash when logging out
+- Improved plugin info
 """
