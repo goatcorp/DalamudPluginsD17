@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "7550b6a64067ada70736728c879f9f8fc72315da"
+commit = "6a7d5ec2fd38ddc4fdfc88b2e996cab6e748e312"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = "Initial testing release"
