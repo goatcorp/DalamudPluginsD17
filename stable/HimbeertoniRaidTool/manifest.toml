@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "4be4fdaed527626e0ca2c79caecc16876e8e3ac1"
-changelog = "New Feature: Stats can now take a party bonus into account (adjust the default in settings)"
+commit = "6d2b82d3dcdc8e4a83a9b57f357f0f31dcffb9b1"
+changelog = """
+User Interface: Reorganized buttons in gear edit to account for long names
+    User Interface: Edit windows and inventory window open centered now"""

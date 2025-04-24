@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/HUDUnlimited.git"
-commit = "1664ffbb7fd0b081b04d20eb6595526b0e2ec58b"
+commit = "a728066aed1a8634ee05913a810a5f6106589c19"
 owners = ["MidoriKami"]
 project_path = "HUDUnlimited"

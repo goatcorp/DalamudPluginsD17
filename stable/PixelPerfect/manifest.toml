@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "8689d9f1ec25cee16f4e618bcc38ba0d1285ef22"
+commit = "85bc2239765388c96d2a8a91c0900e573bc37c97"
 owners = ["Haplo064"]
-changelog = "7.1"
+changelog = "7.2"
