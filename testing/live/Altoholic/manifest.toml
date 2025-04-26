@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "500881f232b8c868b0d5c43b22c01a21ef2e69a6"
+commit = "d755ed4bd2e6d8d297906e61555e90c50abbe42e"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Reworks gear materia collection and display on tooltip
-- **Currencies**: Adding cosmocredit and lunar credit
-- **Progress**: Adding Cosmic Exploration tab for credit exchange and cosmic fortunes reward
+- **General**: Fix out of bound on an icon loading array
 """
