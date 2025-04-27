@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/perappu/WhoSaidWhatNow.git"
-commit = "392248cb4d6ef9e6dd62aaecf864ff0ef96b3047"
+commit = "41f23e3ccfb859c6c59f89fae4c2f5602465e48e"
 owners = ["perappu", "erunseelie"]
 project_path = "WhoSaidWhatNow"
-changelog = "Update for 7.2"
+changelog = "Add sound notifications"

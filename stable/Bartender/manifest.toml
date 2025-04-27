@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "dd8db4c4b92f9dd235a38119ae7a402759ebe987"
+commit = "ef231190f9fdafca22989ca9c5604c4b1bc71f57"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-# v1.1.6.1
+# v1.1.7.0
 
-- Fixed an issue with command arguments not working
-- Added an alias "level" to the "lvl" argument
+- Fixed /micon macros setting action to the icon action.
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "667fd19a437185bcbfba78e0c0e5c5beda72abf5"
+commit = "d755ed4bd2e6d8d297906e61555e90c50abbe42e"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Adding Hatching-tide seasonal event and 7.2 MSQ
+- **General**: Fix out of bound on an icon loading array
 """

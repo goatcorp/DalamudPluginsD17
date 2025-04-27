@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "ab9f0c8a77564e22765c185d128417db2adacbb9"
+commit = "affcc108ac10e25dfe55af2ea2e82bf2ff8f8f74"
 owners = ["Glyceri"]
 	changelog = """
-[2.4.0.3] 
-- Fixes 2749273439827 bugs that have to do with database entries not existing anymore.
+[2.4.0.4] 
+- Fixes Crashes on the staging branch. (Genuinely only 50% my fault this time c:)
+
+(Please restart your game for Pet Nicknames to function again).
 """
