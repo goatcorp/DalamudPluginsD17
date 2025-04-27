@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glorou/CleanHuntChat.git"
-commit = "6a123d2cc625ff46a44c0704dc2a72c9520e7632"
+commit = "a0363e2688333340b660efe6a4fc2805930ff605"
 owners = ["Guerzoniansus", "Glorou"]
 project_path = "CleanHuntChat"
-changelog = "Version 1.1"
+changelog = "Version 1.2"
