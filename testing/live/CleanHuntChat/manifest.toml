@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Glorou/CleanHuntChat.git"
-commit = "731bc218b835fdeed07ddc76b2b0fe803e227fa0"
+commit = "d33117bd767a94dbf350435530f3ddcdfa6409ff"
 owners = ["Guerzoniansus", "Glorou"]
 project_path = "CleanHuntChat"
 changelog = "Version 1.2: Fixed plugin unloading, added a feature to allow you to permanently enable filters for shout and yell"
