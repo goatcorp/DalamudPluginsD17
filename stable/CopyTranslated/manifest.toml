@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kelvin124124/CopyTranslated.git"
-commit = "82a2fc7ad992f779f4fa1ef774bc7f1b60bc9888"
+commit = "bd12e1932528c4d2bd569f5e9a59dc31442bb260"
 owners = ["kelvin124124"]
 project_path = "CopyTranslated"
-changelog = "Added multi-language mode: Choose which language's item name to copy when opening the context menu."
+changelog = "api11"

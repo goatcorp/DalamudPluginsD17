@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mustafakalash/VanillaHotbarExtender.git"
-commit = "0a3aefd0a90c1137e763eecb64a87dd376494c53"
+commit = "1603ad6a6ae29a77de4537796878dc6f9b8d3e63"
 owners = ["mustafakalash"]
 project_path = "VanillaHotbarExtender"
-changelog = "Hot bars can now be exported and imported. Thanks @CerulanLumina!"
+changelog = "7.2/api12"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MKhayle/EldenRingDalamud.git"
-commit = "b7e34ef1547fd3f367cabfb914ca1889dbf28781"
+commit = "cfdb37338bf645ccf842ad0687abd89ec52fdd16"
 owners = [
 	"Roselyyn", 
 	"reiichi001",
@@ -8,5 +8,5 @@ owners = [
 ]
 project_path = "EldenRing"
 changelog = """
--# DT Updated, and added a "Mettle Lost" screen in Save-The-Queen zones.
+-# API12 update
 """

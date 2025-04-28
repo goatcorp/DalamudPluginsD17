@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "d9e83314ee4be29e3d35c3732e48ccdb0983d96d"
+commit = "32dcd1e38a8e9a6eeffbde9ab8ba5b8f4bcba24b"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed camera ignoring the zoom curve on initial load to the character select screen
-- Fixed character select camera position values being transferred to the retainer creation
-- Fixed a typo in the "Aetherial Sea" character select option
+- Fixed crash on login when using a Solution 9 (and maybe some other zone I wasn't aware of) title screen
 """

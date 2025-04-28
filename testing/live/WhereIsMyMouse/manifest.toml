@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "b132780298b58f5e5f72895cf857850be808d8a5"
+commit = "98e0409315c4b3c223823b3167f3985ef99777b8"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
 changelog = """Changes :
-  - adding NoFocusOnAppearing to plugin window by @ShioIna
-  - net8 & update for api 10 by @avail
+  - upgrade to Dalamud 11
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/XIVChat/XIVChat.git'
-commit = '27b148ca982f8ab401589bda128bf8277a6e27d9'
+commit = 'b2cec6e0d64502c44a0587284239fb734bddf011'
 owners = [ 'anna-is-cute' ]
 project_path = 'XIVChatPlugin'
 changelog = """\
-- Dawntrail
+- API 11
 """

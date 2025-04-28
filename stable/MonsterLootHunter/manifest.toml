@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "608c13eeb664efd1e8e0872aa6170f85c60da68d"
+commit = "1bdfe01742259c891433523720d506f9972a7129"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Added item name fixes
+changelog = """- Update for API 12
  """

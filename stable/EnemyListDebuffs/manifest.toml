@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Felys1998/EnemyListDebuffs.git"
-commit = "eb91aa54f40bb4f0d82b3abed04f06afe5c86538"
+commit = "720189ecedc1724ceeb94997e24af823cbf8eccd"
 owners = [
     "Felys1998",
 ]
-changelog = "Made the configuration window resizable"
+changelog = "7.2 Update"

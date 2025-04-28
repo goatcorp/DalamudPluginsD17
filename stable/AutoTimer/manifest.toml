@@ -1,9 +1,7 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "282ceb1a287e6fe31040380b4cc9fa20f06a199e"
+commit = "6b018eaf563a1f79866215c4eca360daf5a1017a"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Updated to Dawntrail
-- Resolved issue where Inspiration was incorrectly counting towards Pictomancer auto-attack haste
-- Added option to scale the bar'''
+- Update to 7.2'''

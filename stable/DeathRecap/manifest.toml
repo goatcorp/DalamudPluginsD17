@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "6ee0124d504cc101a3ebcc19be2cfcbeb0c9e62b"
+commit = "75826ebe91713e34578ad4d7ed0cc98f5622154b"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Update for 7.0
+- Update to ffxiv 7.2 and dalamud api12
 """

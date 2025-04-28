@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "8590a50e3a1bf5c3ee0afcbdd88d8aba32dce70a"
+commit = "49c0897bb6a2e2495b61368330e537ab7a030bbe"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Displays distance units as meters now instead of yalms in the Japanese-language client in order to match tooltips.
+- Updated for Dalamud API 12.
 '''

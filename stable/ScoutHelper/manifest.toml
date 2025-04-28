@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/dit-zy/scout-helper.git"
-commit = "7db3022906da598c98c53c604ba21cd4c40f9ce5"
-owners = ["dit-zy", "zw3lf"]
+owners = [ "dit-zy", "zw3lf" ]
 project_path = "ScoutHelper"
+commit = "580fa899cffd64a37bd2515b97c049e06392bea1"

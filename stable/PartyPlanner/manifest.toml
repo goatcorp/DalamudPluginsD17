@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "4097ceba2b51d078fce65d64f67a01c4b208858c"
+commit = "14afbbbff383b581a1634be1b61db1d3068768e3"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """- Updated to current API.
-- Remember the last opened tab between game sessions.
+changelog = """- Updated to API 12.
 """

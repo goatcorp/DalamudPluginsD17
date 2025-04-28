@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "a34f9685f56b1aa64b48ec9e1dd04f4cd649a843"
+commit = "ac5fe5b3d52dde8ca5f8331bad3bb76268de7d0e" 
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.19.4"
+version = "1.0.23.1"
 changelog = """
-- Adds 'favourites' to 'Insert Special Character' menu
+- Add 'Use Macro Chain By Default' setting (for new macros)
 """

@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/QuestMap.git'
-commit = 'ca80dbc48553ee70f7816a413cad384bed8c719c'
-owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+repository = 'https://github.com/rreminy/QuestMap.git'
+commit = 'bc99430ff9ccbf9ab3f267104bfa15e3aac8fd4f'
+owners = [ 'anna-is-cute', 'rreminy' ]
+changelog = 'Condense final MSQ quests, quest summaries and fixes'

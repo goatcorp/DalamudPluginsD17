@@ -1,7 +1,13 @@
 [plugin]
-repository = "https://github.com/goaaats/Dalamud.CharacterSync.git"
-commit = "8d23cbb0f1aca3ebfa9c8ce6dabf29c52e6a51fb"
+repository = "https://github.com/reiichi001/Dalamud.CharacterSync.git"
+commit = "b56a9848e7d1b7557759be0bf5dbcd3d850b77c8"
 owners = [
-    "goaaats",
+	"goaaats",
+	"reiichi001"
 ]
 project_path = "Dalamud.CharacterSync"
+changelog = """
+Updated for API 12, now with a ClientState fix. ...this ran OK on my machine, but please report to <@60851293232574464> if it's not.
+
+Looking for a new maintainer.
+"""

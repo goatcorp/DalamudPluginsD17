@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "0292519f4ca7a619b9b99df0b90fa122e6e92c90"
+commit = "5cb6cf27640f3917b294d84bb462b42a44183e94"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.0
-Updating for Dawntrail
-- API X support
-- Adding PCT and VPR
-- Update dye system to target 1st slot (need to follow up to support 2nd slot)
+Collections v1.0.2.4
+- Fix dresser issue
+- Auto hide obtained items on Instance tab
 """

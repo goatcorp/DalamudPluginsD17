@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "4864123224a95ca0a687a13757d3cfad84db056c"
+commit = "a2c72e4ea99d70b0adad9601a707f02789052a0d"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Limit the listing count and make it and the history count configurable\
+- Fix context menu for HQ items\
 """

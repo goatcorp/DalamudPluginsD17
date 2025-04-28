@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sourpuh/NamePlateDebuffs.git"
-commit = "cd8aae4293e3e6bded3e47666cbdfb169cdd54d5"
+commit = "54229cb286d7762708ba811804c64351cba5a684"
 owners = [
     "aers",
     "JHerig",
@@ -9,6 +9,6 @@ owners = [
 ]
 project_path = "NamePlateDebuffs"
 changelog = """
-Nameplate Debuffs 1.1.0.3
-- Fix log error spam due to renamed field
+Nameplate Debuffs 1.1.0.5
+- Api 12
 """

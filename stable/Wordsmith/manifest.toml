@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
-commit = "1cf7b68afd5a841bbbfd20a5801fe3e97f3a88b1"
+commit = "c0da57c95e91b5fa2d5d4f26a5b6b188684c7c92"
 owners = [
     "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.2
-Fixed an issue where attempting to close all scratchpads with the `Close All` button in SettingsUI could cause a crash."""
+changelog = """# Wordsmith v1.15.4
+Updated to latest Dalamud version"""

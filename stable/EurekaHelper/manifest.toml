@@ -1,12 +1,8 @@
 [plugin]
-repository = "https://github.com/snorux/EurekaHelper.git"
-commit = "ec64acfb769b2f3bef8fa442b3fde2fb101a0f31"
-owners = ["snorux"]
+repository = "https://github.com/KangasZ/EurekaHelper.git"
+commit = "8affa9a8ccbad52ed3234ef118279407e7678dfa"
+owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-Elemental Manager
-- Added crowdsourced positions
-
-Misc
-- Updated to API 9
+- Fix ShoutToChat
 """

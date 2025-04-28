@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/ExpandedSearchInfo.git'
-commit = 'a2676714934c03ad667032bd76819201cef7688c'
+commit = '5196b82d438395e3bc7990a21f7c1cac19dfc7e0'
 owners = [ 'caitlyn-gg' ]
-changelog = 'Updated for Dawntrail, API X'
+changelog = 'Updated for API 12'

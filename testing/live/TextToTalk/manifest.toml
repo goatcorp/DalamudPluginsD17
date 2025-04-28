@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "072d88eea3bce83a3517cbc5eb918bbed8e075fc"
-project_path = "src"
+commit = "b98853af56a02876022cda6ab3fd3dd0a3c453d5"
+project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes Uberduck TTS backend following API changes
+- **General**: Reduces internal plugin log level for most TTS events
+- **General**: Potential fix for rare and unreproducible crash when reading from dialogue windows (please DM me logs if this happens to you!)
+- **WebSocket**: Fixes configuration errors only showing up in the UI for one frame
+- **WebSocket**: Potential fix for speaker gender always being "None" for some plugin users
+- **OpenAI**: Updated supported voice list
 """

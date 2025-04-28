@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "650eb77b41cc08c2f30fd5c4bf03cd2df978d4fe"
-changelog = "* Fixes a loading error with `VoidList` and `Whitelist`"
+commit = "155bfb0b35961e8db713fbdd51f98f5221792c21"
+changelog = "- Updated plugin for 7.2"

@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "6fdefac17cc2d786caa9afd2c43be57fb4d80386"
+commit = "1fba1c9a5b057b10a253aa1feffd998b54084872"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **OpenAI**: Fixed API key not being saved (thanks PassiveModding!)
-- **OpenAI**: Improved error visibility in the login flow and during TTS
-- **ElevenLabs**: Fixed multiple UI errors
-- **System**: Added a link to [NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter) next to VoiceUnlocker
+- **Uberduck**: Fixed backend support after minor API changes
 """

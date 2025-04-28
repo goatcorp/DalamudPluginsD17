@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "b48a6decc3a82db1c85b54eb55ce25986beb9e38"
+commit = "25d2753dabb142ca4b729a1437ce0a41e92d105e"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Update for 7.0
+- Update to ffxiv 7.2 and dalamud api12
 """

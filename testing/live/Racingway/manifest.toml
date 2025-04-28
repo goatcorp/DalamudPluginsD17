@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Abyeon/Racingway.git"
+commit = "f9e63c4b5bd951e8443d523a40f32f9fc4370f2d"
+owners = ["Abyeon"]
+project_path = "Racingway"
+changelog = """
+v0.0.6.6 [TESTING]
+- Add stylization options for race lines
+- Add the ability to delete individual records
+"""

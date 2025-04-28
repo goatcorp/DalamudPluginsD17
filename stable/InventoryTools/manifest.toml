@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ef4f92be8fbf130351d1dbd7154ff65ba681107e"
+commit = "b3bb4c117125b0c74958e2adf0b153f7ec54ab07"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.1.2"
+version = "1.12.0.4"
 changelog = """\
-### Fixed
-- Fix an issue with the craft button
-- Fix highlighting in the free company chest not working
+**Added**
+ - Added ability to enable verbose logging
 
 """
