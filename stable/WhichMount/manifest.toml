@@ -5,6 +5,7 @@ owners = [
     "megurte"
 ]
 project_path = "WhichMount"
+version = "1.0.1.0"
 changelog = """
 Version 1.0.1.0:
   - Updated data for mounts in 7.2 patch
