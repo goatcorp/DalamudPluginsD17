@@ -1,0 +1,80 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "5d1568d9a1b96de55b7266914333df7e775332ad"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+# Umbra 3.0.0
+
+Umbra 3 is a major release that introduces several new features, improvements,
+and bug fixes. This release focuses on enhancing the user experience, improving
+performance, and *finally* adding the long-awaited support for multiple
+toolbars.
+
+Umbra has seen tons of updates over the course of its development, which has
+resulted in a lot of duplicated code and translation strings. Many widgets
+share similar features, like customizable icons or text positioning, but almost
+every widget had its own implementation of these features. This update has
+unified all widgets under a common base, resulting in a more coherent interface
+for you and significantly less code to maintain for contributors.
+
+Functionality-wise, not much has changed. Umbra still works the same way as it
+did before, but every graphical-aspect of the plugin has been rewritten from
+the ground up.
+
+Upon installing this version, you will be greeted with a new quick-start
+installer in which you can choose to either keep your current toolbar
+configuration, or start anew with an updated default profile.
+
+### Important note for existing users
+
+Some of the widget settings have changed, and some have been removed entirely.
+This means that you may need to reconfigure some of your widgets after
+installing this update. One of the most notable things that require your
+attention is custom icons in widgets, which have most likely been reverted
+back to a default icon.
+
+I've tried my best to keep breaking changes to a minimum, but unfortunately,
+some were inevitable.
+
+## New Features
+
+### Multiple Toolbars
+
+The long-awaited support for multiple toolbars is finally here! You can now
+create an unlimited number of auxiliary toolbars, each with its own set of
+widgets. The settings interface to manage the main and auxiliary toolbars
+has been completely redesigned to make it easier to manage them.
+
+* You can now drag widgets to sort them within a toolbar, as well as drag them
+  between columns in the main toolbar.
+* You can now double-click a widget to quickly open its settings window.
+
+### New icon customization
+
+Widgets that support customizable icons now allow you to pick from
+different icon types: Game icons, Font Awesome, Text Glyphs, and Bitmap icons.
+Double-clicking an icon in the icon picker window will now select the icon.
+
+### New settings interface
+
+The settings interface has been completely redesigned to make it easier to
+navigate. It is now much easier to create custom themes, simply by setting
+4 dominant colors.
+
+### Graphical updates
+
+Umbra's drawing system has seen a significant overhaul, resulting in better
+performance and adding a couple of notable features: Subpixel rendering, a new
+layout engine, and support for hairline strokes. The latter eliminates
+graphical glitches where thin borders suddenly appear to be gone or 2px
+wide. Rounded corners now also appear as actual antialiased rounded corners.
+
+The new layout engine also allows for much more complex layouts without the
+need to manually compute the positions and size of elements on every frame.
+This results in _much better performance_ in complex widgets like the Gearset
+switcher or the settings window.
+
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
+"""
