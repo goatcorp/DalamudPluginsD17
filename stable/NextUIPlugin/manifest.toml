@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://gitlab.com/kaminariss/nextui-plugin.git"
-commit = "c83c8c94022e876d450e464c9a5110422e2bfdef"
+commit = "b17a6a6424dd3b4ff5876636128f4d38ae5f44c1"
 owners = ["Kaminaris", "pwilkowski"]
 project_path = "NextUIPlugin"
-changelog = """Updated for patch 7.2 and new api
+changelog = """Fixed linux permissions issue
+Updated for patch 7.2 and new api
 Updated for patch 7.15
 Updated for patch 7 - pid and path fix
 Updated for patch 6.5"""
