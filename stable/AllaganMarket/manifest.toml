@@ -1,17 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "0fb994d717a2c2ae4d283356920be83e72190f36"
+commit = "3a07cf2d48b68adaaada6a9550e8d5c74fb14e98"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.9"
+version = "1.1.0.10"
 changelog = """\
 **Added**
- - Undercut fallback setting added, this allows you to ignore NQ/HQ pricing if there are no listings available for NQ/HQ
+ - Added a verbose logging toggle, for those having issues with price updates not being picked up please turn on verbose logging then attempt to view prices and send the log to me
 
 **Fixes**
- - When listing an item and the only listings were your own, it was possible for the cache to not update(making all the listings still list as stale)
- - When listing an item for the first and the only listings were your own the cache was not getting updated
+ - Fix rare slow plugin unload
+ - Dates will now sort correctly instead of by their string value
 
 """
