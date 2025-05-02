@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "6a7d5ec2fd38ddc4fdfc88b2e996cab6e748e312"
+commit = "cce7de64a92e4d686c028fe4a1e3234a66ed5485"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
-changelog = "Initial testing release"
+changelog = """
+- Updated plugin icon. 
+- BLU will now export with a party bonus of 1.
+"""
