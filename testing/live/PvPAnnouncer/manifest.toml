@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "1e5ef2ab9c04ef45328aa6616c5a44fe107a01bd"
+commit = "2a2745f7cc8d79b5dae5b39510a61fdb8d83d15b"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
 changelog = "New Plugin! Report any issues or suggestions."
