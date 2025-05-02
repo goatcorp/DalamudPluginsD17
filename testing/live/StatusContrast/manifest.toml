@@ -5,4 +5,7 @@ owners = ["Olaren15"]
 project_path = "StatusContrast"
 changelog = """
 - Added settings window
+  - Allow previewing the backgrounds
+  - Allow fixing the backgrounds gaps
+  - Allow changing the background's color
 """
