@@ -1,13 +1,34 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "b3bb4c117125b0c74958e2adf0b153f7ec54ab07"
+commit = "866d38feb70ec6812dea7a406aac1fdfa09ec173"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.4"
+version = "1.12.0.5"
 changelog = """\
-**Added**
- - Added ability to enable verbose logging
+
+### Added
+- Changelog window added
+- Acquiring items through Gathering/Crafting/Buying/Combat will now count towards craft completion for output items. These can be toggled per craft list in the 'Completion Tracking' section.
+  - This uses a new acquisition tracker, please report any issues with it
+  - It's possible to switch back to the old craft tracker, check settings, the old one only tracks crafts
+- Sources/Uses added for quests
+- The Acquisition/Use columns now have column filters allowing you to search for specific types, categories, rewards and requirements for items
+- Overhaul to right click menus on sources/uses.
+
+### Fixed
+- When a craft list is grouped by precraft craft type, grouping will attempt to adjust itself if 2 precrafts rely on each other and an item in the second group is required to be completed before the first.
+- When a specific item was set in the ingredient preference list in a craft list, it was not being used over the default logic
+- Fixed rare crash in universalis
+- Fixed a bug that'd cause all items to be considered inside a gearset.
+- Glamour chest parsing should be reliable and not lose track of items
+- Added more safety around when free company credits are scanned
+- Fixes to the way text is vertically aligned within table cells
+- Ingredient counts in the "Required" column will show the correct total
+- Squashed some imgui asserts
+- If there are no known locations of mobs, it'll display that instead of displaying nothing in the item window
+- Creating a new list will actually open the configuration window to the list correctly
+- Universalis requests will now contain a user agent matching the plugin's internal name and version
 
 """
