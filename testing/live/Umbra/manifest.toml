@@ -1,28 +1,31 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "16f9770feeb4e2d62cb13f13976e452bf6265172"
+commit = "91f003070cf281a62dfb3314881d0e8e9d06683f"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.1 (Testing)
+# Umbra 3.0.2 (Testing)
 
-## New Additions
+## New additions
 
-- Added a "Vertical Orientation" option to Auxiliary Bars. You can now have vertical bars.
-- Added an option to configure the vertical item spacing in menus.
+- Added a "shorten" option to the Experience Bar widget for shown EXP values.
+- Added a "Profile Backup" step in the new installer/welcome window.
+- Added additional icons to the Game Icon picker window.
 
 ## Fixes & Improvements
 
-- Fixed an issue with UI scaling not correctly working with the toolbar.
-- Fixed an issue in which the toolbar margin did not position the widgets correctly in the left column.
-- Fixed an issue in which icons were scaled too large with custom UI scaling.
-- Fixed an issue with overlapping/bad positioned columns in the toolbar when the toolbar wasn't stretched.
-- Fixed an issue in which disabled menu items did not have a "disabled" visual representation.
-- Fixed an issue in which disabled menu items were still clickable in the Unified Main Menu.
-- Fixed an issue with the animation playing on repeat in the Currencies Widget (The animation has been removed entirely)
-- Fixed an issue in the Currencies widget where the value of the tracked currency wasn't shown together with the label when sub-text is disabled.
-- Re-added the option to show/hide role titles in the Gearset Switcher.
-- Re-added the visual distinction between roles on gearset buttons in the Gearset Switcher.
+- Auto-close the gearset switcher when clicking a gearset.
+- Fixed missing translation for the "Pick a random job" button.
+- Fixed a bad variable name in the Main Menu Widget (this is causing log-spam atm, sorry!)
+- Fixed clipping issues with DelvUI after closing a window or widget popup.
+- Fixed / improved the clip handler that allows game windows to draw in front of Umbra elements.
+- Fixed the missing scrollbar in the Unified Main Menu widget / minor graphical fixes.
+- Fixed the method used to check if you unlocked a Chocobo Companion.
+- Re-added the custom ID input field in the Game Icon picker.
+- Re-added option to set the menu height and reverse category order of the Unified Main Menu widget.
+- Re-added option to set the menu height of the Teleport widget for the Condensed layout.
+- Re-added the gradient options for buttons in the Gearset Switcher.
+- Increased the maximum allowed width of the Experience Bar widget.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
