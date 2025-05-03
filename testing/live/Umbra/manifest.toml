@@ -1,79 +1,28 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "e7cb71500557334c16a53daabd66e1836b34bb20"
+commit = "d47192e7fa45cc7c5be0155ec2e404457012d8b9"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.0
+# Umbra 3.0.1 (Testing)
 
-Umbra 3 is a major release that introduces several new features, improvements,
-and bug fixes. This release focuses on enhancing the user experience, improving
-performance, and *finally* adding the long-awaited support for multiple
-toolbars.
+## New Additions
 
-Umbra has seen tons of updates over the course of its development, which has
-resulted in a lot of duplicated code and translation strings. Many widgets
-share similar features, like customizable icons or text positioning, but almost
-every widget had its own implementation of these features. This update has
-unified all widgets under a common base, resulting in a more coherent interface
-for you and significantly less code to maintain for contributors.
+- Added a "Vertical Orientation" option to Auxiliary Bars. You can now have vertical bars.
+- Added an option to configure the vertical item spacing in menus.
 
-Functionality-wise, not much has changed. Umbra still works the same way as it
-did before, but every graphical-aspect of the plugin has been rewritten from
-the ground up.
+## Fixes & Improvements
 
-Upon installing this version, you will be greeted with a new quick-start
-installer in which you can choose to either keep your current toolbar
-configuration, or start anew with an updated default profile.
-
-### Important note for existing users
-
-Some of the widget settings have changed, and some have been removed entirely.
-This means that you may need to reconfigure some of your widgets after
-installing this update. One of the most notable things that require your
-attention is custom icons in widgets, which have most likely been reverted
-back to a default icon.
-
-I've tried my best to keep breaking changes to a minimum, but unfortunately,
-some were inevitable.
-
-## New Features
-
-### Multiple Toolbars
-
-The long-awaited support for multiple toolbars is finally here! You can now
-create an unlimited number of auxiliary toolbars, each with its own set of
-widgets. The settings interface to manage the main and auxiliary toolbars
-has been completely redesigned to make it easier to manage them.
-
-* You can now drag widgets to sort them within a toolbar, as well as drag them
-  between columns in the main toolbar.
-* You can now double-click a widget to quickly open its settings window.
-
-### New icon customization
-
-Widgets that support customizable icons now allow you to pick from
-different icon types: Game icons, Font Awesome, Text Glyphs, and Bitmap icons.
-Double-clicking an icon in the icon picker window will now select the icon.
-
-### New settings interface
-
-The settings interface has been completely redesigned to make it easier to
-navigate. It is now much easier to create custom themes, simply by setting
-4 dominant colors.
-
-### Graphical updates
-
-Umbra's drawing system has seen a significant overhaul, resulting in better
-performance and adding a couple of notable features: Subpixel rendering, a new
-layout engine, and support for hairline strokes. The latter eliminates
-graphical glitches where thin borders suddenly appear to be gone or 2px
-wide. Rounded corners now also appear as actual antialiased rounded corners.
-
-The new layout engine also allows for much more complex layouts without the
-need to manually compute the positions and size of elements on every frame.
-This results in _much better performance_ in complex widgets like the Gearset
-switcher or the settings window.
+- Fixed an issue with UI scaling not correctly working with the toolbar.
+- Fixed an issue in which the toolbar margin did not position the widgets correctly in the left column.
+- Fixed an issue in which icons were scaled too large with custom UI scaling.
+- Fixed an issue with overlapping/bad positioned columns in the toolbar when the toolbar wasn't stretched.
+- Fixed an issue in which disabled menu items did not have a "disabled" visual representation.
+- Fixed an issue in which disabled menu items were still clickable in the Unified Main Menu.
+- Fixed an issue with the animation playing on repeat in the Currencies Widget (The animation has been removed entirely)
+- Fixed an issue in the Currencies widget where the value of the tracked currency wasn't shown together with the label when sub-text is disabled.
+- Re-added the option to show/hide role titles in the Gearset Switcher.
+- Re-added the visual distinction between roles on gearset buttons in the Gearset Switcher.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
