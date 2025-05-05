@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "c141eb72da053a849e02db8013a4d58c030ceb91"
+commit = "330c4f6ec7e4a73874fb063e3de6130b5cea5b93"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added player table to Rival Wings tracker.
-* Reworked refresh for most tabs. Matches are now processed asynchronously. This can reduce refresh times by up to 50%.
-* Rescaled Rival Wings color values.
-* Fixed an exception on Crystalline Conflict job and player Time On Crystal columns.
-* Fixed Rival Wings summary per minute stats not calculating properly.
-* Fix for a game crash that could occur after a Rival Wings match.
+* Added Crystalline Conflict timeline tracking with crystal progress, map events, knockouts and limit breaks all recorded.
+* Added 'Timeline' and 'Graphs' tabs to the Crystalline Conflict match details window.
+* Added 'Meta' tab to Frontline tracker window.
+* Fixed '/lastmatch' not loading the correct match.
+* Tentative fix for Crystalline Conflict rematches not working (needs verification).
+* Minor UI tweaks and bug fixes.
 """
