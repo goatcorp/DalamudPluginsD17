@@ -1,17 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "3a07cf2d48b68adaaada6a9550e8d5c74fb14e98"
+commit = "4d4d7c4cc95b812b07f27bc8086246fe13e0f0d6"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.10"
+version = "1.1.0.11"
 changelog = """\
 **Added**
- - Added a verbose logging toggle, for those having issues with price updates not being picked up please turn on verbose logging then attempt to view prices and send the log to me
+ - A user-agent is now sent with universalis requests
 
 **Fixes**
- - Fix rare slow plugin unload
- - Dates will now sort correctly instead of by their string value
+ - A bug was causing all universalis listings to be considered HQ even if the item cannot be HQ, when the plugin next loads these entries will be removed
 
 """
