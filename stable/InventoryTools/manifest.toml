@@ -1,13 +1,21 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "b3bb4c117125b0c74958e2adf0b153f7ec54ab07"
+commit = "e7d3fdd553da4ea930da77696c43281aeb298aa7"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.4"
+version = "1.12.0.6"
 changelog = """\
-**Added**
- - Added ability to enable verbose logging
+
+### Added
+- Added sources/uses for Battle/Gathering/Crafting/Company leves
+- Added sources for Triple Triad Cards
+- The acquisition tracker now supports Market Board purchases and craft lists have a setting to toggle tracking these purchases
+
+### Fixed
+- Changes to the way grouped sources are displayed
+- Fixed potential crash in the new acquisition tracker
+- Improvements to the way certain sources are drawn
 
 """

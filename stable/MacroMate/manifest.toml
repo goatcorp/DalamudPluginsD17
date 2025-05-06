@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "ba5050f0f9d9e8b29cabf35b7f5ea8b44be9c43a" 
+commit = "453120a198befb60e058d98e345fc44da1dbe968" 
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.24.1"
+version = "1.0.24.2"
 changelog = """
-- Added 'is not' operator for all conditions
-- Added "Add 'And' Condition" bulk edit action
+- Add 'Map Flag - Location' condition
 """
