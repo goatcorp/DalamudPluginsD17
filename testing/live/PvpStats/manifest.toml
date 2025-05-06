@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "330c4f6ec7e4a73874fb063e3de6130b5cea5b93"
+commit = "7c6d99bb5749580ebbb81156d4ab7e38960165cc"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added Crystalline Conflict timeline tracking with crystal progress, map events, knockouts and limit breaks all recorded.
-* Added 'Timeline' and 'Graphs' tabs to the Crystalline Conflict match details window.
-* Added 'Meta' tab to Frontline tracker window.
-* Fixed '/lastmatch' not loading the correct match.
-* Tentative fix for Crystalline Conflict rematches not working (needs verification).
-* Minor UI tweaks and bug fixes.
+* Added snapshotting options to Crystalline Conflict match details timeline view.
+* Added event icons to the Crystalline Conflict match details graph view.
+* Fixed some player link conditions not working as intended.
+* Fixed leaky hooks.
+* Hid some irrelevant statuses from player snapshots.
 """
