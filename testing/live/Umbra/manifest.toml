@@ -1,27 +1,24 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "795d2f2ad6da25330eeea4739c9c8827e43a2024"
+commit = "922a2ba4423ece78afda439ef5642af9bf53c211"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.3 (Testing)
+# Umbra 3.0.4 (Testing)
 
 ## New Additions
 
-- Added the "/umbra-aux" chat command that allows you to hide auxiliary bars by their name.
-- Added a font size option for menu popups of widgets.
+- Added a settings & shutdown/logout button to the Unified Main Menu (for that extra Windows XP flavour)
 
 ## Fixes & Improvements
 
-- Add missing translations to companion and gearset switcher widgets (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Strip soft hyphens from main menu entries.
-- Eliminate jitter when moving things around.
-- Fixed the mouse activation area for the toolbar in auto-hide mode when using custom margins.
-- Fixed the CompassWidget not working correctly with camera angles when Marker Compass is disabled. 
-- Fixed the visual distinction for disabled widgets in the Settings Window.
-- Fixed a missing translation for the Create Gearset button in the Gearset Switcher.
-- Re-add gearset button size options for the Gearset Switcher.
-- Re-add the "hide prefix" option in the Gearset Switcher to hide certain gearsets starting with the given prefix text.
+- Fixed categories in the Game Icon Picker not showing in the correct language after changing it (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Fixed the Ko-Fi support link (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixed the shown Umbra version in the Settings Window (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Fixed broken icons in the Game Icon Picker window.
+- Fixed a crash caused by the Volume Widget.
+- Fixed the Grand Company seal cap in the Currencies Widget.
+- Show a crash-logger window when a widget fails to instantiate for easier reporting.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
