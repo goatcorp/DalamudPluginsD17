@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "cce7de64a92e4d686c028fe4a1e3234a66ed5485"
+commit = "90cfa1d5161cb8cdcec3e508ea1bc896d739ffcf"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Updated plugin icon. 
-- BLU will now export with a party bonus of 1.
+- Added shorthand commands (/xge and /xgeconfig)
+- Added the ability to export gear sets by right-clicking them on the gear set list
 """
