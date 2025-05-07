@@ -1,21 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "e7d3fdd553da4ea930da77696c43281aeb298aa7"
+commit = "c231a901d4db16b7f013f8577f8806fcd7a81024"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.6"
+version = "1.12.0.7"
 changelog = """\
 
 ### Added
-- Added sources/uses for Battle/Gathering/Crafting/Company leves
-- Added sources for Triple Triad Cards
-- The acquisition tracker now supports Market Board purchases and craft lists have a setting to toggle tracking these purchases
+- The craft overlay will now show a uptime icon for nodes that have uptimes
+
+### Changed
+- More safety around the ODR scanner
 
 ### Fixed
-- Changes to the way grouped sources are displayed
-- Fixed potential crash in the new acquisition tracker
-- Improvements to the way certain sources are drawn
+- Improvements to the acqusition tracker, should hopefully be more accurate and take into account processing delays
 
 """
