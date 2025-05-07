@@ -1,12 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "a7f1eefb1276f19a8c927acbe313e3520095f637"
+commit = "4d4d7c4cc95b812b07f27bc8086246fe13e0f0d6"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.8"
+version = "1.1.0.11"
 changelog = """\
- - Fixed an issue with universalis dates not being converted into the user's time which would make them newer/older than they should be(unless you were in UTC)
- - Moved "Sourced From" into tooltip icon
+**Added**
+ - A user-agent is now sent with universalis requests
+
+**Fixes**
+ - A bug was causing all universalis listings to be considered HQ even if the item cannot be HQ, when the plugin next loads these entries will be removed
+
 """

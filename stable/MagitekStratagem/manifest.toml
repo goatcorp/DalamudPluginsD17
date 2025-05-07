@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "e8489d8a5aa9bc4f05a729d2b6b68d8751048c8b"
+commit = "3c98cebed2cebd67c97e0dbb74a98ad32d512e91"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+Version 0.12.0.1:
+- Fix: Plugin crashes if Tobii is selected as source but no Trackers are connected
+
 Version 0.12.0.0:
 - Upgrade to API12
 - Removed native integrations and native Dll loading, should minimize potential crashes and isolate the game from instability.

@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Blooym/Dalamud.SettingsEnhanced.git"
+owners = [ "Blooym" ]
+project_path = "SettingsEnhanced"
+commit = "75641e5812378592665102bf7723e9c6a3883721"

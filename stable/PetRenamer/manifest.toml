@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9231761f09ce9d7e5f38fbbfb6154f3b9cc8c0d5"
+commit = "affcc108ac10e25dfe55af2ea2e82bf2ff8f8f74"
 owners = ["Glyceri"]
 	changelog = """
-[2.4.0.2] 
-- Tentative fix for afk lag issue. (I'm quite confident this is the actual fix).
+[2.4.0.4] 
+- Fixes Crashes on the staging branch. (Genuinely only 50% my fault this time c:)
+
+(Please restart your game for Pet Nicknames to function again).
 """
