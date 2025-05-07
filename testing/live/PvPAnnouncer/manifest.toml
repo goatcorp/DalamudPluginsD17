@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "2a2745f7cc8d79b5dae5b39510a61fdb8d83d15b"
+commit = "b7c9fafc90c415f5ce939a8992ad632c3bc6af2e"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "New Plugin! Report any issues or suggestions."
+changelog = "Metem's Battle talk now shows up when he speaks!"
