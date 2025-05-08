@@ -1,20 +1,17 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c231a901d4db16b7f013f8577f8806fcd7a81024"
+commit = "5954cb182fad5ab786d6423877cc0e177a77c24a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.7"
+version = "1.12.0.8"
 changelog = """\
-
 ### Added
-- The craft overlay will now show a uptime icon for nodes that have uptimes
-
-### Changed
-- More safety around the ODR scanner
+- Custom Button and Custom Link Button columns added
+- Troubleshooting section allowing you to tweak the acquisition tracker's timings
+- Holding down CTRL and scrolling while viewing a grouped source will let you scroll through each tooltip
 
 ### Fixed
-- Improvements to the acqusition tracker, should hopefully be more accurate and take into account processing delays
-
+- Improvements to the acquisition tracker
 """
