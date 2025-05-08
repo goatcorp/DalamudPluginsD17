@@ -1,9 +1,13 @@
   [plugin]
   repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
-  commit = "311e448d2b74c77dd5136fa3a8af2839dc387282"
+  commit = "1a98c9e841806d0ff14598a5fd88e0b4c9359ca4"
   owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
   changelog = """
+  # The Great Controller Hud Switcher 1.1
+  - Updated to DT 7.2
+  - Added collection enabling / disabling upon switching
+
   # The Great Controller Hud Switcher 1.0.1.3
   - Updated to DT 7.1
   - Added hide chat on switch when changing hud layout

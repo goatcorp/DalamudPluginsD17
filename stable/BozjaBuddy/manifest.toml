@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "6ee0849b5465ded2882b062ef05f9e682f915d47"
+commit = "0fc585e08412ee0d33af9248d823f36fbf0b63aa"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-[1.1.6.4] Added new servers in DRS community tab
+[1.1.6.6] API bump. Modified the build script.
 """

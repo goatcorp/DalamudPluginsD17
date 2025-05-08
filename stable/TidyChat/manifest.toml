@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "06e759140b458a7b64a1389ec9345a87c1d4a1fd"
+commit = "76756baefaa13a9faed3c95682c16cf6d98298f1"
 owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "Fix emote-related error spam. Be sure to thank Jaksuhn for the contribution."
+changelog = "API Bump"

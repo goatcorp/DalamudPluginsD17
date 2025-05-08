@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "bcc82999bff6b6b1a56c02796c557b1f61ae36e9"
+commit = "32dcd1e38a8e9a6eeffbde9ab8ba5b8f4bcba24b"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed camera bouncing in character select when using the "Character model position" Camera follow setting
+- Fixed crash on login when using a Solution 9 (and maybe some other zone I wasn't aware of) title screen
 """

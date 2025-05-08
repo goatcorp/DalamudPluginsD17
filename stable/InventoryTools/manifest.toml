@@ -1,14 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1f184750dc725dde8fedcd848627d109255350a6"
+commit = "c231a901d4db16b7f013f8577f8806fcd7a81024"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.0"
+version = "1.12.0.7"
 changelog = """\
- - API12 support
- - Craft Window can now import garland tools group URLs
- - Are recipes completed filter/column now only show recipes that can actually be completed in the log
- - Thank you for your patience and the horses
+
+### Added
+- The craft overlay will now show a uptime icon for nodes that have uptimes
+
+### Changed
+- More safety around the ODR scanner
+
+### Fixed
+- Improvements to the acqusition tracker, should hopefully be more accurate and take into account processing delays
+
 """

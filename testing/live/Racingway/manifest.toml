@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "aa8cf0d17e600a35a6a568c13a133bfd6e3e3a60"
+commit = "ea09ef6da5879345d43f600207bc5cd72451df51"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.4 [TESTING]
-- Fix lag in routes tab
+v0.0.6.7 [TESTING]
+- Add "Purge Duplicates" and "Clear" buttons to records tab
+- Add string normalization to imported routes
 """

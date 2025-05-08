@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "5e7e18799dc49985421aa18de427b59c24a34776"
+commit = "453120a198befb60e058d98e345fc44da1dbe968" 
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.21.2"
+version = "1.0.24.2"
 changelog = """
-- Fix crash when editing empty macros
-- 'Duplicate Macro' now copies Use Macro Chain flag
+- Add 'Map Flag - Location' condition
 """

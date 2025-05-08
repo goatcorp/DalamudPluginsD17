@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "e599ed60c144f05d3b2c77cb8834586c5baae232"
+commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Patch 7.2 update.
+* Fix map links and loot not tracking with abbreviated name settings.
+* Announcing a map should now no longer overwrite your stored map link.
 """

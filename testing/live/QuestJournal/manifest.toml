@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/QuackieMackie/QuestJournal.git"
+commit = "4d918a33792561f2c697bd2ba52ad8f0fe45614b"
+owners = ["QuackieMackie"]
+project_path = "QuestJournal"
+changelog = "Added Censorship to main quest starter locations. To enable this head into the settings tab and just check the 'Censor starter locations for MSQ' setting."

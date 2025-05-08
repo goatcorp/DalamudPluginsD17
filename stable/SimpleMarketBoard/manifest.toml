@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "b415b2f61c78d5d745eb703113edba8f7e400cca"
+commit = "6075b3053ae2a850e7f3d7f00db30bb627f46858"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
@@ -17,4 +17,5 @@ Fixed Problems:
 + 1.9.5.0: Update to API 11.
 + 1.9.5.1: Update to API 12.
 + 1.9.5.2: Minor fixes.
++ 1.9.5.3: Fix world not available on login.
 """

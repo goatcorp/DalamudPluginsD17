@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "462d11511c62265f88670db25152befbe20fa5c9"
+commit = "1bdfe01742259c891433523720d506f9972a7129"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Fixed issues with map button link
-- Fixed map territory data loading
-- Fixed gathering location parsing
+changelog = """- Update for API 12
  """

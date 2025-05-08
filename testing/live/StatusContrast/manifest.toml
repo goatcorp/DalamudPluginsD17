@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Olaren15/ffxiv-status-contrast.git"
+commit = "fc0a335b23d50322f678d0d49042af9135e15dc9"
+owners = ["Olaren15"]
+project_path = "StatusContrast"
+changelog = """
+- Added settings window
+  - Allow previewing the backgrounds
+  - Allow fixing the backgrounds gaps
+  - Allow changing the background's color
+"""

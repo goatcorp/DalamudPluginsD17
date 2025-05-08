@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "aba67be22f9a44f4ed5a97abbceca889e1b06697"
+commit = "a2c72e4ea99d70b0adad9601a707f02789052a0d"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Game version 7.2 / API 12 compatibility\
-- Append datacenter name to the world name when Cross-DC is selected\
+- Fix context menu for HQ items\
 """

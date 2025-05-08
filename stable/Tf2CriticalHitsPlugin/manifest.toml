@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-tf2-crit-plugin.git"
-commit = "eddc5307b6cdf51cf82df5eddd96a6dca4f68b57"
+commit = "4febed44daad9ee573f642f939d7f4a19baa3165"
 owners = ["jkchen2"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Update for 7.11
-- Add sound preloading
+Fix regression bug with loading specific wav files on Windows
 """
