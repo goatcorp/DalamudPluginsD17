@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/NightmareXIV/CashFlow.git"
 # The commit to check out and build from the repository.
-commit = "c4e906e76ba6ef16a33bc25f477e6868c6262f15"
+commit = "b8f2c1578d37d7a65510af26e5c744e809b34338"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Limiana"
