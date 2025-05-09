@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "bd32036f8372f2b6ac7d3861f7cac2e593d95e4c"
+commit = "67b87fa0ad299c5f016911c8159549f59c072694"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Metem's Battle talk now shows up when he speaks!"
+changelog = "Added Battle High V + Flying High announcements, edited a few existing events."
