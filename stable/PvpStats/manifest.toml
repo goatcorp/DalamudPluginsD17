@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "53ff20925f17f9dc6260c1834f8b4ee2f8122cb5"
+commit = "7c6d99bb5749580ebbb81156d4ab7e38960165cc"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added new match records for Frontline and Rival Wings.
-* Added validation for known misrecords in Rival Wings tracker.
-* Performance improvement on player tab filters.
+* Added Crystalline Conflict timeline tracking with crystal progress, map events, knockouts and limit breaks all recorded.
+* Added 'Timeline' and 'Graphs' tabs to the Crystalline Conflict match details window.
+* Added 'Meta' tab to Frontline tracker window.
+* Fixed '/lastmatch' not loading the correct match.
+* Tentative fix for Crystalline Conflict rematches not working (needs verification).
+* Fixed some player link conditions not working as intended.
+* Minor UI tweaks and bug fixes.
 """
