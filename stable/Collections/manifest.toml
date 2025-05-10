@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "5cb6cf27640f3917b294d84bb462b42a44183e94"
+commit = "e8d8217ee0285706b9a7227fc1a451a69b5c3368"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.4
-- Fix dresser issue
-- Auto hide obtained items on Instance tab
+Collections v1.0.2.5
+- Fix dresser crash issue
 """
