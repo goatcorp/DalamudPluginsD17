@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Ibcrootbeer/RetainerAlerts.git"
+commit = "93db2b12fd741bc211883fcf29894d344bcf1f4e"
+owners = ["Ibcrootbeer"]
+project_path = "RetainerAlerts"
+changelog = "Removed un-needed nuget package."
