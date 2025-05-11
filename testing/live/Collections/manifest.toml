@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "5cb6cf27640f3917b294d84bb462b42a44183e94"
+commit = "ca637dbec1de6a4493492717c3aed03ae3c9ef94"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.4
-- Fix dresser issue
-- Auto hide obtained items on Instance tab
+Collections v1.0.2.6
+- New collections: Orchestrion, Outfit, Framer Kit, Fashion Accessory and Facewear collections
+- Re-added checkmark to collected items
+- Added patch information to (most) collectibles, pulled from LuminaSupplemental
+- Added dye slot icons to glamour collectibles
+- Added sort by options to collectibles
+- Added PvP series and Submarine sources
 """
