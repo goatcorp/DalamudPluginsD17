@@ -3,4 +3,4 @@ repository = "https://github.com/spide-r/PvPAnnouncer.git"
 commit = "cb459da3adb9bbee9fd0f71a6a075b3199fec5cc"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Added Battle High V + Flying High + Execution announcements, edited a few existing events."
+changelog = "Moved to Stable!"
