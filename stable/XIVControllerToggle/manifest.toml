@@ -1,9 +1,12 @@
   [plugin]
   repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
-  commit = "b40d8e26989b03954096d2cc45618474eb19bb34"
+  commit = "48b0560bdb9d1bf81e699ebb1669fa0a9c7d7a6d"
   owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
   changelog = """
+  # The Great Controller HUD Switcher 1.2.1
+  - Fix issue with several configuration variables not saving.
+
   # The Great Controller HUD Switcher 1.2
   - Added UI Scaling option to change scaling when swapping between KBM / PAD.
 
