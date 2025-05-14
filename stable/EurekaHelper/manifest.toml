@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "8affa9a8ccbad52ed3234ef118279407e7678dfa"
+commit = "b1f665d4c1bc43208ad1d7f884408aadd75d554e"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Fix ShoutToChat
+- Fix /etrackers crashing game
 """
