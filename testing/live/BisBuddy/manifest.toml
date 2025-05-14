@@ -1,16 +1,11 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "faf870bca70b2f358f338f6dbbde39090f5bdfcf"
+commit = "73628620d4a7e98dd5186fa9204d395641cb0b72"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Added**
- - Gearsets can now have unique highlight colors
- - Refresh config menu visuals and rearrange setting locations
- - Add "Bright List Items" toggle under General Settings to allow for more transparent list highlights.
 **Fixes**
- - Fix an issue with some item name parsing in other languages
- - Fix an issue with shop node highlights not disappearing when the list shortens
- - Fix an issue with custom UIs where the list highlight isn't transparent ("Bright List Items")
- - Fix an issue with custom UIs where the list highlight texture is wrong
+ - Fix prerequisites for collected items being highlighted
+ - Fix obtained prerequisites not being highlighted properly
+ - Fix obtainable items not being highlighted in shops to purchase
 """
