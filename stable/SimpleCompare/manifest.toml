@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Cyenia/ffxiv-simplecompare.git"
+commit = "8185fa04520468b513cf53e155ef9bb2f461c962"
+owners = ["Cyenia"]
+project_path = "SimpleCompare"
+changelog = """
+- Improved stat difference display with clearer separation and formatting.
+- The comparison windows will no longer be rendered outside of the game.
+"""
