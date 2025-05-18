@@ -1,10 +1,20 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "ea09ef6da5879345d43f600207bc5cd72451df51"
+commit = "9fc5089be70e9b4699695d322cf7079e34a8a0bb"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.7 [TESTING]
-- Add "Purge Duplicates" and "Clear" buttons to records tab
-- Add string normalization to imported routes
+v0.0.6.9 [TESTING] - HUGE thanks to TrainerHol
++ Add toggles for requiring ground checks
++ Add toggle for timer window buttons
++ Show trigger type names in dropdown
++ Created a new Loop trigger type
+  - Loop trigger starts the race when the player exits and ends when they enter again
++ Added timer buttons for opening main window and clearing lines
++ Filter fields for:
+  - Date range (start and end dates)
+  - Player name (case-insensitive contains filter)
+  - Time (minimum and maximum in seconds)
+  - Distance (minimum and maximum values)
++ CSV export uses filtered records
 """
