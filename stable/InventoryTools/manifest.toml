@@ -1,21 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "739d510faba8d0ce3ed329f14f2fb3e2918d0992"
+commit = "34c9cc597e067af7eb9a56b991d24be815cab14d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.9"
+version = "1.12.0.10"
 changelog = """\
-### Changed
-- Collectable items are now supported in craft lists
-- Retainer Retrieval can now be configured to only show NQ/Collectable items
-- The acquisition tracker now counts collectables when crafted
-
-### Fixed
-- The market pricing column was not updating for items that were not specifically set to be bought off the market
-
 ### Added
-- Added Is Collectable filter/column
-- Added Can Be HQ filter/column
+- Equipment Recommendations System was added, it's available from Windows inside any AT plugin window
+  - This new window helps you find gear which you can then add to a craft/curated list
+  - It has two modes
+  - Class/Job - Find levelling gear for a specific class/level
+  - Tool/Weapon - Find all the main hand/off hand items for a set of classes(Crafting, Gathering, Combat)
+  - Can be opened with /atrecommend or /atr
+
+### Changed
+- Item tooltips inside plugin windows now include stats
 """
