@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "d755ed4bd2e6d8d297906e61555e90c50abbe42e"
+commit = "0df603001fb0c7fc9cdc2aee653215eee1ccf7a1"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix out of bound on an icon loading array
+- **Events**: Add The Make It Rain 2025
 """
