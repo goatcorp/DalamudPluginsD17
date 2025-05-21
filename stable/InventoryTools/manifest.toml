@@ -1,20 +1,24 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "34c9cc597e067af7eb9a56b991d24be815cab14d"
+commit = "13a171c6742fa11b373b35c6a325907920c9fbdf"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.10"
+version = "1.12.0.11"
 changelog = """\
+### Fixed
+- Fixed an issue in craft lists where multiple items requiring the same item would want more than was actually needed. This only occurred on sub-items that had a Yield above 1.
+- The off-hand item can now be unselected in the equipment suggestion window
+- The context menu integration has been fixed when right clicking on an item in the hand-in npc in the firmament
+
 ### Added
-- Equipment Recommendations System was added, it's available from Windows inside any AT plugin window
-  - This new window helps you find gear which you can then add to a craft/curated list
-  - It has two modes
-  - Class/Job - Find levelling gear for a specific class/level
-  - Tool/Weapon - Find all the main hand/off hand items for a set of classes(Crafting, Gathering, Combat)
-  - Can be opened with /atrecommend or /atr
+- The equipment suggestion category drop down now has extra options for combat, Melee/Tank/Ranged/Caster
+- A loading icon was added to the equipment suggestion window when results are being calculated.
 
 ### Changed
-- Item tooltips inside plugin windows now include stats
+- The HQ stats in item tooltips are now absolute
+- Large inventory files should load faster
+- The equipment suggestion system will now suggest items outside the range shown if no items are available. An icon will be displayed indicating if this is the case.
+
 """
