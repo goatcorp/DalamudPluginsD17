@@ -1,0 +1,10 @@
+[plugin]
+repository = 'https://github.com/foophoof/Tourist.git'
+commit = '081ff82baae9f01446af13f413d43e829f755ba6'
+owners = [ 'foophoof' ]
+changelog = """\
+### Changed
+- Rewrote plugin to use more modern APIs and ways of doing things. Functionality and UI should remain the same.
+- Changed versioning strategy, the second part of the version number will be the API version going forward (i.e. 1.12.x.y are the versions for API12).
+
+"""
