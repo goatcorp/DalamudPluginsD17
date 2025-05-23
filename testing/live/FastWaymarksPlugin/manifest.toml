@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/SamuelSapp/FastWaymarksPlugin.git"
-commit = "31a95dcd16e38e7cd14c78617c8a236b39ec1391"
+commit = "d6aad095fc511fff693e996c98c03c3ce27d9cce"
 owners = ["SamuelSapp"]
 project_path = "FastWaymarksPlugin"
 changelog = "Initial Submission"
