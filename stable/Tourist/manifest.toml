@@ -1,5 +1,12 @@
 [plugin]
 repository = 'https://github.com/foophoof/Tourist.git'
-commit = '32e83f8d1d46f81ef1210bc770a6931f398a576c'
+commit = '30731aecccc7a00f297e2b706552de3072ec5c18'
 owners = [ 'foophoof' ]
-changelog = 'API 12'
+changelog = """\
+### Fixed
+- Grouping by zone is fixed
+
+### Changed
+- Rewrote plugin to use more modern APIs and ways of doing things. Functionality and UI should remain the same.
+
+"""
