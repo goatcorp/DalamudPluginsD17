@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "e850cb61b157494ce673272e398b8a524bb292fd"
+commit = "c07286d88a4046c931ad188aac4c9d18b9f4d902"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
@@ -10,4 +10,5 @@ changelog = """
 * Resized some UI components to work better with non-standard font settings.
 * Fixed ranked tier being lost on Crystal players who abandon the match.
 * Frontline 'Highest Battle High chain' record will now not count deaths as part of the chain.
+* Improved auto player linking query performance.
 """
