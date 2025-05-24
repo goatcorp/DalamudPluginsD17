@@ -1,24 +1,19 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "13a171c6742fa11b373b35c6a325907920c9fbdf"
+commit = "535d290d11dd62bd3c92011abc35fe6d6718ac4a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.11"
+version = "1.12.0.12"
 changelog = """\
 ### Fixed
-- Fixed an issue in craft lists where multiple items requiring the same item would want more than was actually needed. This only occurred on sub-items that had a Yield above 1.
-- The off-hand item can now be unselected in the equipment suggestion window
-- The context menu integration has been fixed when right clicking on an item in the hand-in npc in the firmament
+- Fixed a bug where HQ items were not correctly handled by the acquisition tracker.
 
 ### Added
-- The equipment suggestion category drop down now has extra options for combat, Melee/Tank/Ranged/Caster
-- A loading icon was added to the equipment suggestion window when results are being calculated.
+- Duties added as a source to craft lists.
+- Added a ingredient patch filter/column/tooltip. This lets you determine the highest patch a ingredient is used in.
 
 ### Changed
-- The HQ stats in item tooltips are now absolute
-- Large inventory files should load faster
-- The equipment suggestion system will now suggest items outside the range shown if no items are available. An icon will be displayed indicating if this is the case.
-
+- The equipment recommendation's select highest iLvl button now takes item stats into consideration.
 """
