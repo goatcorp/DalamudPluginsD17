@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "1a7e4aad0c71ff8de299b188b1c26d0c2226cd20"
+commit = "e850cb61b157494ce673272e398b8a524bb292fd"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed an error.
+* Added Kill Participation stats to all game modes.
+* Added Patch 7.28 and Season 15 as time filter options.
+* Added Win. Diff column to Crystalline Conflict Summary tab for player stats.
+* Resized some UI components to work better with non-standard font settings.
+* Fixed ranked tier being lost on Crystal players who abandon the match.
+* Frontline 'Highest Battle High chain' record will now not count deaths as part of the chain.
 """
