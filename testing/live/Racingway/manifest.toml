@@ -13,4 +13,8 @@ v0.1.0.1 [TESTING]
 Fixes:
 + Fix triggers not updating in the route when using the gizmo
 + Fix losing gizmo when changing the trigger type
++ Fix loop trigger logic
+  - Start/finish behaviour should now match the chosen behavior setting
+  - Loops should no longer stop working after a few seconds (oops)
+  - Loops should detect player after them going through a fail trigger now
 """
