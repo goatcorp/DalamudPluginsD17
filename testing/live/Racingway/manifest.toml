@@ -1,24 +1,16 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "8637d69ea672e7d7582dec23713c9023eb9029c2"
+commit = "6f3c996c7148651b298238c2cdfcda6fe0d92ecd"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.1.0.0 [TESTING]
-+ Add new Gizmo for transforming triggers.
-  + Hold ctrl to edit scale.
-+ Cleanup Routes tab
-  + Moved behavior options to dropdown
-  + Trigger settings now get their own scrollbar
-  + Move trigger type dropdown to a popup
-  + Add buttons for moving triggers up/down
-  + Highlight triggers in game when hovered
-  + Add snapping options for gizmo
-+ Add loop trigger type info to About tab
-+ Add customizable trigger colors
-+ Move to ZLinq queries for a marginal performance boost
+v0.1.0.1 [TESTING]
++ Add smoothing to line replays and creation
++ Add points when a player lands or jumps for more accurate lines
++ Move all collision detection off-thread.
+  - If you notice any time accuracy loss please let me know. (There shouldnt be any)
 
 Fixes:
-+ Disallow negative trigger scales to avoid unwanted behavior
-+ Fix errors popping up when entering a trigger
++ Fix triggers not updating in the route when using the gizmo
++ Fix losing gizmo when changing the trigger type
 """
