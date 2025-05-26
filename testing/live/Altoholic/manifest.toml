@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "0df603001fb0c7fc9cdc2aee653215eee1ccf7a1"
+commit = "1650de363c78d5d030024deb00abc6c78a86db4c"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Events**: Add The Make It Rain 2025
+- **Collection**: Add search bar for each tab (by NebulousByte)
 """
