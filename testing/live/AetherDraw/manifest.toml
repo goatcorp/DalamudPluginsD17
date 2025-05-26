@@ -1,7 +1,7 @@
 # testing/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "7dd538858f40abc716f5f7d816f7cbcb069fd3cb" # The commit hash you identified earlier
+commit = "d0ebc2321ab97d3f70332bf7a07b1290621b0b8e" # The commit hash you identified earlier
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
 changelog = "Initial release of AetherDraw - a whiteboard and raid planning tool!"
