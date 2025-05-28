@@ -1,16 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "4d4d7c4cc95b812b07f27bc8086246fe13e0f0d6"
+commit = "46e8ee7df1423f2a2fabf1b5624a80dd81fbb962"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.11"
+version = "1.1.0.12"
 changelog = """\
-**Added**
- - A user-agent is now sent with universalis requests
-
 **Fixes**
- - A bug was causing all universalis listings to be considered HQ even if the item cannot be HQ, when the plugin next loads these entries will be removed
+ - Fixed a bug where no HQ listings being received from universalis would wipe out NQ entries leading to a no data available situation
 
 """
