@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "1650de363c78d5d030024deb00abc6c78a86db4c"
+commit = "f4989d708b69c706faa4ea6c1b2d1cb740eb1734"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Collection**: Add search bar for each tab (by NebulousByte)
+- **General**: Update with first batch of 7.25 items
 """
