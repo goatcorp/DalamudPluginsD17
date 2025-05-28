@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "5cc2e19142cbe5717465220193e6afb5f412e5e9"
+commit = "514a83c024f0841d9f96ac5e2cffeed246a7fc52"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganItemSearch"
-version = "1.0.0.3"
+version = "1.0.0.4"
 changelog = """\
-- Move out of testing
+- Added filters/sources for battle/company/gathering leves, gardening crossbreeds, quests and triple triad
 """
