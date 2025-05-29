@@ -1,15 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "9384b2811ec96960513dfb5979e7bbc234a2ecdd"
+commit = "915889585db28641bd2775f356c3b984f26d900f"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.13"
+version = "1.12.0.14"
 changelog = """\
 ### Added
-- Initial 7.25 data
-- More coffer data should be available
-- The unlock status of Framers kits should reflect correctly(thanks to Haselnussbomber <3)
+- Hotkeys should be working and stay working
+- The collectable/hq icon should now display correctly in the craft overlay
 
 """
