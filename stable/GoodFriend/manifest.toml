@@ -1,10 +1,7 @@
 [plugin]
 repository = "https://github.com/Blooym/GoodFriend.git"
-commit = "4000b84249fb7eff7af34e11a05006a363264acc"
+commit = "7416af1a14e9233e7331fb236e27f39f33df42f4"
 owners = [
     "Blooym",
 ]
 project_path = "src/Plugin"
-
-[plugin.secrets]
-CLIENT_KEY = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA8VKHN+sZChTGlmKqrkibgVSEfTZMhFje6W/OnrzH\nECUwOAHZBRv1Fh7hk9savI1t6r09LQsIAnsfBrpvtgoSFnm2gMvX0V6+iP4p\nYawBUZsR0nEBgn2Dx+8Rwr1tDZiAH8BCfH5TZeVV9DaIV3wlx8qb9GrW69+j\nDx+Lg5vcbP3N+0R+XRDszJOSn9q+WuWtD5Q7oBf9aDp4mVMjqrLqOxk2mjCy\nfitsi41QsRlJ/tExg0bWsd0Xt+qPvhk0nmWMf1Zxgg==\n=3Nyi\n-----END PGP MESSAGE-----\n"
