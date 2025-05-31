@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Glyceri/XivFatalFrame.git"
+commit = "9d08ef976227118ffc56566a2880e6c3c2623ba5"
+owners = ["Glyceri",]
+	changelog = """
+[1.0.0.0]
+Full Release of Fatal Frame
+
+This plugin takes screenshots when you die,
+or do other things like complete a quest or get an achievement.
+"""
