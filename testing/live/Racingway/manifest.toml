@@ -1,10 +1,20 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "f9e63c4b5bd951e8443d523a40f32f9fc4370f2d"
+commit = "b5328fe73d336e7b456e1d5fb2319e6df678fe38"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.6 [TESTING]
-- Add stylization options for race lines
-- Add the ability to delete individual records
+v0.1.0.1 [TESTING]
++ Add smoothing to line replays and creation
++ Add points when a player lands or jumps for more accurate lines
++ Move all collision detection off-thread.
+  - If you notice any time accuracy loss please let me know. (There shouldnt be any)
+
+Fixes:
++ Fix triggers not updating in the route when using the gizmo
++ Fix losing gizmo when changing the trigger type
++ Fix loop trigger logic
+  - Start/finish behaviour should now match the chosen behavior setting
+  - Loops should no longer stop working after a few seconds (oops)
+  - Loops should detect player after them going through a fail trigger now
 """

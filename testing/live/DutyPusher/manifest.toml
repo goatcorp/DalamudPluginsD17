@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "0ef5d9874849f677615af1b69df1bd3aeb87e3b8"
+commit = "4ee12c37122e95bf953f1791d4e0d7e9e8ee2114"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Update to API12
-Update Guide URL
+Add ntfy.sh as a notification push service provider
 """
