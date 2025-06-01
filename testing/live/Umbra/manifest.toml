@@ -1,17 +1,23 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "db5617448d3b28b1dae8e56cbbf6eb81fb974a30"
+commit = "8e4251d04c000b116315bdc1a3616e4d4307d7fa"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.5 (Testing)
+# Umbra 3.0.6 (Testing)
+
+## New additions
+
+- Add aetheryte point for MaMool Ja tribe (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Add world marker type for Occult Survey Points
+- Add world marker type for Occult Pots (akin to bunny fates in Eureka) (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
 
 ## Fixes & Improvements
 
-- Fix missing translation in the tooltip of the unread mail indicator widget (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Hide completed Aether Current world markers after collecting one.
-- Removed a left-over debug message when toggling auxiliary bars using the `/umbra-aux` chat-command.
-- Added an option to show map names in the condensed layout of the Teleporter Widget.
+- Fixed teleport cost not updated after switching zones in the Teleport Widget.
+- Fixed a word-wrapping issue in the tab-description texts in the settings window.
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
