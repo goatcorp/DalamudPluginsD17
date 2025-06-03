@@ -1,7 +1,7 @@
 # testing/live/WDIGViewer/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/WDIGViewer.git"
-commit = "f8b3d7cb4e23abed5a199eb555e74741b5c518b8"  # The commit hash you identified earlier
+commit = "bb7fd8077423c011bc611b5e46156230c599073b"  # The commit hash you identified earlier
 owners = ["rail2025"]
 # project_path = "WDIGViewer" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
 changelog = "moved settings and reload button, version update"
