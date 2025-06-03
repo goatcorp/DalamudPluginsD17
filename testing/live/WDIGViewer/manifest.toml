@@ -1,9 +1,9 @@
 # testing/live/WDIGViewer/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/WDIGViewer.git"
-commit = "6aac273eb6ed8a04afeb8ff9840938d09169fed9"  # The commit hash you identified earlier
+commit = "f8b3d7cb4e23abed5a199eb555e74741b5c518b8"  # The commit hash you identified earlier
 owners = ["rail2025"]
 # project_path = "WDIGViewer" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "Added 2 bosses in Forked Tower, auto opening image based on supported duty/zone"
+changelog = "moved settings and reload button, version update"
 # Ensure you check the DalamudPluginsD17 README for any other required or recommended fields.
 # Fields like "DalamudApiLevel" might be auto-detected from your plugin's JSON if not specified here.
