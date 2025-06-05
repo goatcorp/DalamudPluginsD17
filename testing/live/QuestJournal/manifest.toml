@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "4d918a33792561f2c697bd2ba52ad8f0fe45614b"
+commit = "d6d90788c135c3877b5274fb34adc9b9316d331e"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
-changelog = "Added Censorship to main quest starter locations. To enable this head into the settings tab and just check the 'Censor starter locations for MSQ' setting."
+changelog = "Added Chronicles of a New Era quest chains."

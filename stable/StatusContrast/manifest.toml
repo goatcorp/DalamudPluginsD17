@@ -5,8 +5,4 @@ owners = ["Olaren15"]
 project_path = "StatusContrast"
 changelog = """
 - 1.0.0 release
-- Added support for more status icons
-    - Focus target
-    - Non-split target
-    - Party list
 """

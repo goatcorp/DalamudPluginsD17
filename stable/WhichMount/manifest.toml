@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "9067a3817431d61c9ed8c22f03c16f390aa5742e"
+commit = "f6adc19aa7613003fa8399f043cef0cf0b9f1641"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.0.1.0"
+version = "1.0.1.1"
 changelog = """
-Version 1.0.1.0:
-  - Updated data for mounts in 7.2 patch
+Version 1.0.1.1:
+  - Updated data for mounts in 7.25 patch
 """
