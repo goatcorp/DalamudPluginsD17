@@ -1,20 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "2b7049a209f5874a2a4050ec25fd4b2651fcef06"
+commit = "b15a8b8f683d51ff15fc64775c3ea717031dbca0"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.15"
+version = "1.12.0.16"
 changelog = """\
 ### Added
-- Sources for Card Packs, PoTD, HoH, Orthos, Anemos, Pagos, Pyros, Hydatos, Bozja, Logograms, Occult, PvP Series and Collectable Shops added (thanks to tracky's data for some of this!)
-- Certain quests will now show rewards
-- Certain sources will now show the probability of dropping and min and max drop amounts.
-- Setting to disable items when highlighting in shops(off by default)
+- Chat2 integration for item context menu
 
 ### Fixed
-- Crystals could sometimes ignore the retrieval order in craft lists
-- The craft overlay will now display properly when using a different ui scale
-
+- When a craft list was set to use HQ by default, items that cannot be HQ were being checked resulting in items not being considered for retrieval
+- Fixed loggers being cleared
 """
