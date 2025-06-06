@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/fast-job-switcher.git"
-commit = "c6884a24bd9b5e5b6f77e2bb429056159042055e"
+commit = "bf3b760c38e772b3981391d9697e736782baf262"
 owners = ["meoiswa"]
 project_path = "FastJobSwitcher"
 changelog = """
-Version 2.2.0.0:
- - Updated to API12
+Version 3.0.0.0:
+ - bc: Removed separate Uppercase and Lowercase Configurations, all commands are now available in either case.
+ - feat: Added support for Phantom Jobs
 """
