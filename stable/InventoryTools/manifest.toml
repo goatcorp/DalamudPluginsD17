@@ -1,16 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "b15a8b8f683d51ff15fc64775c3ea717031dbca0"
+commit = "c3dc244427d781239534d238d6e2b0508e9e4754"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.16"
+version = "1.12.0.17"
 changelog = """\
-### Added
-- Chat2 integration for item context menu
-
 ### Fixed
-- When a craft list was set to use HQ by default, items that cannot be HQ were being checked resulting in items not being considered for retrieval
-- Fixed loggers being cleared
+- Fixed potential crash when loading if Chat2 is not installed
 """
