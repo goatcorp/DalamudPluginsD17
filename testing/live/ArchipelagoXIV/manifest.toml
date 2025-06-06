@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "70255c65a697d6b606b71568fdb888a1eb86eb7f"
+commit = "117cab0bd98e79607f9b7c9c8fb57d2da498dc2b"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "More FATE name related fixes.  Also, we support passwords now!"
+changelog = "Fixed checks for Ocean Fishing and Fetes"

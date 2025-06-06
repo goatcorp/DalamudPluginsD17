@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9231761f09ce9d7e5f38fbbfb6154f3b9cc8c0d5"
+commit = "d5bd0c355b7679a3fbb69e5b9abbe32460babe36"
 owners = ["Glyceri"]
 	changelog = """
-[2.4.0.2] 
-- Tentative fix for afk lag issue. (I'm quite confident this is the actual fix).
+[2.4.0.5] 
+- Disabled the IPC watcher temporarily was it was causing many bugs.
 """

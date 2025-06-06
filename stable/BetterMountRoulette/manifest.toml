@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "d0816b9ca617f1555820144dd774573fef006030"
-version = "1.7.0.25"
+commit = "c001c27fd8e2fd9c7849ce8b00c4d3067b606fbd"
+version = "1.7.2.27"
 owners = ["CMDRNuffin"]
-changelog = """Update for 7.2
-
-Also
-- Made Flying Mount Roulette button in Mount Guide and Action List opt-out
-- Hid most error messages
-- Made the remaining error messages opt-out"""
+changelog = """Bugfix:
+- Properly update action list upon enabling and disabling the flying mount roulette action
+- Removed a racing condition that would very rarely crash the game on boot"""

@@ -1,14 +1,20 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "f3d9828eec44ab1ea48a4319d546920a7e90ca7a"
+commit = "b5328fe73d336e7b456e1d5fb2319e6df678fe38"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.5 [TESTING]
-- Fix records tab
-- Add importing records (they're very large at the moment)
-- Make right-click to display records work for loaded routes
+v0.1.0.1 [TESTING]
++ Add smoothing to line replays and creation
++ Add points when a player lands or jumps for more accurate lines
++ Move all collision detection off-thread.
+  - If you notice any time accuracy loss please let me know. (There shouldnt be any)
 
-Known Issues:
-- Highlighted record loses it's color when you start a race
+Fixes:
++ Fix triggers not updating in the route when using the gizmo
++ Fix losing gizmo when changing the trigger type
++ Fix loop trigger logic
+  - Start/finish behaviour should now match the chosen behavior setting
+  - Loops should no longer stop working after a few seconds (oops)
+  - Loops should detect player after them going through a fail trigger now
 """

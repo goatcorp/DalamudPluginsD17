@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "b85b6b4e19da97b4a95c96c425c3f7e4938caa69"
+commit = "3c02043f5543509f0c577730b24c7931aabd9c86"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Removed file integrity check after files are downloaded
+- You can select which songs will be played in the randomized queue
 """

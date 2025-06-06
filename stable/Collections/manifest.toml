@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "f872b796bb2b0bbafc29db069d54bc7d81931135"
+commit = "e8d8217ee0285706b9a7227fc1a451a69b5c3368"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.3
-- Update to API 12
+Collections v1.0.2.5
+- Fix dresser crash issue
 """
