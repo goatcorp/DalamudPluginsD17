@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "71f230df6d8c0f72617e9ec2cbeb888b80cbc3f6"
+commit = "9e621461c0f40f6cd163ab7f6fe0c79441d1dd08"
 owners = ["meoiswa"]
 project_path = "ClarityInChaos"
 changelog = """
 
 Version 2.2.0.0:
- - Option to higlight player characters different colors.
- - Update to API12
+    - Added Occult Crescent to Alliance Raid as a Misc. Duty
 """
