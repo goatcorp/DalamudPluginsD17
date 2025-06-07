@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mokocup/OccultCrescentHelper.git"
-commit = "b106679cee565f58bb0055df16e9dd4c37fb1232"
+commit = "eee6f37c83d04f19ea84db4b02147da62cb57202"
 owners = ["mokocup"]
 project_path = "OccultCrescentHelper"
 changelog = "Initial Release"
