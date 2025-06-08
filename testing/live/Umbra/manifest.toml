@@ -1,21 +1,25 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "8e4251d04c000b116315bdc1a3616e4d4307d7fa"
+commit = "55cb0a463c9762f882ad6218a297e925b6d1cd99"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.6 (Testing)
+# Umbra 3.0.7 (Testing)
 
 ## New additions
 
-- Add aetheryte point for MaMool Ja tribe (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Add world marker type for Occult Survey Points
-- Add world marker type for Occult Pots (akin to bunny fates in Eureka) (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Added a script system for dynamic button labels, allowing for placeholders in custom button labels in widgets.
+- Added phantom job icons to the Game Icon Picker window.
 
 ## Fixes & Improvements
 
-- Fixed teleport cost not updated after switching zones in the Teleport Widget.
-- Fixed a word-wrapping issue in the tab-description texts in the settings window.
+- Fixed popup flyout position on vertically aligned auxiliary bars.
+- Fixed a missing tooltip translation on the Import button of widgets (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixed an issue where treasure world markers would remain visible after opening them.
+- Slight improvements in performance in the Dynamic & Collection button widgets.
+- Increased the URL character limit from 100 to 4096 characters in DynamicMenu entries.
+- Currencies Widget: Use overflow color in the progress bar when a currency is capped.
+- Currencies Widget: Use the weekly caps instead of global ones for the limited tomestones.
 
 ---
 
