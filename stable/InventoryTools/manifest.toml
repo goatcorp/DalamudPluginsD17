@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c3dc244427d781239534d238d6e2b0508e9e4754"
+commit = "65e7b3334bd55e3c6377b7cc838d848e3118b338"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.17"
+version = "1.12.0.18"
 changelog = """\
 ### Fixed
-- Fixed potential crash when loading if Chat2 is not installed
+- Changed the default ingredient preference order making desynthesis & reduction less likely to be selected when there are better options available
+- Added checks to stop sources being self-referential in craft lists
 """
