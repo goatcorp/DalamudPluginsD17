@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "65e7b3334bd55e3c6377b7cc838d848e3118b338"
+commit = "722f629a33c28498a18916435a1d8e4673719e99"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.18"
+version = "1.12.0.19"
 changelog = """\
 ### Fixed
-- Changed the default ingredient preference order making desynthesis & reduction less likely to be selected when there are better options available
-- Added checks to stop sources being self-referential in craft lists
+ - When a list was set to require HQs but individual items were set to be NQ, they'd still be counted as HQ
+ - Changed the ingredient preference loop detection logic to consider preferences further up the tree
+
 """
