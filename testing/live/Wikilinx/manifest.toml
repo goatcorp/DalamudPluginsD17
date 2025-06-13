@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/in1tiate/Wikilinx-Dalamud.git"
+commit = "eb667835ab65ac50b741bbc61a1926f4682da00b"
+owners = ["in1tiate"]
+project_path = "WikilinxPlugin"
+changelog = "Language support, slash command support"

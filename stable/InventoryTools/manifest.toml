@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "915889585db28641bd2775f356c3b984f26d900f"
+commit = "722f629a33c28498a18916435a1d8e4673719e99"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.14"
+version = "1.12.0.19"
 changelog = """\
 ### Fixed
-- Hotkeys should be working and stay working
-- The collectable/hq icon should now display correctly in the craft overlay
+ - When a list was set to require HQs but individual items were set to be NQ, they'd still be counted as HQ
+ - Changed the ingredient preference loop detection logic to consider preferences further up the tree
 
 """
