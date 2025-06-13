@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "28476121e7fd8738d8a076663d438eb384fde35b"
+commit = "6881fcce24f9e954ffdb4479f6c2c0d0733bfe47"
 owners = [
-    "megurte"
+    "Megurt"
 ]
 project_path = "WhichMount"
-version = "1.2.0.0"
+version = "1.2.0.2"
 changelog = """
-Version 1.2.0.0:
+Version 1.2.0.2:
   - Visual mount database presenter
   - New command /mountlist that shows database
   - Search function
