@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "0fc42758d4c75d0e60a0c61ba9fa930ea5acdff4"
+commit = "40e17597ebeec6e118191b8397bfd41f86813cf1"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Bug fixed;
-Add new commands;
-Migration to Dalamud.NET.Sdk;
+Add Icon to Chat for notify the enable state;
+Update Documents.
 """
