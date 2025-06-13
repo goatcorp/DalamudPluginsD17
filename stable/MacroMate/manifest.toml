@@ -1,10 +1,26 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "d7233a537aba21d0cf8c62f06ebf799d61064a34"
+commit = "8612d66403c06392e106fdcec030ba8d944ad515"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.24.3"
+version = "1.0.25.0"
 changelog = """
-- Add 'RawUrl' subscription yaml option
-- Better subscription error reporting
+**Auto Translate is now fully supported**
+
+- Tab completion can be used in the Macro Editor
+- Help text is now shown when hovering supported completions
+- Copy/Paste of translations to/from the game is still supported
+
+**UI Improvements**
+
+- The currently edited Macro is now highlighted
+- The Macro Edit window title is now the path to the macro (previouly "Macro")
+- Subscription Group sync errors are now shown on impacted macros
+- Groups now expand when clicked anywhere on the group
+
+**Bug Fixes**
+
+- Fix 'Subscription > Check for Updates' clearing 'Needs Update' status
+- Fix bug causing input text cursors to jump around in unpredictable ways when
+  Macro window was open
 """

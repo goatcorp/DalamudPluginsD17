@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c3dc244427d781239534d238d6e2b0508e9e4754"
+commit = "722f629a33c28498a18916435a1d8e4673719e99"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.17"
+version = "1.12.0.19"
 changelog = """\
 ### Fixed
-- Fixed potential crash when loading if Chat2 is not installed
+ - When a list was set to require HQs but individual items were set to be NQ, they'd still be counted as HQ
+ - Changed the ingredient preference loop detection logic to consider preferences further up the tree
+
 """
