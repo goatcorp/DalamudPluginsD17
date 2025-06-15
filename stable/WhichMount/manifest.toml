@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "9067a3817431d61c9ed8c22f03c16f390aa5742e"
+commit = "6881fcce24f9e954ffdb4479f6c2c0d0733bfe47"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.0.1.0"
+version = "1.2.0.2"
 changelog = """
-Version 1.0.1.0:
-  - Updated data for mounts in 7.2 patch
+Version 1.2.0.2:
+  - Visual mount database presenter
+  - New command /mountlist that shows database
+  - Search function
 """

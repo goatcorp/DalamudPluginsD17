@@ -1,17 +1,27 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "db5617448d3b28b1dae8e56cbbf6eb81fb974a30"
+commit = "d554ae93718143144593110a1e33dcb0e1e89205"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.5 (Testing)
+# Umbra 3.0.7 (Testing)
+
+## New additions
+
+- Added a script system for dynamic button labels, allowing for placeholders in custom button labels in widgets.
+- Added phantom job icons to the Game Icon Picker window.
 
 ## Fixes & Improvements
 
-- Fix missing translation in the tooltip of the unread mail indicator widget (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Hide completed Aether Current world markers after collecting one.
-- Removed a left-over debug message when toggling auxiliary bars using the `/umbra-aux` chat-command.
-- Added an option to show map names in the condensed layout of the Teleporter Widget.
+- Fixed popup flyout position on vertically aligned auxiliary bars.
+- Fixed a missing tooltip translation on the Import button of widgets (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixed an issue where treasure world markers would remain visible after opening them.
+- Slight improvements in performance in the Dynamic & Collection button widgets.
+- Increased the URL character limit from 100 to 4096 characters in DynamicMenu entries.
+- Currencies Widget: Use overflow color in the progress bar when a currency is capped.
+- Currencies Widget: Use the weekly caps instead of global ones for the limited tomestones.
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

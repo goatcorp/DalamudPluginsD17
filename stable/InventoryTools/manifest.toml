@@ -1,19 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "535d290d11dd62bd3c92011abc35fe6d6718ac4a"
+commit = "722f629a33c28498a18916435a1d8e4673719e99"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.12"
+version = "1.12.0.19"
 changelog = """\
 ### Fixed
-- Fixed a bug where HQ items were not correctly handled by the acquisition tracker.
+ - When a list was set to require HQs but individual items were set to be NQ, they'd still be counted as HQ
+ - Changed the ingredient preference loop detection logic to consider preferences further up the tree
 
-### Added
-- Duties added as a source to craft lists.
-- Added a ingredient patch filter/column/tooltip. This lets you determine the highest patch a ingredient is used in.
-
-### Changed
-- The equipment recommendation's select highest iLvl button now takes item stats into consideration.
 """

@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "0df603001fb0c7fc9cdc2aee653215eee1ccf7a1"
+commit = "517c08e282b625d783fc9e4631f87c3c3fa357b5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Events**: Add The Make It Rain 2025
+- **General**: Auto scan collection items every minutes.
+- **Database**: Fix mistake that reset tribes every time the plugin load.
+- **Progress**: Add Mamool'ja's minion reward.
 """
