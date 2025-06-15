@@ -7,7 +7,7 @@ owners = [
 project_path = "AllaganItemSearch"
 version = "1.0.0.5"
 changelog = """\
--Added hotkey to open main window
+- Added hotkey to open main window
 - Added setting to clear search filters when closing the main window
 - Clicking an item with no modifiers held will try to open the More Information window for the item in AT
 - Added sources/use filters for Card Packs, PoTD, HoH, Orthos, Anemos, Pagos, Pyros, Hydatos, Bozja, Logograms, Occult, PvP Series and Collectable Shops
