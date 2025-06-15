@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/rreminy/IHateCapsLock.git"
+commit = "fa43e1c5899cc95693bd7b5370f5ddeb17b873ac"
+owners = ["rreminy"]
+project_path = "IHateCapsLock"
+changelog = "Testing Release"
