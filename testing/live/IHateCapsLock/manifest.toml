@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rreminy/IHateCapsLock.git"
-commit = "fa43e1c5899cc95693bd7b5370f5ddeb17b873ac"
+commit = "87e5f85da219c1d667582b89085b3a242ff8b02a"
 owners = ["rreminy"]
 project_path = "IHateCapsLock"
-changelog = "Testing Release"
+changelog = "Check for return / enter key using native calls as well."
