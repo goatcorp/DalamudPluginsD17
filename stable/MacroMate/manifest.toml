@@ -1,26 +1,12 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "8612d66403c06392e106fdcec030ba8d944ad515"
+commit = "6f5e8cd363f942dea14bc6066a3bb50da1fbf06f"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.25.0"
+version = "1.0.25.1"
 changelog = """
-**Auto Translate is now fully supported**
-
-- Tab completion can be used in the Macro Editor
-- Help text is now shown when hovering supported completions
-- Copy/Paste of translations to/from the game is still supported
-
-**UI Improvements**
-
-- The currently edited Macro is now highlighted
-- The Macro Edit window title is now the path to the macro (previouly "Macro")
-- Subscription Group sync errors are now shown on impacted macros
-- Groups now expand when clicked anywhere on the group
-
-**Bug Fixes**
-
-- Fix 'Subscription > Check for Updates' clearing 'Needs Update' status
-- Fix bug causing input text cursors to jump around in unpredictable ways when
-  Macro window was open
+- Warn on unowned macros in Subscription Groups
+- Add 'Fix Issue' action to delete unowned macros in Subscription Groups
+- Add `ExecutingCraftingAction` and `ExecutingGatheringAction` to `PlayerConditions`
+- Update 'Auto Translate' help text
 """
