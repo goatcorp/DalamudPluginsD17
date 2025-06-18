@@ -1,0 +1,4 @@
+[plugin]
+repository = "https://github.com/Cytraen/HandyHotbarHelper.git"
+commit = "8e8774b7ebc8cfca7b8196e638a30bada2aaba38"
+owners = ["Cytraen"]
