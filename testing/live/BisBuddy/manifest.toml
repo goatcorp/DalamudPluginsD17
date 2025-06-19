@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "91112b805087401a99a8530e18953561c9b0fc98"
+commit = "73628620d4a7e98dd5186fa9204d395641cb0b72"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Added**
- - Will attempt to highlight marketboard results needed to purchase
- - Item names in UI will now change with game language changes
- - Reduce size of exported gearset JSONs
 **Fixes**
- - Rewrite to UI interfacing to (hopefully) fix crashes
- - Fix new coffers not being highlighted or showing up as prerequisites 
+ - Fix prerequisites for collected items being highlighted
+ - Fix obtained prerequisites not being highlighted properly
+ - Fix obtainable items not being highlighted in shops to purchase
 """

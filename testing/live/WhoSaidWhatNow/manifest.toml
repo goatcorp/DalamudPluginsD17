@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/perappu/WhoSaidWhatNow.git"
-commit = "392248cb4d6ef9e6dd62aaecf864ff0ef96b3047"
+commit = "a3b606579522846687ebe93215fb34ad9a64b389"
 owners = ["perappu", "erunseelie"]
 project_path = "WhoSaidWhatNow"
-changelog = "Update for 7.2"
+changelog = "v0.6.2 - bugfixes and imgui handling"

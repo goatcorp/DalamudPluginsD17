@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
+commit = "5cd2643cd963174c495df415d558d3541a475b2b"
+owners = ["VioletStardustXIV"]
+project_path = "XivGearExport"
+changelog = """
+- Exports now include the gearset name as the name of the xivgear set and sheet. 
+"""

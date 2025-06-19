@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "b1956ddaf0a2640de174ffdc790a561bf26d2e63"
+owners = ["haroldiedema"]
+project_path = "Umbra"
+changelog = """
+# Umbra 3.0.8 (Testing)
+
+## Fixes & Improvements
+
+- Fixed a crash when opening the Volume Widget after logging out and back in.
+- Added a "Disable Custom Plugins" button to the crash report dialog. Note that you still need to manually reload Umbra via Dalamud's plugins window.
+
+---
+
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
+"""

@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "0ef5d9874849f677615af1b69df1bd3aeb87e3b8"
+commit = "40e17597ebeec6e118191b8397bfd41f86813cf1"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Update to API12
-Update Guide URL
+Add Icon to Chat for notify the enable state;
+Update Documents.
 """

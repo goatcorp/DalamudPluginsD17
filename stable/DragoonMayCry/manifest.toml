@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "c0b0ba5ca9e16cf1c18673faffcbc42cc32933c4"
+commit = "3c02043f5543509f0c577730b24c7931aabd9c86"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- New command '/dmc next' to play the next BGM when set to 'Randomize' (outside of combat only)
-- Devils Never Cry 
+- You can select which songs will be played in the randomized queue
 """

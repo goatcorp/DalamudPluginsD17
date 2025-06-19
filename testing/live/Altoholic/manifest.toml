@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "667fd19a437185bcbfba78e0c0e5c5beda72abf5"
+commit = "517c08e282b625d783fc9e4631f87c3c3fa357b5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Adding Hatching-tide seasonal event and 7.2 MSQ
+- **General**: Auto scan collection items every minutes.
+- **Database**: Fix mistake that reset tribes every time the plugin load.
+- **Progress**: Add Mamool'ja's minion reward.
 """
