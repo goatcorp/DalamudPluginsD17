@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "ece9bb1403161e81cd65c69d06100f2fcb90948e"
+commit = "9f7436d00e6baaabb0a9ca32ea7ba2f6521870d6"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 0.13.0.0:
-- Feat: Added experimental support for Opentrack UDP (Listening at 127.0.0.1:4242)
+Version 1.0.1.0:
+- Feat: Added Head Position and Rotation tracking (Unused by MagitekStratagem)
+- Feat: Added Shared Data `MagitekStratagemPlugin.TrackerData`, with active tracker data, for other plugins to use.
 
 Known Issues:
 - Windowed mode is currently unsupported.
-- Some entities are not returning to normal after being highlighted by raycast or proximity detection.
 """
