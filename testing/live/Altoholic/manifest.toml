@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "517c08e282b625d783fc9e4631f87c3c3fa357b5"
+commit = "017cd29ae6f7ddba88b73bda62f9410a4b5d9960"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Auto scan collection items every minutes.
-- **Database**: Fix mistake that reset tribes every time the plugin load.
-- **Progress**: Add Mamool'ja's minion reward.
+- **General**: Change framerkit loading method.
+- **Progress**: Add Mamool'ja's framer's kit reward.
 """
