@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "0657ff028c2c9013cc9faf11bdff1b0f8f486045"
+commit = "1f1946f8824938072fe273953ea46b7a646471a8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix mamool ja rank reward (7 to 8). Add missing triple triad card reward.
+- **Progress**: Fix wrong orchestrion number check for mamool ja's
 """
