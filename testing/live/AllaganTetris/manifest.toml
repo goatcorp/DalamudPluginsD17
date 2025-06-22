@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganTetris.git"
+commit = "01dfcf7eae1a60919d7f93aa8cc6482e7d2267ce"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganTetris"
+version = "1.0.0.0"
+changelog = """\
+First release of Allagan Tetris!
+Enjoy a not so faithful recreation of the classic game
+"""
