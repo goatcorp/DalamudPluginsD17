@@ -2,7 +2,7 @@
 repository = "https://github.com/Zeffuro/AbilityAntsPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "be101108372b1106de5988d338a5fd788e104033"
+commit = "5cfb1133e122edc98ee0744f18447e08e771a3f9"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,6 +15,6 @@ project_path = "AbilityAntsPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		#1.0.0.5
-		Add support for abilities that are also available without a job crystal (for example: Lance Charge, Life Surge for Dragoon | Mug and Trick Attack on Ninja) 
+		#1.0.0.6
+		Add support AST Cards after using Play 
 		"""
