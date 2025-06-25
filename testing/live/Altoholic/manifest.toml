@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "11edc39110d3fc91c1c009e53a1639e27384651f"
+commit = "1f1946f8824938072fe273953ea46b7a646471a8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add plugin version in titlebar. Migrate way to detect beast tribe/societal relations
-- **Progress**: Add Hildibrand 7.25. Add mamool ja reward up to trusted.
+- **Progress**: Fix wrong orchestrion number check for mamool ja's
 """

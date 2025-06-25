@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "4ee12c37122e95bf953f1791d4e0d7e9e8ee2114"
+commit = "40e17597ebeec6e118191b8397bfd41f86813cf1"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Add ntfy.sh as a notification push service provider
+Add Icon to Chat for notify the enable state;
+Update Documents.
 """

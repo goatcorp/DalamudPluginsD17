@@ -1,21 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "8e4251d04c000b116315bdc1a3616e4d4307d7fa"
+commit = "b1956ddaf0a2640de174ffdc790a561bf26d2e63"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.6 (Testing)
-
-## New additions
-
-- Add aetheryte point for MaMool Ja tribe (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Add world marker type for Occult Survey Points
-- Add world marker type for Occult Pots (akin to bunny fates in Eureka) (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+# Umbra 3.0.8 (Testing)
 
 ## Fixes & Improvements
 
-- Fixed teleport cost not updated after switching zones in the Teleport Widget.
-- Fixed a word-wrapping issue in the tab-description texts in the settings window.
+- Fixed a crash when opening the Volume Widget after logging out and back in.
+- Added a "Disable Custom Plugins" button to the crash report dialog. Note that you still need to manually reload Umbra via Dalamud's plugins window.
 
 ---
 
