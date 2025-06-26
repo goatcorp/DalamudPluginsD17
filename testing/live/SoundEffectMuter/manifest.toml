@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/spide-r/SoundEffectMuter.git"
+owners = [ "spide-r"]
+commit = "c917505c698069b149ad02ef594014f7ac026ea9"
+changelog = "Initial Release!"
