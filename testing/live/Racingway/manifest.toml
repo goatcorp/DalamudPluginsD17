@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "3432e4a5e79b9909fd3fd5ac78668f54d4a84953"
+commit = "fa110bf3f589c4d1286169d88ab02640462c033f"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.1.1.0 [TESTING]
-+ Checkpoints have a reason to exist now
-+ Added splits
-+ Added markers on the minimap for loaded routes (icons will probably be changed)
-+ Added render distance slider
-+ Exported records should be smaller now
+v0.1.1.1 [TESTING]
++ Added laps
++ Slight adjustments to wording
++ Fixed splits not being cleared when hitting a fail
+- Removed the Line Quality setting
 """
