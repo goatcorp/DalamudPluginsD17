@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
-commit = "ab7ee333ac545d89149860c16228b80ae85fddf1"
+commit = "7959eae1139e4124aa1e632b61c5acff782fd305"
 owners = ["SalvatoreDevelopment"]
 project_path = ""
 changelog = "Initial release: listen to radio in FFXIV! Streams online radio stations in-game with a modern UI. No API key required, no usage limits." 
