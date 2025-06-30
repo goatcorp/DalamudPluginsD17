@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
-commit = "7272187bd0bb9678b20424dc3ecbfb387c7dcdc1ff187bd"
+commit = "b80f37f6d49d55ab203fa4b51c91eaec40456ac0"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
 changelog = "Initial release with Radio Browser API integration. Modern UI with search, filters, and volume controls. Automatic station loading and duplicate filtering. Comprehensive error handling and user feedback. Developer workflow automation with build scripts. Support for English and Italian languages." 
