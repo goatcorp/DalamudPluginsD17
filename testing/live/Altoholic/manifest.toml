@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "1f1946f8824938072fe273953ea46b7a646471a8"
+commit = "c7995498a94ce3b75f86d899fa88bc1a905a5fa2"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix wrong orchestrion number check for mamool ja's
+- **Progress**: Adding Moogle Treasure Trove The hunt for Allegory rewards
 """
