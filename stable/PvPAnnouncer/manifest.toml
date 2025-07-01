@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "d66401844881686f56383ea375d435d325f0ab01"
+commit = "e24c8577fa60631228b7e59b8760a139de850a2a"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "PvPAnnouncer brings Metem to your PvP Matches! He will comment on actions in real-time just like in The Arcadion."
+changelog = "Added new Voice Lines and made preparations for Rival Wings!"
