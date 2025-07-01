@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/QuackieMackie/QuestJournal.git"
+commit = "d6d90788c135c3877b5274fb34adc9b9316d331e"
+owners = ["QuackieMackie"]
+project_path = "QuestJournal"
+changelog = "Added Chronicles of a New Era quest chains."

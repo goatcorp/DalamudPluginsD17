@@ -1,8 +1,23 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "97b20852fc265ae3d27f08be4bc48a20e9182615"
+commit = "dc41fb0a6245bf844f9dccc19abaee58552b26c3"
 owners = ["Glyceri",]
 	changelog = """
-    [2.3.0.1]
-    Fixes sharing not working.
+[2.4.1.0]
++ Added an IPC Dampener (this might mean nicknames sync later on many quick sequential namechanges).
++ Added the option to rename pets via command.
+
+Command Format:
+/petname [action] [target selector] [nickname] [edge colour] [text colour]
+
+Example commands:
+/petname set "Hedgehoglet" "George"
+/petname clear "Hedgehoglet"
+/petname set minion "George" <100, 100, 100>
+/petname set target "George" keep <255, 255, 255>
+/petname set 2442 "George" clear keep
+
+Note:
+Unused parameters will default to "keep".
 """
+

@@ -1,0 +1,9 @@
+# testing/live/WDIGViewer/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/WDIGViewer.git"
+commit = "bb7fd8077423c011bc611b5e46156230c599073b"  # The commit hash you identified earlier
+owners = ["rail2025"]
+# project_path = "WDIGViewer" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
+changelog = "moved settings and reload button, version update"
+# Ensure you check the DalamudPluginsD17 README for any other required or recommended fields.
+# Fields like "DalamudApiLevel" might be auto-detected from your plugin's JSON if not specified here.

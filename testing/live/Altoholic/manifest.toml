@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "517c08e282b625d783fc9e4631f87c3c3fa357b5"
+commit = "1f1946f8824938072fe273953ea46b7a646471a8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Auto scan collection items every minutes.
-- **Database**: Fix mistake that reset tribes every time the plugin load.
-- **Progress**: Add Mamool'ja's minion reward.
+- **Progress**: Fix wrong orchestrion number check for mamool ja's
 """
