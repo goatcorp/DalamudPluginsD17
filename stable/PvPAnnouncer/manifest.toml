@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "b18c588c9c01be07ad4a26c73fa9c6fae8bce00b"
+commit = "e24c8577fa60631228b7e59b8760a139de850a2a"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
 changelog = "Added new Voice Lines and made preparations for Rival Wings!"
