@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "c7995498a94ce3b75f86d899fa88bc1a905a5fa2"
+commit = "5b3ff704b1fda6d1a0b975391d954965a9ce420f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Adding Moogle Treasure Trove The hunt for Allegory rewards
+- **Inventory**: Add armory, retainers's, glamour dresser and armoire inventories to the All search results. Fix armoire icon check for character and retainer inventory
 """
