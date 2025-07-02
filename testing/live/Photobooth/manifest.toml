@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/iri-impulse/Photobooth.git"
+repository = "https://github.com/iri-impulse/PhotoboothPlugin.git"
 commit = "3134da67349fcc8b70fa1d1a15a22d6af7ef8349"
 owners = ["iri-impulse"]
 project_path = "Photobooth"
