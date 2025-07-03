@@ -1,20 +1,13 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "3c98cebed2cebd67c97e0dbb74a98ad32d512e91"
+commit = "9f7436d00e6baaabb0a9ca32ea7ba2f6521870d6"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 0.12.0.1:
-- Fix: Plugin crashes if Tobii is selected as source but no Trackers are connected
-
-Version 0.12.0.0:
-- Upgrade to API12
-- Removed native integrations and native Dll loading, should minimize potential crashes and isolate the game from instability.
-- Built-in standalone server: Tracker integrations are now handled via an child process, automatically managed by the plugin.
-    - To achieve this, the plugin has been given an entrypoint and turned into an AspNet Web project, it can now both be loaded by Dalamud as a Plugin, or run within Dotnet (or via its accompanying .exe) as the Server.
-    - The server automatically starts and stops as needed, and it will also terminate itself if 10 seconds pass with no active connections.
+Version 1.0.1.0:
+- Feat: Added Head Position and Rotation tracking (Unused by MagitekStratagem)
+- Feat: Added Shared Data `MagitekStratagemPlugin.TrackerData`, with active tracker data, for other plugins to use.
 
 Known Issues:
 - Windowed mode is currently unsupported.
-- Some entities are not returning to normal after being highlighted by raycast or proximity detection.
 """

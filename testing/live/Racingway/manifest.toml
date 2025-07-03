@@ -1,20 +1,12 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "b5328fe73d336e7b456e1d5fb2319e6df678fe38"
+commit = "fa110bf3f589c4d1286169d88ab02640462c033f"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.1.0.1 [TESTING]
-+ Add smoothing to line replays and creation
-+ Add points when a player lands or jumps for more accurate lines
-+ Move all collision detection off-thread.
-  - If you notice any time accuracy loss please let me know. (There shouldnt be any)
-
-Fixes:
-+ Fix triggers not updating in the route when using the gizmo
-+ Fix losing gizmo when changing the trigger type
-+ Fix loop trigger logic
-  - Start/finish behaviour should now match the chosen behavior setting
-  - Loops should no longer stop working after a few seconds (oops)
-  - Loops should detect player after them going through a fail trigger now
+v0.1.1.1 [TESTING]
++ Added laps
++ Slight adjustments to wording
++ Fixed splits not being cleared when hitting a fail
+- Removed the Line Quality setting
 """

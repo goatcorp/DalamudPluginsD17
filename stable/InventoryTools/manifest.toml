@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "915889585db28641bd2775f356c3b984f26d900f"
+commit = "84bf54b42880b07003423d629d9959e8825e4dec"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.14"
+version = "1.12.0.20"
 changelog = """\
-### Fixed
-- Hotkeys should be working and stay working
-- The collectable/hq icon should now display correctly in the craft overlay
+### Added
+- Added a new tree view mode for craft lists for quick configuration and visualization of each output item.
 
 """
