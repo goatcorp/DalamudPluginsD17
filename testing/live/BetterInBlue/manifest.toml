@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/harbingerftw/BetterInBlue"
+repository = "https://github.com/harbingerftw/BetterInBlue.git"
 commit = "48c6444ba75fc21ae0000caf4c085c504552cc1b"
 owners = ["harbingerftw"]
 project_path = "BetterInBlue"
