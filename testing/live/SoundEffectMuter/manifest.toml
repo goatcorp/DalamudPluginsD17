@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/SoundEffectMuter.git"
 owners = [ "spide-r"]
-commit = "a40f65eb01e59b2be2319e5d3996bff7acef09db"
+commit = "97ac6d36f27a93b10564e21469a89a3d5887fda7"
 project_path = "SoundEffectMuter"
 changelog = "This plugin silences all text sound effects and quick chat while in PvP zones including the Wolves Den."
