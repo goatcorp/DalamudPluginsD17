@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Zeffuro/StatusTimers.git"
-commit = "e353ef48696b7ad6bbe91e98f4a09acd69a243b6"
+commit = "783f5a9e32cafa6acc71cb9e20e9181af330f995"
 owners = ["Zeffuro"]
 project_path = "StatusTimers"
