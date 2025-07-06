@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "ff55d8f3e2efb1a4b2d8c7c45e34c227d9bc5526"
+commit = "8e81d7511a2d95dfa7ff3eacc1cc7098c268a440"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
 changelog = "New Voice Lines (Including Fighter Introductions), Config cleanup."
