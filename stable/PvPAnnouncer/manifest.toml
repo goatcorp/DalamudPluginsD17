@@ -3,4 +3,4 @@ repository = "https://github.com/spide-r/PvPAnnouncer.git"
 commit = "5b8c3209e70e86e50612c451f8f27ff93adc0e46"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "New Voice Lines (Including Fighter Introductions), Config cleanup."
+changelog = ""
