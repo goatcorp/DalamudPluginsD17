@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "78ff318397a3917b0c02063756b449a1d2cdc3d1"
+commit = "103556bd5ede0fdb92c4f1124f9ad2197a5edc66"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
-- Improved config window user experience
-- Improved compatibility with Simple Tweaks screenshot tweak
+- Implement separate display vs gameplay scaling.
+    - Thanks to NotNite for getting me into the RTM rabbit hole!
+- Fix some hotkey configurations not working properly.
+- Add "Game hang protection" (auto-disable on 1s+ hangs).
 """
