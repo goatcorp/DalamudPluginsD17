@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "1f1946f8824938072fe273953ea46b7a646471a8"
+commit = "5b3ff704b1fda6d1a0b975391d954965a9ce420f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix wrong orchestrion number check for mamool ja's
+- **Inventory**: Add armory, retainers's, glamour dresser and armoire inventories to the All search results. Fix armoire icon check for character and retainer inventory
 """
