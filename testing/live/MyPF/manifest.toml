@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Pistachio-dev/ThisIsMyPartyFinder.git"
+commit = "b23cb454e2ff14ec73f4a8fef426adb8f1d60d92"
+owners = ["Pistachio-dev"]
+project_path = "MyPF"
+changelog = "Initial release"
