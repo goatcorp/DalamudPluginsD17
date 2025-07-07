@@ -1,13 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "84bf54b42880b07003423d629d9959e8825e4dec"
+commit = "d3da7e73bf8a981643d25483cdf6cdf926b9dea2"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.20"
+version = "1.12.0.21"
 changelog = """\
+### Fixed
+- Duties are now stored based off their ID and not the map of the duty as some maps may host more than 1 duty.
+- Fixed a bug that'd cause the craft system to think more crafts were capable then actually were
+- Fixed a bug where the wrong slot was being accessed in glamour chests
+- Fixed a bug when moving the position of a list would not reflect correctly in the UI
+- Switched the majority of ImGui Begin/End's to ImRaii, @ me if you notice anything amiss in the UI
+
 ### Added
-- Added a new tree view mode for craft lists for quick configuration and visualization of each output item.
+- Empty is now an ingredient sourcing options for all items allowing you to source the item in whatever way you wish
 
 """
