@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "d2d517c43228b3fc14702945701a79728a0b5ce8"
+commit = "64690df48be1125f458d9f705685e9fe7894dd5b"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
@@ -8,4 +8,5 @@ changelog = """
     - Thanks to NotNite for getting me into the RTM rabbit hole!
 - Fix some hotkey configurations not working properly.
 - Add "Game hang protection" (auto-disable on 1s+ hangs).
+- 420 - that's the weed number!
 """
