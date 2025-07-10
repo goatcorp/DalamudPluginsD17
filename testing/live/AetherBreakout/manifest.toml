@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/rail2025/AetherBreakout.git"
+commit = "d6a58c858995b980922a29eb8956b4b5c0ef2786"
+owners = [ "rail2025" ]
+changelog = "Version 1.2.0.1:\n- Features:\n  - Added sfx, music, audio controls.\n  - Enhanced paddle collision physics.\n- Bug Fixes:\n  - Fixed power-up icons to mismatch the effects.\n  - Fixed an issue where power-up effects were not resetting correctly.\n  - Fixed the ball speed setting not being applied at the start of a new game."
