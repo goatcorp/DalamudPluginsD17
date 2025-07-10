@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "64690df48be1125f458d9f705685e9fe7894dd5b"
+commit = "fa05bb6383b3b5bcde7b81f5969a71e9a348a264"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
-- Implement separate display vs gameplay scaling.
-    - Thanks to NotNite for getting me into the RTM rabbit hole!
-- Fix some hotkey configurations not working properly.
-- Add "Game hang protection" (auto-disable on 1s+ hangs).
-- 420 - that's the weed number!
+- Fix gameplay scaling with iGPUs (blurry wasn't always blurry)
+- Add a blinking button for those who are stuck on DLSS in the in-game settings despite the dropdown being greyed out.
+- ... and fix the HUD vanishing when the game configuration is in such an invalid state.
+- Rebrand hang protection as lag protection, and give it 4 more frames to consider.
 """
