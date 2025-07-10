@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "5cd2643cd963174c495df415d558d3541a475b2b"
+commit = "9e94004f2708512662f8bbd0221992f70a0b1950"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Exports now include the gearset name as the name of the xivgear set and sheet. 
+- Exports now include correct stats for Endwalker and Shadowbringers relic weapons with selectable stats
+- Fixed regression with exporting job via gearset list while on a different job
 """
