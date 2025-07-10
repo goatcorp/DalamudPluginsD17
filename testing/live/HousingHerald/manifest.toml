@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/mashirochan/FFXIV-HousingHerald.git"
+commit = "7b88d83403ad1f85a36b95efe521b3346c59bcff"
+owners = ["mashirochan"]
+project_path = "HousingHerald"
+changelog = "Initial release"
