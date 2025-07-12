@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "5b3ff704b1fda6d1a0b975391d954965a9ce420f"
+commit = "f11e9a273d16c098d6ac701e750a63e3811e796f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Inventory**: Add armory, retainers's, glamour dresser and armoire inventories to the All search results. Fix armoire icon check for character and retainer inventory
+- **General**: Freeze table headers for various table so scrolling down keep them visible
+- **Progress**: Add total required irregular tomestone for current moogle event and charaters amount at the bottom of the table
 """
