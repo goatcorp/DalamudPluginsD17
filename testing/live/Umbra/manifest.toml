@@ -1,15 +1,25 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "b1956ddaf0a2640de174ffdc790a561bf26d2e63"
+commit = "116033c8716bb2e7cf137c979130fcd4c153a760"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.8 (Testing)
+# Umbra 3.0.9 (Testing)
+
+This is likely the last version before going to stable, unless other pressing issues come up during testing.
+If you found any pressing issues that haven't been reported, please drop by on [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) and let us know.
+
+## New additions
+
+- Added a simple Phantom Job switcher widget.
 
 ## Fixes & Improvements
 
-- Fixed a crash when opening the Volume Widget after logging out and back in.
-- Added a "Disable Custom Plugins" button to the crash report dialog. Note that you still need to manually reload Umbra via Dalamud's plugins window.
+- Hide treasure chest markers as soon as the original game icon starts fading out rather than when the object itself despawns. (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Close the teleport widget popup after clicking a teleport destination. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Visually hide the "Random Job" button in the Gearset Switcher widget popup while using a DoH/DoL job. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added an option to the Volume Widget that lets you customize _what_ to mute/unmute when right-clicking the icon on the toolbar.
+- Added an option to the Teleport widget that lets you define a fixed width of the destination menu when using the condensed layout.
 
 ---
 
