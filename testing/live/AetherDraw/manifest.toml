@@ -1,7 +1,7 @@
 # testing/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "53f5801c70b12075ca917df1df779680871b2cb4" 
+commit = "803ad8fc4be9d72b3725ce27f015dd18b407a0c7" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
 changelog = "v2.2.0.0: Added limit cut 1-8 dots. Added raidplan.io url imports."
