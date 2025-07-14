@@ -1,9 +1,7 @@
 # testing/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "6954fd104e5fca21bba051b51978dc5771c0b8cc" # The commit hash you identified earlier
+commit = "122ed5d07dc947322cad55a62e2840e1cb0b5439" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "load by paste added, bug fixes, version to v2.1.0.0"
-# Ensure you check the DalamudPluginsD17 README for any other required or recommended fields.
-# Fields like "DalamudApiLevel" might be auto-detected from your plugin's JSON if not specified here.
+changelog = "v2.2.1.0: raidplan.io url import fixes."
