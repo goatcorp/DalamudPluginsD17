@@ -1,7 +1,7 @@
 # testing/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "122ed5d07dc947322cad55a62e2840e1cb0b5439" 
+commit = "e0cd8c0c3dcad4936a630661718f25ac3f3273a0" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "v2.2.1.0: raidplan.io url import fixes."
+changelog = "v2.2.1.2: more raidplan.io import fixes, save plan to png fixes."
