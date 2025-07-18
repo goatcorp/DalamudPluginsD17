@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "9f7436d00e6baaabb0a9ca32ea7ba2f6521870d6"
+commit = "d718b102dd2617997d549a1b075f954d8804f2af"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 1.0.1.0:
-- Feat: Added Head Position and Rotation tracking (Unused by MagitekStratagem)
-- Feat: Added Shared Data `MagitekStratagemPlugin.TrackerData`, with active tracker data, for other plugins to use.
+Version 1.0.2.0:
+- Fix: Crashing if Tobii Game Hub is not present, preventing using this plugin with OpenTrack or Beam Eye
 
 Known Issues:
 - Windowed mode is currently unsupported.
