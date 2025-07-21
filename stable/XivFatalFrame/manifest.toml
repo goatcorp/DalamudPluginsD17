@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/XivFatalFrame.git"
+commit = "cbff7b36859fed508380a563bcb81ecb4ffc80f4"
+owners = ["Glyceri",]
+	changelog = """
+[1.0.0.1]
+Tentative fix for taking screenshots upon login.
+"""

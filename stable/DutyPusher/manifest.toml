@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "0ef5d9874849f677615af1b69df1bd3aeb87e3b8"
+commit = "0fc42758d4c75d0e60a0c61ba9fa930ea5acdff4"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Update to API12
-Update Guide URL
+Bug fixed;
+Add new commands;
+Migration to Dalamud.NET.Sdk;
 """

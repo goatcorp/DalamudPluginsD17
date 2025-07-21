@@ -1,16 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "4d4d7c4cc95b812b07f27bc8086246fe13e0f0d6"
+commit = "2f73b4d98fbbf509b11cee93a81bf8d7068b2658"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.11"
+version = "1.1.0.13"
 changelog = """\
-**Added**
- - A user-agent is now sent with universalis requests
-
 **Fixes**
- - A bug was causing all universalis listings to be considered HQ even if the item cannot be HQ, when the plugin next loads these entries will be removed
+ - Fixed issues with the currently selling/sale history tables not refreshing their data
 
 """

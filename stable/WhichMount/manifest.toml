@@ -1,12 +1,21 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "9067a3817431d61c9ed8c22f03c16f390aa5742e"
+commit = "7e444748e9040f20133ee0dc85f8608e496aa1d1"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.0.1.0"
+version = "1.3.5.0"
 changelog = """
-Version 1.0.1.0:
-  - Updated data for mounts in 7.2 patch
+Version 1.3.5:
+  - Unlock mount column in database table
+  - Unlock sorting in database table
+  - Counter of unlocked mounts
+  
+Version 1.3.0:
+  - Fixed mount data with presentation issues up to 7.25 patch
+  - Target mount tooltip
+  - Reworked user configuration
+  - Database sorting functionality
+  - Examples
 """

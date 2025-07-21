@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "ea09ef6da5879345d43f600207bc5cd72451df51"
+commit = "fa110bf3f589c4d1286169d88ab02640462c033f"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.7 [TESTING]
-- Add "Purge Duplicates" and "Clear" buttons to records tab
-- Add string normalization to imported routes
+v0.1.1.1 [TESTING]
++ Added laps
++ Slight adjustments to wording
++ Fixed splits not being cleared when hitting a fail
+- Removed the Line Quality setting
 """

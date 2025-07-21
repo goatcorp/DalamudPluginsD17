@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gposingway/Sightseeingway.git"
-commit = "0e63573f25940ca984ac0029fd9466844c180868"
+commit = "9a2d025fb0d274df84beff26677be581331f2768"
 owners = ["gposingway","LeonAquitaine"]
 project_path = "Sightseeingway"
-changelog = "Configurable name format, improved event handling, and some code housekeeping."
+changelog = "Fixed double chat messages when a new screenshot is taken."

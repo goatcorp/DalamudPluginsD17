@@ -1,21 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "739d510faba8d0ce3ed329f14f2fb3e2918d0992"
+commit = "27d485e074313035518a251ee5eb912a18f5ec1e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.9"
+version = "1.12.0.21"
 changelog = """\
-### Changed
-- Collectable items are now supported in craft lists
-- Retainer Retrieval can now be configured to only show NQ/Collectable items
-- The acquisition tracker now counts collectables when crafted
-
 ### Fixed
-- The market pricing column was not updating for items that were not specifically set to be bought off the market
+- Duties are now stored based off their ID and not the map of the duty as some maps may host more than 1 duty.
+- Fixed a bug that'd cause the craft system to think more crafts were capable then actually were
+- Fixed a bug where the wrong slot was being accessed in glamour chests
+- Fixed a bug when moving the position of a list would not reflect correctly in the UI
+- Switched the majority of ImGui Begin/End's to ImRaii, @ me if you notice anything amiss in the UI
 
 ### Added
-- Added Is Collectable filter/column
-- Added Can Be HQ filter/column
+- Empty is now an ingredient sourcing options for all items allowing you to source the item in whatever way you wish
+
 """
