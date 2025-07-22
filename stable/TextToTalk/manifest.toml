@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "1fba1c9a5b057b10a253aa1feffd998b54084872"
+commit = "da70d1bb83e8ada73a78aef7564e357aea4d29cd"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Uberduck**: Fixed backend support after minor API changes
+- **Kokoro**: Adds a new Kokoro-based voice backend for high-quality TTS without any API subscriptions or fees (thanks PhilippNaused!). You may encounter performance issues on older hardware - please report any issues you find.
+- **General**: Fixes an error when reading text from certain speakers, such as the Research Note after the first boss of Yuweyawata Field Station (thanks PhilippNaused!).
+- **General**: Adds help tooltips on several settings (thanks PhilippNaused!).
+- **General**: Fixes behavior for skipping voice-acted NPC dialogue.
 """
