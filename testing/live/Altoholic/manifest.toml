@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "667fd19a437185bcbfba78e0c0e5c5beda72abf5"
+commit = "f11e9a273d16c098d6ac701e750a63e3811e796f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Adding Hatching-tide seasonal event and 7.2 MSQ
+- **General**: Freeze table headers for various table so scrolling down keep them visible
+- **Progress**: Add total required irregular tomestone for current moogle event and charaters amount at the bottom of the table
 """

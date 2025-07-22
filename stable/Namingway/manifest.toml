@@ -1,5 +1,9 @@
 [plugin]
 repository = 'https://github.com/MKhayle/Namingway.git'
-commit = 'fbd153abb62550fefb84d3d79d2422878d77eb7d'
+commit = '609f7b487551f650e3cbbee3ca727059c4881f74'
 owners = [ 'anna-is-cute', 'MKhayle' ]
-changelog = 'Fixing status/actions not being displayed in the edit mode if they lack an icon in the game data.'
+changelog = """- Added Occult Crescent actions to the Player Actions filter
+- Added commands (/namingway <enable|disable|toggle> <GUID>)
+- Added a GUID field to copy/paste them for macros use
+- Added the ID of actions in the edit window to differentiate actions with the same name
+- Fixed an issue with names not being updated at some times"""
