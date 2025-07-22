@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/perappu/WhoSaidWhatNow.git"
-commit = "392248cb4d6ef9e6dd62aaecf864ff0ef96b3047"
+commit = "4d474bfe00b788052eed23a8bebf26e75f39f1df"
 owners = ["perappu", "erunseelie"]
 project_path = "WhoSaidWhatNow"
-changelog = "Update for 7.2"
+changelog = "Add debug logging to track down file export error"
