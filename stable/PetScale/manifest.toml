@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "bf326ad1de0d9f9c5bbfd5d084124d37a519d2c5"
+commit = "d1bd7213c861d1ea15f633b5ea5bbacdb38327a6"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- API 12 update
+- Should fix the crashes that have been occuring... in a lazy roundabout way.
 """
