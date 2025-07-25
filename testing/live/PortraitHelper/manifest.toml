@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haselnussbomber/PortraitHelper.git"
-commit = "1168168c3e4f707b2e5e8aed226010b69e7963a3"
+commit = "2a370075341f98c32b8ed4f33270d9e7408cecf7"
 owners = [ "Haselnussbomber" ]
 project_path = "PortraitHelper"
