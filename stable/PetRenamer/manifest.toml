@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d5bd0c355b7679a3fbb69e5b9abbe32460babe36"
+commit = "a4b3e34ff88496595aa38371f5818eb7682cff27"
 owners = ["Glyceri"]
 	changelog = """
-[2.4.0.5] 
-- Disabled the IPC watcher temporarily was it was causing many bugs.
+[2.4.1.1] 
+- Fixes the Action Menu not working.
 """
