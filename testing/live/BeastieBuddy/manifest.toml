@@ -1,0 +1,7 @@
+# testing/live/BeastieBuddy/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/BeastieBuddy.git"
+commit = "dddbc738542d234844f6c097eb51de602ab83d9b" 
+owners = ["rail2025"]
+# project_path = "BeastieBuddy" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "v1.1.1.0: server search instead of local"
