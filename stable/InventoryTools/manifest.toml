@@ -1,20 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "2b7049a209f5874a2a4050ec25fd4b2651fcef06"
+commit = "27d485e074313035518a251ee5eb912a18f5ec1e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.15"
+version = "1.12.0.21"
 changelog = """\
-### Added
-- Sources for Card Packs, PoTD, HoH, Orthos, Anemos, Pagos, Pyros, Hydatos, Bozja, Logograms, Occult, PvP Series and Collectable Shops added (thanks to tracky's data for some of this!)
-- Certain quests will now show rewards
-- Certain sources will now show the probability of dropping and min and max drop amounts.
-- Setting to disable items when highlighting in shops(off by default)
-
 ### Fixed
-- Crystals could sometimes ignore the retrieval order in craft lists
-- The craft overlay will now display properly when using a different ui scale
+- Duties are now stored based off their ID and not the map of the duty as some maps may host more than 1 duty.
+- Fixed a bug that'd cause the craft system to think more crafts were capable then actually were
+- Fixed a bug where the wrong slot was being accessed in glamour chests
+- Fixed a bug when moving the position of a list would not reflect correctly in the UI
+- Switched the majority of ImGui Begin/End's to ImRaii, @ me if you notice anything amiss in the UI
+
+### Added
+- Empty is now an ingredient sourcing options for all items allowing you to source the item in whatever way you wish
 
 """

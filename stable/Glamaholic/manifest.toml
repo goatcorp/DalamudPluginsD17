@@ -1,12 +1,13 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = 'a5022b97607a0805993432a960e042a0f7f9efda'
+commit = '3678ee81d1482e65a8711d93e63253a383d9cae3'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed an issue where Neon Green dye was not importing from Eorez Collection
-- Fixed plate filters (job, level, etc.) not working correctly
-- Minor optimisation to timed message display (thanks @nebel)
-- Added left-click to copy item names in the Glamaholic plate view
+- Fixed an issue where items not present in the Armoire and Dresser would be displayed in dropdowns (@subaruyashiro)
+- Fixed an issue with Dyes showing as "Unknown Stain" in text exports (@starrfox6312)
+- Added plugin interop options to the Fitting Room helper dropdown menu (@subaruyashiro)
+
+Thank you to all who have contributed to this update.
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

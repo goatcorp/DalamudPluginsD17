@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "0fc42758d4c75d0e60a0c61ba9fa930ea5acdff4"
+commit = "e987b6b8df2ec8bfb0d8078fededcef1b8e90b21"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Bug fixed;
-Add new commands;
-Migration to Dalamud.NET.Sdk;
+Add Icon to DTR Bar
 """

@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/SamuelSapp/FastWaymarksPlugin.git"
-commit = "4d18f045ad7e1d56764dae6b350d6ec975e80a20"
+commit = "119b4ed951a2f7a5ae00cf3165eeba82b365c69f"
 owners = ["SamuelSapp"]
 project_path = "FastWaymarksPlugin"
-changelog = "Initial Submission"
+changelog = """
+Fixed: Config Window should auto-resize now.
+"""
