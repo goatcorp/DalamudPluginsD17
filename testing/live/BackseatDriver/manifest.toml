@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rae-destil/ff14-backseat-driver.git"
-commit = "1167ee96474b048f6abafbeb7758a3ae5b4ebfd3"
+commit = "cd861aee3610f38ae533be3d8a1a1395edcd1596"
 owners = ["rae-destil"]
-project_path = "BSDriverPlugin"
+project_path = "BackseatDriver"
 changelog = """
 # v0.1.0.0
 
