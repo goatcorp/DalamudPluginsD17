@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "8e977350e81a1aa49bbe6881241c645ca585ff8c"
+commit = "1adfad561b13046e17be434249aadb8024ec0591"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
-- Add new advanced search options that allow changing the search language on the fly
-- Searching from a context menu now always searches using the game language
+- Updated for 7.2 and Api 12
 """

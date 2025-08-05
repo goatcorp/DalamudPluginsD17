@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/MOActionPlugin.git"
-commit = "4876be3a210fe333ad49e03237de3344f5c36596"
+commit = "b0ada33865de652dcb4a50113e699136db4cbf76"
 owners = [
     "Infiziert90"
 ]

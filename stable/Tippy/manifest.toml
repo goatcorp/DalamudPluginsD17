@@ -2,17 +2,9 @@
 repository = "https://github.com/Critical-Impact/Tippy.git"
 owners = [ "kalilistic", "Critical-Impact" ]
 project_path = "src/Tippy"
-commit = "e9794386e24449a5b53f0e5e4941f32e1488f13c"
-version = "1.12.0.0"
+commit = "73c35158859c2711b0ef8421112095bbfe8df9c3"
+version = "1.12.0.1"
 changelog = """\
-### New Features
-- Adds Bonzi, F1, Genie, Genius and Rover as new agents. Agents can be switched in the settings window.
-- Clicking on an agent will play a random animation.
-- Adds support for branching/layered animations.
-- Categorises animations so that each agent can be sad at you for not parsing high enough.
+- API12 support
 
-### Fixes
-- Configuration should be saved even if the game/plugin crashes.
-- Agents will play an animation when first loading or when switched in/out.
-- Fixed a crash when a sound file could not be found.
 """

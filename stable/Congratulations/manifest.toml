@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "30feb420936885592e2f01f4376184665b3aface"
+commit = "1340b22efe6a674b0a1e8424f1c6776a7dfbc64d"
 owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """
-Updated for FFXIV 7.11
+Fix regression bug with loading specific wav files on Windows
 """

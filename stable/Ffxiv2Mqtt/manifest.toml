@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "6922093ea6d68af019730e168ebffa4bf491475a"
+commit = "b0c68357e4f0d0572b8e84693c0c3ee335cf66bd"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """API11 support.
-Pictomancer and Viper job gauges added."""
+changelog = """API12 support.
+/mqttcustom now supports spaces in the payload thanks to StoiaCode on github.
+Some items were removed from Viper and Black Mage gauge topics due to changes by Square Enix.
+Statuses now use 'Parameter' instead of 'Stacks' to be more accurate."""

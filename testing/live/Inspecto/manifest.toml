@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Inspecto.git"
-commit = "020427e1c768d9bdd0e882773d138a8d76dff573"
+commit = "d1df5e286f8c46371746616c39f2baa9de681528"
 owners = [
     "Infiziert90"
 ]

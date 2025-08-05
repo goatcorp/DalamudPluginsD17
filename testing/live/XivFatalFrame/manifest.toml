@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Glyceri/XivFatalFrame.git"
+commit = "e2b435f25cb9271009bde2b3e63a129140c2c63c"
+owners = ["Glyceri",]
+	changelog = """
+[0.2.0.0]
+- You can now set custom delay timers for a screenshot (Some options have pvp specific delays).
+- The version number and coffee button should no longer overlap... hopefully
+- Fixes error log messages not showing (teehee)
+"""

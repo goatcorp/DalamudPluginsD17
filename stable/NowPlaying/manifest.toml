@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "0d4ac238db59fea511f0103904b9d6093a42f55c"
+commit = "19c92c913945ab9e8692dcf0e8094bd068ec2e97"
 owners = ["wompscode"]
 project_path = "NowPlaying"
-changelog = "Bandaid fix to temporary occasional bug."
+changelog = "Fix for easy to run into crash.\nShow album title in server bar element tooltip.\nMake server bar element a little prettier.\nAdded check for WINE as to stop plugin loading all the way and crashing under Linux(/macOS)."

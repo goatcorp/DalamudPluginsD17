@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "9131fa97f7945537161f19caf013e0703755e5dc"
+commit = "d1e04e560089b43e4594bcc10cb2d04dfd7b3919"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for 7.1 (thanks Fronti!)
+- Fix server address detection errors on some systems
 """

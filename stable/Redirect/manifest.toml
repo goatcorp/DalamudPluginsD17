@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "0feec227f3ae7d17dcc3c91ebc7b9bf7973061a9"
+commit = "c4c87937844bf3647ec189993a324d1c55eea53f"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "- Updates for API11 / Lumina"
+changelog = "- Update for 7.2 / API12"

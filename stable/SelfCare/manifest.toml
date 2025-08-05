@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/chirpxiv/SelfCare.git"
-commit = "f68b1f1c80101b718d06e61d5b6572b23b9666c5"
+commit = "7ed782685f8b72791be7928880b3c303b768b978"
 owners = ["chirpxiv", "MKhayle"]
 project_path = "SelfCare"
 changelog = """
--# Updated for Dalamud API 11
+-# API 12 update
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/Doorbell.git"
-commit = "b25eeaf8233deded8d1e21f21a1e120a634e7ada"
+commit = "8d5e16021970a0adfbd49e98d915ae9572a5e684"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Added support for the new Minimalist housing"
+changelog = "- Fix for doorbell chime"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "313edf58163ce804ac7bf553f1e41f4c82df093c"
+commit = "a2c72e4ea99d70b0adad9601a707f02789052a0d"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Context Menu: fix unhandled exception if item not in Item sheet (eg. key items)\
+- Fix context menu for HQ items\
 """

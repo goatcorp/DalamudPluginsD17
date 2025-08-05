@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/xorelcodes/QuietTheDen.git"
-commit = "593a71908817dcc86cb2a6177bdbc44e07db44f0"
+commit = "399effbc61eeec032fb3520dfb6f2c2a64e509c0"
 owners = ["xorelcodes"]
 project_path = "QuietDen"
-changelog = "Initial release after test"
+changelog = "QuietDen v1.1.1 - Updated unmute on zone to only effect leaving Wolves' Den"

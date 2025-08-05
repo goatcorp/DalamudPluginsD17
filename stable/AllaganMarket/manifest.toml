@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "071ebae9da2db9ae14237578caa97968f6b693e1"
+commit = "2f73b4d98fbbf509b11cee93a81bf8d7068b2658"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.3"
+version = "1.1.0.13"
 changelog = """\
-**Changes**
- - The sale history search will now work in both view modes
- - The icon filter will no longer show in the sidebar
+**Fixes**
+ - Fixed issues with the currently selling/sale history tables not refreshing their data
+
 """

@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "490e4ec708142a2d8d1bc9910e9146efe07648ca"
+commit = "25b9605a9ea5bc68619b50576769b3850d7c0b0e"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-Replace WineRPCBridge with a version that doesn't get flagged as a false positive by Windows AVs. (Windows users will never run this file btw. It's only for Linux users.)
+Updated for API 12.
+
+Reminder: WineRPCBridge could get flagged as a false positive by Windows AVs. (Windows users will never run this file. It's only for Linux users.)
 """

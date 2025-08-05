@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/img02/Fungah-Totally-Safe-Spot.git"
-commit = "69a0b0753dd93dacf5d21a17c9a5b88ae9c26e3b"
+commit = "faefc1913a04161d1c08b04ea45db4ceabf7e929"
 owners = [
     "img02",
 ]

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/mashirochan/FFXIV-HousingHerald.git"
+commit = "500ea17c50d707762df7e462fc93f0c3cf6106ca"
+owners = ["mashirochan"]
+project_path = "HousingHerald"
+changelog = "Fix results phase end detection"

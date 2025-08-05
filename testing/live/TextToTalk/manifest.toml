@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b98853af56a02876022cda6ab3fd3dd0a3c453d5"
+commit = "95f37c651db6fd8f769c2bc5b338a530580387ac"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Reduces internal plugin log level for most TTS events
-- **General**: Potential fix for rare and unreproducible crash when reading from dialogue windows (please DM me logs if this happens to you!)
-- **WebSocket**: Fixes configuration errors only showing up in the UI for one frame
-- **WebSocket**: Potential fix for speaker gender always being "None" for some plugin users
-- **OpenAI**: Updated supported voice list
+- **Kokoro**: Adds a new Kokoro-based voice backend for high-quality TTS without any API subscriptions or fees. You may encounter performance issues on older hardware - please report any issues you find.
+- **General**: Fixes an error when reading text from certain speakers (e.g. the Research Note after the first boss of Yuweyawata Field Station).
+- **General**: Adds help tooltips on several settings.
+
+Thanks to PhilippNaused for all of the improvements in this release!
 """

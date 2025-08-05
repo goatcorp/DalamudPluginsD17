@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Infiziert90/xivFaderPlugin.git"
-commit = "51afb2420af7a599e5bacac8e00737c7adb3ebd0"
+commit = "e28816c2e69fc62d514b18124ccc0388a3d0971a"
 owners = ["Infiziert90"]
 project_path = "FaderPlugin"

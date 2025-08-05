@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8af1fee61a6434ba2c9facd45ef43575620b96b8"
+commit = "3d0d5a3f892de665516b771abe3831896e94199f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add armoire tracking
-- **Inventories**: Add armoire tab and inventory
+- **General**: Fix potential null problem when searching for items in inventory all tab
 """

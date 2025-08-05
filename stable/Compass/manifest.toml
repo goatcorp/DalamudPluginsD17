@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "05eadaa1b171bafd4ade230aead8c02a155e2afe"
+commit = "6d8c40fc80e709fefd81ea424fc90dd65d31168d"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
 changelog = """
-- feat: Update to 7.1. Thanks @TheDeadCode for the PR!
+- chore: Update to API12
+  No other changes or fixes.
 
 NOTE: Since 7.0, Compass seems to work funky in some cases.
 I am sorry, but I cannot promise that I will manage to work on plugins for the foreseeable future.

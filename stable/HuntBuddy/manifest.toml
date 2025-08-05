@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "f4a7d18f9d99d01111d5a1e725d102f3983ac2f2"
-changelog = "- Updated plugin for 7.1"
+commit = "cdef5d9e803d32b808b255fceb6efb5e8612e979"
+changelog = "- Updated for API12"

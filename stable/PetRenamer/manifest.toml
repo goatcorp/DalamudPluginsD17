@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "4c6544127838263017fe2d02d8b393aad391b462"
+commit = "a4b3e34ff88496595aa38371f5818eb7682cff27"
 owners = ["Glyceri"]
 	changelog = """
-[2.3.0.14]
-Fixes a quite common crash.
+[2.4.1.1] 
+- Fixes the Action Menu not working.
 """

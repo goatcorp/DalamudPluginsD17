@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "b36a4b66e3f0dae14a563c9eecceb7431e291280"
+commit = "d845c2cf010dd749e358441d30aebee667676ae9"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +15,5 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\	
-- Fixed MCH's Hypercharge and Spreadshot combos being swapped.
+- Fixed DRK's Stalwart Soul combo not working if you were level 40 (thanks esotericist and .necrosis666 for the feedback)
 		"""

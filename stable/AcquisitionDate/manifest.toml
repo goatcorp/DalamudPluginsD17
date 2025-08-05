@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/AcquisitionDate.git"
+commit = "c26cd999c29f8797ce9cafc5a8fc3486c793ee11"
+owners = ["Glyceri",]
+	changelog = """
+ [1.0.0.1]
+Updated FrameKit to use the correct way of determining the ID and updated the tooltip hook to not use an obsolete function.
+"""

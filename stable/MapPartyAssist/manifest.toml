@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "f1aa6d2c849eaff74a46f8332c7b45dbf770e8a0"
+commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Map links on cross-world parties are now picked up.
-* Stability bug fixes.
+* Fix map links and loot not tracking with abbreviated name settings.
+* Announcing a map should now no longer overwrite your stored map link.
 """
