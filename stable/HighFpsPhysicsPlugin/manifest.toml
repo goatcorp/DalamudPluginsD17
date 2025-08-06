@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ItsLunaYup/xivlauncher_physics_plugin.git"
-commit = "ce6f7285555bf0522137f77e3d36f1e82c1cccb3"
+commit = "7cadd26fa37a3ade31ef02209af5270947a6246b"
 owners = ["ItsLunaYup"]
 project_path = "SamplePlugin"
 changelog = "Update for 7.3, and updated Dalamud NuGet Package to version 13"
