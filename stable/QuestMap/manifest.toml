@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/rreminy/QuestMap.git'
-commit = 'cae5aef923e3996658209968bfd94d27ee0dfd3d'
+commit = 'dbf364ff402e566b84a2bc3066747b0fb19644ab'
 owners = [ 'anna-is-cute', 'rreminy' ]
-changelog = 'Condense final MSQ quests, quest summaries and fixes'
+changelog = 'API 13 Bump'
