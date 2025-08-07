@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "1f1946f8824938072fe273953ea46b7a646471a8"
+commit = "3d0d5a3f892de665516b771abe3831896e94199f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix wrong orchestrion number check for mamool ja's
+- **General**: Fix potential null problem when searching for items in inventory all tab
 """

@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "237a19f5331bc7c7ad7df41c5f6101ebf51aaaac"
+commit = "c26cd999c29f8797ce9cafc5a8fc3486c793ee11"
 owners = ["Glyceri",]
 	changelog = """
- [1.0.0.0]
-Full release of Acquisition Date
-
-This plugin will show the dates of stuff you acquired.
-Think of achievements, quests completed, fish caught... stuff like that
+ [1.0.0.1]
+Updated FrameKit to use the correct way of determining the ID and updated the tooltip hook to not use an obsolete function.
 """
