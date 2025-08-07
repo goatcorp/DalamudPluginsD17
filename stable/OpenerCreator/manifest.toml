@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Infiziert90/OpenerCreator.git"
-commit = "c4ccb3d164845632db94682afa751a978c19d445"
+commit = "8399ad923e62c6809214f96d3715bb9ed86b30fa"
 owners = ["Infiziert90", "herulume", "Sevii77"]
 project_path = "OpenerCreator"
