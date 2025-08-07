@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "860e4477e220cd169d127a10f1d2c82049892243"
+commit = "43f2276d04a890d754ca52f3ce70a588a447da39"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- Fixed an issue with scaling options for the `Shimmering Halo` widget
-- Added Icon and Sound options to counter widgets
+- Reverting previous temp-fix now that sheets are updated
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "ae9f282967c13fd5ccf483a2007e1a5ce6728ad7"
+commit = "192bab5db1ae4325c2101e169ee3e664c04c5b3f"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-- Fixed Conjurer being classified as a job instead of a class
+- api12 & net9
 """

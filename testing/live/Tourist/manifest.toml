@@ -1,0 +1,9 @@
+[plugin]
+repository = 'https://github.com/foophoof/Tourist.git'
+commit = '30731aecccc7a00f297e2b706552de3072ec5c18'
+owners = [ 'foophoof' ]
+changelog = """\
+### Fixed
+- Remove correct ARR vista marker when a vista is completed.
+
+"""

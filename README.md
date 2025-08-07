@@ -15,7 +15,7 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 
 When the plugin approval group checks your plugin, they will check for the following:
 
-- Does it meet [our guidelines](https://dalamud.dev/plugin-development/restrictions#what-am-i-allowed-to-do-in-my-plugin), as agreed upon by multiple members of the group?
+- Does it meet [our guidelines](https://dalamud.dev/plugin-publishing/restrictions), as agreed upon by multiple members of the group?
 - Does it feature any combat elements? If so, are they purely informational, and show only information the player would normally know?
 - Does it pass an informal code review?
 - Does it install cleanly?
@@ -65,7 +65,7 @@ If you want to trigger a re-build of your PR, just post a comment with the conte
 
 ## Secrets
 
-If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon-secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
+If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon/secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
 
 ---
 

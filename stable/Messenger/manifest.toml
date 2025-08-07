@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/NightmareXIV/XIVInstantMessenger.git"
 # The commit to check out and build from the repository.
-commit = "d4c13d19aec5d00e0cdaf296bd8427b447f6efb6"
+commit = "c64bad52fbb62e22761febc8acd59edf58b65e0d"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Limiana"

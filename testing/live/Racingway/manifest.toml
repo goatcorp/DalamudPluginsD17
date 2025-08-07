@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "a96b2c75c19ca48d237b67e0b136bbc14e7e9532"
+commit = "fa110bf3f589c4d1286169d88ab02640462c033f"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.1 [TESTING]
-- Fix hitches when finishing/failing routes
-- Fix hitches when updating route information
-- Racingway should hopefully just be more performative now
+v0.1.1.1 [TESTING]
++ Added laps
++ Slight adjustments to wording
++ Fixed splits not being cleared when hitting a fail
+- Removed the Line Quality setting
 """

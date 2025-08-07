@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "5e4068c5df2e63163b4967d853c7765f65d23538"
+commit = "54c635587f66476d909ee0e5ece66952e39ae82d"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Update for 7.1
+- Update for 7.2
 """

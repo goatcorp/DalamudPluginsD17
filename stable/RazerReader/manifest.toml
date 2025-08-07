@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "270e3731e9a51aa79d48e2d022c67270e449813e"
+commit = "eb7b8f5998cabfbfe66c0a4a9d9e5a177c6143a5"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Initial plugin release"
+changelog = "Added Show Device Name setting"

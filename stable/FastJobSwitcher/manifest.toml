@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/fast-job-switcher.git"
-commit = "4a0926150f94b9c9530dddbc0d506d4a0e4592cf"
+commit = "ad2719bce44a0cd987046bcc9a3f3c8f92954f20"
 owners = ["meoiswa"]
 project_path = "FastJobSwitcher"
 changelog = """
-Version 2.1.0.0:
- - Updated to API11 (Thanks @SkyeRaf)
+Version 3.0.1.0:
+ - bc: Removed separate Uppercase and Lowercase Configurations, all commands are now available in either case.
+ - feat: Added support for Phantom Jobs
+ - fix: Changed Time Mage acronym to TIM
 """

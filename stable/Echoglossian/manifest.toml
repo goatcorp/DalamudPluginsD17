@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "b765ae28de79aaca29377d0db03c6dbd0a61d917"
+commit = "aed5fed52a0e97cc5d0b30ee4c9e6e5f4601138c"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.20.x \n fixes:\n - Tentative fix for 'Plugin could not be loaded error'."
+changelog = "v3.21.x \n fixes:\n - Fix enshittization of Google Translate and bump to API12 and .net9'."

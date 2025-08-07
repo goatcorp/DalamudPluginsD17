@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "03bafa66d870fba38e23d677b14419124d11f737"
+commit = "a3374fec59f1e33b872d4d706032e53f4efa24c1"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Fix non-English clients failing to convert input to HuntHelper"
+changelog = "Bump for API v12"

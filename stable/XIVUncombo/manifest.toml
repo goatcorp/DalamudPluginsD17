@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/MKhayle/XIVUnCombo.git"
-commit = "38601f8d7d5b4302c16e648c3bafd8ebc966a740"
+commit = "9038135bfeafa062d96ff0e23e472a2c479e71a8"
 owners = ["MKhayle"]
 project_path = "XIVUnCombo"
 changelog = """
-### XIVUncombo 1.0.0.1 Stable Release
--# This plugin splits combos and mutually exclusive abilities onto several buttons. For example, a 1-1-1 combo would become 1-2-3.
--# XIVUncombo is a plugin to disable "one-button" combo chains, as well as implementing various unassignable skills under the guise of BLU spells.
--# Use `/puncombo` to open the UI. Yes, pun intended.
-### v1.0.0.1 Changelog 
-- API11 / 7.1"""
+- API 12 update"""

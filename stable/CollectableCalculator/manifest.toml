@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/mabako/CollectableCalculator.git"
-commit = "4c0e9df9d75b06fdc6eb4ba1aa41885339617b03"
+commit = "449c33a8d9f6c437f32bb34e8bbf550e5e1ca4dc"
 owners = ["carvelli", "mabako"]
 project_path = "CollectableCalculator"
