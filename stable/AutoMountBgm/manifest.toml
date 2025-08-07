@@ -1,6 +1,9 @@
 [plugin]
-repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
-owners = [ "PrincessRTFM",]
+repository = "https://github.com/Critical-Impact/AutoMountBGM.git"
+owners = [ "Critical-Impact",]
 project_path = ""
-commit = "223d9bbd1828185912ed4cd3861ee1dad935554c"
-changelog = "Plugin should work on latest patch now. Untested because my sub expired recently."
+commit = "6a09158fa7f0ef696de3c281175e64e94f6dea17"
+changelog = """\
+### Changed
+- API12 support
+"""

@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/SoundFilter.git'
-commit = '18dce1368b46a6dec8bca782dee9552853f7ceb0'
-owners = [ 'anna-is-cute' ]
-changelog = 'API 11'
+repository = 'https://github.com/Cytraen/SoundFilter.git'
+commit = 'ac0727e6602c6aae0031552ba51dfc465fea521d'
+owners = ['Cytraen']
+changelog = 'Fix long-standing "Ambient Sounds" channel crackling noise bug'

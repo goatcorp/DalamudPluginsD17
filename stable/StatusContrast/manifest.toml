@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Olaren15/ffxiv-status-contrast.git"
+commit = "667405690dfeb12367d5c6294fb07b9fec9bbb1b"
+owners = ["Olaren15"]
+project_path = "StatusContrast"
+changelog = """
+- 1.0.0 release
+"""
