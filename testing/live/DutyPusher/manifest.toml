@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "40e17597ebeec6e118191b8397bfd41f86813cf1"
+commit = "e987b6b8df2ec8bfb0d8078fededcef1b8e90b21"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Add Icon to Chat for notify the enable state;
-Update Documents.
+Add Icon to DTR Bar
 """

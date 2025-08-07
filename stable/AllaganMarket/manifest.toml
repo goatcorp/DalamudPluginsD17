@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "46e8ee7df1423f2a2fabf1b5624a80dd81fbb962"
+commit = "2f73b4d98fbbf509b11cee93a81bf8d7068b2658"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.12"
+version = "1.1.0.13"
 changelog = """\
 **Fixes**
- - Fixed a bug where no HQ listings being received from universalis would wipe out NQ entries leading to a no data available situation
+ - Fixed issues with the currently selling/sale history tables not refreshing their data
 
 """

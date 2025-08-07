@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "660e06e0a603128ac8e9ebf5adc41bee2126b031"
+commit = "37a02b926d2b7ee72cc1f65fd4327fb721ccd0a1"
 owners = [
     "iv230"
 ]
 project_path = ""
 changelog = """
-## 1.3.3
-- A little Ko-fi for Iris :3
-## 1.3.2
-- Updated to API 12/.NET 9
+## 1.4.0
+- Added option to recolor focus target messages
 """

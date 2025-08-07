@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/perappu/WhoSaidWhatNow.git"
-commit = "a3b606579522846687ebe93215fb34ad9a64b389"
+commit = "4d474bfe00b788052eed23a8bebf26e75f39f1df"
 owners = ["perappu", "erunseelie"]
 project_path = "WhoSaidWhatNow"
-changelog = "v0.6.2 - bugfixes and imgui handling"
+changelog = "Add debug logging to track down file export error"
