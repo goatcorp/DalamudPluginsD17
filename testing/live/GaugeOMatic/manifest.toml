@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "4d2e7144a388468d33164d18a302e5275e4eb03d"
+commit = "43f2276d04a890d754ca52f3ce70a588a447da39"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Fix for a crash on player logout
+- Reverting previous temp-fix now that sheets are updated
 """

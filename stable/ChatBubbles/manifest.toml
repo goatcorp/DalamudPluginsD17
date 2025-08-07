@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/Haplo064/ChatBubbles.git"
-commit = "787639d0e5a1c7df7d8367a40d0f40a374ead27f"
+commit = "032f2ac15f8cce4fb9731a2157a8027664273f07"
 owners = ["Haplo064", "MKhayle"]
 project_path = "ChatBubbles"
 changelog = """
--# API12 update for patch 7.2
--# Don't type fart in your chat bubbles"""
+-# Final update."""

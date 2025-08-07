@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/NeNeppie/LightsCameraAction.git"
-commit = "f3b5170961bae3d7de0353e7040e0fc139eb64cb"
+commit = "a2d710f072b72ad06938f5a707d5c9a0c2866fdf"
 owners = ["NeNeppie"]
 project_path = "CameraLoader"
-changelog = "Update for Patch 7.1 / API 11"
+changelog = "Update for Patch 7.2 / API 12"

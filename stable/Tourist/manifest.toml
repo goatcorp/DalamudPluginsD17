@@ -1,5 +1,12 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/Tourist.git'
-commit = '976befbe9cb2755ae9076356dde189d1654bd9c0'
-owners = [ 'anna-is-cute' ]
-changelog = 'API 11'
+repository = 'https://github.com/foophoof/Tourist.git'
+commit = '30731aecccc7a00f297e2b706552de3072ec5c18'
+owners = [ 'foophoof' ]
+changelog = """\
+### Fixed
+- Grouping by zone is fixed
+
+### Changed
+- Rewrote plugin to use more modern APIs and ways of doing things. Functionality and UI should remain the same.
+
+"""

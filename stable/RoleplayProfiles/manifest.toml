@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-roleplay-profiles.git"
-commit = "ce35356a7ee501535a2bfa468cfdf70d341cb3d3"
+commit = "550bfb6e17b9293212f35e98b0b9d8c44dd23110"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
 changelog = """
-Update to Dalamud API 11.
+Update to Dalamud API 12 and .NET 9.
 """

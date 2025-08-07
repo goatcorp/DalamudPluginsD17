@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Cyenia/ffxiv-simplecompare.git"
+commit = "b96339e829d267919601c20b2fc2aacb7cb378c8"
+owners = ["Cyenia"]
+project_path = "SimpleCompare"
+changelog = """
+v2.1.0.1
+- Fixed: Only the gear is compared
+v2.1.0.0
+- Improved stat difference display with clearer separation and formatting.
+- The comparison windows will no longer be rendered outside of the game.
+"""

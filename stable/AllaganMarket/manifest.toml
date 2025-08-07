@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "7fc51c06ae550255de156e87464d322e3c25c2b5"
+commit = "2f73b4d98fbbf509b11cee93a81bf8d7068b2658"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.4"
+version = "1.1.0.13"
 changelog = """\
-- API12 support
+**Fixes**
+ - Fixed issues with the currently selling/sale history tables not refreshing their data
+
 """

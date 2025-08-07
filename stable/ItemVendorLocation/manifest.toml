@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "a991749274a9606acb67ca7116dbb42c4eed02e5"
+commit = "f23354ee1996f1b69cf7828fcd83f82dbe2f8b44"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix highlighting issue when not every vendor for item has a shop name
-- Fix highlighting issue where menu selection was specific enough (multiple things highlighted)
-- Add additional shop names
+- Partially fix an issue where item names in shops can be concatenated (...)
+- Update to .net9
 """
-version = "2.9.0.3"
+version = "2.10.0.0"

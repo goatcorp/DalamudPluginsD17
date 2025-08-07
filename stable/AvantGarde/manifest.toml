@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "760c3060588001a6a3d9b9af6092cdd844600e38"
+commit = "604fef21a0d9d7d85b163a5c8bd4be7202524b09"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-Minor GUI fixes
+Update for Patch 7.2 / API 12
 """

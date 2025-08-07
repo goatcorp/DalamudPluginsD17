@@ -1,12 +1,15 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "149d85218e6d5f73a7633e39ca6b6e026735315d"
+commit = "4cccbad669e89f7c61eb8ef86feea2e7ecefd065"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.2
-- Fixed glamour UI interaction sometimes not working
-- Fixed job picker UI
-- Fixed Container data source
-- Fixed SpecialShop data source
+Collections v1.0.2.7
+- New collections: Orchestrion, Outfit, Framer Kit, Fashion Accessory and Facewear collections
+- Actually fix Dresser crash this time, using AddonLifecycle
+- Re-added checkmark to collected items
+- Added patch information to (most) collectibles, pulled from LuminaSupplemental
+- Added dye slot icons to glamour collectibles
+- Added sort by options to collectibles
+- Added PvP series and Submarine sources
 """

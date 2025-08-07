@@ -1,15 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "03c121d6a71b127fa8b05089979768e378bd1060"
+commit = "603fa46ba51e21e4117172fa15ef2d9c1563fe59"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.10
+# Umbra 3.0.10
 
 ## Fixes & Improvements
 
-- Add Island Sanctuary ferry to Zone Markers (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fix gearset switcher max level color for newly added sets (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed Auxiliary bars not respecting the configured Toolbar Height setting. 
+- Removed the option to turn off Threaded Style Computation. It is now on by default.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

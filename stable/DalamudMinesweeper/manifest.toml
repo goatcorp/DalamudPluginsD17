@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "8c4d06c400af3c7406373b5a55919948399f3fb3"
+commit = "ba0ed1121c8dba80d7da149d58095bd50a33f258"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Pause timer when game window closed"
+changelog = "Update for api12/dotnet9"
