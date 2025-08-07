@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "6eee1772e387a63daa3219ec573e23b4af81823f"
+commit = "1ca900389b4392557532aa612b5e879d6b1b4fe4"
 owners = [
     "tesu",
 ]
-changelog = "minor bugfixes and code cleanup"
+changelog = "Avoid network packet processing bug"

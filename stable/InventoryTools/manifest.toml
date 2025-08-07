@@ -1,14 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1f184750dc725dde8fedcd848627d109255350a6"
+commit = "27d485e074313035518a251ee5eb912a18f5ec1e"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.0"
+version = "1.12.0.21"
 changelog = """\
- - API12 support
- - Craft Window can now import garland tools group URLs
- - Are recipes completed filter/column now only show recipes that can actually be completed in the log
- - Thank you for your patience and the horses
+### Fixed
+- Duties are now stored based off their ID and not the map of the duty as some maps may host more than 1 duty.
+- Fixed a bug that'd cause the craft system to think more crafts were capable then actually were
+- Fixed a bug where the wrong slot was being accessed in glamour chests
+- Fixed a bug when moving the position of a list would not reflect correctly in the UI
+- Switched the majority of ImGui Begin/End's to ImRaii, @ me if you notice anything amiss in the UI
+
+### Added
+- Empty is now an ingredient sourcing options for all items allowing you to source the item in whatever way you wish
+
 """

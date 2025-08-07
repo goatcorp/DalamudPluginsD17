@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "db9d44d6f5d41097b61c0628e6f6d3f51434ec8b"
+commit = "b1f665d4c1bc43208ad1d7f884408aadd75d554e"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- 7.2 / API 12 Update
+- Fix /etrackers crashing game
 """

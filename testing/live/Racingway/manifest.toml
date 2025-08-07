@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "9b4c62e0dc286dc181042c2281359a4f52be1d97"
+commit = "fa110bf3f589c4d1286169d88ab02640462c033f"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.0.6.3 [TESTING]
-- Update to api 12
-- Fix UI timer not resetting when going back to start
+v0.1.1.1 [TESTING]
++ Added laps
++ Slight adjustments to wording
++ Fixed splits not being cleared when hitting a fail
+- Removed the Line Quality setting
 """

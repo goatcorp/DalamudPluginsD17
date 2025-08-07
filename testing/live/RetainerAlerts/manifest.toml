@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Ibcrootbeer/RetainerAlerts.git"
+commit = "bf8341e8fef3ff3537d7eade959568b2a0bb6bdd"
+owners = ["Ibcrootbeer"]
+project_path = "RetainerAlerts"
+changelog = "Fixed the popup always being re-positionable on startup."

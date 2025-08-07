@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/SoundSetter.git"
-commit = "9460d21fa0debe25e543deeca2459c0b5bf4e590"
+commit = "325c08dd63bd6085e9c22d2eaab14e59438eb9cf"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for 7.1
-- Fixed manually needing to adjust the volume settings once before the plugin worked correctly
+- Updated for 7.2 (thanks Franz!)
 """

@@ -1,0 +1,7 @@
+# testing/live/AetherDraw/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/AetherDraw.git"
+commit = "f21a5b2e24ca6b12fd3483b6ffe22f101839d179" 
+owners = ["rail2025"]
+# project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
+changelog = "v2.3.0.0: Added a tool to place emojis as rotatable images from the clipboard, import a custom background from a URL. More raidplan.io import fixes.\nv2.2.2.0: More import fixes."

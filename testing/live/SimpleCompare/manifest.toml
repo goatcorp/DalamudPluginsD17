@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/53m1k0l0n/ffxiv-simplecompare.git"
-commit = "38850d39c24a1f0b661cda14ca488d4715a732f8"
-owners = ["53m1k0l0n"]
-project_path = "SimpleCompare"
-changelog = """- Update 2.0.0.3"""

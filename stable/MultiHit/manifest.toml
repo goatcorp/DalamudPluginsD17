@@ -1,9 +1,7 @@
 [plugin]
 repository = "https://github.com/Bluefissure/MultiHit.git"
-commit = "66f31872439e6a5542323492756fc981dd519381"
+commit = "b802a2757456922fbe1424a393ae8801b4607d3c"
 owners = ["Bluefissure"]
 project_path = "MultiHit"
-changelog = """
-- make action search case insensitive
-- add command for enable/disable
+changelog = """patch 7.2 & api12
 """

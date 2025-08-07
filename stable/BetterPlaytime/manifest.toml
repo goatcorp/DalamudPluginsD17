@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "0dc31f21b89757482634f6a87cf968e7be7ffd37"
+commit = "c1dc64b364e9e809b3ca6ca30e25a9553b3c4874"
 owners = [
     "Infiziert90",
 ]
