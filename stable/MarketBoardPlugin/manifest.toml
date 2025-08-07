@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a2c72e4ea99d70b0adad9601a707f02789052a0d"
+commit = "6ee22ef827f88e08ba03cf4434dd79ade54dcdb4"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
 changelog = """\
-- Fix context menu for HQ items\
+- Patch 7.3 / API 13 compatibility\
 """
