@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "4e673fb8370e5c5b830bd43303883555738f8b04"
+commit = "ef9a157c7085c6c229fe9fef611e4b42d0f32390"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.5.1.0
+1.6.2.0
 
-New Plugin Fixes, now actually TooltipNotes again and not just notes
+Fix first plugin install
 """

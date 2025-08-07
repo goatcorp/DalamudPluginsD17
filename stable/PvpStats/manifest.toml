@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8bd364c2e511d27ab05775ccbabc77f3ec497270"
+commit = "95f8e1680ed1669a935814ae241fe1b3031d436a"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for patch 7.2.
+* Tentative fixes for patch 7.25.
 """

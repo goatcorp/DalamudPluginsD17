@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/powellad/Toastingway.git"
-commit = "33621f87359fd5b730f225551f54024f0c4a2095"
+commit = "5b386ea30a7f8f0efd80987d1c78c309409c677e"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
+version = "1.2.0.2"
 changelog = """
-- Fixed up some code issues
-- Added better support for HQ items
-""" 
+Update to Dalamud API 12 and .NET 9.
+"""

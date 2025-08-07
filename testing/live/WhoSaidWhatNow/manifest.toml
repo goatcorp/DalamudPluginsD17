@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/perappu/WhoSaidWhatNow.git"
+commit = "4d474bfe00b788052eed23a8bebf26e75f39f1df"
+owners = ["perappu", "erunseelie"]
+project_path = "WhoSaidWhatNow"
+changelog = "Add debug logging to track down file export error"

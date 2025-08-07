@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/RulHolos/Bartender.git"
+commit = "ef231190f9fdafca22989ca9c5604c4b1bc71f57"
+owners = ["RulHolos"]
+project_path = "Bartender"
+changelog = """
+# v1.1.7.0
+
+- Fixed /micon macros setting action to the icon action.
+"""
