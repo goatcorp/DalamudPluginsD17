@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "73628620d4a7e98dd5186fa9204d395641cb0b72"
+commit = "8d684f4e7921e732ef3aa16990fe712c9781d602"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
- - Fix prerequisites for collected items being highlighted
- - Fix obtained prerequisites not being highlighted properly
- - Fix obtainable items not being highlighted in shops to purchase
+ - api13 changes
+ - 7.3-related fixes
+ - Fix bug with duplicate materia throwing errors
+ - Fix bug with meld selector window not appearing
+ - Fix bug with gearsets not updating/syncing
 """
