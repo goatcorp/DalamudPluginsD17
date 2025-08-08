@@ -4,4 +4,4 @@ commit = "f16999aafed10cff020e602c8319b31b9abf9246"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
 api_level = 13
-changelog = "Initial release with Radio Browser API integration. Modern UI with search, filters, and volume controls. Automatic station loading and duplicate filtering. Comprehensiv
+changelog = "Update for Dalamud API 13. Full source now included as required by AGPLv3."

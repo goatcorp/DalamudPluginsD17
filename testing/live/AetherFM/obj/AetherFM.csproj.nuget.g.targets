@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)dotnet.reproduciblebuilds\1.2.25\buildTransitive\DotNet.ReproducibleBuilds.targets" Condition="Exists('$(NuGetPackageRoot)dotnet.reproduciblebuilds\1.2.25\buildTransitive\DotNet.ReproducibleBuilds.targets')" />
+    <Import Project="$(NuGetPackageRoot)dalamudpackager\13.0.0\build\DalamudPackager.targets" Condition="Exists('$(NuGetPackageRoot)dalamudpackager\13.0.0\build\DalamudPackager.targets')" />
+  </ImportGroup>
+</Project>
