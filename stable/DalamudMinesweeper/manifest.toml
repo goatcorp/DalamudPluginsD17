@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "ba0ed1121c8dba80d7da149d58095bd50a33f258"
+commit = "0e1bf84475ed45a7f66a5e71f27bad67280c4b93"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for api12/dotnet9"
+changelog = "Update for api13"

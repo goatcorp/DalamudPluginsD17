@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/ReadyCheckHelper.git"
-commit = "1c87d33b79e429b8867d98d3b4aa943833f8d8f1"
+commit = "16157e9f93ce5ac7a2e546d814e0021a0b548c4a"
 owners = [
     "Infiziert90",
     "PunishedPineapple",

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "1fba1c9a5b057b10a253aa1feffd998b54084872"
+commit = "0996291a55b7d605c32c66d4a10dc81a8e7306ac"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Uberduck**: Fixed backend support after minor API changes
+- **General**: Updated for 7.3.
 """

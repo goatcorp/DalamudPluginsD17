@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "5b3ff704b1fda6d1a0b975391d954965a9ce420f"
+commit = "3d0d5a3f892de665516b771abe3831896e94199f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Inventory**: Add armory, retainers's, glamour dresser and armoire inventories to the All search results. Fix armoire icon check for character and retainer inventory
+- **General**: Fix potential null problem when searching for items in inventory all tab
 """
