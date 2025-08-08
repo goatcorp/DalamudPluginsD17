@@ -1,6 +1,14 @@
 [plugin]
-repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
+repo_url = "https://github.com/SalvatoreDevelopment/AetherFM"
 commit = "f16999aafed10cff020e602c8319b31b9abf9246"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
 changelog = "Update for Dalamud API 13. Full source now included as required by AGPLv3."
+
+[plugin_info]
+internal_name = "AetherFM"
+assembly_version = "1.1.1"
+version = "1.1.1"
+name = "AetherFM"
+description = "Radio player with HUD overlay for FFXIV."
+author = "SalvatoreDevelopment"
