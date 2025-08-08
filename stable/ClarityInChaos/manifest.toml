@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "9e621461c0f40f6cd163ab7f6fe0c79441d1dd08"
+commit = "bb3162a57e734e5dda9d392a5f340f0bf2217cc7"
 owners = ["meoiswa"]
 project_path = "ClarityInChaos"
 changelog = """
-
-Version 2.2.0.0:
-    - Added Occult Crescent to Alliance Raid as a Misc. Duty
+Version 2.3.0.0:
+ - Updated to API13
 """
