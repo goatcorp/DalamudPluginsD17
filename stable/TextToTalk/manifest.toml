@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "d7082b31a97f75976d2968039fa2f59b872038dd"
+commit = "0996291a55b7d605c32c66d4a10dc81a8e7306ac"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Fixes skipping voice-acted NPC dialogue in battle.
+- **General**: Updated for 7.3.
 """

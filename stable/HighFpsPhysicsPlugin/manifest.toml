@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ItsLunaYup/xivlauncher_physics_plugin.git"
-commit = "b6e15bbc4d29fc18cea610aee42c09acaf60ebcd"
+commit = "7cadd26fa37a3ade31ef02209af5270947a6246b"
 owners = ["ItsLunaYup"]
 project_path = "SamplePlugin"
-changelog = "Update for 7.2, and took ownership from Kirrana"
+changelog = "Update for 7.3, upgraded to Dalamud 13"
