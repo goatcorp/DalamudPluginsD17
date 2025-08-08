@@ -1,15 +1,27 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "603fa46ba51e21e4117172fa15ef2d9c1563fe59"
+commit = "e36186157727c2ea180bfd28d78f0aafe0ae1430"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.10
+# Umbra 3.1.0
 
 ## Fixes & Improvements
 
-- Fixed Auxiliary bars not respecting the configured Toolbar Height setting. 
-- Removed the option to turn off Threaded Style Computation. It is now on by default.
+- Updated Umbra for compatibility with Dalamud API 13. (By [wolfcomp](https://github.com/wolfcomp)).
+- Reintroduce "Expansion List Position"-option for the Teleport menu widget in condensed layout mode.
+- Hide empty groups and columns in the gearset switcher to preserve a stable layout.
+- Attempt on fixing some flickering issues when Widgets use the "Text Only" display mode.
+
+## Known issues
+
+This version is a preliminary release to get Umbra working with the latest Dalamud version. Expect
+some things to still not work properly at the time of this release:
+
+- Closing widget popups by clicking next to them is currently not working.
+- Some game icons are not rendering, most notably macro icons in the shortcut panel and dynamic menu widgets.
+
+These issues should resolve themselves as Dalamud itself is progressing further through this patch.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
