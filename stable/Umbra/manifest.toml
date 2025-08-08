@@ -12,6 +12,10 @@ changelog = """
 - Reintroduce "Expansion List Position"-option for the Teleport menu widget in condensed layout mode.
 - Hide empty groups and columns in the gearset switcher to preserve a stable layout.
 - Attempt on fixing some flickering issues when Widgets use the "Text Only" display mode.
+- Add tooltip to item button when some of the text isn't being displayed. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Re-implement the custom label for the Gearset Switcher widget. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed a few German translations in the Gearset Switcher widget. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Replace the volume icon with the selected right-click channel. (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ## Known issues
 
