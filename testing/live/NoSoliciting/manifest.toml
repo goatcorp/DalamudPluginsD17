@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Noevain/NoSoliciting.git"
+owners = ["Noevain"]
+project_path = "NoSoliciting.Plugin"
+commit = "7cbad9b16582564fd0a154853bea339de7561ca8"

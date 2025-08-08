@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DeathRoll.git"
-commit = "c2cf3c10991b1263547fc2a733d774f701ca4f58"
+commit = "e426ada4b84815462628e620582a32c5e92fa774"
 owners = [
     "Infiziert90",
 ]

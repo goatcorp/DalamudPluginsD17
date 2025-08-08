@@ -1,17 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "1aa5f1659ed931d5431df28e8d92234533a6c20b"
+commit = "603fa46ba51e21e4117172fa15ef2d9c1563fe59"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.2
+# Umbra 3.0.10
 
 ## Fixes & Improvements
 
-- Re-added some missing icons to the Icon Picker (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fixed a text-rendering issue in Vista world markers (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Fix black bar on multi monitor if it spans larger than the monitor (By [wolfcomp](https://github.com/wolfcomp)).
-- Replaced all occurrences of `.ToDalamudString().TextValue` with `.ExtractText()` to make string conversion more consistent across the plugin.
+- Fixed Auxiliary bars not respecting the configured Toolbar Height setting. 
+- Removed the option to turn off Threaded Style Computation. It is now on by default.
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

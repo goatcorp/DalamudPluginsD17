@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "65056e32668f3bb457374dcf3624abf2b3cca3f1"
+commit = "0996291a55b7d605c32c66d4a10dc81a8e7306ac"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Fixes TTS playing over voice-acted dialogue
+- **General**: Updated for 7.3.
 """

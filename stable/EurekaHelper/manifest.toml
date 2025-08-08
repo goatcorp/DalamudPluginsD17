@@ -1,12 +1,8 @@
 [plugin]
-repository = "https://github.com/snorux/EurekaHelper.git"
-commit = "ec64acfb769b2f3bef8fa442b3fde2fb101a0f31"
-owners = ["snorux"]
+repository = "https://github.com/KangasZ/EurekaHelper.git"
+commit = "b1f665d4c1bc43208ad1d7f884408aadd75d554e"
+owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-Elemental Manager
-- Added crowdsourced positions
-
-Misc
-- Updated to API 9
+- Fix /etrackers crashing game
 """

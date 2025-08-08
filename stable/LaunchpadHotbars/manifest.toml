@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/gnargle/LPHotbars.git"
+commit = "7ad50a6f2cfe560d2e833d2a3b4864705367e056"
+owners = ["gnargle"]
+project_path = "LaunchpadHotbars"
+changelog = "Update LPHotbars to 7.3. Also move to stable."

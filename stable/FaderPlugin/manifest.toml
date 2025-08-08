@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/shdwp/xivFaderPlugin.git"
-commit = "43bcf295a2188fc97f220da779288dd7a74aae36"
-owners = ["shdwp", "Aelexe", "Infiziert90"]
+repository = "https://github.com/Infiziert90/xivFaderPlugin.git"
+commit = "a89ef9ef335832f0a65322bc987b53a444fe9e4f"
+owners = ["Infiziert90"]
 project_path = "FaderPlugin"

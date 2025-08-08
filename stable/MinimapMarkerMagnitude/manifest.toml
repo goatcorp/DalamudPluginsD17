@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Cytraen/MinimapMarkerMagnitude.git"
+commit = "7fba6f8839717be51ca2c8614ecda564cb8689a7"
+owners = ["Cytraen"]
+changelog = """
+- Update for 7.3
+"""

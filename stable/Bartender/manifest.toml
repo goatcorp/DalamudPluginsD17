@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/RulHolos/Bartender.git"
+commit = "f0747bfad9124a7c56850236963faacfee72ece5"
+owners = ["RulHolos"]
+project_path = "Bartender"
+changelog = """
+- Api 13 / 7.3 push (no content update)
+"""

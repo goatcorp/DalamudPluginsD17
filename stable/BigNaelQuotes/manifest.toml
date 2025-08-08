@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/hunter2actual/BigNaelQuotes.git"
+commit = "6726771c614bc225c6a7079916b7dae155bd0376"
+owners = ["hunter2actual"]
+project_path = "BigNaelQuotes"
+changelog = "Update for api13"

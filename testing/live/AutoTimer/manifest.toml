@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "4d852361f21a817134394a45e57d85cd8f699001"
+commit = "6b018eaf563a1f79866215c4eca360daf5a1017a"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Update to 7.1
-- Add options for hiding timer on certain conditions'''
+- Update to 7.2'''

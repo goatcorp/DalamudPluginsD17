@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "3d248a8e15c0ae1ecb9cf82017918b03fad7777c"
+commit = "32dcd1e38a8e9a6eeffbde9ab8ba5b8f4bcba24b"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed the vanilla A Realm Reborn preset not loading on game startup, causing plugin load errors depending on configuration
+- Fixed crash on login when using a Solution 9 (and maybe some other zone I wasn't aware of) title screen
 """

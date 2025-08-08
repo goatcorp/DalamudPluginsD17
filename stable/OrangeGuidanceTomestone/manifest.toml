@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '99cd933cfecd72783ce7df9f1ff1e2b5030d4099'
+commit = 'db34bfc2c6092993fb2fe8ac376413b7a469f298'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Update for API 11
+- API 12
 """

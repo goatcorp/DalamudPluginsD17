@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "730cb0408bfd62464427df28d063fee4b2a06b43"
+commit = "f23354ee1996f1b69cf7828fcd83f82dbe2f8b44"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- 7.1 updates
+- Partially fix an issue where item names in shops can be concatenated (...)
+- Update to .net9
 """
-version = "2.8.0.0"
+version = "2.10.0.0"

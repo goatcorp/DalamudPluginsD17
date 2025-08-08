@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "479217ba5048498d317f370ca4efc77f84c12768"
+commit = "da98688e334d4852ce3cd7cb7f43a0bb60ceb26c"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
-changelog = """### Of Dungeons Deep v1.0.2.0
--# API11 / 7.1
+changelog = """
+- Data update (thanks compendium)
+- Fixed an issue with EO's boss data on floor 30 and 40 not being displayed (thanks Seitoun for the report)
 """

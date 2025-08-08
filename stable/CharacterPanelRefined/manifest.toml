@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "5cf304f1247b7f8cbe900d35f4cd1d9852467a7b"
+commit = "4dc13104c7295c75afcd94eaa7f3e3d3825b2567"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fix calculation of expected damage and healing values
+- Replaced BLM Fire IV cast time with Fire III in speed properties
+- Update to ffxiv 7.3 and dalamud api13
 """

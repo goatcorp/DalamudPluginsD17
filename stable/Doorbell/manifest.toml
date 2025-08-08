@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/Doorbell.git"
-commit = "84afb4870d3024c3fb7503e6db9bdbbe92ce50b1"
+commit = "8d5e16021970a0adfbd49e98d915ae9572a5e684"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Updated for patch 7.1"
+changelog = "- Fix for doorbell chime"

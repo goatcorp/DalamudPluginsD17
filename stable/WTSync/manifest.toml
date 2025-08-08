@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "deadd14776689544d69391e48bb3b7b8300cedbf"
+commit = "17ec2be5c4a37a6c35bac435b8fb8f2ca69947b4"
 owners = [ 
 	"KhloeLeclair"
 ]
 project_path = ""
 changelog = """
-* 7.1 Changes + Dalamud API11
+Updated for FFXIV 7.3 and Dalamud API 13.
 
-* Added a feature to select a random duty from the list of matching duties when clicking an entry in WTSync, rather than just going through them in order. Hopefully that makes reclears slightly more interesting, especially with the newer broader categories.
+* Added: Share Nickname setting, which lets you set a name for yourself that shows up if someone shares the party's WTSync status.
+* Changed: Only respond to left-clicks when clicking on a Wondrous Tails duty to prevent conflicts with the new native context menu.
+* Changed: Start tracking sticker positions for eventual inclusion into statistics so we can see how many players get 1, 2, or 3 lines.
 """

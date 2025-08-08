@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
-commit = "5f3e7bc83f62b06c3f56d8a7dc86e372e6565b51"
+commit = "a93d46d19c38f2678f9841cfe7e21e57146e0a02"
 owners = ["Shezwick"]
 project_path = "/GlamourSpamBeGone"
-changelog = "Updated for API11"
-version = "1.2.0.0"
+changelog = "Updated for patch 7.2"
+version = "1.7.2.0"

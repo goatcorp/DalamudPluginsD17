@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Noevain/VoiceDirector.git"
+commit = "6fe981478270057e15468d6dfc1ebefd28ab4942"
+owners = ["Noevain"]
+project_path = "VoiceDirector"
+changelog = "API13 updated,yipee"

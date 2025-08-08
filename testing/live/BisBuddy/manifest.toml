@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/RajahOmen/BisBuddy.git"
+commit = "73628620d4a7e98dd5186fa9204d395641cb0b72"
+owners = ["RajahOmen"]
+project_path = "BisBuddy"
+changelog = """\
+**Fixes**
+ - Fix prerequisites for collected items being highlighted
+ - Fix obtained prerequisites not being highlighted properly
+ - Fix obtainable items not being highlighted in shops to purchase
+"""

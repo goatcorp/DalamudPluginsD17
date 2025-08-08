@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Shezwick/GlamourSpamRemover.git"
-commit = "8446cc2f2132b425f1863b49d91c04d08f6dadcb"
+commit = "a93d46d19c38f2678f9841cfe7e21e57146e0a02"
 owners = ["Shezwick"]
 project_path = "/GlamourSpamBeGone"
-changelog = "Addressed bug with the debug console that could cause crashes"
-version = "1.2.2.0"
+changelog = "Updated for patch 7.2"
+version = "1.7.2.0"

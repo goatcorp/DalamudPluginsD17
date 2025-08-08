@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-tf2-crit-plugin.git"
-commit = "c846943d0e9c9c8bec583e82c467a51041fd7d6c"
+commit = "eddc5307b6cdf51cf82df5eddd96a6dca4f68b57"
 owners = ["jkchen2"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Fix player/pet logic order
+- Update for 7.11
+- Add sound preloading
 """

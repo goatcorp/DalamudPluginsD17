@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "07b0e4f84963973eaa3ccc7a601266cd9b100542"
+commit = "3c02043f5543509f0c577730b24c7931aabd9c86"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-Trying to fix the plugin error on load after an update. If it still happens, restart your game. Sorry for the inconvenience
+- You can select which songs will be played in the randomized queue
 """

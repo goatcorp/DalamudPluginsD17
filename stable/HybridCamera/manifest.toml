@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Drahsid/HybridCamera.git"
-commit = "2e18760d64be14d2dc16405168d5a7a8f236ff3c"
+commit = "c1d68e23b15a10bf9a4da6418a01aa368e8373cb"
 owners = ["Drahsid"]
 project_path = "HybridCamera"
 changelog = """
-- Added the option to swap to legacy movement when solely using turn input
-- Added the option to disable LMB + RMB auto run
+- Updated for API13
 """
