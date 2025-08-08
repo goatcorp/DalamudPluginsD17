@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/serifas/AbsoluteRP.git"
-commit = "0c38868ead4386255177b3d469809952e8edec33"
+commit = "7fa544858e87b6aa62b0849f546b6ac496073d61"
 owners = ["serifas"]
 project_path = "AbsoluteRoleplay"
 
