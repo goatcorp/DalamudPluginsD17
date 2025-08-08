@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/chirpxiv/Globetrotter.git'
-commit = 'd2538f2f8fe6461f11510a0c87e95912a1a1e34c'
+commit = '57761324291863a017411127c494b0d6249d4110'
 owners = [ 'anna-is-cute', 'chirpxiv' ]
-changelog = 'API 12'
+changelog = 'API 13'
