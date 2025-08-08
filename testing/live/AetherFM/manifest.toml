@@ -3,5 +3,4 @@ repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
 commit = "f16999aafed10cff020e602c8319b31b9abf9246"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
-api_level = 13
 changelog = "Update for Dalamud API 13. Full source now included as required by AGPLv3."
