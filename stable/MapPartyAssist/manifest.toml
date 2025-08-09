@@ -6,3 +6,4 @@ project_path = "MapPartyAssist"
 changelog = """
 * Fixed and updated for patch 7.3.
 * Added Gargantuaskin Treasure Maps and Vault Oneiron to stat tracking.
+"""
