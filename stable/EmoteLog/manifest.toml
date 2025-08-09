@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = 'd3a5cecd05ec676173ecd91f01f5aaced2d50e90'
+commit = '60e78de2fbbcb3a02165d699164838ca5f449290'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Update for 7.2 and API12 
+- Updated to API13 and patch 7.3
 """
 
