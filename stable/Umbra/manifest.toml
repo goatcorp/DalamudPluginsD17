@@ -1,31 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "e36186157727c2ea180bfd28d78f0aafe0ae1430"
+commit = "10a54d4d7cebf129cd96a1fea84e9ad0e6eb6c7f"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.0
+# Umbra 3.1.1
 
 ## Fixes & Improvements
 
-- Updated Umbra for compatibility with Dalamud API 13. (By [wolfcomp](https://github.com/wolfcomp)).
-- Reintroduce "Expansion List Position"-option for the Teleport menu widget in condensed layout mode.
-- Hide empty groups and columns in the gearset switcher to preserve a stable layout.
-- Attempt on fixing some flickering issues when Widgets use the "Text Only" display mode.
-- Add tooltip to item button when some of the text isn't being displayed. (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Re-implement the custom label for the Gearset Switcher widget. (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fixed a few German translations in the Gearset Switcher widget. (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Replace the volume icon with the selected right-click channel. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Add support for BC5/BC7 textures. Thanks Wildwolf & Kizer!
+- Add support for right-click & modifier-keys on server info bar buttons.
+- Minor performance optimizations in the drawing library.
 
-## Known issues
-
-This version is a preliminary release to get Umbra working with the latest Dalamud version. Expect
-some things to still not work properly at the time of this release:
-
-- Closing widget popups by clicking next to them is currently not working.
-- Some game icons are not rendering, most notably macro icons in the shortcut panel and dynamic menu widgets.
-
-These issues should resolve themselves as Dalamud itself is progressing further through this patch.
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
