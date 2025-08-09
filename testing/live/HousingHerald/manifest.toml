@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-HousingHerald.git"
-commit = "500ea17c50d707762df7e462fc93f0c3cf6106ca"
+commit = "358b924601d4970e547c5e81fad3a2b602700da0"
 owners = ["mashirochan"]
 project_path = "HousingHerald"
-changelog = "Fix results phase end detection"
+changelog = "Update to API13"
