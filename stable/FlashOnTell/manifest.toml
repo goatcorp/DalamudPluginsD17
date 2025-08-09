@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud-FlashOnTellPlugin.git"
-commit = "a24e75116ec87c1d5aff5435d7a809fadab94383"
+commit = "594d7df644da98a7f7aa43b0bba4d5eb9223d9b5"
 owners = [
     "reiichi001",
 ]
 project_path = "FlashOnTell"
-changelog = "API 12 update"
+changelog = "API 13 update"

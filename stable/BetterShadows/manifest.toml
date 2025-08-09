@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "193e4a9c057848f9cc9086c328ffee2ff77206d3"
+commit = "177eb34795427816a198905e7c01be57ee8644ee"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Updated for 7.2 and API12
+- Updated for API13
+- Potential instability when switching from built-in graphics configs, let me know if you encounter any issues.
 """
 

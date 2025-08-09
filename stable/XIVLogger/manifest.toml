@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/XIVLogger.git"
-commit = "96b2c27460e1195b48b56e83afe8dc82d260c75d"
+commit = "fc6a71b1a03e5eece8c0cce5bb3d747099d14bbb"
 owners = [
   "cadaeix",
   "Infiziert90"

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "25d2753dabb142ca4b729a1437ce0a41e92d105e"
+commit = "e4a3b446ead7eff2b5bd2a00de9a3352a63270aa"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-- Update to ffxiv 7.2 and dalamud api12
+- Fix missing item patches in tooltips
 """

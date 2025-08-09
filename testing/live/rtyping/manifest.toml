@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "eb97c640309b291d4165c6f4db71fa2e6b36b380"
+commit = "c913dc69c89a983927798da9fb5bb133b6591e8c"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Update for 7.2
+- Update for 7.3
+- Changed plugin icon
+- Changed main window UI
+- Reworked Trusted Characters
+- Moved Trusted Characters to SQLite instead of configuration file
 """

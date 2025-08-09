@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "9e94004f2708512662f8bbd0221992f70a0b1950"
+commit = "80742bd6c11dc4f945b25c32fcfc91bd00b9cb5f"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Exports now include correct stats for Endwalker and Shadowbringers relic weapons with selectable stats
-- Fixed regression with exporting job via gearset list while on a different job
+- Compatibility with 7.3 and Dalamud 13.
+- Fixed minor bug allowing export of DoH jobs with DoH soulstones.
 """

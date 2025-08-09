@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Cytraen/HandyHotbarHelper.git"
+commit = "5370de020859f97c22b296aa624f4015ea813460"
+owners = ["Cytraen"]
+changelog = """
+- Handy Hotbar Helper shows a window next to the Actions & Traits menu when there are actions missing from your hotbars.
+- Update for 7.3
+"""

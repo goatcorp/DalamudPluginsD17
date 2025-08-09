@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "a3374fec59f1e33b872d4d706032e53f4efa24c1"
+commit = "0631f9b5f8fa56e0971da8c15ea4ef0dda01b60d"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Bump for API v12"
+changelog = "Bump for API v13"
