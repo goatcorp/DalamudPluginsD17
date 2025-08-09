@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "2f73b4d98fbbf509b11cee93a81bf8d7068b2658"
+commit = "fe6f433b01d7b9972e105a329aa3a9980bbea68a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.13"
+version = "1.2.0.0"
 changelog = """\
 **Fixes**
- - Fixed issues with the currently selling/sale history tables not refreshing their data
+ - API13 support
+ - The arrow buttons inside the main UI will be weirdly sized until ArrowButton returns in a new dalamud release
 
 """
