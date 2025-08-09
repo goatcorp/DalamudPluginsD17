@@ -1,15 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "603fa46ba51e21e4117172fa15ef2d9c1563fe59"
+commit = "10a54d4d7cebf129cd96a1fea84e9ad0e6eb6c7f"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.0.10
+# Umbra 3.1.1
 
 ## Fixes & Improvements
 
-- Fixed Auxiliary bars not respecting the configured Toolbar Height setting. 
-- Removed the option to turn off Threaded Style Computation. It is now on by default.
+- Add support for BC5/BC7 textures. Thanks Wildwolf & Kizer!
+- Add support for right-click & modifier-keys on server info bar buttons.
+- Minor performance optimizations in the drawing library.
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

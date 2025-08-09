@@ -2,8 +2,8 @@
 repository = "https://github.com/Critical-Impact/AutoMountBGM.git"
 owners = [ "Critical-Impact",]
 project_path = ""
-commit = "6a09158fa7f0ef696de3c281175e64e94f6dea17"
+commit = "a767f20460143d86bc73ca0a3102a0a223695b89"
 changelog = """\
 ### Changed
-- API12 support
+- API13 support
 """

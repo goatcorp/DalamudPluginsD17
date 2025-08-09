@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Cytraen/MinimapMarkerMagnitude.git"
-commit = "297787806867e4268b3f6b5bf3339ad324134994"
+commit = "7fba6f8839717be51ca2c8614ecda564cb8689a7"
 owners = ["Cytraen"]
 changelog = """
-- Minimap Marker Magnitude allows you to adjust the size of your minimap's icons, either globally or on a per-icon basis
+- Update for 7.3
 """

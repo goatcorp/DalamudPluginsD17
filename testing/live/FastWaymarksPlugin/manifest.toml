@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/SamuelSapp/FastWaymarksPlugin.git"
-commit = "119b4ed951a2f7a5ae00cf3165eeba82b365c69f"
+commit = "2e12522fdf924404a3692af3730ae17c75290dfe"
 owners = ["SamuelSapp"]
 project_path = "FastWaymarksPlugin"
 changelog = """
-Fixed: Config Window should auto-resize now.
+Updated for 7.3 (api13).
 """

@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "cf8627a43d29b1186fcbf8e6096b3d676ee4d4dd"
+commit = "78afe8d4373e30ebda1881ba60716125ba7e1833"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
 changelog = """
-Added a few changes to the ui.
-- The right box on the quest details no longer gets cut off.
-- Searching for quests now has a visual display of how many quests have been found.
-- Close all quest details button has been changed from `Close All Quest Details` -> `Close All Quest Detail Windows`
+- Bumped version to 1.2.0.1
+- Fetched new quest data from the recent patch
+- Bumped dalamud api to 13.0.0
 """
+

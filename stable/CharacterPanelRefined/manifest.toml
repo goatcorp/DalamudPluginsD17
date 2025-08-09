@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "71ac32ff338a7c2c445d68b49d250d1f74dfae7a"
+commit = "7d69affe383a02db37c8bff4ab1887ab1593ce2f"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Update to ffxiv 7.2 and dalamud api12
+- Fix item tooltips
 """
