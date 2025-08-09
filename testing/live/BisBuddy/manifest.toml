@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "d577c5f757e2943c5e28867bb35ee17460e1d666"
+commit = "cb3f363f2778ef5d8b8a08017f5419151cbcf4aa"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
@@ -11,4 +11,5 @@ changelog = """\
  - Fix bug with meld selector window not appearing
  - Fix bug with gearsets not updating/syncing
  - Fix loading issue/crash related to releasing loaded files
+ - Fix config version migration with gearsets directory issue
 """
