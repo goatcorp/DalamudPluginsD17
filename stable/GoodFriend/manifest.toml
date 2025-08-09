@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Blooym/Dalamud.GoodFriend.git"
-commit = "1a17c054b5e16c408bba6d6d54fbeb31e9dfb7f7"
+commit = "f9d18951e45fff0968aba7387113e7145576805e"
 owners = [
     "Blooym",
 ]
