@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
-commit = "93111484cb982d01632e3d5786b078ca12b7d3c5"
+commit = "c58e8ef36e4be263607b57d9bf43530d0f2534d0"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
 changelog = """
-v1.1.0: Update to Dalamud API 13 with external plugin integration features.
+v1.1.1: Update to Dalamud API 13 with external plugin integration features.
 - Added 8 public methods for Umbra widget integration (GetCurrentStation, GetStatus, Play/Pause/Stop, OpenWindow/ToggleWindow)
 - Enhanced RadioManager with CurrentStation property and improved state management
 - Thread-safe external plugin communication via reflection
