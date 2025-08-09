@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
+commit = "be71c26714e0d6f47e63ed8b43dcb1ff308983c7"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fix map links and loot not tracking with abbreviated name settings.
-* Announcing a map should now no longer overwrite your stored map link.
+* Fixed and updated for patch 7.3.
+* Added Gargantuaskin Treasure Maps and Vault Oneiron to stat tracking.
 """
