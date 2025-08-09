@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "3d0d5a3f892de665516b771abe3831896e94199f"
+commit = "5598b755b65bcfd96edde41f3c903c334bb0d323"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix potential null problem when searching for items in inventory all tab
+- **General**: API13, 7.3 fixes and add new patch things
 """
