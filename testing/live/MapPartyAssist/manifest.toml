@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
+commit = "8a60d0363d1ea53bc6958b32d2eec4e704297a67"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fix map links and loot not tracking with abbreviated name settings.
-* Announcing a map should now no longer overwrite your stored map link.
+* Tracker window rework: You can now drag and drop maps to re-assign them.
+* Fix loot not registering on map chests.
+* Adjusted timing setpoints to improve reliability.
+"""
