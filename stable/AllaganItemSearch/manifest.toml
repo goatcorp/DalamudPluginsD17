@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "8f66fd402af4cffa323b553af2daaab49d3cabfe"
+commit = "b98604801961ef29bcd514ce10c03783ee3eabbd"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganItemSearch"
-version = "1.0.0.5"
+version = "1.1.0.0"
 changelog = """\
-- Added hotkey to open main window
-- Added setting to clear search filters when closing the main window
-- Clicking an item with no modifiers held will try to open the More Information window for the item in AT
-- Added sources/use filters for Card Packs, PoTD, HoH, Orthos, Anemos, Pagos, Pyros, Hydatos, Bozja, Logograms, Occult, PvP Series and Collectable Shops
+- API13 support
 """
