@@ -2,7 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "6d2b82d3dcdc8e4a83a9b57f357f0f31dcffb9b1"
-changelog = """
-User Interface: Reorganized buttons in gear edit to account for long names
-    User Interface: Edit windows and inventory window open centered now"""
+commit = "59c6cff7c22f44849a45a22e6a87ffe3f51b35a7"
+changelog = "General: Updated for 7.3"
