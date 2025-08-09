@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "fe6f433b01d7b9972e105a329aa3a9980bbea68a"
+commit = "a1734d98241014cd912e03684367f4c46f803b15"
 owners = [
     "Critical-Impact",
 ]
