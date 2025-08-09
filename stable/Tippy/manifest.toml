@@ -2,7 +2,7 @@
 repository = "https://github.com/Critical-Impact/Tippy.git"
 owners = [ "kalilistic", "Critical-Impact" ]
 project_path = "src/Tippy"
-commit = "a0624ed539a8adc3bf189feb3425b23cc003e456"
+commit = "554b19803d56d87bff83ca31dddb865a42636f73"
 version = "1.13.0.0"
 changelog = """\
  - API13 support
