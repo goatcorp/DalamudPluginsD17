@@ -6,4 +6,3 @@ project_path = "MapPartyAssist"
 changelog = """
 * Fix map links and loot not tracking with abbreviated name settings.
 * Announcing a map should now no longer overwrite your stored map link.
-"""
