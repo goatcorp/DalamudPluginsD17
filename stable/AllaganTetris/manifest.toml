@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganTetris.git"
-commit = "3b0c5bdbde159d518e33530c9c71566f7dfba370"
+commit = "f9b45f182baff9207c346b88d744e14aa421b391"
 owners = [
     "Critical-Impact",
 ]
