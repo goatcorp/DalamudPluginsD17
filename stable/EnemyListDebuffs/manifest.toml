@@ -3,5 +3,6 @@ repository = "https://github.com/Felys1998/EnemyListDebuffs.git"
 commit = "3de258de9fa428cb643c3629061ff99cdfbc9a3c"
 owners = [
     "Felys1998",
+    "Limiana",
 ]
 changelog = "7.3 Update"
