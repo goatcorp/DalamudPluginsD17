@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/chirpxiv/Globetrotter.git'
-commit = 'd2538f2f8fe6461f11510a0c87e95912a1a1e34c'
+commit = 'e5ac31b696c599cc00be4d042d12efe53ac3663f'
 owners = [ 'anna-is-cute', 'chirpxiv' ]
-changelog = 'API 12'
+changelog = 'Fix bad function signature'

@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "d718b102dd2617997d549a1b075f954d8804f2af"
+commit = "bf44adfc6ccc0e7b9893acdc3088604898f68422"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 1.0.2.0:
-- Fix: Crashing if Tobii Game Hub is not present, preventing using this plugin with OpenTrack or Beam Eye
+Version 1.1.0.0:
+ - Updated to API13
 
 Known Issues:
-- Windowed mode is currently unsupported.
+ - Windowed mode is currently unsupported.
 """

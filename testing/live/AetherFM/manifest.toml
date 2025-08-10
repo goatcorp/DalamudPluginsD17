@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
-commit = "092f08b6a585aad31a85e29b854a655cb4f6cb63"
+commit = "35611e523fd7eb13d9ee379740f93645fc347619"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
-changelog = "Initial release with Radio Browser API integration. Modern UI with search, filters, and volume controls. Automatic station loading and duplicate filtering. Comprehensive error handling and user feedback. Developer workflow automation with build scripts. Support for English and Italian languages."
-
-# Note: AetherFM is only supported on Windows. Due to its reliance on the NAudio library, audio playback is not available on Linux or non-Windows versions of Dalamud.
+changelog = """
+v1.2.0: IPC gates, Global search, Custom Stations, background playback, robustness.
+- Formal IPC call gates (incl. ResumeLast, TogglePlayStop); non-throw policy; ordered events
+- Global search (name/tag/language) and Custom Stations (add/list/remove)
+- Favorites enhancements (names API), favorites always visible
+- More stations: limit=10000, hide broken, clickcount order; wider stream validation (http/https,/stream, mp3/aac)
+- Background playback toggle (ON by default): stop on close only if disabled
+"""

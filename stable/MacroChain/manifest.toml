@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Caraxi/MacroChain.git"
-commit = "3a4769b86e41edac6238fb2a74c7f9569878f6b8"
+commit = "bafcf63bb9f7ddea1aff8abf33c77ecf00fb1005"
 owners = [
     "Caraxi",
 ]

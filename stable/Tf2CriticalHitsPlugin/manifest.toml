@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-tf2-crit-plugin.git"
-commit = "4febed44daad9ee573f642f939d7f4a19baa3165"
+commit = "e21ffe8554e38b6b88f3fe8df7c645006a3d026e"
 owners = ["jkchen2"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-Fix regression bug with loading specific wav files on Windows
+Update for API 13
 """
