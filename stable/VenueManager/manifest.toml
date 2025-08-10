@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "700f5fc11d88436f945476a240c96336c6d899eb"
+commit = "3d21df168ce9448c60178fb03620de8e1eb907f4"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
