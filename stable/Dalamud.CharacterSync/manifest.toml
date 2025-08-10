@@ -4,7 +4,7 @@ commit = "3cb09418ccd6750493a5882e807f95b73cbd14f0"
 owners = [
 	"goaaats",
 	"reiichi001",
-	"xpahtalo"
+	"Xpahtalo"
 ]
 project_path = "Dalamud.CharacterSync"
 changelog = """
