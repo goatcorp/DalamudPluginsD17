@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "5975309d6db1db8f2387b4fa8590f0a003786693"
-version = "1.7.3.28"
+commit = "98d2574d20a873dcc82322156c219af15e447404"
+version = "1.7.3.29"
 owners = ["CMDRNuffin"]
 changelog = """Update for 7.3
 
