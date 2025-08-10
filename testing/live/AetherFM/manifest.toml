@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
-commit = "50b537eafeb2ee4c89093a73bba3d7355c58403e"
+commit = "35611e523fd7eb13d9ee379740f93645fc347619"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
 changelog = """
