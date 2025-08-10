@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/sersorrel/WhosTalking.git"
+repository = "https://github.com/keysmashes/WhosTalking.git"
 commit = "1b4bf813ab1cd5eb5c52a919a7810007dfee6e66"
-owners = ["sersorrel"]
+owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
 **Version 0.8.5.0**
