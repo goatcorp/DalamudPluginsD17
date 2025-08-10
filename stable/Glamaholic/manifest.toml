@@ -1,10 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = 'a6c74333bda5868fd06ece33919e0d31728da031'
+commit = 'cb0572b189d4cf2b45e0deac9b60844bcfda722a'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Updated for 7.3 & API 13
-- Added the ability to organise plates into folders
+- Fixed TryOn "Save/Delete Outfit" setting offset for 7.3
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """
