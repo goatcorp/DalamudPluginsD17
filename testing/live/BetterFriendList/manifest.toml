@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "6b3186ecb424f61fc28acb41b7818d2a59ac8593"
+commit = "1c956651bdd01b82d5dbed7d6fe8496e3390d8d6"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
-changelog = "submitting to test"
+changelog = "bug fix, add alias, re enable update one person only"

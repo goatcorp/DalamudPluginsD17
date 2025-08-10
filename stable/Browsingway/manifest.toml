@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "a8564d17c1c9d8d726cef409abd8db7cf88dccb2"
+commit = "2e8e7ce04c188c023bc49ea8f0864bcd9e74a53b"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Bump Chromium to 134.0.6998.178
-- (this fixes CVE-2025-2783)
+- Bump Chromium to 138.0.7204.184
+- Api 13 support
+- Add HideInPvP setting (by SheepGoMeh)
 """

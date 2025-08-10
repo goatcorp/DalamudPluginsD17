@@ -10,5 +10,5 @@ v1.2.0: IPC gates, Global search, Custom Stations, background playback, robustne
 - Favorites enhancements (names API), favorites always visible
 - More stations: limit=10000, hide broken, clickcount order; wider stream validation (http/https,/stream, mp3/aac)
 - Background playback toggle (ON by default): stop on close only if disabled
-- Start/Stop synchronization hardened to avoid NAudio races
-"""
+
+

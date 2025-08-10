@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "7c66abc3a9d06c6597ea8a45df864dd6f1fb2930"
+commit = "bf7da7d05de34a57ee1bb1708f0386c21d5ee684"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.6.0]
-- Support to search entries by date.
+[1.0.7.0]
+- Support API 13.
 """

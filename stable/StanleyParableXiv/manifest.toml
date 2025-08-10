@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "36ae9d6fad2ce5aa92be73edcf53e42b753431c5"
+commit = "9bec21632808b19ea4f64bb9f611de099132373b"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Update to API 12
+- Update to API 13
 """
