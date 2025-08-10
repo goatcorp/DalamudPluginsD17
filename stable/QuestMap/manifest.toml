@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/rreminy/QuestMap.git'
-commit = 'dbf364ff402e566b84a2bc3066747b0fb19644ab'
+commit = 'de535888794858c6e51a3f197b68c2b81f8ebcab'
 owners = [ 'anna-is-cute', 'rreminy' ]
-changelog = 'API 13 Bump'
+changelog = 'Fix clipper crash'
