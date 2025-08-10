@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "1340b22efe6a674b0a1e8424f1c6776a7dfbc64d"
+commit = "accf117a43e854acb7d2d3ab96a552c1cdfb3862"
 owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """
-Fix regression bug with loading specific wav files on Windows
+Update for API 13
 """
