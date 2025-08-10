@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "eb7b8f5998cabfbfe66c0a4a9d9e5a177c6143a5"
+commit = "ee19eeb609d32f2198e00ea183f9ed1a25e74f65"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Added Show Device Name setting"
+changelog = "Update to API13"

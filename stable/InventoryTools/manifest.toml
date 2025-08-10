@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "84bf54b42880b07003423d629d9959e8825e4dec"
+commit = "f82ed181610cc0f8de38b101c118b0a37ebc907a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.20"
+version = "1.13.0.0"
 changelog = """\
-### Added
-- Added a new tree view mode for craft lists for quick configuration and visualization of each output item.
+### Fixed
+- API13 support
 
 """

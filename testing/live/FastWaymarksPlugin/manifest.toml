@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/SamuelSapp/FastWaymarksPlugin.git"
-commit = "4d18f045ad7e1d56764dae6b350d6ec975e80a20"
+commit = "2e12522fdf924404a3692af3730ae17c75290dfe"
 owners = ["SamuelSapp"]
 project_path = "FastWaymarksPlugin"
-changelog = "Initial Submission"
+changelog = """
+Updated for 7.3 (api13).
+"""

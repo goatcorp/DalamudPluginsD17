@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/QuackieMackie/QuestJournal.git"
+commit = "78afe8d4373e30ebda1881ba60716125ba7e1833"
+owners = ["QuackieMackie"]
+project_path = "QuestJournal"
+changelog = """
+- Bumped version to 1.2.0.1
+- Fetched new quest data from the recent patch
+- Bumped dalamud api to 13.0.0
+"""

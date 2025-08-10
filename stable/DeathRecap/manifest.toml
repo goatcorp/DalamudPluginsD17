@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "75826ebe91713e34578ad4d7ed0cc98f5622154b"
+commit = "fdc149f4aa013eb1def0747a2dc9d30f7f17f326"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Update to ffxiv 7.2 and dalamud api12
+- Fix odd skill interactions when XivAlexander is in use
 """

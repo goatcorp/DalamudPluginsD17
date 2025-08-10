@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gposingway/Sightseeingway.git"
-commit = "b3de062b9c258dfb8c62ec68f2b8f5deb93eb6ab"
+commit = "194fd18d0efe287d5fdc8fde4d5c5385ccdcd720"
 owners = ["gposingway","LeonAquitaine"]
 project_path = "Sightseeingway"
-changelog = "Configurable name format, improved event handling, and some code housekeeping."
+changelog = "API 13 update"

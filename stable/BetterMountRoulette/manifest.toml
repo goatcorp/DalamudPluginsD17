@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "c001c27fd8e2fd9c7849ce8b00c4d3067b606fbd"
-version = "1.7.2.27"
+commit = "98d2574d20a873dcc82322156c219af15e447404"
+version = "1.7.3.29"
 owners = ["CMDRNuffin"]
-changelog = """Bugfix:
-- Properly update action list upon enabling and disabling the flying mount roulette action
-- Removed a racing condition that would very rarely crash the game on boot"""
+changelog = """Update for 7.3
+
+Also adds an option to override mount group size settings for frontline/rival wings."""

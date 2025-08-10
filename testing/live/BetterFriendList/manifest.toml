@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/devckuw/BetterFriendList.git"
+commit = "365c852b0403e83b11e6f7181895179e8c04625f"
+owners = ["devckuw"]
+project_path = "BetterFriendList"
+changelog = "adding option, fixing sorting display"

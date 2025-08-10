@@ -1,14 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "27b878dabba749ffd4195a00cb06fb08421d6dbe"
+commit = "10a54d4d7cebf129cd96a1fea84e9ad0e6eb6c7f"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.15
+# Umbra 3.1.1
 
 ## Fixes & Improvements
 
-- Fixed a crash when restarting the game while having the Compass widget enabled.
+- Add support for BC5/BC7 textures. Thanks Wildwolf & Kizer!
+- Add support for right-click & modifier-keys on server info bar buttons.
+- Minor performance optimizations in the drawing library.
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
