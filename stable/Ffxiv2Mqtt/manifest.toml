@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "b0c68357e4f0d0572b8e84693c0c3ee335cf66bd"
+commit = "aa758fb4593125cc9d62147fdf5a93bd8bfc0efd"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """API12 support.
-/mqttcustom now supports spaces in the payload thanks to StoiaCode on github.
-Some items were removed from Viper and Black Mage gauge topics due to changes by Square Enix.
-Statuses now use 'Parameter' instead of 'Stacks' to be more accurate."""
+changelog = """API13 support."""
