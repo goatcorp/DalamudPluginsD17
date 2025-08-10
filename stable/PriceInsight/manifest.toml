@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "7345796aab76083e542f1e1210f6b828b8ddd66c"
+commit = "3c1c16d756859395b58f583f97e251135bbccda8"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Update to ffxiv 7.2 and dalamud api12
+- Update to ffxiv 7.3 and dalamud api13
 """

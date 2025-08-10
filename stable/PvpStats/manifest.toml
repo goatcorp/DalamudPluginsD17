@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "53ff20925f17f9dc6260c1834f8b4ee2f8122cb5"
+commit = "7bbae5f9199c525ff4919034a159136b3c43486d"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added new match records for Frontline and Rival Wings.
-* Added validation for known misrecords in Rival Wings tracker.
-* Performance improvement on player tab filters.
+* Fixes for patch 7.3.
+* Rival Wings tracker temporarily disabled.
 """

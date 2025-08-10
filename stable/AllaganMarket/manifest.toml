@@ -1,17 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "0fb994d717a2c2ae4d283356920be83e72190f36"
+commit = "21abc0d3b2be888b19bac31d5b26db3c3d09bcaf"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.9"
+version = "1.2.0.0"
 changelog = """\
-**Added**
- - Undercut fallback setting added, this allows you to ignore NQ/HQ pricing if there are no listings available for NQ/HQ
-
 **Fixes**
- - When listing an item and the only listings were your own, it was possible for the cache to not update(making all the listings still list as stale)
- - When listing an item for the first and the only listings were your own the cache was not getting updated
+ - API13 support
+ - The arrow buttons inside the main UI will be weirdly sized until ArrowButton returns in a new dalamud release
 
 """

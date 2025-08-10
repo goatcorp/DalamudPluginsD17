@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "d755ed4bd2e6d8d297906e61555e90c50abbe42e"
+commit = "5598b755b65bcfd96edde41f3c903c334bb0d323"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix out of bound on an icon loading array
+- **General**: API13, 7.3 fixes and add new patch things
 """

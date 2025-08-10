@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "b3bb4c117125b0c74958e2adf0b153f7ec54ab07"
+commit = "f82ed181610cc0f8de38b101c118b0a37ebc907a"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.12.0.4"
+version = "1.13.0.0"
 changelog = """\
-**Added**
- - Added ability to enable verbose logging
+### Fixed
+- API13 support
 
 """

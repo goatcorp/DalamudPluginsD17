@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "d7b3e3eb8940ed8ebf55368d552af37c2887f514"
+commit = "bf7da7d05de34a57ee1bb1708f0386c21d5ee684"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.4.0]
-- Support to record duty settings (Minimal IL, Unsynced ...)
+[1.0.7.0]
+- Support API 13.
 """
