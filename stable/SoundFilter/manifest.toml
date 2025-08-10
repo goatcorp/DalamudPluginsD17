@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/Cytraen/SoundFilter.git'
-commit = 'ac0727e6602c6aae0031552ba51dfc465fea521d'
+commit = '0dda90460dd4f1bb471610086ac58f6361cd20e5'
 owners = ['Cytraen']
-changelog = 'Fix long-standing "Ambient Sounds" channel crackling noise bug'
+changelog = 'Update for 7.3 (thank you Franz!)'
