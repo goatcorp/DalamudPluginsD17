@@ -1,9 +1,10 @@
 [plugin]
-repository = "https://github.com/reiichi001/Dalamud.CharacterSync.git"
-commit = "611c86eb61c07ba5280376a54999e24d2f4ae491"
+repository = "https://github.com/Xpahtalo/Dalamud.CharacterSync.git"
+commit = "3cb09418ccd6750493a5882e807f95b73cbd14f0"
 owners = [
 	"goaaats",
-	"reiichi001"
+	"reiichi001",
+	"Xpahtalo"
 ]
 project_path = "Dalamud.CharacterSync"
 changelog = """
