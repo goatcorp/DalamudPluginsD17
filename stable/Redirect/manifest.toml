@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "a7538b7612ef6f57b13e18727236b0c504234f05"
+commit = "ff25dcbfc68eb93b0a5bbc0f766fdce21b4ded97"
 owners = [
     "cairthenn",
 ]
