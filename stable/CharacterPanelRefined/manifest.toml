@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "5cf304f1247b7f8cbe900d35f4cd1d9852467a7b"
+commit = "7d69affe383a02db37c8bff4ab1887ab1593ce2f"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fix calculation of expected damage and healing values
+- Fix item tooltips
 """

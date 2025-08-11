@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "a991749274a9606acb67ca7116dbb42c4eed02e5"
+commit = "8d711d8a27cbe88eede6baf27a19191d449a1211"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix highlighting issue when not every vendor for item has a shop name
-- Fix highlighting issue where menu selection was specific enough (multiple things highlighted)
-- Add additional shop names
+- Patch 7.3 update (Dalamud 13)
 """
-version = "2.9.0.3"
+version = "2.11.0.0"

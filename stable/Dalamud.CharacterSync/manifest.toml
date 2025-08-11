@@ -1,8 +1,12 @@
 [plugin]
-repository = "https://github.com/reiichi001/Dalamud.CharacterSync.git"
-commit = "6121184e1336b63657ab86494f38c0a7b5a7a724"
+repository = "https://github.com/Xpahtalo/Dalamud.CharacterSync.git"
+commit = "3cb09418ccd6750493a5882e807f95b73cbd14f0"
 owners = [
 	"goaaats",
-	"reiichi001"
+	"reiichi001",
+	"Xpahtalo"
 ]
 project_path = "Dalamud.CharacterSync"
+changelog = """
+Updated for API 13.
+"""

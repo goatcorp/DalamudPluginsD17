@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "2fe7047d5c4d4345811eaf3de98764967ef6466d"
-changelog = "- Updated plugin for 7.1"
+commit = "b4d18ae2bcc03297fd3e39405fd9f83824654963"
+changelog = "- API 13 update\n- Added an option to only hide players when in combat"

@@ -1,5 +1,7 @@
 [plugin]
 repository = "https://github.com/MidoriKami/CurrencyAlert.git"
-commit = "cc5d879396d1254345101cebef8b70ddd68388eb"
+commit = "fdd13beb6abaad340e58796b344d8becfcc11a95"
 owners = [ "MidoriKami" ]
 project_path = "CurrencyAlert"
+
+

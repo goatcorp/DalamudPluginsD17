@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "7023a4f250acd633637e0a02b602afe0b5c8197b"
+commit = "9bec21632808b19ea4f64bb9f611de099132373b"
 owners = ["rekyuu"]
 project_path = "StanleyParableXiv"
 changelog = """
-- Fix crashes when loading audio device lists
+- Update to API 13
 """

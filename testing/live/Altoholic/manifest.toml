@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8af1fee61a6434ba2c9facd45ef43575620b96b8"
+commit = "5598b755b65bcfd96edde41f3c903c334bb0d323"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add armoire tracking
-- **Inventories**: Add armoire tab and inventory
+- **General**: API13, 7.3 fixes and add new patch things
 """

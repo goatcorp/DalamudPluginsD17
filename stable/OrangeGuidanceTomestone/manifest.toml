@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '8842c04ccd1f24c57a64c40fc07420f443213c3e'
+commit = '8e64418d4ac1dcccff796bae77641035519422f7'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Bump now that ClientStructs is fixed
+- API 13
 """

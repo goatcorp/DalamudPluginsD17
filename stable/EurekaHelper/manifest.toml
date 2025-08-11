@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "2de0b52ca801f5ac3839d1a1ae10473a687c45f2"
+commit = "1e473f65bbf50d8d65fbfa7bc2449d1bf0ede502"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Updates to tracker window to include more sortable columns
-- Fixes to 'Respawn In' column sort (#8)
+-  Update for 7.3 and API 13
 """

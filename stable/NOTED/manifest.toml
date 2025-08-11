@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "71538acac1f6979c03b0d83fa4f457df495df609"
+commit = "0be8c4835fdc6b68ad0c9097571a22db2889e6a7"
 owners = ["Tischel"]
 project_path = "NOTED"
-changelog = "- Added support for Patch 7.1 and Dalamud API 11."
+changelog = "- Added support for Patch 7.3 and Dalamud API 13."

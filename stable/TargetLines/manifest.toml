@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "ace8a361a49c219f6cd70cdc82b4ec77040c8182"
+commit = "864e90d4b08301a6d2468f76281a358f91bb9476"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
 Bug fixes:
-- Fixed issue where focus target lines would repeatedly play dying animation when the player died
-- Fixed issue where resetting to default wouldn't always update the filters
+- Updated for API13
+Known Issues:
+- After logging into a character, returning to the title screen may cause target lines to not appear on all entities. This can be fixed by restarting the plugin.
 """
 

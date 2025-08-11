@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "3b72e2ea37030aa3992a9b0b03ce15735af54505"
+commit = "7ee0a6e6cb10a0e957f3a6dabe79972bf285bd5b"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed ImGui asserts'''
+- Fixed for 7.3 (Thanks to Ottermandias)
+- Known Issue: Some icon colors are currently off'''

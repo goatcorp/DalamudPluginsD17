@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "458b6e1ddeac8d9618fa4f15c99efdddf7cba475"
+commit = "e4a3b446ead7eff2b5bd2a00de9a3352a63270aa"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Update for 7.1
+- Fix missing item patches in tooltips
 """

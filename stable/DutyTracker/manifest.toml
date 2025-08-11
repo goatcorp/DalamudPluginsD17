@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/DutyTracker.git"
-commit = "06050aaf67c2b7abcaa3dfbe841a92489c33b9ef"
+commit = "466cc0961b799297204fd7ae3e9bb3cea4a5e51b"
 owners = [
   "Infiziert90"
 ]

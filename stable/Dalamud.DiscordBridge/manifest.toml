@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "a44ec1b5cd3b9545918c03367d4f8f42956bcb28"
+commit = "1db37dceab51918e3eb806661548ff4afa0ee61a"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Updated for API 11
+Updated for API 13
 """

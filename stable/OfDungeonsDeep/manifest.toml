@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "df8740f974c454cb2b9354228ec9b5292bf3d125"
+commit = "da98688e334d4852ce3cd7cb7f43a0bb60ceb26c"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
 changelog = """
-### Dead Targeting update
-- Added a configuration (opt out) to allow target data info to keep being displayed even if you're dead, whether from damage or a skill issue, so you can still call out mechanics/attacks to your allies pretending to be a living encyclopedia
--# -Went deeper into the dungeon
+- Data update (thanks compendium)
+- Fixed an issue with EO's boss data on floor 30 and 40 not being displayed (thanks Seitoun for the report)
 """

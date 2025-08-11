@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/TheHeartOfTheParty.git'
-commit = '8d6075bbda2a9f8291b76492c772c57805c4a242'
-owners = [ 'anna-is-cute' ]
-changelog = 'API 11'
+repository = 'https://github.com/MKhayle/TheHeartOfTheParty.git'
+commit = 'ed9f2d39db8a9ecefc1fe362104c8f825ceec76c'
+owners = [ 'anna-is-cute', 'MKhayle' ]
+changelog = '-# API13 update.'

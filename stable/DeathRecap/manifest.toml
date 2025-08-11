@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "de6427210bb95d47311d5447fb90504ee14780b7"
+commit = "fdc149f4aa013eb1def0747a2dc9d30f7f17f326"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-Update for 7.1
+- Fix odd skill interactions when XivAlexander is in use
 """

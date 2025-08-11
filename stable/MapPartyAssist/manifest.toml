@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "f1aa6d2c849eaff74a46f8332c7b45dbf770e8a0"
+commit = "be71c26714e0d6f47e63ed8b43dcb1ff308983c7"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Map links on cross-world parties are now picked up.
-* Stability bug fixes.
+* Fixed and updated for patch 7.3.
+* Added Gargantuaskin Treasure Maps and Vault Oneiron to stat tracking.
 """
