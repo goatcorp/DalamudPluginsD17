@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "43f2276d04a890d754ca52f3ce70a588a447da39"
+commit = "c250c6145b5b433ade9f499e835c29ab884a361a"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Reverting previous temp-fix now that sheets are updated
+- Update for api13
 """
