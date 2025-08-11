@@ -2,5 +2,5 @@
 repository = "https://github.com/VariableVixen/PositionalAssistant.git"
 owners = [ "VariableVixen",]
 project_path = ""
-commit = "67877d6d3d19390eb4ca196c16ef487a682209b5"
-changelog = ""
+commit = "3a151d1992707136578f90fb60af4dbf5289cf00"
+changelog = "update to API13"
