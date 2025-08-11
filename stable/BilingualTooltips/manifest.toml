@@ -1,23 +1,15 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "dcd50dde460ca09effce468c3463e8980baaf52c"
+commit = "693f1ff3f416070b9d20cb82ad6c7319d63a2c4c"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v1.1.0.0
+v1.3.0.0
 New Features:
-- Multilingual panel to view more language variations at once.
+- NA
 
 Fixed Problems:
-- General actions (Return) gets a wrong translation.
-- (1.1.1.0) Translation not showing up when result is null or config is off.
-- (1.1.1.0) More toggles to control multilingual panel hotkey behaviour.
+- API 13 support
 
-v1.2.0.0
-New Features:
-- Add bilingual Duty names for various contents finder windows.
-
-Fixed Problems:
-- (1.2.1.0) Duty name starting with 'the' are not handled correctly.
-- (1.2.2.0) Multiple on-screen Journal are not handled correctly.
++ 1.3.0.1: fix memory leak
 """
