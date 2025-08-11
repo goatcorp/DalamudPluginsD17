@@ -1,10 +1,6 @@
 [plugin]
-repository = "https://github.com/keysmashes/WhosTalking.git"
-commit = "c402e8e63b7259083c2e787a6209fb13f3f01ecc"
+repository = "https://codeberg.org/keysmashes/WhosTalking.git"
+commit = "f9d052ceabaa00dfbdeb353e0050d3f7404dd8c0"
 owners = ["keysmashes"]
 project_path = "WhosTalking"
-changelog = """\
-**Version 0.8.6.0**
-
-Updated for patch 7.3 (API 13) and improved error handling.
-"""
+# 0.8.6.1: updated repo URL, no user-visible changes
