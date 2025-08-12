@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/rae-destil/ff14-backseat-driver.git"
-commit = "2ef5b3ab040596cca9d288702d4a1292cb5fc012"
+commit = "90fdf7d09752a91db79f7b3e52b901a495120b97"
 owners = ["rae-destil"]
 project_path = "BackseatDriver"
 changelog = """
-# v0.1.0.0
+# v0.1.0.1
 
 - Basic functionality, covering ARR and Heavensward content.
 """
