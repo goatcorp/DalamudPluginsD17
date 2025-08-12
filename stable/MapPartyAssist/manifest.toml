@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "be71c26714e0d6f47e63ed8b43dcb1ff308983c7"
+commit = "286e57a32eb5a3c9c60dfbef904b1bb7df8fa2ec"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed and updated for patch 7.3.
-* Added Gargantuaskin Treasure Maps and Vault Oneiron to stat tracking.
+* Fixed map link announcing not working.
+* Final summon of Vault Oneiron should now be registered (please let me know if it is fixed, I can't verify). Applies retroactively. 
+* Fixed formatting of percentages on duty progress tab.
 """
