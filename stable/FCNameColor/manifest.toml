@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "896952a500bf03f425b33956efb288e68642ac9b"
+commit = "38bb57aaf29b3a79b2ddd2352dd04f5ede0a9f22"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
