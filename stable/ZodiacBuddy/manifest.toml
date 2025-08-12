@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/MidoriKami/ZodiacBuddy.git"
-owners = [ "daemitus", "MidoriKami" ]
+repository = "https://github.com/foophoof/ZodiacBuddy.git"
+owners = [ "foophoof" ]
 project_path = "ZodiacBuddy"
-commit = "bf918cf7cae26d3dbd97d91cb2712f785a61e9d1"
+commit = "08929a6fff56f752161225b05c5a2f6f7358d5a1"

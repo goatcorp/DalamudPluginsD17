@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/dechamps-chen/DotPosition.git"
+commit = "fab69885127a20e4a9def4c5ad744277ed83f375"
+owners = ["dechamps-chen"]
+project_path = "DotPosition"
+version = "1.0.0.2"

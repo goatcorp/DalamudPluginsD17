@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "270e3731e9a51aa79d48e2d022c67270e449813e"
+commit = "cbc31bcdf20df08bcf25676a4715a8f48c29cb0e"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Initial plugin release"
+changelog = "Remove extra % in battery indicator"

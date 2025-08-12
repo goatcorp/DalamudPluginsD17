@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
-commit = "c0da57c95e91b5fa2d5d4f26a5b6b188684c7c92"
+commit = "938ec08dd9ec9846cec72f6f569d9a13dcc7f368"
 owners = [
     "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.4
-Updated to latest Dalamud version"""
+changelog = """# Wordsmith v1.15.5
+[issue #57] Fixed an issue with Scratchpad closing dialog window causing major frame drops."""

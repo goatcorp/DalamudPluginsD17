@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/img02/HuntHelper.git"
-commit = "2233dce37be5b0a7ee67e317e0026beffb48b55f"
+commit = "504943fb4576274d1335e128d066d90b55a9608d"
 owners = [
     "img02",
 ]

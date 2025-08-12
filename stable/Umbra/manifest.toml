@@ -1,19 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "1b3cdc581145d0e8c9d6d4c267dcb6d4ba6b25ab"
+commit = "10a54d4d7cebf129cd96a1fea84e9ad0e6eb6c7f"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.12
-
-## New additions
-
-- Added a "Pick random job" to the gearset switcher. This button picks a random DoW/DoM job that is the highest level amongst your other gearsets. The button does nothing if there are no candidates to pick from (e.g. you only have one gearset). This was a request to "spice things up" when doing Daily Roulettes.
+# Umbra 3.1.1
 
 ## Fixes & Improvements
 
-- Removed the TextDecoder from Umbra that was responsible for some translations as this is now integrated into Dalamud itself (by [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated Umbra to use Dalamud.NET.SDK (by [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Add support for BC5/BC7 textures. Thanks Wildwolf & Kizer!
+- Add support for right-click & modifier-keys on server info bar buttons.
+- Minor performance optimizations in the drawing library.
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

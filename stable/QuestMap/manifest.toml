@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/QuestMap.git'
-commit = 'ca80dbc48553ee70f7816a413cad384bed8c719c'
-owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+repository = 'https://github.com/rreminy/QuestMap.git'
+commit = 'de535888794858c6e51a3f197b68c2b81f8ebcab'
+owners = [ 'anna-is-cute', 'rreminy' ]
+changelog = 'Fix clipper crash'

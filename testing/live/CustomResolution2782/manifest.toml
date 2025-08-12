@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "ada9113b37d41a4e834bdf9b4df19fcf19a46ecd"
+commit = "beafcb25d194c9474f6cef0dbe783d0be8f2539a"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
-- Fix mis-sized windowed mode windows on startup.
-- Update to API 12
-- Update offsets for 7.2
+- Update to API13
+- Add even more self-verification to protect against the next game update.
+- If this works fine, maybe it's time for 1.0.0.0
 """

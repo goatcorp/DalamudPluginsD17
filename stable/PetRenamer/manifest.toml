@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "5cad8f1c24dab229c86e6f391f0f5d9eeaa4122f"
+commit = "7b5af37e721129f6409d4da0d5b781ba2407b843"
 owners = ["Glyceri"]
 	changelog = """
-[2.4.0.1] (SHAME)
-Fixes tooltips not working.
+[2.5.0.0] 
+- Updated for API13
 """
+

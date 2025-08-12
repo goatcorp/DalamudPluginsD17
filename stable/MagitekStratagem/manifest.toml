@@ -1,16 +1,12 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "f9ea4199708206ab56a7a52705d33d42e59fa729"
+commit = "bf44adfc6ccc0e7b9893acdc3088604898f68422"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 0.9.0.0:
-- ⚠️Experimental Release.
-- Removed native integrations and native Dll loading, should minimize potential crashes and isolate the game from instability.
-- IMPORTANT❗: New MagitekStratagemServer external tool required, https://github.com/meoiswa/MagitekStratagemServer/releases/tag/v0.0.1.
+Version 1.1.0.0:
+ - Updated to API13
 
 Known Issues:
-- Windowed mode is currently unsupported.
-- Some entities are not returning to normal after being highlighted by raycast detection.
-- Entities highlighted by proximity are not returning to normal after no longer being the closest.
+ - Windowed mode is currently unsupported.
 """

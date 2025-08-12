@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Rietty/PartySortPlus.git"
+commit = "cfd260c7974597627a5602d1b147b6b1630de98f"
+owners = ["Rietty"]
+project_path = "PartySortPlus"
+changelog = "Initial testing release!"

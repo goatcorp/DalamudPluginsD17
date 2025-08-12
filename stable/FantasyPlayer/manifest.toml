@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "e6ada894ab0108170fa06bc768caaf482a9d846d"
+commit = "4438c4fd45ad1ce3bb7dd2bd135dbd95ab2ffc6c"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.3.0.1"
+version = "2.4.0.0"
 changelog = """\
-- API12 support
+- API13 support
 """

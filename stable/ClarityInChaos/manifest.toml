@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "71f230df6d8c0f72617e9ec2cbeb888b80cbc3f6"
+commit = "bb3162a57e734e5dda9d392a5f340f0bf2217cc7"
 owners = ["meoiswa"]
 project_path = "ClarityInChaos"
 changelog = """
-
-Version 2.2.0.0:
- - Option to higlight player characters different colors.
- - Update to API12
+Version 2.3.0.0:
+ - Updated to API13
 """

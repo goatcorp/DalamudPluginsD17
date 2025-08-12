@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/Doorbell.git"
-commit = "e5976403d89097423e327af556e8150b4810c8dc"
+commit = "0a01851801ad25bcb2ada59dedd460d0f2362a5e"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Updated for patch 7.2"
+changelog = "- Updated for 7.3"

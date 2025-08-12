@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Cytraen/SeatedSidekickSpectator.git"
-commit = "580fc0cb67fe7fc4ffece27ce33d8176399b71fd"
+commit = "ccffb6e64a0c3a15dbd873cb37dbc8b8c26aa3b9"
 owners = ["Cytraen"]
 changelog = """
-- Seated Sidekick Spectator notifies you whenever someone enters/exits your multi-seat mount!
+- Update for 7.3
 """

@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/Namingway.git'
-commit = '15019245ce4b3ba744eeb2cf7c3a9bf9fd3a021a'
-owners = [ 'anna-is-cute' ]
-changelog = 'Add Glare IV to Glareja'
+repository = 'https://github.com/MKhayle/Namingway.git'
+commit = 'e55bbc9142034ed3a11a0a8c456c40f45e7155ad'
+owners = [ 'anna-is-cute', 'MKhayle' ]
+changelog = """-# API 13 Update"""

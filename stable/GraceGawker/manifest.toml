@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-GraceGawker.git"
-commit = "61ad9436f9eeca8ea05b8109383f2e844fcf829d"
+commit = "fa12565906faa85fb1b1550c9cfa1557b4f6a8e6"
 owners = ["mashirochan"]
 project_path = "GraceGawker"
-changelog = "Added background opacity option"
+changelog = "Update to API13"

@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "aed5fed52a0e97cc5d0b30ee4c9e6e5f4601138c"
+commit = "4fc8d541dbb52cacb5c5bdc6b22aa68ca0481bbc"
 owners = [
     "lokinmodar",
 ]
-changelog = "v3.21.x \n fixes:\n - Fix enshittization of Google Translate and bump to API12 and .net9'."
+changelog = "v3.23.x \n fixes:\n - Fixes a YandexPublicTranslator missing call."
