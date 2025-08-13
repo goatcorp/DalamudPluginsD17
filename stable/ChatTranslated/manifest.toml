@@ -1,14 +1,11 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "95f00f32d09121db6d26fd65baea4ffe97c69011"
+commit = "af13f67e436fc21924dabad00684a616268e1b72"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Added Model selector to openai translation mode
-Added endpoint & key validators for llm translation modes
-
-Better context fetching
-Organize code for config window
+fixed a bug where output text in mainwindow disappears on click
 """
 [plugin.secrets]
 cfv5 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAwWjD3/KyJImP8dQmxaYopsnRrAzxTTyBXpjy8wD+\nukMwftTv2MvAmtpo4gs6XnvaiOwFbWGronS9JHxu6KX7VkYfqyoLBZNMdo+P\nqkCaSBuI0lgBYA7NBgG1qsc01OP7aWuQCwEsBTgBxUKHu3NXpJUA39789ZdG\nlijhq24gEee+H7e6TALiGvYh++jDhm7W07WnfBbuN8u/LmRlzXr9t+0ASIVv\niamGCfnX\n=iNor\n-----END PGP MESSAGE-----\n"
+
