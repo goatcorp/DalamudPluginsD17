@@ -6,9 +6,10 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 
 ### Preparing your repository
 
-- Ensure your plugin is on a publically accessible Git repo (GitHub, GitLab, any self-hosted Git instance that allows HTTP clones without authentication)
+- Ensure your plugin is on a publicly accessible Git repo (GitHub, GitLab, any self-hosted Git instance that allows HTTP clones without authentication)
 - Update your `.csproj`
-  - Use `$(DalamudLibPath)` if you aren't already (see [the sample plugin](https://github.com/goatcorp/SamplePlugin/blob/c6a5f5fcbf8e6812f274fab6347307c0283bd6fb/SamplePlugin/Dalamud.Plugin.Bootstrap.targets#L10) for reference)
+  - (Preferred for most plugins) Set your SDK to the latest `Dalamud.NET.Sdk` version. (see [the sample plugin](https://github.com/goatcorp/SamplePlugin/blob/master/SamplePlugin/SamplePlugin.csproj#L2)  for reference)
+  - Alternatively. use `$(DalamudLibPath)` and [DalamudPackager](https://github.com/goatcorp/DalamudPackager) from Nuget for more advanced plugin needs. 
 - Build your plugin in Release, commit your `.csproj` + the newly generated lock file
 
 ### Approval criteria
