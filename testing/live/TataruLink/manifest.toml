@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/DN5S/TataruLink.git"
-commit = "a2e2771d73f3a6001bf46ff5a608cebcf1942017"
+commit = "0c6c8328513a1ff3200f1b2f7d18176a1786f71a"
 owners = ["DN5S"]
 project_path = "TataruLink"
 changelog = "Init"
