@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "4758d25f16b0321713703286007f635ebf8f5709"
+commit = "ffff67a6bb4251f7b06234a0ade395c07a7fbc1e"
 owners = [
     "jaycewhite"
 ]
-changelog = "Update to API 12. My thanks to reiichi001 for doing this update!"
-version = "1.0.0.9"
+changelog = "Update to API 13. My thanks to reiichi001 for doing this update!"
+version = "1.0.1.0"
