@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "57adbcadc09eefe2a997674b2be2c038d7914061"
+commit = "d712e1535a1baf7812017560efa78954deb452d3"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
-changelog = "adding notes on friends"
+changelog = "select column, change name alpha if offline, bug fix"
