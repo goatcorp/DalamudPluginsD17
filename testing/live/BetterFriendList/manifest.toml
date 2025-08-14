@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "d712e1535a1baf7812017560efa78954deb452d3"
+commit = "f1097251d00825bb9bdac5f8e293f7ccb439c319"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
-changelog = "select column, change name alpha if offline, bug fix"
+changelog = "adding sorting options"
