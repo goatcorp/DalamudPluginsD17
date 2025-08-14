@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "e492416b98826665bcd93f954d22a67a080aa0f7"
+commit = "d06538352252ca7572f79e8e6f82a88a4e3d962a"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
- - Fix error being thrown when disabling plugin
- - Fix adding and removing gearsets not triggering inventory updates
- - Fix changing a gearsets highlight color changing the default color
+ - Fix issue where gearsets are wiped on switching characters
+ - Fix race condition upon quitting game potentially causing crash
 """
