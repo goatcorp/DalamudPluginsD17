@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/isaiahcat/QuestTracker.git"
-commit = "8c48380c6ec7184cc08eac5c57a127c14fb3d97f"
+commit = "1b72605060079e4e6b954735f2c823335a3bff4b"
 owners = ["isaiahcat"]
 project_path = "QuestTracker"
 changelog = "Updated for 7.30 quests and Dalamud API13"
