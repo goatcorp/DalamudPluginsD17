@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "accf117a43e854acb7d2d3ab96a552c1cdfb3862"
+commit = "5b9440705bfdd140a0dbccdcd260172ab8daae76"
 owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """
-Update for API 13
+Fix built-in files not getting included
 """
