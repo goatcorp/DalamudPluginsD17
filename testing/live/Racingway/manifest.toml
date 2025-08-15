@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "abb83e7a858febce550215dba7e325be7db40813"
+commit = "6993970b676293077c7e9c792f598eee95fa3b3e"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.1.1.2 [TESTING]
-+ Version bump for API 13
+v0.1.1.3 [TESTING]
++ Attempt to fix importing issues.
 """
+
 
