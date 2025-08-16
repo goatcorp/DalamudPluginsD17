@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "a0e1af0006558eb6c9f6b55e25e4edd80464e56b"
+commit = "9b0072f1e615f6df631c19a739480faf8f81028e"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
 changelog = """
--# API 13 update
--# Data update (thanks to @djcooke's compendium project)
+-# Fixes crashes when targeting a monster vulnerable to the Resolution Pomander in PotD (thanks Shadow for the bug report)
 """
