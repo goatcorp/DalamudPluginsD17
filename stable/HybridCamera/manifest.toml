@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Drahsid/HybridCamera.git"
-commit = "e5a8d8508dd0ecd81be1881e9c16dbfdaf732cc4"
+commit = "c1d68e23b15a10bf9a4da6418a01aa368e8373cb"
 owners = ["Drahsid"]
 project_path = "HybridCamera"
 changelog = """
-- Updated for API12
+- Updated for API13
 """

@@ -1,7 +1,7 @@
 # testing/live/AetherBreakout/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBreakout.git"
-commit = "e87c52869176e98ef29df49d20fbefe5dbc4cac2" 
+commit = "f9a207dde39c3b4f19f7f26ac8cc4469269804fa" 
 owners = ["rail2025"]
 # project_path = "AetherBreakout" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "Version 1.2.0.1:\n- Features:\n  - Added sfx, music, audio controls.\n  - Enhanced paddle collision physics.\n- Bug Fixes:\n  - Fixed power-up icons to mismatch the effects.\n  - Fixed an issue where power-up effects were not resetting correctly.\n  - Fixed the ball speed setting not being applied at the start of a new game."
+changelog = "Version 1.2.0.2: Patch 7.3/api 13.\n1.2.0.1:\n- Features:\n  - Added sfx, music, audio controls.\n  - Enhanced paddle collision physics.\n- Bug Fixes:\n  - Fixed power-up icons to mismatch the effects.\n  - Fixed an issue where power-up effects were not resetting correctly.\n  - Fixed the ball speed setting not being applied at the start of a new game."

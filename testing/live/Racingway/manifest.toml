@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "fa110bf3f589c4d1286169d88ab02640462c033f"
+commit = "6993970b676293077c7e9c792f598eee95fa3b3e"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.1.1.1 [TESTING]
-+ Added laps
-+ Slight adjustments to wording
-+ Fixed splits not being cleared when hitting a fail
-- Removed the Line Quality setting
+v0.1.1.3 [TESTING]
++ Attempt to fix importing issues.
 """
+
+

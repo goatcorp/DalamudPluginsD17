@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "3d0d5a3f892de665516b771abe3831896e94199f"
+commit = "c9618f79689bdc4df8fbee715276c89fd54c5705"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix potential null problem when searching for items in inventory all tab
+- **Progress**: Add moonfire faire 2025
 """

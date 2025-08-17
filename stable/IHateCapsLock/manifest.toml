@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/rreminy/IHateCapsLock.git"
+commit = "fe521790f347bba1e2124a844fa3d8653c8c08ec"
+owners = ["rreminy"]
+project_path = "IHateCapsLock"
+changelog = "API 13 Bump + Move to stable"

@@ -2,7 +2,7 @@
 repository = "https://github.com/Noevain/DotCalculator.git"
 owners = ["Noevain"]
 project_path = "DotCalculator"
-commit = "526c430d3b150d2566f7e4941be2375e0ade30cd"
+commit = "c3ce8bcaf0dc46173b013f73d2c00cb8550f2216"
 changelog = '''
-API12 update, the earth is unsalted...
+API13 update, WIP nameplate display disabled while I work on the new changes
 '''

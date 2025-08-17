@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
+commit = "286e57a32eb5a3c9c60dfbef904b1bb7df8fa2ec"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fix map links and loot not tracking with abbreviated name settings.
-* Announcing a map should now no longer overwrite your stored map link.
+* Fixed map link announcing not working.
+* Final summon of Vault Oneiron should now be registered (please let me know if it is fixed, I can't verify). Applies retroactively. 
+* Fixed formatting of percentages on duty progress tab.
 """

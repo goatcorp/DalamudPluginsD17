@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "73628620d4a7e98dd5186fa9204d395641cb0b72"
+commit = "d06538352252ca7572f79e8e6f82a88a4e3d962a"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
- - Fix prerequisites for collected items being highlighted
- - Fix obtained prerequisites not being highlighted properly
- - Fix obtainable items not being highlighted in shops to purchase
+ - Fix issue where gearsets are wiped on switching characters
+ - Fix race condition upon quitting game potentially causing crash
 """

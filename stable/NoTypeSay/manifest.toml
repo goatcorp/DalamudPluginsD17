@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/salanth357/NoTypeSay.git"
-commit = "2166a5cedd6eb8875e8893502c802f11f8c80b6d"
+commit = "8caab64a7a9b06b442540f1e8efbad0c78696fd4"
 owners = ["salanth357"]
 project_path = "NoTypeSay"
+changelog = "Fix crashes"

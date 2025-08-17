@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "6b3186ecb424f61fc28acb41b7818d2a59ac8593"
+commit = "ea6f657d67b9d65d172c21eb6fb29bce9e62918c"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
-changelog = "submitting to test"
+changelog = "adding keybind to open it"

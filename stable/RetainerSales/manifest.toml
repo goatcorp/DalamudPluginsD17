@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Populo/RetainerSales.git"
-commit = "5e3c6fb798a215e46f5ef64fac9ee84d050ff718"
+commit = "cc2ff697a210d9926a77f1e382006025772a5bd4"
 owners = ["Populo"]
 project_path = "RetainerSales"
-changelog = "new way of getting retainer window that doesnt depend on ventures or sketchy translations and string.Replace"
+changelog = "api 13 bump"
