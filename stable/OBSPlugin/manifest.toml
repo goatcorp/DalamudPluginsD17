@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "25d8195292cb0351e23f9e1005e3c6b707f626b7"
+commit = "42b6da0cdb6f5d0f077027408448c9894fdd2928"
 owners = ["Bluefissure"]
-changelog = """fix a problem that might lock the game"""
+changelog = """API13"""
