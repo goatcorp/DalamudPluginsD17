@@ -6,8 +6,8 @@ project_path = "Racingway"
 changelog = """
 v0.1.1.4 [TESTING]
 - Stop putting player payloads in the chat for the local player.
-  - fun fact you could blacklist yourself with this... I hope you didnt.
 """
+
 
 
 
