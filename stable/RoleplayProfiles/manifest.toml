@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-roleplay-profiles.git"
-commit = "ce35356a7ee501535a2bfa468cfdf70d341cb3d3"
+commit = "306fa6b54fc0ad1b8beefbf98fad0dd56e83fe0b"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
 changelog = """
-Update to Dalamud API 11.
+Update to Dalamud API 13.
 """

@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "f1aa6d2c849eaff74a46f8332c7b45dbf770e8a0"
+commit = "286e57a32eb5a3c9c60dfbef904b1bb7df8fa2ec"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Map links on cross-world parties are now picked up.
-* Stability bug fixes.
+* Fixed map link announcing not working.
+* Final summon of Vault Oneiron should now be registered (please let me know if it is fixed, I can't verify). Applies retroactively. 
+* Fixed formatting of percentages on duty progress tab.
 """

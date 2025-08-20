@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "9e51d93026641eabb937c31210214ef19dcdf269"
+commit = "bf7da7d05de34a57ee1bb1708f0386c21d5ee684"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.3.0]
-- API 12
+[1.0.7.0]
+- Support API 13.
 """

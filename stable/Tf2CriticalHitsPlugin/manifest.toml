@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-tf2-crit-plugin.git"
-commit = "eddc5307b6cdf51cf82df5eddd96a6dca4f68b57"
+commit = "e21ffe8554e38b6b88f3fe8df7c645006a3d026e"
 owners = ["jkchen2"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Update for 7.11
-- Add sound preloading
+Update for API 13
 """

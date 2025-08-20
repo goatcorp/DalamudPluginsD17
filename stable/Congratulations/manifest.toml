@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "30feb420936885592e2f01f4376184665b3aface"
+commit = "5b9440705bfdd140a0dbccdcd260172ab8daae76"
 owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """
-Updated for FFXIV 7.11
+Fix built-in files not getting included
 """

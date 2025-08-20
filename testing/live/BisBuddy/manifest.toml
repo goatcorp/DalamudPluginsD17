@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "ffb2c253ebdac68b4e6e2d591ee0c0762527afca"
+commit = "d06538352252ca7572f79e8e6f82a88a4e3d962a"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
- - Fix Next Materia Only config tooltip being backwards
- - Fix detection of HQ items
+ - Fix issue where gearsets are wiped on switching characters
+ - Fix race condition upon quitting game potentially causing crash
 """

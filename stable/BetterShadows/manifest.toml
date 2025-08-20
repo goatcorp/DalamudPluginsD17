@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "835a7bc994d95f74c6b7a6bf3f06c8d27092973c"
+commit = "177eb34795427816a198905e7c01be57ee8644ee"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Made the appearance of shadows behave correctly when using "Strongest" shadow softening setting. Note that the "Strongest" shadow softening setting has vanilla bugs which may be more pronounced at higher shadowmap resolutions.
-- Added option to Dynamically adjust shadow cascade distances based on the original game values, and the resolution of the global shadowmap. This is toggled on by default, since most people were not using the per-territory cascade settings. This should naturally make shadows appear at greater distances, with higher quality.
+- Updated for API13
+- Potential instability when switching from built-in graphics configs, let me know if you encounter any issues.
 """
 

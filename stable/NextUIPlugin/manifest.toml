@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://gitlab.com/kaminariss/nextui-plugin.git"
-commit = "19238d1cd0ad0db3dfbfc1fa63d7e8ad644e3df3"
+commit = "26020ae530862f9280b27aa220388037bd4cee63"
 owners = ["Kaminaris", "pwilkowski"]
 project_path = "NextUIPlugin"
-changelog = """Updated for patch 7.15
+changelog = """Fixed crash in case of microplugin download error
+Fixed linux permissions issue
+Updated for patch 7.2 and new api
+Updated for patch 7.15
 Updated for patch 7 - pid and path fix
 Updated for patch 6.5"""

@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/ItemUse.git"
-commit = "3ad9d20921fec60b9269ef1e684f716d96bf2750"
+commit = "6f604584175ff43cf747196737eddf2c334ad9f4"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "ItemUse"
 changelog = '''
-- Fixed an issue where fish previously did not display certain flags correctly when collectible.
-- Added data for missing wrist gear coffers and removed data for certain inapplicable coffers.
-- Example icons now show next to their relevant settings in the plugin configuration window.
-- Users can now customize the item text highlight colors.
-- Code cleanup.
+- Updated for Dalamud API 13.
+- Switched to use Dalamud's font icon rendering in the settings window.
+- Miscellaneous code cleanup.
+- When used alongisde other plugins that add text to item description (such as Allagan Tools), the visual order of coffer job icons may be inconsistent.  This will be addressed in a future release.
 '''

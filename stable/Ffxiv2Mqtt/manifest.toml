@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "6922093ea6d68af019730e168ebffa4bf491475a"
+commit = "aa758fb4593125cc9d62147fdf5a93bd8bfc0efd"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """API11 support.
-Pictomancer and Viper job gauges added."""
+changelog = """API13 support."""

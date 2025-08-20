@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Populo/RetainerSales.git"
-commit = "f6c18f4f634ef1380c3cd22efe9def81da5082f4"
+commit = "5e3c6fb798a215e46f5ef64fac9ee84d050ff718"
 owners = ["Populo"]
 project_path = "RetainerSales"
-changelog = "fix error when opening unrelated selectstring addon"
+changelog = "new way of getting retainer window that doesnt depend on ventures or sketchy translations and string.Replace"

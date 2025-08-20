@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MKhayle/DeviceChangeFix.git"
-commit = "5c29453e97f32e937ef1d763a85cec811e8cc0a5"
+commit = "e6c7b9aa41f59e064b5fed165753395dc2cb98bd"
 owners = ["Jessidhia", "MKhayle", "nopjmp"]
 project_path = "DeviceChangeFix"
-changelog = "API 12 update, may or may not fix your device."
+changelog = "-# API 13 update"
