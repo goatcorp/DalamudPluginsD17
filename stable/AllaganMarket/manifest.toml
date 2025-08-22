@@ -1,14 +1,22 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "21abc0d3b2be888b19bac31d5b26db3c3d09bcaf"
+commit = "d60803a59c12bfa0a4b5c2c7911994b971c3b755"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.2.0.0"
+version = "1.2.0.1"
 changelog = """\
-**Fixes**
- - API13 support
- - The arrow buttons inside the main UI will be weirdly sized until ArrowButton returns in a new dalamud release
+### Added
+- Added debug windows available for end-users when debugging specific issues
+- Added a /amconfig command for opening the configuration window
+- If undercutting has to fall back to the NQ price a small tooltip will be displayed making it more obvious to the end user why the price was used
+
+### Fixed
+- Fixed a bug if the current sales CSV fails to parse correctly
+- Fixed a bug where a retainer that you owned's listings would be ignored
+- Fixed how the arrow buttons were rendered
+- Changing the date in the sales summary should update the list instantly instead of needing a reorder
+
 
 """
