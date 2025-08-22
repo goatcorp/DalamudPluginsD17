@@ -1,25 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "ebd730b7d49ee01250df4b948385f50e428698e5"
+commit = "1452da1966a1f20125eae46e13d11c8748e09b3d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.13.0.1"
+version = "1.13.0.2"
 changelog = """\
-### Added
-- Added debug windows available for end-users when debugging specific issues
-
 ### Fixed
-- Fixed a silent crash when trying to duplicate a list
-- The Gather column will show a button for spearfishing
-- Removed bad mob data causing the mob window to crash
-- Hotkeys now work even if you continue to down a modifier key(shift, ctrl, alt)
-
-### Updated
-- Data refresh of data collected from various sources for 7.3
-
-### Removed
-- Tetris has been removed as Allagan Tetris supersedes it
+- Fixed an issue where houses would not register if they were Plot 1
 
 """
