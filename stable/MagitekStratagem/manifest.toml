@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "a469f2b8f4c364639eb4e2c680b6e73feb647dff"
+commit = "ddfed6b6c71be2364e04083e6c38bd58e6c99953"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
+Version 1.2.0.0:
+ - Added option to use Head Rotation as Gaze (Eyelook position). Perfect for opentrack!
+ - Attempt to fix Beam Eye Tracker integration.
+
 Version 1.1.1.0:
  - Fixed Cone target hooks.
  - Fixed Gamepad Circle/Tab target differentiation.
