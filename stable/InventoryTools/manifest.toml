@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1452da1966a1f20125eae46e13d11c8748e09b3d"
+commit = "1af8f4de09a3f225f5cfba111fbc5848588aea30"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.13.0.2"
+version = "1.13.0.3"
 changelog = """\
 ### Fixed
-- Fixed an issue where houses would not register if they were Plot 1
+- Fixed a bug in the equipment recommendation window
 
 """
