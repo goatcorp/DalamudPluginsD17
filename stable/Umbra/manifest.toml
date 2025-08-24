@@ -1,16 +1,27 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "10a54d4d7cebf129cd96a1fea84e9ad0e6eb6c7f"
+commit = "7ed5339b6f9fba845293b3c7e425bf321244c9ce"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.1
+# Umbra 3.1.2
 
 ## Fixes & Improvements
 
-- Add support for BC5/BC7 textures. Thanks Wildwolf & Kizer!
-- Add support for right-click & modifier-keys on server info bar buttons.
-- Minor performance optimizations in the drawing library.
+- Added a vertical alignment option to auxiliary bar settings (By [alexpado](https://github.com/alexpado)).
+- Added a pixel sprite icon option to the Gearset Switcher (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added a warning about sharing profiles to the config profiles screen in the settings window.
+- Fixed the pots timer in Occult Crescent. (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixed the Currencies Widget custom text colours being overridden (By [Enriath](https://github.com/Enriath)).
+- Fixed the custom width setting for the Separator widget (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed an issue where the backed-up config profile created from the Installer was not immediately visible.
+- Fixed an issue where the icon/name of the collection item button would disappear after reloading or relogging.
+- Fixed the "Reverse Order" setting in the Custom Deliveries Widget.
+- Fixed the incorrect value labels in the Battle Effects Widget.
+- Fixed an issue that broke the Gearset Switcher when deleting the currently equipped gearset.
+- Fixed the "Group Visibility" setting in the Gearset Switcher widget.
+- Fixed an issue with "twitching" aux-bars when the aux-bar was either center- or right-aligned.
+- Disable the Random-Job button in the Gearset Switcher if there are no other candidates to pick from based on the current job/level.
 
 ---
 
