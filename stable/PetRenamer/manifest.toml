@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "599b598dedd48f967a6f96064bd23e485eaffa28"
+commit = "2ba24a8b164dcbe5a71020dd066e8cc9d7e4588d"
 owners = ["Glyceri"]
 	changelog = """
-[2.6.0.0] 
-+ Added .pcp file support.
-If you have the corresponding plugin installed you should see new settings in your configuration window.
+[2.6.1.0] 
+Updated to the latest .pcp implementation.
 """
+
 
 
