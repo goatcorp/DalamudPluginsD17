@@ -1,27 +1,43 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "7ed5339b6f9fba845293b3c7e425bf321244c9ce"
+commit = "ffb9eddb8f8d1aa4d56ac1abae34607ff73b4be7"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.2
+# Umbra 3.1.3
+
+## New Additions
+
+### Volume Widget Presets
+
+The volume widget now contains a set of 5 buttons at the top which allows you to store and load presets for volume levels and settings. Simply activate a preset by clicking on it and make adjustments as you see fit. The next time you activate the same preset, it will restore all settings as they were when you last modified them. An active preset can be toggled on and off, similar to that of a checkbox. Changes made while no preset is active are not stored anywhere, except for the configuration in the game itself.
+
+### Scenario Guide Widget
+
+A new Scenario Guide widget has been added that allows you to see the current quest of the Main Story Quest (MSQ). Clicking the widget opens the map in the same way as clicking on the official Scenario Guide on your HUD. As a bonus, it also allows you to track your overall MSQ-progress by counting the amount of completed quests compared to the total amount. This feature can be toggled on/off on-demand in the widget settings.
+
+### Fixed width for Auxiliary bars
+
+Thanks to [alexpado](https://github.com/alexpado), you can now set a fixed width for your auxiliary bars to fit it nicely inside your HUD-setup. In addition to that, you can also change the _sizing mode_ of the Separator widget to let it fill the remaining space on your toolbar. This effectively allows you to align/position widgets across your toolbar as you see fit.
+
+### Single Server Info Bar Entry Widget
+
+A new widget has been added that allows you to add a single entry from the server info bar to your toolbar. This allows you to, for example, place the Orchestrion or DailyDuty information anywhere you want. The list of available entries is updated dynamically as you load/unload plugins or change settings in other plugins. Simply reopen the settings window of this widget to get an updated list to choose from.
 
 ## Fixes & Improvements
 
-- Added a vertical alignment option to auxiliary bar settings (By [alexpado](https://github.com/alexpado)).
-- Added a pixel sprite icon option to the Gearset Switcher (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Added a warning about sharing profiles to the config profiles screen in the settings window.
-- Fixed the pots timer in Occult Crescent. (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Fixed the Currencies Widget custom text colours being overridden (By [Enriath](https://github.com/Enriath)).
-- Fixed the custom width setting for the Separator widget (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fixed an issue where the backed-up config profile created from the Installer was not immediately visible.
-- Fixed an issue where the icon/name of the collection item button would disappear after reloading or relogging.
-- Fixed the "Reverse Order" setting in the Custom Deliveries Widget.
-- Fixed the incorrect value labels in the Battle Effects Widget.
-- Fixed an issue that broke the Gearset Switcher when deleting the currently equipped gearset.
-- Fixed the "Group Visibility" setting in the Gearset Switcher widget.
-- Fixed an issue with "twitching" aux-bars when the aux-bar was either center- or right-aligned.
-- Disable the Random-Job button in the Gearset Switcher if there are no other candidates to pick from based on the current job/level.
+- Improved filtering options for the Gearset Switcher, allowing you to either show or hide gearsets with specified prefixes.
+- Added an option to the Gearset switcher to hide the header element in the popup.
+- Added an option to configure Macro buttons in the Dynamic Menu widget to make them more easily distinguishable from each other.
+- Added time formatting options to the Weather Forecast widget.
+- Changed some input nodes to be draggable in the settings window. For example, you can now drag to move your aux bar.
+- Fixed context menus rendering off-screen when opening them for the first time.
+- Added a right-click action to the coordinates widget to copy your current coordinates to the clipboard.
+- Added a configurable right-click option to the Unified Main Menu (defaults to `/umbra`).
+- Added a preliminary version of the Alarms widget. More functionality will be added after a Dalamud/CS update.
+- Fixed various German translations (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed an issue where the volume widget was changing its size when the icon changes (e.g. due to muting/unmuting)
+- Fixed an issue where an Auxiliary bar was not created for you when importing a toolbar profile that contains widgets attached to an Auxiliary bar.
 
 ---
 
