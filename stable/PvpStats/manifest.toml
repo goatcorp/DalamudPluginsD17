@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8b3e368ee7b51791957b19736dc87e253183e44a"
+commit = "1e18c04e2f0aca6ccf8d25ab46eb6a607daf1144"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed some text formatting issues.
-* Fixed Frontline team points graph not showing last point.
-* Fixed a leaky hook.
+* Fixed plugin failing to unload.
 """
