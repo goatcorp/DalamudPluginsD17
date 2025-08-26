@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "eb7aca3efd7654332410fb73563f7706a95dc6a6"
+commit = "18033ee862b992e713d46514aefa2ef775adff15"
 owners = ["Glyceri"]
 	changelog = """
 [2.6.1.1] 
-Added a guard around saving which seems to be failing for unkown reasons.
++ Fixed an issue that caused excessive saving.
++ Added a save throttler in case an issue like this occurs again. (A save happens every 8 seconds if needed).
++ Added a guard around saving so it doesn't outright crash anymore.
++ Fixed a crash due to excessive saving.
 """
+
 
 
 
