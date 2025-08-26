@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-WaveWrangler.git"
-commit = "5ce3d2a643c74cfdca6745ad2b8c35f76061c24d"
+commit = "c3484da6e82c3c8e517bf0fa7a1d6abb6254126e"
 owners = ["mashirochan"]
 project_path = "WaveWrangler"
 changelog = "Update to API13"
