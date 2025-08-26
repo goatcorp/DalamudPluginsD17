@@ -1,11 +1,18 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "2ba24a8b164dcbe5a71020dd066e8cc9d7e4588d"
+commit = "18033ee862b992e713d46514aefa2ef775adff15"
 owners = ["Glyceri"]
 	changelog = """
-[2.6.1.0] 
-Updated to the latest .pcp implementation.
+[2.6.1.1] 
++ Fixed an issue that caused excessive saving.
++ Added a save throttler in case an issue like this occurs again. (A save happens every 8 seconds if needed).
++ Added a guard around saving so it doesn't outright crash anymore.
++ Fixed a crash due to excessive saving.
 """
+
+
+
+
 
 
 
