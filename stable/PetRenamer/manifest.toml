@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "145e825a9174008a87be4bce16f527f3b0cef454"
+commit = "fffc89b2ce8e4170df13000fe873ab2fb6d9ac9e"
 owners = ["Glyceri"]
 	changelog = """
 [2.6.1.1] 
 Added a guard around saving which seems to be failing for unkown reasons.
 """
+
 
 
 
