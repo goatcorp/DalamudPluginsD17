@@ -8,7 +8,7 @@ changelog = """
 
 ## Fixes & Improvements
 
-- Fixed a regression that broke the non-stretched option of the main toolbar. (By []())
+- Fixed a regression that broke the non-stretched option of the main toolbar. (By [alexpado](https://github.com/alexpado)).
 
 ---
 
