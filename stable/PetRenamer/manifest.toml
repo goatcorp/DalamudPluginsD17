@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "2ba24a8b164dcbe5a71020dd066e8cc9d7e4588d"
+commit = "145e825a9174008a87be4bce16f527f3b0cef454"
 owners = ["Glyceri"]
 	changelog = """
-[2.6.1.0] 
-Updated to the latest .pcp implementation.
+[2.6.1.1] 
+Added a guard around saving which seems to be failing for unkown reasons.
 """
+
 
 
 
