@@ -1,7 +1,11 @@
 [plugin]
 repository = "https://github.com/foophoof/CollectorsAnxiety.git"
-commit = "24327351fa608b4fbdbcd4903781dffd8b489859"
+commit = "da9300a198178368b6dd7957fb936bd61e457d59"
 owners = [
     "foophoof",
 ]
 project_path = "CollectorsAnxiety"
+changelog = """\
+### Changed
+- API13 support
+"""
