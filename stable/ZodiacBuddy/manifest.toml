@@ -2,4 +2,11 @@
 repository = "https://github.com/foophoof/ZodiacBuddy.git"
 owners = [ "foophoof" ]
 project_path = "ZodiacBuddy"
-commit = "08929a6fff56f752161225b05c5a2f6f7358d5a1"
+commit = "7434f1e5fcaf29c1689b397d2a7e2fd085bea43f"
+changelog = """\
+### Fixed
+- Fixed duty finder link to Cutter's Cry in Trial of the Braves book.
+
+### Changed
+- Some new debug helpers to detect issues with Trial of the Braves links in the future, thanks to Hiroa for the contribution.
+"""
