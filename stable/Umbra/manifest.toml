@@ -1,14 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "d080dcbb113939459a225dfe32f42faa9d10dc15"
+commit = "44650b8c0f2ff88eb7fae106b636b0c1f9ebd74a"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.4
+# Umbra 3.1.5
 
 ## Fixes & Improvements
 
-- Fixed a regression that broke the non-stretched option of the main toolbar. (By [alexpado](https://github.com/alexpado)).
+- Add cosmic exploration teleport tickets to the Teleport Widget. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Add an option to hide the presets-bar in the Volume widget (By [alexpado](https://github.com/alexpado)).
+- Add item count to teleport tickets and fix cooldown not being updated in the Teleport widget (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Add a feature to Aux Bars to configure widget content alignment in vertical layout mode. (By [alexpado](https://github.com/alexpado)).
+- Add an option to the Gearset Switcher to use Role Colors in the progress bar. (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Add an option to hide teleport costs from the Teleport widget. (By [alexpado](https://github.com/alexpado)).
+- Add an option to hide the main toolbar while leaving Auxiliary bars functional. (By [alexpado](https://github.com/alexpado)).
+- Add a configuration migration system to make it easier to make breaking changes without breaking existing profiles.
+- Fixed ID conflict in Auxiliary Bars when importing shared toolbar profiles (By [alexpado](https://github.com/alexpado)).
 
 ---
 
