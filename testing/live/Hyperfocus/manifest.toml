@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Exter-N/Hyperfocus.git"
+commit = "e65c84fe1bd64eb16b297aba47289a2661c77c5e"
+owners = ["Nylfae"]
+project_path = "Hyperfocus"
+changelog = "Initial version"
