@@ -1,22 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "d60803a59c12bfa0a4b5c2c7911994b971c3b755"
+commit = "26dfccd2dd0014777dc39a888a1ed0a461ae21b7"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.2.0.1"
+version = "1.2.0.2"
 changelog = """\
-### Added
-- Added debug windows available for end-users when debugging specific issues
-- Added a /amconfig command for opening the configuration window
-- If undercutting has to fall back to the NQ price a small tooltip will be displayed making it more obvious to the end user why the price was used
-
 ### Fixed
-- Fixed a bug if the current sales CSV fails to parse correctly
-- Fixed a bug where a retainer that you owned's listings would be ignored
-- Fixed how the arrow buttons were rendered
-- Changing the date in the sales summary should update the list instantly instead of needing a reorder
+- Fixed a bug causing features/settings to not be loaded within the wizard causing it to never close
 
 
 """
