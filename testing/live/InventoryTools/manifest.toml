@@ -1,25 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "41859cfe7fe5c700ed4578cf5fd822bb6703e820"
+commit = "7f8a9582dccdc3789dbde1e15b6c714db93cac33"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.13.1.0"
+version = "1.13.1.1"
 changelog = """\
-**[Testing] Allagan Tools 1.13.1.0**
+### Fixed
+- Changing a inventory search scope will validate the categories selected and remove them if they are no longer applicable
+- Certain filters would report as being changed from the default which would highlight the tab as green even if they hadn't been
+- Certain inventory scopes were not respecting the default value
+- Your inventory scopes may get migrated again so any changes you made since 13.1.0 was released will be overwritten. This will only be the case if you had installed 13.1.0 before installing the update.
 
-### List Source/Destination Changes
-- The way that sources and destinations work has changed, the individual dropdowns have been removed and replaced with a new scope picker.
-- From the scope picker you can define a set of inventories, characters, categories or worlds you want to match against.
-- Craft lists have received the same upgrade and also include a "Staging Area" scope that lets you pick which items are considered to be in your inventory
-- Your previous settings will be migrated
-
-The other following additions were made:
-
-### Added
-- Preconfigured/sample lists were added to the lists menu in the lists window
-- A import/export menu item was added to the lists menu
-
-Please hit up the Allagan Tools #plugin-help-forum topic on the XIVLauncher/Dalamud discord if you run into any issues!
 """
