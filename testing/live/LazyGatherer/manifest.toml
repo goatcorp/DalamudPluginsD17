@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Hiroa/LazyGatherer.git"
+commit = "ba7b308fbd4f7789ec94fc1c3b39df49be24c95c"
+owners = ["Hiroa"]
+project_path = "LazyGatherer"
