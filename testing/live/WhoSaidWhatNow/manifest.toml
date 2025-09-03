@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/perappu/WhoSaidWhatNow.git"
-commit = "392248cb4d6ef9e6dd62aaecf864ff0ef96b3047"
+commit = "d5bfe0f8f39ea2f0e620305f6f5dbd0cadeedb05"
 owners = ["perappu", "erunseelie"]
 project_path = "WhoSaidWhatNow"
-changelog = "Update for 7.2"
+
+changelog = "Update for 7.3[.1]"
