@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "c250c6145b5b433ade9f499e835c29ab884a361a"
+commit = "4e889d0a1c93b7330f76bd1e6bef95a5891d9723"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Update for api13
+- Update for 7.31
+- Attempted fix for error log spam issue
 """
