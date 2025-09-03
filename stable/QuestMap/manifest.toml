@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/rreminy/QuestMap.git'
-commit = 'bc99430ff9ccbf9ab3f267104bfa15e3aac8fd4f'
+commit = 'de535888794858c6e51a3f197b68c2b81f8ebcab'
 owners = [ 'anna-is-cute', 'rreminy' ]
-changelog = 'Condense final MSQ quests, quest summaries and fixes'
+changelog = 'Fix clipper crash'

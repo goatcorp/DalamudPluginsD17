@@ -3,5 +3,4 @@ repository = "https://github.com/perappu/WhoSaidWhatNow.git"
 commit = "d5bfe0f8f39ea2f0e620305f6f5dbd0cadeedb05"
 owners = ["perappu", "erunseelie"]
 project_path = "WhoSaidWhatNow"
-
 changelog = "Update for 7.3[.1]"

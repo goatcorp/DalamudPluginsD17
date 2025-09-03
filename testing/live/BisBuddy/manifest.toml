@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "e4178094ccead47677df84de4bd066233c462d7f"
+commit = "4abbce0b77e5a44ec128de32b1a31ca2ffe28638"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
+**Added**
+ - Added a "Include Collected" option to toggle highlighting collected gearpieces in inventories (default: true)
 **Fixes**
-- Fix erroneous explanation in uncollected item materia help text
-- Fix prerequisite item melds not being recorded
+ - Fix an issue with generating duplicate prerequisite entries
+ - Fix gearset active status not being saved
+ - Fix some issues with meld selector windows and materia highlighting
 """

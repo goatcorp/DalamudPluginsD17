@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "ecefc1c77052cf316b0b62ccf7d8650b95a167b7"
+commit = "864e90d4b08301a6d2468f76281a358f91bb9476"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
 Bug fixes:
-- Fixed an issue where the plugin would output an error in regards to the focus target when logging out with a focus target. Additionally, fixed an issue with the focus target line respawning on a dead entity.
-- Added some LOD options which may improve performance at no visual cost: "Use ScreenSpace LOD" and "View Angle Sampling".
+- Updated for API13
 Known Issues:
 - After logging into a character, returning to the title screen may cause target lines to not appear on all entities. This can be fixed by restarting the plugin.
 """

@@ -1,17 +1,21 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "e8489d8a5aa9bc4f05a729d2b6b68d8751048c8b"
+commit = "ddfed6b6c71be2364e04083e6c38bd58e6c99953"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 0.12.0.0:
-- Upgrade to API12
-- Removed native integrations and native Dll loading, should minimize potential crashes and isolate the game from instability.
-- Built-in standalone server: Tracker integrations are now handled via an child process, automatically managed by the plugin.
-    - To achieve this, the plugin has been given an entrypoint and turned into an AspNet Web project, it can now both be loaded by Dalamud as a Plugin, or run within Dotnet (or via its accompanying .exe) as the Server.
-    - The server automatically starts and stops as needed, and it will also terminate itself if 10 seconds pass with no active connections.
+Version 1.2.0.0:
+ - Added option to use Head Rotation as Gaze (Eyelook position). Perfect for opentrack!
+ - Attempt to fix Beam Eye Tracker integration.
+
+Version 1.1.1.0:
+ - Fixed Cone target hooks.
+ - Fixed Gamepad Circle/Tab target differentiation.
+
+Version 1.1.0.0:
+ - Updated to API13.
+
 
 Known Issues:
-- Windowed mode is currently unsupported.
-- Some entities are not returning to normal after being highlighted by raycast or proximity detection.
+ - Windowed mode is currently unsupported.
 """

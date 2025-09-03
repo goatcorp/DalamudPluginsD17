@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-status-contrast.git"
-commit = "fb35625fe57a2a8fa08c48086ea16c2d533c8cba"
+commit = "667405690dfeb12367d5c6294fb07b9fec9bbb1b"
 owners = ["Olaren15"]
 project_path = "StatusContrast"
 changelog = """
-- Fix game crash when logging out
+- 1.0.0 release
+- Added support for more status icons
+    - Focus target
+    - Non-split target
+    - Party list
 """

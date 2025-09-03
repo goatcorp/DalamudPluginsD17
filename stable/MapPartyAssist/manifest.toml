@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
+commit = "98e5f7b1e1cd0db6e457986b59dcc5862911aee4"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fix map links and loot not tracking with abbreviated name settings.
-* Announcing a map should now no longer overwrite your stored map link.
+* Fixed party member Digs not being tracked properly with Japanese language client.
 """

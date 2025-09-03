@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "19c92c913945ab9e8692dcf0e8094bd068ec2e97"
+commit = "22c52c58180f75a23e1c9a5749213ad29a654301"
 owners = ["wompscode"]
 project_path = "NowPlaying"
-changelog = "Fix for easy to run into crash.\nShow album title in server bar element tooltip.\nMake server bar element a little prettier.\nAdded check for WINE as to stop plugin loading all the way and crashing under Linux(/macOS)."
+changelog = "bump to API13. Move debug logging to verbose as per request (sorry it took 4eva)"

@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "dd8db4c4b92f9dd235a38119ae7a402759ebe987"
+commit = "9bd377569c8e61be111bfba33960c325cea06a28"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-# v1.1.6.1
-
-- Fixed an issue with command arguments not working
-- Added an alias "level" to the "lvl" argument
+- Changed "PopulateWhenCreatingProfile" config to true by default.
+- Fixed the profile deletion not targetting the chosen one.
+- Fixed the UI breaking when the profile list is empty.
 """

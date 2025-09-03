@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/rae-destil/ff14-backseat-driver.git"
+commit = "2f5523a0b94323600ebb04a8b6c743e303284618"
+owners = ["rae-destil"]
+project_path = "BackseatDriver"
+changelog = """
+# v0.1.0.2
+
+- added stormblood duties, initial shadowbringers coverage.
+"""

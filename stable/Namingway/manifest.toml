@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/Namingway.git'
-commit = 'fbd153abb62550fefb84d3d79d2422878d77eb7d'
+commit = '1543a6f3389c4822d9f5341fb394fac1731f7c89'
 owners = [ 'anna-is-cute', 'MKhayle' ]
-changelog = 'Fixing status/actions not being displayed in the edit mode if they lack an icon in the game data.'
+changelog = """-# Fixed Statuses not being renamed."""

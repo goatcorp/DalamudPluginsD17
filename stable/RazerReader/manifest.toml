@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "eb7b8f5998cabfbfe66c0a4a9d9e5a177c6143a5"
+commit = "cbc31bcdf20df08bcf25676a4715a8f48c29cb0e"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Added Show Device Name setting"
+changelog = "Remove extra % in battery indicator"

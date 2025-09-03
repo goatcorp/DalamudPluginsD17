@@ -6,16 +6,17 @@ Hi! This is the plugin repository for the [Dalamud plugin framework for Final Fa
 
 ### Preparing your repository
 
-- Ensure your plugin is on a publically accessible Git repo (GitHub, GitLab, any self-hosted Git instance that allows HTTP clones without authentication)
+- Ensure your plugin is on a publicly accessible Git repo (GitHub, GitLab, any self-hosted Git instance that allows HTTP clones without authentication)
 - Update your `.csproj`
-  - Use `$(DalamudLibPath)` if you aren't already (see [the sample plugin](https://github.com/goatcorp/SamplePlugin/blob/c6a5f5fcbf8e6812f274fab6347307c0283bd6fb/SamplePlugin/Dalamud.Plugin.Bootstrap.targets#L10) for reference)
+  - (Preferred for most plugins) Set your SDK to the latest `Dalamud.NET.Sdk` version. (see [the sample plugin](https://github.com/goatcorp/SamplePlugin/blob/master/SamplePlugin/SamplePlugin.csproj#L2)  for reference)
+  - Alternatively. use `$(DalamudLibPath)` and [DalamudPackager](https://github.com/goatcorp/DalamudPackager) from Nuget for more advanced plugin needs. 
 - Build your plugin in Release, commit your `.csproj` + the newly generated lock file
 
 ### Approval criteria
 
 When the plugin approval group checks your plugin, they will check for the following:
 
-- Does it meet [our guidelines](https://dalamud.dev/plugin-development/restrictions#what-am-i-allowed-to-do-in-my-plugin), as agreed upon by multiple members of the group?
+- Does it meet [our guidelines](https://dalamud.dev/plugin-publishing/restrictions), as agreed upon by multiple members of the group?
 - Does it feature any combat elements? If so, are they purely informational, and show only information the player would normally know?
 - Does it pass an informal code review?
 - Does it install cleanly?
@@ -65,7 +66,7 @@ If you want to trigger a re-build of your PR, just post a comment with the conte
 
 ## Secrets
 
-If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon-secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
+If your build process requires secrets, or you want to include a secret in your plugin, use [this page](https://goatcorp.github.io/plogon/secrets/) to encrypt the secret, to be included via your manifest. It will then be made available to your plugin's MSBuild/build script via environment variables, as per the instructions on the page.
 
 ---
 

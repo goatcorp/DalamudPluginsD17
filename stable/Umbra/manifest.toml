@@ -1,14 +1,17 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "27b878dabba749ffd4195a00cb06fb08421d6dbe"
+commit = "dde60dda6ff8b1dd9ec8563b156672d27503f566"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.15
+# Umbra 3.1.6
 
 ## Fixes & Improvements
 
-- Fixed a crash when restarting the game while having the Compass widget enabled.
+- Fixed an issue where Umbra might crash if you never used the Toolbar Profiles feature before. (By [alexpado](https://github.com/alexpado)).
+- Fixed an issue where Auxiliary bars would remain visible when they shouldn't be. (By [alexpado](https://github.com/alexpado)).
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
