@@ -1,13 +1,20 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "4a398c420346959652cce7550d05616435ccc0a2"
+commit = "c8598432e98337365e5bd358c8288d867ee3479d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.13.0.4"
+version = "1.13.1.2"
 changelog = """\
+### Changed
+- Added data for 7.31
+- This stable release includes the major changes introduced for the source/destination system, please see the change log accessible inside the File menu within any of the plugin's windows
+
 ### Fixed
-- Fixed a bug in source/use loading, those filters should now work correctly
+- Fixed a bug that would cause a craft list to not highlight in certain cases
+- The way interior housing sources are calculated was reworked so items not visible in the in-game housing catalog are shown
+- The highlighting colors configurable in each list will now show a override button instead of the previous unintuitive behaviour
+- The highlight when setting inside a list's configuration will now list "Use Global Configuration" if the list is using the highlighting mode setting in the main configuration
 
 """
