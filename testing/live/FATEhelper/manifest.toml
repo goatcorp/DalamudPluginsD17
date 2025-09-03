@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/teechep/FATEhelper.git"
+commit = "24530f629ef5ff98820a3cb09bd8271581c6d4c7"
+owners = ["teechep"]
+project_path = "FATEhelper"
+changelog = "initial submission"
