@@ -2,11 +2,15 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "f8848679e6a9aa40c54b194a28793b7865cf2a5a"
+commit = "41faa61f25f038de60dd63d86fac03a62184ab2c"
 changelog = """
-## 1.2.1
+## 1.2.2
+### Added
+- New NPC: Mesouaidonque on Sinus Ardorum and Phaenna.
+- New Currency: Cosmocredits.
+- Phaenna Credits as stub, because you cant buy anything of it yet.
 ### Changed
-- Updated for 7.2
+- Updated for 7.3
 - Updated ECommons.
 """
-version = "1.2.1"
+version = "1.2.2"
