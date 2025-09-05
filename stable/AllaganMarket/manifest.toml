@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "26dfccd2dd0014777dc39a888a1ed0a461ae21b7"
+commit = "34019543d6002ce7f9b083cf380e49d26708e21d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.2.0.2"
+version = "1.2.0.3"
 changelog = """\
 ### Fixed
-- Fixed a bug causing features/settings to not be loaded within the wizard causing it to never close
+- Fixed signature mismatch
 
 
 """
