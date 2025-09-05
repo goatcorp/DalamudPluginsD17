@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "ba7b308fbd4f7789ec94fc1c3b39df49be24c95c"
+commit = "239f72fc27c8c0fa09fcdc42b09b6b2ba9e356b9"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
+changelog = """
+Version 1.0.2: 
+ - Replace the drop down in the configuration by a list box.
+"""
