@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "239f72fc27c8c0fa09fcdc42b09b6b2ba9e356b9"
+commit = "adaa2c4d94176f87c581a901318c85bdc5832e6c"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.0.2: 
- - Replace the drop down in the configuration by a list box.
+Version 1.0.3: 
+ - Fix error on levequests items.
 """
