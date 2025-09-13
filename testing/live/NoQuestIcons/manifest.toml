@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
+commit = "50eaf21f8d46c4fff370bdc8da24f330a2a37780"
+owners = ["GrimmortalDread"]
+project_path = "."
+changelog = "Release v1.2.8"
