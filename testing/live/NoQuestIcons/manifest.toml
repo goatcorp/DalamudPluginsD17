@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
-commit = "b6071378e4d4dfb42a7497bd6483e7362e37ba57"
+commit = "df94962ecbf15dc74720c1bc55cdf35f2ec00d2d"
 owners = ["GrimmortalDread"]
 changelog = "v1.2.8 - Stable automation, resized icon, ready for DIP17 testing"
