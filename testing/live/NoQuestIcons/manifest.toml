@@ -2,5 +2,4 @@
 repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
 commit = "c0cac78ce3d6c0d54eb8075a2f203cb4dcf88f60"
 owners = ["GrimmortalDread"]
-project_path = "NoQuestIcons"
 changelog = "v1.2.8 - Stable automation, resized icon, ready for DIP17 testing"
