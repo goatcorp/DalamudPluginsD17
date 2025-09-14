@@ -3,4 +3,3 @@ repository = "https://github.com/TheRedheadedWitch/FashionReport"
 commit = "64e6477"
 owners = ["TheRedheadedWitch"]
 project_path = "FashionReport"
-changelog = "Initial Creation"
