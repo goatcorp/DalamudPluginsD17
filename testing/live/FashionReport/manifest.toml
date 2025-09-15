@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/FashionReport.git"
-commit = "7d07c43a640ac5a923d65350861a1c243e90a2f6"
+commit = "4772d014bcf4a04fd77ffe34d47bf7a45a140275"
 owners = ["TheRedheadedWitch"]
 project_path = "FashionReport"
