@@ -2,7 +2,3 @@
 repository = "https://github.com/TheRedheadedWitch/FashionReport.git"
 commit = "b524adf"
 owners = ["TheRedheadedWitch"]
-project_path = "FashionReport"
-
-[plugin.secrets]
-TheCakeIsALie = 'https://openpgpjs.org\n\nwcBMA47M+N75ODUoAQf+L6J8qBkxEt6Lz3nZy3Rrk8p7FQ6JZtHOKi+r+N+fVnQvZ\nL6kD0Zsn+kgy+Z6LoGZ7R3g4i7i5X3x6n7lI4y5nU0Kq1h7jNuBDHz2tk4Z07ENx\nw8g2h0CquJ5z3a7Kg1b4cxlQEnH7M15aOkbQzP6dd3R5JybjT0S6giZQe4HbMpGLA\ntrN+4u2Y91i0y/Z3yO9TJnZ6BPKD64f9hv6W0k0slOojA7RThMeJgSCoAqU4lX6\n2rjR9sm2RJt3eoFQ4Dmsn1bRZRbk4E/NTFjFZSv7oYmHnXf2DcM='
