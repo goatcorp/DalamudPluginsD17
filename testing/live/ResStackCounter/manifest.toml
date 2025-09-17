@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/Koharutastic-xiv/res-stack-counter.git"
+commit = "e380f4221071f2f3cbed39612575eda4f30c5215"
+owners = ["Koharutastic"]
+project_path = "ResStackCounter"
+changelog = "Introduced Plugin"
