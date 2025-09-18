@@ -3,4 +3,4 @@ repository = "https://github.com/Aida-Enna/RandomClassSelector.git"
 commit = "69fa6b69a6e5bdc6b0341d1cbc2efd908de967c4"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Added parameters to support choosing a classed based on role and/or if it's at max level (Thanks Laalipop!)"
+changelog = "- Added parameters to support choosing a class based on role and/or if it's at max level (Thanks Laalipop!)"
