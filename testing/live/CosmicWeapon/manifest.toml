@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/TheRedheadedWitch/Cosmic-Weapons.git"
+commit = "d675b82b32a58461ceae22f0c8ea54e40629e833"
+owners = ["TheRedheadedWitch"]
+project_path = "Cosmic Weapon"
