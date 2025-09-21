@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/FashionReport.git"
-commit = "ed2e98a7d83b7560b674bb8f6379ebda2108613b"
+commit = "13cebe237872c4af13eac9c70d668209d2103ba3"
 owners = ["TheRedheadedWitch"]
 project_path = "FashionReport"
+changelog = "Completely switched over to a more secure database structure with a proxy system that requires login for write privileges."
