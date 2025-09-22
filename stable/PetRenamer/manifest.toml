@@ -1,8 +1,17 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "a4b3e34ff88496595aa38371f5818eb7682cff27"
+commit = "d19b5f150e20b2d5fc8fe45ec3d87dbf3f69cda3"
 owners = ["Glyceri"]
 	changelog = """
-[2.4.1.1] 
-- Fixes the Action Menu not working.
+[2.6.1.2] 
++ Changed some IPC names.	(If you are a plugin dev that uses the IPC, it should be extremely easy to fix).
 """
+
+
+
+
+
+
+
+
+

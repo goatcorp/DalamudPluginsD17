@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Hiroa/LazyGatherer.git"
+commit = "87a95863e2413d0d0396b5a3bc77b6728eaf58fb"
+owners = ["Hiroa"]
+project_path = "LazyGatherer"
+changelog = """
+Version 1.1.0: 
+ - Add slider to set maximum GP to use.
+ - Improve rotation context initialization.
+"""

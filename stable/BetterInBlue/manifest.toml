@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BetterInBlue.git"
-commit = "75fdb85fbfb16a67713a600c02a0e6ef375bffd8"
+commit = "27e907f0fb5392b9ead571b03a98fb0116393d02"
 owners = ["harbingerftw"]
 project_path = "BetterInBlue"
+changelog = """
+Updated and back for 7.3!
+Now allows saving and restoring hotbars along with your loadouts.
+"""

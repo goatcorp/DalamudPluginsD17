@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "6f5e8cd363f942dea14bc6066a3bb50da1fbf06f"
+commit = "5b96212dc465f52e8951e28ba82e850c2db85920"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.25.1"
+version = "1.0.25.4"
 changelog = """
-- Warn on unowned macros in Subscription Groups
-- Add 'Fix Issue' action to delete unowned macros in Subscription Groups
-- Add `ExecutingCraftingAction` and `ExecutingGatheringAction` to `PlayerConditions`
-- Update 'Auto Translate' help text
+- Fix missing icons
 """

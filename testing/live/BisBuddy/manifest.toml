@@ -1,15 +1,13 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "cb3f363f2778ef5d8b8a08017f5419151cbcf4aa"
+commit = "4abbce0b77e5a44ec128de32b1a31ca2ffe28638"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
+**Added**
+ - Added a "Include Collected" option to toggle highlighting collected gearpieces in inventories (default: true)
 **Fixes**
- - api13 changes
- - 7.3-related fixes
- - Fix bug with duplicate materia throwing errors
- - Fix bug with meld selector window not appearing
- - Fix bug with gearsets not updating/syncing
- - Fix loading issue/crash related to releasing loaded files
- - Fix config version migration with gearsets directory issue
+ - Fix an issue with generating duplicate prerequisite entries
+ - Fix gearset active status not being saved
+ - Fix some issues with meld selector windows and materia highlighting
 """

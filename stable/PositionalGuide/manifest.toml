@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
-owners = [ "PrincessRTFM",]
+repository = "https://github.com/VariableVixen/PositionalAssistant.git"
+owners = [ "VariableVixen",]
 project_path = ""
-commit = "c6b4e851b15dfebdd7e0823d5bc8ce51b0724405"
-changelog = "Update to API11 PR'd by a friendly user. No functional changes."
+commit = "0ce624d576fa0544c7e35142310cd4b045452e25"
+changelog = ""

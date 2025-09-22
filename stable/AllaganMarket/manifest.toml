@@ -1,14 +1,14 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "21abc0d3b2be888b19bac31d5b26db3c3d09bcaf"
+commit = "34019543d6002ce7f9b083cf380e49d26708e21d"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.2.0.0"
+version = "1.2.0.3"
 changelog = """\
-**Fixes**
- - API13 support
- - The arrow buttons inside the main UI will be weirdly sized until ArrowButton returns in a new dalamud release
+### Fixed
+- Fixed signature mismatch
+
 
 """

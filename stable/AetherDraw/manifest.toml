@@ -1,7 +1,7 @@
 # stable/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "891d128acde31524df59cc5e9ded31477c19da62" 
+commit = "3e0dd43cf110ef502fa5794f9c95fd73020dfa9f" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "v2.3.0.4: Transform handle visibility fix.\nv2.3.0.3: API 13."
+changelog = "v2.3.0.5: initial sync state fix\nv2.3.0.4: Transform handle visibility fix.\nv2.3.0.3: API 13."

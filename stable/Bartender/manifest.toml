@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "f0747bfad9124a7c56850236963faacfee72ece5"
+commit = "9bd377569c8e61be111bfba33960c325cea06a28"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-- Api 13 / 7.3 push (no content update)
+- Changed "PopulateWhenCreatingProfile" config to true by default.
+- Fixed the profile deletion not targetting the chosen one.
+- Fixed the UI breaking when the profile list is empty.
 """

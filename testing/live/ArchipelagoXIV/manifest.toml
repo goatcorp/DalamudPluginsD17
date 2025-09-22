@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "117cab0bd98e79607f9b7c9c8fb57d2da498dc2b"
+commit = "474537f5bb3ab5f41bf6cc0d7bd1f5c1c32ec234"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Fixed checks for Ocean Fishing and Fetes"
+changelog = "7.3 Support"

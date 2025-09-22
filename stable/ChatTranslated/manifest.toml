@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "8f03220c2e92d48810e124e30a87ac77b864fe62"
+commit = "9e5d1733c00336885a49a0c109b8cfb02192a797"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-api13
+fixed a bug where configured openai model is not used
 """
 [plugin.secrets]
 cfv5 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAwWjD3/KyJImP8dQmxaYopsnRrAzxTTyBXpjy8wD+\nukMwftTv2MvAmtpo4gs6XnvaiOwFbWGronS9JHxu6KX7VkYfqyoLBZNMdo+P\nqkCaSBuI0lgBYA7NBgG1qsc01OP7aWuQCwEsBTgBxUKHu3NXpJUA39789ZdG\nlijhq24gEee+H7e6TALiGvYh++jDhm7W07WnfBbuN8u/LmRlzXr9t+0ASIVv\niamGCfnX\n=iNor\n-----END PGP MESSAGE-----\n"
+
 

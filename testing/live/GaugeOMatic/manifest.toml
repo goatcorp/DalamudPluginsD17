@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "43f2276d04a890d754ca52f3ce70a588a447da39"
+commit = "4e889d0a1c93b7330f76bd1e6bef95a5891d9723"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Reverting previous temp-fix now that sheets are updated
+- Update for 7.31
+- Attempted fix for error log spam issue
 """

@@ -2,11 +2,15 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "f8848679e6a9aa40c54b194a28793b7865cf2a5a"
+commit = "34f5aa5caab26eb51fcdbea28ca184829ae25a35"
 changelog = """
-## 1.2.1
+## 1.2.3
+### Added
+- A new setting to automatically open Currency Spender together with the Currency window.
+- A new button on the Currency window.
+### Fixed
+- Incorrect check for Framer's Kits has been resolved.
 ### Changed
-- Updated for 7.2
-- Updated ECommons.
+- ECommons is now used as a NuGet package.
 """
-version = "1.2.1"
+version = "1.2.3"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Ibcrootbeer/RetainerAlerts.git"
-commit = "bf8341e8fef3ff3537d7eade959568b2a0bb6bdd"
+commit = "2368dd224b60eb585da8653a4789e73ce75c460d"
 owners = ["Ibcrootbeer"]
 project_path = "RetainerAlerts"
-changelog = "Fixed the popup always being re-positionable on startup."
+changelog = "Updated to Dalamud 13.0.0"
