@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/FashionReport.git"
-commit = "13cebe237872c4af13eac9c70d668209d2103ba3"
+commit = "311f43d9131ad2fb5cb23ab8fb3279f01812839b"
 owners = ["TheRedheadedWitch"]
 project_path = "FashionReport"
-changelog = "Completely switched over to a more secure database structure with a proxy system that requires login for write privileges."
+changelog = "Updated code to handle Google's issues, updated poller to reflect down time."
