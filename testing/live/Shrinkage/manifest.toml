@@ -1,1 +1,6 @@
-aaa
+[plugin]
+repository = "https://github.com/mikelosx/Shrinkage"
+commit = "2cf6b06b3b3269c63d6f9ddb125103c0bad799c2"
+owners = ["mikelosx"]
+project_path = "Shrinkage"
+changelog = "initial"
