@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "7bbae5f9199c525ff4919034a159136b3c43486d"
+commit = "1e18c04e2f0aca6ccf8d25ab46eb6a607daf1144"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixes for patch 7.3.
-* Rival Wings tracker temporarily disabled.
+* Fixed plugin failing to unload.
 """

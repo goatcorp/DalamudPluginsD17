@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "286e57a32eb5a3c9c60dfbef904b1bb7df8fa2ec"
+commit = "98e5f7b1e1cd0db6e457986b59dcc5862911aee4"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed map link announcing not working.
-* Final summon of Vault Oneiron should now be registered (please let me know if it is fixed, I can't verify). Applies retroactively. 
-* Fixed formatting of percentages on duty progress tab.
+* Fixed party member Digs not being tracked properly with Japanese language client.
 """
