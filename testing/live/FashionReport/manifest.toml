@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/FashionReport.git"
-commit = "311f43d9131ad2fb5cb23ab8fb3279f01812839b"
+commit = "c301e43cc339fbcfed94705639a72eb7609d40df"
 owners = ["TheRedheadedWitch"]
 project_path = "FashionReport"
-changelog = "Updated code to handle Google's issues, updated poller to reflect down time."
+changelog = "Added the judgement window so users can see submitted judging results of others to help with dye calculations. Next step is to automate the results of these attempts to give users an idea of which dyes could be or couldn't be."
