@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "87a95863e2413d0d0396b5a3bc77b6728eaf58fb"
+commit = "9b5fb9e1f07101e387b88cbb6e1dbdf3f190fb00"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.1.0: 
- - Add slider to set maximum GP to use.
- - Improve rotation context initialization.
+Version 1.1.1: 
+ - Fix UI initializing twice causing error.
+ - Bring back dropdown in configuration.
 """
