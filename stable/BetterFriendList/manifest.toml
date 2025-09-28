@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "cf0251f4f144102f8a0f9dac176c2b6f33e04791"
+commit = "e1e0df1a4b5bc3b2d4e65a760bc10a3c2aad9299"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
 fix :
-- checking nulls in sorting for colors dict
+- pf retrieve data not getting world and private tab
 add :
-- import colors from simple tweaks chat colors
-- open lodestone page for players
+- option for column size
+- search pf info if playerId not present in data before trying to open it
 """
