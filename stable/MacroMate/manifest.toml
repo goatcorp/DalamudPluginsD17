@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "5b96212dc465f52e8951e28ba82e850c2db85920"
+commit = "4a3fe1063bcbe2adb90d7d8dd5762a68063d02b6"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.25.4"
+version = "1.0.25.5"
 changelog = """
-- Fix missing icons
+- Add 'Player Level' Condition
+- Add 'Weather' Condition
 """
