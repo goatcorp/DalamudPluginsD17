@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f8d6d8582cbd3adcde4af9bbdb4bba40462f3e0e"
+commit = "f76ae99d04c3816ee7c8bac227b7321762eb8f56"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add rising 2025
+- **Progress**: Add island sanctuary rewards
 """

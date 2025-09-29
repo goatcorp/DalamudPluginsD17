@@ -1,15 +1,18 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "dde60dda6ff8b1dd9ec8563b156672d27503f566"
+commit = "869da6982a9f2cd9f5c9a3ed7dae0e2faa965681"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.6
+# Umbra 3.1.7
 
 ## Fixes & Improvements
 
-- Fixed an issue where Umbra might crash if you never used the Toolbar Profiles feature before. (By [alexpado](https://github.com/alexpado)).
-- Fixed an issue where Auxiliary bars would remain visible when they shouldn't be. (By [alexpado](https://github.com/alexpado)).
+- Added two new customizable theme colors for tooltips. (By [alexpado](https://github.com/alexpado)).
+- Fixed an issue where hunt world markers were not always being visible when there are multiples of the same type on the map. (By [alexpado](https://github.com/alexpado)).
+- Fixed various UI issues related to scrollbar colors not respecting the theme. (By [alexpado](https://github.com/alexpado)).
+- Fixed an issue in data migration on profiles with no widgets. (By [alexpado](https://github.com/alexpado)).
+- Fixed an issue in the Volume Widget where changes made in the UI settings were not persisted in presets. (By [alexpado](https://github.com/alexpado)).
 
 ---
 

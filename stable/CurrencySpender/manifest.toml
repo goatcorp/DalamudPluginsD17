@@ -2,15 +2,17 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "34f5aa5caab26eb51fcdbea28ca184829ae25a35"
+commit = "89fcec1fd582baddaba14d275d42cd42a48778cf"
 changelog = """
-## 1.2.3
+## 1.2.4
 ### Added
-- A new setting to automatically open Currency Spender together with the Currency window.
-- A new button on the Currency window.
+- New Currencies: Lunar Credits & Phaenna Credits.
+- New items: Everything in the Cosmic Fortunes.
+- New setting to set a minimum of sales for the sellable items to display.
+- Master Recipes can now be considered a collectable.
 ### Fixed
-- Incorrect check for Framer's Kits has been resolved.
+- NPC locations.
 ### Changed
-- ECommons is now used as a NuGet package.
+- Flag/TP will now check if you need to be somewhere else or need to go there first.
 """
-version = "1.2.3"
+version = "1.2.4"

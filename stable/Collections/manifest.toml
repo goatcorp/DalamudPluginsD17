@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "e7f8865cbfdc9c2cd3107fa5dd15a1ba235b75a6"
+commit = "9e87febb3d26c6a730467e614266953ae2e28035"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.8
-- Updated dalamud API to 13
-- LuminaSupplemental to v3.0.1
+Collections v1.0.2.9
+- Misc feature requests & bug fixes
 """
