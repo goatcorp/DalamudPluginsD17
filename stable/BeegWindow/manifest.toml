@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/arcanedisgea/beegdinosaureatwindow.git"
-commit = "c142f9674446944d9a0fb8e5764b3c763edc0fa9"
+commit = "a46baf2a447853664eb1796c1eac2188582a4a36"
 owners = ["ArcaneDisgea"]
 project_path = "BeegWindow"
-changelog = "Update to api 12"
+changelog = "Update to api 13"
