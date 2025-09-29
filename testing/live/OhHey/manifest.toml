@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MeiHasCrashed/OhHey.git"
-commit = "252fcb8da1db2f4f499d419a5d790ceedda945a5"
+commit = "8aaf620e7f75135b6211e70bedc3e3aff88490be"
 owners = ["MeiHasCrashed"]
 project_path = "src/OhHey/"
 changelog = "Initial testing release."
