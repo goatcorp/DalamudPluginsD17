@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "b34463070eff95a2932d203f5826ed17a9cf033a"
+commit = "564ec169d61dcd7e4db4f16623303c4a989b265b"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "initial submission"
+changelog = "fixed window IDs and removed sampleplugin references"
