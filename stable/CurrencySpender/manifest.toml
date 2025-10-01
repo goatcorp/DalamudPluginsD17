@@ -2,15 +2,17 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "41faa61f25f038de60dd63d86fac03a62184ab2c"
+commit = "89fcec1fd582baddaba14d275d42cd42a48778cf"
 changelog = """
-## 1.2.2
+## 1.2.4
 ### Added
-- New NPC: Mesouaidonque on Sinus Ardorum and Phaenna.
-- New Currency: Cosmocredits.
-- Phaenna Credits as stub, because you cant buy anything of it yet.
+- New Currencies: Lunar Credits & Phaenna Credits.
+- New items: Everything in the Cosmic Fortunes.
+- New setting to set a minimum of sales for the sellable items to display.
+- Master Recipes can now be considered a collectable.
+### Fixed
+- NPC locations.
 ### Changed
-- Updated for 7.3
-- Updated ECommons.
+- Flag/TP will now check if you need to be somewhere else or need to go there first.
 """
-version = "1.2.2"
+version = "1.2.4"

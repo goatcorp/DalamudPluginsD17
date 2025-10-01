@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "239f72fc27c8c0fa09fcdc42b09b6b2ba9e356b9"
+commit = "c26e40dd894be7ed0aa90aa51d87cb8a5463b5e7"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.0.2: 
- - Replace the drop down in the configuration by a list box.
+Version 1.1.1: 
+ - Fix UI initializing twice causing error.
+ - Bring back dropdown in configuration.
 """
