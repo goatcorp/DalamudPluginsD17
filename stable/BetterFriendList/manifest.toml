@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "a33c5ff2566f437c974b63b565b4c181de2eee3c"
+commit = "8a8ce4dfaf53e508c395c5c20a073553acfaefe3"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-1.0.2.3
-changes:
-    replace all pf logic by function from the client struct api
-remove:
-    refresh pf tittle bar button since not needed anymore
+1.0.2.4
+fix pf opening condition
 """
