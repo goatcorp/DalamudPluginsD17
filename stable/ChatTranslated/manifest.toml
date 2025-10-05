@@ -4,12 +4,7 @@ commit = "de267091d0d1abf7b73f67b08e4b4dc2994eeaff"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Upgrade Dalamud SDK
-New localization strings
-Compressed plugin icon
+Updated headers for HTTP requests in DeeplsTranslate to fix 503 errors
 """
 [plugin.secrets]
 cfv5 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAwWjD3/KyJImP8dQmxaYopsnRrAzxTTyBXpjy8wD+\nukMwftTv2MvAmtpo4gs6XnvaiOwFbWGronS9JHxu6KX7VkYfqyoLBZNMdo+P\nqkCaSBuI0lgBYA7NBgG1qsc01OP7aWuQCwEsBTgBxUKHu3NXpJUA39789ZdG\nlijhq24gEee+H7e6TALiGvYh++jDhm7W07WnfBbuN8u/LmRlzXr9t+0ASIVv\niamGCfnX\n=iNor\n-----END PGP MESSAGE-----\n"
-
-
-
