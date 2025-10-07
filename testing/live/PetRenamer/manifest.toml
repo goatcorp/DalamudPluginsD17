@@ -1,23 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "dc41fb0a6245bf844f9dccc19abaee58552b26c3"
+commit = "970d0df57a3128110f793d8927edc95195f45a8b"
 owners = ["Glyceri",]
 	changelog = """
-[2.4.1.0]
-+ Added an IPC Dampener (this might mean nicknames sync later on many quick sequential namechanges).
-+ Added the option to rename pets via command.
-
-Command Format:
-/petname [action] [target selector] [nickname] [edge colour] [text colour]
-
-Example commands:
-/petname set "Hedgehoglet" "George"
-/petname clear "Hedgehoglet"
-/petname set minion "George" <100, 100, 100>
-/petname set target "George" keep <255, 255, 255>
-/petname set 2442 "George" clear keep
-
-Note:
-Unused parameters will default to "keep".
+[2.6.2.0]
++ Fixes the Target Manager. Everything soft target related should now actually function.
++ Changed some code to follow my new code standard (this is an ongoing effort).
 """
 
