@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f76ae99d04c3816ee7c8bac227b7321762eb8f56"
+commit = "cf0f932101d3c06057bcd11ed98eb1b54a75d0d5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add island sanctuary rewards
+- **General**: 7.35 stuff
+- **Collection**: Add facewears
+- **Progress**: Add Yok Huy
 """
