@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "c913dc69c89a983927798da9fb5bb133b6591e8c"
+commit = "08b61b7c9821110149cd72a45a841dc4ae1dd0c5"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Update for 7.3
-- Changed plugin icon
-- Changed main window UI
-- Reworked Trusted Characters
-- Moved Trusted Characters to SQLite instead of configuration file
+- Fix display of invalid worlds
 """
