@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "643d3a585075b0ae4ff3b2077ff462ae7f497a66"
-changelog = "## 2.13.0 (2025-08-06)\n\n\n### Features\n\n* API13 update (8a29833)"
-version = "2.13.0"
+commit = "9f0db44020a0db1897a1f833e41e2643f60add4a"
+changelog = "### 2.13.1 (2025-10-08)\n\n\n### Bug Fixes\n\n* add data addition button to unknown mobs in deep dungeon (3cec957)\n* resolution not supposed to be displayed (a870b83)\n* unknown icon not being drawn (1d6c770)"
+version = "2.13.1"
