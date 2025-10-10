@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Infiziert90/Inspecto.git"
+commit = "f391221b5a83bbefe9cb4d7dfe1ee4f4514b4c58"
+owners = [
+    "Infiziert90"
+]
+project_path = "Inspecto"

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "1e18c04e2f0aca6ccf8d25ab46eb6a607daf1144"
+commit = "ea26729a5625662db2007a93d04817b045475ee1"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed plugin failing to unload.
+* Added patch 7.31, 7.35 and season 17 to time filter.
+* Fix for player linking failed when separate players have used the same alias.
 """

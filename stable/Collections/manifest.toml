@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "9e87febb3d26c6a730467e614266953ae2e28035"
+commit = "5a366eb647082832dae45c94e054985d6235f869"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.9
-- Misc feature requests & bug fixes
+Collections v1.0.2.10
+- Load fix on non english clients
 """
