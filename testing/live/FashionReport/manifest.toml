@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/FashionReport.git"
-commit = "c301e43cc339fbcfed94705639a72eb7609d40df"
+commit = "a3c6511d4d30b17fbbf00fe2f2fb2bdeedd4b41c"
 owners = ["TheRedheadedWitch"]
 project_path = "FashionReport"
-changelog = "Added the judgement window so users can see submitted judging results of others to help with dye calculations. Next step is to automate the results of these attempts to give users an idea of which dyes could be or couldn't be."
+changelog = "Minor bug fixes including the rendering of item data on a new week, sometimes would still display the previous weeks item list instead. Disabled the judging window due to problem detecting the opening of the FashionCheck addon during judging until I can find a work around."
