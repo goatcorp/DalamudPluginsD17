@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "26f210bddb9d2fa4a1ca06195f44f0b41a00bf9d"
-changelog = "### 2.13.2 (2025-10-09)\n\n\n### Bug Fixes\n\n* add issue correction buttons for DD window (8a84b0b)"
-version = "2.13.2"
+commit = "dd725059c82b7637f47bdb36cb03fa28ad407ee3"
+changelog = "### 2.13.3 (2025-10-11)\n\n\n### Bug Fixes\n\n* correct built-in backup data having parsing errors (dc1ff3c)"
+version = "2.13.3"
