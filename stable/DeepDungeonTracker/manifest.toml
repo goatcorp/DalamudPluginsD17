@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "f86b974fcb6a1300e6dc72d89f72b38ed313ba3e"
+commit = "a070d623dd32b8ea451e4a6e629462bdacdbbfd1"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Fix broken things.
+- Fix enchantments issue.
 """
