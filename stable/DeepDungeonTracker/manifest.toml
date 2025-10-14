@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "ee8778e7a7072e291c67ad778d0fd9d44a01c9e9"
+commit = "a55176b5476feb64be4cf08d1f9bb81968e0d3a6"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Fix bronze chest issues.
+- Fix enchantments issue.
 """

@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "643d3a585075b0ae4ff3b2077ff462ae7f497a66"
-changelog = "## 2.13.0 (2025-08-06)\n\n\n### Features\n\n* API13 update (8a29833)"
-version = "2.13.0"
+commit = "0c30ee4400fb8b75419a1274d8786daac5f50101"
+changelog = "### 2.13.4 (2025-10-12)\n\n\n### Bug Fixes\n\n* don't display mob info in quantum (da10183)\n* ignore mob data processing if no data available (e61771b)"
+version = "2.13.4"
