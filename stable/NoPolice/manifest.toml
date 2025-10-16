@@ -1,6 +1,6 @@
 ﻿[plugin]
-repository = "https://github.com/Noctrepo/NoPolice"
-commit = "ec8a0a0150ed653663f6346c07ae7dc71564bc09"
+repository = "https://github.com/Noctrepo/NoPolice.git"
+commit = "66ce028e45ba7988bc08630bb045480f82ab3b9e"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
 changelog = "Initial release"
