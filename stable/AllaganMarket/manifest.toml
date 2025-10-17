@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "09711c2a214e9952aae04384a1862b43d2a882e9"
+commit = "334b5036bc58c3266848c93ed33be01889b05647"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.2.0.4"
+version = "1.2.0.5"
 changelog = """\
 ### Fixed
-- Fixed broke signature
-- Changed the way the retainer order is retrieved, this should fix some edge cases where peoples retainers were in the wrong order.
+- Fixed a broken signature, I'll see if I can make this less liable to break later
 
 """
