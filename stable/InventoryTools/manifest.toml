@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "699b92ba708de3ba8e9e92117901a1ea33b30487"
+commit = "37f62fcd69a5823232cbffb498478fe7166931aa"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.1.5"
-changelog = "### Changed\n- 7.35 data update\n### Added\n- Sell to Vendor Price(Total) column added\n### Fixed\n- When a source/use is ungrouped and shown in a tooltip, the results will be capped at 20\n- Fixed a broken signature\n### Fixed\n- Fixed a bug with how task queues were being assigned in the background\n- Adding items from the equipment recommendation window should not longer lock up the UI while doing so"
+version = "1.13.1.6"
+changelog = "### Fixed\n- Fixed a broken signature, I'll see if I can make this less liable to break later"
