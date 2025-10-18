@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f4073a73f9c79ef8f56ffcf5f2d8b4803fe0513c"
+commit = "08a871619cb587840ed9ef46a5052b077a38c00d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Phaenna's credit shuffle and new cosmocredit rewards
+- **Progress**: Add All Saints' Wake 2025 event"
 """
