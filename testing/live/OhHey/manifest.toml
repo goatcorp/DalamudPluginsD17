@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/MeiHasCrashed/OhHey.git"
-commit = "984ec8e3a1060e5e36dc2b4ffdbe2f4c442a469d"
+commit = "44a761ad56baa0e09383fd17a0c49fb8e04ccdc5"
 owners = ["MeiHasCrashed"]
 project_path = "src/OhHey/"
 changelog = """
-# Oh Hey 0.0.2
+# Oh Hey 0.0.3
 
-## Changes
-- Added an option to disable notifications while in combat.
-(By default, you will be notified if someone emotes at you in combat, but not if you are being targeted in combat.)
+## Fixes
+- Fixed crash to desktop caused by UI code running on the wrong thread. Sorry!
 """
