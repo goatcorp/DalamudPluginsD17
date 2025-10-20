@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/TrainConductor.git"
-commit = "18ec6c2b73b705a42bf73e793f4a0a81bf313316"
+commit = "b0c96f3f7106ac109139a9140b2eb74af705890f"
 owners = ["TheRedheadedWitch"]
 project_path = "TrainConductor"
 changelog = """
