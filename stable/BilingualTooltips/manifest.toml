@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "a7e9f3172906b4b9577e9db05fefc30e7bd2e939"
+commit = "084a1eda87d4eb35517c589ea9369aa123c230fa"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
@@ -9,4 +9,6 @@ changelog = """
 - Add support for event item tooltips
 2025-08-27 - v1.4.1.0
 - Fix tooltip translation totally not showing when game language configured to Off
+2025-10-21 - v1.4.2.0
+- Handle errors in logging better
 """
