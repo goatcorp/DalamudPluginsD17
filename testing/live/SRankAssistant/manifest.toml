@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/SRankAssistant.git"
-commit = "edd337d2dd86d01653324b04720ff9b1486bd20a"
+commit = "47d393e4ecad3018f3377733af175842d74bc98f"
 owners = ["TheRedheadedWitch"]
 project_path = "SRankAssistant"
-changelog = "Added button to reset fate counter amd fixed button for Discard counter resetting."
+changelog = "Added Wee Check information and Minion information"
