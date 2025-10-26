@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/TheRedheadedWitch/TrainConductor.git"
-commit = "b0c96f3f7106ac109139a9140b2eb74af705890f"
+commit = "71569d653f4c3871d21c566f52dfd42157796407"
 owners = ["TheRedheadedWitch"]
 project_path = "TrainConductor"
 changelog = """
-There is a minor graphical glitch when dragging the monster list to re-arrange them, but it is only graphical and still works. Working on trying to fix it.
-The UI is ugly as hell, I really don't like it the way it is now, working on coming up with a better UI interface for users in the future.
+UI got changed, now features a preview of the Parse system so you can see what you are sending without having to use Echo chat as a way to view it.
+Parse system is complete revamped.
+Help Window is now present to explain things and guide custom creation of messages.
+
+CHOO CHOO ... we are on the FAST TRACK to better trains for conductors finally!
 """
