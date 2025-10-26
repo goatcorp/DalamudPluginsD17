@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "0c30ee4400fb8b75419a1274d8786daac5f50101"
-changelog = "### 2.13.4 (2025-10-12)\n\n\n### Bug Fixes\n\n* don't display mob info in quantum (da10183)\n* ignore mob data processing if no data available (e61771b)"
-version = "2.13.4"
+commit = "9f60a4c329f6fc495c56b35893c51c3963268922"
+changelog = "### 2.13.5 (2025-10-26)\n\n\n### Bug Fixes\n\n* change base url for data fetching (4a56252)\n* floor window not being correctly refreshed. (b54a11e)"
+version = "2.13.5"
