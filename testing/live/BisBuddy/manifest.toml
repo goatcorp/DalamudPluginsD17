@@ -5,13 +5,8 @@ owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Added**
- - Major UI refresh
- - Rewrite of many backend systems
- - Added customization to UI colors
- - Allow locking items to not be collected
- - Lots more small stuff
+ - DEBUG: added several tools to expose internals to aid in debugging
+ - Added logging to several actions that might lead to crashing
 **Fixes**
- - Fix issue with generating too many log inventory updates
- - (Hopefully) resolve crashing via several improvements
- - Many more bugfixes
+ - Fixed many issues of bad game data access that may have led to crashes
 """
