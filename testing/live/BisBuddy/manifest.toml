@@ -1,13 +1,17 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "4abbce0b77e5a44ec128de32b1a31ca2ffe28638"
+commit = "c96a360090f0817c02ef379b9673e03c44526536"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Added**
- - Added a "Include Collected" option to toggle highlighting collected gearpieces in inventories (default: true)
+ - Major UI refresh
+ - Rewrite of many backend systems
+ - Added customization to UI colors
+ - Allow locking items to not be collected
+ - Lots more small stuff
 **Fixes**
- - Fix an issue with generating duplicate prerequisite entries
- - Fix gearset active status not being saved
- - Fix some issues with meld selector windows and materia highlighting
+ - Fix issue with generating too many log inventory updates
+ - (Hopefully) resolve crashing via several improvements
+ - Many more bugfixes
 """
