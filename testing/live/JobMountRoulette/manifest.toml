@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Beletre/JobMountRoulette.git"
+commit = "4bd907c9a1b3cd560693202f8c9817292580319b"
+owners = ["Beletre"]
+project_path = "JobMountRoulette"
+changelog = "Added JobMountRoulette plugin with basic functionality."
