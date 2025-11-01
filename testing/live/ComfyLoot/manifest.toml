@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/j0giwa/ComfyLoot.git"
+commit = "2632a5ff5cf949c86589b626e574923aacaf010a"
+owners = ["j0giwa"]
+project_path = "."
+changelog = """
+v0.9.5.0: Added plugin to testing channel.
+- Keep track of item drops
+- Estimate marketboard value over universalis
+- universalis toggle (OFF by default)
+"""
