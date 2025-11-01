@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/GitHixy/LootView.git"
+commit = "51f20c81c97d1a655a11b388d723901c9c629bbd"
+owners = ["GitHixy"]
+project_path = "."
+changelog = """
+# Version 1.1.0
+- Added comprehensive Statistics & History system with searchable history browser
+- Added Duty Tracker with detailed run statistics and analytics
+- Added Trends visualization to see loot patterns over time
+- Added data export functionality (CSV/JSON)
+- Improved UI with FontAwesome icons throughout
+- Added window lock functionality to prevent accidental movement
+- Added Server Info Bar integration for quick access
+- Added background transparency controls
+- Multiple visual styles (Standard, Compact, Detailed, Minimal)
+- Fixed duty completion tracking logic
+- Improved overall performance and stability
+"""
