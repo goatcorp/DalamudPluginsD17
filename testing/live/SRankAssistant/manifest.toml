@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/TheRedheadedWitch/SRankAssistant.git"
+commit = "47d393e4ecad3018f3377733af175842d74bc98f"
+owners = ["TheRedheadedWitch"]
+project_path = "SRankAssistant"
+changelog = "Added Wee Check information and Minion information"
