@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "adb80d90504f771bd7863a84fd1487d8245f3ba2"
+commit = "95e78bf9a851d3423478f6884e27142324135b33"
 owners = ["Glyceri",]
 	changelog = """
-[2.6.2.1]
-+ Fixes emotes in chat from other people.
+[2.7.0.0]
++ Prepares Pet Nicknames for the inevitable addition of Beast Master and other Pet Jobs in the future. 
+
+(Please note that you cannot share your nicknames with people that are NOT on this version ç_ç.)
+(Normally I push these kinds of updates during forced downtimes, but I couldn't manage that this time around. Sorry..)
 """
 
