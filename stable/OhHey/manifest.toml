@@ -6,6 +6,8 @@ project_path = "src/OhHey/"
 changelog = """
 # Oh Hey 0.0.3
 
+This is the first stable release of Oh Hey!
+
 ## Fixes
 - Fixed crash to desktop caused by UI code running on the wrong thread. Sorry!
 """
