@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "7c66abc3a9d06c6597ea8a45df864dd6f1fb2930"
+commit = "9e3222485af8c85769741dee8d10c972c166c6b7"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.6.0]
-- Support to search entries by date.
+[1.0.7.1]
+- Add some sanity checks to prevent out of range IDs.
 """

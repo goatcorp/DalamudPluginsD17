@@ -1,7 +1,6 @@
 [plugin]
 repository = "https://github.com/Bluefissure/MultiHit.git"
-commit = "b802a2757456922fbe1424a393ae8801b4607d3c"
+commit = "72d95e8f65708847a1aaa9fbef2078587c3553fb"
 owners = ["Bluefissure"]
 project_path = "MultiHit"
-changelog = """patch 7.2 & api12
-"""
+changelog = """API13"""

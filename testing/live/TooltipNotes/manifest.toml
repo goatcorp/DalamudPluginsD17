@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "9017c2fbf98e1384af1449b4dd0b502b2c4df349"
+commit = "444e254e8b6a9ba4108191c4314fe8831150e190"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.4.0.0
+1.7.1.0
 
-Release for 7.1!
-
-The release for DT is finally here! Nothing special changed, there is now a blue T infront of the context Menu. But it Works!
+Fixed Notes and Config saving for new Users
 
 """

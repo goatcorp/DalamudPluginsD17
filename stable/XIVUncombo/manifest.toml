@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/MKhayle/XIVUnCombo.git"
-commit = "9038135bfeafa062d96ff0e23e472a2c479e71a8"
+commit = "dbc03c578615f6d8e364f52bd108b0bda61e0ae2"
 owners = ["MKhayle"]
 project_path = "XIVUnCombo"
 changelog = """
-- API 12 update"""
+-# API 13 update"""

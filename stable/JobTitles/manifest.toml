@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "192bab5db1ae4325c2101e169ee3e664c04c5b3f"
+commit = "cf76bf8dea6371f4165e709bd3d5a2af5d405716"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-- api12 & net9
+- api13
 """

@@ -2,7 +2,7 @@
 repository = "https://github.com/Zeffuro/AbilityAntsPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "5cfb1133e122edc98ee0744f18447e08e771a3f9"
+commit = "f426b5b34ac4dbb258bc731ed02113258936b9cb"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,6 +15,6 @@ project_path = "AbilityAntsPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\
-		#1.0.0.6
-		Add support AST Cards after using Play 
+		# 1.0.2.1
+		- Add safeguards against a rare crash involving available charges.
 		"""

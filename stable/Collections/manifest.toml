@@ -1,15 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "4cccbad669e89f7c61eb8ef86feea2e7ecefd065"
+commit = "5a366eb647082832dae45c94e054985d6235f869"
 owners = ["Seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.7
-- New collections: Orchestrion, Outfit, Framer Kit, Fashion Accessory and Facewear collections
-- Actually fix Dresser crash this time, using AddonLifecycle
-- Re-added checkmark to collected items
-- Added patch information to (most) collectibles, pulled from LuminaSupplemental
-- Added dye slot icons to glamour collectibles
-- Added sort by options to collectibles
-- Added PvP series and Submarine sources
+Collections v1.0.2.10
+- Load fix on non english clients
 """
