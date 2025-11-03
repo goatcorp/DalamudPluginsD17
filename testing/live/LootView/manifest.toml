@@ -1,17 +1,31 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "33f3e081a37f11d83de9af2eec7ce3e320389aa8"
+commit = "9b396e6132feafc5658e3029d544c4a219c2138c"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.2.0  # ← Change from 1.1.0 to 1.2.0
-- NEW: Zone Finder tab in Statistics to search dungeons/trials/raids by name
-- NEW: Loot Table window showing 90+ items per duty via Garland Tools API
-- NEW: Categorization of boss drops, treasure coffers, and completion rewards
-- FIX: Duty roulette tracking now works correctly
-- FIX: Added packages.lock.json for reproducible builds
-- Added comprehensive Statistics & History system with searchable history browser
-- Added Duty Tracker with detailed run statistics and analytics
-- Added Trends visualization and data export functionality (CSV/JSON)
-- Improved UI with FontAwesome icons and window controls
+# Version 1.2.5
+
+##  Major Features Added
+- ** Real-Time Roll Tracking**: Live Need/Greed roll monitoring with auto-closing compact window
+- ** Zone Finder & Loot Tables**: Browse and search loot tables for any duty, powered by Garland Tools API
+- ** Duty Roulette Bonus Tracking**: Automatically tracks bonus gil from duty roulette completions
+- ** Ko-fi Integration**: Support plugin development with built-in donation button
+
+##  Enhanced Loot Parsing
+- ** Unit Words Support**: Added parsing for "Phials of", "Stalks of", "Chunks of", "Bottles of", "Pieces of", "Handfuls of", "Portions of"
+- ** Improved Plural Handling**: Enhanced detection for irregular plurals (-ixes→-ix, -xes→-x, -ses→-s, -ies→-y, -ves→-f/-fe)
+- ** Enhanced Loot List Detection**: Improved regex for all loot list message formats ("A", "An", or no article)
+- ** Player Name Cleaning**: Automatic server suffix removal from player names
+
+##  Roll System Improvements
+- ** Multiple Item Support**: Handle multiple drops of the same item in roll tracking
+- ** Auto-Close Timer**: Roll window automatically closes 15 seconds after all winners are determined
+- ** Smart Cleanup**: Manual window close clears all active rolls, auto-close only clears completed
+- ** Real-Time Updates**: Live roll display with countdown timer in window title
+
+##  User Experience Enhancements
+- ** Loot Table Disclaimer**: Clear messaging about work-in-progress status and ongoing improvements
+- ** Improved UI Styling**: Enhanced button layouts and Ko-fi brand integration
+- ** Manual History Cleanup**: Clear UI messaging that history cleanup is manual-only operation
 """
