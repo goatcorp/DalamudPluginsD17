@@ -1,10 +1,20 @@
 [plugin]
 repository = "https://github.com/rae-destil/ff14-backseat-driver.git"
-commit = "2f5523a0b94323600ebb04a8b6c743e303284618"
+commit = "e04f7716bd8749cbffaf6422eb778b99c7419acf"
 owners = ["rae-destil"]
 project_path = "BackseatDriver"
 changelog = """
-# v0.1.0.2
+# v0.2.1
 
-- added stormblood duties, initial shadowbringers coverage.
+- added more coverage for Shadowbringers content.
+- added initial coverage for Endwalker content.
+- polished outdated content hints.
+- added Handbook: see all covered content in one place outside of duties.
+- added Coach Mode: get real-time hints when certain enemies attack.
+	- only covers a small subset of enemies currently while bugs are polished:
+		- Puppets' Bunker
+		- Void Ark
+		- Cutter's Cry
+		- The Grand Cosmos
+		- Cinder Drift
 """
