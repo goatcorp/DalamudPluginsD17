@@ -1,16 +1,17 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "e4178094ccead47677df84de4bd066233c462d7f"
+commit = "144296fb0c135a34f63359512c00aaaf185a0bd4"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Added**
- - v0.1.2.0: Will attempt to highlight marketboard results needed to purchase
- - v0.1.2.0: Item names in UI will now change with game language changes
- - v0.1.2.0: Reduce size of exported gearset JSONs
- - v0.1.4.1: Add (optional) feature to highlight a gearpiece's materia to meldable prerequisite items
- - v0.1.4.1: Add (optional) feature to not highlight materia for gearpieces not yet collected
+ - Major UI refresh
+ - Rewrite of many backend systems
+ - Added customization to UI colors
+ - Allow locking items to not be collected
+ - Debugging tools
+ - Lots more small stuff
 **Fixes**
- - v0.1.2.0 + v0.1.3.0: Rewrite to UI interfacing and backend to (hopefully) fix crashes
- - v0.1.2.0 + v0.1.4.0: Fix new coffers not being highlighted or showing up as prerequisites
+ - Fix issue with generating too many log inventory updates
+ - Many more bugfixes
 """
