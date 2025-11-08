@@ -1,17 +1,9 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "144296fb0c135a34f63359512c00aaaf185a0bd4"
+commit = "b2e409c37810eba3f11b5686d9405b3ff5416308"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Added**
- - Major UI refresh
- - Rewrite of many backend systems
- - Added customization to UI colors
- - Allow locking items to not be collected
- - Debugging tools
- - Lots more small stuff
 **Fixes**
- - Fix issue with generating too many log inventory updates
- - Many more bugfixes
+Fix a bug with saving gearsets corrupting
 """
