@@ -10,3 +10,5 @@ commit = "97615cb12a55c3da524a5366d76a9296e03ae54b"
 owners = [
     "Pistachio-dev"
 ]
+project_path = "NorthStar"
+changelog = "Initial release"
