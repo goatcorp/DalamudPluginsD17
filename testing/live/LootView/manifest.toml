@@ -1,31 +1,9 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "9b396e6132feafc5658e3029d544c4a219c2138c"
+commit = "67478077cf3be8dd22636d30288291452eb959d5"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
 # Version 1.2.5
-
-##  Major Features Added
-- ** Real-Time Roll Tracking**: Live Need/Greed roll monitoring with auto-closing compact window
-- ** Zone Finder & Loot Tables**: Browse and search loot tables for any duty, powered by Garland Tools API
-- ** Duty Roulette Bonus Tracking**: Automatically tracks bonus gil from duty roulette completions
-- ** Ko-fi Integration**: Support plugin development with built-in donation button
-
-##  Enhanced Loot Parsing
-- ** Unit Words Support**: Added parsing for "Phials of", "Stalks of", "Chunks of", "Bottles of", "Pieces of", "Handfuls of", "Portions of"
-- ** Improved Plural Handling**: Enhanced detection for irregular plurals (-ixes→-ix, -xes→-x, -ses→-s, -ies→-y, -ves→-f/-fe)
-- ** Enhanced Loot List Detection**: Improved regex for all loot list message formats ("A", "An", or no article)
-- ** Player Name Cleaning**: Automatic server suffix removal from player names
-
-##  Roll System Improvements
-- ** Multiple Item Support**: Handle multiple drops of the same item in roll tracking
-- ** Auto-Close Timer**: Roll window automatically closes 15 seconds after all winners are determined
-- ** Smart Cleanup**: Manual window close clears all active rolls, auto-close only clears completed
-- ** Real-Time Updates**: Live roll display with countdown timer in window title
-
-##  User Experience Enhancements
-- ** Loot Table Disclaimer**: Clear messaging about work-in-progress status and ongoing improvements
-- ** Improved UI Styling**: Enhanced button layouts and Ko-fi brand integration
-- ** Manual History Cleanup**: Clear UI messaging that history cleanup is manual-only operation
+- Bug Fixes and more parsing filters
 """
