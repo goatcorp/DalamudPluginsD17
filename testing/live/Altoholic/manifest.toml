@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "e2fcdd0dc0096bb3f73fbb68a1f857fe52d6876a"
+commit = "6e364cfd521b538adb8a392bbb58cf554890133e"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Currencies**: Add search in listbox (by NebulousByte)
-- **Retainer**: Add blacklisting: Double click on name in list to open blacklisting window. To unblacklist, click on button in All view
+- **Progress**: Add Moogle Treasure Trove The Hunt for Revelation
 """
