@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "f2712830576a9d7d6a64fd1d9c7ed8618dd07222"
+commit = "e71e4060756719ce759e43df8f754da82ddf57dd"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
-Fix a bug with saving gearsets corrupting
+Fix another bug with saving gearsets corrupting
 """
