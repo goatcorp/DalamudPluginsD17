@@ -2,6 +2,6 @@
 repository = "https://github.com/wolfcomp/MonsterDex.git"
 owners = [ "wolfcomp" ]
 project_path = "DeepDungeonDex"
-commit = "643d3a585075b0ae4ff3b2077ff462ae7f497a66"
-changelog = "## 2.13.0 (2025-08-06)\n\n\n### Features\n\n* API13 update (8a29833)"
-version = "2.13.0"
+commit = "3241c74eae95d606b1f60f486e1594846d439f86"
+changelog = "### 2.13.6 (2025-10-29)\n\n\n### Bug Fixes\n\n* null ref exception during draw (498612b)"
+version = "2.13.6"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f76ae99d04c3816ee7c8bac227b7321762eb8f56"
+commit = "6e364cfd521b538adb8a392bbb58cf554890133e"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add island sanctuary rewards
+- **Progress**: Add Moogle Treasure Trove The Hunt for Revelation
 """

@@ -1,13 +1,15 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "4abbce0b77e5a44ec128de32b1a31ca2ffe28638"
+commit = "aef49ae19bca5b584d2aaebcf4b70e7b970e6749"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Added**
- - Added a "Include Collected" option to toggle highlighting collected gearpieces in inventories (default: true)
+ - DEBUG: added several tools to expose internals to aid in debugging
+ - Added logging to several actions that might lead to crashing
+ - Add copying/pasting of hex values inside color pickers
 **Fixes**
- - Fix an issue with generating duplicate prerequisite entries
- - Fix gearset active status not being saved
- - Fix some issues with meld selector windows and materia highlighting
+ - Fixed many issues of bad game data access that may have led to crashes
+ - Fix bug where prerequisite options show multiple versions of the same shop exchange
+ - Fix visual issues with materia on newly imported gearpieces
 """

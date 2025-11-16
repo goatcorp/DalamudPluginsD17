@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d19b5f150e20b2d5fc8fe45ec3d87dbf3f69cda3"
+commit = "b6d092aeed717baee14f9db424ce1b235b00bb5c"
 owners = ["Glyceri"]
 	changelog = """
-[2.6.1.2] 
-+ Changed some IPC names.	(If you are a plugin dev that uses the IPC, it should be extremely easy to fix).
+[2.6.2.3] 
++ Try catch to prevent a Dalamud crash.
 """
+
+
 
 
 

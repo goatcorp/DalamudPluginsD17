@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/teechep/FATEhelper.git"
+commit = "994f3c33d448fdfcabdefcbbaba0ecb675845059"
+owners = ["teechep"]
+project_path = "FATEhelper"
+changelog = "removed main update and old plugin includes"

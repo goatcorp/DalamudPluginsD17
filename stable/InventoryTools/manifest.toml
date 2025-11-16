@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "202a949a8468ada72ca8b1c5968bb63065230d40"
+commit = "37f62fcd69a5823232cbffb498478fe7166931aa"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.1.4"
-changelog = "### Change\n- Made several optimizations, this should make list results generate much faster, if you notice any filter not applying correctly let me know via github issue or via the xivlauncher/dalamud discord\n### Fixed\n- Fixed a bug with how task queues were being assigned in the background\n- Adding items from the equipment recommendation window should not longer lock up the UI while doing so"
+version = "1.13.1.6"
+changelog = "### Fixed\n- Fixed a broken signature, I'll see if I can make this less liable to break later"
