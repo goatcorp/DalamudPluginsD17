@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/j0giwa/ComfyLoot.git"
-commit = "11f7df55c8fbbc0e428e5080d7d15957f9154d48"
+commit = "60d101679c9f7409aeacfea4c837f6d8c2bb68ae"
 owners = ["j0giwa"]
 project_path = "."
 changelog = """
+Comfyloot v0.9.6.5
+- Internal Refactor
+- Introduced Threadsafety
+- Resolved issue where switching to an alt tracked your alts inventory as drops
 v0.9.5.5: Added Server Info Entry.
 - Added toggleable ServerInfo Bar (OFF by default)
 - addressed internal issues
