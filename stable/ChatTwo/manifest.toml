@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/ChatTwo.git"
-commit = "efdf69f782bdb812b714912a7af217d84ef9a48d"
+commit = "602f245c34e25e4c8d234660b7e89b8bb933f1b7"
 owners = [
     "Infiziert90",
     "lojewalo"
