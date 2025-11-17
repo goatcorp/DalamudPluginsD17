@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "67478077cf3be8dd22636d30288291452eb959d5"
+commit = "5cf0b15f2889ae447a581df0eda63ecaf4d20b66"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
 # Version 1.2.5
-- Bug Fixes and more parsing filters
+- Added support to fishing loot parsing
+- Code optimized after code review
 """
