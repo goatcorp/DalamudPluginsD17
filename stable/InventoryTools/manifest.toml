@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "37f62fcd69a5823232cbffb498478fe7166931aa"
+commit = "4ec61254ce0ef25be3054b767205feb8b76ae2a2"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.1.6"
-changelog = "### Fixed\n- Fixed a broken signature, I'll see if I can make this less liable to break later"
+version = "1.13.1.7"
+changelog = "### Added\n- Certain items required for anima weapons will show up as shops and are now available in craft lists\n- The Item Window will show an items Desynth Class if available\n- Added Anima and Zodiac Weapons as Uses\n- Added Anima Shops as a source\n### Changed\n- Data update including more mob spawns thanks to user provided data\n### Fixed\n- Fixed an exception being thrown with the mobs window when trying to sort the Type column"
