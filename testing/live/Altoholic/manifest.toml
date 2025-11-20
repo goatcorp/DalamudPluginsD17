@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6e364cfd521b538adb8a392bbb58cf554890133e"
+commit = "713cdc7885a389a9df27eaf050f306662d8d16f0"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Moogle Treasure Trove The Hunt for Revelation
+- **Progress**: Fix cost value of wind-up hobgoblin and onslaught orchestrion roll
 """
