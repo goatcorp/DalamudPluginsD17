@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1beb2e53ac59145af99bf37768bd5fe882fb6002"
+commit = "a6641f6dc1643832c0f8a713031b01f70b010476"
 owners = ["Glyceri"]
 	changelog = """
-[2.7.0.1] 
-+ This patch prepares Pet Nicknames for the inevitable release of beastmaster.
+[2.7.1.0] 
++ Chose a different way to handle nameplates until the underlying cause of everyones nameplate crashes get found.
 """
+
 
 
 
