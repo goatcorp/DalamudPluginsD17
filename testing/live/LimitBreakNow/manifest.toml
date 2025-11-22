@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://codeberg.org/keysmashes/LimitBreakNow.git"
+commit = "5fec8566854c97b33a777ffd34ad48fdbfd7eab1"
+owners = ["keysmashes"]
+project_path = "LimitBreakNow"
+changelog = """\
+**Version 0.0.0.1**
+
+Initial testing release!
+
+*Limit Break, Now!* notifies you when a Limit Break is available.
+"""
