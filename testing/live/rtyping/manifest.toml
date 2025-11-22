@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "eb97c640309b291d4165c6f4db71fa2e6b36b380"
+commit = "08b61b7c9821110149cd72a45a841dc4ae1dd0c5"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Update for 7.2
+- Fix display of invalid worlds
 """

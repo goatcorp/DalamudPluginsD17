@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "ef231190f9fdafca22989ca9c5604c4b1bc71f57"
+commit = "9bd377569c8e61be111bfba33960c325cea06a28"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-# v1.1.7.0
-
-- Fixed /micon macros setting action to the icon action.
+- Changed "PopulateWhenCreatingProfile" config to true by default.
+- Fixed the profile deletion not targetting the chosen one.
+- Fixed the UI breaking when the profile list is empty.
 """

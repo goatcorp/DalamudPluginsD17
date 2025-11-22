@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "3c02043f5543509f0c577730b24c7931aabd9c86"
+commit = "44132bd22284d5aac89f98d1c643ee8e48ce58ac"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- You can select which songs will be played in the randomized queue
+- fixed performance issue when changing jobs
 """

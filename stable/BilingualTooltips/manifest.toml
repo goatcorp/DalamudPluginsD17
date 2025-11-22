@@ -1,23 +1,14 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "dcd50dde460ca09effce468c3463e8980baaf52c"
+commit = "679aabc10da0b9753fdde53144fddc439d43bacd"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v1.1.0.0
-New Features:
-- Multilingual panel to view more language variations at once.
+v1.4.0.0
+New: Add support for event item tooltips.
+Fix Tooltip description not showing.
 
-Fixed Problems:
-- General actions (Return) gets a wrong translation.
-- (1.1.1.0) Translation not showing up when result is null or config is off.
-- (1.1.1.0) More toggles to control multilingual panel hotkey behaviour.
-
-v1.2.0.0
-New Features:
-- Add bilingual Duty names for various contents finder windows.
-
-Fixed Problems:
-- (1.2.1.0) Duty name starting with 'the' are not handled correctly.
-- (1.2.2.0) Multiple on-screen Journal are not handled correctly.
++ 1.4.1.0: Fix Tooltip translation totally not showing when game language configured to Off.
++ 1.4.2.0: Handle log errors more gracefully.
++ 1.4.3.0: Fix configuration not saving properly.
 """

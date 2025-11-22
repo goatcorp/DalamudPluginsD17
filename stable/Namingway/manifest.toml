@@ -1,9 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/Namingway.git'
-commit = '609f7b487551f650e3cbbee3ca727059c4881f74'
+commit = '1543a6f3389c4822d9f5341fb394fac1731f7c89'
 owners = [ 'anna-is-cute', 'MKhayle' ]
-changelog = """- Added Occult Crescent actions to the Player Actions filter
-- Added commands (/namingway <enable|disable|toggle> <GUID>)
-- Added a GUID field to copy/paste them for macros use
-- Added the ID of actions in the edit window to differentiate actions with the same name
-- Fixed an issue with names not being updated at some times"""
+changelog = """-# Fixed Statuses not being renamed."""

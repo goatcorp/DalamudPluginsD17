@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "fa110bf3f589c4d1286169d88ab02640462c033f"
+commit = "9a274b2722120f6d2c86386cd0dcab2dfbd705f3"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.1.1.1 [TESTING]
-+ Added laps
-+ Slight adjustments to wording
-+ Fixed splits not being cleared when hitting a fail
-- Removed the Line Quality setting
+v0.1.1.4 [TESTING]
+- Stop putting player payloads in the chat for the local player.
 """
+
+
+
+
