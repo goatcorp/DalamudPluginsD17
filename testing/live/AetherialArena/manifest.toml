@@ -3,5 +3,5 @@
 repository = "https://github.com/rail2025/AetherialArena.git"
 commit = "45c13dbab347829359af72add11ec110205d2e32" 
 owners = ["rail2025"]
- project_path = "AetherialArena" # Only uncomment and use if your .csproj is NOT at the root of your repo
+# project_path = "AetherialArena" # Only uncomment and use if your .csproj is NOT at the root of your repo
 changelog = "v0.9.9.2:Update to Dalamud api 13/patch 7.3, fix credits scrolling bug\nv0.9.9.1: reset ui scaling button, manual input"
