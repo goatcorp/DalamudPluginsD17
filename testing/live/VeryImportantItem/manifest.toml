@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Ennea/VeryImportantItem.git"
+commit = "a62630d9360f03f3c3631fff51c0e9fe95da0ebb"
+owners = ["Ennea"]
+project_path = "VeryImportantItem"
+changelog = "Initial plugin submission"
