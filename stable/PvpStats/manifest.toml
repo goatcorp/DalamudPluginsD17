@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "ea26729a5625662db2007a93d04817b045475ee1"
+commit = "c43c3b1628341fc326af13d20098086f5aded541"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added patch 7.31, 7.35 and season 17 to time filter.
-* Fix for player linking failed when separate players have used the same alias.
+* Re-enabled Rival Wings Tracker
+* Converted all timestamps to UTC to resolve an issue with daylight savings time transitions.
 """
