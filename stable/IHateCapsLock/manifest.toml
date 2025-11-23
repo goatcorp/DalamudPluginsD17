@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rreminy/IHateCapsLock.git"
-commit = "8ef203f7d35767930cc2d8436e4287b344426aab"
+commit = "3edf260e04ca658e7ed1e3e6fce909e6ac5895c4"
 owners = ["rreminy"]
 project_path = "IHateCapsLock"
-changelog = "- Made keys configurable\n- Option to use a dedicated thread\n- Advanced option to allow polling outside of the game's window"
+changelog = "- Made keys configurable\n- Option to use a dedicated thread\n- Advanced option to allow polling outside of the game's window\n- Option to allow disabling caps lock completely"
