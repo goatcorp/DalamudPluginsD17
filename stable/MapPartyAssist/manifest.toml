@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "98e5f7b1e1cd0db6e457986b59dcc5862911aee4"
+commit = "6ed5f8f83bea1d1c4ad62afd617796ac9967d5c6"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed party member Digs not being tracked properly with Japanese language client.
+* Improved refresh performance.
+* Converted all times to UTC to handle errors with Daylight Savings Time transitions.
 """

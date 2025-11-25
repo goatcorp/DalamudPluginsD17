@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "e2fcdd0dc0096bb3f73fbb68a1f857fe52d6876a"
+commit = "713cdc7885a389a9df27eaf050f306662d8d16f0"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Currencies**: Add search in listbox (by NebulousByte)
-- **Retainer**: Add blacklisting: Double click on name in list to open blacklisting window. To unblacklist, click on button in All view
+- **Progress**: Fix cost value of wind-up hobgoblin and onslaught orchestrion roll
 """

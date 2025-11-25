@@ -1,20 +1,13 @@
 [plugin]
 repository = "https://github.com/rae-destil/ff14-backseat-driver.git"
-commit = "e04f7716bd8749cbffaf6422eb778b99c7419acf"
+commit = "7f4372a243b78438a970084b6237827b6a09cdbf"
 owners = ["rae-destil"]
 project_path = "BackseatDriver"
 changelog = """
-# v0.2.1
+# v0.2.1.1
 
-- added more coverage for Shadowbringers content.
-- added initial coverage for Endwalker content.
-- polished outdated content hints.
-- added Handbook: see all covered content in one place outside of duties.
-- added Coach Mode: get real-time hints when certain enemies attack.
-	- only covers a small subset of enemies currently while bugs are polished:
-		- Puppets' Bunker
-		- Void Ark
-		- Cutter's Cry
-		- The Grand Cosmos
-		- Cinder Drift
+- Duty hints phrasing improvements.
+- Coach mode can now print directly into chat.
+- Fix issues where the Driver Window would not show hints in some duties.
+- Fix issues where Driver Window items wouldn't align properly.
 """

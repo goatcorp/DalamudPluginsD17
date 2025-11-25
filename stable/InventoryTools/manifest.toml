@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "37f62fcd69a5823232cbffb498478fe7166931aa"
+commit = "d5a50b5ae67fa367bfff363c8ee93e4a06bee151"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.1.6"
-changelog = "### Fixed\n- Fixed a broken signature, I'll see if I can make this less liable to break later"
+version = "1.13.1.8"
+changelog = "### Fixed\n- Fixed an issue with the plugin not loading when running in a non-english language\n- Fixed an issue with history not loading properly"
