@@ -1,7 +1,7 @@
 # stable/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "d272f307ba0c17f6c4f397906b8cb0b86338ccd4" 
+commit = "799cce42b19b6db1735c44b5eb5c3eb51bf9c23d" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
 changelog = "v2.4.1.0:Added Community Plan Browser (Search & Load).\nv2.4.0.0:Added status icons, updated undo to be per-page, added page movement/reordering, added live object property editing.\nv2.3.1.0: Changed BG image url button to more generic image url button. Added grid controls (toggle, spacing, snap)"
