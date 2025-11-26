@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "c4ea6cd9c14c4f2114034ca6b2e834f9d5ca2214"
+commit = "df3ac4095e6ee84dd63485980f8f8cb43f7fe5ed"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.2.5
+# Version 1.2.6
 - Added support to Sack of Nuts parsing
 - Updated parsing for crafting loot
 """
