@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/s5bug/CongaHelper.git"
-commit = "6d7caa69e530b9d7634837992f4627b421931323"
+commit = "5389f49c8657e3277f85776b9dee116eac365d93"
 owners = ["s5bug"]
 project_path = "CongaHelper"
 changelog = '''
