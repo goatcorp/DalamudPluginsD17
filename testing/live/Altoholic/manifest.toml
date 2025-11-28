@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "5598b755b65bcfd96edde41f3c903c334bb0d323"
+commit = "713cdc7885a389a9df27eaf050f306662d8d16f0"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: API13, 7.3 fixes and add new patch things
+- **Progress**: Fix cost value of wind-up hobgoblin and onslaught orchestrion roll
 """

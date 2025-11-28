@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/chirpxiv/ffxiv-pathfinder.git"
-commit = "8fa8f1b1259e5d4864845db8b0631cf6b86a32da"
-owners = ["chirpxiv"]
+repository = "https://github.com/ktisis-tools/ffxiv-pathfinder.git"
+commit = "50168ba4f9e6a2cbbcf4edd92334b00ea8a52187"
+owners = ["chirpxiv", "sleepybnuuy"]
 project_path = "Pathfinder"
-changelog = "DAPI 12"
+changelog = "DAPI 13 + 7.3 update + static VFX tracking"

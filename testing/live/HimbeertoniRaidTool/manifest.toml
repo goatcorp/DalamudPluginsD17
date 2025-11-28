@@ -2,5 +2,10 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "79a6bc8acdb56e46fa9209e25947d0222b4ced89"
+changelog = """
+New Module: Planner
+  Plan and document your raid sessions. Keep track of absences and loot
+  Open via /hrt planner
+Loot Session: Loot assigned in loot session can be saved to the corresponding raid session
+General: You can disable not needed modules in the config"""

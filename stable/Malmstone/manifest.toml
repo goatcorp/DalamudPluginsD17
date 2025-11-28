@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "f2af519d643f559e135046acab1c14e9326d579b"
+commit = "e3a338de95aa0764d25f4aaff4a88fdc00c2fe06"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-7.3 API13 Support
+- Fixes an issue where post-frontline message shows wrong match count
 """
