@@ -1,17 +1,11 @@
 [plugin]
 repository = "https://github.com/j0giwa/ComfyLoot.git"
-commit = "819a402206531c69480719597c4edaa067dc21d4"
+commit = "9c898ec571bf7d9231f9b4ab9935911f159960ed"
 owners = ["j0giwa"]
 project_path = "."
 changelog = """
-v0.9.8.5
-- Added ignore lists
-- Fixed unload issue
-v0.9.6.5
-- Internal Refactor
-- Introduced Threadsafety
-- Resolved issue where switching to an alt tracked your alts inventory as drops
-v0.9.5.5: Added Server Info Entry.
-- Added toggleable ServerInfo Bar (OFF by default)
-- addressed internal issues
+v1.0.0
+- Prettified UI
+- Added sorting capability
+- Added ability to temporarily hide items
 """
