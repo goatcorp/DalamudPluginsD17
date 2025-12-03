@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "474537f5bb3ab5f41bf6cc0d7bd1f5c1c32ec234"
+commit = "7fb7fd8fda19db6b6a0dc82b73fb8ba4cbca944b"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "7.3 Support"
+changelog = "Added support for multiple checks per dungeon, and fixed the Shinryu goal."
