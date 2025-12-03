@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Ennea/VeryImportantItem.git"
+commit = "6a1250bb83a3e2cfccddeeef3e8c6f6d28853b71"
+owners = ["Ennea"]
+project_path = "VeryImportantItem"
+changelog = """
+- Add option to disable context menu entries
+- Fix long item names getting an extra line break :)
+"""
