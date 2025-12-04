@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/j0giwa/ComfyLoot.git"
-commit = "9c898ec571bf7d9231f9b4ab9935911f159960ed"
+commit = "c74b3d13289ffb15dc6529a53c94b6c27d2eec1f"
 owners = ["j0giwa"]
 project_path = "."
 changelog = """
-v1.0.0
-- Prettified UI
-- Added sorting capability
-- Added ability to temporarily hide items
+v1.0.0.1
+- Fixed scrolling behaviour in the UI
 """
