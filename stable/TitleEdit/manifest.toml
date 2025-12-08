@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "189760868addcef8ccb33b59a265f4af926d82a1"
+commit = "22610f1e7755a5a35c348cc638c2673122173aea"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
 - Maintenance update
-- Fixed bool marshalling problem (thanks @bwuny)
-- Fixed CS obsoletes
 """
