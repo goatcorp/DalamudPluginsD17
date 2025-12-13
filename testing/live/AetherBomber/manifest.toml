@@ -1,0 +1,7 @@
+# testing/live/AetherBomber/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/AetherBomber.git"
+commit = "6baf01524e90e3e66d4989f3397b9149dc909914" 
+owners = ["rail2025"]
+ project_path = "AetherBomber" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "v0.0.0.2: working ai, basic multi."
