@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://git.0x0a.de/0x0ade/DP-CustomEqualizer.git"
+commit = "bbe492a409e297bc3880d8232527442fcbb44b2c"
+owners = ["0x0ade"]
+project_path = "CustomEqualizer2782"
+changelog = """
+- Initial release
+"""
