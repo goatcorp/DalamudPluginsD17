@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "4df26caebce872406051fdacd962e85904a03723"
+commit = "acdaba9b245340c73d1b41d260b88ec9d21120d9"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Added**
-Color items orange (configurable) when some prerequisites collected
 **Fixes**
-Fix plugin themes not saving
-Fix gearpiece UI color being wrong sometimes
+Fix higher quantities of prerequisites not assigning to more than one gearpiece
+Fix text errors for non-EN clients
 """
