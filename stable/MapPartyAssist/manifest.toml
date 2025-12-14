@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "6ed5f8f83bea1d1c4ad62afd617796ac9967d5c6"
+commit = "0ce393a32a3a8d18f08635461409ab1414011488"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Improved refresh performance.
-* Converted all times to UTC to handle errors with Daylight Savings Time transitions.
+* Fixed an issue with adding duty results imports with missing dutyIds.
 """
