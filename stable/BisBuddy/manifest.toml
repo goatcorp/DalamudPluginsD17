@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "acdaba9b245340c73d1b41d260b88ec9d21120d9"
+commit = "f2b6d5f7edd4ae03a7ab6bdd16a602fc21873c6f"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
-Fix higher quantities of prerequisites not assigning to more than one gearpiece
-Fix text errors for non-EN clients
+- Actually fix non-en languages
 """
