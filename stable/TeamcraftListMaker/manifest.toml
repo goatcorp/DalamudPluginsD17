@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TeamcraftListMaker.git"
-commit = "13e5b30b116c35cde5c966ea907c5491c49c5467"
+commit = "dc93cad8fcc16de3aa141cd1bf08a1581c20b2b3"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Updated for patch 7.3"
+changelog = "- Updated for patch 7.4"
