@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/Globetrotter.git'
-commit = 'e7e8177883f4bd991021a21a5ffccf88e2900af7'
+commit = 'ba169f633f7e7903ccb707f4e91ab205efe1129b'
 owners = [ 'anna-is-cute', 'chirpxiv', 'MKhayle' ]
 changelog = '-# API 14 update'
