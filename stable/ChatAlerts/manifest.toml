@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Ottermandias/ChatAlerts.git"
-commit = "a9cb543a8a196219bfd54e69b29cc9117e461f1e"
+commit = "8d48d208f07fa3ebaa87cf5fadef1a268ce84c2b"
 owners = [
     "Ottermandias",
 ]
 project_path = "ChatAlerts"
+
 
 
 
