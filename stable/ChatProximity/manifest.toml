@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "10bf5452918fe48d8d4cf2b207dc08af96c2e2dc"
+commit = "806724b7e9695fc4dc792b9ebfff4d9e10b035cb"
 owners = [
     "iv230"
 ]
 project_path = ""
 changelog = """
-## 1.4.0
-- Added option to recolor focus target messages
-### 1.4.1
-- Updated to game v7.3 and SDK v13.0.0
+### 1.4.2
+- Updated to game v7.4 and SDK v14.0.1
 """
