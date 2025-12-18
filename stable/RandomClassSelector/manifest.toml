@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/RandomClassSelector.git"
-commit = "0f82ff72ac213ae5f2b2e94c8620780a46d06841"
+commit = "6947cdf223f85a1063484254fae4ec8dec31b393"
 owners = ["Aida-Enna"]
 project_path = ""
 changelog = "- Update for 7.4\n- Properly handle when you don't get any classes available to pick"
