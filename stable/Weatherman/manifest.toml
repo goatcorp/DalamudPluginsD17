@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/NightmareXIV/Weatherman.git"
 # The commit to check out and build from the repository.
-commit = "28236b08592460ef45c20eb73d5f0f50ae2d5775"
+commit = "c034326bb54650b08aa7600244cb6162020c50d7"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Limiana"
