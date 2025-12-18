@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "f2b6d5f7edd4ae03a7ab6bdd16a602fc21873c6f"
+commit = "7aaa32a52ccde5506e196603efbf854003a95417"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Fixes**
-- Actually fix non-en languages
+- 7.4 / api14 update
 """
