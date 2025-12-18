@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ktisis-tools/ffxiv-pathfinder.git"
-commit = "099b400a2654b3922905e90f385987b32f16a0cf"
+commit = "047c3ea23d305c618dc24ac23a863f92adace0ec"
 owners = ["chirpxiv", "sleepybnuuy"]
 project_path = "Pathfinder"
-changelog = "DAPI 14"
+changelog = "DAPI 14.0.1"
