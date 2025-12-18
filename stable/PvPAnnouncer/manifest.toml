@@ -1,7 +1,8 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "a143a76cb868a513649d65fecc846d6fb00fbc4b"
+commit = "3b659ebc320609f34fb7217331339f83557b8111"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Update to 7.3"
+changelog = "Update to 7.4 - Spoilers disabled by default - Check settings to enable!"
+
 
