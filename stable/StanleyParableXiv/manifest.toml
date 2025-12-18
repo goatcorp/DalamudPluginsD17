@@ -1,8 +1,12 @@
 [plugin]
-repository = "https://github.com/rekyuu/StanleyParableXiv.git"
-commit = "9bec21632808b19ea4f64bb9f611de099132373b"
-owners = ["rekyuu"]
+repository = "https://github.com/GayPotatoEmma/StanleyParableXiv.git"
+commit = "1f4f42a46fd98de07300884028e063bcd2588dfb"
+owners = [
+"rekyuu",
+"GayPotatoEmma"
+]
 project_path = "StanleyParableXiv"
 changelog = """
-- Update to API 13
+- Adopted from Rekyuu
+- Update to API 14
 """
