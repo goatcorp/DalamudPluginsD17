@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/HybridEidolon/eid-ffxiv-plugins.git"
-commit = "89648106a989b86b9fdc8557a8949c80a97a9f04"
+commit = "f35f1eed899ca38f49102d6ca3e963ff3e5e53bd"
 owners = ["HybridEidolon"]
 project_path = "DynamicUIScaling"
 changelog = """\
-Now restores original scale on unload.
+Updated to API 14.
 """
