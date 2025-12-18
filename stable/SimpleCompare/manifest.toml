@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Cyenia/ffxiv-simplecompare.git"
-commit = "ab73dec304d496eae9ac8cb2cd0daa662fbf4dd8"
+commit = "fdef373e52c5a596871a4ea94f70911bad7ad32e"
 owners = ["Cyenia"]
 project_path = "SimpleCompare"
 changelog = """
