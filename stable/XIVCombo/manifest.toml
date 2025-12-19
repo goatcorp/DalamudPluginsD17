@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "0c3f84a1a725304337802847f1e2ba2c229500d2"
+commit = "ae9172c891893ec3e0784a929372e5367f02043a"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +15,5 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """\	
--# API13 update
+-# API14 update
 		"""
