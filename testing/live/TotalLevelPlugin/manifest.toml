@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/meoiswa/TotalLevelPlugin.git"
-commit = "04ac8c6a311e7146ddd622630924493937895eaa"
+commit = "48095e8dd5cbfbea1199ab282645cb49c696559a"
 owners = ["meoiswa"]
 project_path = "TotalLevelPlugin"
 changelog = """
-Version 1.0.0.0:
- - Hello world!
+Version 0.0.0.2:
+ - Update to API14
 """
