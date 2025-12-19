@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "997b03a268ae830658ca07f009532e0e84e0e7b6"
+removecommit = "d0db9362a2d69b55b0984230b2cbe2417c7130c0"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
