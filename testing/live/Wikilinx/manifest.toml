@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/in1tiate/Wikilinx-Dalamud.git"
+commit = "ff8fa14a728d9ea27440f2c90397606cc787fd25"
+owners = ["in1tiate"]
+project_path = "WikilinxPlugin"
+changelog = "Bump to API13"

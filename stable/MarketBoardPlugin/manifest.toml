@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "a2c72e4ea99d70b0adad9601a707f02789052a0d"
+commit = "46d3f49fca27c78fb410ba196a3e4feaa28de871"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = """\
-- Fix context menu for HQ items\
+changelog = """
+- Patch 7.4 / API 14 compatibility
+- Allow including Oceania in Cross-DC searches (added a checkbox in settings)
+- Added support for China Cross-DC
 """

@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/MidoriKami/MiniCactpotSolver.git"
-owners = [ "daemitus", "MidoriKami" ]
+owners = ["daemitus", "MidoriKami", "nathanctech"]
 project_path = "MiniCactpotSolver"
-commit = "bfd480b770014aaf9e26c6fcfdffa84108f0ba3c"
+commit = "761b4e227139f9bf98ff38df8bf6a8cd77f0e1c9"
+version = "3.0.0.2"

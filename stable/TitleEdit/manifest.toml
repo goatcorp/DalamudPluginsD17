@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "32dcd1e38a8e9a6eeffbde9ab8ba5b8f4bcba24b"
+commit = "9f9cdafcab452d3f22b5be82942b2a15270da6ba"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fixed crash on login when using a Solution 9 (and maybe some other zone I wasn't aware of) title screen
+- Updated to API14 and patch 7.4
 """

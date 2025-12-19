@@ -1,8 +1,17 @@
 [plugin]
 repository = "https://github.com/Drahsid/HybridCamera.git"
-commit = "e5a8d8508dd0ecd81be1881e9c16dbfdaf732cc4"
+commit = "9c32d537d33c9e9c3b9c7f5a195b0b3f2435937a"
 owners = ["Drahsid"]
 project_path = "HybridCamera"
 changelog = """
-- Updated for API12
+New Features
+- added `/phcam on` and `/phcam off` commands which toggle the behavior of the plugin
+- `/phcam` will still toggle the config window, however, `/phcam config` will show the config window
+- By popular demand, reintroduced the WASDEQ (keybind) movement method from earlier versions of HybridCamera. If you are one of the people who wanted this, toggle the new 'Keybind Mode' option on
+
+Bugfixes
+- Fixed unlikely but possible circumstance where the smart strafe hook could overwrite itself without disposing, which would cause a crash
+
+Other
+- Slightly improved the appearance of the config window
 """

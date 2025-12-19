@@ -1,20 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "27d485e074313035518a251ee5eb912a18f5ec1e"
-owners = [
-    "Critical-Impact",
-]
+commit = "c542405ba9810edcf041ada820db7394785d9cb5"
+owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.12.0.21"
-changelog = """\
-### Fixed
-- Duties are now stored based off their ID and not the map of the duty as some maps may host more than 1 duty.
-- Fixed a bug that'd cause the craft system to think more crafts were capable then actually were
-- Fixed a bug where the wrong slot was being accessed in glamour chests
-- Fixed a bug when moving the position of a list would not reflect correctly in the UI
-- Switched the majority of ImGui Begin/End's to ImRaii, @ me if you notice anything amiss in the UI
-
-### Added
-- Empty is now an ingredient sourcing options for all items allowing you to source the item in whatever way you wish
-
-"""
+version = "1.13.1.9"
+changelog = "### Fixed\n- Shops that yield more than 1 item when being purchased will be factored into craft lists correctly\n- Fixed certain shops not highlighting correctly when there was more than 1 shop listing available\n### Added\n- The total quantity available column can now be configured to provide a total of any combination of NQ/HQ/Collectible items\n- Added a \"Add to Favourites\" context menu setting"

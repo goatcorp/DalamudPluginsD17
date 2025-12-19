@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "73628620d4a7e98dd5186fa9204d395641cb0b72"
+commit = "aef49ae19bca5b584d2aaebcf4b70e7b970e6749"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
+**Added**
+ - DEBUG: added several tools to expose internals to aid in debugging
+ - Added logging to several actions that might lead to crashing
+ - Add copying/pasting of hex values inside color pickers
 **Fixes**
- - Fix prerequisites for collected items being highlighted
- - Fix obtained prerequisites not being highlighted properly
- - Fix obtainable items not being highlighted in shops to purchase
+ - Fixed many issues of bad game data access that may have led to crashes
+ - Fix bug where prerequisite options show multiple versions of the same shop exchange
+ - Fix visual issues with materia on newly imported gearpieces
 """

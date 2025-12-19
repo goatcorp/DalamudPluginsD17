@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "95f8e1680ed1669a935814ae241fe1b3031d436a"
+commit = "c43c3b1628341fc326af13d20098086f5aded541"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Tentative fixes for patch 7.25.
+* Re-enabled Rival Wings Tracker
+* Converted all timestamps to UTC to resolve an issue with daylight savings time transitions.
 """
