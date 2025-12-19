@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "e71e4060756719ce759e43df8f754da82ddf57dd"
+commit = "7aaa32a52ccde5506e196603efbf854003a95417"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Fixes**
-Fix another bug with saving gearsets corrupting
+- 7.4 / api14 update
 """
