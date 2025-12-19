@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "43f2276d04a890d754ca52f3ce70a588a447da39"
+commit = "3966963152676954fdbc23b74e2a19ba9df329ff"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Reverting previous temp-fix now that sheets are updated
+- Update for 7.4 / api 14
+- Fixed naming inconsistencies for certain Job Gauge Trackers
 """

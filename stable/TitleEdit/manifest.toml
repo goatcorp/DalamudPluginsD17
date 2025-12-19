@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "1b43687495c302279727e7ace82422e5e115e759"
+commit = "9f9cdafcab452d3f22b5be82942b2a15270da6ba"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Updated to API13 and patch 7.3
-- Minor internal UI refactoring
+- Updated to API14 and patch 7.4
 """

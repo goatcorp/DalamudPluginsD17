@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "be71c26714e0d6f47e63ed8b43dcb1ff308983c7"
+commit = "0ce393a32a3a8d18f08635461409ab1414011488"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed and updated for patch 7.3.
-* Added Gargantuaskin Treasure Maps and Vault Oneiron to stat tracking.
+* Fixed an issue with adding duty results imports with missing dutyIds.
 """

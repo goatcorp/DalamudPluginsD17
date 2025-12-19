@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "da98688e334d4852ce3cd7cb7f43a0bb60ceb26c"
+commit = "9b0072f1e615f6df631c19a739480faf8f81028e"
 owners = ["NotNite", "MidoriKami", "MKhayle"]
 project_path = "OfDungeonsDeep"
 changelog = """
-- Data update (thanks compendium)
-- Fixed an issue with EO's boss data on floor 30 and 40 not being displayed (thanks Seitoun for the report)
+-# Fixes crashes when targeting a monster vulnerable to the Resolution Pomander in PotD (thanks Shadow for the bug report)
 """

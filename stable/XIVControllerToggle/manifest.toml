@@ -1,9 +1,12 @@
   [plugin]
   repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
-  commit = "48b0560bdb9d1bf81e699ebb1669fa0a9c7d7a6d"
+  commit = "a6cf20f62052674475dbfd877f82e350084e1cc7"
   owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
   changelog = """
+  # The Great Controller HUD Switcher 1.2.2
+  - Updated to latest API version and FFXIV Patch, thanks @grecaun
+  
   # The Great Controller HUD Switcher 1.2.1
   - Fix issue with several configuration variables not saving.
 

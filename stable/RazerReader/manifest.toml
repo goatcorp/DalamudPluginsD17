@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "ee19eeb609d32f2198e00ea183f9ed1a25e74f65"
+commit = "5b48d03b30ad7a62ac63df72127d9ca93785d2eb"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Update to API13"
+changelog = "Update to API14"

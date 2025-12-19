@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-snooper.git"
-commit = "db0505ca8b0157483d6c67d70ae6e65755125d1a"
+commit = "1396a1b2c3dc3977947c8957564a83289c8d81e7"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.4.0.2"
+version = "1.5.0.0"
 changelog = """
-Update to Dalamud API 12 and .NET 9.
+* Enhancement: Added a hover delay option. (#9)
+* Enhancement: Added the ability to lock windows in place. (#19)
+* Bugfix: Fixed one's own messages in party chat not displaying when class/job abbreviations are enabled. (#27)
+* Bugfix: Fixed log files for persistent windows writing messages from players not in the window's player list. (#29)
 """

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Ennea/VeryImportantItem.git"
+commit = "74f6d7ed981926e5c836682ffe6243ba234a5804"
+owners = ["Ennea"]
+project_path = "VeryImportantItem"
+changelog = """
+- Update to API14
+- Don't search for items with just the empty string as their name
+"""

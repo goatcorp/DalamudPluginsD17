@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/s5bug/AutoTimer.git"
-commit = "6b018eaf563a1f79866215c4eca360daf5a1017a"
+commit = "8a1b225f43eaa1d1e2b27de022ffef13511a67ef"
 owners = ["s5bug"]
 project_path = "AutoTimer"
 changelog = '''
-- Update to 7.2'''
+- Update to 7.3'''
