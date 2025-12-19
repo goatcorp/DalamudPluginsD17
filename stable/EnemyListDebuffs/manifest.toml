@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Limiana/EnemyListDebuffs.git"
-commit = "54e4b9b6b1a864646ad19fc4e29e33a4704f9e5f"
+commit = "17c6f75c4649ed4eb7d4b5c92ef9acb7847d725d"
 owners = [
     "Felys1998",
     "Limiana",
