@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/rgd87/BigPlayerDebuffs.git"
 # The commit to check out and build from the repository.
-commit = "d79ae254f05db90695c1fa3f0989c19ab26a0d9d"
+commit = "3c597e008234dff3a2a6a2d6e40085963df04692"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "d87"
