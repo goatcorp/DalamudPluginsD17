@@ -1,15 +1,20 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "fd6ce66287da0a9f7d27efac1d3e51dcdb077200"
+commit = "6475296eab5b65ea26ac07007b154a02f3a91b78"
 owners = ["haroldiedema"]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.8
+# Umbra 3.1.9
 
 ## Fixes & Improvements
 
-- Societies: Add teleport for Yok Huy (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Add support for Deep Dungeon Treasure Coffers (by [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Add fixed width for the Emote Chat Indicator Widget (By [alexpado](https://github.com/alexpado)).
+- Allow negative horizontal padding for all widgets (By [alexpado](https://github.com/alexpado)).
+- Add entry label to Widget Settings window for Single Server Info Bar widget (By [alexpado](https://github.com/alexpado)).
+- Dynamic Menu: Add "Move to top" and "Move to bottom" options to the context menu of items (By [alexpado](https://github.com/alexpado)).
+- Custom Deliveries: fix color usage for hearts; set hover to background instead of stroke (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Gearset Switcher: Add crafter specialist color highlight & customization (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Gearset Switcher: use input border hover instead of accent color (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 
