@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "7aef4075af28bb6fae358be60dfc0cc6f8fdaa7b"
+commit = "784931390e76e9440f1739ed7a54b0facc845f10"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
 changelog = "Update to 7.4, Fix Territory Change bug"
