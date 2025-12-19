@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "38c5278a73afbbe1e50db4992b1d8a3ed83645f4"
+commit = "2fa04ecd25c4346b71425e25538f23bf1ceefb00"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Bump to 1.0.0 for stable release
+- **General**: Version 1.1.0: API14/7.4.
+- **Currency**: Fix currency history saving.
+- **Progress**: Add Starlight
 """
