@@ -1,7 +1,7 @@
 # stable/AetherBreaker/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBreaker.git"
-commit = "8597c8cb3e5bda1d54cc8a0cc06d549d13bccdcc" 
+commit = "8d0b3c01da54bc2fe7f789b701ab0faa675e9e61" 
 owners = ["rail2025"]
  project_path = "AetherBreaker" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v2.1.0.3: audio volume control bug fix.\nv2.1.0.2:net build fix for compiling.\nv2.1.0.1: update for patch 7.3/api 3.\nv2.1.0.0: Music chest unlock added, multiplayer server fix, redesign aiming line."
+changelog = "v2.1.1.3: api 14\nv2.1.0.3: audio volume control bug fix.\nv2.1.0.2:net build fix for compiling.\nv2.1.0.1: update for patch 7.3/api 3.\nv2.1.0.0: Music chest unlock added, multiplayer server fix, redesign aiming line."
