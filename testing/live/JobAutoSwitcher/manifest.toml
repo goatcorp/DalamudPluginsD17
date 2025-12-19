@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Valiice/JobAutoSwitcher.git"
+commit = "89dc0ffdefc8a917f5e0b50d0695af1ae7073754"
+owners = ["Vali"]
+project_path = "JobAutoSwitcher"
+changelog = "Initial release."
