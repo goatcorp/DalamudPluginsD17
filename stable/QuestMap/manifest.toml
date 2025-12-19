@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/rreminy/QuestMap.git'
-commit = 'de535888794858c6e51a3f197b68c2b81f8ebcab'
+commit = '4c67b202d3126c3de58592df467c3dbff435e2d4'
 owners = [ 'anna-is-cute', 'rreminy' ]
-changelog = 'Fix clipper crash'
+changelog = 'Dalamud API 14 Update'
