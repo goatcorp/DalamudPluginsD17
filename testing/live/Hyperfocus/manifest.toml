@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Exter-N/Hyperfocus.git"
-commit = "f504cd054fc20f54e2e05da54bb123cb1227c474"
-owners = ["Exter-N"]
-project_path = "Hyperfocus"
-changelog = "Allow use in PvE"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "98e5f7b1e1cd0db6e457986b59dcc5862911aee4"
+commit = "0ce393a32a3a8d18f08635461409ab1414011488"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed party member Digs not being tracked properly with Japanese language client.
+* Fixed an issue with adding duty results imports with missing dutyIds.
 """

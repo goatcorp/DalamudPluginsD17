@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d19b5f150e20b2d5fc8fe45ec3d87dbf3f69cda3"
+commit = "a6641f6dc1643832c0f8a713031b01f70b010476"
 owners = ["Glyceri"]
 	changelog = """
-[2.6.1.2] 
-+ Changed some IPC names.	(If you are a plugin dev that uses the IPC, it should be extremely easy to fix).
+[2.7.1.0] 
++ Chose a different way to handle nameplates until the underlying cause of everyones nameplate crashes get found.
 """
+
+
+
+
 
 
 
