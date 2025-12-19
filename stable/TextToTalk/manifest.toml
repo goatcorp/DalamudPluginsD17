@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "af9058c692987b198a7b2a7217d53144787eeeda"
+commit = "5f8b9f89888104466499f338484f1a77c08cda01"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
