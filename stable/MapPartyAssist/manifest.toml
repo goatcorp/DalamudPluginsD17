@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "0ce393a32a3a8d18f08635461409ab1414011488"
+commit = "cb93297f1c1ad7e523fbff8e58b1f5a790ec4631"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed an issue with adding duty results imports with missing dutyIds.
+* Patch 7.4 update.
 """
