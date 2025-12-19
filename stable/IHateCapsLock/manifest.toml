@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/rreminy/IHateCapsLock.git"
-commit = "3edf260e04ca658e7ed1e3e6fce909e6ac5895c4"
+commit = "4acb9e87a091e6d8c16416b0faefeb98e2f56290"
 owners = ["rreminy"]
 project_path = "IHateCapsLock"
-changelog = "- Made keys configurable\n- Option to use a dedicated thread\n- Advanced option to allow polling outside of the game's window\n- Option to allow disabling caps lock completely"
+changelog = "- Dalamud API 14 Update"
+
