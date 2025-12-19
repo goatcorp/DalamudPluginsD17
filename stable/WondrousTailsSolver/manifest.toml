@@ -2,5 +2,5 @@
 repository = "https://github.com/MidoriKami/WondrousTailsSolver.git"
 owners = ["daemitus", "MidoriKami", "nathanctech"]
 project_path = "WondrousTailsSolver"
-commit = "21cbd7d31644cbdfc28020022b832267abcc538a"
-version = "3.2.2.5"
+commit = "7b972959f3d606ebdff707ac92cb463d20be50e1"
+version = "3.2.2.6"
