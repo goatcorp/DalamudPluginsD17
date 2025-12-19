@@ -1,7 +1,6 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = 'bdd9cb8ce8100016e5dbe8fba0f3d26dafd882b9'
+commit = '55f52df3c723322a8659230a1627b34036fc2315'
 owners = [ 'Xpahtalo' ]
 project_path = "BurntToast"
-changelog = """Support for patch 7.2.
-You can now filter those text popups with the red background that tell you how to play the game."""
+changelog = """API13 support."""

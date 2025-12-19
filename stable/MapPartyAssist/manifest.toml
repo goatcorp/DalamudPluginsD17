@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "220591f4a87ee8af4a27e00b2833e0d0a40b1f01"
+commit = "0ce393a32a3a8d18f08635461409ab1414011488"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fix map links and loot not tracking with abbreviated name settings.
-* Announcing a map should now no longer overwrite your stored map link.
+* Fixed an issue with adding duty results imports with missing dutyIds.
 """

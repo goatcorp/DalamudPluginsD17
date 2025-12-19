@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/MeiHasCrashed/OhHey.git"
+commit = "44a761ad56baa0e09383fd17a0c49fb8e04ccdc5"
+owners = ["MeiHasCrashed"]
+project_path = "src/OhHey/"
+changelog = """
+# Oh Hey 0.0.3
+
+This is the first stable release of Oh Hey!
+
+## Fixes
+- Fixed crash to desktop caused by UI code running on the wrong thread. Sorry!
+"""

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "e987b6b8df2ec8bfb0d8078fededcef1b8e90b21"
+commit = "2f2841cbfd669329f5a742154fac5bb0e7607652"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Add Icon to DTR Bar
+Update to API 13
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "117cab0bd98e79607f9b7c9c8fb57d2da498dc2b"
+commit = "7fb7fd8fda19db6b6a0dc82b73fb8ba4cbca944b"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Fixed checks for Ocean Fishing and Fetes"
+changelog = "Added support for multiple checks per dungeon, and fixed the Shinryu goal."

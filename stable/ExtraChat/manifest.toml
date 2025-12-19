@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/ExtraChat.git'
-commit = '099a5103260fa307df937284274b14dbfa551cc1'
+commit = '78de81ec2951e84cdbdccbddc9ca68a02daa0410'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = '''\
-- API 12
+- API 14
 '''
