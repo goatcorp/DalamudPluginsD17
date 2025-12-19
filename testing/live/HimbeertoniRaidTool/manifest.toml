@@ -2,10 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "79a6bc8acdb56e46fa9209e25947d0222b4ced89"
+commit = "64dee41fd15210fdf1c612bed27627e0b70fdf8e"
 changelog = """
-New Module: Planner
-  Plan and document your raid sessions. Keep track of absences and loot
-  Open via /hrt planner
-Loot Session: Loot assigned in loot session can be saved to the corresponding raid session
-General: You can disable not needed modules in the config"""
+User Interface: Better input for dates and times
+    User Interface: Can now add any character to a raid session"""

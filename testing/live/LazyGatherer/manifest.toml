@@ -1,13 +1,9 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "4e64ac557bc58a708da7f978793496aaf47cb9dd"
+commit = "088d33d7508332d9e6a764cef999703299fcdb57"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.2.0: 
- - Add option to hide max GP slider.
- - Add "estimated yield" display style.
- - Improve configuration UI.
-Version 1.2.1:
- - Fix loading issue
+Version 1.3.0: 
+ - Add collectable support. Experimental, feel free to send feedback.
 """

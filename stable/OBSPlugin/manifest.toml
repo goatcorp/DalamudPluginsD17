@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "42b6da0cdb6f5d0f077027408448c9894fdd2928"
+commit = "fc395c3cf243ebcc30902ab54b22e61f67547626"
 owners = ["Bluefissure"]
-changelog = """API13"""
+changelog = """API14"""
