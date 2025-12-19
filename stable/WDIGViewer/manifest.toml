@@ -1,7 +1,7 @@
 # stable/WDIGViewer/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/WDIGViewer.git"
-commit = "1d5f6c249931ac89df5f2febeecbe158f150755c"  # The commit hash you identified earlier
+commit = "094b4d75e4bb01f9cde4023a650617128fff094d"  # The commit hash you identified earlier
 owners = ["rail2025"]
 # project_path = "WDIGViewer" # Only uncomment and use if your .csproj is NOT at the root of your repo
 changelog = "v1.0.4.0, api14, 7.4 ex6\nv1.0.3.1, API 13/Patch7.3, EX 5 images"
