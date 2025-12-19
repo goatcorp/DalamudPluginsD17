@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/pupwife/DispellerPlugin.git"
-commit = "6f2d0997a049f6dd536f6781d9231696fc4497bd"
+commit = "8be3ffa418043546226b39d229fbd002817e9e12"
 owners = ["pupwife"]
-changelog = "Initial release!! Time to clean up that Glamour Dresser :3c"
+changelog = "API14 and bugfixes"
