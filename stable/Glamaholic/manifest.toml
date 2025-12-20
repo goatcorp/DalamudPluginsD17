@@ -1,9 +1,13 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = 'cb0572b189d4cf2b45e0deac9b60844bcfda722a'
+commit = '54c561cca7b031e4e0a54a393f269b5b49aa1edd'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed TryOn "Save/Delete Outfit" setting offset for 7.3
+- Updated for 7.4 & API 14
+- Folders can now be renamed through the right-click context menu.
+- Plates and folders can now be dragged and reordered manually, and automatic sorting has been removed.
+- Improved third-party plugin support.
+- Added changelog view on main window open.
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

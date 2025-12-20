@@ -1,9 +1,24 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "7b5af37e721129f6409d4da0d5b781ba2407b843"
+commit = "1b29233f27516bc1a83ac43de7c32dee222993d9"
 owners = ["Glyceri"]
 	changelog = """
-[2.5.0.0] 
-- Updated for API13
+[2.8.0.0] 
++ Updated for API14.
++ Added a Context Menu for the new Quick Panel.
++ Fixed multiple Context Menu bugs that resulted in custom context menu entries showing when they shouldn't.
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "be71c26714e0d6f47e63ed8b43dcb1ff308983c7"
+commit = "9d72b8641ed9251e5836be3bc6675e80a07b968b"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed and updated for patch 7.3.
-* Added Gargantuaskin Treasure Maps and Vault Oneiron to stat tracking.
+* Patch 7.4 update.
 """
