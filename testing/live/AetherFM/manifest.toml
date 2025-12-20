@@ -2,5 +2,5 @@
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
 commit = "0db4d3b7960dabc60705cc7ef647f62a144dafe4"
 owners = ["SalvatoreDevelopment"]
-project_path = "AetherFM"
+project_path = "."
 changelog = "v1.3.0: Update to API 14 (Patch 7.4), Performance overhaul (Caching/Limit), Country filters fixed."
