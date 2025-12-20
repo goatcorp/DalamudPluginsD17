@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "cb090fdf6638bb20740ab68e5b8c5297aae7890b"
+commit = "4d32dd0aec11498c7453cf0ac8f3193341fccbaf"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
-changelog = "Update to 7.4, Fix Territory Change bug"
+changelog = "Fix load error on game restart"
