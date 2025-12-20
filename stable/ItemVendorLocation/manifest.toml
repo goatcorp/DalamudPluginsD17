@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "16f8c2d2b9cf4330d442fd57c464282861a5312d"
+commit = "db4a340302c5120da2676c3a0a3baa16f5748010"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Patch 7.4 update
+- Patch 7.4 update (Dalamud 14)
 """
 version = "2.12.0.0"
