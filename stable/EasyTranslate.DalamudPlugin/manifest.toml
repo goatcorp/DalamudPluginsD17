@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Olaren15/ffxiv-easy-translate.git"
-commit = "d3fea327a2cb5550ce62c29f0ca57c35f5682843"
+commit = "07d2c5ea665741c2d78eb236ad548d8ee5d71224"
 owners = ["Olaren15"]
 project_path = "EasyTranslate.DalamudPlugin"
 changelog = """
