@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Pistachio-dev/FlashOnReadyCheck.git"
-commit = "2b267b81286982b85151ea28481c913310740d24"
+commit = "ad35a133033fd3300a273a80f4b75fcfa79de56c"
 owners = ["Pistachio-dev"]
 project_path = "FlashOnReadyCheck"
-changelog = "Initial Release"
+changelog = "Patch 7.4"
