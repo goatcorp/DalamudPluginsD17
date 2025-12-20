@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
-commit = "c58e8ef36e4be263607b57d9bf43530d0f2534d0"
+commit = "35611e523fd7eb13d9ee379740f93645fc347619"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
 changelog = """
-v1.1.1: Update to Dalamud API 13 with external plugin integration features.
-- Added 8 public methods for Umbra widget integration (GetCurrentStation, GetStatus, Play/Pause/Stop, OpenWindow/ToggleWindow)
-- Enhanced RadioManager with CurrentStation property and improved state management
-- Thread-safe external plugin communication via reflection
-- Comprehensive documentation for external plugin integration
-- All features tested and working with API 13
-- Windows-only support maintained (NAudio dependency)
+v1.2.0: IPC gates, Global search, Custom Stations, background playback, robustness.
+- Formal IPC call gates (incl. ResumeLast, TogglePlayStop); non-throw policy; ordered events
+- Global search (name/tag/language) and Custom Stations (add/list/remove)
+- Favorites enhancements (names API), favorites always visible
+- More stations: limit=10000, hide broken, clickcount order; wider stream validation (http/https,/stream, mp3/aac)
+- Background playback toggle (ON by default): stop on close only if disabled
 """

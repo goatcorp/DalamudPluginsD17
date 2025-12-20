@@ -1,7 +1,9 @@
 [plugin]
 repository = "https://github.com/belzaru17/WorkshopOptimizerPlugin.git"
-commit = "012e07fc1d81b282c95d56e58189458c0237a70d"
+commit = "15c42cbf9ca970d72cdfd02b6144831b61106e26"
 owners = ["belzaru17"]
 project_path = "WorkshopOptimizerPlugin"
-changelog = "Update for 7.3/API13."
+changelog = "Update for 7.4/API14."
+
+
 

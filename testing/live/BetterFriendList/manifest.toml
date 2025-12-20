@@ -1,6 +1,12 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "1c956651bdd01b82d5dbed7d6fe8496e3390d8d6"
+commit = "e1e0df1a4b5bc3b2d4e65a760bc10a3c2aad9299"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
-changelog = "bug fix, add alias, re enable update one person only"
+changelog = """
+fix :
+- pf retrieve data not getting world and private tab
+add :
+- option for column size
+- search pf info if playerId not present in data before trying to open it
+"""

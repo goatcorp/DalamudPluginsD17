@@ -1,13 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '3678ee81d1482e65a8711d93e63253a383d9cae3'
+commit = '4947c752cfbead5f6704f8ee942c223182dc01fd'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed an issue where items not present in the Armoire and Dresser would be displayed in dropdowns (@subaruyashiro)
-- Fixed an issue with Dyes showing as "Unknown Stain" in text exports (@starrfox6312)
-- Added plugin interop options to the Fitting Room helper dropdown menu (@subaruyashiro)
-
-Thank you to all who have contributed to this update.
+- Fixed Fitting Room -> New Plate item retrieval
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

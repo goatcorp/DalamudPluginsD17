@@ -1,7 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "2b2b382774110a02a760d8ca457ab365a619a89c"
-owners = [
-    "lokinmodar",
-]
-changelog = "v3.22.x \n fixes:\n - Bump to Dalamud API13.\n - Added YandexPublic translator engine."
+commit = "9e8847c8d24e410dd2484973b4d1105d36f0c09c"
+owners = ["lokinmodar"]
+changelog = "v3.24.x \n fixes:\n - Fixes a race condition when using translation overlays"

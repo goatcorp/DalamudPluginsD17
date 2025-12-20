@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/tesu/PennyPincher.git"
-commit = "1ca900389b4392557532aa612b5e879d6b1b4fe4"
+commit = "b26e81e0bee363b40f6d27e549f79397eee2dcc9"
 owners = [
     "tesu",
 ]
-changelog = "Avoid network packet processing bug"
+changelog = "API 13"

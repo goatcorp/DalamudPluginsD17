@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "4dc13104c7295c75afcd94eaa7f3e3d3825b2567"
+commit = "7d69affe383a02db37c8bff4ab1887ab1593ce2f"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Replaced BLM Fire IV cast time with Fire III in speed properties
-- Update to ffxiv 7.3 and dalamud api13
+- Fix item tooltips
 """
