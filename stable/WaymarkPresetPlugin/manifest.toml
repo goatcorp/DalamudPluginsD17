@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sourpuh/WaymarkPresetPlugin.git"
-commit = "d6b92a44a506dbc670cc38fa8e52df7db5dfe232"
+commit = "2aabbaf8c5b6667af79ef862e2b0c3cfe050e936"
 owners = [
     "PunishedPineapple",
     "abashby",

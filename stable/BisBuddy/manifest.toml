@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "e71e4060756719ce759e43df8f754da82ddf57dd"
+commit = "30f174ce30bd40d0a09a1bb351f3dccca344f27d"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
-Fix another bug with saving gearsets corrupting
+- Fix need greed highlighting not working
 """

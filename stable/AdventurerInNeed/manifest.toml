@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Caraxi/AdventurerInNeed.git"
-commit = "4b78b5f1ab1e81d3ae9ce01f1512d1893dfb1d50"
+commit = "3e7db5a0b18fe92b35eb32d0bf8ea5d3b96f7b8c"
 owners = [
     "Caraxi",
 ]

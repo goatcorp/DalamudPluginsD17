@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "8314ca9f8dcdc69fab0a1aab0267853104b630b0"
+commit = "8ad13c1e9994ec5e505f56d863d374ba92a88737"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.26.1"
+version = "1.0.26.2"
 changelog = """
-- Add 'Convert to Auto Translate' bulk action
-- Auto Translate is now insensitive to diacritics (i.e. fete = Fête)
-- Fix bulk import skipping slots linked on other tab
+- Bulk 'Auto Translate' now consumes quoted actions
+- Icon Search is now insensitive to diacritics (i.e. fete = Fête)
 """

@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Ennea/VeryImportantItem.git"
-commit = "6a1250bb83a3e2cfccddeeef3e8c6f6d28853b71"
+commit = "74f6d7ed981926e5c836682ffe6243ba234a5804"
 owners = ["Ennea"]
 project_path = "VeryImportantItem"
 changelog = """
-- Add option to disable context menu entries
-- Fix long item names getting an extra line break :)
+- Update to API14
+- Don't search for items with just the empty string as their name
 """
