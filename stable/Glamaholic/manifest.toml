@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = 'cb0572b189d4cf2b45e0deac9b60844bcfda722a'
+commit = '4947c752cfbead5f6704f8ee942c223182dc01fd'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed TryOn "Save/Delete Outfit" setting offset for 7.3
+- Fixed Fitting Room -> New Plate item retrieval
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

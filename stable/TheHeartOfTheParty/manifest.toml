@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/TheHeartOfTheParty.git'
-commit = 'ed9f2d39db8a9ecefc1fe362104c8f825ceec76c'
+commit = 'c83fb6fec07e66a3c401656f4587a701adf53dfa'
 owners = [ 'anna-is-cute', 'MKhayle' ]
-changelog = '-# API13 update.'
+changelog = '-# API14 update.'

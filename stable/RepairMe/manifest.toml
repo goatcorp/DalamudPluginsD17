@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/chalkos/RepairMe.git"
-commit = "646eabc50d9485432faaade51a98ea761caed119"
+commit = "4f223204b157a6ec590cceb5478c6c3a31a29afd"
 owners = [ "chalkos" ]
 project_path = "RepairMe"

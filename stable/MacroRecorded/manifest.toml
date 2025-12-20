@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MacroRecorded.git"
-commit = "de89ac591420f77460907813e6140ab6ee198894"
+commit = "f611d644285d72d9b287fb4c03d886db9c5779e5"
 owners = [
     "danielbrenom",
 ]
 project_path = "MacroRecorded"
-changelog = """- Updated API 12
+changelog = """- Updated API 13
  """

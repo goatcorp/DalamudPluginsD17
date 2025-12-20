@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "f2af519d643f559e135046acab1c14e9326d579b"
+commit = "86ff5ef59bccd3d0407b81682d7a64e32bfe6fdc"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-7.3 API13 Support
+- Update for 7.4 API 14
 """
