@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "2f73b4d98fbbf509b11cee93a81bf8d7068b2658"
+commit = "334b5036bc58c3266848c93ed33be01889b05647"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.1.0.13"
+version = "1.2.0.5"
 changelog = """\
-**Fixes**
- - Fixed issues with the currently selling/sale history tables not refreshing their data
+### Fixed
+- Fixed a broken signature, I'll see if I can make this less liable to break later
 
 """

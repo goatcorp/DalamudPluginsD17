@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-congratulations-plugin.git"
-commit = "1340b22efe6a674b0a1e8424f1c6776a7dfbc64d"
+commit = "5b9440705bfdd140a0dbccdcd260172ab8daae76"
 owners = ["jkchen2"]
 project_path = "Congratulations"
 changelog = """
-Fix regression bug with loading specific wav files on Windows
+Fix built-in files not getting included
 """

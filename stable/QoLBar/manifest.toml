@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "8c35009c67c6366080d96bad5d46aeb30d474133"
+commit = "7ee0a6e6cb10a0e957f3a6dabe79972bf285bd5b"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed for 7.2'''
+- Fixed for 7.3 (Thanks to Ottermandias)
+- Known Issue: Some icon colors are currently off'''

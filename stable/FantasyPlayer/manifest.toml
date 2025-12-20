@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "e6ada894ab0108170fa06bc768caaf482a9d846d"
+commit = "4f41b3fb87b1b49e4943c54492f9171c4b5aa92c"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.3.0.1"
+version = "2.4.0.1"
 changelog = """\
-- API12 support
+- Due to Spotify API changes you will now be required to make an app and provide a client ID
+- Please see instructions here https://github.com/Critical-Impact/FantasyPlayer/blob/main/SETUP.md
+- Fixed some minor bugs related to unloading the plugin
 """

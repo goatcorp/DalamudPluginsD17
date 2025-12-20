@@ -2,11 +2,12 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "f8848679e6a9aa40c54b194a28793b7865cf2a5a"
+commit = "c12e7f8f9ec80a2aede01573adfd984f69e66f22"
 changelog = """
-## 1.2.1
+## 1.2.5
 ### Changed
-- Updated for 7.2
+- Updated for 7.4.
 - Updated ECommons.
+- Mathemathics, Heliometry & Mnemonics changes.
 """
-version = "1.2.1"
+version = "1.2.5"

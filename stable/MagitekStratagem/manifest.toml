@@ -1,12 +1,21 @@
 [plugin]
 repository = "https://github.com/meoiswa/MagitekStratagem.git"
-commit = "d718b102dd2617997d549a1b075f954d8804f2af"
+commit = "ddfed6b6c71be2364e04083e6c38bd58e6c99953"
 owners = ["meoiswa"]
 project_path = "MagitekStratagem"
 changelog = """
-Version 1.0.2.0:
-- Fix: Crashing if Tobii Game Hub is not present, preventing using this plugin with OpenTrack or Beam Eye
+Version 1.2.0.0:
+ - Added option to use Head Rotation as Gaze (Eyelook position). Perfect for opentrack!
+ - Attempt to fix Beam Eye Tracker integration.
+
+Version 1.1.1.0:
+ - Fixed Cone target hooks.
+ - Fixed Gamepad Circle/Tab target differentiation.
+
+Version 1.1.0.0:
+ - Updated to API13.
+
 
 Known Issues:
-- Windowed mode is currently unsupported.
+ - Windowed mode is currently unsupported.
 """

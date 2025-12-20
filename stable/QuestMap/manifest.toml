@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/rreminy/QuestMap.git'
-commit = 'cae5aef923e3996658209968bfd94d27ee0dfd3d'
+commit = '4c67b202d3126c3de58592df467c3dbff435e2d4'
 owners = [ 'anna-is-cute', 'rreminy' ]
-changelog = 'Condense final MSQ quests, quest summaries and fixes'
+changelog = 'Dalamud API 14 Update'

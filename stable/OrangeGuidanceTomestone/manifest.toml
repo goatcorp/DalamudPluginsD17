@@ -1,8 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = 'db34bfc2c6092993fb2fe8ac376413b7a469f298'
+commit = '9a3445a614d0b591b9ad8bd8e4870b1246c66cf6'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- API 12
+- API 14
+- Fix certain emotes not looping
 """

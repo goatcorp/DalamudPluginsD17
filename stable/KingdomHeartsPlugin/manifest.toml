@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Arrenton/KingdomHeartsPlugin.git"
-commit = "5a14772b124f0182de654fab1dbde804a3da37a5"
+commit = "7daa90b18b0c409a58847d98a79e925292598a26"
 owners = [
     "Arrenton",
 ]
 project_path = "KingdomHeartsPlugin"
 changelog = """
-Updated to API 12.
+Updated to API 13.
 """

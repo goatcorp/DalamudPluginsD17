@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/fast-job-switcher.git"
-commit = "ad2719bce44a0cd987046bcc9a3f3c8f92954f20"
+commit = "8e59bc39429292027ece28999816d01efeec65e1"
 owners = ["meoiswa"]
 project_path = "FastJobSwitcher"
 changelog = """
-Version 3.0.1.0:
- - bc: Removed separate Uppercase and Lowercase Configurations, all commands are now available in either case.
- - feat: Added support for Phantom Jobs
- - fix: Changed Time Mage acronym to TIM
+Version 4.0.0.0:
+ - ⚠️Breaking Change: Removed Phantom Job Acronyms commands
+ - ❗New command: Phantom Job Fuzzy Search command `/pj <name>`. For example, `/pj rng` equips the `Phantom Ranger` job. Searches by both Localized Name and English Names
+ - Updated to API14
 """

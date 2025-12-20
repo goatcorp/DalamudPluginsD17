@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "a9bfd9fb301869f21a364f484045ab42177416e2"
+commit = "b4713889b4a717464963769fa37348a5111bfb2d"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Rival Wings hotfixes"
+changelog = "Update to 7.4 - Spoilers disabled by default - Check settings to enable!"
