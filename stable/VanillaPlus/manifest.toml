@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/VanillaPlus.git"
-commit = "7cacef2ea57c11dda9b7102a52a8b623a2547f2e"
+commit = "ac0baac009210085f2b6da4ece1bcd1a2acf13ba"
 owners = ["MidoriKami", "Haselnussbomber"]
 project_path = "VanillaPlus"
