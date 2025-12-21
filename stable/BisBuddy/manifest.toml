@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "b2775f0c9708f0e03a3f354e5dd134729b8187e7"
+commit = "386be3fe30bb5f48237f0e73625b85a804a58f6a"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
@@ -9,4 +9,5 @@ changelog = """\
 - Fix prerequisites sometimes not assigning when expected
 - Fix gearset tabs scrolling away when the window is small
 - Fix UI displaying gearset of other character upon swapping
+- Fix extending prereqs when no match is found
 """
