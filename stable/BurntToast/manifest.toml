@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = 'df6304895f1dab7c4e8e02f0615685b8bcd8460b'
+commit = '52cc786120bc18c50a65ef98cf01e5d36207690f'
 owners = [ 'Xpahtalo' ]
 project_path = "BurntToast"
 changelog = """7.4/API14 support."""
