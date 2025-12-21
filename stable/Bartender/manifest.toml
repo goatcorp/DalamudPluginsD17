@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "53d9c098732151af2ff8fab92846f754fca162da"
+commit = "87aaad048ccd49c462f9b33f1d25c3497cf95c46"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
