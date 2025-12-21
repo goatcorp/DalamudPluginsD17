@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "98d2574d20a873dcc82322156c219af15e447404"
-version = "1.7.3.29"
+commit = "c9d3efb1717bd7036a2aa994b80231f2523efdc6"
+version = "1.8.0.30"
 owners = ["CMDRNuffin"]
-changelog = """Update for 7.3
+changelog = """Update for 7.4
 
-Also adds an option to override mount group size settings for frontline/rival wings."""
+Also:
+- Adds a text filter for finding specific mounts in the list
+- Fixes mount names in tooltips being all lower case sometimes"""

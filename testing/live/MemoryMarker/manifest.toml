@@ -1,5 +1,10 @@
 [plugin]
-repository = "https://github.com/sersorrel/MemoryMarker.git"
-commit = "3676840800f03e182a8e4c0a0ecc0690c9f4dc75"
-owners = ["sersorrel"]
+repository = "https://codeberg.org/keysmashes/MemoryMarker.git"
+commit = "271497645a7d9fede793ad449f9db9ec3790bd0f" # version 2.2.4.0
+owners = ["keysmashes"]
 project_path = "MemoryMarker"
+changelog = """\
+Updated for API 14.
+
+Please note: I intend to discontinue Memory Marker in the future. If you are a new user, please consider using Waymark Preset Plugin or the "Instanced Waymarks" feature in VanillaPlus instead. I am working on developing a migration path for existing users.
+"""

@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "12300eb529d006187c9092b69150dda43aea7e3d"
+commit = "99a7e8efdcc10be0aa7bf420c7455b84a556631f"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Updated for API 12
+- Updated for 7.4 / api 14
 """
+
+
+

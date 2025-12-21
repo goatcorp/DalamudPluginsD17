@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "6d8c40fc80e709fefd81ea424fc90dd65d31168d"
+commit = "92b60de4faa0d89bd938825e2bb8162545f669ce"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
 changelog = """
-- chore: Update to API12
+- chore: Update to API13
   No other changes or fixes.
 
 NOTE: Since 7.0, Compass seems to work funky in some cases.

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "98e0409315c4b3c223823b3167f3985ef99777b8"
+commit = "8dbbfef650b4f9c246db48792e8ac4ad5fe60bf7"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
 changelog = """Changes :
-  - upgrade to Dalamud 11
+  - Update to latest api version
 """

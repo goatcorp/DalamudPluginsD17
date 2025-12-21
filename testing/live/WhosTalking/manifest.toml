@@ -1,10 +1,8 @@
 [plugin]
-repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "1b4bf813ab1cd5eb5c52a919a7810007dfee6e66"
-owners = ["sersorrel"]
+repository = "https://codeberg.org/keysmashes/WhosTalking.git"
+commit = "cdabcd06c857ff46e6a0dd2a6e15c0e44484ccbe" # version 0.8.8.0
+owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.5.0**
-
-Updated for patch 7.2 (API 12).
+Updated for API 14.
 """

@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/sersorrel/ShowGear.git"
+repository = "https://github.com/keysmashes/ShowGear.git"
 commit = "cfcd1d21ba7bdfa836eab74f3363d7fd4c356b4d"
-owners = ["sersorrel"]
+owners = ["keysmashes"]
 project_path = "ShowGear"
 changelog = "Update for API 9"
