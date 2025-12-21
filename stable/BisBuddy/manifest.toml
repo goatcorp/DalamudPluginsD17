@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "30f174ce30bd40d0a09a1bb351f3dccca344f27d"
+commit = "b2775f0c9708f0e03a3f354e5dd134729b8187e7"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
-- Fix need greed highlighting not working
+- Fix HQ items not highlighting in inventories
+- Fix prerequisites sometimes not assigning when expected
+- Fix gearset tabs scrolling away when the window is small
+- Fix UI displaying gearset of other character upon swapping
 """
