@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "22c52c58180f75a23e1c9a5749213ad29a654301"
+commit = "ca821b80eae59447f6dfdca8a4241116dbf877e8"
 owners = ["wompscode"]
 project_path = "NowPlaying"
-changelog = "bump to API13. Move debug logging to verbose as per request (sorry it took 4eva)"
+changelog = "bump to api14"

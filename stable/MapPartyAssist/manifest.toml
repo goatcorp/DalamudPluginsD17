@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "98e5f7b1e1cd0db6e457986b59dcc5862911aee4"
+commit = "9d72b8641ed9251e5836be3bc6675e80a07b968b"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Fixed party member Digs not being tracked properly with Japanese language client.
+* Patch 7.4 update.
 """

@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/MKhayle/BetterTargetingSystem.git"
-commit = "d04540cab70ae82caa65e7a536a372ca376f81cf"
+commit = "ae46a2a36cb8ffc43845631952e08d1f2a3a3138"
 owners = ["Lynesth", "MKhayle"]
 project_path = "BetterTargetingSystem"
 changelog = """
--# API 13 update"""
+-# API 14 update"""

@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "f2712830576a9d7d6a64fd1d9c7ed8618dd07222"
+commit = "386be3fe30bb5f48237f0e73625b85a804a58f6a"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Fixes**
-Fix a bug with saving gearsets corrupting
+- Fix HQ items not highlighting in inventories
+- Fix prerequisites sometimes not assigning when expected
+- Fix gearset tabs scrolling away when the window is small
+- Fix UI displaying gearset of other character upon swapping
+- Fix extending prereqs when no match is found
 """
