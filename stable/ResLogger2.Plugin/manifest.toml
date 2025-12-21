@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/perchbirdd/ResLogger2.git"
-commit = "0eafa167e060a574c7b59b19d1157daa3f2fa87d"
+commit = "6e1fb0217b56f30fda086a7bcc31f08302f84c04"
 owners = [
     "perchbirdd",
 ]
