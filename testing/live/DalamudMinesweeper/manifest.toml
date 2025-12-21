@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "ab8bb8c91af47081eb34556059e9d1e797cacaa5"
+commit = "b0653fee13101fa5cad8dec8ffabce54a06c4fd1"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
 changelog = "api14"
