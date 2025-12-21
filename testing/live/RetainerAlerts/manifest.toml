@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Ibcrootbeer/RetainerAlerts.git"
-commit = "2368dd224b60eb585da8653a4789e73ce75c460d"
+commit = "1bbe149ce8ef47386e20ed27e00915b3759df3e6"
 owners = ["Ibcrootbeer"]
 project_path = "RetainerAlerts"
-changelog = "Updated to Dalamud 13.0.0"
+changelog = "Updated to Dalamud 14.0.1"
