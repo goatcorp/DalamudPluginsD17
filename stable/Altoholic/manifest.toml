@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "48f8172dd161fc524079f54bf76836437b151d08"
+commit = "b8a988df844f2c12514f3cd68a6179b278e61919"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add missing Hildibrand from 7.35
+- **General**: Fix stain out of range bug.
+- **Inventory**: Add Outfit icon gear able to be outfitted to inventory and glamour dresser inventory
 """
