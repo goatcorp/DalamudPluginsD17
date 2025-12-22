@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/Nicknamer.git"
-commit = "cf928ed4b8dbc22ba3ca688a05b0d6c2a04aa6a8"
+commit = "bf17c94a1e5bb93d12815e966346b8266a008bd6"
 owners = ["Aida-Enna"]
 project_path = ""
 changelog = ""
