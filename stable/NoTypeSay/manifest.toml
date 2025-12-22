@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/salanth357/NoTypeSay.git"
-commit = "4b23a620d6a790c0210991888e9ab82c50a840ea"
+commit = "9697ad5fb912b0b11738138350792e8aa5998b62"
 owners = ["salanth357"]
 project_path = "NoTypeSay"
 changelog = """
-1.0.2.0:
-- Better support for game languages other than English
-- Fix an issue where the buttons wouldn't work if you were queued for a duty
-
-1.0.1.1:
-- Fix crashes"""
+1.0.2.1:
+- Update for 7.4
+"""
