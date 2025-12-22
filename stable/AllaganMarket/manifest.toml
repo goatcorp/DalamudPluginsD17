@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "334b5036bc58c3266848c93ed33be01889b05647"
+commit = "b03a6a54050fa22b4212455fa3d30c95cc3de103"
 owners = [
     "Critical-Impact",
 ]
 project_path = "AllaganMarket"
-version = "1.2.0.5"
+version = "1.3.0.0"
 changelog = """\
 ### Fixed
-- Fixed a broken signature, I'll see if I can make this less liable to break later
+- Support for 7.4
 
 """
