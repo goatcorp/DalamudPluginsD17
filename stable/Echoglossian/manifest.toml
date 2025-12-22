@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "9e8847c8d24e410dd2484973b4d1105d36f0c09c"
+commit = "e3b043122e2f1ad9b3934a6d5a62cc2294a5aac2"
 owners = ["lokinmodar"]
-changelog = "v3.24.x \n fixes:\n - Fixes a race condition when using translation overlays"
+changelog = "v3.25.x \n fixes:\n - Bump to API 14"
