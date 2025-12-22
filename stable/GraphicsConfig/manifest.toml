@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
-commit = "bc18e8b49394e6ab4c2a95e851a36348acd4213b"
+commit = "8b05a5ee8da8e27a4f62f1b45d7927b77573c49a"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Updated for 7.3"
+changelog = "- Updated for 7.4"

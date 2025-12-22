@@ -2,17 +2,12 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "89fcec1fd582baddaba14d275d42cd42a48778cf"
+commit = "c12e7f8f9ec80a2aede01573adfd984f69e66f22"
 changelog = """
-## 1.2.4
-### Added
-- New Currencies: Lunar Credits & Phaenna Credits.
-- New items: Everything in the Cosmic Fortunes.
-- New setting to set a minimum of sales for the sellable items to display.
-- Master Recipes can now be considered a collectable.
-### Fixed
-- NPC locations.
+## 1.2.5
 ### Changed
-- Flag/TP will now check if you need to be somewhere else or need to go there first.
+- Updated for 7.4.
+- Updated ECommons.
+- Mathemathics, Heliometry & Mnemonics changes.
 """
-version = "1.2.4"
+version = "1.2.5"
