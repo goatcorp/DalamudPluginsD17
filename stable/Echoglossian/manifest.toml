@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "e3b043122e2f1ad9b3934a6d5a62cc2294a5aac2"
+commit = "bc3d31d48f448e87a6477fc81c123e74eb612d28"
 owners = ["lokinmodar"]
-changelog = "v3.25.x \n fixes:\n - Bump to API 14"
+changelog = "v3.25.x \n fixes:\n - Bump to API 14\n - It is Sdk not SDK"
