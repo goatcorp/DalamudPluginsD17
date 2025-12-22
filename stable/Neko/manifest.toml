@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "d7c1c4e63c0456f23f8dde34a2ad275a251348ab"
+commit = "33a9a284d93e653d74cd1c3c93d542e264916386"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Update to API 13"""
+changelog = """- Update to API 14"""
