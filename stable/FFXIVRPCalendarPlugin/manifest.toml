@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/erroch/FFXIVRPEventCalendarPlugin.git"
-commit = "4f03ad3e796917f3d214c1ef821e1289aa4514c5"
+commit = "79359caaeca388921fbda2631d69657b1ee5a7bb"
 owners = ["erroch"]
 project_path = "FFXIVRPEventCalendarPlugin"
 changelog = """
+1.0.1.8 (2025.12.21)
+- Updated for Dawntrail (7.4) release.
 1.0.1.7 (2025.08.09)
 - Updated for Dawntrail (7.3) release.
 - Fixed scenario where event list would not update until a refresh was forced by changing filter options.

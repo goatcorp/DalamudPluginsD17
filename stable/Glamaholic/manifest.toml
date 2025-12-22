@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '4947c752cfbead5f6704f8ee942c223182dc01fd'
+commit = '6b80c1c781b34b1923df1a95b4ddbe2aaae2d8b1'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed Fitting Room -> New Plate item retrieval
+- Fixed an edge case where outdated offsets could result in invalid glamour plate state
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

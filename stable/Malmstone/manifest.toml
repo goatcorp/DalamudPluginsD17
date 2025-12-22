@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "b38f8b7c8f32a1729e641cdde9efd8e69733ea6b"
+commit = "86ff5ef59bccd3d0407b81682d7a64e32bfe6fdc"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-- Feature that shows estimated number of matches needed to be played
-- Fix duplicate percentage signs in Frontline bonus tracking
-- Adjust some terminology in the settings window
+- Update for 7.4 API 14
 """

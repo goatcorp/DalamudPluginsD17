@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "1e18c04e2f0aca6ccf8d25ab46eb6a607daf1144"
+commit = "9dee0e1fd100ef97617f01cb5a3730b4c3300bbb"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Fixed plugin failing to unload.
+* Patch 7.4 update
+* Converted times to UTC to handle DST transitions.
 """

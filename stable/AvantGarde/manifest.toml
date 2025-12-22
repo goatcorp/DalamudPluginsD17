@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "008836bc5338d3fa5c1f1470291c333da5407a28"
+commit = "be3c6bdffc9c3c1cd4860eadc61eb41c9125788d"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-Update for Patch 7.3 / API 13
+Update for Patch 7.4 / API 14
 """
+

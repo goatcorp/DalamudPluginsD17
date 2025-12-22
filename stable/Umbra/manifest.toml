@@ -1,18 +1,25 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "869da6982a9f2cd9f5c9a3ed7dae0e2faa965681"
-owners = ["haroldiedema"]
+commit = "52043e45a6fff74945930be83ee2a85c37f6be69"
+owners = [
+    "haroldiedema",
+    "alexpado",
+    "Bloodsoul"
+]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.7
+# Umbra 3.1.10
 
 ## Fixes & Improvements
 
-- Added two new customizable theme colors for tooltips. (By [alexpado](https://github.com/alexpado)).
-- Fixed an issue where hunt world markers were not always being visible when there are multiples of the same type on the map. (By [alexpado](https://github.com/alexpado)).
-- Fixed various UI issues related to scrollbar colors not respecting the theme. (By [alexpado](https://github.com/alexpado)).
-- Fixed an issue in data migration on profiles with no widgets. (By [alexpado](https://github.com/alexpado)).
-- Fixed an issue in the Volume Widget where changes made in the UI settings were not persisted in presets. (By [alexpado](https://github.com/alexpado)).
+- Tidied up some code & updated drawing library (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Updated Umbra for compatibility with Dalamud API 14 (By [wolfcomp](https://github.com/wolfcomp)).
+- Dynamic Menu: Hide 'Move to Top' and 'Move to Bottom' context menu entries for 'Add Item' entry (By [alexpado](https://github.com/alexpado)).
+- Some small fixes for 7.4.
+
+## Known Problems
+
+- Msq Widget: The progress bar currently only counts overall progression. This is due to invalid data being retrieved.
 
 ---
 
