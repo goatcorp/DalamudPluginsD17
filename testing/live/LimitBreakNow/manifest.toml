@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://codeberg.org/keysmashes/LimitBreakNow.git"
+commit = "d3622945e5ea612dc52c559077a1750a638068e2" # version 0.0.0.2
+owners = ["keysmashes"]
+project_path = "LimitBreakNow"
+changelog = """\
+Updated for API 14.
+"""

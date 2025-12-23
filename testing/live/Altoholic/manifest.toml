@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "c9618f79689bdc4df8fbee715276c89fd54c5705"
+commit = "48f8172dd161fc524079f54bf76836437b151d08"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add moonfire faire 2025
+- **Progress**: Add missing Hildibrand from 7.35
 """

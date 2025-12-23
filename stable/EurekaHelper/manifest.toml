@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "1e473f65bbf50d8d65fbfa7bc2449d1bf0ede502"
+commit = "0a8c4de8d3c5ab19ba42119882a25fb5f8e41147"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
--  Update for 7.3 and API 13
+- Removed zone ID hook for compatibility with future game updates
+- API 14 / 7.4 Update
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/goaaats/Dalamud.FindAnything.git"
-commit = "8caeb95fbc6d913138baeb84697c9061479fad61"
+commit = "b675eac3c3ca164272abd751394ff32b2a276686"
 owners = [
     "goaaats",
     "nebel",

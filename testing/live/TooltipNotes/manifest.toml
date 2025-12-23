@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "e2bd9babc6285275d851e9cc37257aefba42858a"
+commit = "444e254e8b6a9ba4108191c4314fe8831150e190"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.7.0.0
+1.7.1.0
 
-Release for API 13!
-
-TooltipNotes should work again :)
+Fixed Notes and Config saving for new Users
 
 """

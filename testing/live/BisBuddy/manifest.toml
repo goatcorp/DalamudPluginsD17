@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "d06538352252ca7572f79e8e6f82a88a4e3d962a"
+commit = "aef49ae19bca5b584d2aaebcf4b70e7b970e6749"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
+**Added**
+ - DEBUG: added several tools to expose internals to aid in debugging
+ - Added logging to several actions that might lead to crashing
+ - Add copying/pasting of hex values inside color pickers
 **Fixes**
- - Fix issue where gearsets are wiped on switching characters
- - Fix race condition upon quitting game potentially causing crash
+ - Fixed many issues of bad game data access that may have led to crashes
+ - Fix bug where prerequisite options show multiple versions of the same shop exchange
+ - Fix visual issues with materia on newly imported gearpieces
 """

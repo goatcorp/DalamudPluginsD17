@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/MorCherlf/FFXIVDutyPusher.git"
-commit = "2f2841cbfd669329f5a742154fac5bb0e7607652"
+commit = "08cb12f051fa16108bc277c096ccd224eec704a5"
 owners = ["MorCherlf"]
 project_path = "DutyPusher"
 changelog = """\
-Update to API 13
+Update to API 14
 """

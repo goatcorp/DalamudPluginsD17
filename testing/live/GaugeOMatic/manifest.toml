@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "c250c6145b5b433ade9f499e835c29ab884a361a"
+commit = "3966963152676954fdbc23b74e2a19ba9df329ff"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Update for api13
+- Update for 7.4 / api 14
+- Fixed naming inconsistencies for certain Job Gauge Trackers
 """
