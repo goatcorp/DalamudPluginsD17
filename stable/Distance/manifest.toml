@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "fa74fa6b19444d4b6e40b414bc10185e7c46dd5c"
+commit = "2c80bc84fe76699603fbff6d4779f4544f30b1df"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for Dalamud API 10.
-- Changed UI mouseover target resolution to be more stable.
-- Thank you damolitionn for doing most of the API 10 update work.
+- Updated for Dalamud API 14.  Thank you damolitionn!
 '''

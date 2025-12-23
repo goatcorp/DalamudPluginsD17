@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "93e3f25e16ab852d88c0410ecd0b0691a3d6b5ce"
-changelog = "Bugfix: Fix being unable to change tabs in config"
+commit = "0b4dcc463b89314dfb0921b7123163a4b389ef47"
+changelog = """
+General: Updated for 7.4
+    Loot Session: All non weapon drops are now pre-selected in loot session"""

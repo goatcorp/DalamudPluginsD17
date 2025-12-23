@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "c2ee86503a372ff8bd9dccc9cd3cf1f64a4d49f1"
+commit = "5457a0c94178389954c7c89fb1336331c23ddf1d"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- Fix custom size slider getting stuck at 4
-- Unset pets on plugin unload
+- API update
 """

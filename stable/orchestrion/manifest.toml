@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/lmcintyre/OrchestrionPlugin.git"
-commit = "d04afe891b149b59e8064d1aa0e99084e48f0916"
+repository = "https://github.com/perchbirdd/OrchestrionPlugin.git"
+commit = "34a54499db8207e1d25cb5c3403ad3dcaa346075"
 owners = [
-    "lmcintyre",
+    "perchbirdd",
 ]
 project_path = "Orchestrion"

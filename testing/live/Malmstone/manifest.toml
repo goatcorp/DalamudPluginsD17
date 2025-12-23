@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
+commit = "4f014747e772eed082e7904c7e6d78c5ef8ec6e1"
+owners = ["pinapelz"]
+project_path = "Malmstone"
+changelog = """
+Features:
+- Tracks Series Level above 30, even if you claim the "Extra Level" rewards
+- Option to modify PVP Profile and Series Malmstone GUI to show Series Levels above 30
+- Organize Configuration into tabs
+- Add a warning message about not gaining Series EXP for the people who somehow reach 100 unclaimed extra level rewards (infinite levels above Level 30)
+"""
+

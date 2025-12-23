@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "c942d0e89a1402a7f80e96ff712681e12ec0bd17"
+commit = "f87fc997840f8b083e2554756294a2a1e2545fa8"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Update scrip mapping for DT by Orphis
+- Patch 7.4 update (Dalamud 14)
 """
-version = "2.7.1.0"
+version = "2.12.0.0"

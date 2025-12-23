@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/jkchen2/ffxiv-tf2-crit-plugin.git"
-commit = "c846943d0e9c9c8bec583e82c467a51041fd7d6c"
+commit = "e21ffe8554e38b6b88f3fe8df7c645006a3d026e"
 owners = ["jkchen2"]
 project_path = "Tf2CriticalHitsPlugin"
 changelog = """
-- Fix player/pet logic order
+Update for API 13
 """

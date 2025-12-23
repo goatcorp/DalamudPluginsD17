@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = '673699a76653d9e38d4e7dccefb88a2b91cfd8ea'
+commit = '9a3445a614d0b591b9ad8bd8e4870b1246c66cf6'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- Fix certain emotes causing player phantoms to A-pose
-- Add configuration options for sign opacity and colour intensity
+- API 14
+- Fix certain emotes not looping
 """

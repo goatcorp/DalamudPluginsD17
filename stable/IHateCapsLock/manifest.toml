@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/rreminy/IHateCapsLock.git"
+commit = "4acb9e87a091e6d8c16416b0faefeb98e2f56290"
+owners = ["rreminy"]
+project_path = "IHateCapsLock"
+changelog = "- Dalamud API 14 Update"
+

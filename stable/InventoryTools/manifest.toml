@@ -1,24 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "326227d9dc83f44f20c399d90ac29cdb5c9c6801"
-owners = [
-    "Critical-Impact",
-]
+commit = "9533ae4f2c33ce2ed3767283e8dff3668027ee7d"
+owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.7.0.17"
-changelog = """\
-### Added
-
-- Added a amount owned tooltip sorting option(by retainer name or by inventory category name)
-- Added a outdated gear filter/column(will compare your current class/job levels to the gear in the specified inventories)
-
-### Fixed
-
-- Table columns can be hidden/shown using the built-in imgui menu without breaking the layout
-- Fixed a bug that would cause right clicking on a list/craft table item to fail
-
-### Known Issues
-
-- Sometimes AT will fail to load, this is not a AT issue, it is a Dalamud issue that has been fixed but is currently only fixed on staging.
-
-"""
+version = "1.14.0.0"
+changelog = "### Added\n- Support for 7.4\n- Initial data for 7.4\n- Pilgrims Traverse loot is now available as a source\n### Changed\n- The mob tracker was reworked to use the games object table"

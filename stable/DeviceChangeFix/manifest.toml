@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Jessidhia/DeviceChangeFix.git"
-commit = "557f9fe39a9f4f9e7577722f8ab7e43f959c1b6a"
-owners = ["Jessidhia"]
+repository = "https://github.com/MKhayle/DeviceChangeFix.git"
+commit = "e6c7b9aa41f59e064b5fed165753395dc2cb98bd"
+owners = ["Jessidhia", "MKhayle", "nopjmp"]
 project_path = "DeviceChangeFix"
-changelog = "Update to API 9"
+changelog = "-# API 13 update"

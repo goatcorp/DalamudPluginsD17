@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/ItemUse.git"
+commit = "2264ea1db49342278dd3a90c5c45c287e38c0bb8"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "ItemUse"
+changelog = '''
+- Updated for Dalamud API 14 and the new UI themes added with patch 7.4.
+'''

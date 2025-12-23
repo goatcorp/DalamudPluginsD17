@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Lerofni/TooltipNotes.git"
-commit = "af683eb0ca78b6f15915ee339a8cd6803c47053b"
+commit = "444e254e8b6a9ba4108191c4314fe8831150e190"
 owners = ["Lerofni"]
 project_path = "TooltipNotes"
 changelog = """
-1.3.0.2
+1.7.1.0
 
-Bugfix for loading notes 
+Fixed Notes and Config saving for new Users
 
 """

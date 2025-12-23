@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Noevain/DotCalculator.git"
+owners = ["Noevain"]
+project_path = "DotCalculator"
+commit = "ae37fcdac32805898e481bf4bdcb3ecd992e927f"
+changelog = '''
+API14 update
+'''

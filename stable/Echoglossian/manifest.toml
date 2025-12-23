@@ -1,7 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "fbef74040639423f4d031906789e057553bff0af"
-owners = [
-    "lokinmodar",
-]
-changelog = "v3.9.x \n - bugfix: fixed a bug related to the fonts loaded for languages that the game's native font does not support"
+commit = "bc3d31d48f448e87a6477fc81c123e74eb612d28"
+owners = ["lokinmodar"]
+changelog = "v3.25.x \n fixes:\n - Bump to API 14\n - It is Sdk not SDK"

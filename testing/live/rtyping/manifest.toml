@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "e0386d9156b3f0b8328360d733bb0d8592547077"
+commit = "684ed7adf6335d14479c1074f72c9174552f8b34"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Fixes Nameplate bubble indicator
+- API 14
 """

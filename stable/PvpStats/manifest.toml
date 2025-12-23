@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "19a9331b4c6feb56a26e38397ef5235ea247024d"
+commit = "9dee0e1fd100ef97617f01cb5a3730b4c3300bbb"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated and re-enabled Rival Wings match tracking for Dawntrail.
-* Fixed a bug where table data would be offset on the Frontline match details window.
+* Patch 7.4 update
+* Converted times to UTC to handle DST transitions.
 """

@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "18acdf50fab7bf04f1e431d18d05581eb639a5e3"
+commit = "6f12c9a25f91ebd61b595493dc183f7a6efcec02"
 owners = ["meoiswa"]
 project_path = "Tilted"
 changelog = """
-
-Version 4.0.0.0:
- - Updated to API10
+Version 4.4.0.0:
+ - Updated to API14
 """

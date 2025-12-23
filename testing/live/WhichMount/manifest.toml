@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/megurte/WhichMount.git"
+commit = "4e394b6053732555bfc6572f1370ec5dbd830fc2"
+owners = [
+    "megurte"
+]
+project_path = "WhichMount"
+changelog = """
+Version 1.0.0.2:
+  - Added "show patch" option
+  - Code optimisations
+"""

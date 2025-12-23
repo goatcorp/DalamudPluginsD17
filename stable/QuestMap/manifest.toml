@@ -1,5 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/QuestMap.git'
-commit = 'ca80dbc48553ee70f7816a413cad384bed8c719c'
-owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+repository = 'https://github.com/rreminy/QuestMap.git'
+commit = '4c67b202d3126c3de58592df467c3dbff435e2d4'
+owners = [ 'anna-is-cute', 'rreminy' ]
+changelog = 'Dalamud API 14 Update'

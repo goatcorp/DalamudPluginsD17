@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
-owners = [ "PrincessRTFM",]
+repository = "https://github.com/VariableVixen/PositionalAssistant.git"
+owners = [ "VariableVixen",]
 project_path = ""
-commit = "3e4d13e48e5a7875abbace37181aa0dfece90645"
-changelog = "The word \"colour\" was spelled wrong in one place, and spelled \"wrong\" (american version) in another. These have now been corrected. No functional changes."
+commit = "0ce624d576fa0544c7e35142310cd4b045452e25"
+changelog = ""

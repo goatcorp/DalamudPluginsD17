@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/LittleNightmare/UsedName.git"
-commit = "a1c40059a311e90b83c48db0805d4b4dc40a9f7c"
+commit = "f1b574c31975fd5b172f8fda95d1932e14a23d38"
 owners = [
     "LittleNightmare"
 ]
 project_path = "UsedName"
 changelog = """
-- fix cannot read data
-- fix actual behavior is inconsistent with the description
-- add PlayerSearch button back
+- fix cannot correct detect the type of Novice Network
 """

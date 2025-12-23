@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "f19f6e3d5cd4ff6abe9d69ede8de21b641de35a6"
+commit = "864e90d4b08301a6d2468f76281a358f91bb9476"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- Fixed null reference in certain unnatural circumstances
-- Fixed rare case where lines would try to initialize with 0 samples
-- Minor improvements to the performance of fancy lines when there are a high number of lines
-- Added option to filter party/alliance
+Bug fixes:
+- Updated for API13
+Known Issues:
+- After logging into a character, returning to the title screen may cause target lines to not appear on all entities. This can be fixed by restarting the plugin.
 """
 

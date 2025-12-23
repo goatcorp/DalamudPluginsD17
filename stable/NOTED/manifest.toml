@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/NOTED.git"
-commit = "788b467fc75ad6f05eaa49b03f3f6999fb03a7dd"
+commit = "51ee34fa9f3c8a73596d69a4d1da2f01ace17fd0"
 owners = ["Tischel"]
 project_path = "NOTED"
-changelog = "- Added support for Dawntrail and Dalamud API 10."
+changelog = "- Added support for Patch 7.4 and Dalamud API 14."

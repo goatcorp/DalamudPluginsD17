@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "02aba8a3fd22529306e55425be0b46f27ebda33e"
-owners = ["Tischel"]
-project_path = "InventorySearchBar"
-changelog = "- Added support for Dawntrail and Dalamud API 10."

@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganTetris.git"
+commit = "820c17affe2ad205759a582333f897c235140de8"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganTetris"
+version = "1.2.0.0"
+changelog = """\
+### Fixed
+- Support for 7.4
+"""

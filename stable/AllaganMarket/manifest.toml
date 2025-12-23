@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganMarket.git"
+commit = "b03a6a54050fa22b4212455fa3d30c95cc3de103"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganMarket"
+version = "1.3.0.0"
+changelog = """\
+### Fixed
+- Support for 7.4
+
+"""

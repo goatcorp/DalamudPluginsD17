@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "c770aa3a6963ca32ad3b17dd3780e5cb34107e79"
-changelog = "Removes mention of third-party plugin from settings window."
+commit = "768413a68d8670545297b8277f3e74ab42a4454c"
+changelog = "- Updated to API 13"

@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "e42adcd8dacbe74852dae51a2d281b302e0c3e6f"
+commit = "33a9a284d93e653d74cd1c3c93d542e264916386"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Added Dawntrail Catgirls
-- Added icon to notifications
-- Updated to API X"""
+changelog = """- Update to API 14"""

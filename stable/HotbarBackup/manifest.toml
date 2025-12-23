@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/MistralsA/HotbarBackup.git"
+commit = "2f4e251d80d37b458baf25640919b3d9e7eecb77"
+owners = [
+  "MistralsA"
+]
+project_path = "HotbarBackup"

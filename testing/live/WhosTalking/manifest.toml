@@ -1,13 +1,8 @@
 [plugin]
-repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "8943cf8677f8690766b66ca183c55c5172546e8c"
-owners = ["sersorrel"]
+repository = "https://codeberg.org/keysmashes/WhosTalking.git"
+commit = "cdabcd06c857ff46e6a0dd2a6e15c0e44484ccbe" # version 0.8.8.0
+owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.7.1.0**
-
-- Fix scrolling of preview icons in settings window (thanks to @foophoof for the report)
-- Add option for non-rounded voice activity indicators, useful for users of certain graphical mods (thanks to iris for the implementation)
-
-**Known issue:** the native UI indicators are invisible with certain graphical mods. This will be resolved in a future update. In the meantime, users experiencing this issue can head to the plugin settings and switch "indicator style" to "Imgui".
+Updated for API 14.
 """

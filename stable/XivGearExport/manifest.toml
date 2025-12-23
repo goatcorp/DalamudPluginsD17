@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
+commit = "8a6d7bd7ed9a59af63196ba51e26838c5f159832"
+owners = ["VioletStardustXIV"]
+project_path = "XivGearExport"
+changelog = """
+- Compatibility with 7.4 and Dalamud 14.
+"""

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "d70f664d33cb7fcbba2bfe97edc8487e864f3b9f"
+commit = "0e1bf84475ed45a7f66a5e71f27bad67280c4b93"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for Dawntrail"
+changelog = "Update for api13"

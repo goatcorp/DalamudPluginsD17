@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "3c15e4ab559f76bf67ea0346b49b9d38af641b35"
+commit = "d4ff8c98c2b6a5153f7ff26b4ff75879d74b38ef"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-Bozja Buddy 1.1.6.1
-- Added plugin preview images.
+[1.1.6.7] API bump. Thank you Dukmos (https://github.com/Dukmos) for the changes.
 """

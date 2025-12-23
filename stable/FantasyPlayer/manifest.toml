@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "47195e747fb969af994766dc24f24becb06f98b2"
+commit = "ebbba6ed7c6ea10d76a339dca79cd23498712741"
 owners = [
     "Critical-Impact",
 ]
 project_path = "FantasyPlayer"
-version = "2.2.0.4"
+version = "2.5.0.0"
 changelog = """\
-- Stop settings window from opening every boot
+### Fixed
+- Support for 7.4
 """

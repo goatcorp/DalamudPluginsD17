@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/wompscode/AFKMute.git"
+commit = "bd4063522129466010940741c17cf0f5035ca05e"
+owners = ["wompscode"]
+project_path = "AFKMute"
+changelog = "bump to api14 + general maintenance"

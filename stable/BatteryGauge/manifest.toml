@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/KazWolfe/XIVBatteryGauge.git"
-commit = "a1b9eac798800eac55c31a1712284cd8e28a1724"
+commit = "860afb4aeebeef315026ac1a7a3eda8c34a84ca4"
 owners = ["KazWolfe"]
 project_path = "BatteryGauge"

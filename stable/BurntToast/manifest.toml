@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/Xpahtalo/BurntToast.git'
-commit = 'ec82f40fca072da2ecb6a12c4f9e6994c7cd6d5c'
+commit = '52cc786120bc18c50a65ef98cf01e5d36207690f'
 owners = [ 'Xpahtalo' ]
 project_path = "BurntToast"
-changelog = """Fix BattleTalk bug."""
+changelog = """7.4/API14 support."""

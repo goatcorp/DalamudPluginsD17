@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/anya-hichu/ChatContext.git"
+commit = "8f5b26273a69dfa30ec8f8c8c89a0210d315581a"
+owners = [
+    "anya-hichu",
+]
+project_path = "ChatContext"
+version = "0.0.1.1"
+changelog = """ - Api 11
+ - Improve window titles"""

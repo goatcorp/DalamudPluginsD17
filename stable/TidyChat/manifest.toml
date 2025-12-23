@@ -5,4 +5,4 @@ owners = [
     "NadyaNayme",
 ]
 project_path = "TidyChat"
-changelog = "- Custom filters for the Gathering channel should properly check the Gathering channel and the GatheringSystem channel instead of only the GatheringSystem channel."
+changelog = "API Bump"

@@ -1,18 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "e1feeeb1e390c5c779ac823c38d7ab99a8b48d18"
+commit = "3966963152676954fdbc23b74e2a19ba9df329ff"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- **NEW COUNTER WIDGET:** *Kazematoi Kunai*
-- **NEW STATE WIDGET:** *Kazematoi Swoosh*
-- **NEW BAR WIDGET:** *Kazematoi Bar*
-- **RESTORED WIDGET:** *Huton Pinwheel* is back from the dead!
-- Added "Hide Full" behaviour option for various Bar widgets
-
-## TWEAKS
-- **NEW TWEAK FOR NIN:** Recolor the Ninki Gauge while under the effect of Higi
-- A testing checkbox is now available for NIN and VPR tweaks (and for future tweaks that may benefit from it)
+- Update for 7.4 / api 14
+- Fixed naming inconsistencies for certain Job Gauge Trackers
 """

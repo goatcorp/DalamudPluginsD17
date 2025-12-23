@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/mashirochan/FFXIV-HousingHerald.git"
+commit = "c0d2a22fcb59c70968fa428b9fa4c8c8d88bfec6"
+owners = ["mashirochan"]
+project_path = "HousingHerald"
+changelog = "Update to API14"

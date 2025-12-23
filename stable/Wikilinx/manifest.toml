@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/in1tiate/Wikilinx-Dalamud.git"
+commit = "7d8115d6444b32e387cc02bd1b5e2c322b5a1074"
+owners = ["in1tiate"]
+project_path = "WikilinxPlugin"
+changelog = "Update Lodestone IDs for 7.35"
+
+
+

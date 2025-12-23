@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/devckuw/BetterFriendList.git"
+commit = "b3a43fc7f4cddf2d92cd75f11af31cbee7bbe135"
+owners = ["devckuw"]
+project_path = "BetterFriendList"
+changelog = """
+1.0.2.5
+API 14
+"""

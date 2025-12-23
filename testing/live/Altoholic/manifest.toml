@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "24336f7dfead4d0d51776d7a274e14128c82ce95"
+commit = "48f8172dd161fc524079f54bf76836437b151d08"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
-changelog = "Fix regression on currencies drawall"
+changelog = """\
+- **Progress**: Add missing Hildibrand from 7.35
+"""

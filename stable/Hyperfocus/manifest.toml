@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Exter-N/Hyperfocus.git"
+commit = "358885ec280bdb0d1779c631575ec48171681c0b"
+owners = ["Exter-N"]
+project_path = "Hyperfocus"
+changelog = "Update for D14, force-hide when in cutscene or when game UI is hidden"

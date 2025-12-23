@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "60ea13c0a70caa91f03923e9933f54ab2496e52a"
+commit = "9d72b8641ed9251e5836be3bc6675e80a07b968b"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Sets portal for map when duty is unknown.
+* Patch 7.4 update.
 """

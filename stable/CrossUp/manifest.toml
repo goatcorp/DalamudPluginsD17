@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "817a5435e7190e333046fb46089eac0c7d3a5daf"
+commit = "99a7e8efdcc10be0aa7bf420c7455b84a556631f"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-An issue with loading the plugin appears to have been resolved by a recent Dalamud update. This update reverts a temporary fix that was made in 1.7.0.3.
+- Updated for 7.4 / api 14
 """
+
+
+
