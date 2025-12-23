@@ -5,10 +5,10 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/Pistachio-dev/NorthStar.git"
 # The commit to check out and build from the repository.
-commit = "1f68f0bf4cc96f5d45f4c2ca377eae4e62ccc65c"
+commit = "61813c050a299f519647a6c6bdd2ef75b5cd6a23"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Pistachio-dev"
 ]
 project_path = "NorthStar"
-changelog = "- Disabled beacons on PvP instances.\n - Initial release"
+changelog = "-Patch 7.4\n- Disabled beacons in PvP instances.\n - Initial release"
