@@ -2,10 +2,9 @@
 repository = "https://github.com/Critical-Impact/Tippy.git"
 owners = [ "kalilistic", "Critical-Impact" ]
 project_path = "src/Tippy"
-commit = "683f9f3b8ce36d85c2ab906a4274d5958ce7d5d0"
-version = "1.13.0.0"
+commit = "3bfc85a7ead14310c53cc628fbe0efaca6fcc957"
+version = "1.14.0.0"
 changelog = """\
- - API13 support
- - Fixed scaling issue
- - Added a new topical tip
+### Fixed
+- Support for 7.4
 """

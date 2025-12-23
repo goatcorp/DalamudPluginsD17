@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "08b61b7c9821110149cd72a45a841dc4ae1dd0c5"
+commit = "684ed7adf6335d14479c1074f72c9174552f8b34"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- Fix display of invalid worlds
+- API 14
 """

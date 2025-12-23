@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "4f20b7c2ca55d830a97932b03b649fc72675d0da"
+commit = "34681ec94302d08e6859b0f9ec2d94ff29af9743"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed Nested Ring \"Keep Previous Ring Center\" setting not working properly."
+changelog = "- Fixed nested rings bug introduced in last version."

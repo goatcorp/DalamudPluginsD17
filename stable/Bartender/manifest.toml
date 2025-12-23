@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "9bd377569c8e61be111bfba33960c325cea06a28"
+commit = "87aaad048ccd49c462f9b33f1d25c3497cf95c46"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-- Changed "PopulateWhenCreatingProfile" config to true by default.
-- Fixed the profile deletion not targetting the chosen one.
-- Fixed the UI breaking when the profile list is empty.
+- api14 push
+
+- Known issue: All bars icons must be re-saved once after updating to this version. This doesn't break usability but creates errors and UI glitches.
 """

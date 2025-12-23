@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://codeberg.org/keysmashes/LimitBreakNow.git"
-commit = "5fec8566854c97b33a777ffd34ad48fdbfd7eab1"
+commit = "d3622945e5ea612dc52c559077a1750a638068e2" # version 0.0.0.2
 owners = ["keysmashes"]
 project_path = "LimitBreakNow"
 changelog = """\
-**Version 0.0.0.1**
-
-Initial testing release!
-
-*Limit Break, Now!* notifies you when a Limit Break is available.
+Updated for API 14.
 """
