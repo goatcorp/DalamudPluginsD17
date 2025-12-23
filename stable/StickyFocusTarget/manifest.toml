@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/smileyhead/conditional-focustarget.git"
-commit = "ca10dda5f87954f7b4f5661269e1a1705eef7169"
+commit = "23ec793b2bc16e3088bcedad36ea0eeb1b5c5734"
 owners = ["smileyhead"]
 project_path = "StickyFocusTarget"
 changelog = """
-- Dalamud version bump
-- Added Japanese localisation – thanks, @Yoshihiko-Ino!"""
+Additions in 1.1.0
+- Updated plugin for Dotnet 10 and Dalamud 14
+- Added Japanese localisation – thanks @Yoshihiko-Ino!
+
+Fixes in 1.1.1
+- Fixed Japanese not appearing in the language list
+- Fixed outdated version number in the manifest"""
