@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "a5111fa55d7a43ae6e8cbdacea2dc42c2230a608"
+commit = "fd8e0e1682f810b6274365d45359bf54d678ba8e"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
