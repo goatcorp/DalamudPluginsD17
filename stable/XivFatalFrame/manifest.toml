@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/XivFatalFrame.git"
-commit = "77c65f7c18e99404c1624e9f0e7eca05d1ff0284"
+commit = "31184ccc7ee7c858c73f681a479e2cfbe6e23b6e"
 owners = ["Glyceri",]
 	changelog = """
-[1.0.2.1]
-- Updated for API13
+[1.1.0.2]
+- Updated for API14.
+- Fixed a bug where achievements could trigger repeatedly.
 """

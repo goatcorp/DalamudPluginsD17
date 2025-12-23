@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "6ed5f8f83bea1d1c4ad62afd617796ac9967d5c6"
+commit = "9d72b8641ed9251e5836be3bc6675e80a07b968b"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Improved refresh performance.
-* Converted all times to UTC to handle errors with Daylight Savings Time transitions.
+* Patch 7.4 update.
 """

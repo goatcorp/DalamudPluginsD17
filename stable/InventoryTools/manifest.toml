@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "d5a50b5ae67fa367bfff363c8ee93e4a06bee151"
+commit = "c542405ba9810edcf041ada820db7394785d9cb5"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.1.8"
-changelog = "### Fixed\n- Fixed an issue with the plugin not loading when running in a non-english language\n- Fixed an issue with history not loading properly"
+version = "1.13.1.9"
+changelog = "### Fixed\n- Shops that yield more than 1 item when being purchased will be factored into craft lists correctly\n- Fixed certain shops not highlighting correctly when there was more than 1 shop listing available\n### Added\n- The total quantity available column can now be configured to provide a total of any combination of NQ/HQ/Collectible items\n- Added a \"Add to Favourites\" context menu setting"

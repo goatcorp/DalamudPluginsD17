@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Ottermandias/RezPls.git"
-commit = "53cffe4b6414bc60c945d9e29f3de5a8a133338c"
+commit = "4f9004b1a724cf0be268e965a0c260643e55edeb"
 owners = [
     "Ottermandias",
 ]
 project_path = "RezPls"
+
+
+
 
 
 
