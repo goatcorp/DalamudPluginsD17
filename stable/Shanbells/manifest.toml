@@ -1,6 +1,8 @@
 [plugin]  
 repository = "https://github.com/kliff-k/Shanbells.git"  
-commit = "497354c756203e9f8d637b34291080485f546b41"  
+commit = "f682ed4f3bc4a13201c0dd1e2c524d69f456b85b"  
 owners = ["kliff-k"]  
 project_path = "Shanbells"  
-changelog = "Update for API 13"
+changelog = """
+- Updated for API14
+"""
