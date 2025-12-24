@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "95f37c651db6fd8f769c2bc5b338a530580387ac"
+commit = "525a315e143ef9314906ee47e4bb7414ae2e223a"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Kokoro**: Adds a new Kokoro-based voice backend for high-quality TTS without any API subscriptions or fees. You may encounter performance issues on older hardware - please report any issues you find.
-- **General**: Fixes an error when reading text from certain speakers (e.g. the Research Note after the first boss of Yuweyawata Field Station).
-- **General**: Adds help tooltips on several settings.
-
-Thanks to PhilippNaused for all of the improvements in this release!
+- **General**: Adds support for configuring the audio output device (thanks Flabber Babble!)
 """
