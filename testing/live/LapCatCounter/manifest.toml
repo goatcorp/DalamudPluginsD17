@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
-commit = "62f97075e2686156725968857e74416a6d1811a4"
+commit = "485c0631591e92b6ff76dda60b6712b268b69454"
 owners = ["ImOv3rburdened"]
 project_path = "LapCatCounter"
 changelog = "Initial submission"
