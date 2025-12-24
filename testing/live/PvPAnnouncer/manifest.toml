@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/spide-r/PvPAnnouncer.git"
+commit = "08031d00f933cc61aca41dbecc2feb49463488d8"
+owners = ["spide-r"]
+project_path = "PvPAnnouncer"
+changelog = "Beta version now contains more 7.4 voice lines!"
