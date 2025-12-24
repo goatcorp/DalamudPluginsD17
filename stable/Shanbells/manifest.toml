@@ -1,6 +1,6 @@
 [plugin]  
 repository = "https://github.com/kliff-k/Shanbells.git"  
-commit = "f682ed4f3bc4a13201c0dd1e2c524d69f456b85b"  
+commit = "d842cff0e2b30b3d668d947a2cba7499b27e3d82"  
 owners = ["kliff-k"]  
 project_path = "Shanbells"  
 changelog = """
