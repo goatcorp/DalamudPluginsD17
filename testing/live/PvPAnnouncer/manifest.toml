@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/spide-r/PvPAnnouncer.git"
+commit = "4c7c264ec4912460243d5e5061fdc24dde63dd1c"
+owners = ["spide-r"]
+project_path = "PvPAnnouncer"
+changelog = "Beta version now with at least 30% more 7.4 content!"
