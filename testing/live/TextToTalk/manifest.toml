@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "525a315e143ef9314906ee47e4bb7414ae2e223a"
+commit = "a82653c59c7eb7a0476ee52afb09e97637bd7bc0"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Adds support for configuring the audio output device (thanks Flabber Babble!)
+- **General**: Fixes player voices presets when in different zones and adds voice test buttons (thanks Flabber Babble!)
 """
