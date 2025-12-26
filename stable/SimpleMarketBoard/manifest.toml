@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "e7908889e163e3b52cd7e497db67643d2c6355db"
+commit = "865bf09caa85752be63d6fe953ecb00253679060"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
-v1.10.0.0
-New Features:
-- NA
-
-Fixed Problems:
-- API 13 support
-
-+ 1.10.0.1: Fix memory leak
+v1.11.0.0
+- Update to API 14.
+- Minor fixes and improvements.
 """

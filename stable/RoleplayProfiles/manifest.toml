@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-roleplay-profiles.git"
-commit = "550bfb6e17b9293212f35e98b0b9d8c44dd23110"
+commit = "26dc7671c3b6829bbc2b077e05ec8017de171d23"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
 changelog = """
-Update to Dalamud API 12 and .NET 9.
+* Update to Dalamud API 14 and .NET 10.
+* Update SocketIOClient dependency.
 """

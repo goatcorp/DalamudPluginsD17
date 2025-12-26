@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "5598b755b65bcfd96edde41f3c903c334bb0d323"
+commit = "48f8172dd161fc524079f54bf76836437b151d08"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: API13, 7.3 fixes and add new patch things
+- **Progress**: Add missing Hildibrand from 7.35
 """

@@ -1,13 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "f82ed181610cc0f8de38b101c118b0a37ebc907a"
-owners = [
-    "Critical-Impact",
-]
+commit = "9533ae4f2c33ce2ed3767283e8dff3668027ee7d"
+owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.0.0"
-changelog = """\
-### Fixed
-- API13 support
-
-"""
+version = "1.14.0.0"
+changelog = "### Added\n- Support for 7.4\n- Initial data for 7.4\n- Pilgrims Traverse loot is now available as a source\n### Changed\n- The mob tracker was reworked to use the games object table"

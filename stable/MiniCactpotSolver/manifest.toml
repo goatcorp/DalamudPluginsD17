@@ -2,5 +2,5 @@
 repository = "https://github.com/MidoriKami/MiniCactpotSolver.git"
 owners = ["daemitus", "MidoriKami", "nathanctech"]
 project_path = "MiniCactpotSolver"
-commit = "77030fb0b0c20f4d2c99fca6059807c9a56c10e0"
-version = "3.0.0.1"
+commit = "761b4e227139f9bf98ff38df8bf6a8cd77f0e1c9"
+version = "3.0.0.2"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/marconsou/deep-dungeon-tracker.git"
-commit = "16089d0a45076c0b7a3c917a4c5b43da49d07985"
+commit = "fd8e0e1682f810b6274365d45359bf54d678ba8e"
 owners = ["marconsou"]
 project_path = "DeepDungeonTracker"
 changelog = """
-- Status fix.
+- Patch 7.4 / Dalamud API 14 update.
 """

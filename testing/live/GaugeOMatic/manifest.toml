@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "c250c6145b5b433ade9f499e835c29ab884a361a"
+commit = "36a38778ae3d9db4aea7e29db2d2295504433ba2"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Update for api13
+- Added separate tracker options for GNB's cartridges. This allows the new bonus cartridges to be displayed separately from the base 3, and hidden while unavailable.
+- Thread safety band-aids (should not cause crashes on DC anymore)
 """
