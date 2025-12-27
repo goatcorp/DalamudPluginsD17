@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "b8a988df844f2c12514f3cd68a6179b278e61919"
+commit = "bd3ce10d03806d1e5fb52d11c9ecf5c069f82e6f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix stain out of range bug.
-- **Inventory**: Add Outfit icon gear able to be outfitted to inventory and glamour dresser inventory
+- **General**: Move currency history saving on logout instead of save timer
+- **Jobs**: Add character name on table hover
+- **Progress**: Add Island Sanctuary level tracking and display on the rewards page
 """
