@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "d33ea20730ca553aacee0c3acb52f8b5f1b60d10"
+commit = "bd3ce10d03806d1e5fb52d11c9ecf5c069f82e6f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
 - **General**: Move currency history saving on logout instead of save timer
+- **Jobs**: Add character name on table hover
 - **Progress**: Add Island Sanctuary level tracking and display on the rewards page
 """
