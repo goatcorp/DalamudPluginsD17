@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "48f8172dd161fc524079f54bf76836437b151d08"
+commit = "d33ea20730ca553aacee0c3acb52f8b5f1b60d10"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add missing Hildibrand from 7.35
+- **General**: Move currency history saving on logout instead of save timer
+- **Progress**: Add Island Sanctuary level tracking and display on the rewards page
 """
