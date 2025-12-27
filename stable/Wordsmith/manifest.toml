@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
-commit = "56f2332e9508f18b1b88b1f7443d3c0df5b1fb03"
+commit = "9618a131d27590e347c56d3e1c48febb9d1e392a"
 owners = [
     "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.7 Patch Notes
-Updated to support API v13"""
+changelog = """# Wordsmith v1.15.8 Patch Notes
+Updated to support API v14"""
