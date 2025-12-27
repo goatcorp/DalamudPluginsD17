@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/iri-impulse/PhotoboothPlugin.git"
+commit = "d02e32e3649fe2ce9c19b1b6ffd010ffc42223a6"
+owners = ["iri-impulse"]
+project_path = "Photobooth"
+changelog = """\
+1.0.0:
+- Initial stable release. Enjoy!
+"""
