@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/KassWasTaken/RpUtils.git"
-commit = "7d8b9448fea9b35bfd01fe20d98c41fe84706794"
+commit = "7e1e0602916837c0d797969a1a5de5969fa077cd"
 owners = ["KassWasTaken", "erroch"]
 project_path = "RpUtils"
 changelog = """
@@ -8,3 +8,4 @@ changelog = """
 - Updated for 7.4, migrated to Dalamud SDK
 
 """
+
