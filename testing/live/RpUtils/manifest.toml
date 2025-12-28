@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/KassWasTaken/RpUtils.git"
-commit = "2af4b90e752bda288cf7deac3f065a8a535026d8"
+commit = "c9c022f1a27c3e5b91ade806fb5a5039cad40c1f"
 owners = ["KassWasTaken", "erroch"]
 project_path = "RpUtils"
 changelog = """
-0.3.0 (2024.12.08)
-- Updated for Dawntrail (7.1) release.
+0.3.2 (2025.12.27)
+- Updated for 7.4, migrated to Dalamud SDK
 """
