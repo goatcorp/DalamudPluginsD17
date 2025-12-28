@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "386be3fe30bb5f48237f0e73625b85a804a58f6a"
+commit = "6cb91f749c94651d07f1d3067a1fb1cf9b262a13"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
+**Added**
+- Materia tab to show required materia counts to succeed on melds (ala Teamcraft)
 **Fixes**
-- Fix HQ items not highlighting in inventories
-- Fix prerequisites sometimes not assigning when expected
-- Fix gearset tabs scrolling away when the window is small
-- Fix UI displaying gearset of other character upon swapping
-- Fix extending prereqs when no match is found
+- Fix old config migrations not saving, causing new gearsets to be overwritten
+- Fix import failures on some valid static xivgear bis links
+- Fix jobs being incorrect on xivgear multi-job pages
+- Fix rare item requirement race condition crash
 """
