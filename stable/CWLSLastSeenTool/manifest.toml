@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "6755f417d8782d3f26d2d14f4d6c187d533b9e9e"
+commit = "5c41fca65e2ff47f49aca86196b03fe6bb6bb735"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
 changelog = "
-Version 1.1.6.0
+Version 1.1.6.1
 
-- Updated to Dalamud API 14 (Dalamud.NET.Sdk/14.0.0)
+- Updated to Dalamud API 14 (Dalamud.NET.Sdk/14.0.1)
 "
+
 
 
