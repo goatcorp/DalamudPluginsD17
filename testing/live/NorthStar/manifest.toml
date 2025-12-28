@@ -5,7 +5,7 @@
 # must be accessible (i.e. no `git` or `ssh` URLs, as the agent cannot clone those)
 repository = "https://github.com/Pistachio-dev/NorthStar.git"
 # The commit to check out and build from the repository.
-commit = "61813c050a299f519647a6c6bdd2ef75b5cd6a23"
+commit = "75b9ac9bd39496c42c200b88bf0f699bb126250e"
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
     "Pistachio-dev"
