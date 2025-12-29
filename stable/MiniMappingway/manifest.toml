@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rreminy/MiniMappingway.git"
-commit = "0a26555be4eae11d50bcd10431c5373125755a48"
+commit = "3e40ee5d05273401112420a231f9efbd47adac7d"
 owners = [
     "jaycewhite",
     "rreminy"
 ]
-changelog = "Plugin adoption"
+changelog = "Fix login crash"
