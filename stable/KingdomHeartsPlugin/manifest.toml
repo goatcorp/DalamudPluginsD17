@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Arrenton/KingdomHeartsPlugin.git"
-commit = "821b6ccb8b62f308bf1b426c5c954a52c0190d1a"
+commit = "47f22ee4854b638f47fe0310187d9c190ad3e72c"
 owners = [
     "Arrenton",
 ]
