@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "e497fcada70cbced9b447f442094c5784cac6df4"
+commit = "1787a7ae0e9b397176ca71ed08c0903002f31e4b"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Made some changes to the plugin config window to make things nicer."
+changelog = "Added a bunch of custom events using the new arcadion voicelines. VPR Mains will enjoy this one :)"
