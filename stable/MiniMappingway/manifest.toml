@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/rreminy/MiniMappingway.git"
-commit = "3e40ee5d05273401112420a231f9efbd47adac7d"
+commit = "fab4c0ab0f08f430d68110da2134d4adf0af0ff2"
 owners = [
     "jaycewhite",
     "rreminy"
