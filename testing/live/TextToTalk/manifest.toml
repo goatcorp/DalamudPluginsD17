@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "a82653c59c7eb7a0476ee52afb09e97637bd7bc0"
+commit = "4a1a3672ab78506d9d76d43a098359a47fc8fcc1"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Fixes player voices presets when in different zones and adds voice test buttons (thanks Flabber Babble!)
+- **Kokoro**: Adds volume slider.
 """
