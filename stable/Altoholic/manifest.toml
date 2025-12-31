@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8a3c04489c0ce89b71430dd2a3500f87e1d8efbb"
+commit = "768de9736d2f102e2c8443ceae005b3956ed462e"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Details**: Fix GC rank mix up twin adder/immortal.
-- **Progress**: Remove colon in island sanctuary rank text
+- **Progress**: Add Heavensturn 2026
 """
