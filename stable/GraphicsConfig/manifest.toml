@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/GraphicsConfig.git"
-commit = "8b05a5ee8da8e27a4f62f1b45d7927b77573c49a"
+commit = "6bc8febdbceaed372371c15f1274854b8e0b6b8c"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Updated for 7.4"
+changelog = "- Support saving and loading two new settings from the Other Settings tab in the System Configuration, 'Chracter and Object Quantity' and 'Character Display Range'.\n-Added in the ability set a preset for when you are in a city or in a forday duty.\n-Added tooltips to the conditions to give any extra needed information."
