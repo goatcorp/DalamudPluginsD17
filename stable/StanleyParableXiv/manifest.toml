@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/GayPotatoEmma/StanleyParableXiv.git"
-commit = "6ebae6e88d208097c0ec3ad38a2c4ee313b2a6bb"
-owners = [
-"rekyuu",
-"GayPotatoEmma"
-]
+commit = "d4777bfd6710ae6920a4a6d5d9060115377b8b76"
+owners = [ "GayPotatoEmma" ]
 project_path = "StanleyParableXiv"
 changelog = """
-- Adopted from Rekyuu
-- Update to API 14
+- Added support for the new Worqor Chirteh frontlines map.
 """
