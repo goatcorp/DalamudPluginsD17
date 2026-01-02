@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/AEBus/FFXIV-Login-Commands.git"
+commit = "6d93971951c5e5ef8fe8be2387b4cf7fb053a46b"
+owners = ["AEBus"]
+project_path = "FFXIVLoginCommands"
+changelog = "Prepare for Dalamud publication"
