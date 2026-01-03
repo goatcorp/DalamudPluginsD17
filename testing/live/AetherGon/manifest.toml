@@ -1,7 +1,7 @@
 # testing/live/AetherGon/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherGon.git"
-commit = "772161a343a5bb9357a6fc9b2a78ed0d05624bf9" 
+commit = "aff79f92bb52f9b6fb0350f64a7b1b01f457af29" 
 owners = ["rail2025"]
 # project_path = "AetherGon" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v0.0.0.1: Initial release."
+changelog = "v1.0.0.0: Stable release, music, difficulty, high scores\nv0.0.0.1: Initial release."
