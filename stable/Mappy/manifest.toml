@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/harbingerftw/Mappy.git"
-commit = "95cd13dc4dde65a47eb585b96c3319979838a152"
+commit = "f4501b996956c4077c0cb40e69cde1e383dee657"
 owners = ["harbingerftw"]
 project_path = "Mappy"
 changelog = """
-API14 🎆
+- Fix undiscovered map rendering
 """
