@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "a159fdb267bbecc6b9bb8592d2075e719097fe56"
+commit = "323e6a84e634ad7db1c33def5f7f20de5a8bd8d6"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Big Update! New Events and Voicelines for 7.4 have been added. This includes Metem's Mahjong Voicelines!"
+changelog = "Minor Fixes"
