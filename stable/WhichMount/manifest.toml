@@ -8,7 +8,7 @@ project_path = "WhichMount"
 version = "1.4.1"
 changelog = """
 Version 1.4.1:
-  - Fixes
+  - UI fixes
 Version 1.4.0:
   - UI/UX improvements
   - Market Board availability obtion
