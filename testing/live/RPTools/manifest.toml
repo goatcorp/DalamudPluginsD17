@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/Cynthia-Dev0012/RPTools.git"
-commit = "765d9bb434ac99a27e9a3f2ba0a555b55fe6269d"
+commit = "5ada3c14434b4f229bb3346b7da6fc5ffb2e4161"
 owners = ["evelynrose20"]
 maintainers = ["evelynrose20"]
 project_path = "RPTools"
+
 changelog = "First Release"
