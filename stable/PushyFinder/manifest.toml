@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/snightshade/PushyFinder.git"
-commit = "ea0b921d1c84c1446c97525300d5c68639fb0f1e"
+commit = "01c81a50d477ade48d8e37e47e6a95d60190acf3"
 owners = ["snightshade"]
 project_path = "PushyFinder"
 version = "1.3.2.0"
