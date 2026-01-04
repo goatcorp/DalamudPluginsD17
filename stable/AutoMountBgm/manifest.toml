@@ -1,6 +1,9 @@
 [plugin]
-repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
-owners = [ "PrincessRTFM",]
+repository = "https://github.com/Critical-Impact/AutoMountBGM.git"
+owners = [ "Critical-Impact",]
 project_path = ""
-commit = "223d9bbd1828185912ed4cd3861ee1dad935554c"
-changelog = "Plugin should work on latest patch now. Untested because my sub expired recently."
+commit = "2d6b5efe0c54d8da45c5fc9aa1affd3c6bb4eb64"
+changelog = """\
+### Fixed
+- Support for 7.4
+"""

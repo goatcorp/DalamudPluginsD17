@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mustafakalash/VanillaHotbarExtender.git"
-commit = "379873d40ba1d5748048dff4e1829647e9f89a28"
+commit = "eafe7c3b8720e6065b1fc13ef539b2e8a158d0aa"
 owners = ["mustafakalash"]
 project_path = "VanillaHotbarExtender"
-changelog = "7.1/api11"
+changelog = "7.4/api14"

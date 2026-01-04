@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8638bb5f879d2ecb9fb12d83d32f4e0d2732c31d"
+commit = "9dee0e1fd100ef97617f01cb5a3730b4c3300bbb"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added mech count graph to Rival Wings match details.
-* Added mid and merc event icons to Rival Wings match details graphs.
+* Patch 7.4 update
+* Converted times to UTC to handle DST transitions.
 """

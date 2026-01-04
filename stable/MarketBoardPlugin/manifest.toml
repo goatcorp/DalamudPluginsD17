@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/fmauNeko/MarketBoardPlugin.git"
-commit = "313edf58163ce804ac7bf553f1e41f4c82df093c"
+commit = "46d3f49fca27c78fb410ba196a3e4feaa28de871"
 owners = ["fmauNeko"]
 project_path = "MarketBoardPlugin"
-changelog = """\
-- Context Menu: fix unhandled exception if item not in Item sheet (eg. key items)\
+changelog = """
+- Patch 7.4 / API 14 compatibility
+- Allow including Oceania in Cross-DC searches (added a checkbox in settings)
+- Added support for China Cross-DC
 """

@@ -1,7 +1,8 @@
 [plugin]
-repository = "https://github.com/Felys1998/EnemyListDebuffs.git"
-commit = "2869c6e4ae0342c13a9d0dd10561abdf264fd56a"
+repository = "https://github.com/Limiana/EnemyListDebuffs.git"
+commit = "17c6f75c4649ed4eb7d4b5c92ef9acb7847d725d"
 owners = [
     "Felys1998",
+    "Limiana",
 ]
-changelog = "7.1 Update"
+changelog = "7.4 Update"

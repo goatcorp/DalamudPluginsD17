@@ -1,12 +1,8 @@
 [plugin]
-repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "6b9edf1cd47dc4fb1f539534ad650668dc1b25f5"
-owners = ["sersorrel"]
+repository = "https://codeberg.org/keysmashes/WhosTalking.git"
+commit = "cdabcd06c857ff46e6a0dd2a6e15c0e44484ccbe" # version 0.8.8.0
+owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.4.0**
-
-You can now configure which port Who's Talking uses to communicate with the Discord client. This is primarily useful if you have multiple Discord clients open at the same time.
-
-Many thanks to SayuShira for implementing this feature!
+Updated for API 14.
 """

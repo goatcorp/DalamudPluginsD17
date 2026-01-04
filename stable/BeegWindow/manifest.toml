@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/arcanedisgea/beegwindow.git"
-commit = "c34fba2040593c068af86c4d421ab61b3edf8397"
+repository = "https://github.com/arcanedisgea/beegdinosaureatwindow.git"
+commit = "71877f0e87914fa437213af26d378d55c336d290"
 owners = ["ArcaneDisgea"]
 project_path = "BeegWindow"
-changelog = "Update to api 11"
+changelog = "Checks if window is already maximized before trying to maximize it. Adds basic logging."

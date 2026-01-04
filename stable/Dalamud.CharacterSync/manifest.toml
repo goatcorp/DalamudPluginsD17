@@ -1,8 +1,12 @@
 [plugin]
-repository = "https://github.com/reiichi001/Dalamud.CharacterSync.git"
-commit = "6121184e1336b63657ab86494f38c0a7b5a7a724"
+repository = "https://github.com/Xpahtalo/Dalamud.CharacterSync.git"
+commit = "879652ffe7a058cf27d57d9793cf46b619a91463"
 owners = [
 	"goaaats",
-	"reiichi001"
+	"reiichi001",
+	"Xpahtalo"
 ]
 project_path = "Dalamud.CharacterSync"
+changelog = """
+7.4/API14 support.
+"""

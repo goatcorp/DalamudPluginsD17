@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/MidoriKami/FauxHollowsSolver.git"
-owners = [ "daemitus", "MidoriKami" ]
+repository = "https://github.com/Glorou/EzFauxHollows.git"
+owners = [ "daemitus", "MidoriKami", "Glorou" ]
 project_path = "FauxHollowsSolver"
-commit = "2e06d21664e9a02b9c7b63658e83f60718490fcd"
+commit = "c672a5cabdb4ba9f31521afb2517907a4dc9ca60"

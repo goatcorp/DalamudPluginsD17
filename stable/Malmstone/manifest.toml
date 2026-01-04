@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/pinapelz/ffxiv-malmstone.git"
-commit = "d6c504cdf70f04b1bb18a9d50ebd16618495a472"
+commit = "86ff5ef59bccd3d0407b81682d7a64e32bfe6fdc"
 owners = ["pinapelz"]
 project_path = "Malmstone"
 changelog = """
-API11 Support. Handle resetting saved Series Level after a new PVP Season
+- Update for 7.4 API 14
 """

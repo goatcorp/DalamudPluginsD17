@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/MKhayle/BetterTargetingSystem.git"
-commit = "88713cc89f3376cf1e70a6281d2a8538e549cd0e"
+commit = "d04540cab70ae82caa65e7a536a372ca376f81cf"
 owners = ["Lynesth", "MKhayle"]
 project_path = "BetterTargetingSystem"
 changelog = """
-7.1 update, courtesy of Nebel"""
+-# API 13 update"""

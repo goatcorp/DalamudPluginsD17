@@ -1,15 +1,27 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "03c121d6a71b127fa8b05089979768e378bd1060"
-owners = ["haroldiedema"]
+commit = "52043e45a6fff74945930be83ee2a85c37f6be69"
+owners = [
+    "haroldiedema",
+    "alexpado",
+    "Bloodsoul"
+]
 project_path = "Umbra"
 changelog = """
-# Umbra 2.3.10
+# Umbra 3.1.10
 
 ## Fixes & Improvements
 
-- Add Island Sanctuary ferry to Zone Markers (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Fix gearset switcher max level color for newly added sets (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Tidied up some code & updated drawing library (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Updated Umbra for compatibility with Dalamud API 14 (By [wolfcomp](https://github.com/wolfcomp)).
+- Dynamic Menu: Hide 'Move to Top' and 'Move to Bottom' context menu entries for 'Add Item' entry (By [alexpado](https://github.com/alexpado)).
+- Some small fixes for 7.4.
+
+## Known Problems
+
+- Msq Widget: The progress bar currently only counts overall progression. This is due to invalid data being retrieved.
+
+---
 
 Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
 Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.

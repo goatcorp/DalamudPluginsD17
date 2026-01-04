@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MapleHinata/Dalamud.FullscreenCutscenes.git"
-commit = "0913753c7874210f62f1ad9e37635887901bc4bd"
+commit = "d176f39f9a526933d627afcf680000fdff867006"
 owners = [
     "MapleHinata",
 ]

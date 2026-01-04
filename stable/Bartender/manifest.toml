@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/RulHolos/Bartender.git"
+commit = "87aaad048ccd49c462f9b33f1d25c3497cf95c46"
+owners = ["RulHolos"]
+project_path = "Bartender"
+changelog = """
+- api14 push
+
+- Known issue: All bars icons must be re-saved once after updating to this version. This doesn't break usability but creates errors and UI glitches.
+"""

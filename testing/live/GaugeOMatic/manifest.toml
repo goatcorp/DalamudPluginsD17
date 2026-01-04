@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "860e4477e220cd169d127a10f1d2c82049892243"
+commit = "f34061a9d58d761fbfafa3fe0877ac51dfdf87ec"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-## WIDGETS
-- Fixed an issue with scaling options for the `Shimmering Halo` widget
-- Added Icon and Sound options to counter widgets
+- Fixed an issue with triggering certain gauge tweaks (such as RDM's Magicked Swordplay cue)
+- Added separate tracker options for MNK's Chakras (1-5 and 6-10)
 """

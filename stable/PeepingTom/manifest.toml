@@ -1,8 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/PeepingTom.git'
-commit = '1fd837a6ca75a02817436be3627897018e96a511'
-owners = [ 'anna-is-cute' ]
+repository = 'https://github.com/Caraxi/PeepingTom.git'
+commit = 'ac4201d1133ab8de20cffe9a30a0f456790176da'
+owners = [ 'anna-is-cute', 'Caraxi' ]
 project_path = 'Peeping Tom'
-changelog = '''\
-- API 11
-'''

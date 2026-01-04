@@ -1,0 +1,5 @@
+﻿[plugin]
+repository = "https://github.com/fieldcontentenjoyer-xiv/ResStackCounter.git"
+commit = "b37c66081ea71acde65fb014234b679b939fa2e3"
+owners = [ "fieldcontentenjoyer-xiv" ]
+project_path = "ResStackCounter"

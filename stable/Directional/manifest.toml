@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Infiziert90/Directional.git"
-commit = "c1a62665e4f8a2c018c8d3f667e6a14983209341"
+commit = "70030d9cf5e7b9f7d924f07d8e64e2ec7975c17e"
 owners = ["Infiziert90", "herulume", "Sevii77"]
 project_path = "Directional"

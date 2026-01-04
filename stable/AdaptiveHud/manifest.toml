@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Helios747/AdaptiveHudPlugin.git"
-commit = "f9876fbe6837ece0a8c0419f87a61c5994aa9b0e"
+commit = "612174d50ea02791adba0c1131e53158bf5ce48c"
 owners = [
     "Helios747"
 ]
 project_path = "AdaptiveHud"
-changelog = "API11"
+changelog = "API 14"

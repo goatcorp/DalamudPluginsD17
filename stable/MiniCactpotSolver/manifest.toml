@@ -1,5 +1,11 @@
 [plugin]
-repository = "https://github.com/MidoriKami/MiniCactpotSolver.git"
-owners = [ "daemitus", "MidoriKami" ]
+repository = "https://github.com/Etheirys/EzMiniCactpot.git"
+owners = ["daemitus", "Minmoose", "MidoriKami", "nathanctech"]
 project_path = "MiniCactpotSolver"
-commit = "55b68a3df4d25b940da1148bdecb303c0a9a820d"
+commit = "9a6f3a9ca9c89db16a59c8076d17ba4d9c933ef4"
+version = "4.0.0.0"
+changelog = """
+- Adopted by Minmoose
+- Move ezMiniCactpot back to an older visual style, please feel free to send me your feedback on discord (minmoose)
+- Update to API 14
+"""

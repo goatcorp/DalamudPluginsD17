@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b98853af56a02876022cda6ab3fd3dd0a3c453d5"
+commit = "4a1a3672ab78506d9d76d43a098359a47fc8fcc1"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Reduces internal plugin log level for most TTS events
-- **General**: Potential fix for rare and unreproducible crash when reading from dialogue windows (please DM me logs if this happens to you!)
-- **WebSocket**: Fixes configuration errors only showing up in the UI for one frame
-- **WebSocket**: Potential fix for speaker gender always being "None" for some plugin users
-- **OpenAI**: Updated supported voice list
+- **Kokoro**: Adds volume slider.
 """

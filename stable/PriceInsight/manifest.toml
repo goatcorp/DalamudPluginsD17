@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-priceinsight.git"
-commit = "3f3998e00a3a9150b813655b7785d6a2c61a8384"
+commit = "03de8e2ea3fd4e43530563241bede06a2691b70b"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Fix item quantities being tracked incorrectly
+- Update to FFXIV 7.4 and Dalamud 14
 """

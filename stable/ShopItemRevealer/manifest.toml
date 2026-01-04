@@ -1,4 +1,5 @@
 [plugin]
 repository = "https://github.com/Era-FFXIV/ShopItemRevealer.git"
-commit = "5ec06b6500ce39156772bb92bf011192106856b0"
 owners = ["nathanctech"]
+commit = "4e009c0aabd11c2e127747d8787def5632a04a0a"
+version = "1.2.0"

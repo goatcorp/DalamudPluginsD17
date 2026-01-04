@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "2de0b52ca801f5ac3839d1a1ae10473a687c45f2"
+commit = "0a8c4de8d3c5ab19ba42119882a25fb5f8e41147"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
-- Updates to tracker window to include more sortable columns
-- Fixes to 'Respawn In' column sort (#8)
+- Removed zone ID hook for compatibility with future game updates
+- API 14 / 7.4 Update
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "ecc9145078e1edce1a965914c638a7243063ba63"
+commit = "936efa78fa1a448ccc1cc5fd14a134c49e8a0024"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Coloured text chat and (one-way) Deathlink support."
+changelog = "7.4 support."

@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Cytraen/HandyHotbarHelper.git"
+commit = "3c7573e7cacb01d456accfe60039f5086f3ee01f"
+owners = ["Cytraen"]
+changelog = """
+- Update for 7.4
+"""

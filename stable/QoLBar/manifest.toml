@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "3b72e2ea37030aa3992a9b0b03ce15735af54505"
+commit = "bd6f3c052c0f1fdabc9987804141ecfe065f2dc6"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed ImGui asserts'''
+- Moved icons to the correct tabs in the icon browser'''

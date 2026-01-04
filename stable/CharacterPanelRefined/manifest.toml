@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "5cf304f1247b7f8cbe900d35f4cd1d9852467a7b"
+commit = "dfb19665385ed85cb3b30b45684aa05feff5b98d"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fix calculation of expected damage and healing values
+- Update to FFXIV 7.4 and Dalamud 14
 """
