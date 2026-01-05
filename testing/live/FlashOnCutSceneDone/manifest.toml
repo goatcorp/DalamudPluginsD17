@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/sub07/FlashOnCutSceneDone.git"
+commit = "f309df5a111234d34e14bad73993464f37240eef"
+owners = ["sub07"]
+project_path = "FlashOnCutSceneDone"
+changelog = "Flashes the game window in the taskbar when a cutscene ends."
