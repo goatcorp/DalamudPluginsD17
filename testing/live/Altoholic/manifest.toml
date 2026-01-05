@@ -1,15 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "1d14670295b95bee376264091674011e66cbefe8"
+commit = "90b7c776c8f043f5c15769d8401137233d9bf69b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add Timers tab and Timers standalone window
-- **Timers**: 
-  Add:
-  * Custom Deliveries allowances
-  * Doman Enclave donations
-  * Masked Carnivale 
-  * Allied Society Daily Quest Allowance
-- **"Timers standalone windows**: Using /altoholic timer(s) open an icon that allow for a quickview of the timers. The icon size and transparency can be set in the config tab
+- **Timer/Config**: Fix tab crash
 """
