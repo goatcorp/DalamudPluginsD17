@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
-commit = "9618a131d27590e347c56d3e1c48febb9d1e392a"
+commit = "1e117df47a465d7991bde645d6ad5fd107fb30d3"
 owners = [
     "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.8 Patch Notes
-Updated to support API v14"""
+changelog = """# Wordsmith v1.15.9 Patch Notes
+Fixed an issue with the Thesaurus not loading properly for synonyms."""
