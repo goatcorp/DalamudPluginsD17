@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "a6641f6dc1643832c0f8a713031b01f70b010476"
+commit = "a97113f35e3cb3ef0f3ac5563d178e788bdae86c"
 owners = ["Glyceri"]
 	changelog = """
-[2.7.1.0] 
-+ Chose a different way to handle nameplates until the underlying cause of everyones nameplate crashes get found.
+[2.8.0.1] 
++ Fixes a very minor IPC and Export bug.
 """
+
+
 
 
 

@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "546edf222004ddc5c38a072d373a357eb620ce27"
+commit = "d88fb77c6283fda63fe870196ea66e65445e6e6a"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Bump Chromium to 139.0.7258.139
-- Improve renderer crash handling
-- Fix CEF not loading when game runs as a privileged process (please don't..)
+- Bump Chromium to 143.0.7499.40
+- Api 14
 """

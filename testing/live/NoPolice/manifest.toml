@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "56e1bad6ce11087b855321d1dcf7a6abbcb80d52"
+commit = "4d32dd0aec11498c7453cf0ac8f3193341fccbaf"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
-changelog = "Initial release"
+changelog = "Fix load error on game restart"

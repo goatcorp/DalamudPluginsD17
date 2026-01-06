@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "4e889d0a1c93b7330f76bd1e6bef95a5891d9723"
+commit = "f34061a9d58d761fbfafa3fe0877ac51dfdf87ec"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Update for 7.31
-- Attempted fix for error log spam issue
+- Fixed an issue with triggering certain gauge tweaks (such as RDM's Magicked Swordplay cue)
+- Added separate tracker options for MNK's Chakras (1-5 and 6-10)
 """

@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "a94fa65b28d65bd8d2f628700d9e8c9f44165896"
+commit = "1767a2b0709fc12f6b0d318199eb4907e3627312"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
 changelog = """
-- Bumped version to 1.2.0.3
-- Fetched new quest data from the recent patch
+- Bumped version to 1.3.0.1
+- Fixed quests not appearing in the correct order
+- Fixed missing quest data for Post-Dawntrail
 """

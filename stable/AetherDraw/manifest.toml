@@ -1,7 +1,7 @@
 # stable/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "95589af19d652e1e210f7f6fda253b416c2126b6" 
+commit = "56112acc303d60782b3b177fefbdfe31f93ed7cb" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "v2.4.3.1: Serialization fix.\nv2.4.3.0: Added Pie/Wedge shape tool. Added Caster role icon. Added Job icon swapping in Properties window. Added new Bind/Ignore target markers. Updated Party icon menu layout.\nv2.4.2.0: Overhauled Load/Import window with tabs. Added ability to 'Append' plans (merge pages) from files or URLs. Replaced old Load popup.\nv2.4.1.0:Added Community Plan Browser (Search & Load).\nv2.4.0.0:Added status icons, updated undo to be per-page, added page movement/reordering, added live object property editing."
+changelog = "v2.4.5.0:Arena bg, light party job icons\nv2.4.4.2:API 14\nv2.4.4.1: minor bug fix\nv2.4.4.0: Added Gaze, Towers, Exas, Starburst mechanics . Added Laser Pointer tool (ephemeral). Added 'Lock All Items' canvas toggle.\nv2.4.3.1: Serialization fix.\nv2.4.3.0: Added Pie/Wedge shape tool. Added Caster role icon. Added Job icon swapping in Properties window. Added new Bind/Ignore target markers. Updated Party icon menu layout.\nv2.4.2.0: Overhauled Load/Import window with tabs. Added ability to 'Append' plans (merge pages) from files or URLs. Replaced old Load popup.\nv2.4.1.0:Added Community Plan Browser (Search & Load).\nv2.4.0.0:Added status icons, updated undo to be per-page, added page movement/reordering, added live object property editing."

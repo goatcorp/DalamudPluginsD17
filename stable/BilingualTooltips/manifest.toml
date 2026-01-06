@@ -1,14 +1,15 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "679aabc10da0b9753fdde53144fddc439d43bacd"
+commit = "4e8fee212d6a50dbca762a936389e730b95252ea"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v1.4.0.0
-New: Add support for event item tooltips.
-Fix Tooltip description not showing.
+v1.5.0.0
+- Update to API 14.
+- Add support for Deep Dungeon Items/Actions. Please report any missing tooltips to GitHub Issues/Discord.
+- Add support for Main Commands (e.g., Party Finder).
+- Minor fixes and improvements.
 
-+ 1.4.1.0: Fix Tooltip translation totally not showing when game language configured to Off.
-+ 1.4.2.0: Handle log errors more gracefully.
-+ 1.4.3.0: Fix configuration not saving properly.
+v1.6.0.0
+- Fix display of lo......ng names in tooltips.
 """

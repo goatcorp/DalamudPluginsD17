@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "9e3222485af8c85769741dee8d10c972c166c6b7"
+commit = "a1b7e548b6f4ae8779114f58cae4f177765883e1"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.7.1]
-- Add some sanity checks to prevent out of range IDs.
+[1.0.8.0]
+- API 14 Support
 """
