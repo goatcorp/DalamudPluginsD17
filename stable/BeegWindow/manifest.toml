@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/arcanedisgea/beegdinosaureatwindow.git"
-commit = "71877f0e87914fa437213af26d378d55c336d290"
+commit = "9ad2bb9d1cef9945f0f0b5c213df36711a2228cd"
 owners = ["ArcaneDisgea"]
 project_path = "BeegWindow"
-changelog = "Checks if window is already maximized before trying to maximize it. Adds basic logging."
+changelog = "Api Bump"
