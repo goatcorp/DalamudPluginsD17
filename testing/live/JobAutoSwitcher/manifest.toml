@@ -3,4 +3,4 @@ repository = "https://github.com/Valiice/JobAutoSwitcher.git"
 commit = "89dc0ffdefc8a917f5e0b50d0695af1ae7073754"
 owners = ["Valiice"]
 project_path = "JobAutoSwitcher"
-changelog = "Initial release."
+changelog = "Switches gearsets to match the queued job when clicking commence.\n Initial Release"
