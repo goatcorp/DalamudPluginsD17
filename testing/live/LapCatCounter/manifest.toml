@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
+commit = "485c0631591e92b6ff76dda60b6712b268b69454"
+owners = ["ImOv3rburdened"]
+project_path = "LapCatCounter"
+changelog = "Initial submission of LapCatCounter.\n\nTracks and displays how many times the player was a lap cat. Purely reactive social plugin."
