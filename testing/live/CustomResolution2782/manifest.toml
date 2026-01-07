@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "232fb67375fcdd941733b3fafa8b53fc96cd5da0"
+commit = "7aec76e0d73b6b2b1d240663d182fa4f84c0bb84"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
