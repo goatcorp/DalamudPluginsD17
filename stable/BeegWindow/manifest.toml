@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/arcanedisgea/beegdinosaureatwindow.git"
-commit = "9ad2bb9d1cef9945f0f0b5c213df36711a2228cd"
+commit = "a6e420c47cd81197a31773ecbb69dfe075977ac1"
 owners = ["ArcaneDisgea"]
 project_path = "BeegWindow"
 changelog = "Api Bump"
