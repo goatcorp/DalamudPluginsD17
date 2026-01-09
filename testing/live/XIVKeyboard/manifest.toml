@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/alpha-Centauri85/XIV_keyboard.git"
+commit = "5f63bc0491f33dcea8e53e71080bf529051a22b4"
+owners = ["alpha-Centauri85"]
+maintainers = ["alpha-Centauri85"]
+project_path = "."
+changelog = "Initial testing release."
