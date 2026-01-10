@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "fa48cf5618c95fd4d2295d7d8a20efa2d5566915"
+commit = "9533183d275a6361885d989e86fb60d2e7f1edf2"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for 7.4 (thanks BoxuChan!)
+- Changed server bar digits to full-width characters and added padding to reduce jitter when other elements are positioned to the left of the ping monitor.
 """
