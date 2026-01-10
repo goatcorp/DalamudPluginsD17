@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Sidiousious/musical-guide.git"
-commit = "937adf43a056e56d99c7fd46c5445680c7fcb87d"
+commit = "c1d9e312c517d00d0f8837cf8f391ddc23ce15d3"
 owners = ["Sidiousious"]
 project_path = "MusicalGuide"
