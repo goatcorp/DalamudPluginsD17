@@ -1,5 +1,11 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "4e64ac557bc58a708da7f978793496aaf47cb9dd"
+commit = "7a73dc3115fbadca67d7d7ddcfbea5a9b76fba21"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
+changelog = """
+Version 1.2.3: 
+ - API 14
+ - Fix estimated yield being display no matter the configuration
+ - Fix text color on dropdowns
+"""

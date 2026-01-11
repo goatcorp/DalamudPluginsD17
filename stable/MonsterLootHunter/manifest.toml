@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/danielbrenom/MonsterLootHunter.git"
-commit = "f007dc564bc64df43374f112617d7cb60c54bee2"
+commit = "971ad994474d593af128ead9958b768112e38e36"
 owners = [
     "danielbrenom",
 ]
 project_path = "MonsterLootHunter"
-changelog = """- Update for API 13
+changelog = """- Fixed loading of data
+- Storing fetched data locally
+- Fixes on rendered tables
  """

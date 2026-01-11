@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "93f9b6b140cad79052266f4fc583a9e13a9e7adf"
+commit = "ca821b80eae59447f6dfdca8a4241116dbf877e8"
 owners = ["wompscode"]
 project_path = "NowPlaying"
-changelog = "Ability to disable truncation of song title/artist name + choose the values in which truncation occurs."
+changelog = "bump to api14"

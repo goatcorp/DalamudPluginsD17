@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "ff2f413dbcf92d1bc28fd44669fbf14993816211"
+commit = "a43e7a0c515e885231f7850a1833cc6cd31f739d"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Updated for 7.4 (thanks Ania!).
+- **System**: Fixes a crash when processing unclosed XML tags (such as "<3").
 """

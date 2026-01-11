@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/SillyChat.git"
 owners = [ "kalilistic", "MKhayle" ]
 project_path = "src/SillyChat"
-commit = "cf76d6a2505444c9146787e5182696ca1d0c04e2"
+commit = "f87c39dd8fc574c6beaeca7db53ceaece7e146a6"
 changelog = """
-- API 13 update
+-# API 14 update
 """
