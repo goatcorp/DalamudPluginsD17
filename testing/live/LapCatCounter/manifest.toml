@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
-commit = "485c0631591e92b6ff76dda60b6712b268b69454"
+commit = "1dc8b1d24265010ed93759b6c039cfcc44e999dc"
 owners = ["ImOv3rburdened"]
 project_path = "LapCatCounter"
-changelog = "Initial submission of LapCatCounter.\n\nTracks and displays how many times the player was a lap cat. Purely reactive social plugin."
+changelog = "Updated the LapCatCounter plugin to version 1.20.0. Fixed a bug where comfig resets emote ID's to 0 and doesnt track laps. Adjusted cooldown for time between laps counted to 30 seconds to prevent spamming the same lap or accidental counts from movement. ADded a tiem tracker for how long you sat in someone's lap per person, total time in laps, and max time spent on a single lap in one go."
