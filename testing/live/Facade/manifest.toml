@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/keifufu/Facade.git"
-commit = "5350566eed8c9a6dd49bb22fc43f37c9c855c28b"
+commit = "c95bbbae69610b5ece1cad3cc3bd562d98215549"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
