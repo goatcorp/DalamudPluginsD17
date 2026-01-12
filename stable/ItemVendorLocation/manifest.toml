@@ -8,6 +8,7 @@ owners = [
 project_path = "ItemVendorLocation"
 changelog = """
 - Update IPC
+- Clear highlights when item acquired
 - Try to fix some menu highlights
 - Update Quinnana hack
 - Add barebones support for SpecialShop categories
