@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "1da1b1cb8452eae59d21affc6b56fa020b6f63ec"
+commit = "e1fb8502e129194efa288b7a01c08aee87345c0d"
 owners = ["karashiiro"]
 changelog = """\
-- Fixed number spacing in server bar. This reintroduces some jitter when the number of digits changes, but the value is still padded to at least reduce it as much as possible for now. The jitter will be completely fixed in a future update.
+- Possible fix for crashes under WINE.
 """
