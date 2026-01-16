@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "a1fdf52b370dbb8237adaec331c06ddcfad6a4c2"
+commit = "3d309a4544407aacf6b980c9569e377f1579054b"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Fixed broken duplicate chat types in chat preset configuration.
+- **General**: Fixed outgoing tells being spoken with "Skip messages from you" enabled.
 """
