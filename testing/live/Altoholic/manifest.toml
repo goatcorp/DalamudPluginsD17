@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "438e267c9418b23f58a480b31b3b4e598588df43"
+commit = "ee8da9a2f5d6a010986f126b9d30e85669b8579a"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timer/Config**: Fix tab crash
+- **General**: Add reset command, gearset tracking and tab, glamour plate tracking and tab.
+  - **Reset Command**: Allow you to reset data of currently logged character in case saved data is inaccurate. Use /altoholic reset to get the help and list resettable objects.
+- **Gearsets**: List gearsets and preview them on glass click
+- **Glamour plates**: List glamour plates
 """
