@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "768de9736d2f102e2c8443ceae005b3956ed462e"
+commit = "cf104f141e155c4800231e4c1ca30f11e0a5c7a8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Heavensturn 2026
+- **Timers**: Fix daily reset time comparison. Add config option to show timer icon on login.
 """

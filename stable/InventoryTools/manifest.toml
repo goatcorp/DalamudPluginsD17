@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "55af25124c7e2c95fcfeb8b08e895bdeacd02a19"
+commit = "928f5e79a1c4b992fc9b58b09a167ddd3d822657"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.1"
-changelog = "### Added\n- Added the desynthesis skill delta column\n- Added the is glamour ready set column\n- Added the is glamour ready set item column\n### Fixed\n- Fixed error being thrown if a character was deleted but still referenced by another character in the owner column\n- Fixed submarine locations being shown as the letter instead of the name and letter\n- Context menu actions taken at the marketboard should provide the correct item instead of gil"
+version = "1.14.0.2"
+changelog = "### Added\n- Added a 'More Information' context menu setting for NPCs and Monsters\n- Added a 'Shared Models' panel to the NPC and Monster windows\n- Added 'Amount Owned' to the tooltip inside the imgui windows when hovering items\n- More spawn data added thanks to Tracky(props to Infi)\n### Fixed\n- Certain items were shown as being available on the market even though they aren't"

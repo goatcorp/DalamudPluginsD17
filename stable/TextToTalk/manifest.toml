@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "38551b1b8585eb2c9f44b14a9869b15c32ade18e"
+commit = "a43e7a0c515e885231f7850a1833cc6cd31f739d"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **System**: Fixes a crash when TTS playback is cancelled (thanks Flabber Babble!)
+- **System**: Fixes a crash when processing unclosed XML tags (such as "<3").
 """
