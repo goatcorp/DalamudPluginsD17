@@ -1,9 +1,6 @@
 [plugin]
 repository = "https://github.com/in1tiate/Wikilinx-Dalamud.git"
-commit = "7d8115d6444b32e387cc02bd1b5e2c322b5a1074"
+commit = "152080b7c04439b62a081b4a18ed44191ddbed42"
 owners = ["in1tiate"]
 project_path = "WikilinxPlugin"
-changelog = "Update Lodestone IDs for 7.35"
-
-
-
+changelog = "Updated for Patch 7.4 and Dalamud API v14."
