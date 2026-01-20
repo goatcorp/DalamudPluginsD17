@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/in1tiate/Wikilinx-Dalamud.git"
-commit = "4aed32dfe4387f6a9cdee6fa81874f059527bd0f"
+commit = "6726cee3fbabbde0a225ab806747e47c02032213"
 owners = ["in1tiate"]
 project_path = "WikilinxPlugin"
 changelog = "Updated for Patch 7.4 and Dalamud API v14."
+
 
