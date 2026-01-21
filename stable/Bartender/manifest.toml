@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "87aaad048ccd49c462f9b33f1d25c3497cf95c46"
+commit = "fcacdda1361e8fede8746f6bd30af67bae4793b9"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-- api14 push
-
-- Known issue: All bars icons must be re-saved once after updating to this version. This doesn't break usability but creates errors and UI glitches.
+- Removed the warning toast for last version.
+- Fixed an issue regarding non-existing backup folder.
+- Fixed an issue with empty profile saving.
 """
