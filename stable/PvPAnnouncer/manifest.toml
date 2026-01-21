@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "b4713889b4a717464963769fa37348a5111bfb2d"
+commit = "d343fe7e815f0228749a8efa785319b52623745a"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Update to 7.4 - Spoilers disabled by default - Check settings to enable!"
+changelog = "New Announcer Delay feature. Edits to internal structure that *shouldn't* be noticable. Ping me in discord if you encounter anything strange!"

@@ -1,5 +1,8 @@
 [plugin]
 repository = "https://github.com/Bluefissure/Dalamud-OBS.git"
-commit = "fc395c3cf243ebcc30902ab54b22e61f67547626"
+commit = "0d004dad7d8dca559d2966627915206675c7f7f4"
 owners = ["Bluefissure"]
-changelog = """API14"""
+changelog = """- Better countdown cancellation logic
+- Duty name instead of zone name for recording folders (e.g., "Arcadion Light-heavyweight M4" instead of "The Arcadion")
+- Stop recording on zone exit - useful when you kill a boss and there's a cutscene after
+- Start replay buffer when recording starts - keeps both running together"""

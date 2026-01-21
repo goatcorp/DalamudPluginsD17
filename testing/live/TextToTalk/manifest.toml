@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "525a315e143ef9314906ee47e4bb7414ae2e223a"
+commit = "3d309a4544407aacf6b980c9569e377f1579054b"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Adds support for configuring the audio output device (thanks Flabber Babble!)
+- **General**: Fixed outgoing tells being spoken with "Skip messages from you" enabled.
 """

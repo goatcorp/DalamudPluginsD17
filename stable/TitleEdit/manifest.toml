@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "103ed0faf8935d04f2f91b12a7e34a9e716952d6"
+commit = "2ba4d40eae7c88f706583ac3752cea00df45a64a"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
 Maintenance:
-- Handle expanded festival count
+- Include Decals when using layout saving (fixes scorch marks in Tuliyollal)
 """

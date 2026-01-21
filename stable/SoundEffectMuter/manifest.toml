@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/SoundEffectMuter.git"
 owners = [ "spide-r"]
-commit = "aaec91300a726a2a4b9c1988bc007a12b3663621"
+commit = "9dc1ba64d3cf7c7768eb619b96215f423d5da146"
 project_path = "SoundEffectMuter"
-changelog = "Updated to <se.7> <se.4>"
+changelog = "Toggle Command has been added! /ptogglesem"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/rreminy/MiniMappingway.git"
-commit = "0a26555be4eae11d50bcd10431c5373125755a48"
+commit = "b2a83958dc16e97ebc74e8fb42b3f5cb0ccb6c67"
 owners = [
     "jaycewhite",
     "rreminy"
 ]
-changelog = "Plugin adoption"
+changelog = "Fix FCs"

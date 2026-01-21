@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "386be3fe30bb5f48237f0e73625b85a804a58f6a"
+commit = "f154e0f4dc86a4dda3fb0273c48e5f4a870a2cda"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
+**Added**
+- Tutorial info and improved tooltip for materia tab
 **Fixes**
-- Fix HQ items not highlighting in inventories
-- Fix prerequisites sometimes not assigning when expected
-- Fix gearset tabs scrolling away when the window is small
-- Fix UI displaying gearset of other character upon swapping
-- Fix extending prereqs when no match is found
+- Fix issue with Xivgear gearsets being unknown job
 """
