@@ -1,6 +1,7 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "ae0dc65c6cceb80146b6a1d8352bb7a8d5fda792"
+commit = "08fe5b724db2d78e805bf39deb23a9c53303116b"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
+
 changelog = "Initial Release"
