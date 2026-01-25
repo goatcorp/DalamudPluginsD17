@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/ssalazar217/EchoXIV.git"
+commit = "96a32fb0af0455d4aba998d36c1c2603784d11ba"
+owners = ["ssalazar217"]
+changelog = """v0.1.0.4
+- Added a welcome screen for initial language selection.
+- Smart auto-configuration based on Dalamud UI language.
+- Critical improvements to focus detection (Smart Visibility) using PID.
+- Massively updated excluded messages list to reduce chat noise."""
