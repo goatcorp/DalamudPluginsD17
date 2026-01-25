@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "f154e0f4dc86a4dda3fb0273c48e5f4a870a2cda"
+commit = "012ae388dbb97b2d951797b8652f28400ee1c73d"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Added**
-- Tutorial info and improved tooltip for materia tab
-**Fixes**
-- Fix issue with Xivgear gearsets being unknown job
+- Toggleable tweak to allow prog and BIS sets to share non-augmented items ('Assign Gearpieces as Prerequisites')
+- Note: This is on by default, to restore old behavior disable in config -> general settings -> miscellaneous
 """
