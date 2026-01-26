@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
-commit = "96a32fb0af0455d4aba998d36c1c2603784d11ba"
+commit = "af93ecbdbbdbeb4cb3eeae8850844022f4f627f5"
 owners = ["ssalazar217"]
-changelog = """v0.1.0.4
-- Added a welcome screen for initial language selection.
-- Smart auto-configuration based on Dalamud UI language.
-- Critical improvements to focus detection (Smart Visibility) using PID.
-- Massively updated excluded messages list to reduce chat noise."""
+changelog = """v0.1.0.5
+- Implementación de Neutral Hybrid Bridge para compatibilidad con Linux CI (Plogon).
+- Desacoplamiento total de dependencias estáticas de WPF en el compilador.
+- Solución de errores en tiempo de ejecución (RuntimeBinderException) y XAML Parsing.
+- Interactividad restaurada (DragMove) mediante delegados dinámicos con Expression Trees.
+- Limpieza integral de advertencias de compilación (0 warnings)."""
