@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "f1f49226d708fc23e0ceda6c47285513970b8061"
+commit = "f1f49224944014e906272a7666b3dc3a0d6bf2f1"
 owners = ["ssalazar217"]
 changelog = """v0.1.0.11
 - WPF Bridge Fix: Resolved critical RuntimeBinderException in IsVisible.
