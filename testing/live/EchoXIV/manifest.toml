@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "af93ecbdbbdbeb4cb3eeae8850844022f4f627f5"
+commit = "12535da1f9130985c1d0c3443f9dce4d804b700d"
 owners = ["ssalazar217"]
-changelog = """v0.1.0.5
-- Implementación de Neutral Hybrid Bridge para compatibilidad con Linux CI (Plogon).
-- Desacoplamiento total de dependencias estáticas de WPF en el compilador.
-- Solución de errores en tiempo de ejecución (RuntimeBinderException) y XAML Parsing.
-- Interactividad restaurada (DragMove) mediante delegados dinámicos con Expression Trees.
-- Limpieza integral de advertencias de compilación (0 warnings)."""
+changelog = """v0.1.0.7
+- WPF Bridge Fix: Resolved critical startup error (RuntimeBinderException).
+- ImRaii Migration: Full refactor for enhanced UI stability.
+- Chat Deduplication: Prevented duplicate log entries when sending messages.
+- Native Hooks: Switched to official ClientStructs delegates.
+- UI: Improved layout with compact 2px margins."""
