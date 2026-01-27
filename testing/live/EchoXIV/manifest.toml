@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "12535da1f9130985c1d0c3443f9dce4d804b700d"
+commit = "f1f49226d708fc23e0ceda6c47285513970b8061"
 owners = ["ssalazar217"]
-changelog = """v0.1.0.7
-- WPF Bridge Fix: Resolved critical startup error (RuntimeBinderException).
-- ImRaii Migration: Full refactor for enhanced UI stability.
-- Chat Deduplication: Prevented duplicate log entries when sending messages.
-- Native Hooks: Switched to official ClientStructs delegates.
-- UI: Improved layout with compact 2px margins."""
+changelog = """v0.1.0.11
+- WPF Bridge Fix: Resolved critical RuntimeBinderException in IsVisible.
+- Threading: Fixed cross-thread access errors in SetOpacity and UpdateVisuals using Dispatcher.
+- Stability: Massive null-safety sweep and removal of unsafe suppressors.
+- Performance: Optimized UI property updates and event handling."""
