@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "b1532be396d077d591b63947e1dab945a4a3a09c"
+commit = "fa4f707811a3b29b1cf7a32ac72b1346683cefbb"
 owners = ["ssalazar217"]
 changelog = """
 v0.1.0.17:
@@ -10,4 +10,5 @@ v0.1.0.17:
 - New: Smart Failover 2.0 (intelligent retry on rate limits).
 - Improvements: Corrected Windows 11 Mica/Acrylic effects.
 - Improvements: Configurable per-channel colors in WPF overlay.
+- Review Fixes: Implemented UTF-8 sanitization, migrated to ImRaii, and cleaned up manifest/hooks.
 """
