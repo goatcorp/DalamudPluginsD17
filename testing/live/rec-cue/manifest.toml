@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/Miu-B/rec-cue.git"
+commit = "36d35bb9cfc5c41e60c0a5760d9ca91934353ecf"
+owners = ["Miu-B"]
+maintainers = ["Miu-B"]
+project_path = "rec-cue"
+changelog = """
+- Initial release to official repository
+- Configure via /reccue command
+- Monitors configurable folder for file write/modification activity
+- Shows in-game [Rec] indicator (red=pulsing when active, grey=on hold, orange=error)
+- Adjustable indicator position, scale, and visibility
+- Auto-restart monitoring when folder error is resolved
+"""
