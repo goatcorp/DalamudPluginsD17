@@ -1,13 +1,6 @@
 [plugin]
 repository = "https://github.com/SalvatoreDevelopment/AetherFM.git"
-commit = "35611e523fd7eb13d9ee379740f93645fc347619"
+commit = "574c1cf5eb606b4382d7b88c8f5ac8bf264d48d5"
 owners = ["SalvatoreDevelopment"]
 project_path = "."
-changelog = """
-v1.2.0: IPC gates, Global search, Custom Stations, background playback, robustness.
-- Formal IPC call gates (incl. ResumeLast, TogglePlayStop); non-throw policy; ordered events
-- Global search (name/tag/language) and Custom Stations (add/list/remove)
-- Favorites enhancements (names API), favorites always visible
-- More stations: limit=10000, hide broken, clickcount order; wider stream validation (http/https,/stream, mp3/aac)
-- Background playback toggle (ON by default): stop on close only if disabled
-"""
+changelog = "v1.3.0: Update to API 14 (Patch 7.4), Performance overhaul (Caching/Limit), Country filters fixed."
