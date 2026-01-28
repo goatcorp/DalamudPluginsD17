@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "f1f49224944014e906272a7666b3dc3a0d6bf2f1"
+commit = "a2eb51b4e831df6bebe582aeead54bbd05a49f54"
 owners = ["ssalazar217"]
-changelog = """v0.1.0.11
-- WPF Bridge Fix: Resolved critical RuntimeBinderException in IsVisible.
-- Threading: Fixed cross-thread access errors in SetOpacity and UpdateVisuals using Dispatcher.
-- Stability: Massive null-safety sweep and removal of unsafe suppressors.
-- Performance: Optimized UI property updates and event handling."""
+changelog = """
+v0.1.0.12:
+- WPF Bridge Fix: Resolved critical RuntimeBinderException in dynamic ShutdownMode assignment.
+- Compatibility: Adjustments for safe dynamic loading following FFXIV 7.41 update.
+"""
