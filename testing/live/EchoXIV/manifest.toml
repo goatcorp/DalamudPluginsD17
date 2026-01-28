@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/ssalazar217/EchoXIV.git"
+project_path = "EchoXIV"
+commit = "fa4f707811a3b29b1cf7a32ac72b1346683cefbb"
+owners = ["ssalazar217"]
+changelog = """
+v0.1.0.17:
+- New: Persistent Message History (saved to disk).
+- New: Modern Search & Filter UI for past global chat messages.
+- New: Smart Failover 2.0 (intelligent retry on rate limits).
+- Improvements: Corrected Windows 11 Mica/Acrylic effects.
+- Improvements: Configurable per-channel colors in WPF overlay.
+- Review Fixes: Implemented UTF-8 sanitization, migrated to ImRaii, and cleaned up manifest/hooks.
+"""
