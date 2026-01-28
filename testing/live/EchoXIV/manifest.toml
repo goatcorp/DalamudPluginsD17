@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "a2eb51b4e831df6bebe582aeead54bbd05a49f54"
+commit = "b1532be396d077d591b63947e1dab945a4a3a09c"
 owners = ["ssalazar217"]
 changelog = """
-v0.1.0.12:
-- WPF Bridge Fix: Resolved critical RuntimeBinderException in dynamic ShutdownMode assignment.
-- Compatibility: Adjustments for safe dynamic loading following FFXIV 7.41 update.
+v0.1.0.17:
+- New: Persistent Message History (saved to disk).
+- New: Modern Search & Filter UI for past global chat messages.
+- New: Smart Failover 2.0 (intelligent retry on rate limits).
+- Improvements: Corrected Windows 11 Mica/Acrylic effects.
+- Improvements: Configurable per-channel colors in WPF overlay.
 """
