@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "0a72ebc78531b6363935f9c7518398cd22e9fb6f"
+commit = "20184f1fc19a26b4625e1c31e28aa64ca93a526b"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Huge Update! All the scions + extra main characters are now supported. Yes you read that right. ALL the scions!"
+changelog = "Minor Event Additions, Config edits, fixes."
