@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMinionRoulette.git"
+commit = "4780a89b7e9ea35378b2e2a2eccd482470cca05d"
+version = "0.1.0.1"
+owners = ["CMDRNuffin"]
+project_path = "BetterMinionRoulette"
