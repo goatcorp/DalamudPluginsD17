@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Piggy-Guy/DalamudJSPlugin.git"
-commit = "f232d017e553e172dd286e47616f9b60a91cc3f3"
+commit = "99e159f14adc77e4fb52159efb1b24a517d359ea"
 owners = ["Piggy-Guy"]
 project_path = "Jumpscare"
 changelog = "New plugin for testing"
