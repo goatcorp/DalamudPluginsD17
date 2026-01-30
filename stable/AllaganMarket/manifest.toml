@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "beea0f1e809d06e25b8b72e0d94575007e05ca71"
+commit = "b6e998d1116282cb2f702cee7be4805bf23e702c"
 owners = [ "Critical-Impact",]
 project_path = "AllaganMarket"
-version = "1.3.0.2"
-changelog = "### Fixed\n- Removing a listed item from a retainer would not be tracked correctly"
+version = "1.3.0.3"
+changelog = "### Fixed\n- Fixed broken signature"
