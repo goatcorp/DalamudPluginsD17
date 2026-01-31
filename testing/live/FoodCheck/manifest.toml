@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/FoodCheck.git"
+commit = "9f822bc3469c20c431167d1e38447a080cee259c"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "- Initial Release\nFoodCheck checks to see who is missing the food buff (Well Fed) when a countdown goes out and/or when a ready check is initiated."

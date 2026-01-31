@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://github.com/foophoof/Tourist.git'
-commit = '1c95d5d76916087485986143ae5b59bc9dad2345'
+commit = 'dfc69ae076199bbb391cb9d5173b99a7fcc45f9d'
 owners = [ 'foophoof' ]
 changelog = """\
 ### Changed
-- API13 support
+- API14 support
 """

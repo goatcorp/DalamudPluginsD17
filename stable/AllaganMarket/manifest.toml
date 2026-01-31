@@ -1,13 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "b03a6a54050fa22b4212455fa3d30c95cc3de103"
-owners = [
-    "Critical-Impact",
-]
+commit = "c15006a8f3a2ca16e6e381db95f514aa2dc5ed6c"
+owners = [ "Critical-Impact",]
 project_path = "AllaganMarket"
-version = "1.3.0.0"
-changelog = """\
-### Fixed
-- Support for 7.4
-
-"""
+version = "1.3.0.4"
+changelog = "### Fixed\n- Fixed potential crash when in moon mission"

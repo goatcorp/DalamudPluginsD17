@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/GayPotatoEmma/StanleyParableXiv.git"
-commit = "6ebae6e88d208097c0ec3ad38a2c4ee313b2a6bb"
-owners = [
-"rekyuu",
-"GayPotatoEmma"
-]
+commit = "4e33700897035da1d32f588555de393fb7b5e386"
+owners = [ "GayPotatoEmma" ]
 project_path = "StanleyParableXiv"
 changelog = """
-- Adopted from Rekyuu
-- Update to API 14
+- Re-enabled PVP 'Countdown Start' and '10 Seconds Remaining' Events (Thanks to [Critical Impact](https://github.com/Critical-Impact))
+- PVP Win/Loss are still currently disabled, I am still looking into getting these fixed aswell to bring the plugin back to full functionality
 """

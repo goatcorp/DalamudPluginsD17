@@ -1,8 +1,8 @@
 [plugin]
-repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "ffff67a6bb4251f7b06234a0ade395c07a7fbc1e"
+repository = "https://github.com/rreminy/MiniMappingway.git"
+commit = "b2a83958dc16e97ebc74e8fb42b3f5cb0ccb6c67"
 owners = [
-    "jaycewhite"
+    "jaycewhite",
+    "rreminy"
 ]
-changelog = "Update to API 13. My thanks to reiichi001 for doing this update!"
-version = "1.0.1.0"
+changelog = "Fix FCs"

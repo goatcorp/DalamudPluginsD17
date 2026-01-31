@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "9533ae4f2c33ce2ed3767283e8dff3668027ee7d"
+commit = "928f5e79a1c4b992fc9b58b09a167ddd3d822657"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.0"
-changelog = "### Added\n- Support for 7.4\n- Initial data for 7.4\n- Pilgrims Traverse loot is now available as a source\n### Changed\n- The mob tracker was reworked to use the games object table"
+version = "1.14.0.2"
+changelog = "### Added\n- Added a 'More Information' context menu setting for NPCs and Monsters\n- Added a 'Shared Models' panel to the NPC and Monster windows\n- Added 'Amount Owned' to the tooltip inside the imgui windows when hovering items\n- More spawn data added thanks to Tracky(props to Infi)\n### Fixed\n- Certain items were shown as being available on the market even though they aren't"

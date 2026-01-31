@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/spide-r/PvPAnnouncer.git"
+commit = "b320efca9a09237c313035c632e5c6aaaaa9f440"
+owners = ["spide-r"]
+project_path = "PvPAnnouncer"
+changelog = "Huge Update! All the scions + endwalker/dt main characters are now available as announcers!"
