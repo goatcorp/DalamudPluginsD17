@@ -1,7 +1,7 @@
 # testing/live/Aether48/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/Aether48.git"
-commit = "2d009b1d52ccf2ecf237aa3aba33664ecddd4bc1" 
+commit = "8d8a579f79789e24c36b8ef31010b348b6e70f69" 
 owners = ["rail2025"]
 # project_path = "Aether48" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v0.0.0.1: Initial release."
+changelog = "v1.0.0.0: clean up \nv0.0.0.1: Initial release."
