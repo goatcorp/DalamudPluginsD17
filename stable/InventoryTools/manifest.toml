@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "928f5e79a1c4b992fc9b58b09a167ddd3d822657"
+commit = "6015fc822e45c41504ea85e1478957e99793ff61"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.2"
-changelog = "### Added\n- Added a 'More Information' context menu setting for NPCs and Monsters\n- Added a 'Shared Models' panel to the NPC and Monster windows\n- Added 'Amount Owned' to the tooltip inside the imgui windows when hovering items\n- More spawn data added thanks to Tracky(props to Infi)\n### Fixed\n- Certain items were shown as being available on the market even though they aren't"
+version = "1.14.0.3"
+changelog = "### Fixed\n- Fixed broken market hook\n- Fixed the first plot being tracked as an apartment\n- Fixed certain tooltips expanding out of control\n### Changed\n- 7.41 data update\n### Added\n- Oizys item sources added\n- Gearset item uses added"
