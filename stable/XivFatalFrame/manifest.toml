@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/XivFatalFrame.git"
-commit = "5677812a0fb7b259f127847c2d243c29183b4985"
+commit = "90d9cc98d8f6a00d259712db772ac095bbee0b07"
 owners = ["Glyceri",]
 	changelog = """
-[1.2.0.0]
-- Actually updated for API14.
-- Actually fixed a bug where achievements could trigger repeatedly.
+[1.2.0.1]
+- Achievements should no longer desync on your client. (Don't worry, the game still registered every achievement you did, the client just wouldnt become aware).
 """
