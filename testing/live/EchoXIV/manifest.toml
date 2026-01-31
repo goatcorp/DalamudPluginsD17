@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "ed54512"
+commit = "f854437"
 owners = ["ssalazar217"]
 changelog = """
 v0.1.0.18:
@@ -9,4 +9,5 @@ v0.1.0.18:
 - Refactor: Native WPF implementation (static typing, removal of `dynamic`).
 - Build: Enabled `<EnableWindowsTargeting>` and `<UseWPF>` for stronger integration.
 - Fix: Resolved resource duplication and minor refactoring in hooks.
+- Fix: Pinned RuntimeFrameworkVersion to 10.0.0 for CI compatibility.
 """
