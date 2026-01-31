@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/ssalazar217/EchoXIV.git"
+project_path = "EchoXIV"
+commit = "299672c1bf7f972452afc968fafff6f3f604f13d"
+owners = ["ssalazar217"]
+changelog = """
+v0.1.0.18:
+- Refactor: Full migration to `IPlayerState` (removed deprecated `ClientState.LocalPlayer`/`ObjectTable`).
+- Refactor: Native WPF implementation (static typing, removal of `dynamic`).
+- Build: Enabled `<EnableWindowsTargeting>` and `<UseWPF>` for stronger integration.
+- Fix: Resolved resource duplication and minor refactoring in hooks.
+- Fix: Applied `KnownFrameworkReference` workaround for Plogon CI (NU1102).
+"""
