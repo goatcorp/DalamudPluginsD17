@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lackyas/TTD-s-Conditional-Tweaks.git"
-commit = "0800de0d05f685eaad5bb0f59faa336648f16f64"
+commit = "2a3351e7332c142cdf8bea3926a31b52bfa637ad"
 owners = ["lackyas", "TheThirdDoor"]
 project_path = "ConditionalTweaks"
-changelog = "Update to Dalamud14, FFXIV7.4, add hudlayout and input device detection."
+changelog = "Removed some logging that was too verbose."
