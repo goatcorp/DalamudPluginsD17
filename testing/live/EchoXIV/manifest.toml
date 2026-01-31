@@ -1,13 +1,16 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "f854437"
+commit = "fa4f707811a3b29b1cf7a32ac72b1346683cefbb"
 owners = ["ssalazar217"]
 changelog = """
-v0.1.0.18:
-- Refactor: Full migration to `IPlayerState` (removed deprecated `ClientState.LocalPlayer`/`ObjectTable`).
-- Refactor: Native WPF implementation (static typing, removal of `dynamic`).
-- Build: Enabled `<EnableWindowsTargeting>` and `<UseWPF>` for stronger integration.
-- Fix: Resolved resource duplication and minor refactoring in hooks.
-- Fix: Pinned RuntimeFrameworkVersion to 10.0.0 for CI compatibility.
+v0.1.0.17:
+- New: Persistent Message History (saved to disk).
+- New: Modern Search & Filter UI for past global chat messages.
+- New: Smart Failover 2.0 (intelligent retry on rate limits).
+- Improvements: Corrected Windows 11 Mica/Acrylic effects.
+- Improvements: Configurable per-channel colors in WPF overlay.
+- Review Fixes: Implemented UTF-8 sanitization, migrated to ImRaii, and cleaned up manifest/hooks.
+
+[CI Note]: The attempted update to v0.1.0.18 (Native WPF / Windows Targeting) was reverted due to build incompatibilities with Plogon CI (NU1102/RuntimeFrameworkVersion issues).
 """
