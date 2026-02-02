@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/teechep/FATEhelper.git"
+commit = "4390af5c12be69e1e2ea4bd204b2cd9eff72ec6e"
+owners = ["teechep"]
+project_path = "FATEhelper"
+changelog = "added option to display and sort by level"

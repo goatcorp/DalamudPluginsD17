@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "2fa04ecd25c4346b71425e25538f23bf1ceefb00"
+commit = "80e20ada9d5086d928663092655cf292879cb4d1"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Version 1.1.0: API14/7.4.
-- **Currency**: Fix currency history saving.
-- **Progress**: Add Starlight
+- **Config**: Move timer config to its own tab
+- **General**: Add dye icons on gear pieces.
+- **Progress**: Add Valentione 2026.
+- **Timers**: Config option for adding cross mark for unlocked timer instead of emptiness
 """

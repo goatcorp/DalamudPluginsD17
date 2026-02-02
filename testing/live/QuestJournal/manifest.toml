@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "18715f6fcfe60ad0309edabd9c7e313318cb035a"
+commit = "817d499823dbaf26c6e0e16275c1321a95b43858"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
 changelog = """
-- Bumped version to 1.3.0.0
-- Fetched new quest data from 7.4
-- Updated quest fetcher to work off names instead of ids
+- Bumped version to 1.3.0.3
+- New Category 'Areas' is now available under Features. This contains all side quests for each area.
 """

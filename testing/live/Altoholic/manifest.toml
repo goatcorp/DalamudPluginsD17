@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "2fa04ecd25c4346b71425e25538f23bf1ceefb00"
+commit = "a162730312c5a4f5c0706d0a0ef0be0942963cd1"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Version 1.1.0: API14/7.4.
-- **Currency**: Fix currency history saving.
-- **Progress**: Add Starlight
+- **Timers**: Add Mini cactpot, Jumbo cactpot, Fashion report timers tracking
 """

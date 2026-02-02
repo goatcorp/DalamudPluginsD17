@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c542405ba9810edcf041ada820db7394785d9cb5"
+commit = "6015fc822e45c41504ea85e1478957e99793ff61"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.1.9"
-changelog = "### Fixed\n- Shops that yield more than 1 item when being purchased will be factored into craft lists correctly\n- Fixed certain shops not highlighting correctly when there was more than 1 shop listing available\n### Added\n- The total quantity available column can now be configured to provide a total of any combination of NQ/HQ/Collectible items\n- Added a \"Add to Favourites\" context menu setting"
+version = "1.14.0.3"
+changelog = "### Fixed\n- Fixed broken market hook\n- Fixed the first plot being tracked as an apartment\n- Fixed certain tooltips expanding out of control\n### Changed\n- 7.41 data update\n### Added\n- Oizys item sources added\n- Gearset item uses added"

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "177eb34795427816a198905e7c01be57ee8644ee"
+commit = "6876e3c15fa62786059859a1cd238f4c686e0ec1"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Updated for API13
-- Potential instability when switching from built-in graphics configs, let me know if you encounter any issues.
+- Updated for API14
+- Fixed a bug wherein the shadow cascade settings would not work
 """
 
