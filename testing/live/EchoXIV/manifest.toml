@@ -1,13 +1,15 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "299672c1bf7f972452afc968fafff6f3f604f13d"
+commit = "44a628c83d710b7e1c9a7b618bf0509886ed2abb"
 owners = ["ssalazar217"]
 changelog = """
-v0.1.0.18:
-- Refactor: Full migration to `IPlayerState` (removed deprecated `ClientState.LocalPlayer`/`ObjectTable`).
-- Refactor: Native WPF implementation (static typing, removal of `dynamic`).
-- Build: Enabled `<EnableWindowsTargeting>` and `<UseWPF>` for stronger integration.
-- Fix: Resolved resource duplication and minor refactoring in hooks.
-- Fix: Applied `KnownFrameworkReference` workaround for Plogon CI (NU1102).
+v0.1.0.21:
+- Feature: Smart window mode selection in welcome screen with context-aware recommendations.
+- Feature: Automatic ScreenMode detection (Fullscreen/Windowed/Borderless) using IGameConfig.
+- Feature: Visual warnings based on detected display mode (Fullscreen → Dalamud window recommended, Windowed/Borderless → WPF window recommended).
+- Feature: User can manually override recommendation regardless of detected mode.
+- Localization: Added complete translations for new UI in EN, ES, DE, FR, JA.
+- UI: Increased WelcomeWindow size to 500x550 to accommodate new selection interface.
+- Fix: Improved WPF auto-scroll reliability in ChatOverlayWindow.
 """
