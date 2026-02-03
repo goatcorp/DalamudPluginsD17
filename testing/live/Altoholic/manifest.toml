@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "343585d351c4f62e31ed5b28f9c515872dfca226"
+commit = "9a998feb19b8267a409913a7997d724ed56172d9"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add automated backup on plugin version update. 
-- **Timers**: Fix timer resets when on reset day but before reset hour
+- **Timers**: Another weekly reset timer fix
 """
