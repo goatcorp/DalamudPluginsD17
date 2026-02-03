@@ -1,6 +1,7 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "20184f1fc19a26b4625e1c31e28aa64ca93a526b"
+commit = "a45b241658e9177515491e9ce73b97e1e6d84b1c"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Minor Event Additions, Config edits, fixes."
+
+changelog = "Potential fix in place for language options not saving properly. G'raha Tia & Alphinaud voice line fixes. Please report any issues you find!"
