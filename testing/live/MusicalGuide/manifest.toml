@@ -1,5 +1,9 @@
 [plugin]
 repository = "https://github.com/Sidiousious/musical-guide.git"
-commit = "6706154f20aba555d732c4e4d02bb987ab67596f"
+commit = "f91bed8ef29c365c88af19a6d8e946bd6359e291"
 owners = ["Sidiousious"]
 project_path = "MusicalGuide"
+changelog = """
+- camera no longer spins when exiting NPC dialog in real first person mode
+- camera no longer keeps its roll when mounting up in real first person mode
+"""
