@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "6015fc822e45c41504ea85e1478957e99793ff61"
+commit = "e5335f1c182e9e1f6f423169aa99fd30f68870ec"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.3"
-changelog = "### Fixed\n- Fixed broken market hook\n- Fixed the first plot being tracked as an apartment\n- Fixed certain tooltips expanding out of control\n### Changed\n- 7.41 data update\n### Added\n- Oizys item sources added\n- Gearset item uses added"
+version = "1.14.0.4"
+changelog = "### Fixed\n- Fixed hooks for 7.41hf1"
