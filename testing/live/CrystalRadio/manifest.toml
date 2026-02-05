@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Saevath/CrystalRadio.git"
-commit = "604c38876c0a721e3823b7db13dfe50f63fb2ea5"
+commit = "91f4b098b7e1fce0ee9083fbc1a66f162de67ef2"
 owners = [ "Saevath" ]
 changelog = """
 - Published testing version v0.0.0.1!
