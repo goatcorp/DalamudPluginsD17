@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "a45b241658e9177515491e9ce73b97e1e6d84b1c"
+commit = "f47ec9159cda453fffe52618ee10793b61359a92"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Fix issue with Japanese Language causing improper behavior, G'raha & Alphinaud lines fixed."
+changelog = "Minor Fixes"
