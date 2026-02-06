@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "817d499823dbaf26c6e0e16275c1321a95b43858"
+commit = "e6821d8615797f111e94268fbcf86d93cd3abbd3"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
 changelog = """
-- Bumped version to 1.3.0.3
-- New Category 'Areas' is now available under Features. This contains all side quests for each area.
+- Bumped version to 1.3.0.4
+- Yok Huy tribe quests have been added
+- Classes & Jobs have been split into categories
 """
+
