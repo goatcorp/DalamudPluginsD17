@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "7bf8af2a9df0795cf763f17490d60e69a6758d25"
+commit = "859f2c8fae792f5a4ea85fde4212a4572cc263d0"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.4"
-changelog = "### Fixed\n- Fixed hooks for 7.41hf1"
+version = "1.14.0.5"
+changelog = "### Added\n- Some of the data required by Allagan Tools is now cached in dalamud's DataShare. \n- Boot time after the initial load will be increased and other plugins relying on this will take advantage of it once updated.\n- If you prefer the data is not persisted, you can turn it off in settings via Troubleshooting -> Persist Cached Data"
