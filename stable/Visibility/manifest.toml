@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "5095fd6472920ba4b6852e1d5a3c0889ed3949d5"
-changelog = "- API 14 update"
+commit = "7a3de470a1e28b635403a19b8a3feda478a36e27"
+changelog = "- Migrated command handling to main thread\n- Fixed a bug with voidlist and whitelist not having the correct time set for new entries"
