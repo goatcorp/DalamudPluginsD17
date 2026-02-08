@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/ssalazar217/CharacterProfileSwitch.git"
+commit = "d0aa63c45595243ab0184be024665b946f1087db"
+owners = ["ssalazar217"]
+project_path = ""
+changelog = """
+v0.1.0.0:
+- Initial release.
+- Automatically switch plugin set when you log in with each character.
+- Group characters (Name@World) and assign a list of plugins per profile.
+- Use /cps to open settings.
+"""
