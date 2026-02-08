@@ -2,6 +2,6 @@
 repository = "https://github.com/Critical-Impact/Tippy.git"
 owners = [ "kalilistic", "Critical-Impact",]
 project_path = "src/Tippy"
-commit = "f6a52d9fbf4058830aed625bbd73d9c398f63f6c"
+commit = "b62cb77f7d6fd55c3c077f2a1d94d4747ef0da56"
 version = "1.14.0.1"
 changelog = "### Fixed\n- Fixed the translations not loading\n- Fixed an error where a invalid sound was trying to load"
