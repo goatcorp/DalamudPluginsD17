@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/meoiswa/TotalLevelPlugin.git"
-commit = "48095e8dd5cbfbea1199ab282645cb49c696559a"
+commit = "2a6849f4feedcb976073741faaac6b4ceff6eaf5"
 owners = ["meoiswa"]
 project_path = "TotalLevelPlugin"
 changelog = """
