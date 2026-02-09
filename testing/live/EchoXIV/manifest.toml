@@ -1,9 +1,15 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "3cc7ae68b904e78bae4364f92879f54dc5cb9b76"
+commit = "72834db061e9a3dce183f34d95cc44565c39e709"
 owners = ["ssalazar217"]
 changelog = """
+v0.1.0.23:
+- Cleanup: Removed redundant manual window positioning logic.
+- Fix: Resolved double-scaling issues in TranslatedChatWindow.
+- Fix: Improved focus detection logic for multi-client setups.
+- Refactor: Code cleanup and comment removal.
+
 v0.1.0.22:
 - Update ProcessChatBoxEntry hook: use UIModule.Addresses (FFXIVClientStructs), remove manual signature.
 - Reduce Info logs: only with VerboseLogging (Plugin, IncomingMessageHandler, ChatInterceptor).
