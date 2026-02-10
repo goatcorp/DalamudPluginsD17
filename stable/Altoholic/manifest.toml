@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "80e20ada9d5086d928663092655cf292879cb4d1"
+commit = "308a606c52687b76f68f7b00736502d7a9e1ef53"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Config**: Move timer config to its own tab
-- **General**: Add dye icons on gear pieces.
-- **Progress**: Add Valentione 2026.
-- **Timers**: Config option for adding cross mark for unlocked timer instead of emptiness
+- **General**: Add automated backup on plugin version update.
+- **Details**: Add housing last visit on mouse hover.
+- **Timers**: Add Mini cactpot, Jumbo cactpot, Fashion report timers, Duty Roulettes tracking. Fix Doman Enclave save spamming
 """
