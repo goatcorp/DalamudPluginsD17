@@ -4,6 +4,11 @@ commit = "8722a419945eb3766becfe068f2cae89082bc7a4"
 owners = ["Sidiousious"]
 project_path = "MusicalGuide"
 changelog = """
-- First stable release
+Musical Guide is a camera enhancement plugin,
+providing a customizable real first person view with your character visible,
+as well as limited automation of 3rd person camera distances to help avoid
+having to zoom in and out yourself when changing activities.
+
+Changes since testing:
 - Added a warning, when 1st person camera auto-adjustment is enabled
 """
