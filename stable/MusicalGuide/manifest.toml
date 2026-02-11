@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Sidiousious/musical-guide.git"
+commit = "8722a419945eb3766becfe068f2cae89082bc7a4"
+owners = ["Sidiousious"]
+project_path = "MusicalGuide"
+changelog = """
+- First stable release
+- Added a warning, when 1st person camera auto-adjustment is enabled
+"""
