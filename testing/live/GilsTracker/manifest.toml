@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/TheNickoos/GilsTracker.git"
+commit = "94225835e1d35fdc05421a01ad7583ec5d7539ad"
+owners = ["TheNickoos"]
+project_path = "GilsTracker"
+changelog = "Started plogon"
