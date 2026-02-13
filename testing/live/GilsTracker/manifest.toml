@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/TheNickoos/GilsTracker.git"
-commit = "039bf9ec3bbed47311ded5de8c413f091e015047"
+commit = "41d38cf5ffa323b0ba6cdd0878d2c271eb1d4af0"
 owners = ["TheNickoos"]
 project_path = "GilsTracker"
 changelog = "DTR will not being updated every frame now"
