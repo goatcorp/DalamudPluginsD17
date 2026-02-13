@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "813530e2434bcf82b257853eae0ebe3a3548b103"
+commit = "00b65444c3d0ed0125758a4a29dab3fce921f6fc"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
