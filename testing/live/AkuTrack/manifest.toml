@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/amki/AkuTrack.git"
+commit = "c95113fbb8ef8608513570c1a376e1c3f16437a9"
+owners = ["amki", "Akurosia"]
+project_path = "AkuTrack"
+changelog = "Fix bottom bar cursor position"
