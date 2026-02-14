@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "9bd377569c8e61be111bfba33960c325cea06a28"
+commit = "fcacdda1361e8fede8746f6bd30af67bae4793b9"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-- Changed "PopulateWhenCreatingProfile" config to true by default.
-- Fixed the profile deletion not targetting the chosen one.
-- Fixed the UI breaking when the profile list is empty.
+- Removed the warning toast for last version.
+- Fixed an issue regarding non-existing backup folder.
+- Fixed an issue with empty profile saving.
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "7d69affe383a02db37c8bff4ab1887ab1593ce2f"
+commit = "dfb19665385ed85cb3b30b45684aa05feff5b98d"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fix item tooltips
+- Update to FFXIV 7.4 and Dalamud 14
 """

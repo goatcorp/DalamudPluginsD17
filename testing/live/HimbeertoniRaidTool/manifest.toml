@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
-owners = [ "Koenari" ]
-project_path = "HimbeertoniRaidTool"
-commit = "64dee41fd15210fdf1c612bed27627e0b70fdf8e"
-changelog = """
-User Interface: Better input for dates and times
-    User Interface: Can now add any character to a raid session"""

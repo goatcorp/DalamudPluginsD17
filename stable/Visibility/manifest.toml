@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "b4d18ae2bcc03297fd3e39405fd9f83824654963"
-changelog = "- API 13 update\n- Added an option to only hide players when in combat"
+commit = "7a3de470a1e28b635403a19b8a3feda478a36e27"
+changelog = "- Migrated command handling to main thread\n- Fixed a bug with voidlist and whitelist not having the correct time set for new entries"

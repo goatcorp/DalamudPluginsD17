@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "38c5278a73afbbe1e50db4992b1d8a3ed83645f4"
+commit = "00b65444c3d0ed0125758a4a29dab3fce921f6fc"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Bump to 1.0.0 for stable release
+- **Config**: Add frontline timer checkbox config.
 """

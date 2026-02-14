@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
+commit = "9358c78525fde21ba81ffb714c7763a59ce4244e"
+owners = ["ImOv3rburdened"]
+project_path = "LapCatCounter"
+changelog = "v1.0.21 - Fixed lap detection issues where laps could restart or track incorrect players. Lap tracking now requires a valid target within 0.4 distance and fully stops when the target moves away or you stand up, resuming only after sitting again. Improved cooldown and stability checks to prevent accidental or duplicate lap counts, fixed sit emote ID resets, fixed entering gpose tracks as sitting in your own lap, and improved time tracking and debug accuracy."

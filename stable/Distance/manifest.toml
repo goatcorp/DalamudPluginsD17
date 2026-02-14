@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "aa7027c352337b2bfec126c3c5591b661ad58c6a"
+commit = "2c80bc84fe76699603fbff6d4779f4544f30b1df"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Updated for Dalamud API 13.  Thank you damolitionn!
-- Miscellaneous code cleanup.
+- Updated for Dalamud API 14.  Thank you damolitionn!
 '''
