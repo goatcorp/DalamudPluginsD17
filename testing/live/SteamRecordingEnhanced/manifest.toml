@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/RokasKil/SteamRecordingEnhanced.git'
-commit = '47353d120fb92b801606b0f9300f0e436d34b772'
+commit = '8d27f9a974a45d6a905842ce60fa93915490b8c3'
 owners = [ 'RokasKil' ]
 project_path = 'SteamRecordingEnhanced'
 changelog = """
