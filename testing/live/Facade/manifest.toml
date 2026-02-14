@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/Facade.git"
-commit = "f7a9806edc4bcab5d985c4346b80c2d5f06b4ff0"
+commit = "9ff479ee9753be20cbf0ecb8c4b728d5aaafdf16"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-Change your neighbours' housing exterior appearance.
-- Fixed plugin description being overwritten by an indescriptive one.
+- Fixed an issue that caused functionality from certain plugins to break in housing areas.
 """
