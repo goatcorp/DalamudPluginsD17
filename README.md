@@ -40,12 +40,14 @@ There are a few technical things that you must do before submitting your plugin 
 
 - Fork this repository, or use the GitHub web editor (press `.` in the repo, or press the ✏ icon on an existing manifest)
 - In your fork, make `stable/(plugin name)/manifest.toml` (or `testing/live/(plugin name)/manifest.toml` - note that we prefer that new plugins go to `testing/live`, so that the wrinkles can be worked out before they go out to the wider audience). For more information, [see here](https://github.com/goatcorp/DIPs/blob/main/text/17-automated-build-and-submit-pipeline.md#guide-level-explanation).
+  - `maintainers` are GitHub usernames allowed to push updates to this plugin. `owners` are GitHub usernames that are considered an authority over the plugin. They are automatically maintainers and are who we will contact for any inquiries regarding this plugin.
 
   ```toml
   [plugin]
   repository = "https://github.com/goatcorp/SamplePlugin.git"
   commit = "765d9bb434ac99a27e9a3f2ba0a555b55fe6269d"
-  owners = ["goaaats"]
+  owners = ["plo"]
+  maintainers = ["gon", "goaaats"]
   project_path = "SamplePlugin"
   changelog = "Added Herobrine"
   ```

@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Sidiousious/musical-guide.git"
+commit = "db0ba2ebb299c58c3d2c4ddfdbed9ba175d18056"
+owners = ["Sidiousious"]
+project_path = "MusicalGuide"
+changelog = """
+- fixed an issue where the wrong camera could be hooked, depending on when the plugin loaded
+- polished settings UI further
+- added warning about 1st person auto-adjust setting
+"""

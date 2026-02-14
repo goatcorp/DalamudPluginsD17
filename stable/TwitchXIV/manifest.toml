@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TwitchXIV.git"
-commit = "27061d56d914ce207cd2e621ef37281872f14c6c"
+commit = "d6afb9941bde8a586cccc27a84a55b2cf38c1f08"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Update for 7.4\n- Added a handler for incorrect login credentials\n- Standardized the format of stuff printed to the chat box"
+changelog = "- Fix for the weird auth issues, thanks twitch API"

@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "80742bd6c11dc4f945b25c32fcfc91bd00b9cb5f"
+commit = "12d5fb875053a93fc1e0aa7c705a1655d629f98e"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Compatibility with 7.3 and Dalamud 13.
-- Fixed minor bug allowing export of DoH jobs with DoH soulstones.
+- Changed display of command help messages to highlight shorter commands.
 """

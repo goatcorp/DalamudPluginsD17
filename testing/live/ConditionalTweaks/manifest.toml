@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/lackyas/TTD-s-Conditional-Tweaks.git"
-commit = "3416c60b11fdebe40b4f0ddedd01d7a6f12ba845"
-owners = ["lackyas"]
+commit = "c320da0fb8fae81ab96fbd46bc9ceedcb70963ce"
+owners = ["lackyas", "TheThirdDoor"]
 project_path = "ConditionalTweaks"
-changelog = "Initial release"
+changelog = "Removed some logging that was too verbose. And added conditions for each role."

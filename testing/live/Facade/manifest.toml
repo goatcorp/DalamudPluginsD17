@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/keifufu/Facade.git"
+commit = "f7a9806edc4bcab5d985c4346b80c2d5f06b4ff0"
+owners = ["keifufu"]
+project_path = "."
+changelog = """
+Change your neighbours' housing exterior appearance.
+- Fixed plugin description being overwritten by an indescriptive one.
+"""

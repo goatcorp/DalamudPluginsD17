@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "3966963152676954fdbc23b74e2a19ba9df329ff"
+commit = "f34061a9d58d761fbfafa3fe0877ac51dfdf87ec"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Update for 7.4 / api 14
-- Fixed naming inconsistencies for certain Job Gauge Trackers
+- Fixed an issue with triggering certain gauge tweaks (such as RDM's Magicked Swordplay cue)
+- Added separate tracker options for MNK's Chakras (1-5 and 6-10)
 """

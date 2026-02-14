@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "9f9cdafcab452d3f22b5be82942b2a15270da6ba"
+commit = "2ba4d40eae7c88f706583ac3752cea00df45a64a"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Updated to API14 and patch 7.4
+Maintenance:
+- Include Decals when using layout saving (fixes scorch marks in Tuliyollal)
 """
