@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/Miu-B/rec-cue.git"
-commit = "36d35bb9cfc5c41e60c0a5760d9ca91934353ecf"
+commit = "0289d68de526fd13cb46bc3f03bc9aee277e008b"
 owners = ["Miu-B"]
 maintainers = ["Miu-B"]
 project_path = "rec-cue"
 changelog = """
-- Initial release to official repository
-- Configure via /reccue command
-- Monitors configurable folder for file write/modification activity
-- Shows in-game [Rec] indicator (red=pulsing when active, grey=on hold, orange=error)
-- Adjustable indicator position, scale, and visibility
-- Auto-restart monitoring when folder error is resolved
+- Replace polling-based file monitoring with FileSystemWatcher + directory-scan polling hybrid for efficient and reliable detection (including Wine/Linux compatibility)
+- Add xUnit test project with 22 tests
+- Update CI to pass version from git tag
+- Fix assembly version, LoadPriority, and documentation
 """
