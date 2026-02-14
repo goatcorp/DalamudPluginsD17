@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/Miu-B/rec-cue.git"
-commit = "36d35bb9cfc5c41e60c0a5760d9ca91934353ecf"
+commit = "9679757fd3b56bc4256d1462cfd5881be342f7da"
 owners = ["Miu-B"]
 maintainers = ["Miu-B"]
 project_path = "rec-cue"
 changelog = """
-- Initial release to official repository
-- Configure via /reccue command
-- Monitors configurable folder for file write/modification activity
-- Shows in-game [Rec] indicator (red=pulsing when active, grey=on hold, orange=error)
-- Adjustable indicator position, scale, and visibility
-- Auto-restart monitoring when folder error is resolved
+- Add multi-folder monitoring: configure up to 5 folders simultaneously (e.g. Steam Game Recording + OBS output)
+- Fix OBS indicator flashing caused by buffered writes (poll grace period + increased inactivity timeout)
+- Redesigned config window with per-folder Browse/Remove and Add Folder button
+- Automatic config migration from single-folder to multi-folder format
 """
