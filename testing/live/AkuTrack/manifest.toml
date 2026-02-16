@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/amki/AkuTrack.git"
-commit = "02ea8114658e3cdc2fa11226cda56721bade2fd3"
+commit = "290795cb7e4e393ca655519b7f971938e517bff7"
 owners = ["amki", "Akurosia"]
 project_path = "AkuTrack"
 changelog = """
+- Change hashing to ignore client locale
+- Add SearchWindow stub
+- Only render downloaded data when there is no local
+- Make downloaded markers faded
 - Add new window to display additional information about GatheringPoint
 - Fix markers in locations with map offset (e.g. Solution Nine)
 - Mark hovered markers so it is easier to tell what is being opened by clicking
