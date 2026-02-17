@@ -1,6 +1,15 @@
 [plugin]
 repository = "https://github.com/amki/AkuTrack.git"
-commit = "c95113fbb8ef8608513570c1a376e1c3f16437a9"
+commit = "40f736b02a95ca0c0ed53d43acd3e04a8729c4c7"
 owners = ["amki", "Akurosia"]
 project_path = "AkuTrack"
-changelog = "Fix bottom bar cursor position"
+changelog = """
+- Change hashing to ignore client locale
+- Add SearchWindow stub
+- Only render downloaded data when there is no local
+- Make downloaded markers faded
+- Add new window to display additional information about GatheringPoint
+- Fix markers in locations with map offset (e.g. Solution Nine)
+- Mark hovered markers so it is easier to tell what is being opened by clicking
+- Improve plugin description somewhat
+"""
