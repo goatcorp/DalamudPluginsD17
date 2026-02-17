@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Rietty/PartySortPlus.git"
-commit = "cfd260c7974597627a5602d1b147b6b1630de98f"
-owners = ["Rietty"]
+repository = "https://github.com/tenyu27/PartySortPlus.git"
+commit = "08429c72ca761cf71fdc0e81f49dc10071203915"
+owners = ["Rietty","tenyu"]
 project_path = "PartySortPlus"
-changelog = "Initial testing release!"
+changelog = "Update to support 7.4 changes."
