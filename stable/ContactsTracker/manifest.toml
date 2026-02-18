@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/DueDine/ContactsTracker.git"
-commit = "a1b7e548b6f4ae8779114f58cae4f177765883e1"
+commit = "6bdd36812cec3e598d2c6f976fee123e38ee58f4"
 owners = ["DueDine"]
 project_path = "ContactsTracker"
 changelog = """
-[1.0.8.0]
-- API 14 Support
+[1.0.9.0]
+- Added date filters in Analyze
+- Import / Export now run in the background
+- Improved performance by reducing unnecessary refreshes and caching
+- Fixed several UI / cleanup issues
 """
