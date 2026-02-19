@@ -1,0 +1,17 @@
+[plugin]
+repository = "https://github.com/GayPotatoEmma/Ascian-Music-Player.git"
+commit = "ffe7d4de12a86f0c2de07fef587933404455ee54"
+owners = [ "GayPotatoEmma" ]
+project_path = "Ascian Music Player"
+changelog = """
+__Initial Release__
+Features:
+- Play your local music files ingame
+  - Supports .mp3, .wav and .flac
+- Display your current song in the Server Info Bar
+  - Left click to open the main window, right click to (un)pause your music
+- Automatically pulls the song information from your music file metadata
+- A simple mini player for whenever you don't need to see the entire list
+- Option to automatically mute ingame music
+- Choose which channel the music comes through so you can use the ingame volume sliders
+"""
