@@ -1,14 +1,15 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "17ec2be5c4a37a6c35bac435b8fb8f2ca69947b4"
+commit = "5b0cd2a41a166732aa51d7c29e146616265e456d"
 owners = [ 
 	"KhloeLeclair"
 ]
+maintainers = [
+	"BoxuChan"
+]
 project_path = ""
 changelog = """
-Updated for FFXIV 7.3 and Dalamud API 13.
+Updated for FFXIV 7.4 and Dalamud API 14.
 
-* Added: Share Nickname setting, which lets you set a name for yourself that shows up if someone shares the party's WTSync status.
-* Changed: Only respond to left-clicks when clicking on a Wondrous Tails duty to prevent conflicts with the new native context menu.
-* Changed: Start tracking sticker positions for eventual inclusion into statistics so we can see how many players get 1, 2, or 3 lines.
+As a general note, sorry for the delay on this one and thanks to Boxu for handling the update.
 """
