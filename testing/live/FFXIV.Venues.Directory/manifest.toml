@@ -1,0 +1,10 @@
+﻿[plugin]
+repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
+commit = "96ade0497c31adccf0ded4a2fa00509034dd752c"
+owners = ["AEBus"]
+project_path = "FFXIV.Venues.Directory"
+changelog = "Initial submission to the official Dalamud plugin repository."
+
+[plugin.build]
+platform = "win"
+architecture = "x64"
