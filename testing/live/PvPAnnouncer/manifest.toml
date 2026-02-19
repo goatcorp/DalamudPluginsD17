@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "0699ea82c7db06b8bc76a8f731ba00bd9dabc9f8"
+commit = "6f2c97995ae45f8859cad2cebd709892b2c07c29"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Softlaunched voiceline and event editor window. Very rough around the edges. Please let me know of any issues!"
+changelog = "Voiceline and Event Editor Window now have some guidance."
