@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Beletre/JobMountRoulette.git"
-commit = "2d5e6c5bb3985e909809ab3f218ed4d6c5aa54bc"
-owners = ["Beletre"]
-project_path = "JobMountRoulette"
-changelog = "Add a popup on right-click for each mount that shows which jobs have the mount assigned and allows toggling per-job assignment. Left-click still toggles the mount for the current job."
