@@ -1,7 +1,7 @@
 # stable/BeastieBuddy/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/BeastieBuddy.git"
-commit = "d1b2faa929fdf80258467427ea90e35a7126e742" 
+commit = "143a43dbe31277738e962b214c71ed1f5d82ddd6" 
 owners = ["rail2025"]
 # project_path = "BeastieBuddy" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v1.3.1.0:API 14, 7.4\nv1.3.0.0: Added visual guidepoint on overworld, toggleable. Added command line search (e.g. /bbuddy <mob_name>). \nv1.2.0.0: Added the Blue Mage Spellbook tab! You can now browse, search, and track all Blue Mage spells and their sources.\nv1.1.1.1: patch 7.3/API 13 support"
+changelog = "v1.3.3.0: UI adjustments and data syncing improvements.\nv1.3.1.0:API 14, 7.4\nv1.3.0.0: Added visual guidepoint on overworld, toggleable. Added command line search (e.g. /bbuddy <mob_name>). \nv1.2.0.0: Added the Blue Mage Spellbook tab! You can now browse, search, and track all Blue Mage spells and their sources.\nv1.1.1.1: patch 7.3/API 13 support"
