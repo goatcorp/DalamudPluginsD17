@@ -1,0 +1,25 @@
+[plugin]
+repository = "https://github.com/ssalazar217/EchoXIV.git"
+project_path = "EchoXIV"
+commit = "72834db061e9a3dce183f34d95cc44565c39e709"
+owners = ["ssalazar217"]
+changelog = """
+v0.1.0.23:
+- Cleanup: Removed redundant manual window positioning logic.
+- Fix: Resolved double-scaling issues in TranslatedChatWindow.
+- Fix: Improved focus detection logic for multi-client setups.
+- Refactor: Code cleanup and comment removal.
+
+v0.1.0.22:
+- Update ProcessChatBoxEntry hook: use UIModule.Addresses (FFXIVClientStructs), remove manual signature.
+- Reduce Info logs: only with VerboseLogging (Plugin, IncomingMessageHandler, ChatInterceptor).
+
+v0.1.0.21:
+- Feature: Smart window mode selection in welcome screen with context-aware recommendations.
+- Feature: Automatic ScreenMode detection (Fullscreen/Windowed/Borderless) using IGameConfig.
+- Feature: Visual warnings based on detected display mode (Fullscreen → Dalamud window recommended, Windowed/Borderless → WPF window recommended).
+- Feature: User can manually override recommendation regardless of detected mode.
+- Localization: Added complete translations for new UI in EN, ES, DE, FR, JA.
+- UI: Increased WelcomeWindow size to 500x550 to accommodate new selection interface.
+- Fix: Improved WPF auto-scroll reliability in ChatOverlayWindow.
+"""
