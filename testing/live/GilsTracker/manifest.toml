@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/TheNickoos/GilsTracker.git"
+commit = "7fa52f6e57e8b5270991fc6f66ec7d849854017c"
+owners = ["TheNickoos"]
+project_path = "GilsTracker"
+changelog = '''
+Initial release. 
+Tracks gil gained and spent during your play session, with optional Server Info Bar display showing net gil and gil per hour.'''
