@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Dalamud.CharacterSync.git"
-commit = "5a1ddebb77a0762e772a7c7abcb1e40a85d4e225"
+commit = "196cd2b912f07995ba223200f63a4203a3856c0a"
 owners = [
 	"goaaats",
 	"reiichi001",
@@ -8,6 +8,5 @@ owners = [
 ]
 project_path = "Dalamud.CharacterSync"
 changelog = """
-Removed the warning message window and switched to using the notification system.
-Changed how the FFXIV configs are located. It should now support backups on all platforms.
+You can now configure how many backups are saved. There's also a button in the /pcharsync menu to open up the backups folder for easier access.
 """
