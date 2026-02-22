@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "5a9b4b233d5da378a952a054c9369a3c4394ccd7"
+commit = "a29043ab0c298a6167eadc2cdbac010dae616ccf"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
-- API14 compat, migrate from SharpDX to TerraFX (except compiler)
-- Fix Dalamud UI cursor positioning (apparently broken since late API13)
-- Implement scaling via fake backbuffer ("internal" mode), working around GPU driver bugs
-- Improve exclusive fullscreen mode support
+- Fix crashes and hangs and other issues when disabling the plugin
+- Fix crashes and hangs and other issues when switching between modes
 """
