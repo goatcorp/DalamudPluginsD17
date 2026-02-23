@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/keifufu/Facade.git"
-commit = "9ff479ee9753be20cbf0ecb8c4b728d5aaafdf16"
-owners = ["keifufu"]
-project_path = "."
-changelog = """
-- Fixed an issue that caused functionality from certain plugins to break in housing areas.
-"""
