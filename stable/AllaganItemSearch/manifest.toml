@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "fbb642df4953e0ac2391a96f73a2b2b647961577"
-owners = [
-    "Critical-Impact",
-]
+commit = "ac1af1307850f50859ec5050920427de26ee5094"
+owners = [ "Critical-Impact",]
 project_path = "AllaganItemSearch"
-version = "1.2.0.0"
-changelog = """\
-### Fixed
-- Support for 7.4
-"""
+version = "1.2.0.1"
+changelog = "### Added\n- Source/Uses added for Anima Shops, Anima Weapons, Zodiac Weapons, Gearsets, Pilgrims Traverse, Oizys\n- Some of the data required by Allagan Item Search is now cached in dalamud's DataShare.\n- Boot time after the initial load will be increased and other plugins relying on this will take advantage of it once updated.\n- If you prefer the data is not persisted, you can turn it off in settings via Troubleshooting -> Persist Cached Data"

@@ -1,12 +1,16 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "f87fc997840f8b083e2554756294a2a1e2545fa8"
+commit = "86662f4dab1ecce5f1758a121d6323118311b54f"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Patch 7.4 update (Dalamud 14)
+- Update IPC
+- Clear highlights when item acquired
+- Try to fix some menu highlights
+- Update Quinnana hack
+- Add barebones support for SpecialShop categories
 """
-version = "2.12.0.0"
+version = "2.13.0.0"

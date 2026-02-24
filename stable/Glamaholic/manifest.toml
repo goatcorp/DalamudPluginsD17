@@ -1,9 +1,12 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '6b80c1c781b34b1923df1a95b4ddbe2aaae2d8b1'
+commit = '30542e1b1e1b4d41db78996695964b6f2b2b8d93'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed an edge case where outdated offsets could result in invalid glamour plate state
+- Valuable dyes are now factored into the item selection process when applying plates
+  - Previously, the selection process was all or nothing. It will now attempt to find a match with a valuable dye, or an item with any matching dye first
+- Dyes on items already in the current plate will no longer be ovewritten and waste a dye
+- Plates should now always fully apply and refresh on first try
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

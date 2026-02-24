@@ -1,0 +1,7 @@
+# stable/AetherialArena/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/AetherialArena.git"
+commit = "b9f26f9db2aef398045ab95f8cdad6001ee48fc1" 
+owners = ["rail2025"]
+# project_path = "AetherialArena" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "v1.0.0.0: stable release, no changes from previous\nv0.9.9.3: api 14/7.4\nv0.9.9.2:Update to Dalamud api 13/patch 7.3, fix credits scrolling bug\nv0.9.9.1: reset ui scaling button, manual input"

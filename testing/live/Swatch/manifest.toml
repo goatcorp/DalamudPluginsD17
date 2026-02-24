@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/sleepybnuuy/swatch.git"
+commit = "2624e0b5a9362a3dcc69241992431f9228a42723"
+owners = ["sleepybnuuy"]
+project_path = "Swatch"
+changelog = "initial release"

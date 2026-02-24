@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "438e267c9418b23f58a480b31b3b4e598588df43"
+commit = "307a20621f0cadae6ef2feed1ef3442c7dcfc74f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timer/Config**: Fix tab crash
+- **Timers**: Jumbo cacpot reset timer fix
 """

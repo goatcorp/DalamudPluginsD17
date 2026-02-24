@@ -1,10 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/Tippy.git"
-owners = [ "kalilistic", "Critical-Impact" ]
+owners = [ "kalilistic", "Critical-Impact",]
 project_path = "src/Tippy"
-commit = "3bfc85a7ead14310c53cc628fbe0efaca6fcc957"
-version = "1.14.0.0"
-changelog = """\
-### Fixed
-- Support for 7.4
-"""
+commit = "b62cb77f7d6fd55c3c077f2a1d94d4747ef0da56"
+version = "1.14.0.1"
+changelog = "### Fixed\n- Fixed the translations not loading\n- Fixed an error where a invalid sound was trying to load"

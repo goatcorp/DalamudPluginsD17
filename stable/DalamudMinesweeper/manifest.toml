@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "0e1bf84475ed45a7f66a5e71f27bad67280c4b93"
+commit = "47d0f2cf3e15f7f60d55be92ba5148c786ce6f67"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for api13"
+changelog = "Fix an error when loading images"

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "e2f2c573a1c28e24eb339cb45a6585c7ca5d7e0a"
+commit = "b1825f67f6ff676a527d58d6931636e94cf99c1e"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
-- Move internal utilities to submodule utils library
+- Fix crashes and hangs and other issues when disabling the plugin
+- Fix crashes and hangs and other issues when switching between modes
 """

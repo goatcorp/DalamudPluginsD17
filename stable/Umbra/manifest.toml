@@ -1,25 +1,24 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "52043e45a6fff74945930be83ee2a85c37f6be69"
-owners = [
-    "haroldiedema",
-    "alexpado",
-    "Bloodsoul"
-]
+commit = "109531df367aa312a92ac67e5feb2493b07ec181"
+owners = [ "haroldiedema" ]
+maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.10
+# Umbra 3.1.11
 
 ## Fixes & Improvements
 
-- Tidied up some code & updated drawing library (By [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated Umbra for compatibility with Dalamud API 14 (By [wolfcomp](https://github.com/wolfcomp)).
-- Dynamic Menu: Hide 'Move to Top' and 'Move to Bottom' context menu entries for 'Add Item' entry (By [alexpado](https://github.com/alexpado)).
-- Some small fixes for 7.4.
-
-## Known Problems
-
-- Msq Widget: The progress bar currently only counts overall progression. This is due to invalid data being retrieved.
+- Fixed an issue where custom plugin couldn't use ImGui (By [alexpado](https://github.com/alexpado)).
+- Added some missing icons to the icon picker (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed Occult Crescent Survey Point translations (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Added markers for Occult Crescent Carrots (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Added ability to enable label for the Volume widget. (By [GayPotatoEmma](https://github.com/GayPotatoEmma) & [Bloodsoul](https://github.com/Bloodsoul)).
+- Added Mark Hunt Bill mobs to Hunt markers (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Added ARR Relic book target markers (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Fixed an issue where marker were rendered for dead mobs (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Improved Treasure Chest marker (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Added categories to the Dynamic Menu widget (By [Ivinedra](https://github.com/Ivinedra)).
 
 ---
 

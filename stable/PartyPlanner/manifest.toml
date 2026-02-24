@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "d261e467397368f9d7e2876d647e0aee56547008"
+commit = "57fcedca16f557d4070ebb4c8dd00fc87e8b12fa"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """- Updated to API 13.
+changelog = """- Improved UI rendering performance.
 """

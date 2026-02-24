@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/FFXIV-Sonar/SonarDistrib.git"
-commit = "d26d0b5d862283bb168c8d2ce676b4f7e5566e0e"
+commit = "ea62fb5308121a04834e9d6dc6925264c1e99579"
 owners = ["rreminy"]
 project_path = "SonarPlugin"
 changelog = "Check Sonar News for more information: https://news.ffxivsonar.com"
@@ -9,5 +9,4 @@ changelog = "Check Sonar News for more information: https://news.ffxivsonar.com"
 PLUGIN = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA4bLpBdM5NGxXBS3Tb6zs0I8W4RjUX6Z/K9hZDFlF\nAEQwcyGnv+U+mlJ9Q4MrNTiR9aaxbMhZtOPE3O55V4JBX8g41bvPSzQNm1X2\nSf6lnvtl0sB2AdTD62QRKmKWty8qn90BiaeSsqwfBOVm2zZRAo+DiomOsqnw\nwbSEZiD++9oSnmhM1AdQV33p9ByZQP8G2+YkYg6FtjkHRfQfkeSUSXuiQ7o7\nw2WI1ti3c5RKGVLM82LSYP7kYiM60cjNxI9d0i8S0hT6MM5RzUXPboIP9aLj\n1hH2o0BdtatG/ClNtUkG8g8p2UQpSHWexSotdHajPM1KjffskCD2hODLfwQp\nj+O+whcHpATK9Jaf/t6IBTuywge6YQwalyeXoQqQ6oxbRNqOZf5+ZYp74Cxt\nO6k0AMCiilWQ+kUvlEspm8AIzYa8K57a31baU0TAl+T1TmZp+BbIpvLFVdQp\nNf3tilQd1deDSCKEVJ3kFVodC5BARW43RHga/FYFaXZ1HRdOczTwje6diVix\nML84eg==\n=UdR6\n-----END PGP MESSAGE-----\n"
 SONAR = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdA7KKPS3i31oSpg+3+yyJDFY74q7Sr98lpS0TlB/+1\nNTcwJxkhIj2p6tlLDFCd4Dte6fDt9NTJ+tt0Obej3+b4cDyf1N69oF2BXEXs\n2BubUZ3Z0sB1ATQBWMk823pKiYf9PP51M2gThjVv1ky2ArH+SM4Tx0QXNBjv\ncaSOo9qDbZWg8TKDj6B92TUXcURNoQli8dkiCwtucRbjyrqp9f5jrchuO9Kt\nXkZ5DfQcrq4ljVE3ZQknQrXg7bAitr3SGnNJbKt4vxz2RZdmwd6RfA2FnNcy\nv4wUOSQ0MM2BU/qyw0HMdOV/k5tugc8/ZoJM8zoRxID0RpRCZ1KHT8XkGFZI\n80Ithq39iiuZenSMnuE4EWnZvdUHuD04k+TQa09vipNhquCa5ygxaE/0utNP\nJVRUECbaKYM+RSRfos5HVOCSQgnMVaVF7k4w32r3bnohePf7/53IdXzJODYV\n8fufOBJZueN4ypYf6rm7c0M1oQ6Y7PGuJNe8Ju6ju87Fjkw352l5d9VJL/2n\nkOk6\n=zvfs\n-----END PGP MESSAGE-----\n"
 UTILS = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAGZhLjsuB/iLxGNOMRrVD1GOMtiLuORzh3c/tj28D\ndnQw8767FF+Cp1G1qZsBz9T+mIUwlW5ZgUqY0w6tQnwUJy9tY45Ps/tKMqBD\nuS7IadJO0sB1AXxJal43XH3PQidNaTkncEEHyVJ2bDjnn0RXvoMN4AzYcjYY\nmI6Hh7h3wo31gmNWJifZVGX5Uuh7br/yPhgUR8F5bwRT30jk47aMAr/qZrKZ\nZkMpd7ZlkKzAA4vmjirVz5yAXkKYqAVIV3XB15KCBSUm0vk3X3eiQo9NFWYF\nLzfVuoen2wfPrm22aoLeUBqOZAcKVrlX7zcYKxko+Nalnv2/AELBoSeUIyn/\nSrjegxiWJ76tzLYbnpwkICN37BR/5kEWnuvax217n/lVJdX35B1DNwfgBTuA\np1jql5neT45LCA0FUyz1WAdJ0At3MlfXY2EC98VM6RD+6tCl+9ATLQDpDlZU\nZGIqtzqvrs2uEmrhJuSAUgHhRlQJuQtZOTI97PebwcA6jB8h3MY5zfpxyHBc\nrTb9\n=2vR9\n-----END PGP MESSAGE-----\n"
-
 
