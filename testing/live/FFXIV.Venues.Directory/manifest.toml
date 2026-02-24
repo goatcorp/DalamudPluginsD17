@@ -3,4 +3,3 @@ repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
 commit = "e422441325c53f476109718021f69cefc761f417"
 owners = ["AEBus"]
 project_path = "FFXIV.Venues.Directory"
-changelog = "Initial submission to the official Dalamud plugin repository."
