@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
-commit = "5246384bc39d7688a911d30db2c932d60a39dfd1"
+commit = "ef4b039bd76ca51e41dbd7f6c182c4a73b11cba6"
 owners = ["AEBus"]
 project_path = "FFXIV.Venues.Directory"
+
 
 
 
