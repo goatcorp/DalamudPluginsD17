@@ -3,4 +3,4 @@ repository = "https://github.com/Valiice/JobAutoSwitcher.git"
 commit = "0ce628b135896c133fc5ee30eeeee93381b6972b"
 owners = ["Valiice"]
 project_path = "JobAutoSwitcher"
-changelog = "Add settings UI, gearset preferences, slash commands, job icons, and Ko-fi button"
+changelog = "Switches gearsets to match the queued job when clicking commence.\n Initial Release"
