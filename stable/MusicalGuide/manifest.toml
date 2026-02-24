@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Sidiousious/musical-guide.git"
-commit = "db0ba2ebb299c58c3d2c4ddfdbed9ba175d18056"
+commit = "4975af35a49b386c7a008807ac83edc66c727d6c"
 owners = ["Sidiousious"]
 project_path = "MusicalGuide"
 changelog = """
-Initial stable release.
-
-Musical Guide is a camera enhancement plugin, providing a customizable real first person view with your character visible, as well as limited automation of 3rd person camera distances to help avoid having to zoom in and out yourself when changing activities.
+- added a new option to use full motion in stationary emotes while keeping reduced motion for gameplay
+- fixed an issue where the camera would not rotate with the character when using reduced motion
 """
