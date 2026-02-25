@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/MaJoRX0/KeepAfk.git"
-commit = "ec93f2113d0631743cbd6b47a4a12e3ad43ece7a"
+commit = "839a5314804fe13653734e0bec52d4407e46c5ef"
 owners = ["MaJoRX0"]
 project_path = "KeepAfk"
-
 changelog = "Initial testing release"
+
 
