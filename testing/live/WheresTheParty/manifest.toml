@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/BSDGurl/WheresTheParty"
+commit = "e2172ec2ce7b918d7f9fe5e716b2cf27fb4bd250"
+owners = [ "BSDGurl" ]
+project_path = "Where's the Party/WTP.csproj"
+changelog = '''
+Initial release of Where's the Party.
+
+• Venue submission with character‑verified player tokens
+• Live venue list with refresh and sorting
+• Stable identity model using ContentId
+• Cloudflare Worker backend with rate‑limited endpoints
+• Clean UI for browsing and posting venues
+'''
