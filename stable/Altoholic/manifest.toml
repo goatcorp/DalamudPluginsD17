@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "00b65444c3d0ed0125758a4a29dab3fce921f6fc"
+commit = "8b7207b54ea70c3f311b61c81a886fd0003cc90b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Config**: Add frontline timer checkbox config.
+- **Progress**: Add Little Ladies' Day 2026
 """
