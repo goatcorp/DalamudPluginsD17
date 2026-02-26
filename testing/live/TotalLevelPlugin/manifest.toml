@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/TotalLevelPlugin.git"
-commit = "48095e8dd5cbfbea1199ab282645cb49c696559a"
+commit = "2a6849f4feedcb976073741faaac6b4ceff6eaf5"
 owners = ["meoiswa"]
 project_path = "TotalLevelPlugin"
 changelog = """
-- Adds a suffix to the Character's Name in the Search Info panel totaling the level of their jobs/classes, similar to Runescape.
-It is done entirely with values available in the SocialDetailB Addon, by reading the text fields used to display the levels of each job individually.
+Adds a suffix to the Character's Name in the Search Info panel totaling the level of their jobs/classes, similar to Runescape.
 
-Version 0.0.0.2:
- - Update to API14
+Version 0.0.0.3:
+ - Feat: Added a Context Menu entry on player right click to open their Search Info.
 """

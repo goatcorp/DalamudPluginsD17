@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "a02cf6e1032d713fcacaa478575239fed570c4c2"
+commit = "4390af5c12be69e1e2ea4bd204b2cd9eff72ec6e"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "updated to objectTable for v14. added a compass option to show fate direction, updated teleport faq text and icon draw functions"
+changelog = "added option to display and sort by fate level"

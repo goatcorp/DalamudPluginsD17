@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
-commit = "1dc8b1d24265010ed93759b6c039cfcc44e999dc"
+commit = "9358c78525fde21ba81ffb714c7763a59ce4244e"
 owners = ["ImOv3rburdened"]
 project_path = "LapCatCounter"
-changelog = "Updated the LapCatCounter plugin to version 1.20.0. Fixed a bug where comfig resets emote ID's to 0 and doesnt track laps. Adjusted cooldown for time between laps counted to 30 seconds to prevent spamming the same lap or accidental counts from movement. ADded a tiem tracker for how long you sat in someone's lap per person, total time in laps, and max time spent on a single lap in one go."
+changelog = "v1.0.21 - Fixed lap detection issues where laps could restart or track incorrect players. Lap tracking now requires a valid target within 0.4 distance and fully stops when the target moves away or you stand up, resuming only after sitting again. Improved cooldown and stability checks to prevent accidental or duplicate lap counts, fixed sit emote ID resets, fixed entering gpose tracks as sitting in your own lap, and improved time tracking and debug accuracy."

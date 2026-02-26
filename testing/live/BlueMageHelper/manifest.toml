@@ -1,11 +1,7 @@
 [plugin]
-repository = "https://github.com/Infiziert90/BlueMageHelper.git"
-commit = "cc5f7a8f39494e9a6c641d78500b8328a1df4bd8"
+repository = "https://github.com/harbingerftw/BlueMageHelper.git"
+commit = "5dd6fd979b6af9c4fac29042af0d8d9ae9e044c5"
 owners = [
-    "Infiziert90",
+    "harbingerftw",
 ]
 project_path = "BlueMageHelper"
-changelog = """
-+ Add min lvl info to duties
-+ Change plus/minus to arrows
-"""

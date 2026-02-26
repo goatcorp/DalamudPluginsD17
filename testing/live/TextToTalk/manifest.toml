@@ -1,17 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "39839ff80df3102392be14c99c74241b2afef32d"
+commit = "3d309a4544407aacf6b980c9569e377f1579054b"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Added voice styles for ElevenLabs, Azure, and OpenAI backends - bring more personality to your TTS with emotion and tone tags! Open the styles window with /tttstyles or the "Voice Styles" button, click a style to copy its tag, and paste it into your chat (e.g., [[Whispering]] Hello World).
-- **General**: NPC/Player voice preset assignments are now unique per backend.
-- **General**: Fixed voice preset deletion issues across multiple backends.
-- **General**: Fixed System backend issue where skipped dialogue would still generate audio.
-- **General**: Voice dropdowns now show additional metadata (gender, language, style support) across all backends.
-- **ElevenLabs**: Added model selection for ElevenLabs backend.
-- **OpenAI**: Added support for new voices (Cedar and Marin).
-- **Polly**: Added Generative and LongForm voice engines.
-
-Thanks to Flabber Babble for all the new features and fixes in this update!
+- **General**: Fixed outgoing tells being spoken with "Skip messages from you" enabled.
 """

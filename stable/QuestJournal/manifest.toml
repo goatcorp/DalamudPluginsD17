@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "1767a2b0709fc12f6b0d318199eb4907e3627312"
+commit = "bfee5f7dcd80c1334afc721b20455d644ea897b6"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
 changelog = """
-- Bumped version to 1.3.0.1
-- Fixed quests not appearing in the correct order
-- Fixed missing quest data for Post-Dawntrail
+- Bumped version to 1.4.0.0 and updated Dalamud SDK
+- Added: Chronicles of Light, Hildibrand, Records of Unusual Endeavors, Weapon Enhancement quests and more.
+- Added: Role and delivery quests.
 """

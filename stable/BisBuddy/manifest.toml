@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "f154e0f4dc86a4dda3fb0273c48e5f4a870a2cda"
+commit = "c8b7eef60a85b58794e874a8c1ca75594d9c0421"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
 **Added**
-- Tutorial info and improved tooltip for materia tab
+- Changed default strict materia matching value to off
 **Fixes**
-- Fix issue with Xivgear gearsets being unknown job
+- Fixed bug with some inventory changes not triggering auto updates
+- Fix gearset nav buttons being invisible with certain dalamud styles
+- Fix gearset job type for importing gearsets on non-en game clients
 """

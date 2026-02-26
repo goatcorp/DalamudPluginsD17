@@ -1,6 +1,7 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "d343fe7e815f0228749a8efa785319b52623745a"
+commit = "a45b241658e9177515491e9ce73b97e1e6d84b1c"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "New Announcer Delay feature. Edits to internal structure that *shouldn't* be noticable. Ping me in discord if you encounter anything strange!"
+
+changelog = "Potential fix in place for language options not saving properly. G'raha Tia & Alphinaud voice line fixes. Please report any issues you find!"

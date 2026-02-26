@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "50504d31782dc851f1b35bb9109eeadeb011dfac"
+commit = "41d97df1f7b7136f3b4f761037a952d3c14b9899"
 owners = ["Glyceri",]
 	changelog = """
- [1.1.0.0]
-- Updated for API14
+ [1.1.0.1]
+- Achievements should no longer desync on your client. (Don't worry, the game still registered every achievement you did, the client just wouldnt become aware).
 """

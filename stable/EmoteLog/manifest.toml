@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = '7a75ba65c1d31dbc9c941456f1c454f15925afa9'
+commit = '9ff38f9e404eaec37ce863aa6073a0b4c916ce52'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Mark /el as obsolete and add /elog in place of it
+- Remove /el command
 """
 

@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "368a1c58813a39acbb50b35f9436fea6096dd9ae"
+commit = "bfee5f7dcd80c1334afc721b20455d644ea897b6"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
 changelog = """
-- Bumped version to 1.3.0.2
-- You now have the option `Mark completed repeatable quests`
-This will mark repeatable quests if they have already been completed as completed permanently.
+- Bumped version to 1.4.0.0 and updated Dalamud SDK
+- Added: Chronicles of Light, Hildibrand, Records of Unusual Endeavors, Weapon Enhancement quests and more.
+- Added: Role and delivery quests.
 """

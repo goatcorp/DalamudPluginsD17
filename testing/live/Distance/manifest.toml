@@ -1,19 +1,12 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "ee52eab4da06dc4620db338cf48528a40c9600cc"
+commit = "569a41b039ebc0b27432296271030fc50ae80d67"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
 Testing Release:
-- Added a custom arcs feature to match custom widgets.
-- Rewrote config UI.
-- Added job filters to all distance displays.
-- Added a filter for in and out of instance.
-- Applied other filter types to displays that did not have them.
-- Improved nameplate node setup to more closely match the base game.
-- Fixed a bug that caused nameplate text nodes to not be properly cleaned up during plugin unload.
-- Improved logging.
-- Significant code cleanup and reorganization.
+- Added an option to control displaying distances specifically during Duty Recorder playback.  This is enabled by default and ignores other condition settings.
+- Added an option to show distances from the selected character instead of your own character during Duty Recorder playback.  This is enabled by default.
 '''

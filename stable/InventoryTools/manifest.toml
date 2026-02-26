@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "55af25124c7e2c95fcfeb8b08e895bdeacd02a19"
+commit = "0398fe39b1cda755f5171efa34f469fe004297f6"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.1"
-changelog = "### Added\n- Added the desynthesis skill delta column\n- Added the is glamour ready set column\n- Added the is glamour ready set item column\n### Fixed\n- Fixed error being thrown if a character was deleted but still referenced by another character in the owner column\n- Fixed submarine locations being shown as the letter instead of the name and letter\n- Context menu actions taken at the marketboard should provide the correct item instead of gil"
+version = "1.14.0.6"
+changelog = "### Fixed\n- Windows should save their position correctly along with keeping their correct position when the UI is hidden\n- Trying on items shouldn't interfere with the Save/Delete outfit button unless trying on more than 1 item"

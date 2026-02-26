@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
+commit = "10d12484788d5db8be5cb32d95881d4993e3ab91"
+owners = ["ArcaneAj"]
+project_path = "WachuMakeyMaking"
+
+changelog = """
+If universalis has trouble, the problem is now displayed to the user rather than just defaulting mysteriously to shop prices.
+It will now auto swap jobs when clicking the recipe icon to view in the recipe log.
+Plugin icon also updated (screenshot of an aetheryte is far too generic)
+"""
