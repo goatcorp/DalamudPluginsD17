@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sidiousious/musical-guide.git"
-commit = "4975af35a49b386c7a008807ac83edc66c727d6c"
+commit = "4af34ff917dbed6f3589582bd160e34b281b32fa"
 owners = ["Sidiousious"]
 project_path = "MusicalGuide"
 changelog = """
-- added a new option to use full motion in stationary emotes while keeping reduced motion for gameplay
-- fixed an issue where the camera would not rotate with the character when using reduced motion
+- added option to use first person tracking in gpose
 """
