@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "21e2a32794601298de26db4b4a4603aa66ba48c3"
+commit = "39daee9cca56dfc52121a5099b3bab57e33c4db5"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
-Yet another commit
+Icon should be there!
 Initial release of Where's the Party.
 
 • Venue submission with character‑verified player tokens
