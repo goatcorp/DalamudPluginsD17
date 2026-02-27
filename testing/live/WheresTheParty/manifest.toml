@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "a835680328ad22abb1341040884cab66fd3521b2"
+commit = "2c9fdbca3694021ee5f85e813b9380ab75726824""
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
-Moved image from root to Images folder, to see if that helps.
+checked and made sure to update any image incon references in the code. As well moved image to image folder in PR.
 Initial release of Where's the Party.
 
 • Venue submission with character‑verified player tokens
