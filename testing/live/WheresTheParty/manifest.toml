@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "2c9fdbca3694021ee5f85e813b9380ab75726824"
+commit = "87aa4cd99692b356fdf74df0a9f6670b8970ac6c"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
-checked and made sure to update any image incon references in the code. As well moved image to image folder in PR.
+Added DalamudApiLevel and loadpriority to the json
 Initial release of Where's the Party.
 
 • Venue submission with character‑verified player tokens
