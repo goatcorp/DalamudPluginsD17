@@ -4,6 +4,12 @@ commit = "f152a693c861528c281b0685f2f35f9a4c203b49"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
-Since last stable:
-- Work around a Dalamud installer bug breaking manifest .json
+Since 1.1.2.0:
+- Work around a Dalamud plugin install bug which breaks the manifest .json
+Since last working stable:
+- Move internal utilities to new shared utility
+- API14 compat, migrate from SharpDX to TerraFX (except compiler)
+- Fix Dalamud UI cursor positioning (apparently broken since late API13)
+- Implement scaling via new internal mode to work around GPU driver bugs and crashes
+- Improve exclusive fullscreen mode support
 """
