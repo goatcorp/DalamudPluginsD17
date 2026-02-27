@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "39daee9cca56dfc52121a5099b3bab57e33c4db5"
+commit = "90f18239606283388d7ab28dd73274390af511ef"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
-Icon should be there!
+looks like I used the wrong slash in a json file, oops. This release is just a hotfix for that
 Initial release of Where's the Party.
 
 • Venue submission with character‑verified player tokens
