@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/BSDGurl/WheresTheParty"
+repository = "https://github.com/BSDGurl/WheresTheParty.git"
 commit = "e2172ec2ce7b918d7f9fe5e716b2cf27fb4bd250"
 owners = [ "BSDGurl" ]
 project_path = "Where's the Party/WTP.csproj"
