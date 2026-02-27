@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "87aa4cd99692b356fdf74df0a9f6670b8970ac6c"
+commit = "a4c0a202362950c922d99d7897273d68726dbd35"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
-Added DalamudApiLevel and loadpriority to the json
+renamed projectname in .sln and the .csproj filename
 Initial release of Where's the Party.
 
 • Venue submission with character‑verified player tokens
