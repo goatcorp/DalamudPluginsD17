@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "9a7f02c926e3fa10178308e6ecddc68145cfab7d"
+commit = "b5ae597070c02eb05fac4fbd23e7d278a6193b48"
 owners = [ "BSDGurl" ]
-project_path = "WherestheParty"
+project_path = "WheresTheParty"
 changelog = '''
 Initial release of Where's the Party.
 
