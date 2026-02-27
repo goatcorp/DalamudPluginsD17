@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "90f18239606283388d7ab28dd73274390af511ef"
+commit = "a835680328ad22abb1341040884cab66fd3521b2"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
-looks like I used the wrong slash in a json file, oops. This release is just a hotfix for that
+Moved image from root to Images folder, to see if that helps.
 Initial release of Where's the Party.
 
 • Venue submission with character‑verified player tokens
