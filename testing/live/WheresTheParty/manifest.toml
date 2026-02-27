@@ -3,12 +3,4 @@ repository = "https://github.com/BSDGurl/WheresTheParty.git"
 commit = "f6039bbf099484e4f7689cf340667a35e7ac95a2"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
-changelog = "YAC"
-Initial release of Where's the Party.
-
-• Venue submission with character‑verified player tokens
-• Live venue list with refresh and sorting
-• Stable identity model using ContentId
-• Cloudflare Worker backend with rate‑limited endpoints
-• Clean UI for browsing and posting venues
-'''
+changelog = ```YAC'''
