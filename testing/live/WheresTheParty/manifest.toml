@@ -2,7 +2,7 @@
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
 commit = "b5ae597070c02eb05fac4fbd23e7d278a6193b48"
 owners = [ "BSDGurl" ]
-project_path = "WheresTheParty"
+project_path = "WherestheParty"
 changelog = '''
 Initial release of Where's the Party.
 
