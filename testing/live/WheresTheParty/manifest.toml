@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "b5ae597070c02eb05fac4fbd23e7d278a6193b48"
+commit = "834f9a4ee97b637d070b8a46a05d656e936732c3"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
