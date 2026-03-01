@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "f7c885b4372dff608f69ef69588f22b5eccf17ce"
+commit = "bf70979a7a3e31df5e029e3746c1fb143c7cf8c5"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
+Sorry for the double commit I made a small error.
+
 • Added Settings window;
 • Moved Auto Refresh for venue list into settings
 • Added 24hr toggle for those who complained about 12hr
