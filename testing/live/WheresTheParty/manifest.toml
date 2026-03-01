@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/BSDGurl/WheresTheParty.git"
-commit = "4482a24a05e3fa5a8c3ad7c91940306beddd292f"
+commit = "f7c885b4372dff608f69ef69588f22b5eccf17ce"
 owners = [ "BSDGurl" ]
 project_path = "WherestheParty"
 changelog = '''
-renamed the json to make the name of the csproj
-Initial release of Where's the Party.
+• Added Settings window;
+• Moved Auto Refresh for venue list into settings
+• Added 24hr toggle for those who complained about 12hr
+• Cleaned up some code
+• Verified that UTC Time converstion worked based on local time not submitted time so people don't show up to closed venues.
 
 • Venue submission with character‑verified player tokens
 • Live venue list with refresh and sorting
