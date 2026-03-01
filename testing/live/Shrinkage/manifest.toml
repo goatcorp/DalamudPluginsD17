@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/mikelosx/Shrinkage.git"
+commit = "04b110014e14852779fd584ffbd409d7d284a151"
+owners = ["mikelosx"]
+project_path = "Shrinkage"
+changelog = "initial, characters scale size based on hp and barrier"
