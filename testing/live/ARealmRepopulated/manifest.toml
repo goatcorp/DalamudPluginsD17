@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/NetStyx/ARealmRepopulated.git"
+commit = "e484b3592b97a366aa65e84151bb04cf086ee91e"
+project_path = "ARealmRepopulated"
+owners = [ "NetStyx" ]
+changelog = '''
+- Refined npc actions
+- Added onboarding wizzard'''
