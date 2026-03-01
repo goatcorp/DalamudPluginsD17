@@ -1,0 +1,20 @@
+[plugin]
+repository = "https://github.com/BSDGurl/WheresTheParty.git"
+commit = "bf70979a7a3e31df5e029e3746c1fb143c7cf8c5"
+owners = [ "BSDGurl" ]
+project_path = "WherestheParty"
+changelog = '''
+Sorry for the double commit I made a small error.
+
+• Added Settings window;
+• Moved Auto Refresh for venue list into settings
+• Added 24hr toggle for those who complained about 12hr
+• Cleaned up some code
+• Verified that UTC Time converstion worked based on local time not submitted time so people don't show up to closed venues.
+
+• Venue submission with character‑verified player tokens
+• Live venue list with refresh and sorting
+• Stable identity model using ContentId
+• Cloudflare Worker backend with rate‑limited endpoints
+• Clean UI for browsing and posting venues
+'''
