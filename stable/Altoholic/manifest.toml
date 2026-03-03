@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8b7207b54ea70c3f311b61c81a886fd0003cc90b"
+commit = "9e2fcd60fe2cf082f73e8267492f35eaa9d7eb7b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Little Ladies' Day 2026
+- **Collection**: Update facewear
+- **Progress**: Update Hildibrant
 """
