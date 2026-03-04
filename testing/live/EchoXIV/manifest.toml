@@ -1,9 +1,17 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "72834db061e9a3dce183f34d95cc44565c39e709"
+commit = "0901b828e7b0ebc3153f4364656acd2d0893c8c9"
 owners = ["ssalazar217"]
 changelog = """
+v0.1.0.25:
+- Fix command message display: Fixed an issue where explicit translated messages (/tl) were accidentally filtered out when 'Show Outgoing Messages' was disabled or evaluated incorrectly.
+
+v0.1.0.24:
+- Native SanitizeString: Implemented native Utf8String.SanitizeString() for chat messages.
+- Enhanced security by using game's native text validation.
+- Applied to both outgoing translation commands and chat box messages.
+
 v0.1.0.23:
 - Cleanup: Removed redundant manual window positioning logic.
 - Fix: Resolved double-scaling issues in TranslatedChatWindow.
