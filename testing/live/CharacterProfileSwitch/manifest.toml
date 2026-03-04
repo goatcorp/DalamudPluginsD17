@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ssalazar217/CharacterProfileSwitch.git"
-commit = "468a9e07637ee96c6ed743a642d8ad3241bd17da"
+commit = "996048f7c02a63d122d928f10faa546c1320491e"
 owners = ["ssalazar217"]
 project_path = ""
 changelog = """
