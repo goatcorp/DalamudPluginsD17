@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "225d3fee954e41830651db1bf85fa08aff5b6d93"
+commit = "ad11a729d25f9a401b9b2ff13c2f414b40dd001e"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Voiceline and Event Editor Window now have some guidance, fixed a few bugs."
+changelog = "Voiceline Creation, Event Editor have been cleaned up. Added New Voiceline Mute/Delete window."
