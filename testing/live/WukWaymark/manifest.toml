@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/Bronya-Rand/WukWaymark.git"
+commit = "40a43a09baa40053323096cb01d2d1e8f3bef15b"
+owners = [
+	"Bronya-Rand"
+]
+project_path="WukWaymark"
+changelog = """# What's New
+- Initial release of WukWaymark
+- Create and manage custom waymarks
+- Configure how waymarks are displayed on the map and minimap
+- Set different icons for waymarks (shapes)
+- Add personal notes to waymarks
+- Displays in-game locations and world locations by name"""
