@@ -1,0 +1,7 @@
+# testing/live/Aether48/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/Aether48.git"
+commit = "0f167dfac8ad5b6bc17041ac6b5829b349da63ed" 
+owners = ["rail2025"]
+# project_path = "Aether48" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "v1.0.0.2: bug fixes, see dalamud app store installer for plugin description\nv1.0.0.0: clean up \nv0.0.0.1: Initial release."
