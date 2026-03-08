@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "308a606c52687b76f68f7b00736502d7a9e1ef53"
+commit = "9e2fcd60fe2cf082f73e8267492f35eaa9d7eb7b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add automated backup on plugin version update.
-- **Details**: Add housing last visit on mouse hover.
-- **Timers**: Add Mini cactpot, Jumbo cactpot, Fashion report timers, Duty Roulettes tracking. Fix Doman Enclave save spamming
+- **Collection**: Update facewear
+- **Progress**: Update Hildibrant
 """
