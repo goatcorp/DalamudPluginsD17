@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/WukWaymark.git"
-commit = "f51e86408e0cc9d92bf3c590db0b9b809a637fd7"
+commit = "ac498777e9e37751f78177d28e1dd4b637cd15e2"
 owners = [
 	"Bronya-Rand"
 ]
