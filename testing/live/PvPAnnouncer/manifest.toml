@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "0fd67356013891c5719e2d354bfd0b7f53d02b0f"
+commit = "01a57728fc2febbdb01b2f3e140c6b03a1b13345"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Rework Complete - Letting this simmer in testing while I make a few voiceline packs."
+changelog = "Rework Complete - Letting this simmer in testing for a bit before migrating to stable."
