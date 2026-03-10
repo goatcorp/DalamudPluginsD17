@@ -1,20 +1,15 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/WukWaymark.git"
-commit = "7221b995f65f39ce59e05fb4c5f51819057c8236"
+commit = "0747285de3b66fc0f28080951bb54e2c2956479a"
 owners = [
 	"Bronya-Rand"
 ]
 project_path="WukWaymark"
-changelog = """# What's New
-- Initial release of WukWaymark to 'testing/live'
-- Create and manage custom waymarks
-- Configure how waymarks are displayed on the map and minimap
-- Set different icons for waymarks (shapes or game icons)
-- Add personal notes to waymarks
-- Displays in-game locations and world locations by name
-- Waymark Groups
-- Waymarks per individual character
-- Read-Only Shared Waymarks
-- Import/Export waymarks
-- Fade In/Out effect
-- Table/Group View for Waymarks"""
+changelog = """**Initial release of WukWaymark to 'testing/live'**
+## What's New
+- Create and manage custom waymarks that display visibly on both the Main Map and Minimap.
+- Highly customizable markers: Use simple shapes (with custom colors) or pick from hundreds of in-game icons.
+- Waymark Groups: Organize your waymarks into nested, collapsible categories.
+- Waymark/Group Scopes: Designate waymarks and/or groups as "Personal" (locked to your specific character) or "Shared" (visible to all characters that log in on your PC).
+- Read-Only Waymarks/Groups (for Shared Waymarks/Groups): Protect shared waymarks and groups as "Read-Only" so you (or someone else) don't accidentally edit or delete them!
+- Import/Export: Easy clipboard sharing to distribute groups of waymarks to your friends."""
