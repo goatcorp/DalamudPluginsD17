@@ -6,9 +6,15 @@ owners = [
 ]
 project_path="WukWaymark"
 changelog = """# What's New
-- Initial release of WukWaymark
+- Initial release of WukWaymark to 'testing/live'
 - Create and manage custom waymarks
 - Configure how waymarks are displayed on the map and minimap
-- Set different icons for waymarks (shapes)
+- Set different icons for waymarks (shapes or game icons)
 - Add personal notes to waymarks
-- Displays in-game locations and world locations by name"""
+- Displays in-game locations and world locations by name
+- Waymark Groups
+- Waymarks per individual character
+- Read-Only Shared Waymarks
+- Import/Export waymarks
+- Fade In/Out effect
+- Table/Group View for Waymarks"""
