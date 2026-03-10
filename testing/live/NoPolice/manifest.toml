@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "f323104f4a5b7299692626595e98d5d581b1e4c2"
+commit = "726deeb3b827333149bbcec32477340695474795"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
 changelog = "Add chat handler, performance improvements"
