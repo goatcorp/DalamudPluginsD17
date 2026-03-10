@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "f323104f4a5b7299692626595e98d5d581b1e4c2"
+commit = "4d32dd0aec11498c7453cf0ac8f3193341fccbaf"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
-changelog = "Add chat handler, performance improvements"
+changelog = "Fix load error on game restart"
