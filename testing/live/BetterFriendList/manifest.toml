@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "3cadc2da29d4e084327f379714f04767bf43343c"
+commit = "cc620f3c5ff0209109056925f62cb34cad9ba88e"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
@@ -9,6 +9,7 @@ add:
     collapse button on social (player search / friend list / party members)
     option to prevent friendlist to refresh on open
     option to show notes in native friend list
+    option to use color in native friend list
     option to keep same keybind for both native and plugin friend list
 fix:
     fix refresh when used on specific player 
