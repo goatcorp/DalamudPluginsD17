@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "b6c9c1d0a020120228eb2b144374acedbe85a7a2"
+commit = "557536f14c970c45ceaa5190b1589f8330834c63"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = "v0.2.0 Update - Overhauled triggers data structure. Triggers can now be grouped and organized into categories."
