@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "01a57728fc2febbdb01b2f3e140c6b03a1b13345"
+commit = "84c2b9004711c2fe9a21463397ad793db9376881"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Rework Complete - Letting this simmer in testing for a bit before migrating to stable."
+changelog = "Some Edits - Added More Cutscene Lines to data"
