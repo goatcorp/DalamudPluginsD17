@@ -1,7 +1,7 @@
 # testing/live/AetherGon/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherGon.git"
-commit = "8dd3c139641dd2649cea0ec187c72b44a8f5f487" 
+commit = "f1c23da5cbbcde0319e20f815c2903a0e5bd47a0" 
 owners = ["rail2025"]
 # project_path = "AetherGon" # Only uncomment and use if your .csproj is NOT at the root of your repo
 changelog = "v1.2.0.2:api bump\nv1.2.0.1: code clean up, see dalamud app store installer for plugin description\nv1.2.0.0:clean up assets, added seizure warning\nv1.0.0.0: Stable release, music, difficulty, high scores\nv0.0.0.1: Initial release."
