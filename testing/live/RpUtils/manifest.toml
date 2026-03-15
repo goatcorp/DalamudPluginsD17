@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/KassWasTaken/RpUtils.git"
-commit = "7e1e0602916837c0d797969a1a5de5969fa077cd"
+commit = "1476e7d23a65e14f138ce8dbed7c6f31deb745c3"
 owners = ["KassWasTaken", "erroch"]
 project_path = "RpUtils"
 changelog = """
+0.4.0 (2026.3.11)
+- Major refactor of the plugin
+- Adding first pass on roleplay activities to sonar
+
 0.3.2 (2025.12.27)
 - Updated for 7.4, migrated to Dalamud SDK
 
