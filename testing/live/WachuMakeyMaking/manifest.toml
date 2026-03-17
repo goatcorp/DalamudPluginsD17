@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
+commit = "5c50219dfa16b6d1ab1732b189c811296809b138"
+owners = ["ArcaneAj"]
+project_path = "WachuMakeyMaking"
+
+changelog = """
+Will now add items from opened retainer and saddlebag inventories, caching them until next opened.
+"""

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Sidiousious/musical-guide.git"
+commit = "4af34ff917dbed6f3589582bd160e34b281b32fa"
+owners = ["Sidiousious"]
+project_path = "MusicalGuide"
+changelog = """
+- added option to use first person tracking in gpose
+"""

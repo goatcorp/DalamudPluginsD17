@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Skyde789/GlamSwapCommandPlugin.git"
+commit = "810db21f039ef3587b2ac4c42292b7a9e5220329"
+owners = ["Skyde789"]
+project_path = "GlamSwapCommand"
+changelog = "Added new command"
