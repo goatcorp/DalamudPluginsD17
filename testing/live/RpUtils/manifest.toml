@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/KassWasTaken/RpUtils.git"
+repository = "https://github.com/Nerifyra/RpUtils.git"
 commit = "1476e7d23a65e14f138ce8dbed7c6f31deb745c3"
-owners = ["KassWasTaken", "erroch"]
+owners = ["Nerifyra", "erroch"]
 project_path = "RpUtils"
 changelog = """
 0.4.0 (2026.3.11)
