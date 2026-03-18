@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "4e7e06f972732d102505acec70400db9fa5dd5c7"
+commit = "4624cc1e429366f1b66addd9e9dddf9b7cf8e633"
 owners = ["twelvehouse"]
 project_path = "."
 changelog = "Initial release."
