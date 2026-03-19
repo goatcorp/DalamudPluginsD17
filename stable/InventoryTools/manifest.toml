@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "8461d036d3b379a42e6995177ae73275f50d1144"
+commit = "6113b027d9982482e3d8cb198f71f92f1d7193d3"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.7"
-changelog = "### Fixed\n- Fixed hooks for 7.45\n- Fixed issue with Remove column causing right click issues\n### Added\n- Added copy item name button column"
+version = "1.14.1.0"
+changelog = "### Added\n- First release of the new Compendium system\n  - A in-game encyclopedia/compendium system was added, allowing players to browse and view detailed information about the game including the following (quests, items, NPCs, duties, leves, classes, achievements, allied societies, airship/submarine routes, gearsets, shared models, and territories) and with more to be added.\n  - Wotsit integration to allow you to access each of the compendium listings easily\n  - This is technically a beta but as it is segregated from the rest of the plugin, it's being released directly to live\n  - More compendium types will be added with future releases\n  - If there's something you'd like to see implemented please submit an issue or hit up the Allagan Tools plugin help forum post!\n- Vendors that have submenus should highlight correctly"
