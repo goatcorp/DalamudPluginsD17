@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "87fc820ab7af8cbfeb2f5567780c5e25b3cfd724"
+commit = "2f5829bd476afd6c0836c7398c8002d9a9740872"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix mobile drag-and-drop in sidebar."
+changelog = "Fix: prevent accidentally sending /tell to yourself."
