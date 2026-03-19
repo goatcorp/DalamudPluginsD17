@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "4624cc1e429366f1b66addd9e9dddf9b7cf8e633"
+commit = "3bc8d4e4a4c9e5e463645412808c860f52b2fb97"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Initial release."
+changelog = "Add Ctrl+Enter to send setting; unify settings CSS."
