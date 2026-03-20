@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "1e50cb9dd1135e77a7d7d990d8b085ad5fa117a0"
+commit = "08b34d92a1334fe379ef8bff01d5114cb53ab4d0"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Clearing and regenerating voicelines now preserves chosen style."
+changelog = "Fixed bugs related to shoutcast creation."
