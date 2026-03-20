@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Blooym/Dalamud.Wholist.git"
-commit = "d542dadc4ea6d75ab4346fd80bef9419a96998d0"
+commit = "725a959e7e1cb57140d7bf70ca932d6789a03fbb"
 owners = [
     "Blooym",
 ]

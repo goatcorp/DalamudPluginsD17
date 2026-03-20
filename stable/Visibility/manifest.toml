@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "5095fd6472920ba4b6852e1d5a3c0889ed3949d5"
-changelog = "- API 14 update"
+commit = "6fa9126183b1b59bd528f41c0da688ca7bbc3f3e"
+changelog = "- Fixed an edge case with friend list, where players marked as friends didn't register as such when your relogged, or got out of a duty"

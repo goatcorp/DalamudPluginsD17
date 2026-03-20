@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "a43e7a0c515e885231f7850a1833cc6cd31f739d"
+commit = "bb4e697febaf8881c7e072af1a0b02f1bd27ac4c"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **System**: Fixes a crash when processing unclosed XML tags (such as "<3").
+- **ElevenLabs**: Fixed ArgumentOutOfRangeException when no models are available.
 """

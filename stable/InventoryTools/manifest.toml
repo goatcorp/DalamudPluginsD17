@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "928f5e79a1c4b992fc9b58b09a167ddd3d822657"
+commit = "bfc7ed00def948092fffa181f4b8c688270341c7"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.2"
-changelog = "### Added\n- Added a 'More Information' context menu setting for NPCs and Monsters\n- Added a 'Shared Models' panel to the NPC and Monster windows\n- Added 'Amount Owned' to the tooltip inside the imgui windows when hovering items\n- More spawn data added thanks to Tracky(props to Infi)\n### Fixed\n- Certain items were shown as being available on the market even though they aren't"
+version = "1.14.1.1"
+changelog = "### Added\n - Achievements, Leves, Airships, Dungeons, Gearsets, Quests, Submarines sources/uses now display a \"Compendium Entries\" list when right clicked. This will take you to the related view window for the related entry.\n - Chocobo Item and Chocobo Racing Items were added to the compendium"

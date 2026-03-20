@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "9dee0e1fd100ef97617f01cb5a3730b4c3300bbb"
+commit = "5369a7a4fd7d84c117ee0f1f40b553daf5c8b86d"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Patch 7.4 update
-* Converted times to UTC to handle DST transitions.
+* Add 7.4 and 7.5 time filter options.
 """

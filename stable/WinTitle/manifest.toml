@@ -1,8 +1,5 @@
 [plugin]
-repository = "https://github.com/rreminy/FFXIV.WinTitle.git"
-commit = "9fd5bf6f7ce7d01e3ba40835b17183f1d0185a80"
-owners = ["rreminy", "herulume"]
+repository = "https://github.com/GemPlugins/FFXIV.WinTitle.git"
+commit = "c30367409b38c034eda08fe85da8dfebc3011339"
 project_path = "."
-changelog = "API 14 bump"
-
-
+owners = ["rreminy"]

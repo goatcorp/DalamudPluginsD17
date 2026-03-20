@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "cf104f141e155c4800231e4c1ca30f11e0a5c7a8"
+commit = "9e2fcd60fe2cf082f73e8267492f35eaa9d7eb7b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Fix daily reset time comparison. Add config option to show timer icon on login.
+- **Collection**: Update facewear
+- **Progress**: Update Hildibrant
 """
