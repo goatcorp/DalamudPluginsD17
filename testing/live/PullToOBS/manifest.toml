@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Miu-B/PullToOBS.git"
-commit = "26d6b7303c2b1edeb69db108c7a74643022220cb"
+commit = "1c7e1c459315134ac4a62da2b4a978b0622e5cad"
 owners = ["Miu-B"]
 maintainers = ["Miu-B"]
 project_path = "PullToOBS"
