@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/MeiHasCrashed/OhHey.git"
-commit = "d5fd554b9a3f8a0102545f94f557f9b07a376ebf"
+commit = "e286a389f4e6abb2b004f8d5c9abbf6e48cc05e3"
 owners = ["MeiHasCrashed"]
 project_path = "src/OhHey/"
 changelog = """
-# Oh Hey 0.0.4
+# Oh Hey 0.2.0
 
-- Updated for API14
+- Added server bar to show number of players targeting you 
+- Names in chat are now clickable (by [Esper89](https://github.com/Esper89))
 
 Have fun !
 """
