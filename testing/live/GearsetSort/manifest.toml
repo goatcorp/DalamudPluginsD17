@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Ryan-RH/GearsetSort.git"
-commit = "c0624e576dcf3a88816b5e1bebe5c156a9d8ef30"
+commit = "64c2b4f6c1e04a6a904908d123757b017533db17"
 owners = ["Ryan-RH"]
 project_path = "GearsetSort"
