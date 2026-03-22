@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "2f5829bd476afd6c0836c7398c8002d9a9740872"
+commit = "db62813ea2d7d0cf30617d3676bf6b85960d4b1d"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: prevent accidentally sending /tell to yourself."
+changelog = "Fix: scale UI elements proportionally with font size setting."
