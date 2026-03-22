@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "08b34d92a1334fe379ef8bff01d5114cb53ab4d0"
+commit = "7bd4a94f80ab6e9a94cac8ab279768d984d9ed4d"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
 changelog = "Fixed bugs related to shoutcast creation."
