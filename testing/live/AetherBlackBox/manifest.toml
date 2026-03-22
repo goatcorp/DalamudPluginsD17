@@ -1,4 +1,4 @@
-# testing/live/AetherBlackBox/manifest.toml
+# testing/live/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
 commit = "d66d501ad9055df6ec1077246c06196cf22e837e" 
