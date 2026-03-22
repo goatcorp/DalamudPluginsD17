@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/OOFGamesss/EorzeaBingo.git"
+commit = "aa3952132754558e7bd92781fd9b76c9aef4f5ee"
+owners = ["OOFGamesss"]
+project_path = "EorzeaBingo"
+changelog = "First Release for Alpha testing"
