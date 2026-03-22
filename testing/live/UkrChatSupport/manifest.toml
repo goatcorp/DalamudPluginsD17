@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/richtertarnished/ukr_chat.git"
+commit = "7d7977d233861b09613a5411a608c8df2cec1367"
+owners = ["richtertarnished"]
+project_path = "UkrChatSupport"
+changelog = "Initial release: Support for Ukrainian characters in FFXIV chat input field"
