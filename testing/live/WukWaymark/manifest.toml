@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/Bronya-Rand/WukWaymark.git"
+commit = "2fbe8fe2e702c88987ca778441bff3853e639cce"
+owners = [
+	"Bronya-Rand"
+]
+project_path="WukWaymark"
+changelog = """**Initial release of WukWaymark to 'testing/live'**
+## What's New
+- Create and manage custom waymarks that display visibly on both the Main Map and Minimap.
+- Highly customizable markers: Use simple shapes (with custom colors) or pick from hundreds of in-game icons.
+- Waymark Groups: Organize your waymarks into nested, collapsible categories.
+- Waymark/Group Scopes: Designate waymarks and/or groups as "Personal" (locked to your specific character) or "Shared" (visible to all characters that log in on your PC).
+- Read-Only Waymarks/Groups (for Shared Waymarks/Groups): Protect shared waymarks and groups as "Read-Only" so you (or someone else) don't accidentally edit or delete them!
+- Import/Export: Easy clipboard sharing to distribute groups of waymarks to your friends."""
