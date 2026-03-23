@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "9e2fcd60fe2cf082f73e8267492f35eaa9d7eb7b"
+commit = "54fdf2c5b139fbdc3cf915099e3081441c1e364d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Collection**: Update facewear
-- **Progress**: Update Hildibrant
+- **General**: Add backup cleanup
+- **Progress**: Add Hatching-tide 2026
+- **Timers**: Raids
 """
