@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "ba169cf37357b8d4c325103a13cc51b92fa271ce"
+commit = "96292f2dc57b87d2ec634b8daf04bdbd30ef4d29"
 owners = ["seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.12
-- 7.4 update
+Collections v1.0.3.0
+- Additional & improved Tooltips and Filters
 """
