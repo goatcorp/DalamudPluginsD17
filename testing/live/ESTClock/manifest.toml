@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/seventity7/ESTClock.git"
-commit = "3da8b7aa6a039713a3aec3fe7161bf184b5dd019"
+commit = "6ca1541f172d8b8bcebbdb1face6e1bb8638f6d4"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
