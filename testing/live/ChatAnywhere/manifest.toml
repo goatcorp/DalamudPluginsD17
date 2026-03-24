@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "db62813ea2d7d0cf30617d3676bf6b85960d4b1d"
+commit = "8790509bc3052920a4a96cbd2627815336b52377"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: scale UI elements proportionally with font size setting."
+changelog = "Fix: add image URLs to plugin manifest."
