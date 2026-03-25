@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "8790509bc3052920a4a96cbd2627815336b52377"
+commit = "32672bc7775ba1edc7e98e461b96b60f7d36d5ed"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: add image URLs to plugin manifest."
+changelog = "Feat: add emote picker with icons, history, and log output toggle."
