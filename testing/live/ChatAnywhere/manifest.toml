@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "32672bc7775ba1edc7e98e461b96b60f7d36d5ed"
+commit = "049731c6c4e891582822443de53aac7a867132aa"
 owners = ["twelvehouse"]
 project_path = "."
 changelog = "Feat: add emote picker with icons, history, and log output toggle."
