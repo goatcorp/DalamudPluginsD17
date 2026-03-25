@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Shiori-Zephyr/Uwu-Chat.git"
-commit = "72c384ee0807e13960ff6c6f5ccfe9d566b24e0e"
+commit = "b4ad99101be192abb3a89daa97d1cad29736d6db"
 owners = ["Shiori-Zephyr"]
 project_path = "UwuChat"
 changelog = "Initial release"
