@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "049731c6c4e891582822443de53aac7a867132aa"
+commit = "dafefdded42abf190f43af0c4247da48aeefdb25"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Feat: add emote picker with icons, history, and log output toggle."
+changelog = "Fix: reduce input lag by moving chat input state local to prevent per-keystroke re-renders."
