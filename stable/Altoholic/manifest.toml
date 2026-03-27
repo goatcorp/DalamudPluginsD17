@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "54fdf2c5b139fbdc3cf915099e3081441c1e364d"
+commit = "5b8cf165acd90dca3ef06414e40254b63a11c761"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add backup cleanup
-- **Progress**: Add Hatching-tide 2026
-- **Timers**: Raids
+- **General**: Fix database creation for new install
+- **Progress**: Add Moogle trove of Aphorism
 """
