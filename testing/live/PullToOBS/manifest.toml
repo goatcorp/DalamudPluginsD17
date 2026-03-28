@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/Miu-B/PullToOBS.git"
+commit = "1c7e1c459315134ac4a62da2b4a978b0622e5cad"
+owners = ["Miu-B"]
+maintainers = ["Miu-B"]
+project_path = "PullToOBS"
+changelog = """
+- Initial release to official repository
+- Automatically starts OBS recording when entering combat and stops after a 5-second grace period
+- Saves replay buffer 5 seconds into the encounter to capture the prepull
+- Visual on-screen indicator showing OBS state (recording, replay buffer active, connected, disconnected)
+- Configure via /pulltoobs or /pto command
+- Toggle OBS connection from chat with /pto obs
+"""
