@@ -1,12 +1,16 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "e1e0df1a4b5bc3b2d4e65a760bc10a3c2aad9299"
+commit = "10b421b8b1574be71f5a8f7a7aaaa5bfb10f59a9"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-fix :
-- pf retrieve data not getting world and private tab
-add :
-- option for column size
-- search pf info if playerId not present in data before trying to open it
+add:
+    refresh button in native friend list
+    collapse button on social (player search / friend list / party members)
+    option to prevent friendlist to refresh on open
+    option to show notes in native friend list
+    option to use color in native friend list
+    option to keep same keybind for both native and plugin friend list
+fix:
+    fix refresh when used on specific player 
 """
