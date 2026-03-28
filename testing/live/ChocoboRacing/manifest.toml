@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/OOFGamesss/ChocoboRacing.git"
+commit = "ee12753ae9a60693d4217e9df81655593d48b3ad"
+owners = ["OOFGamesss"]
+project_path = "ChocoboRacing"
+changelog = "First Release for Alpha testing"
