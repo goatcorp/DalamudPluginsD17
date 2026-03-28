@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/twelvehouse/ChatAnywhere.git"
+commit = "dafefdded42abf190f43af0c4247da48aeefdb25"
+owners = ["twelvehouse"]
+project_path = "."
+changelog = "Fix: reduce input lag by moving chat input state local to prevent per-keystroke re-renders."
