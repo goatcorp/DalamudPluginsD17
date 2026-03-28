@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/puppyprogrammer/CommsLink-Voices-for-FFXIV.git"
+commit = "6c820641e85e649d103b0f85edb3d4e6eec787a8"
+owners = ["puppyprogrammer"]
+project_path = "plugin/FFXIVoices"
+changelog = "Initial release: TTS voices for FFXIV chat with Amazon Polly and ElevenLabs, proximity-based audio with distance falloff, credit system, auto-updater"
