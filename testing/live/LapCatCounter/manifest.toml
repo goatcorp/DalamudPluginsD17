@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
+commit = "b7dcbc5cce591b77741a6b413bb114b685c748ea"
+owners = ["ImOv3rburdened"]
+project_path = "LapCatCounter"
+changelog = "v1.0.22 - Reworked lap detection using sit/emote hook data plus positional validation. LapCatCounter now distinguishes between sitting in someone else's lap and someone sitting in yours, tracks the active partner and session role, avoids duplicate counts from reused sit events, and improves session/debug accuracy without changing the overall UI style."

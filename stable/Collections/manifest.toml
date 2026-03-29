@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "82456f07d7290d5063311c7e9e39c167a9372892"
-owners = ["Seventhxiv"]
+commit = "ba169cf37357b8d4c325103a13cc51b92fa271ce"
+owners = ["seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.11
-- 7.4 updates
+Collections v1.0.2.12
+- 7.4 update
 """

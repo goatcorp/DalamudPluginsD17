@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://codeberg.org/keysmashes/WhosTalking.git"
-commit = "becebe1784b1762152ec7d4e31bde5489bd40162"
+commit = "cdabcd06c857ff46e6a0dd2a6e15c0e44484ccbe" # version 0.8.8.0
 owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.7.0**
-
-Improved compatibility with other UI-editing plugins.
+Updated for API 14.
 """

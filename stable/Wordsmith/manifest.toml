@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
-commit = "56f2332e9508f18b1b88b1f7443d3c0df5b1fb03"
+commit = "3d54b27f69e555ec95704ce08cef2d697a0279a9"
 owners = [
     "MythicPalette"
 ]
 project_path="Wordsmith"
-changelog = """# Wordsmith v1.15.7 Patch Notes
-Updated to support API v13"""
+changelog = """# Wordsmith v1.16.0 Patch Notes
+* updated the \"Never Show Again\" button to be a checkbox instead.
+* Fixed an issue where an invalid channel option was being displayed on Scratch Pads.
+* "Show Text In Chunks" option was deprecated and removed.
+* Added a new option to maximize the input box.
+* Added a button that directs users to the Wiki page for Wordsmith.
+"""

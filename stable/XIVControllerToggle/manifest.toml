@@ -1,9 +1,12 @@
   [plugin]
   repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
-  commit = "a6cf20f62052674475dbfd877f82e350084e1cc7"
+  commit = "4410e869b71dc706325101539d0f697ff7e59e46"
   owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
   changelog = """
+  # The Great Controller HUD Switcher 1.2.3
+  - Updated to latest Dalamud API and FFXIV patch version, thanks @imvaskel
+
   # The Great Controller HUD Switcher 1.2.2
   - Updated to latest API version and FFXIV Patch, thanks @grecaun
   

@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "91dbf49e56182781ba818f1a45cd94ab20b356db"
+commit = "8725edce93f3bf5a20119752e7021828df05441f"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.3.2: 
- - API 14
- - Fix text color on dropdowns
+Version 1.3.3: 
+ - Add tooltip on "One turn rotation" options
 """
