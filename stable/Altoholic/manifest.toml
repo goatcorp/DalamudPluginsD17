@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "9e2fcd60fe2cf082f73e8267492f35eaa9d7eb7b"
+commit = "13080b74cfb8bfafc81950738f874bcbac960db3"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Collection**: Update facewear
-- **Progress**: Update Hildibrant
+- **General**: Fix database creation for new install
+- **Progress**:
+    - Add Moogle trove of Aphorism
+    - Add event rewards list when clicking on event name (Hatching hide 2026 only, will be retroactively updated)
 """
