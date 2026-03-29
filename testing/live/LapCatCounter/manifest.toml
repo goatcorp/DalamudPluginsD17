@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
-commit = "0b82de3f48b7353eb958fea33f33ebf50d6b2a1f"
+commit = "ee20692dc810519d15203265aaeb376156718239"
 owners = ["ImOv3rburdened"]
 project_path = "LapCatCounter"
 changelog = "v1.0.24 - Fixed loops detection pickign the wrongg emotes for lap detection, i.e. usign wringhands and someone sat on you would trigger thinking you were the original sitting lap."
