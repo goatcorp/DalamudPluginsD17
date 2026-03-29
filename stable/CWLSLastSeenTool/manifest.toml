@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "746f731e0268cc1659ea3aa60f173df37b5a4072"
+commit = "4df5b4a51a2ce214c3cc6a7d457de817812af6d4"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
 changelog = """
