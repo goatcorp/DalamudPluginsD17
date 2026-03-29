@@ -1,11 +1,11 @@
 [plugin]
-repository = "https://github.com/Bronya-Rand/WukWaymark.git"
-commit = "2fbe8fe2e702c88987ca778441bff3853e639cce"
+repository = "https://github.com/Bronya-Rand/WukLamark.git"
+commit = "a205199e75406add43d7c48a793e0a5a8c8d9c09"
 owners = [
 	"Bronya-Rand"
 ]
-project_path="WukWaymark"
-changelog = """**Initial release of WukWaymark to 'testing/live'**
+project_path="WukLamark"
+changelog = """**Initial release of WukLamark to 'testing/live'**
 ## What's New
 - Create and manage custom waymarks that display visibly on both the Main Map and Minimap.
 - Highly customizable markers: Use simple shapes (with custom colors) or pick from hundreds of in-game icons.
