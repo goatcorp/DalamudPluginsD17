@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "8e3defffd1581d2b4cf372817d0d30ee0563beb6"
+commit = "efd8b83ab404942fec9b4e8afa778119897756ca"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
-project_path = "CreateXIV.csproj"
-changelog = "Initial CreateXIV submission (testing)."
+project_path = "."
+changelog = "Initial CreateXIV submission"
