@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/seventity7/CreateXIV.git"
+commit = "f156858065996394f7cce809b630581e16859917"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = "Initial CreateXIV submission"
