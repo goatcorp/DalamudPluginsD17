@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "13080b74cfb8bfafc81950738f874bcbac960db3"
+commit = "d0386d925f57dfae17698a9cb33db5281d09abde"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix database creation for new install
-- **Progress**:
-    - Add Moogle trove of Aphorism
-    - Add event rewards list when clicking on event name (Hatching hide 2026 only, will be retroactively updated)
+- **Progress**: Add missing bucket minion and add total required tomes for Moogle trove of Aphorism
 """
