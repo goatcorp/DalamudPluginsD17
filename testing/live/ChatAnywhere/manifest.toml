@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "dafefdded42abf190f43af0c4247da48aeefdb25"
+commit = "8e8dbd3bd51b4c8c5f9b7ab15f879c3069281171"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: reduce input lag by moving chat input state local to prevent per-keystroke re-renders."
+changelog = "Refactor: React 19 upgrade and React Compiler support for improved rendering performance."
