@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "d0386d925f57dfae17698a9cb33db5281d09abde"
+commit = "1e5d45c1491396f20776933869a33eae6a2cc02d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add missing bucket minion and add total required tomes for Moogle trove of Aphorism
+- **Progress**:
+    * Add missing bucket minion
+    * Add total required tomes for Moogle trove of Aphorism
+    * Change total tomestone a character has in total line to total required tomestone per character taking into account already owned rewards. Value of currently owned tomestone is now put on mousehover tooltip
 """
