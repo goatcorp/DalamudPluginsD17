@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/kk-triplesix/QuestieBestie.git"
+commit = "0e6a30f0a290431e8f9df10f0479c2e33499d58e"
+owners = [ "kk-triplesix" ]
+project_path = "QuestieBestie"
+changelog = "Initial release - The ultimate blue quest companion for FFXIV"
