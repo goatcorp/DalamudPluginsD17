@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "2a9ab3183151d4bc4e0ce33f350179a75cddf711"
+commit = "6f1779aba3a82837fead19f1fb0e4ca74ff31af1"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
@@ -10,4 +10,5 @@ changelog = """
 - v0.2.2 - Replaced Serilog with IPluginLog. Also dependency fixes.
 - v0.2.4 - Includes fixes from KokoroSharp for correctly setting the TTS volume in Windows.
 - v0.3.0 - Import/Export triggers, Remove categories option, Config data update. Kokoro language selection, WinSpeech speed selection.
+- v0.3.2 - Minor fixes to chat sanitization. English IPA dictionary loads async.
 """
