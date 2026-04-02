@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/dokkaebi-xiv/Ghost-Cap.git"
+commit = "84a31286ef5743e05f5dfa9fce9bdbd0ba260c4e"
+owners = ["dokkaebi-xiv"]
+project_path = "Gamtu"
