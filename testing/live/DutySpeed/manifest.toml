@@ -2,4 +2,4 @@
 repository = "https://github.com/EuphoricCrashOut/DutySpeed.git"
 commit = "main"
 owners = ["EuphoricCrashOut"]
-project_path = "DutySpeed"
+project_path = "."
