@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/kk-triplesix/QuestieBestie.git"
-commit = "10352752ed28cb94e471004139f84c39242d228f"
+commit = "2cb2ab5d1c64046035b7d6be9c4464f4edfd23e7"
 owners = [ "kk-triplesix" ]
 project_path = "QuestieBestie"
-changelog = "Initial release - The ultimate blue quest companion for FFXIV"
+changelog = "Address all reviewer feedback: remove ECommons, use ImRaii everywhere, GlobalScale, full localization (EN/DE/FR/JP), respect user style choices, proper Dispose pattern, Framework.Update for business logic, packages.lock.json"
