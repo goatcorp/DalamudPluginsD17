@@ -2,5 +2,4 @@
 repository = "https://github.com/kk-triplesix/QuestieBestie.git"
 commit = "2cb2ab5d1c64046035b7d6be9c4464f4edfd23e7"
 owners = [ "kk-triplesix" ]
-project_path = "QuestieBestie"
 changelog = "Address all reviewer feedback: remove ECommons, use ImRaii everywhere, GlobalScale, full localization (EN/DE/FR/JP), respect user style choices, proper Dispose pattern, Framework.Update for business logic, packages.lock.json"
