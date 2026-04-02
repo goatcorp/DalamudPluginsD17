@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "10b421b8b1574be71f5a8f7a7aaaa5bfb10f59a9"
+commit = "ca44966f6f48a478e1ab1e70a8540cfd57f390d8"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
@@ -11,6 +11,10 @@ add:
     option to show notes in native friend list
     option to use color in native friend list
     option to keep same keybind for both native and plugin friend list
+    restriction when requesting data (gpose, disconnected, offline, cutscene, afk, camera mode)
 fix:
-    fix refresh when used on specific player 
+    fix refresh when used on specific player
+    fix lodestone page with name with special chars
+    fix icons for crossworld party leader and memeber
+    fix condions for pf button
 """
