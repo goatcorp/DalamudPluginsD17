@@ -1,15 +1,13 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/WukLamark.git"
-commit = "a205199e75406add43d7c48a793e0a5a8c8d9c09"
+commit = "55aa53508f546e362c35ef1cbc179b041944db59"
 owners = [
 	"Bronya-Rand"
 ]
 project_path="WukLamark"
-changelog = """**Initial release of WukLamark to 'testing/live'**
+changelog = """**WukLamark 1.0.2.3 Changelog**
 ## What's New
-- Create and manage custom waymarks that display visibly on both the Main Map and Minimap.
-- Highly customizable markers: Use simple shapes (with custom colors) or pick from hundreds of in-game icons.
-- Waymark Groups: Organize your waymarks into nested, collapsible categories.
-- Waymark/Group Scopes: Designate waymarks and/or groups as "Personal" (locked to your specific character) or "Shared" (visible to all characters that log in on your PC).
-- Read-Only Waymarks/Groups (for Shared Waymarks/Groups): Protect shared waymarks and groups as "Read-Only" so you (or someone else) don't accidentally edit or delete them!
-- Import/Export: Easy clipboard sharing to distribute groups of waymarks to your friends."""
+- Renamed all mentions of 'Waymark' to 'Map Marker'/'Marker' to avoid confusion with XIV's waymark system.
+> I only realized this existed. Sorry to those who thought this was for raiding purposes or whatnot :(
+
+- Added a 'All Icons' tab to search every icon versus per tab."""
