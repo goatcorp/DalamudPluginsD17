@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/kk-triplesix/QuestieBestie.git"
-commit = "2cb2ab5d1c64046035b7d6be9c4464f4edfd23e7"
+commit = "68fcead3aaebef0e17cb3f5007c594c04eb897db"
 owners = [ "kk-triplesix" ]
-changelog = "Address all reviewer feedback: remove ECommons, use ImRaii everywhere, GlobalScale, full localization (EN/DE/FR/JP), respect user style choices, proper Dispose pattern, Framework.Update for business logic, packages.lock.json"
+changelog = "Replace ExtractText with ToString, remove unnecessary null checks on GetExcelSheet, replace manual PushStyleVar/Pop with ImRaii.PushStyle"
