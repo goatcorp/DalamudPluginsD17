@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "af25dafc6ca58d14bf74594adbe9bd306299aa9d"
+commit = "a029520bc999a6ade16be5efcea3861203a6908f"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Refactor: React 19 upgrade and React Compiler support for improved rendering performance."
+changelog = "Fix: improve mobile keyboard handling (auto-scroll and iOS zoom prevention)"
