@@ -1,5 +1,14 @@
 [plugin]
 repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
-commit = "3517d7221c138c418559b6abb3c818d6922afd8c"
+commit = "010c51ed5fe0992e7f0b045ba7e0874c8c803e5f"
 owners = ["AEBus"]
 project_path = "FFXIV.Venues.Directory"
+changelog = """
+This update makes venue browsing easier and cleaner in everyday use.
+
+- Refined the browser layout for a more readable list and detail view.
+- Improved filters and sorting so it is faster to find the venue you want.
+- Better address and action handling for copying details or opening venue links.
+- Schedule display is clearer and easier to follow in your local timezone.
+- General polish across banners, descriptions, and venue details.
+"""
