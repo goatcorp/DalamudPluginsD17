@@ -1,7 +1,7 @@
 # testing/live/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "9e00053076a6682e6d928d8afc58d190f5053c84" 
+commit = "eaed77ac6ac565f26de3474f09937f3ee32ca0bb" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\nv2.0.1: bug fixes, ui tweaks\nv2.0.0: Initial release."
+changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\nv2.1.0:added shapes/icons, toolbar ui tweak, code cleanup\nv2.0.1: bug fixes, ui tweaks\nv2.0.0: Initial release."
