@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "bf26eaabd40857de65084f130519d16653737241"
+commit = "88f85d6b25c3825fe4060319c7a509e7f749e267"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: prevent potential deadlock on plugin unload"
+changelog = "Feat: add passcode authentication and security hardening"
