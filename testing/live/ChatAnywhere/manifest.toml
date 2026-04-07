@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "758e1c4cc6faf5381946e5d816cfe81140157d6e"
+commit = "1227bd1db0c490a24b88d3356a801bbd778c77cc"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: emote history now correctly hides emotes unavailable to the current character"
+changelog = "Refactor: remove unused using directives"
