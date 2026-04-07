@@ -1,13 +1,14 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/WukLamark.git"
-commit = "55aa53508f546e362c35ef1cbc179b041944db59"
+commit = "26c42034d8132c8808c34d264225b90a4589cb30"
 owners = [
 	"Bronya-Rand"
 ]
 project_path="WukLamark"
-changelog = """**WukLamark 1.0.2.3 Changelog**
+changelog = """**WukLamark 1.0.2.4 Changelog**
 ## What's New
-- Renamed all mentions of 'Waymark' to 'Map Marker'/'Marker' to avoid confusion with XIV's waymark system.
-> I only realized this existed. Sorry to those who thought this was for raiding purposes or whatnot :(
 
-- Added a 'All Icons' tab to search every icon versus per tab."""
+### Features
+- Added the ability to make a map marker persistent across all worlds/data centers, no matter the world it was created in.
+> To make a marker global, open the WukLamark window, go to the Marker you want to make global, click the edit button and toggle `Visible Across Worlds/DCs`.
+"""
