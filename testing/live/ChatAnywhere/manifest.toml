@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "1227bd1db0c490a24b88d3356a801bbd778c77cc"
+commit = "4dbbd94fd3e93dc940b4b1a959c1b82f4a73b08b"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Refactor: remove unused using directives"
+changelog = "Fix: dispose OgpHttpClient; use Channel for non-blocking SSE broadcast"
