@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "4dbbd94fd3e93dc940b4b1a959c1b82f4a73b08b"
+commit = "3a3e0e29c56de954aacbde6ccb66091622248655"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: dispose OgpHttpClient; use Channel for non-blocking SSE broadcast"
+changelog = "Fix: make OgpCache an instance field"
