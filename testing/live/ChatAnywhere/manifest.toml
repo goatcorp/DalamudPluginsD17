@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "3a3e0e29c56de954aacbde6ccb66091622248655"
+commit = "c945db4072480a8f67cda28c00c63dd548c9a979"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: make OgpCache an instance field"
+changelog = "Feat: track Debug and Error plugin output channels"
