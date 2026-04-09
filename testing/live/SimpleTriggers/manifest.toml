@@ -4,7 +4,7 @@ commit = "9eee741c6228521944055ce07cb4937182bc6473"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-- v0.3.3.2
+## Simple Triggers v0.3.3.2
 * TTS audio playback is now handled by a dedicated AudioPlayer class. Need feedback if it causes any issues but should be fine.
 * You can now specify the output device in the Settings tab. Keep in mind it'll still show as the game in your OS's volume mixer.
 * Volume is now more customizable, allowing values above 100%. For safety, by default only goes up to 200%, but there's a checkbox directly under the volume setting which will allow you to go up to 3000% if you *really* feel like you need it. Since TTS volume is tied to the game's volume in your OS audio settings, this might give you the boost you need if you keep the game volume really, really low.
