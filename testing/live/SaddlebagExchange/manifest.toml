@@ -1,0 +1,8 @@
+# D17 plugin submission: add this folder (SaddlebagExchange/) to your PR to DalamudPluginsD17.
+# Required before opening the PR: set commit to the exact full SHA (e.g. git rev-parse HEAD). Empty = build will fail.
+[plugin]
+repository = "https://github.com/ff14-advanced-market-search/SaddlebagExchangeMarketboardPlugin"
+commit = "be27698e10bcf7add3aea1f97f70cdfc07af5a65"
+owners = ["cohenaj194"]
+project_path = "SaddlebagExchange"
+changelog = "Initial release."
