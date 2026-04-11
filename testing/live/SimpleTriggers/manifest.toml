@@ -5,6 +5,6 @@ owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
 ## Simple Triggers v0.3.4.0
-* Rewrote audio player to use WasapiOut to ensure consistentcy across the project.
+* Rewrote audio player to use WasapiOut to ensure consistency across the project.
 * Various smaller changes with settings tab.
 """
