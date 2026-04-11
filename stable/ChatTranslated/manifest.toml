@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "5f6e61499920a2383742cad5393fbcfe16ff81b6"
+commit = "93788239202e970bab80c145d4832f045ae6a766"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
 Drop messages without 2 consecutive unicode char / 1 CJK char
+Drop messages when it's already in target language
 Drop pure links
+
+Fix CustomTargetLanguage option not working
+
 Condense code
 """
 [plugin.secrets]
