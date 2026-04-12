@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/micfiygd/RandomJob.git"
+commit = "74f546541a221abc52a7ce1af0a7bbe038cb4c04"
+owners = ["micfiygd"]
+project_path = "RandomJob"
+changelog = "Initial release. Equip a random job from a configurable pool with an optional custom command on job change."
