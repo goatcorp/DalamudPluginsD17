@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "b476d2f96136ed76ca18c6662fd964b03c727416"
+commit = "e2d80cf95d6f196cedb49140998f9df263f072fc"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Chore: disclose AI-generated icon in plugin description"
+changelog = "Chore: remove AI-generated icon"
