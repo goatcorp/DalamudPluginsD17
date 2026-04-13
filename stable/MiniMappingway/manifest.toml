@@ -1,8 +1,4 @@
 [plugin]
-repository = "https://github.com/rreminy/MiniMappingway.git"
-commit = "b2a83958dc16e97ebc74e8fb42b3f5cb0ccb6c67"
-owners = [
-    "jaycewhite",
-    "rreminy"
-]
-changelog = "Fix FCs"
+repository = "https://github.com/GemPlugins/MiniMappingway.git"
+commit = "7025bf99cfd3bb40d53f38e2da713d83b8e5bf3f"
+owners = ['rreminy']

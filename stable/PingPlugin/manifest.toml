@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "e1fb8502e129194efa288b7a01c08aee87345c0d"
+commit = "e9a7848fd3a803a13d112660acc771c164d50a17"
 owners = ["karashiiro"]
 changelog = """\
-- Possible fix for crashes under WINE.
+- Introduces an improved fix for server bar jitter when the number of digits in the ping changes.
 """
