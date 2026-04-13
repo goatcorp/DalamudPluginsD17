@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "c945db4072480a8f67cda28c00c63dd548c9a979"
+commit = "b476d2f96136ed76ca18c6662fd964b03c727416"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Feat: track Debug and Error plugin output channels"
+changelog = "Chore: disclose AI-generated icon in plugin description"
