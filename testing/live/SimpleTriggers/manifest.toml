@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "0c2d615ecd36ef6e02b3bf35159ab0d8907dd932"
+commit = "4951de870d67e3ef73c8bd6aec4b1a21e7b6ccec"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-## Simple Triggers v0.3.4.0
-* Rewrote audio player to use WasapiOut to ensure consistency across the project.
-* Various smaller changes with settings tab.
+## Simple Triggers v0.3.4.2
+* New command `/strig toggle`
+* Improvements to audio device scanning. Now operates in the background.
 """
