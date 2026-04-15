@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/wolfcomp/KillFeed.git"
+owners = [ "wolfcomp" ]
+maintainers = [ "GayPotatoEmma" ]
+project_path = "1f940029689cdd1e0022623217c4952b8ff07bdb"
+commit = "1052d5343a9f2f7a2b8b1692ab8aa68fa151f845"
+changelog = "## 1.2.0 (2026-12-18)\n\n\n### Features\n\n* Initial Release"
+version = "1.2.0"
