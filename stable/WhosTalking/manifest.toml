@@ -1,16 +1,8 @@
 [plugin]
-repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "6518fc74efaaab592b114845e270fc0f6d17ce97"
-owners = ["sersorrel"]
+repository = "https://codeberg.org/keysmashes/WhosTalking.git"
+commit = "3752d7ce5925466e1880835a25e9bd1689718f40" # version 0.8.9.0
+owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.11.0**
-
-Now supports Dawntrail!
-
-Also:
-- Added a warning if you're using an unsupported Discord client
-- Hopefully fixed error spam in Delubrum Reginae (Savage)
-- Modified the sizing of the config window to accomodate power users
-- Tweaked various text to be less misleading
+Voice indicators should now hide properly when hiding the game UI.
 """

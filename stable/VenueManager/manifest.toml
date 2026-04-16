@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Jrogo7/VenueManager.git"
+commit = "8fd73c3f8773e8a20d672c3d938bffdb8cf0a6c3"
+owners = ["Jrogo7"]
+project_path = "VenueManager"
+changelog = """
+
+- Fixed Typo 
+
+"""

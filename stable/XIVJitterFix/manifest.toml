@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/rootdarkarchon/XIVJitterFix.git"
+commit = "51559f6f1b84698ad104286526429f56b3945774"
+owners = [
+    "rootdarkarchon"
+]
+project_path = "XIVJitterFix"
+changelog = """
+Stable release of XIVJitterFix.
+## What is XIVJitterFix?
+If you are running DLSS, DLAA or TSCMAA+Jitter you want this plugin. SE by default disables the needed jittering for those antialiasing components during gpose, cutscenes and npc interactions, making the game look jaggier and blurrier than it should be.
+## Functions
+- Automatically reenables jitter for the aforementioned game scenes
+- Expert Config for:
+  - Adjustment of jitter strength
+  - Overriding of downscale buffers (essentially forces DLAA if running with DLSS)
+  - When in doubt read the information written in the plugin configuration
+"""

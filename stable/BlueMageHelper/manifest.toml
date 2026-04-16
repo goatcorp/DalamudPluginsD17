@@ -1,7 +1,11 @@
 [plugin]
-repository = "https://github.com/Infiziert90/BlueMageHelper.git"
-commit = "b8939294bcc3760918824815475a8982b38930af"
+repository = "https://github.com/harbingerftw/BlueMageHelper.git"
+commit = "dc3595bcb66be561c8eb06ffa03842a770867cd9"
 owners = [
-    "Infiziert90",
+    "harbingerftw",
 ]
 project_path = "BlueMageHelper"
+changelog = """
+- API 14
+- Fix for updated dungeons
+"""

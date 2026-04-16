@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "377df5a89e00bedb090e8b61da625e85af25c775"
+commit = "60642946dfa4293b83073b681d7bdc2997be9b31"
 owners = ["gnargle"]
 project_path = "NICEDamage"
-changelog = "Update for 7.0. Move to stable."
+changelog = "Update NICEDamage for 7.3"

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/salanth357/NoTypeSay.git"
+commit = "9697ad5fb912b0b11738138350792e8aa5998b62"
+owners = ["salanth357"]
+project_path = "NoTypeSay"
+changelog = """
+1.0.2.1:
+- Update for 7.4
+"""

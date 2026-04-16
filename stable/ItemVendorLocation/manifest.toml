@@ -1,13 +1,16 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "4cb474aecf52f64955f0a20cad7cbdf8f4bed614"
+commit = "86662f4dab1ecce5f1758a121d6323118311b54f"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Fix IPC exception on dispose (Infiziert90)
-- Fix loading error for users that are on free trial or missing corresponding expansions, thank you Araiguma (Nuko)
+- Update IPC
+- Clear highlights when item acquired
+- Try to fix some menu highlights
+- Update Quinnana hack
+- Add barebones support for SpecialShop categories
 """
-version = "2.6.0.1"
+version = "2.13.0.0"

@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganMarket.git"
+commit = "2a190e565019cc63bf2b0bed19b25b83d831899a"
+owners = [ "Critical-Impact",]
+project_path = "AllaganMarket"
+version = "1.3.0.7"
+changelog = "### Fixed\n- Fixed hooks for 7.45"

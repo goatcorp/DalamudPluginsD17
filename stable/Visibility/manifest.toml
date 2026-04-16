@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "0e0d82958f991fbd53fafcad9ccf6c167bf3b40f"
-changelog = "- Updated Visibility to support Dawntrail (Thanks @Infiziert90)\n- Removed ContextMenu support until further notice"
+commit = "6fa9126183b1b59bd528f41c0da688ca7bbc3f3e"
+changelog = "- Fixed an edge case with friend list, where players marked as friends didn't register as such when your relogged, or got out of a duty"

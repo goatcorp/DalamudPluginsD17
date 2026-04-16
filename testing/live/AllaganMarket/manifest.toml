@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/AllaganMarket.git"
+commit = "edd9d61836527f43ca50138d5daeec4342709fd9"
+owners = [
+    "Critical-Impact",
+]
+project_path = "AllaganMarket"
+version = "1.0.0.5"
+changelog = """\
+**Fixes**
+- Lists with a scrollbar were not highlighting properly
+"""

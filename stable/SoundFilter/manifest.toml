@@ -1,5 +1,7 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/SoundFilter.git'
-commit = '100829e0e763927f569f695d2033150e409efe2c'
-owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+repository = 'https://github.com/Cytraen/SoundFilter.git'
+commit = '48d91c6a0054cd81a6a7719f0da01785f8e5699e'
+owners = ['Cytraen']
+changelog = """
+- Update for 7.4
+"""

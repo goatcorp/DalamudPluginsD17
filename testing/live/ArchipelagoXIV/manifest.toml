@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/silasary/apxiv.git"
+commit = "b8ca9bf7713df6823b9fa5a0d18b8f8da5b1b58e"
+owners = ["silasary"]
+project_path = "ArchipelagoXIV"
+changelog = "Added A Merchant's Tale, and fixed a couple of edge-case null-reference bugs."

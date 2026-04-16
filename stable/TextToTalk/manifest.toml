@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "0880b0db6552568e513865d4877b8ed933c17adc"
+commit = "bb4e697febaf8881c7e072af1a0b02f1bd27ac4c"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for API10 (thanks Ania!)
+- **ElevenLabs**: Fixed ArgumentOutOfRangeException when no models are available.
 """

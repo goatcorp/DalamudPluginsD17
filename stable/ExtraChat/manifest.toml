@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://git.anna.lgbt/anna/ExtraChat.git'
-commit = '9e0b8fb615eb6272bd50b9d9c60e77ed3f3d8d88'
+commit = '78de81ec2951e84cdbdccbddc9ca68a02daa0410'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = '''\
-- Dawntrail
+- API 14
 '''

@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "e9ed6bb27ce6a4cf15024b2052179767a72578b5"
-version = "1.3.0.16"
+commit = "c9d3efb1717bd7036a2aa994b80231f2523efdc6"
+version = "1.8.0.30"
 owners = ["CMDRNuffin"]
-changelog = """Update for Dawntrail"""
+changelog = """Update for 7.4
+
+Also:
+- Adds a text filter for finding specific mounts in the list
+- Fixes mount names in tooltips being all lower case sometimes"""

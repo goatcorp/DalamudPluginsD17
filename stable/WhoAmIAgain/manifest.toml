@@ -1,5 +1,6 @@
 [plugin]
-repository = "https://github.com/MidoriKami/WhoAmIAgain.git"
-commit = "85a7887c6ca5cf26bdec54c8be8f39242044da4a"
-owners = ["MidoriKami"]
+repository = "https://github.com/MKhayle/WhoAmIAgain.git"
+commit = "490cd1cbe98388464f85017e32ce6d634022f8e6"
+owners = ["MidoriKami", "MKhayle"]
 project_path = "WhoAmIAgain"
+changelog = "API14 update"

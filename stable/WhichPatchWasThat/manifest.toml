@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "b48a6decc3a82db1c85b54eb55ce25986beb9e38"
+commit = "740dafae721420766730a4642bbeb665d37f98a3"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-Update for 7.0
+- Update to FFXIV 7.4 and Dalamud 14
 """

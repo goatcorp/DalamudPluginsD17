@@ -1,0 +1,58 @@
+name: Rebuild All PRs
+
+on:
+  workflow_dispatch:
+    inputs:
+      cutoff:
+        description: 'Time to look back in PRs'
+        required: true
+        type: string
+        default: '2 days ago'
+
+permissions:
+  contents: write # for repo dispatches
+  pull-requests: read
+
+jobs:
+  dispatch-recent-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up GitHub CLI
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Find and Dispatch Recent PRs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUTOFF: ${{ inputs.cutoff }}
+        run: |
+          # Calculate the date threshold
+          THRESHOLD_DATE=$(date -d "$CUTOFF" +%Y-%m-%d)
+
+          # Use GitHub CLI to list open PRs updated or created within the specified timeframe
+          # The --json flag allows us to specify exact fields we want
+          gh pr list \
+            --state open \
+            --json number,author,headRefOid,updatedAt,createdAt \
+            --template '{{range .}}{{if or (ge .updatedAt "'"$THRESHOLD_DATE"'") (ge .createdAt "'"$THRESHOLD_DATE"'")}}{{.number}} {{.author.login}} {{.headRefOid}}{{"\n"}}{{end}}{{end}}' | \
+          while read -r PR_NUM ACTOR HEAD_REF; do
+            # Create repository dispatch for each PR
+            curl -L \
+              -X POST \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              https://api.github.com/repos/${{ github.repository }}/dispatches \
+              -d '{
+                "event_type": "start-pr-checks",
+                "client_payload": {
+                  "ref": "'"$HEAD_REF"'",
+                  "actor": "'"$ACTOR"'",
+                  "prnum": "'"$PR_NUM"'"
+                }
+              }'
+          done

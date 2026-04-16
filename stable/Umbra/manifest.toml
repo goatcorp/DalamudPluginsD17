@@ -1,0 +1,20 @@
+[plugin]
+repository = "https://github.com/una-xiv/umbra.git"
+commit = "b131ee3f9225b72773e4def862b19319c89330b3"
+owners = [ "haroldiedema" ]
+maintainers = [ "alexpado", "Bloodsoul" ]
+project_path = "Umbra"
+changelog = """
+# Umbra 3.1.12
+
+## Fixes & Improvements
+
+- Fixed some translations (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Added markers for Eureka elementals (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixed error when calculating bonus for Custom Deliveries (By [wolfcomp](https://github.com/wolfcomp)).
+
+---
+
+Join [Umbra's Discord server](https://discord.gg/xaEnsuAhmm) for the latest updates and information.
+Visit the [website](https://una-xiv.github.io/umbra-docs/) for more information and guides on how to make the most out of Umbra.
+"""

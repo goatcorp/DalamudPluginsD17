@@ -1,8 +1,4 @@
 [plugin]
-repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "b90041bbfc38c7817d3fe27db01a99081b977f4c"
-owners = [
-    "jaycewhite"
-]
-changelog = "Update for 6.5"
-version = "1.0.0.5"
+repository = "https://github.com/GemPlugins/MiniMappingway.git"
+commit = "7025bf99cfd3bb40d53f38e2da713d83b8e5bf3f"
+owners = ['rreminy']

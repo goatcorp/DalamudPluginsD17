@@ -1,8 +1,5 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/PeepingTom.git'
-commit = 'b1de54bcae64edf97c9f90614a588e64b5d0ae34'
-owners = [ 'anna-is-cute' ]
+repository = 'https://github.com/Caraxi/PeepingTom.git'
+commit = 'ac4201d1133ab8de20cffe9a30a0f456790176da'
+owners = [ 'anna-is-cute', 'Caraxi' ]
 project_path = 'Peeping Tom'
-changelog = '''\
-- Dawntrail
-'''

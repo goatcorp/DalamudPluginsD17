@@ -1,5 +1,12 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "54d728e3fcc9b5934651b1e36ee92ca983adbea8"
+commit = "ce1899bae801175666b452d215710f172dba21fc"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
+changelog = """
+- chore: Update to API14 (thanks @ashen-dawn)
+
+NOTE: Since 7.0, Compass seems to work funky in some cases.
+I am sorry, but I cannot promise that I will manage to work on plugins for the foreseeable future.
+I can, however, promise to have a look at any potential PR in a timely manner.
+"""

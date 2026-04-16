@@ -1,0 +1,7 @@
+# testing/live/AetherPool/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/AetherPool.git"
+commit = "27edf911ae1f418fcc43beb2e36bfefb63b32399" 
+owners = ["rail2025"]
+# project_path = "AetherPool" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "v0.5.0.0: update for patch 7.3/api13 \n v0.4.0.0: Advanced triggers and major UI/visual enhancements. \n - Added 'Open on X' triggers for death, queue, etc.\n - Added a new title screen with background and outlined text.\n - Added a player assignment indicator to the HUD.\n - Added 'Victory'/'Game Over' text at the end of a match.\n - Replaced the cue ball with a new custom texture."

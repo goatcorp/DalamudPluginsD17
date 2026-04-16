@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "0347f6d05f45df902ca9d574615de3490233edde"
+commit = "6b3966b3bc67cb71d0e318c43cc99ecf8c95fcce"
 owners = [
     "goaaats",
     "reiichi001",
 ]
 project_path = "Dalamud.RichPresence"
 changelog = """
-API 9 support. (Thank you NPittinger)
+Updated for API 14.
 
-New features:
-- Turn off rich presence when AFK (thank you sersorrel)
+Reminder: WineRPCBridge could get flagged as a false positive by Windows AVs. (Windows users will never run this file. It's only for Linux users.)
 """

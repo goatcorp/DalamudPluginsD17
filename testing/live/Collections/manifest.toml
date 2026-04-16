@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "c5f4959baa1fd0e1b3343e81e8119850140950ce"
-owners = ["Seventhxiv"]
+commit = "2fec161f36e8ee29397191378c10dccf4a9c81d8"
+owners = ["seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.1.5
-- Added Progress Bar
-- Tool Tip UI improvements
-- Job selector buttons changed: left click to switch, right click to toggle
+Collections v1.0.3.0
+- Additional & improved Tooltips and Filters
 """

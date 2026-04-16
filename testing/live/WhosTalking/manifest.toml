@@ -1,12 +1,8 @@
 [plugin]
-repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "5e7ffcfc0c5184b2b5c17085a5133b9803af8de9"
-owners = ["sersorrel"]
+repository = "https://codeberg.org/keysmashes/WhosTalking.git"
+commit = "3752d7ce5925466e1880835a25e9bd1689718f40" # version 0.8.9.0
+owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.6.10.0**
-
-Adds a workaround for issues in duties with more than 24 players, such as Delubrum Reginae (Savage).
-
-A reminder: **please ping @sersorrel when asking questions or reporting bugs** – I have #plugins-general muted and will not see your message otherwise.
+Voice indicators should now hide properly when hiding the game UI.
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TwitchXIV.git"
-commit = "e0141b89b1069ea7c368ac9956fecbc199feb514"
+commit = "d6afb9941bde8a586cccc27a84a55b2cf38c1f08"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "Updated for patch 7.0"
+changelog = "- Fix for the weird auth issues, thanks twitch API"

@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/j0giwa/ComfyLoot.git"
+commit = "183d1dacecb6765aada164a01e4676b2c79779b9"
+owners = ["j0giwa"]
+project_path = "."
+changelog = """
+v1.0.1
+- API14
+- Traded loot is now propperly recognized
+"""

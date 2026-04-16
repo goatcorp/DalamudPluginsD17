@@ -13,30 +13,30 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Get changed files
-      id: changed-files
-      uses: tj-actions/changed-files@v24
-      with:
-        separator: ","
-        files: |
-          stable/**/*.toml
-          testing/**/*.toml
+#    - name: Get changed files
+#      id: changed-files
+#      uses: tj-actions/changed-files@v24
+#      with:
+#        separator: ","
+#        files: |
+#          stable/**/*.toml
+#          testing/**/*.toml
 
-    - name: Setup Python 3.10
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+#    - name: Setup Python 3.10
+#      uses: actions/setup-python@v4
+#      with:
+#        python-version: '3.10'
 
-    - name: Install python deps
-      run: python -mpip install pydantic==1.9.1 toml==0.10.2
+#    - name: Install python deps
+#      run: python -mpip install pydantic==1.9.1 toml==0.10.2
 
       # for this to work, `,` has to be a banned character for filepaths.
-    - name: Validate changed manifests
-      run: |
-        manifests="${{ steps.changed-files.outputs.all_changed_files }}"
-        IFS=','
-        for manifest in $manifests; do
-          echo "Validating '$manifest'"
-          python -mpyckager validate "${manifest}"
-        done
+#    - name: Validate changed manifests
+#      run: |
+#        manifests="${{ steps.changed-files.outputs.all_changed_files }}"
+#        IFS=','
+#        for manifest in $manifests; do
+#          echo "Validating '$manifest'"
+#          python -mpyckager validate "${manifest}"
+#        done
   

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/gposingway/Sightseeingway.git"
+commit = "194fd18d0efe287d5fdc8fde4d5c5385ccdcd720"
+owners = ["gposingway","LeonAquitaine"]
+project_path = "Sightseeingway"
+changelog = "API 13 update"

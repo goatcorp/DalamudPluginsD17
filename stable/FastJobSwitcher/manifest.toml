@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/fast-job-switcher.git"
-commit = "06d1f173599f478a5d33f1147e72e3894568c0bb"
+commit = "8e59bc39429292027ece28999816d01efeec65e1"
 owners = ["meoiswa"]
 project_path = "FastJobSwitcher"
 changelog = """
-Version 2.0.0.0:
- - Updated to API10
+Version 4.0.0.0:
+ - ⚠️Breaking Change: Removed Phantom Job Acronyms commands
+ - ❗New command: Phantom Job Fuzzy Search command `/pj <name>`. For example, `/pj rng` equips the `Phantom Ranger` job. Searches by both Localized Name and English Names
+ - Updated to API14
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/zeroeightysix/remote-party-finder.git'
-commit = '5de579c0678ee77922ff4e4e3230e8dc138b7785'
+commit = 'ccf81ec3dd8e7eafa229edc5bc616fddf7a79fb6'
 owners = [ 'zeroeightysix' ]
 project_path = 'csharp/RemotePartyFinder'
-changelog = '.NET 8'
+changelog = 'Update for 7.4'

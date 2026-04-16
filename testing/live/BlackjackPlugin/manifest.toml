@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/clepix21/BlackjackPlugin.git"
+commit = "d437f1689937e750139c758423421c5ef0c53318"
+owners = ["clepix21"]
+project_path = "BlackjackPlugin"

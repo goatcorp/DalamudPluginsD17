@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/powellad/Toastingway.git"
+commit = "e6c1d27d9d8299ab7cf3a73c3a0f6ff5ac35eed7"
+owners = ["powellad"]
+project_path = "ToastingwayPlugin"
+changelog = "Initial release for Toastingway"

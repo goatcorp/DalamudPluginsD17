@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/TheRedheadedWitch/TrainConductor.git"
+commit = "71569d653f4c3871d21c566f52dfd42157796407"
+owners = ["TheRedheadedWitch"]
+project_path = "TrainConductor"
+changelog = """
+UI got changed, now features a preview of the Parse system so you can see what you are sending without having to use Echo chat as a way to view it.
+Parse system is complete revamped.
+Help Window is now present to explain things and guide custom creation of messages.
+
+CHOO CHOO ... we are on the FAST TRACK to better trains for conductors finally!
+"""

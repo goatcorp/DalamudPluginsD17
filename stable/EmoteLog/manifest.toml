@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = 'dde908b1254bb165748bc92b6aeb9d9b6468817a'
+commit = '9ff38f9e404eaec37ce863aa6073a0b4c916ce52'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Dawntrail baby
+- Remove /el command
 """
 

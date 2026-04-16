@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "072d88eea3bce83a3517cbc5eb918bbed8e075fc"
-project_path = "src"
+commit = "3d309a4544407aacf6b980c9569e377f1579054b"
+project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- Fixes Uberduck TTS backend following API changes
+- **General**: Fixed outgoing tells being spoken with "Skip messages from you" enabled.
 """

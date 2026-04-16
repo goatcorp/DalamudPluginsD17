@@ -1,5 +1,12 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "c8005aa2428a6d375b782ff042320d2ee634b01a"
+commit = "7d6543265ef85f97506d1a65cee8b371fa3f1cde"
 owners = ["NotNite", "MidoriKami"]
+maintainers = ["MKhayle"]
 project_path = "OfDungeonsDeep"
+changelog = """
+### Pilgrim's Traverse Data update
+- Please report any error you'd find with that new set of data
+- I went into PT myself to test it several times to ensure as much as I could that crashs don't happen
+-# - API 14 update
+"""

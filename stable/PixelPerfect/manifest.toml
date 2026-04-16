@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "695da84f28d1827bbf61cb5b635eb647a67caf89"
+commit = "ce246d2440133b624bf1129367e342fa19c28a78"
 owners = ["Haplo064"]
-changelog = "Added images, added dashed rings, API9 update."
+
+changelog = "7.4"

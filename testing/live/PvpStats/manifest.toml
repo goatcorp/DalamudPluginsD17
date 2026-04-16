@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "d7bef219e06d89c6a8a4eb8b7820cf89d7d7083d"
+commit = "7c6d99bb5749580ebbb81156d4ab7e38960165cc"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Updated for version 7.0 and Dalamud apiX.
-* Rival Wings matches temporarily disabled.
+* Added snapshotting options to Crystalline Conflict match details timeline view.
+* Added event icons to the Crystalline Conflict match details graph view.
+* Fixed some player link conditions not working as intended.
+* Fixed leaky hooks.
+* Hid some irrelevant statuses from player snapshots.
 """

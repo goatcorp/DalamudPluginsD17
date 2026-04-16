@@ -1,0 +1,13 @@
+
+[plugin]
+repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
+owners = ["Blackcatz1911"]
+project_path = "CurrencySpender"
+commit = "8a05067f07f3a29d4eed7a35c0dd4edd3dbe0c37"
+changelog = """\
+**1.0.5**
+- Fixed: Flame and Serpent NPCs were swapped
+- Fixed: Battlefield Etiquette tracking issues
+- Changed: Rephrased the punchline and description of the plugin
+"""
+version = "1.0.5"

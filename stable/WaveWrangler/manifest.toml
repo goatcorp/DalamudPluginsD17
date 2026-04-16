@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/mashirochan/FFXIV-WaveWrangler.git"
+commit = "5d02bbb8004b0c3ee67307a36d9f06d956c90f8c"
+owners = ["mashirochan"]
+project_path = "WaveWrangler"
+changelog = "Allow message after wave"

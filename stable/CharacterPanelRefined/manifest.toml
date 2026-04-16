@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "cea9a111074674dd126c7b5fe3d5d53d6bff9df5"
+commit = "dfb19665385ed85cb3b30b45684aa05feff5b98d"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Fixed incorrect stat calculation at level 100
-- Fixed viper using hunter's instinct instead of swiftscaled
+- Update to FFXIV 7.4 and Dalamud 14
 """

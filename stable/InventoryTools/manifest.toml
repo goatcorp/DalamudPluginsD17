@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "bee6b2d2a4ef5b735cf49730a9228ecb20819f3d"
-owners = [
-    "Critical-Impact",
-]
+commit = "10db9b1d91c83f12df808f5f5933886cdf90bf2f"
+owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.7.0.8"
-changelog = """\
-**Allagan Tools 1.7.0.8**
-- Tooltips are back in action
-"""
+version = "1.14.1.2"
+changelog = "### Added\n- Added new compendium entries for BGM/Orchestrions, Mounts and Minions\n- Quest Compendium entries will now list if they are completed and also include a link to the corresponding consolegameswiki entry\n### Fixed\n- Fixed a bug where retainer market items would sometimes not be updated correctly\n- Fixed an issue where craft pricing would only work correctly once the craft list's pricing settings were edited\n- Fixed an issue when right clicking an item in the glamour chests creation window's where it'd bring up the wrong item\n- Fixed an issue where it was possible for the left/right arrows to be eaten by the plugin"

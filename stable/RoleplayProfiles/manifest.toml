@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-roleplay-profiles.git"
-commit = "5cfc4bc3abf0a32bc28aee6f04016045287383cb"
+commit = "26dc7671c3b6829bbc2b077e05ec8017de171d23"
 owners = ["Maia-Everett"]
 project_path = "RoleplayProfiles"
 changelog = """
-* The plugin no longer asks for the user password to log in. Instead, it opens an in-browser authorization page.
-* Characters from all regions are now supported thanks to the cross-region character profiles website, Central Archives (https://centralarchives.org).
+* Update to Dalamud API 14 and .NET 10.
+* Update SocketIOClient dependency.
 """

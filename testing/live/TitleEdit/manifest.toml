@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/RokasKil/TitleEdit.git"
+commit = "85a92a3734780d53a127eeb20330a6b075c0756e"
+owners = [
+    "RokasKil",
+]
+project_path = "TitleEdit"
+changelog = """
+- Fixed reading camera angles when in 3rd person
+- Fixed reading Eorzea time
+- Added an option to hide your name in character select to ease preset sharing
+"""

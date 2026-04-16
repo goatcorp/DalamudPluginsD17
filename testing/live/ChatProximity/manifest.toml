@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/iv230/chat-proximity.git"
+commit = "6c2ceffa17caa8f99b2a1abdaf6e8429a844ec04"
+owners = [
+    "iv230"
+]
+project_path = ""
+changelog = """# 0.1.1
+- Fixed standard emote integration
+"""

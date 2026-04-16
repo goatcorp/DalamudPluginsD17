@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Glyceri/XivFatalFrame.git"
+commit = "8f2ea539393eeb439b26241b6a111135c16f784c"
+owners = ["Glyceri",]
+	changelog = """
+[1.2.0.2]
+Tentative Fix for Hang on Startup.
+"""

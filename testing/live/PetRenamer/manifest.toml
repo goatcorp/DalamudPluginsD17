@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "707665cf9a33e397c6af8e68ea3f846a9b71ebe1"
+commit = "95e78bf9a851d3423478f6884e27142324135b33"
 owners = ["Glyceri",]
 	changelog = """
-    [1.4.8.7]
-    Upgraded to the new Context Menu system.
+[2.7.0.0]
++ Prepares Pet Nicknames for the inevitable addition of Beast Master and other Pet Jobs in the future. 
+
+(Please note that you cannot share your nicknames with people that are NOT on this version ç_ç.)
+(Normally I push these kinds of updates during forced downtimes, but I couldn't manage that this time around. Sorry..)
 """
+

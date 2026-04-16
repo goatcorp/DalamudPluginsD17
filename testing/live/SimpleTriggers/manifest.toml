@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Brolijah/SimpleTriggers.git"
+commit = "4951de870d67e3ef73c8bd6aec4b1a21e7b6ccec"
+owners = ["Brolijah"]
+project_path = "SimpleTriggers"
+changelog = """
+## Simple Triggers v0.3.4.2
+* New command `/strig toggle`
+* Improvements to audio device scanning. Now operates in the background.
+"""

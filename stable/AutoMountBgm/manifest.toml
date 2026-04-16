@@ -1,6 +1,9 @@
 [plugin]
-repository = "https://github.com/PrincessRTFM/AutoMountBGM.git"
-owners = [ "PrincessRTFM",]
+repository = "https://github.com/Critical-Impact/AutoMountBGM.git"
+owners = [ "Critical-Impact",]
 project_path = ""
-commit = "702ab417188802edc7e8cf8adb9054262cd7124a"
-changelog = "Updated to patch 7.0 and new API, fixed the \"disable Borderless\" option not being actually implemented. Closes #2."
+commit = "2d6b5efe0c54d8da45c5fc9aa1affd3c6bb4eb64"
+changelog = """\
+### Fixed
+- Support for 7.4
+"""

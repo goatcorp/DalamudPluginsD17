@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kurochi51/TickTracker.git"
-commit = "41686616cb549fec763bf4a202babe056136ef54"
+commit = "5d47e67f1500af222a38aa73a2d7043bf622fdef"
 owners = ["Kurochi51"]
 project_path = "TickTracker"
 changelog = """
-- Fix loading the wrong texture version
+- API update
 """

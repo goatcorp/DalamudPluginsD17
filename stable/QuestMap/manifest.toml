@@ -1,5 +1,4 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/QuestMap.git'
-commit = 'ca80dbc48553ee70f7816a413cad384bed8c719c'
-owners = [ 'anna-is-cute' ]
-changelog = 'Dawntrail'
+repository = 'https://github.com/GemPlugins/QuestMap.git'
+commit = '10d35a63fe03626e1dd5d3fb0c1f4eba41f256e9'
+owners = ['rreminy']

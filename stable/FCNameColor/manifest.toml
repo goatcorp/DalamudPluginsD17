@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "f0669026d89d614f9b1e7d9a6e3d983eee8f781b"
+commit = "059ba93359d371085d1972e0712e71f8e33510f2"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Add additional logging to help with troubleshooting errors
+- Update for 7.4 (Thanks Boxu!)
 """

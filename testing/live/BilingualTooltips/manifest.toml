@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/Elypha/BilingualTooltips.git"
+commit = "fac0a738a6e0a345b86cb503866675121832e2e5"
+owners = ["Elypha"]
+project_path = "BilingualTooltips"
+changelog = """
+v0.2.1.1
+New Features:
+- Config to enable/disable the plugin
+- Config to set the language separately
+- Config to set the colour separately
+- Config to set offset for tooltip position
+- Config to show tooltip only when holding a hotkey
+- A text command to toggle/enable/disable the plugin
+
+Fixed Problems:
+-
+"""

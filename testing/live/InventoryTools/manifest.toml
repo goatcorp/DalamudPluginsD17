@@ -1,15 +1,16 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "94ca133440b5d23b84c678c8d301e8d637791c7a"
+commit = "7f8a9582dccdc3789dbde1e15b6c714db93cac33"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-version = "1.7.0.3"
+version = "1.13.1.1"
 changelog = """\
-**Allagan Tools 1.7.0.3**
-- This will be the last testing release before this gets released fully
+### Fixed
+- Changing a inventory search scope will validate the categories selected and remove them if they are no longer applicable
+- Certain filters would report as being changed from the default which would highlight the tab as green even if they hadn't been
+- Certain inventory scopes were not respecting the default value
+- Your inventory scopes may get migrated again so any changes you made since 13.1.0 was released will be overwritten. This will only be the case if you had installed 13.1.0 before installing the update.
 
-**Fixes:**
-- The sort parser would sometimes not fire on client login/logout causing no inventory updates to occur
 """

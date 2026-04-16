@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "7c94d2265439da50674024cac45d49c49f5e3dfc"
+commit = "26994b997190ff956bc1a4eeb5d9299ec9f8fbeb"
 owners = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Updated for API 10.
+Updated for API 14. There are some underlying changes to reduce build warnings. If a previously working feature (ex: avatars) stopped working, please report this.
 """

@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
-owners = [ "PrincessRTFM",]
+repository = "https://github.com/VariableVixen/PositionalAssistant.git"
+owners = [ "VariableVixen",]
 project_path = ""
-commit = "afa273e052d6c4f2518133ce352312ca9280d030"
-changelog = "Update for patch 7.0 and new Dalamud API. No functional changes."
+commit = "8ebe8d4fd18293c1539c978e2cf0c856ec98332b"
+changelog = ""
