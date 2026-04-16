@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/epinephren/TopSellingItems.git"
+commit = "33185ef6c48d34c9546258b6c66013a50b28ca4b"
+owners = ["epinephren"]
+project_path = "."
+changelog = "Plugin-Submission-for-review"
