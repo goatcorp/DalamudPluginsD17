@@ -7,6 +7,7 @@ owners = [
 project_path="WukLamark"
 changelog = """**WukLamark 1.0.2.5 Changelog**
 ## What's New
+First stable release of WukLamark.
 
 ### Features
 - Added batch import/export of map markers.
