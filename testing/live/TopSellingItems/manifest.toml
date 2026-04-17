@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/epinephren/TopSellingItems.git"
-commit = "33185ef6c48d34c9546258b6c66013a50b28ca4b"
+commit = "4b4388942d0fcc3f0a5746ba407da0a2b665547b"
 owners = ["epinephren"]
 project_path = "."
-changelog = "Plugin-Submission-for-review"
+changelog = "Initial submission of TopSellingItems. Shows profitable cross-datacenter trading opportunities using Universalis data, with configurable filters and improved UI scaling. Improved suggested methods."
