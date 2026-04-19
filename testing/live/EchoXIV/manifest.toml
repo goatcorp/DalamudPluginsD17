@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "7252fcaff73b7f212f27ee8c7bf69773320dfdcb"
+commit = "139037e23ca61fba4b511d0e1e3f53d7ac96b945"
 owners = ["ssalazar217"]
 changelog = """
+v0.1.0.31:
+- Completed all localized resource sets.
+- Repaired damaged RESX files and restored missing translated entries.
+- Prepared synchronized Debug and Release outputs for local testing and experimental Git downloads.
+
 v0.1.0.30:
 - Expanded EchoXIV UI language support for additional Dalamud languages.
 - Added full translated resources for Italian, Korean, Norwegian, Russian, Simplified Chinese, and Traditional Chinese.
