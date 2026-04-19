@@ -1,43 +1,15 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "139037e23ca61fba4b511d0e1e3f53d7ac96b945"
+commit = "f1e03c09387331a4286c3e84a195ce49ac63c71d"
 owners = ["ssalazar217"]
 changelog = """
+v0.1.0.32:
+- Removed the unused automatic translation checkbox from settings.
+- Kept the configuration UI aligned with the current explicit /tl workflow and incoming translation controls.
+
 v0.1.0.31:
 - Completed all localized resource sets.
 - Repaired damaged RESX files and restored missing translated entries.
 - Prepared synchronized Debug and Release outputs for local testing and experimental Git downloads.
-
-v0.1.0.30:
-- Expanded EchoXIV UI language support for additional Dalamud languages.
-- Added full translated resources for Italian, Korean, Norwegian, Russian, Simplified Chinese, and Traditional Chinese.
-- Updated language selection support in the welcome and configuration windows.
-
-v0.1.0.25:
-- Fix command message display: Fixed an issue where explicit translated messages (/tl) were accidentally filtered out when 'Show Outgoing Messages' was disabled or evaluated incorrectly.
-
-v0.1.0.24:
-- Native SanitizeString: Implemented native Utf8String.SanitizeString() for chat messages.
-- Enhanced security by using game's native text validation.
-- Applied to both outgoing translation commands and chat box messages.
-
-v0.1.0.23:
-- Cleanup: Removed redundant manual window positioning logic.
-- Fix: Resolved double-scaling issues in TranslatedChatWindow.
-- Fix: Improved focus detection logic for multi-client setups.
-- Refactor: Code cleanup and comment removal.
-
-v0.1.0.22:
-- Update ProcessChatBoxEntry hook: use UIModule.Addresses (FFXIVClientStructs), remove manual signature.
-- Reduce Info logs: only with VerboseLogging (Plugin, IncomingMessageHandler, ChatInterceptor).
-
-v0.1.0.21:
-- Feature: Smart window mode selection in welcome screen with context-aware recommendations.
-- Feature: Automatic ScreenMode detection (Fullscreen/Windowed/Borderless) using IGameConfig.
-- Feature: Visual warnings based on detected display mode (Fullscreen → Dalamud window recommended, Windowed/Borderless → WPF window recommended).
-- Feature: User can manually override recommendation regardless of detected mode.
-- Localization: Added complete translations for new UI in EN, ES, DE, FR, JA.
-- UI: Increased WelcomeWindow size to 500x550 to accommodate new selection interface.
-- Fix: Improved WPF auto-scroll reliability in ChatOverlayWindow.
 """
