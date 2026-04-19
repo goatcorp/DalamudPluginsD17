@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "0901b828e7b0ebc3153f4364656acd2d0893c8c9"
+commit = "7252fcaff73b7f212f27ee8c7bf69773320dfdcb"
 owners = ["ssalazar217"]
 changelog = """
+v0.1.0.30:
+- Expanded EchoXIV UI language support for additional Dalamud languages.
+- Added full translated resources for Italian, Korean, Norwegian, Russian, Simplified Chinese, and Traditional Chinese.
+- Updated language selection support in the welcome and configuration windows.
+
 v0.1.0.25:
 - Fix command message display: Fixed an issue where explicit translated messages (/tl) were accidentally filtered out when 'Show Outgoing Messages' was disabled or evaluated incorrectly.
 
