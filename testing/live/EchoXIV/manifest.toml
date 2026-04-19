@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "f1e03c09387331a4286c3e84a195ce49ac63c71d"
+commit = "c7c71c9436ba90716c06ed7a7fc1ae01cd369775"
 owners = ["ssalazar217"]
 changelog = """
+v0.1.0.33:
+- Fixed unsafe Utf8String construction for outgoing chat submission by switching to string-based creation.
+- Fixed active chat channel detection so manual translated sends are recorded under the correct channel in history and the translated window.
+- Removed a remaining residual ChatTwo comment from the translated chat window.
+
 v0.1.0.32:
 - Removed the unused automatic translation checkbox from settings.
 - Kept the configuration UI aligned with the current explicit /tl workflow and incoming translation controls.
