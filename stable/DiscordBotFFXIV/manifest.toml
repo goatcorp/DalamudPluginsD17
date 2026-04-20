@@ -4,5 +4,5 @@ commit = "3449b664cbfb54e65dd4d400e29e6e0a062cd604"
 owners = ["devckuw"]
 project_path = "DiscordBotFFXIV"
 changelog = """
-- first release
+Discord / FFXIV bot to send msg from discord to the game
 """
