@@ -1,5 +1,13 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "03ad9c54fb708abf476a5fa0d7536486856bb48d"
+commit = "6e718dfd22d1c9ea392ce92765ba9d579d33289f"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
+changelog = """
+Migrate to stable! 🎉
+* Audio settings have been grouped into their own collapsing header
+* Added a checkbox for users to choose if they want TTS streams to overlap (default) vs play in sequence
+* Added a "stop playback" button to the settings aka "I am suffering from the consequences of my actions" button.
+* Removed random questions marks on a bunch of UI labels
+* Some new commands for toggling triggers `/sttoggle` and stopping TTS playback `/ststop`
+"""

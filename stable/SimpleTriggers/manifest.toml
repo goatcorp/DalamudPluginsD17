@@ -1,0 +1,39 @@
+[plugin]
+repository = "https://github.com/Brolijah/SimpleTriggers.git"
+commit = "6e718dfd22d1c9ea392ce92765ba9d579d33289f"
+owners = ["Brolijah"]
+project_path = "SimpleTriggers"
+changelog = """
+Migrate to stable! 🎉
+### About
+This plugin aims to provide a simple means of creating in-game triggers to chat messages.
+Responses can be done in one of the below methods or any combination of the three:
+* Chat Message
+* In-Game SFX
+* Text-to-Speech
+  * Kokoro
+  * Windows System
+
+New Triggers can be created by either clicking the "Add" button on the Triggers tab or saving a chat log message on the Chat History tab.
+Triggers may also be shared and imported using the Import/Export buttons.
+Chat logging is disabled by default every time the plugin starts, and once enabled you can search for specific messages it has recorded. This may be useful if you're unsure of the exact message you want to create a trigger for but only know some of the words. You can also configure how many messages should be stored at a time.
+Message history is never saved outside of the plugin running and is lost when the plugin is disabled.
+
+* Commands:
+  * `/simpletriggers` or `/strig` and the optional arguments:
+    * `enable`/`on` or `disable`/`off` to activate or deactivate the whole trigger system.
+    * `toggle` flips the trigger system to active or inactive (same as above but as a 1-command toggle)
+    * `stop` will stop the current audio playback and any queued streams in waiting.
+    * `speak <phrase>` will read aloud the requested phrase using your configured TTS.
+  * Shorter versions of the above:
+    * `/sttoggle`
+    * `/ststop`
+    * `/stspeak <phrase>`
+
+### Changes from Testing
+* Audio settings have been grouped into their own collapsing header
+* Added a checkbox for users to choose if they want TTS streams to overlap (default) vs play in sequence
+* Added a "stop playback" button to the settings aka "I am suffering from the consequences of my actions" button.
+* Removed random questions marks on a bunch of UI labels
+* Some new commands for toggling triggers `/sttoggle` and stopping TTS playback `/ststop`
+"""
