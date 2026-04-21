@@ -14,11 +14,6 @@ Responses can be done in one of the below methods or any combination of the thre
   * Kokoro
   * Windows System
 
-New Triggers can be created by either clicking the "Add" button on the Triggers tab or saving a chat log message on the Chat History tab.
-Triggers may also be shared and imported using the Import/Export buttons.
-Chat logging is disabled by default every time the plugin starts, and once enabled you can search for specific messages it has recorded. This may be useful if you're unsure of the exact message you want to create a trigger for but only know some of the words. You can also configure how many messages should be stored at a time.
-Message history is never saved outside of the plugin running and is lost when the plugin is disabled.
-
 * Commands:
   * `/simpletriggers` or `/strig` and the optional arguments:
     * `enable`/`on` or `disable`/`off` to activate or deactivate the whole trigger system.
