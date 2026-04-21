@@ -14,6 +14,7 @@ This is the plugin repository for the [Dalamud plugin framework for Final Fantas
 - [Updating your plugin](#updating-your-plugin)
 - [Rebuilding in a PR](#rebuilding-in-a-pr)
 - [Secrets](#secrets)
+- [Policies & Guidelines](#policies-and-guidelines)
 
 ---
 
