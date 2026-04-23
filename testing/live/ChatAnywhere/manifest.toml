@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "5bb448b42b618429f552f87a4a04a45393e18099"
+commit = "097474ef9b2ca8334482d9665b185eaea83db844"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Fix: show placeholder when DM history is empty"
+changelog = "Feat: clear button to emote picker search bar"
