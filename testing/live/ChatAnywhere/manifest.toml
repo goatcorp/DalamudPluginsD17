@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "99631e5a333456420c1e0bf09c158f5db47d960d"
+commit = "3d5dc7d3a8198a5ff83c86d2e916909e33bc676b"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Feat: add Tell history DM panel with auto-pinned send target; fix: scale Tell banner with font size and prevent name text clipping"
+changelog = "Fix: adjust chat header symbol font and Tell thread reference spacing"
