@@ -2,5 +2,5 @@
 repository = "https://github.com/BalthierArt/EchoChat.git"
 commit = "c424fd136a845a6ca9c38dfa32f4d77f86ffdb38"
 owners = ["BalthierArt"]
-project_path = "ChatEcho"
+project_path = "."
 changelog = "Initial release of Chat Echo — a draggable HUD overlay that echoes Party, Alliance, and other chat channels so you never miss a callout while tunnel-visioning in raids."
