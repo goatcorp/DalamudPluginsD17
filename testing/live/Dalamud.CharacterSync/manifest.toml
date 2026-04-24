@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Xpahtalo/Dalamud.CharacterSync.git"
+commit = "196cd2b912f07995ba223200f63a4203a3856c0a"
+owners = [
+	"goaaats",
+	"reiichi001",
+	"Xpahtalo"
+]
+project_path = "Dalamud.CharacterSync"
+changelog = """
+You can now configure how many backups are saved. There's also a button in the /pcharsync menu to open up the backups folder for easier access.
+"""

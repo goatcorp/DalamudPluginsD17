@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/iri-impulse/PhotoboothPlugin.git"
-commit = "a36fddf0ce4cc678c6413c5630d6f95e9d43ef13"
+commit = "c6996df913f2480d0efab98d474c17a4e98f30f1"
 owners = ["iri-impulse"]
 project_path = "Photobooth"
-changelog = "Update for 7.31"
+changelog = "Update for 7.4"

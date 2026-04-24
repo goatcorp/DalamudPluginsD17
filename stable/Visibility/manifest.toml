@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "b4d18ae2bcc03297fd3e39405fd9f83824654963"
-changelog = "- API 13 update\n- Added an option to only hide players when in combat"
+commit = "6fa9126183b1b59bd528f41c0da688ca7bbc3f3e"
+changelog = "- Fixed an edge case with friend list, where players marked as friends didn't register as such when your relogged, or got out of a duty"

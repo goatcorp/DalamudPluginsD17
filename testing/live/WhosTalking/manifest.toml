@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://codeberg.org/keysmashes/WhosTalking.git"
-commit = "becebe1784b1762152ec7d4e31bde5489bd40162"
+commit = "3752d7ce5925466e1880835a25e9bd1689718f40" # version 0.8.9.0
 owners = ["keysmashes"]
 project_path = "WhosTalking"
 changelog = """\
-**Version 0.8.7.0**
-
-Improved compatibility with other UI-editing plugins.
+Voice indicators should now hide properly when hiding the game UI.
 """

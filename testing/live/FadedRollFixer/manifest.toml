@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Pistachio-dev/Faded-Roll-Fixer.git"
-commit = "d491325dd5d5ff24e233c9a53e6f9d096ee51c0b"
+commit = "d4d554c1feff856c9fa5db60301a6e83cd8c2211"
 owners = ["Pistachio-dev"]
 project_path = "FadedRollFixer"
-changelog = "Initial Release"
+changelog = "Updated for patch 7.4"
 

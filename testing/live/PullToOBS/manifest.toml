@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Miu-B/PullToOBS.git"
+commit = "cc713e66a6d08cfb0619992691acdc2a1701f4aa"
+owners = ["Miu-B"]
+maintainers = ["Miu-B"]
+project_path = "PullToOBS"
+changelog = """
+- Improved setup documentation and Replay Buffer instructions
+- Toggle standby mode with /pto rec (suppresses combat-triggered recording while staying connected to OBS)
+"""

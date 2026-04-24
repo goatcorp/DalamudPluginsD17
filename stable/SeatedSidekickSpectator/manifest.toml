@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Cytraen/SeatedSidekickSpectator.git"
-commit = "ccffb6e64a0c3a15dbd873cb37dbc8b8c26aa3b9"
+commit = "0871f3b6179d5166005d1605cf95d4bca59612b6"
 owners = ["Cytraen"]
 changelog = """
-- Update for 7.3
+- Update for 7.4
 """

@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "5c0df982e061a0b40e83b71259638e8e37f9ca9e"
+commit = "e9a7848fd3a803a13d112660acc771c164d50a17"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for 7.3
+- Introduces an improved fix for server bar jitter when the number of digits in the ping changes.
 """

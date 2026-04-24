@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "3713c1326661fa925c6e76805cbc349d623e26c8"
+commit = "885913de61b1a01b101f6606b61c6382fa28c41f"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- Fixes wrong action description being shown.
+- API 14
 """

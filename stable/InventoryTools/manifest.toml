@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "c542405ba9810edcf041ada820db7394785d9cb5"
+commit = "10db9b1d91c83f12df808f5f5933886cdf90bf2f"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.1.9"
-changelog = "### Fixed\n- Shops that yield more than 1 item when being purchased will be factored into craft lists correctly\n- Fixed certain shops not highlighting correctly when there was more than 1 shop listing available\n### Added\n- The total quantity available column can now be configured to provide a total of any combination of NQ/HQ/Collectible items\n- Added a \"Add to Favourites\" context menu setting"
+version = "1.14.1.2"
+changelog = "### Added\n- Added new compendium entries for BGM/Orchestrions, Mounts and Minions\n- Quest Compendium entries will now list if they are completed and also include a link to the corresponding consolegameswiki entry\n### Fixed\n- Fixed a bug where retainer market items would sometimes not be updated correctly\n- Fixed an issue where craft pricing would only work correctly once the craft list's pricing settings were edited\n- Fixed an issue when right clicking an item in the glamour chests creation window's where it'd bring up the wrong item\n- Fixed an issue where it was possible for the left/right arrows to be eaten by the plugin"

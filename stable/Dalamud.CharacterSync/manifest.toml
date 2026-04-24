@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Dalamud.CharacterSync.git"
-commit = "3cb09418ccd6750493a5882e807f95b73cbd14f0"
+commit = "5a1ddebb77a0762e772a7c7abcb1e40a85d4e225"
 owners = [
 	"goaaats",
 	"reiichi001",
@@ -8,5 +8,6 @@ owners = [
 ]
 project_path = "Dalamud.CharacterSync"
 changelog = """
-Updated for API 13.
+Removed the warning message window and switched to using the notification system.
+Changed how the FFXIV configs are located. It should now support backups on all platforms.
 """

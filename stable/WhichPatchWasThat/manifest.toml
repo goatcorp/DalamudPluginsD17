@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "e4a3b446ead7eff2b5bd2a00de9a3352a63270aa"
+commit = "740dafae721420766730a4642bbeb665d37f98a3"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-- Fix missing item patches in tooltips
+- Update to FFXIV 7.4 and Dalamud 14
 """

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "7aaa32a52ccde5506e196603efbf854003a95417"
+commit = "6c66faea027c8d87a3017457583353575f738037"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-- 7.4 / api14 update
+**Fixes**
+- Fix rare crash when switching to alt characters 
 """

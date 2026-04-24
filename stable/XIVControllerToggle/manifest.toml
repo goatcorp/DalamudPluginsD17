@@ -1,9 +1,22 @@
   [plugin]
   repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
-  commit = "a6cf20f62052674475dbfd877f82e350084e1cc7"
+  commit = "f1df00daa3a32f1c44485111c69d228db946756f"
   owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
   changelog = """
+  A special thanks to these contributors (github usernames):
+  - @Aida-Enna: Updating the plugin to be Dawntrial compatible.
+  - @grecaun, @imvaskel: Updating the plugin dalamud API and to FFXIV patch.
+  - @TheThirdDoor: Quality of life improvements and WASD binding.
+
+  # The Great Controller HUD Switcher 1.2.4
+  - Change WASD keys to use ffxiv keys bound for character movement, adds support for other keyboard layouts like AZERTY or 
+    custom movement keybinds, thanks @TheThirdDoor
+  - Ignore keyboard inputs when a chat/text field is active. thanks @TheThirdDoor
+
+  # The Great Controller HUD Switcher 1.2.3
+  - Updated to latest Dalamud API and FFXIV patch version, thanks @imvaskel
+
   # The Great Controller HUD Switcher 1.2.2
   - Updated to latest API version and FFXIV Patch, thanks @grecaun
   
