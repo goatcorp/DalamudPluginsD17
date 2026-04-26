@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Miu-B/PullToOBS.git"
-commit = "cc713e66a6d08cfb0619992691acdc2a1701f4aa"
+commit = "03dd0d4c02a4e109146ffb7aa5c209c08dc9f140"
 owners = ["Miu-B"]
 maintainers = ["Miu-B"]
 project_path = "PullToOBS"
 changelog = """
-- Improved setup documentation and Replay Buffer instructions
-- Toggle standby mode with /pto rec (suppresses combat-triggered recording while staying connected to OBS)
+- Add encounter metadata logging: writes a JSON file per encounter with encounter name, job, territory, and file paths for use with the limitcut companion tool (opt-in, disabled by default)
+- Change SaveReplayBuffer/StopRecording to return file paths for metadata output
 """
