@@ -1,7 +1,7 @@
 # testing/live/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "fc3fb0ab46caaea57c53c87bae46ed547796b83e" 
+commit = "73d4adc9e59a2cf24091aa41025ff7a27e18e0a6" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\nv7.45.6: ipc for obs labelling\nv7.45.4: reverted sync, code refactor\nv7.45.3: phase 2 detection hack, ui changes, live sync fixes"
+changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\nv7.45.7:naming obfuscation fix\nv7.45.6: ipc for obs labelling\nv7.45.4: reverted sync, code refactor\nv7.45.3: phase 2 detection hack, ui changes, live sync fixes"
