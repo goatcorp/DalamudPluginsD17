@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "097474ef9b2ca8334482d9665b185eaea83db844"
+commit = "529a5937a949704733ff2f019c551b65d5faa54f"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "Feat: clear button to emote picker search bar"
+changelog = "feat: highlight overflow and disable send when message exceeds 500-byte game limit; fix: hide caret and keep focus on passcode input"
