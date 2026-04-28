@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "543d4ff465ee5b12d7080e4142195be86a9793fb"
+commit = "c5fdb1b448931267049a104d07382a90c8381a2b"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
-changelog = "Update patch 1.0.6.1|Cleaned UI texts to comply with rules| README also cleaned."
+changelog = "AI Disclosure update"
