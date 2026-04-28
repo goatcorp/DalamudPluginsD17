@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/seventity7/ESTClock.git"
-commit = "b1b9290b5e35e009c5a3f4798aa0078a817f4b51"
+commit = "6634b5e17769964cb68ed28b5160cf0c5058660c"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
-changelog = "Update 1.0.5 | Features+AI Disclosure"
+changelog = "AI Disclosure update"
