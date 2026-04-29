@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TeamcraftListMaker.git"
-commit = "43da585ff558fd01d12f5bb89399dc03e441a629"
+commit = "be49cdc3a062a649edf2aef117b6a18418b10e53"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Fix markeboard issue/inventory issue"
+changelog = "- Updated for 7.5"
