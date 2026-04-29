@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "2fec161f36e8ee29397191378c10dccf4a9c81d8"
+commit = "bf870a7df7b1a8296d9f5a758f27a2f0a984c56a"
 owners = ["seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.3.0
-- Additional & improved Tooltips and Filters
+Collections v1.0.3.1
+- Fix localization error
 """

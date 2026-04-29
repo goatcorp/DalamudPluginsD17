@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/Facade.git"
-commit = "99084c0689a06d6ea8cc54468ee2fa8d597566a6"
+commit = "88aad4af03b7d30a588b9a13ea882daa8b8facc2"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-Facade lets you customize the exteriors of any house to your liking, removing neighboring eyesores. You can also change a ward's festival decorations.
+- Updated for 7.5/API15
 """
