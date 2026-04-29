@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Exter-N/Hyperfocus.git"
-commit = "9494d683cc26f7477894715b480e0e231af48322"
+commit = "8ccc4862c389d4b135a81e8e97ba983bafcec6f4"
 owners = ["Exter-N"]
 project_path = "Hyperfocus"
-changelog = "Fix that description"
+changelog = "Update for Dalamud 15"
