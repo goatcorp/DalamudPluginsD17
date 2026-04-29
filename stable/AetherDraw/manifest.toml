@@ -1,7 +1,7 @@
 # stable/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "944e87e7d4ce5708681b877cf8b34e9b862cde42" 
+commit = "d9c2f6a6a0a57f18af2db60df08a99e9d7a7566a" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "v2.4.8.0:IPC support for AetherBlackbox imports\nv2.4.6.0:api bump, criterion support"
+changelog = "v7.5: api 15"
