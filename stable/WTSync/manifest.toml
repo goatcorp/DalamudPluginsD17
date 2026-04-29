@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/KhloeLeclair/WTSync.git"
-commit = "5b0cd2a41a166732aa51d7c29e146616265e456d"
+commit = "5071f4d31c89b439347cd384ab1073ce31c583b8"
 owners = [ 
 	"KhloeLeclair"
 ]
@@ -9,7 +9,5 @@ maintainers = [
 ]
 project_path = ""
 changelog = """
-Updated for FFXIV 7.4 and Dalamud API 14.
-
-As a general note, sorry for the delay on this one and thanks to Boxu for handling the update.
+Updated for FFXIV 7.5 and Dalamud API 15.
 """
