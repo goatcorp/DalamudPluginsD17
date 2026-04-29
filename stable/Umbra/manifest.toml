@@ -1,20 +1,17 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "6475296eab5b65ea26ac07007b154a02f3a91b78"
-owners = ["haroldiedema"]
+commit = "b131ee3f9225b72773e4def862b19319c89330b3"
+owners = [ "haroldiedema" ]
+maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.9
+# Umbra 3.1.12
 
 ## Fixes & Improvements
 
-- Add fixed width for the Emote Chat Indicator Widget (By [alexpado](https://github.com/alexpado)).
-- Allow negative horizontal padding for all widgets (By [alexpado](https://github.com/alexpado)).
-- Add entry label to Widget Settings window for Single Server Info Bar widget (By [alexpado](https://github.com/alexpado)).
-- Dynamic Menu: Add "Move to top" and "Move to bottom" options to the context menu of items (By [alexpado](https://github.com/alexpado)).
-- Custom Deliveries: fix color usage for hearts; set hover to background instead of stroke (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Gearset Switcher: Add crafter specialist color highlight & customization (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Gearset Switcher: use input border hover instead of accent color (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed some translations (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Added markers for Eureka elementals (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixed error when calculating bonus for Custom Deliveries (By [wolfcomp](https://github.com/wolfcomp)).
 
 ---
 

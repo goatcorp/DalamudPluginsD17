@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "1c9fe2df10c680ea12264dc9ba862dc318f5f33d"
-owners = ["Tischel"]
+repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
+commit = "d87cf89a9b54792b9035ba8c01704137b39a2728"
+owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
-changelog = "- Added support for Patch 7.3 and Dalamud API 13."
+changelog = "- Updated dependencies (fixes Retainer search again)"

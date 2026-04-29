@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "8a8ce4dfaf53e508c395c5c20a073553acfaefe3"
+commit = "b3a43fc7f4cddf2d92cd75f11af31cbee7bbe135"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-1.0.2.4
-fix pf opening condition
+1.0.2.5
+API 14
 """

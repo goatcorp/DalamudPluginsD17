@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/ItemUse.git"
-commit = "6f604584175ff43cf747196737eddf2c334ad9f4"
+commit = "2264ea1db49342278dd3a90c5c45c287e38c0bb8"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "ItemUse"
 changelog = '''
-- Updated for Dalamud API 13.
-- Switched to use Dalamud's font icon rendering in the settings window.
-- Miscellaneous code cleanup.
-- When used alongisde other plugins that add text to item description (such as Allagan Tools), the visual order of coffer job icons may be inconsistent.  This will be addressed in a future release.
+- Updated for Dalamud API 14 and the new UI themes added with patch 7.4.
 '''

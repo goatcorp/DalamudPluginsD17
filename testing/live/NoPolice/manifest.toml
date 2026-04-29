@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "cb090fdf6638bb20740ab68e5b8c5297aae7890b"
+commit = "c4d6144bef5d18834ded7f4a71a7dfade0596c85"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
-changelog = "Update to 7.4, Fix Territory Change bug"
+changelog = "Add chat handler, performance improvements"

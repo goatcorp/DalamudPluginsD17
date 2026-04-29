@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/teechep/FATEhelper.git"
+commit = "095270c14d8dcf11ea177526924a79939768c695"
+owners = ["teechep"]
+project_path = "FATEhelper"
+changelog = "added closest aetheryte shard display for occult crescent, added /fh as secondary command"

@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/GayPotatoEmma/Ascian-Music-Player.git"
+commit = "461e1a2131d51c279f7987a9b223dce257b700fb"
+owners = [ "GayPotatoEmma" ]
+project_path = "AscianMusicPlayer"

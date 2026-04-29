@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/s5bug/CongaHelper.git"
+commit = "d9b8de4c6ee1d9fc9034d7dd9c92dbe51c6e3131"
+owners = ["s5bug"]
+project_path = "CongaHelper"
+changelog = '''
+- Adds a command /conga as well as a button to the Party List GUI to arrange the party list in the same order as characters appear in the world. useful for TOP conga etc.'''
