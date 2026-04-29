@@ -1,6 +1,6 @@
   [plugin]
   repository = "https://github.com/CallumCarmicheal/XIVControllerToggle.git"
-  commit = "ce5124d7631ec62cbb560685f1b33141b5097af7"
+  commit = "7953a6260352263fe71ca10911e11f29152d4592"
   owners = ["CallumCarmicheal", "Aida-Enna"]
   project_path = ""
   changelog = """
