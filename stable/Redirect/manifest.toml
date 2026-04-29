@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/cairthenn/Redirect.git"
-commit = "c700074f2a52a94e24ccc83de25cc793dabcfb98"
+commit = "1861dca6e27eaafabd42f9a0e29b8b2f5086dccd"
 owners = [
     "cairthenn",
 ]
 project_path = "Redirect"
-changelog = "- Update for 7.4 / API14"
+changelog = "- Update for 7.5 / API15"
