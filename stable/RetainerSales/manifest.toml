@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://git.populo.dev/chris/RetainerSales"
+repository = "https://git.populo.dev/chris/RetainerSales.git"
 commit = "f8d4c90ff6fd1976215d11264cfdfe8b913abb02"
 owners = ["Populo"]
 project_path = "RetainerSales"
