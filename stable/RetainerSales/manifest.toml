@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://git.populo.dev/chris/RetainerSales.git"
-commit = "f8d4c90ff6fd1976215d11264cfdfe8b913abb02"
+repository = "https://github.com/Populo/RetainerSales.git"
+commit = "a9b62a89a04625262e6265ed982c975fe6b5a7a5"
 owners = ["Populo"]
 project_path = "RetainerSales"
 changelog = "dalamud 15"
