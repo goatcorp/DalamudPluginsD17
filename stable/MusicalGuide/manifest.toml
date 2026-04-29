@@ -1,12 +1,5 @@
 [plugin]
 repository = "https://github.com/yfthbr/musical-guide.git"
-commit = "cb7790631725047ba8d78b902266d8e4953f461b"
+commit = "6abc60dc1b49333b2d43fdbe5393a2bc62b886b2"
 owners = ["yfthbr"]
 project_path = "MusicalGuide"
-changelog = """
-Added chat commands:
-- `/mguide help` to show available commands
-- `/mguide gpose` to toggle first person tracking in gpose
-- `/mguide toggle` to toggle the plugin on and off
-- `/mguide 1pp` to toggle real first person mode
-"""
