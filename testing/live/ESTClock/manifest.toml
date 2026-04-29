@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/seventity7/ESTClock.git"
-commit = "6634b5e17769964cb68ed28b5160cf0c5058660c"
+repository = "https://github.com/seventity7/Clock.git"
+commit = "a0c08e3c27e05423ece9fbb4d9952d933bd17444"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
-changelog = "AI Disclosure update"
+changelog = "7.5 update+dalamud v15"
