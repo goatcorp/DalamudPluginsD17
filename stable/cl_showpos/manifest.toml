@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NotNite/cl_showpos.git"
-commit = "7e4697cd13eec158be0f5350f6dfc059fa66b588"
+commit = "dbe8da60a7162f99a2b9b90b7e1f3ccea576e54b"
 owners = ["NotNite"]
 project_path = "cl_showpos"

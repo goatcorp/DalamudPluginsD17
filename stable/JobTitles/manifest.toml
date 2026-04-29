@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "fd8a7356c8b473c81331ba6472a33189e0bc5a25"
+commit = "5537b7a6f29f314adfe91080141f2b1e6479d340"
 owners = ["keifufu"]
 project_path = "."
 changelog = """
-- Fixed other peoples unlocked titles being tracked as your own
+- Updated for 7.5/API15
 """

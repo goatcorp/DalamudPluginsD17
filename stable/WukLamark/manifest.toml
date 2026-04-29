@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Bronya-Rand/WukLamark.git"
+commit = "37734d8c2911700e8a27293130ed03c4ba6db9ea"
+owners = [
+	"Bronya-Rand"
+]
+project_path="WukLamark"
