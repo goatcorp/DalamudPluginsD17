@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "626956126da3d062d839c04ad04e9df66df3c20b"
+commit = "5476a1feb6548241b6ed5cebdc80ffc1105fcbeb"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-* UI Fix for DirectSound device enumeration under Windows. 
-* Fixes to WinSpeech when multiple messages were queued at once.
-* TTS messages are now ensured FIFO through the audio player. Fixes a race condition where one message could finish rendering first and play before a prior, longer message.
+* api15 bump
+* minor fixes to StopAudioPlayback
 """
