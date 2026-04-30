@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "b1825f67f6ff676a527d58d6931636e94cf99c1e"
-owners = ["0x0ade"]
-project_path = "CustomResolution2782"
-changelog = """
-- Fix crashes and hangs and other issues when disabling the plugin
-- Fix crashes and hangs and other issues when switching between modes
-"""

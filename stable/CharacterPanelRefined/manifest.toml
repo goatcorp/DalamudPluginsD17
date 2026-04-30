@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-characterstatus-refined.git"
-commit = "dfb19665385ed85cb3b30b45684aa05feff5b98d"
+commit = "7423e918c6d5c80c6319c8e902aefc64e34ce148"
 owners = ["Kouzukii"]
 project_path = "CharacterPanelRefined"
 changelog = """
-- Update to FFXIV 7.4 and Dalamud 14
+- Fix incorrect Item Level Sync calculation (long overdue, sorry)
 """

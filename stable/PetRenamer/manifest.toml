@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "a97113f35e3cb3ef0f3ac5563d178e788bdae86c"
+commit = "9de65db896bafb0090734ab543f237e576fcb1b6"
 owners = ["Glyceri"]
 	changelog = """
-[2.8.0.1] 
-+ Fixes a very minor IPC and Export bug.
+[2.8.0.2] 
++ Fixes a very minor notification bug.
 """
 
 

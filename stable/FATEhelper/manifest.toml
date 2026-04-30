@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "4390af5c12be69e1e2ea4bd204b2cd9eff72ec6e"
+commit = "095270c14d8dcf11ea177526924a79939768c695"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "added option to display and sort by level"
+changelog = "added closest aetheryte shard display for occult crescent, added /fh as secondary command"

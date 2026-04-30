@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "ba169cf37357b8d4c325103a13cc51b92fa271ce"
+commit = "bf870a7df7b1a8296d9f5a758f27a2f0a984c56a"
 owners = ["seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.12
-- 7.4 update
+Collections v1.0.3.1
+- Fix localization error
 """

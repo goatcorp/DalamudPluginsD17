@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/harbingerftw/Mappy.git"
-commit = "4d980eaea02695213a9084237493d25307a90321"
+commit = "0265ac3f8f0d46119723d9aa56d242b5c9c2c51d"
 owners = ["harbingerftw"]
 project_path = "Mappy"

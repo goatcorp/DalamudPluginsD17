@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "c9d3efb1717bd7036a2aa994b80231f2523efdc6"
-version = "1.8.0.30"
+commit = "f04323fa9383d429130aab6abdf7ad5fcea5fbb9"
+version = "1.8.1.31"
 owners = ["CMDRNuffin"]
-changelog = """Update for 7.4
-
-Also:
-- Adds a text filter for finding specific mounts in the list
-- Fixes mount names in tooltips being all lower case sometimes"""
+changelog = """
+Add Hardy-Daytona to the list of fast ground mounts
+"""

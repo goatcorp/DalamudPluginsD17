@@ -1,7 +1,16 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "57fcedca16f557d4070ebb4c8dd00fc87e8b12fa"
+commit = "362502d210a22174b4e76e9953e93975bd47c716"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """- Improved UI rendering performance.
+changelog = """
+- Event titles are larger and easier to read
+- Inline images and formatted descriptions in event details
+- Attendee counts shown on events
+- Search to quickly find events
+- Sort events by your preferred order
+- Your home world is auto-selected when you open the plugin
+- Regions and data centers with no events are hidden to reduce clutter
+- Only the next upcoming event per venue is shown (within the next month)
+- Various stability and performance improvements
 """

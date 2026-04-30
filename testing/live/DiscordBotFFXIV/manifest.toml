@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/devckuw/DiscordBotFFXIV.git"
+commit = "3449b664cbfb54e65dd4d400e29e6e0a062cd604"
+owners = ["devckuw"]
+project_path = "DiscordBotFFXIV"
+changelog = """
+- first release
+"""

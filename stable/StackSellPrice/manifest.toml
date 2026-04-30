@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Infiziert90/StackSellPrice.git"
-owners = [ "PrincessRTFM", "Infiziert90"]
+owners = [ "Infiziert90"]
 project_path = ""
-commit = "0381df14b52fddd9fdb74a4ac1e0723376f65dae"
+commit = "464854e4ff5f7788345b7e0e6d8301e8a40cd6a0"

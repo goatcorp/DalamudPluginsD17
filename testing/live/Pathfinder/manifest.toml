@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ktisis-tools/ffxiv-pathfinder.git"
-commit = "047c3ea23d305c618dc24ac23a863f92adace0ec"
+commit = "d2496772afa37d66765481ee17a0abde6fea9687"
 owners = ["chirpxiv", "sleepybnuuy"]
 project_path = "Pathfinder"
-changelog = "DAPI 14.0.1"
+changelog = "Added highlighting on hover, plus Dynamis IPC support"

@@ -1,12 +1,14 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '30542e1b1e1b4d41db78996695964b6f2b2b8d93'
+commit = 'a208e84fc3328178bed48065d0df23fd2b5fd1c6'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Valuable dyes are now factored into the item selection process when applying plates
-  - Previously, the selection process was all or nothing. It will now attempt to find a match with a valuable dye, or an item with any matching dye first
-- Dyes on items already in the current plate will no longer be ovewritten and waste a dye
-- Plates should now always fully apply and refresh on first try
+- The '(Dye)' suffix is now present in clipboard exports for better interop with other plugins (thanks @SubaruYashiro)
+- Added folder selection to plate creation (thanks @firstmagic)
+  - 'New Plate' button now allows picking a folder to create the plate in
+  - Clipboard and EC imports now allow picking a folder to create the plate in
+  - TryOn/Examine dropdowns now allow picking a folder to create the plate in
+- You can now move plates into folders via the right-click context menu in the list (thanks @firstmagic)
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

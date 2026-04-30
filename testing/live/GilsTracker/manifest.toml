@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/TheNickoos/GilsTracker.git"
+commit = "f52eb97c55e8f727c6094ad59667be2560370b8f"
+owners = ["TheNickoos"]
+project_path = "GilsTracker"
+changelog = '''
+Fixed a null reference exception.'''
+
