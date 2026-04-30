@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sleepybnuuy/swatch.git"
-commit = "2624e0b5a9362a3dcc69241992431f9228a42723"
+commit = "2e3a3fe8d76befb85b24ee74f53a5ff49b62d91a"
 owners = ["sleepybnuuy"]
 project_path = "Swatch"
-changelog = "initial release"
+changelog = "DAPI 15"
