@@ -2,11 +2,13 @@
 repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
 commit = "edad37bc1f8ebb4b4d285c5056025fb9eb115ca9"
 owners = [
-    "Bronya-Rand"
+    "Bronya-Rand",
+    "vmfunc"
 ]
 maintainers = [
     "Bronya-Rand",
+    "vmfunc",
     "reiichi001",
-    "goaaats",
+    "goaaats"
 ]
 project_path = "Dalamud.RichPresence"
