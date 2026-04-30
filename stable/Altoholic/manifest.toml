@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "e4b2e20f310746408fb1e51b97b67be1dd5718f8"
+commit = "81852755b4c4ff6a91b2ac581b82bc03329b0e05"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add 7.5
-- **Timer**: Add setting to display remaining timers in chat on zone change.
+- **Inventory**: Add armoire icon on gear icon that can be placed into the armoire for the glamour dresser inventory
+- **Timer**: Remove M4 from double reward check
 """
