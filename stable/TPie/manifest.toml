@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "34681ec94302d08e6859b0f9ec2d94ff29af9743"
+commit = "3a981d7c4a3e765b619b9f76273d479ce712cba6"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed nested rings bug introduced in last version."
+changelog = "- Added support for Patch 7.5 and Dalamud API 15."
