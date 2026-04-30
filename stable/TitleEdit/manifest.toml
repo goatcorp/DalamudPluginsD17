@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "5c03a6530184d7872ea20c2232ff46e0be9597f8"
+commit = "43c49558c4aba48b8fb197dbaf86d8f784a215a4"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- 7.5 and API15 update
+- Extra preset loading logging on failure
 """
