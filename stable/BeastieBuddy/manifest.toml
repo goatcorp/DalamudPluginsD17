@@ -1,7 +1,7 @@
 # stable/BeastieBuddy/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/BeastieBuddy.git"
-commit = "49b4cf714d24067e500c0770c819825ec9ea59e6" 
+commit = "b7eb7c028687778940260edd59104b144cc93ac4" 
 owners = ["rail2025"]
 # project_path = "BeastieBuddy" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.5.1: api bump+"
+changelog = "v7.50.1: api bump+"
