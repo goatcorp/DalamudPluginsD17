@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/nvrnight/ffxiv-partyfinder-plugin.git"
-commit = "30782bf9d91f5ad09bf28298822656a741e8871f"
+commit = "a087516aeee92788ad971be2142ce4ed0347bdf2"
 owners = ["nvrnight"]
 project_path = "PFSearch"
 changelog = "Updated high end duties."

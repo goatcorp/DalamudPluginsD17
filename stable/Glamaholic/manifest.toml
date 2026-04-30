@@ -1,9 +1,14 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '6b80c1c781b34b1923df1a95b4ddbe2aaae2d8b1'
+commit = 'a208e84fc3328178bed48065d0df23fd2b5fd1c6'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Fixed an edge case where outdated offsets could result in invalid glamour plate state
+- The '(Dye)' suffix is now present in clipboard exports for better interop with other plugins (thanks @SubaruYashiro)
+- Added folder selection to plate creation (thanks @firstmagic)
+  - 'New Plate' button now allows picking a folder to create the plate in
+  - Clipboard and EC imports now allow picking a folder to create the plate in
+  - TryOn/Examine dropdowns now allow picking a folder to create the plate in
+- You can now move plates into folders via the right-click context menu in the list (thanks @firstmagic)
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "768de9736d2f102e2c8443ceae005b3956ed462e"
+commit = "dda6b7d430c54d8675490a0dfd91d82fded0a3bc"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Heavensturn 2026
+- **Character**: Add housing last entry tracking, enable in setting, set the number of days and an icon will show on character tab list if last entry was older
+- **Timer**: Add loot tracking for current normal raid tier (Arcadion Heavyweight).
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ItsLunaYup/xivlauncher_physics_plugin.git"
-commit = "5d8cf57cce78df3cda55a78f98ace6ca92c5e796"
+commit = "0f55bd993743cf2196dd06744976651ac9d374a3"
 owners = ["ItsLunaYup"]
 project_path = "SamplePlugin"
 changelog = "Update for 7.4, upgraded to Dalamud 14"
