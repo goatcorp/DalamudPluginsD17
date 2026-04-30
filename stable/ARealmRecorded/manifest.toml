@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/UnknownX7/ARealmRecorded.git"
-commit = "cd5e4e621b638e195099a86945dec89d1243785b"
+commit = "b7305710f4a6c3857be7902d531e7984d6889dab"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Enabled recording Deep Dungeon Trials
-- Fixed countdowns (since it's probably still going to be broken until 7.5)'''
+- Fixed for 7.5
+- Added loading replays from a file path (Thanks to Limiana)'''
