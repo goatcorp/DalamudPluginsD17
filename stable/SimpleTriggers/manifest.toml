@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "5476a1feb6548241b6ed5cebdc80ffc1105fcbeb"
+commit = "2d52082a8cc809a6fcdb1d8a938a8e4c8378b157"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
 * api15 bump
 * minor fixes to StopAudioPlayback
+* minor improvements to Triggers tab
 """
