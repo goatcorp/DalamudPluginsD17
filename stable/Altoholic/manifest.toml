@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "81852755b4c4ff6a91b2ac581b82bc03329b0e05"
+commit = "621690c38a1c4fc225de5a3768f9f022316ebf08"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Inventory**: Add armoire icon on gear icon that can be placed into the armoire for the glamour dresser inventory
-- **Timer**: Remove M4 from double reward check
+- **Inventory**: Fix armoire icon if gear piece can also be in an outfit in glamour dresser inventory
 """
