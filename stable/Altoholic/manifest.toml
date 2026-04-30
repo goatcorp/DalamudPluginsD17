@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "dda6b7d430c54d8675490a0dfd91d82fded0a3bc"
+commit = "e4b2e20f310746408fb1e51b97b67be1dd5718f8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Character**: Add housing last entry tracking, enable in setting, set the number of days and an icon will show on character tab list if last entry was older
-- **Timer**: Add loot tracking for current normal raid tier (Arcadion Heavyweight).
+- **General**: Add 7.5
+- **Timer**: Add setting to display remaining timers in chat on zone change.
 """
