@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MythicPalette/Wordsmith-DalamudPlugin.git"
-commit = "8ab04f286e8526b7505b651d9db88eec8caa127d"
+commit = "aa243e0af7358ab2d1e2d44e965a2b8a88a2dfd6"
 owners = [
     "MythicPalette"
 ]
