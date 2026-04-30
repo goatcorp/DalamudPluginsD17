@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "fe0123a57ddc7d57b6e1c97421be8d239d183332"
+commit = "2348ce6572e995173c4a3b2eea14c3fca32590f1"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
