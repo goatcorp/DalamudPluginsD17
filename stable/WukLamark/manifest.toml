@@ -1,27 +1,7 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/WukLamark.git"
-commit = "e3b670546959e4b980c842cbda178c6bf59b3112"
+commit = "5f8b0da6a9fff3c80aca5bc136db2d743e79664f"
 owners = [
 	"Bronya-Rand"
 ]
 project_path="WukLamark"
-changelog = """**WukLamark 1.0.2.5 Changelog**
-## What's New
-First stable release of WukLamark.
-
-### Features
-- Added batch import/export of map markers.
-- Added the ability to use the shape color as a tint for in-game map icons. (Toggle `Apply Shape Color to Icon` in Edit Marker to enable this for a marker)
-- Added multi-selection of map markers for batch exporting and deletion.
-- Added the ability to change the size of map markers on the in-game map/minimap over the default size in Settings.
-- Added the ability to import map markers into a specific group.
-- Added the ability to create a crossworld map marker (hold Shift whilst creating a marker in the UI to make it crossworld).
-
-### Changes
-- Renamed `Visible Across Worlds/DCs` to `Visible Crossworld`.
-
-### Fixes
-- Fixed importing conflict detection.
-- Fixed permission logic.
-- Fixed a bug where some in-game icons displayed overly large.
-"""

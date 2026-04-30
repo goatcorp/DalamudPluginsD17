@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "6768dfbff0a8fea08ccb9f2f7973aa9edab8d1eb"
+commit = "62ebc6df6939ac7a21edf1bc1d88e7f5b5e03c78"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
@@ -17,4 +17,5 @@ fix:
     fix lodestone page with name with special chars
     fix icons for crossworld party leader and memeber
     fix condions for pf button
+    fix request data not being called when opening HousingMate addon
 """

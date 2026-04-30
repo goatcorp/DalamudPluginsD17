@@ -1,16 +1,10 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "83f4a75153ef7f6e8b661dc1a39b0fef6d8dba44"
+commit = "626956126da3d062d839c04ad04e9df66df3c20b"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-## Simple Triggers v0.3.5.2
-* New settings for filtering chat messages based on XivChatType.
-  * Added setting to ignore messages from Damage and Healing sources.
-  * Added a debug setting for the chat log history to include XivChatType information.
-  * You can manually select what channels the trigger system reads from, however note that documented types are missing several, if not most, of the game's actual list of combat related message types. It is suggested to leave the channel settings as default.
-* Chat history now shows the size of the log next to it.
-* Disabling chat logging does not clear the log anymore. Log is now only cleared when the user clicks "Clear Log"
-* Fix for audio device scanning: Devices are scanned when the plugin initializes the window. This fixes devices not being cached if the plugin is restarted and opens on the settings tab first.
-* Various little clean ups inside MainWindow.cs
+* UI Fix for DirectSound device enumeration under Windows. 
+* Fixes to WinSpeech when multiple messages were queued at once.
+* TTS messages are now ensured FIFO through the audio player. Fixes a race condition where one message could finish rendering first and play before a prior, longer message.
 """
