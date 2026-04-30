@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "13080b74cfb8bfafc81950738f874bcbac960db3"
+commit = "e4b2e20f310746408fb1e51b97b67be1dd5718f8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix database creation for new install
-- **Progress**:
-    - Add Moogle trove of Aphorism
-    - Add event rewards list when clicking on event name (Hatching hide 2026 only, will be retroactively updated)
+- **General**: Add 7.5
+- **Timer**: Add setting to display remaining timers in chat on zone change.
 """

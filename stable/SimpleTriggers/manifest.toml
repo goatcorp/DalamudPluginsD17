@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Brolijah/SimpleTriggers.git"
+commit = "b8ae28c0ebd49ed074f4a9f7b1c5cc1a8d910ea4"
+owners = ["Brolijah"]
+project_path = "SimpleTriggers"
+changelog = """
+* tweaks to trigger structure
+"""

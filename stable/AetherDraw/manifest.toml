@@ -1,7 +1,7 @@
 # stable/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "791ea22255db428f163c58f3bc807bbe5a3e621d" 
+commit = "d9c2f6a6a0a57f18af2db60df08a99e9d7a7566a" 
 owners = ["rail2025"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
-changelog = "v2.4.6.0:api bump, criterion support\nv2.4.5.0:Arena bg, light party job icons\nv2.4.4.2:API 14,7.4"
+changelog = "v7.5: api 15"

@@ -1,17 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "b131ee3f9225b72773e4def862b19319c89330b3"
+commit = "8bb134369f7c8692c35161805150d82582f379d3"
 owners = [ "haroldiedema" ]
 maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.12
+# Umbra 3.1.13
 
 ## Fixes & Improvements
 
-- Fixed some translations (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Added markers for Eureka elementals (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Fixed error when calculating bonus for Custom Deliveries (By [wolfcomp](https://github.com/wolfcomp)).
+- Added an option to hide the toolbar while editing the native HUD (By [wolfcomp](https://github.com/wolfcomp)).
+- Unified Main Menu: Fixed character name for non-global players that can have a single name (By [pyreymo](https://github.com/pyreymo)).
+- Currencies: Fixed grand company currency not updating max size when rank changes (By [wolfcomp](https://github.com/wolfcomp)).
+- Societies: Progress bar now uses the progress bar color instead of accent color (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Add compatibility to 7.5 and API15 (By [wolfcomp](https://github.com/wolfcomp), [alexpado](https://github.com/alexpado), [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 
