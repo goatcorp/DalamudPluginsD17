@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Drahsid/HybridCamera.git"
-commit = "0056e9a581f5204b4a5b9376db1019572d973b33"
+commit = "fcf9861709fa2192144d7e210acac8190afbafdf"
 owners = ["Drahsid"]
 project_path = "HybridCamera"
 changelog = """
