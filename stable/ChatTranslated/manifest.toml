@@ -1,16 +1,11 @@
 [plugin]
 repository = "https://github.com/kelvin124124/ChatTranslated.git"
-commit = "93788239202e970bab80c145d4832f045ae6a766"
+commit = "f2586ff5a34d10642ff952e409bc23a8f9ee5280"
 owners = ["kelvin124124"]
 project_path = "ChatTranslated"
 changelog = """
-Drop messages without 2 consecutive unicode char / 1 CJK char
-Drop messages when it's already in target language
-Drop pure links
-
-Fix CustomTargetLanguage option not working
-
-Condense code
+migrate to api 15
+replace hardcoded values for payload skipping with a safer implementation
 """
 [plugin.secrets]
 cfv5 = "-----BEGIN PGP MESSAGE-----\n\nwV4D5E6vRX2hj04SAQdAwWjD3/KyJImP8dQmxaYopsnRrAzxTTyBXpjy8wD+\nukMwftTv2MvAmtpo4gs6XnvaiOwFbWGronS9JHxu6KX7VkYfqyoLBZNMdo+P\nqkCaSBuI0lgBYA7NBgG1qsc01OP7aWuQCwEsBTgBxUKHu3NXpJUA39789ZdG\nlijhq24gEee+H7e6TALiGvYh++jDhm7W07WnfBbuN8u/LmRlzXr9t+0ASIVv\niamGCfnX\n=iNor\n-----END PGP MESSAGE-----\n"
