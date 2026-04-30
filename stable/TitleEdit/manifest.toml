@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "ebe574ceb676438e66596db6a7fe49d2e19dcdaf"
+commit = "5c03a6530184d7872ea20c2232ff46e0be9597f8"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Maintenace update
-- Added Plo
+- 7.5 and API15 update
 """
