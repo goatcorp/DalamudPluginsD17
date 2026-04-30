@@ -1,11 +1,8 @@
 [plugin]
 repository = 'https://github.com/RokasKil/SteamRecordingEnhanced.git'
-commit = '690b37401cca497f5d3a17df41748581a729221e'
+commit = 'fcbbeb25ee5f29a08a038791ca217fc80d977260'
 owners = [ 'RokasKil' ]
 project_path = 'SteamRecordingEnhanced'
 changelog = """
-Initial testing release!
-
-Steam Recording Enhanced is a plugin that integrates with Steam Game Recording feature to automatically add various in-game events to your recording timeline as markers for easy cliping and rewinding.
-Setup instruction for non-steam users included.
+- 7.5 and API15 update
 """
