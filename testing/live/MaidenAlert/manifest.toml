@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/seventity7/MaidenAlert.git"
-commit = "d5359cc630424687b3a5b4eeb9bc7eed0a21b43e"
+commit = "7ab3cd7c5a26c4dc595fbf9affc4adef63ef7bc7"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
-changelog = "Initial Release"
+changelog = "Initial Release+detection system improvement"
