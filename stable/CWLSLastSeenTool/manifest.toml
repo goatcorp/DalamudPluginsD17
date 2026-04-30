@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "a9946dc3f02f4bcc5bf25cc2b7959d6f843983d7"
+commit = "ac56998775797d6573ea324d44f5c8f1ff388bd9"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
 changelog = """
-Version 1.2.0.1
+Version 2.0.0.0
 
-- Added support for regular/home world linkshells.
+- CWLSLastSeenTool has been renamed to Linkshell Tools
+- The /cwlslst command has been renamed to /shelltools
+- Data recorded has been standardised between Cross-world and Home World Linkshells
+- A lot of the plugin has been rewritten to be easier to maintain and extend going forward
+- Cross-world Linkshells now properly support multiple data centers by recording the data center alongside the Cross-world Linkshell name
+- Fixed CSV corruption when Linkshell names contained commas (data is now stored as tab separated)
 """
