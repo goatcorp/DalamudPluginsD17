@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/seventity7/MaidenAlert.git"
+commit = "566949c84100556ba5ceef8869c5921ea5160216"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = "Initial Release"
