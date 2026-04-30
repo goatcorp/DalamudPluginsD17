@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "f04323fa9383d429130aab6abdf7ad5fcea5fbb9"
-version = "1.8.1.31"
+commit = "ea8cacd4823653bb8b02e5db5664a836dc0f0e4a"
+version = "1.8.1.32"
 owners = ["CMDRNuffin"]
-changelog = """
-Add Hardy-Daytona to the list of fast ground mounts
-"""
+changelog = '''
+Update for 7.5'''
