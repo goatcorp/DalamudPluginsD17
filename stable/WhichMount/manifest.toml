@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "b7c81b05e7dd418917eaf220aee82080f125aaa1"
+commit = "84e9f050c7a801db0403dce2d3312f5a7143ce64"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.4.0"
+version = "1.4.1"
 changelog = """
+Version 1.4.1:
+  - UI fixes
 Version 1.4.0:
   - UI/UX improvements
   - Market Board availability obtion

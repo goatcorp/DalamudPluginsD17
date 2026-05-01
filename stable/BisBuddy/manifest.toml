@@ -1,14 +1,8 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "6cb91f749c94651d07f1d3067a1fb1cf9b262a13"
+commit = "d4a7fa2f47a756d625cccaddf23a9b2862279a34"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-**Added**
-- Materia tab to show required materia counts to succeed on melds (ala Teamcraft)
-**Fixes**
-- Fix old config migrations not saving, causing new gearsets to be overwritten
-- Fix import failures on some valid static xivgear bis links
-- Fix jobs being incorrect on xivgear multi-job pages
-- Fix rare item requirement race condition crash
+API 15 + 7.5 changes
 """

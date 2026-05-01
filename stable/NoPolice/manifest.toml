@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/Noctrepo/NoPolice.git"
+commit = "5570aa5958fbfabae79243a0a697b4f117584c21"
+owners = ["Noctrepo"]
+project_path = "NoPolice"
+changelog = "Update to v15, Remove messages from chat"

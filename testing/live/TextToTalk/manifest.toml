@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "4a1a3672ab78506d9d76d43a098359a47fc8fcc1"
+commit = "3d309a4544407aacf6b980c9569e377f1579054b"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Kokoro**: Adds volume slider.
+- **General**: Fixed outgoing tells being spoken with "Skip messages from you" enabled.
 """

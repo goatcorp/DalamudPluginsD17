@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8a3c04489c0ce89b71430dd2a3500f87e1d8efbb"
+commit = "02343642b4999db646bdc9016dc86e17d308caf5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Details**: Fix GC rank mix up twin adder/immortal.
-- **Progress**: Remove colon in island sanctuary rank text
+- **Inventory**: Fix armoire icon if gear piece can also be in an outfit in glamour dresser inventory
+- **Timers**: Fix chat remainders reminders for not unlocked things
 """

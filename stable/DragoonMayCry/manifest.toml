@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "44132bd22284d5aac89f98d1c643ee8e48ce58ac"
+commit = "0ee2b24a3059f8697ec994469c7f02e2b6888bba"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- fixed performance issue when changing jobs
+- API 14 update
 """
