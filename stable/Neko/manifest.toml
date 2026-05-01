@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "33a9a284d93e653d74cd1c3c93d542e264916386"
+commit = "d3f569edd15007645eeb7f7e775b48f397d43d1b"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Update to API 14"""
+changelog = """- Update to API 15
+- Beastmaster support: Catgirls are now valid beasts"""
