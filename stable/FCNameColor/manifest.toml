@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "059ba93359d371085d1972e0712e71f8e33510f2"
+commit = "71f38e6bff742a91f8aeb4da4d6d88fd75ec8925"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 7.4 (Thanks Boxu!)
+- Update for API15
 """

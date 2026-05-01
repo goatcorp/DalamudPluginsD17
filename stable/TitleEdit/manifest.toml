@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "2ba4d40eae7c88f706583ac3752cea00df45a64a"
+commit = "43c49558c4aba48b8fb197dbaf86d8f784a215a4"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-Maintenance:
-- Include Decals when using layout saving (fixes scorch marks in Tuliyollal)
+- Extra preset loading logging on failure
 """

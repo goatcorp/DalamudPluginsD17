@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "9e2fcd60fe2cf082f73e8267492f35eaa9d7eb7b"
+commit = "81852755b4c4ff6a91b2ac581b82bc03329b0e05"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Collection**: Update facewear
-- **Progress**: Update Hildibrant
+- **Inventory**: Add armoire icon on gear icon that can be placed into the armoire for the glamour dresser inventory
+- **Timer**: Remove M4 from double reward check
 """
