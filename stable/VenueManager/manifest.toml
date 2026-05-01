@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Jrogo7/VenueManager.git"
-commit = "3d21df168ce9448c60178fb03620de8e1eb907f4"
+commit = "8fd73c3f8773e8a20d672c3d938bffdb8cf0a6c3"
 owners = ["Jrogo7"]
 project_path = "VenueManager"
 changelog = """
 
-- Updated Dalamud version 
+- Fixed Typo 
 
 """

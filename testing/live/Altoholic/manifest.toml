@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "48f8172dd161fc524079f54bf76836437b151d08"
+commit = "307a20621f0cadae6ef2feed1ef3442c7dcfc74f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add missing Hildibrand from 7.35
+- **Timers**: Jumbo cacpot reset timer fix
 """

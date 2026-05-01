@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/rae-destil/ff14-backseat-driver.git"
-commit = "7f4372a243b78438a970084b6237827b6a09cdbf"
+commit = "df04db1c08c07e7d269fd08ad4c94dabc6136205"
 owners = ["rae-destil"]
 project_path = "BackseatDriver"
 changelog = """
-# v0.2.1.1
+# v0.2.1.2
 
 - Duty hints phrasing improvements.
-- Coach mode can now print directly into chat.
-- Fix issues where the Driver Window would not show hints in some duties.
-- Fix issues where Driver Window items wouldn't align properly.
+- API update.
 """

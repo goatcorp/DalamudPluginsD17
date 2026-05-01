@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "4f20b7c2ca55d830a97932b03b649fc72675d0da"
+commit = "94c894a31d3bc0401f132dea80d8d82c19b8edcb"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Fixed Nested Ring \"Keep Previous Ring Center\" setting not working properly."
+changelog = "- Added support for Patch 7.5 and Dalamud API 15."

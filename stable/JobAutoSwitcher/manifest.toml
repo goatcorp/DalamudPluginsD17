@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Valiice/JobAutoSwitcher.git"
+commit = "ccf73c9db2c4b5c4f694d33624ebbea51880cbfe"
+owners = ["Valiice"]
+project_path = "JobAutoSwitcher"
+changelog = "Update for Dalamud API15 / patch 7.5"
