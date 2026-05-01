@@ -2,7 +2,7 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "f97c3dc73391f997a69195fa6b8061e8f5b9d020"
+commit = "5066ef8fba3474284757a378713eeb4aafbb14af"
 changelog = """
 # NeatNoter 2.7.6 (Test)
 
@@ -11,6 +11,7 @@ changelog = """
 - Updated to patch 7.5.
 - Updated to Dalamud sdk 15.
 - Added background color and transparency option to the overlay window. Fixed the note edit UI to scale properly with dalamud setting to change UI scaling.
+- Updated the plugin icon.
 
 If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
 """
