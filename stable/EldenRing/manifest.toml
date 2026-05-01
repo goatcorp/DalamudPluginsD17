@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MKhayle/EldenRingDalamud.git"
-commit = "96aec686fbb51971faa8a9d299a7af605d6f09d3"
+commit = "603e9281b750716e4393698e85df459c08efe901"
 owners = [
 	"Roselyyn", 
 	"reiichi001",
@@ -8,5 +8,5 @@ owners = [
 ]
 project_path = "EldenRing"
 changelog = """
--# API 15 update
+-# API14 update
 """
