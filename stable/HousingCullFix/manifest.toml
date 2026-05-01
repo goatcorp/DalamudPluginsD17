@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Abyeon/HousingCullFix.git"
-commit = "2148ef096dea77de36c1a2307c09d0c0a4743198"
+commit = "5128b8500b42d17d7710454e8cc42cbeff031d8b"
 owners = ["Abyeon, Glorou"]
 maintainers = ["Abyeon"]
 project_path = "HousingCullFix"
