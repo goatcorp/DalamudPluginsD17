@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
-commit = "edad37bc1f8ebb4b4d285c5056025fb9eb115ca9"
+repository = "https://github.com/Bronya-Rand/Dalamud.RichPresence.git"
+commit = "9bd9775881b51c01c6f3d579a217a333d310dc8b"
 owners = [
     "Bronya-Rand",
     "vmfunc"
