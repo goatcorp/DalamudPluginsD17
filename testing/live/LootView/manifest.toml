@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "e7939444c51d90a4a267e31e32fc435d8548efe8"
+commit = "7948f38adfa1cdb051a9740548be0ff356d2c4a5"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.3.1
-- Updated to Dalamud API Level 14
-- Updated to .NET 10
-- Compatibility updates for latest FFXIV patch
+# Version 1.3.2
+- Blacklist Bug Fix
 """

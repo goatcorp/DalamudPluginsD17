@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "9cc1c302a4ccb98e6f85695e063c18c35c49c7a1"
+commit = "4ed504c4524bbd2d26dd368abdb56c4bdfe74105"
 owners = ["Styr1x"]
 project_path = "Browsingway"
 changelog = """\
-- Bump Chromium to 143.0.7499.40
-- Api 14
+- Api 15
 """

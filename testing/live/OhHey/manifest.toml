@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/MeiHasCrashed/OhHey.git"
-commit = "44a761ad56baa0e09383fd17a0c49fb8e04ccdc5"
+commit = "cc9c15ae569860ddb8926725a4141aaea82f0fbd"
 owners = ["MeiHasCrashed"]
 project_path = "src/OhHey/"
 changelog = """
-# Oh Hey 0.0.3
+# Oh Hey 0.1.0
 
-## Fixes
-- Fixed crash to desktop caused by UI code running on the wrong thread. Sorry!
+- Added option to display the number of players that are currently targeting you in the server bar.
 """

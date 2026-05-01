@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/EuphoricCrashOut/DutySpeed.git"
+commit = "331d85ef5de8701adce9dd573dde6902c3ba24cf"
+owners = ["EuphoricCrashOut"]
+project_path = "."
