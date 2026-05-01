@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
+repository = "https://github.com/Bronya-Rand/Dalamud.RichPresence.git"
 commit = "edad37bc1f8ebb4b4d285c5056025fb9eb115ca9"
 owners = [
     "Bronya-Rand",
