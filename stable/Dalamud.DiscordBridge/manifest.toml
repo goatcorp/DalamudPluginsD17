@@ -1,11 +1,17 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "26994b997190ff956bc1a4eeb5d9299ec9f8fbeb"
+commit = "19667c04334dd7abfa34f918fac512117129d2f0"
 owners = [
+    "reiichi001",
+	"goaaats",
+]
+maintainers = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Updated for API 14. There are some underlying changes to reduce build warnings. If a previously working feature (ex: avatars) stopped working, please report this.
+Preliminary update for API 15. There are underlying changes in chat handling. Please report if a given chat type stop working.
+
+This plugin is looking for a new owner/maintainer. Please reach out to Franz if you want to adopt it.
 """

@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "2ba4d40eae7c88f706583ac3752cea00df45a64a"
+commit = "7bf92cfefbcd608ee1eba3b76d472e7c0fbb1d49"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-Maintenance:
-- Include Decals when using layout saving (fixes scorch marks in Tuliyollal)
+- Fix the game hanging on load (hopefully)
+- Improved BGM sheet loading logic
 """

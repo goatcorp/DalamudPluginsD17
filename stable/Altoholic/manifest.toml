@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "80e20ada9d5086d928663092655cf292879cb4d1"
+commit = "81852755b4c4ff6a91b2ac581b82bc03329b0e05"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Config**: Move timer config to its own tab
-- **General**: Add dye icons on gear pieces.
-- **Progress**: Add Valentione 2026.
-- **Timers**: Config option for adding cross mark for unlocked timer instead of emptiness
+- **Inventory**: Add armoire icon on gear icon that can be placed into the armoire for the glamour dresser inventory
+- **Timer**: Remove M4 from double reward check
 """
