@@ -1,14 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = 'a208e84fc3328178bed48065d0df23fd2b5fd1c6'
+commit = '23e4f4802cb49cf53c888287ea7c68d9d7e57a93'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- The '(Dye)' suffix is now present in clipboard exports for better interop with other plugins (thanks @SubaruYashiro)
-- Added folder selection to plate creation (thanks @firstmagic)
-  - 'New Plate' button now allows picking a folder to create the plate in
-  - Clipboard and EC imports now allow picking a folder to create the plate in
-  - TryOn/Examine dropdowns now allow picking a folder to create the plate in
-- You can now move plates into folders via the right-click context menu in the list (thanks @firstmagic)
+- Updated for API 15
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """
