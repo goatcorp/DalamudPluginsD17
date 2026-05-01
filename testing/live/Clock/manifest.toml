@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "e9ed666c86d147f7c3eaa874e3e337fc06087928"
+commit = "46079d53fc40914680b29b3cd37c2ea606a2ec78"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
-changelog = "7.5 update+dalamud v15"
+changelog = "Update 1.0.6.2 / New feature"
