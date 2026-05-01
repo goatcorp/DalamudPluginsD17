@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "43c49558c4aba48b8fb197dbaf86d8f784a215a4"
+commit = "7bf92cfefbcd608ee1eba3b76d472e7c0fbb1d49"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Extra preset loading logging on failure
+- Fix the game hanging on load (hopefully)
+- Improved BGM sheet loading logic
 """
