@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/MKhayle/BetterTargetingSystem.git"
-commit = "0d7dd961dc7d4c75f31a7ecfab52231dfd5c7e22"
+commit = "b3b6f2942bb89a6ecca869d3d4b3a972f5bcb584"
 owners = ["Lynesth", "MKhayle"]
 project_path = "BetterTargetingSystem"
 changelog = """
--# Fixed a bug with GameObjects"""
+-# Fixed the target filter"""
