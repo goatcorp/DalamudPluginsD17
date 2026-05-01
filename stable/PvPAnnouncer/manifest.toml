@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "4f69e18c94a8d060beb874cbbca4d8a6f6630303"
+commit = "0b9895d73b9d59efec83711212fef1dd8f51659e"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "- Dawntrail requirement has been fully removed.\n- Emet-Selch, Haurchefant and Aymeric have been added as announcers!\n- You can now create your own custom announcers, add their voicelines to events, and mute/remove default voicelines! Just check the new button at the top of the config.\n- Please submit feedback if anything is unclear or seems like a bug. Your feedback helps make the plugin better!"
+changelog = "Updated to 7.5 - Zero has been added!"

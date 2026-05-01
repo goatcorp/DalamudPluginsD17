@@ -1,8 +1,12 @@
 [plugin]
-repository = "https://github.com/Sidiousious/musical-guide.git"
-commit = "4af34ff917dbed6f3589582bd160e34b281b32fa"
-owners = ["Sidiousious"]
+repository = "https://github.com/yfthbr/musical-guide.git"
+commit = "cb7790631725047ba8d78b902266d8e4953f461b"
+owners = ["yfthbr"]
 project_path = "MusicalGuide"
 changelog = """
-- added option to use first person tracking in gpose
+Added chat commands:
+- `/mguide help` to show available commands
+- `/mguide gpose` to toggle first person tracking in gpose
+- `/mguide toggle` to toggle the plugin on and off
+- `/mguide 1pp` to toggle real first person mode
 """

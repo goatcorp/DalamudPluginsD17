@@ -1,7 +1,7 @@
 [plugin]
 repository = 'https://github.com/Cytraen/SoundFilter.git'
-commit = '48d91c6a0054cd81a6a7719f0da01785f8e5699e'
+commit = '0d1158bed074795b3e75a0170ecb2f67e62599a1'
 owners = ['Cytraen']
 changelog = """
-- Update for 7.4
+- Update for 7.5
 """

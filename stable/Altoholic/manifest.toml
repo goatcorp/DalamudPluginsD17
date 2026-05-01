@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "9e2fcd60fe2cf082f73e8267492f35eaa9d7eb7b"
+commit = "02343642b4999db646bdc9016dc86e17d308caf5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Collection**: Update facewear
-- **Progress**: Update Hildibrant
+- **Inventory**: Fix armoire icon if gear piece can also be in an outfit in glamour dresser inventory
+- **Timers**: Fix chat remainders reminders for not unlocked things
 """
