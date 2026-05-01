@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/rphubco/glance.git"
-commit = "ddaf1983ee10cd7e4cbe45a6bb11241e7204392a"
+commit = "ac04d776d54d629d3b4fbaf2e0716ae20b19d1e0"
 owners = ["rphubco"]
 changelog = "Initial submission"
