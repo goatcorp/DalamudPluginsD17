@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/SoundEffectMuter.git"
 owners = [ "spide-r"]
-commit = "ae8fcf881d6527dd6f5d9f1c0fc67837edb4bae6"
+commit = "56d5829b1ab90561bc8ce23d2c1a5bc06d248ac0"
 project_path = "SoundEffectMuter"
 changelog = "Updated to 7.5, fixed a few bugs"
