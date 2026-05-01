@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/ItemUse.git"
-commit = "cbf0e10e6dd5f80965a990bbfbf6104103d82132"
+commit = "2e7dfc5f7eb122aea5b8705706d4bd8c5000f42d"
 owners = [
     "PunishedPineapple",
 ]
