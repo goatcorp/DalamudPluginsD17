@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/meoiswa/TiltedPlugin.git"
-commit = "6f12c9a25f91ebd61b595493dc183f7a6efcec02"
+commit = "2c7b992317b0b50b92c667987f7c862a1660fd32"
 owners = ["meoiswa"]
 project_path = "Tilted"
 changelog = """
-Version 4.4.0.0:
- - Updated to API14
+Version 4.4.1.0:
+ - New temporary icon
+ - Fix: Disable during cutscenes to avoid triggers on weapon unsheathe
+ - Updated to API15
 """

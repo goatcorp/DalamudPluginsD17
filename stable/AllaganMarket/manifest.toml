@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "ce42dc6ef1d26694ceba55f1ff750abc4acbdaf7"
+commit = "33e4510f6577f3945f2f4f84674e2ca284453de0"
 owners = [ "Critical-Impact",]
 project_path = "AllaganMarket"
-version = "1.3.0.6"
-changelog = "### Changed\n- Added icon column to sale summary"
+version = "1.4.0.0"
+changelog = "### Changed\n- API15 update"

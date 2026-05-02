@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0398fe39b1cda755f5171efa34f469fe004297f6"
+commit = "a3d9479b6b9911fa66b397373ecf90c085be9564"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.6"
-changelog = "### Fixed\n- Windows should save their position correctly along with keeping their correct position when the UI is hidden\n- Trying on items shouldn't interfere with the Save/Delete outfit button unless trying on more than 1 item"
+version = "1.15.0.0"
+changelog = "### Changed\n- API15 update\n- Data update for 7.5\n- Now parses the extra items from the armoire + housing"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "00b65444c3d0ed0125758a4a29dab3fce921f6fc"
+commit = "6b418a3d855e7de42d89416f9ec40b666c0d3430"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Config**: Add frontline timer checkbox config.
+- **Timers**: Fix some timers remainders chat reminders conditions. Fix timer tab columns number.
 """

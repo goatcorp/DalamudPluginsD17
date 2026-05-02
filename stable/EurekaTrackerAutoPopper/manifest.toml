@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
-commit = "d6c8018f10e3de56c4787a65a57bcf8012dad1cd"
+commit = "e0f1d02940657ebcaa6fd5050d3d370833dca6a2"
 owners = [
     "Infiziert90"
 ]
