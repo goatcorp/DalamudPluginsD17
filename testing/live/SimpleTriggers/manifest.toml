@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "626956126da3d062d839c04ad04e9df66df3c20b"
+commit = "8541a6f99a80626b69fa994a2795ea4806a6bc04"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-* UI Fix for DirectSound device enumeration under Windows. 
-* Fixes to WinSpeech when multiple messages were queued at once.
-* TTS messages are now ensured FIFO through the audio player. Fixes a race condition where one message could finish rendering first and play before a prior, longer message.
+## SimpleTriggers v1.0.2.0
+* Added new TTS option: DECtalk
+* Library loads from latest release on dectalk/dectalk and validates hashes before loading into memory.
 """
