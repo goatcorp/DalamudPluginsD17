@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "9de65db896bafb0090734ab543f237e576fcb1b6"
+commit = "0c3fff37a9917b9e090a6bdfc94c9e3def6215c5"
 owners = ["Glyceri"]
 	changelog = """
-[2.8.0.2] 
-+ Fixes a very minor notification bug.
+[2.9.0.0] 
+API15
 """
 
 
