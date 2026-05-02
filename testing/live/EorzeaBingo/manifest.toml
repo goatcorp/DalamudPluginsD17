@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/OOFGamesss/EorzeaBingo.git"
-commit = "d3f92c44b7cec2bad88e3bb7cf3971997fab24de"
+commit = "a2fef46f0def91060086435babbf38f7e17ffb8d"
 owners = ["OOFGamesss"]
 project_path = "EorzeaBingo"
 changelog = "Introducing Eorzea Bingo!\n\na chat-driven multiplayer bingo game for Final Fantasy XIV\n\nKey Features:\n- Join or host multiplayer games using simple room codes.\n- Play on a classic 5x5 grid with numbers from 1 to 70.\n- Boards update automatically when the host rolls /random in chat.\n- Claim victory by completing a horizontal, vertical, or diagonal line.\n- Start every game with a guaranteed centre free space."
