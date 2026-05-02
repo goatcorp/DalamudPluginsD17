@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/OOFGamesss/ChocoboRacing.git"
-commit = "ee12753ae9a60693d4217e9df81655593d48b3ad"
+commit = "725908646084ca8eaa96b1e2160d55cab49e2bf0"
 owners = ["OOFGamesss"]
 project_path = "ChocoboRacing"
-changelog = "First Release for Alpha testing"
+changelog = "Introducing Chocobo Racing!\n\na chat-driven multiplayer minigame plugin for Final Fantasy XIV\n\nKey Features:\n- Multiplayer racing for 2 to 10 chocobos with progress determined by host /random rolls.\n- Chat-based synchronisation via Say, Party and Alliance channels.\n- Customisable race settings including participant counts and finish line distances.\n- Visual race track interface featuring smooth animations and winner highlights."
