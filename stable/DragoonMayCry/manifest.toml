@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "0aa23eec3ff61c265be07d47d3ff44778b132e92"
+commit = "9a978f61003b5f856f51bdaff877ea3e6c8ba461"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
