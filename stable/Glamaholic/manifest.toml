@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '23e4f4802cb49cf53c888287ea7c68d9d7e57a93'
+commit = 'e9e8de7141242c1d99aa6e80c24a32b0371fbbcb'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Updated for API 15
+- Updated "Hover to Preview / Copy Stains" to support the new categorized stain items
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """
