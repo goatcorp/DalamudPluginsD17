@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "7119626de4e3df3b2f3f34a2a5e286615242b203"
+commit = "86ed0f5a615c80ab59641b25746cd4d11294533b"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
-- update for api 14
-- more robust sound player 
+- update for api 15
 """
