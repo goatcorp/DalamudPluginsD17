@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/MKhayle/BetterTargetingSystem.git"
-commit = "eea69e671a8192ec27efc4bea3ff46ba0a5330ae"
+commit = "f7169b0321fb45bea3ca73b0404d064cbfd7415c"
 owners = ["Lynesth", "MKhayle"]
 project_path = "BetterTargetingSystem"
 changelog = """
--# Fixed the target filter
--# Added null-guard pointers (by PapaSmurf-ML64)"""
+-# Fixed issues when compiling release vs debug
+-# Added debug logging for easier fixing in the future"""
