@@ -1,13 +1,7 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/WukLamark.git"
-commit = "55aa53508f546e362c35ef1cbc179b041944db59"
+commit = "d0be1021fb6c1d98ec186610affa0d7d1b902427"
 owners = [
 	"Bronya-Rand"
 ]
 project_path="WukLamark"
-changelog = """**WukLamark 1.0.2.3 Changelog**
-## What's New
-- Renamed all mentions of 'Waymark' to 'Map Marker'/'Marker' to avoid confusion with XIV's waymark system.
-> I only realized this existed. Sorry to those who thought this was for raiding purposes or whatnot :(
-
-- Added a 'All Icons' tab to search every icon versus per tab."""

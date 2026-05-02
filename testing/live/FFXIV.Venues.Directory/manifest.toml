@@ -1,14 +1,13 @@
 [plugin]
 repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
-commit = "010c51ed5fe0992e7f0b045ba7e0874c8c803e5f"
+commit = "e48cec437fe349596ccd764dc3af78d2581bd274"
 owners = ["AEBus"]
 project_path = "FFXIV.Venues.Directory"
 changelog = """
-This update makes venue browsing easier and cleaner in everyday use.
+Updated for the latest Dalamud release.
 
-- Refined the browser layout for a more readable list and detail view.
-- Improved filters and sorting so it is faster to find the venue you want.
-- Better address and action handling for copying details or opening venue links.
-- Schedule display is clearer and easier to follow in your local timezone.
-- General polish across banners, descriptions, and venue details.
+- Keeps the venue directory working with the current game/plugin environment.
+- Banners now show a simple loading message while images load.
+- Improved reliability when opening, closing, and refreshing the directory.
+- General browsing polish for venue lists, details, filters, and schedules.
 """

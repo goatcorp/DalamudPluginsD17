@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "4d32dd0aec11498c7453cf0ac8f3193341fccbaf"
+commit = "5570aa5958fbfabae79243a0a697b4f117584c21"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
-changelog = "Hides the Weeaboo Police and his alts"
+changelog = "Update to v15, Remove messages from chat"
