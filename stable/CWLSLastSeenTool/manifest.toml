@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "ac56998775797d6573ea324d44f5c8f1ff388bd9"
+commit = "f16c7f2fe56a77316a87049392bca32dccdf966f"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
 changelog = """
+Version 2.0.1.0
+
+- Update to Dalamud SDK 15 for patch 7.50
+
+
 Version 2.0.0.0
 
 - CWLSLastSeenTool has been renamed to Linkshell Tools
