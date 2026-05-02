@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "47d0f2cf3e15f7f60d55be92ba5148c786ce6f67"
+commit = "33c2c9c4eb63070ab9d2842c44ab86ea111fb650"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Fix an error when loading images"
+changelog = "Update for FFXIV 7.5 (Dalamud API 15)"
