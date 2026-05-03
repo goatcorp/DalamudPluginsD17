@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bluefissure/NoKillPlugin.git"
-commit = "c22784238f5b2c1304538f5ff82236b6be8ebe69"
+commit = "e1b44c37626e764d0ae763692554b879a122ead9"
 owners = ["Bluefissure"]
 project_path = "NoKillPlugin"
-changelog = """API14"""
+changelog = """API15"""
