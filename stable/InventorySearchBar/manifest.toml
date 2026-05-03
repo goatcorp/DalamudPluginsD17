@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
+commit = "1a5d8a66bded6a00c621e01db22525b3d8cee15f"
+owners = ["caitlyn-gg"]
+project_path = "InventorySearchBar"
+changelog = "- Updated for 7.5"

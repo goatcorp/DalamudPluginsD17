@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "48f8172dd161fc524079f54bf76836437b151d08"
+commit = "ff697c850b7f80816959c4f7405b4602eeebe1a0"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add missing Hildibrand from 7.35
+- **Timers**: Fix fashion report remainder chat reminder
 """

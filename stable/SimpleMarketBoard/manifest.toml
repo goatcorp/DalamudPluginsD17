@@ -1,10 +1,14 @@
 [plugin]
 repository = "https://github.com/Elypha/SimpleMarketBoard.git"
-commit = "865bf09caa85752be63d6fe953ecb00253679060"
+commit = "d2485e32755895f5119446847abbb9ba52fd0b4b"
 owners = ["Elypha"]
 project_path = "SimpleMarketBoard"
 changelog = """
 v1.11.0.0
 - Update to API 14.
 - Minor fixes and improvements.
+
+v1.11.0.1
+- Update to API 15.
+- Add support for Chinese client.
 """

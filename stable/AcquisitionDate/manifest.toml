@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "50504d31782dc851f1b35bb9109eeadeb011dfac"
+commit = "54087e5f883d75a31c6389300cc5a2a5c116cc71"
 owners = ["Glyceri",]
 	changelog = """
- [1.1.0.0]
-- Updated for API14
+[1.2.0.0]
+API15
 """

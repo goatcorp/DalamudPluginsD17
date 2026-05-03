@@ -1,13 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "334b5036bc58c3266848c93ed33be01889b05647"
-owners = [
-    "Critical-Impact",
-]
+commit = "33e4510f6577f3945f2f4f84674e2ca284453de0"
+owners = [ "Critical-Impact",]
 project_path = "AllaganMarket"
-version = "1.2.0.5"
-changelog = """\
-### Fixed
-- Fixed a broken signature, I'll see if I can make this less liable to break later
-
-"""
+version = "1.4.0.0"
+changelog = "### Changed\n- API15 update"

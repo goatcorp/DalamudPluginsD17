@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1b29233f27516bc1a83ac43de7c32dee222993d9"
+commit = "6a41969838a82035d6838ae18e6cd8133d15097a"
 owners = ["Glyceri"]
 	changelog = """
-[2.8.0.0] 
-+ Updated for API14.
-+ Added a Context Menu for the new Quick Panel.
-+ Fixed multiple Context Menu bugs that resulted in custom context menu entries showing when they shouldn't.
+[2.9.0.1] 
+Fixed an issue where the party list wouldn't show the petname properly.
 """
+
 
 
 

@@ -1,8 +1,4 @@
 [plugin]
-repository = "https://github.com/jaycewhite/MiniMappingway.git"
-commit = "ffff67a6bb4251f7b06234a0ade395c07a7fbc1e"
-owners = [
-    "jaycewhite"
-]
-changelog = "Update to API 13. My thanks to reiichi001 for doing this update!"
-version = "1.0.1.0"
+repository = "https://github.com/GemPlugins/MiniMappingway.git"
+commit = "391540abf9790f9cb3ab9ba64016ea92b07a90ac"
+owners = ['rreminy']

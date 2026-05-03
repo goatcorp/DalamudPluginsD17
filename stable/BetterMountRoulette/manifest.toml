@@ -1,10 +1,7 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "c9d3efb1717bd7036a2aa994b80231f2523efdc6"
-version = "1.8.0.30"
+commit = "ea8cacd4823653bb8b02e5db5664a836dc0f0e4a"
+version = "1.8.1.32"
 owners = ["CMDRNuffin"]
-changelog = """Update for 7.4
-
-Also:
-- Adds a text filter for finding specific mounts in the list
-- Fixes mount names in tooltips being all lower case sometimes"""
+changelog = '''
+Update for 7.5'''

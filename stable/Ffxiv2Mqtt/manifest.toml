@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "aa758fb4593125cc9d62147fdf5a93bd8bfc0efd"
+commit = "650529b8730c2b375b3fbaca7028a2e1d894c20b"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """API13 support."""
+changelog = """7.4/API14 support."""

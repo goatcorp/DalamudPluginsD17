@@ -1,11 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/Tippy.git"
-owners = [ "kalilistic", "Critical-Impact" ]
+owners = [ "kalilistic", "Critical-Impact",]
 project_path = "src/Tippy"
-commit = "683f9f3b8ce36d85c2ab906a4274d5958ce7d5d0"
-version = "1.13.0.0"
-changelog = """\
- - API13 support
- - Fixed scaling issue
- - Added a new topical tip
-"""
+commit = "645ca70da43dd705f7cf571ebe0823fe62e215cb"
+version = "1.15.0.0"
+changelog = "### Changed\n- API15 update"

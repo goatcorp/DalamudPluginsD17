@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "e6828d793b5b7630a4a8cbccd9fe32ca8d98caa2"
+commit = "33e600c1f850c8ce2cd5a15d290bd7ae4d4ea6a2"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
-- update for api 13 
+- update for api 15
 """
