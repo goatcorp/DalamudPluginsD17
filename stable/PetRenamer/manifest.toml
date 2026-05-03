@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0c3fff37a9917b9e090a6bdfc94c9e3def6215c5"
+commit = "6a41969838a82035d6838ae18e6cd8133d15097a"
 owners = ["Glyceri"]
 	changelog = """
-[2.9.0.0] 
-API15
+[2.9.0.1] 
+Fixed an issue where the party list wouldn't show the petname properly.
 """
 
 
