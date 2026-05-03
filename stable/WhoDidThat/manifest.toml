@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/WhoDidThat.git"
-commit = "9efbdf4a7837f13d76395837c499ce59c40e2774"
+commit = "b1e2fc1115916282737f7a3108ec015c8176e344"
 owners = ["spide-r"]
 project_path = "WhoDidThat"
-changelog = "Updated to 7.5"
+changelog = "Fix minor issue that would cause errors in the plugin log."
