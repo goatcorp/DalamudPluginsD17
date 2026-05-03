@@ -1,16 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "86662f4dab1ecce5f1758a121d6323118311b54f"
+commit = "8ae09803449a4c72f42756819213a401cdfd5a1d"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Update IPC
-- Clear highlights when item acquired
-- Try to fix some menu highlights
-- Update Quinnana hack
-- Add barebones support for SpecialShop categories
+- API15 update. Thanks to @afpruivo & @reiichi001 
 """
-version = "2.13.0.0"
+version = "2.14.0.0"
