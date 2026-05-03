@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/rae-destil/ff14-backseat-driver.git"
-commit = "df04db1c08c07e7d269fd08ad4c94dabc6136205"
+commit = "94e76b5c7de01c482223f58f352c516a5ce00644"
 owners = ["rae-destil"]
 project_path = "BackseatDriver"
 changelog = """
-# v0.2.1.2
+# v0.2.1.3
 
-- Duty hints phrasing improvements.
+- Greater duty coverage.
+- Coach mode coverage for more duties.
 - API update.
 """
