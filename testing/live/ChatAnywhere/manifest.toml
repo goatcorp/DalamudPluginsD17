@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "7fb949d82710ddd42d6ac97ca60dc0add97d699d"
+commit = "0b3cd731bdb36d25a999cf9e42d673c1be12177e"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "feat: migrate to Dalamud API v15 (IChatMessage, XivChatType RowIds)"
+changelog = "Hosts a local web server that lets you view and send FFXIV chat from a browser."
