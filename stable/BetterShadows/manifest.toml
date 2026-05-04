@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "6876e3c15fa62786059859a1cd238f4c686e0ec1"
+commit = "ce6384e2615993519d338c5c3ce975da896c327f"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
-- Updated for API14
-- Fixed a bug wherein the shadow cascade settings would not work
+- API15
 """
 
