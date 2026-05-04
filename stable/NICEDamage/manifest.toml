@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gnargle/NICEDamage.git"
-commit = "60642946dfa4293b83073b681d7bdc2997be9b31"
+commit = "02a255eb1a0959159affa1afd29782ab045c40c4"
 owners = ["gnargle"]
 project_path = "NICEDamage"
-changelog = "Update NICEDamage for 7.3"
+changelog = "I've had my fun, add a toggle for the 67 trigger. Also add a toggle to make the 67 trigger more obnoxious, for funsies. You can also define your own custom funny numbers now :)"
