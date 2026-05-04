@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/TermFilter2.git"
+commit = "b265a6b07a3c10c4bdbbbf27bdc3fa17ac78ce76"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "- Initial release"
