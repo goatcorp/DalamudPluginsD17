@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
 project_path = "EchoXIV"
-commit = "c7c71c9436ba90716c06ed7a7fc1ae01cd369775"
+commit = "b2091cc2ee2a1785b9d0e23471893c9806baa30d"
 owners = ["ssalazar217"]
 changelog = """
+v0.1.1.0:
+- Updated to Dalamud API v15.
+- Fixed ImRaii TooltipDisposable compatibility.
+- Cleaned up project structure and documentation.
+
 v0.1.0.33:
 - Fixed unsafe Utf8String construction for outgoing chat submission by switching to string-based creation.
 - Fixed active chat channel detection so manual translated sends are recorded under the correct channel in history and the translated window.
