@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/seventity7/QuickSymbols.git"
+commit = "a07a02f799cb79d654a49cecdd5c0659f8c1e95e"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = "Update 1.0.0.2 | new features"
