@@ -3,4 +3,3 @@ repository = "https://github.com/lokinmodar/Echoglossian.git"
 commit = "fdb5d1f38760036269ded40bc4c60fae95420d2d"
 owners = ["lokinmodar"]
 changelog = "v4.2600.x \n fixes:\n - Bump to API 15\n features: \n - Full internal logic refactor and countless new functions added and more to come"
-project_path = "."
