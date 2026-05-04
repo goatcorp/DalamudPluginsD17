@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "95e78bf9a851d3423478f6884e27142324135b33"
+commit = "1c0b2b92cc43d6a4375c47872f672136d6b85017"
 owners = ["Glyceri",]
 	changelog = """
-[2.7.0.0]
-+ Prepares Pet Nicknames for the inevitable addition of Beast Master and other Pet Jobs in the future. 
+[2.10.0.0]
+Text and colours should now replace a lot more consistantly.
+Colour settings can now be toggled per setting.
 
-(Please note that you cannot share your nicknames with people that are NOT on this version ç_ç.)
-(Normally I push these kinds of updates during forced downtimes, but I couldn't manage that this time around. Sorry..)
+- This version bumps the save file, beware that you cannot go back.
 """
 
