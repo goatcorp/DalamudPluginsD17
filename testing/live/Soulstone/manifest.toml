@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Taelina/Soulstone.git"
+commit = "b71fd286099a58aae523664173fdbc74592db904"
+owners = ["Taelina", "JagoIsReal"]
+project_path = "Soulstone"
+changelog = "Alpha 0.0.0.3 small fixes & update to API 15.0 & Code review comments."
