@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "864e90d4b08301a6d2468f76281a358f91bb9476"
+commit = "07e94b9dc3c2e54d0dab1c6c1b702d4d49a5c18a"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-Bug fixes:
-- Updated for API13
-Known Issues:
-- After logging into a character, returning to the title screen may cause target lines to not appear on all entities. This can be fixed by restarting the plugin.
+- API15
 """
 

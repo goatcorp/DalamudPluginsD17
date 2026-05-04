@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "5570aa5958fbfabae79243a0a697b4f117584c21"
+commit = "8ac16a823d175e1ebce2b17057b0bfe144a65fec"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
-changelog = "Update to v15, Remove messages from chat"
+changelog = "Fix unintentional hiding of players in portraits and cutscenes"

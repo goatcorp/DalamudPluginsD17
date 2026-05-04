@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
+commit = "096692c4be94f0959635836d693d72e4cf49dd4f"
+owners = ["0x0ade"]
+project_path = "CustomResolution2782"
+changelog = """
+- Low-level change: Use new Dalamud API15 interface for async plugins.
+"""
