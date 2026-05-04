@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/twelvehouse/ChatAnywhere.git"
+commit = "7fb949d82710ddd42d6ac97ca60dc0add97d699d"
+owners = ["twelvehouse"]
+project_path = "."
+changelog = "feat: migrate to Dalamud API v15 (IChatMessage, XivChatType RowIds)"
