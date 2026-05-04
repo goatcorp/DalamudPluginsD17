@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://gitlab.com/Bakura/suit-highlighter.git"
+commit = "36c7c6519952c1618093b266173d2bfab36e9560"
+owners = ["RyouBakura"]
+project_path = "SuitHighlighter"
+changelog = "Patch 7.5 / API 15 compatibility"
