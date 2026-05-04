@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Valiice/SpotifyHonorific.git"
+commit = "4446e4ca789b39328a33ca96cb507172be117279"
+owners = ["Valiice"]
+project_path = "SpotifyHonorific"
+changelog = "Displays your currently playing Spotify track as your FFXIV honorific title.\nInitial Release"
