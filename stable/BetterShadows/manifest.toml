@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Drahsid/BetterShadows.git"
-commit = "ce6384e2615993519d338c5c3ce975da896c327f"
+commit = "1ae5e9d3a712ab08d5b6af979b863fc1a0835da9"
 owners = ["Drahsid"]
 project_path = "BetterShadows"
 changelog = """
