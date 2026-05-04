@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/seventity7/CreateXIV.git"
+commit = "0d3537651359332daa9766cede32f998e5b3c06f"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = "7.5 update+New dalamud version"
