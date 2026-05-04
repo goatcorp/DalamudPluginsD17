@@ -1,0 +1,7 @@
+# testing/live/AetherBlackbox/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/AetherBlackbox.git"
+commit = "c8ec748bb9fca0ea87e15c89d00deeb2644c3ae0" 
+owners = ["rail2025"]
+# project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\nv7.50.1: restore save header"
