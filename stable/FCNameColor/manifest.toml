@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "71f38e6bff742a91f8aeb4da4d6d88fd75ec8925"
+commit = "a2795c6da72d72bd783b2f10487155bfb5e3939a"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for API15
+- Add nameplate hiding feature
+
+Feedback and suggestions on this feature would be appreciated!
 """
