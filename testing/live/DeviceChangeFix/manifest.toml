@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/nopjmp/DeviceChangeFix.git"
+commit = "0d6bbb7e9fdbcdf5ca650b838e9ddb750e1846a0"
+owners = ["Jessidhia", "MKhayle", "nopjmp"]
+project_path = "DeviceChangeFix"
+changelog = """\
+		# 3.1.0
+		- Updated for API15
+        - This is now filtering WM_DEVICECHANGE messages to only controller events
+		"""
