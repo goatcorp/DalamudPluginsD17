@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganMarket.git"
-commit = "33e4510f6577f3945f2f4f84674e2ca284453de0"
+commit = "8a3e0f78e5c2947f6dc8bfd65fd5a4a62d1904b2"
 owners = [ "Critical-Impact",]
 project_path = "AllaganMarket"
-version = "1.4.0.0"
-changelog = "### Changed\n- API15 update"
+version = "1.4.0.1"
+changelog = "### Changed\n- Fix a potential crash"
