@@ -1,6 +1,10 @@
 [plugin]
-repository = "https://github.com/MKhayle/DeviceChangeFix.git"
-commit = "94ce5b8e364435243d184697e8f468081f15e642"
+repository = "https://github.com/nopjmp/DeviceChangeFix.git"
+commit = "a3f97d0afdc000c77c932a2fbccf5ccd91b07ca4"
 owners = ["Jessidhia", "MKhayle", "nopjmp"]
 project_path = "DeviceChangeFix"
-changelog = "-# API 14 update"
+changelog = """\
+# 3.1.1
+- Updated for API15
+- This is now filtering WM_DEVICECHANGE messages to only controller events
+"""
