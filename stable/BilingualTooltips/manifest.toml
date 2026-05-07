@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "4e8fee212d6a50dbca762a936389e730b95252ea"
+commit = "893ffc56713dbdfa74ef9a7b07dad9edf7d4748c"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
-v1.5.0.0
-- Update to API 14.
-- Add support for Deep Dungeon Items/Actions. Please report any missing tooltips to GitHub Issues/Discord.
-- Add support for Main Commands (e.g., Party Finder).
-- Minor fixes and improvements.
-
 v1.6.0.0
 - Fix display of lo......ng names in tooltips.
+
+v1.6.0.1
+- Update to API 15.
 """

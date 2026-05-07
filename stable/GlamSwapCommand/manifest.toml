@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Skyde789/GlamSwapCommandPlugin.git"
-commit = "810db21f039ef3587b2ac4c42292b7a9e5220329"
+commit = "747a0d2e6b5c9d813a8c9aa6f378ff71d896c29b"
 owners = ["Skyde789"]
 project_path = "GlamSwapCommand"
-changelog = "Added new command"
+changelog = "API 14 -> 15"

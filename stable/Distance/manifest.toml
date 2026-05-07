@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/Distance.git"
-commit = "569a41b039ebc0b27432296271030fc50ae80d67"
+commit = "13965485dbfd9dbd07fb92e0a8538c149e7d46e3"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "Distance"
 changelog = '''
-- Added an option to control displaying distances specifically during Duty Recorder playback.  This is enabled by default and ignores other condition settings.
-- Added an option to show distances from the selected character instead of your own character during Duty Recorder playback.  This is enabled by default.
+- Updated for Dalamud API 15.  Thank you damolitionn!
 '''

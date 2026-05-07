@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Drahsid/ResizableHUD.git"
-commit = "a126fd52dbc2389df76ab615b2055d9cb1469701"
+commit = "f70de7e8d3f609031f6a4cd0a2170d425d0991f0"
 owners = ["Drahsid"]
 project_path = "ResizableHUD"
 changelog = """
-- Updated for API14
+- API15
 """

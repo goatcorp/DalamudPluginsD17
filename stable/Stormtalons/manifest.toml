@@ -1,5 +1,5 @@
 [plugin]
-changelog = "Updated for 7.4"
-commit = "3add5ab08401b9d071c6ee3c985f4af8ba646ab7"
+changelog = "Updated for 7.5 and API 15"
+commit = "ae4361440e7f85d817bcf6de61f2286a31e0e195"
 owners = ["Chickenstew"]
 repository = "https://github.com/Chickenstew/Stormtalons.git"

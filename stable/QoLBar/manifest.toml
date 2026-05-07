@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "bd6f3c052c0f1fdabc9987804141ecfe065f2dc6"
+commit = "b7305710f4a6c3857be7902d531e7984d6889dab"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Moved icons to the correct tabs in the icon browser'''
+- Fixed for 7.5 (I promise I'll have QoLBar 3.0 ready for testing soon... :copium:)'''

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "5369a7a4fd7d84c117ee0f1f40b553daf5c8b86d"
+commit = "b9d9c3e0a10a84fb11fdb80eda1454af9ee26c5e"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Add 7.4 and 7.5 time filter options.
+* Patch 7.5 update.
 """

@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "059ba93359d371085d1972e0712e71f8e33510f2"
+commit = "a2795c6da72d72bd783b2f10487155bfb5e3939a"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 7.4 (Thanks Boxu!)
+- Add nameplate hiding feature
+
+Feedback and suggestions on this feature would be appreciated!
 """
