@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BetterInBlue.git"
-commit = "f71810d173be5f7bd7de3d272ddd9a0cade39807"
+commit = "640c6eb19dbf552e2eb2f22327f896e240de0e0b"
 owners = ["harbingerftw"]
 project_path = "BetterInBlue"
 changelog = """
-- API 14
-- Auto import your in-game loadouts and hotbars
-- Double click loadout to apply
+- API 15
+- Adds a search bar to the native blue mage Spellbook with advanced filtering
+- Adds options to prevent restoring hotbars from overwriting actions 
 """

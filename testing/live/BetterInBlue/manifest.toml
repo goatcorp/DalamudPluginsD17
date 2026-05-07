@@ -1,8 +1,5 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BetterInBlue.git"
-commit = "48c6444ba75fc21ae0000caf4c085c504552cc1b"
+commit = "640c6eb19dbf552e2eb2f22327f896e240de0e0b"
 owners = ["harbingerftw"]
 project_path = "BetterInBlue"
-changelog = """
-Adoption and 2.0 release with hotbar/cross hotbar saving and restore support.
-"""
