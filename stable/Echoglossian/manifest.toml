@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "7d2360db8fda9a13a30997992ae5d2cb36f0f9bc"
+commit = "edbc66598a56f8fae743aab09aceccfd5a4c46b0"
 owners = ["lokinmodar"]
-changelog = "v4.2600.x \n fixes:\n - new config generation bug on new installs"
+changelog = "v4.2600.0605.x \n fixes:\n - many loading bugs and translator change weird corruptions"
