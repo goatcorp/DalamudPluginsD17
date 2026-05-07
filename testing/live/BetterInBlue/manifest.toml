@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BetterInBlue.git"
-commit = "640c6eb19dbf552e2eb2f22327f896e240de0e0b"
+commit = "ba6489767733583f36cbde5ce6bbbaaf829be3f3"
 owners = ["harbingerftw"]
 project_path = "BetterInBlue"
