@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BalthierArt/EchoChat.git"
-commit = "53ce9656861dab422f515828cc8cf9d2f92ded19"
+commit = "b29a37e81c147c112a577f15e49e3bfd2fb7ee8a"
 owners = ["BalthierArt"]
 project_path = "."
-changelog = "Updated Chat Echo for Dalamud API 15 and added optional game log effect channels. Added plugin icon metadata."
+changelog = "Bumped Chat Echo to v1.0.0.4 with the updated settings UI, priority list cleanup, Debuff Helper, and Boss Helper test build."
