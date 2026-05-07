@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BalthierArt/EchoChat.git"
-commit = "b29a37e81c147c112a577f15e49e3bfd2fb7ee8a"
+commit = "8f3e2c3f46fcf0b6448954d0bc041c6a566599af"
 owners = ["BalthierArt"]
 project_path = "."
 changelog = "Bumped Chat Echo to v1.0.0.4 with the updated settings UI, priority list cleanup, Debuff Helper, and Boss Helper test build."
