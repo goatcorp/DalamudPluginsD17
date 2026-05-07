@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "6e0f17aa47b4ab9aedef2514d2e65ba109ecd3b8"
+commit = "509563c736fb7bf52e5a9cbd25de9cb3c62e4937"
 owners = ["twelvehouse"]
 project_path = "."
 changelog = "Hosts a local web server that lets you view and send FFXIV chat from a browser."
