@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/keifufu/QuestTracker.git"
 commit = "e7bfa7fc0f2125389a70b1761fe2a72c751e501d"
-owners = ["keifufu"]
+owners = ["isaiahcat", "keifufu"]
 project_path = "."
 changelog = """
 - Updated for 7.5/API15
