@@ -1,19 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "8bb134369f7c8692c35161805150d82582f379d3"
+commit = "dca26bebc91c4df5f3de59de6d0c9132b13ec9d4"
 owners = [ "haroldiedema" ]
 maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.13
+# Umbra 3.1.14
 
 ## Fixes & Improvements
 
-- Added an option to hide the toolbar while editing the native HUD (By [wolfcomp](https://github.com/wolfcomp)).
-- Unified Main Menu: Fixed character name for non-global players that can have a single name (By [pyreymo](https://github.com/pyreymo)).
-- Currencies: Fixed grand company currency not updating max size when rank changes (By [wolfcomp](https://github.com/wolfcomp)).
-- Societies: Progress bar now uses the progress bar color instead of accent color (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Add compatibility to 7.5 and API15 (By [wolfcomp](https://github.com/wolfcomp), [alexpado](https://github.com/alexpado), [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixed missing DoH/DoL Pixel Sprites (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Dynamic Menu: Separator is now a bit bigger and uses the PopupMenuTextHover color in edit mode to ease interaction (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Compass Marker: Early return when the viewport is to small to render the compass (By [wolfcomp](https://github.com/wolfcomp)).
+- Compass Marker: Added one-time logging in case we return early due to small viewport (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added some missing icons to the icon picker and job selections (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added world markers for active Gold Saucer GATEs (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- While attending Air Force One GATEs, the toolbars are being hidden (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Also hide world markers while attending Air Force One GATEs (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 

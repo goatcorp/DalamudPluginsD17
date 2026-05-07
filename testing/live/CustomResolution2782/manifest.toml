@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "096692c4be94f0959635836d693d72e4cf49dd4f"
+commit = "1fbcb652bb67175d0b0aeb8dec920903d6c3aebf"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
+Since last testing:
+- Fix game freezing on exit with async interface.
+Since last stable:
 - Low-level change: Use new Dalamud API15 interface for async plugins.
 """
