@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "ff697c850b7f80816959c4f7405b4602eeebe1a0"
+commit = "9665c7a006582c0f938d6e4a04188cbb0b8fda9b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Fix fashion report remainder chat reminder
+- **Inventory**: Fix key inventory item legth following change, should display all the items properly now
+- **Timers**: Fix doman enclave not unlocked mark showing when weekly enclave donations wasn't at max
 """
