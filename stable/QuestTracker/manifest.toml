@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/keifufu/QuestTracker.git"
-commit = "6ae5bcd9fd031a52fe89aba65e0735c8d630f917"
+commit = "af717d08c27e225c6831c9f787c8207fdfa43db6"
 owners = ["isaiahcat", "keifufu"]
 project_path = "."
 changelog = """
-- Updated for 7.5/API15
+- Added Quasi-Quests
+- Fixed section names for some sidequest categories
 """
