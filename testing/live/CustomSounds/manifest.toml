@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Maybriette/FFXIV_CustomSounds.git"
+commit = "ebfa49ad65530a28e781b92d4b4b9cc811af17c8"
+owners = ["Maybriette"]
+project_path = "CustomSounds"
