@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "3a6b392087bd018a9d9eb986afa6c59954e080e1"
+commit = "d1b294b966f9609a8c6cc52cc19b04543e3e6f56"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
-changelog = "Update Native Commands Support"
+changelog = """
+- Added support for shared macros in **Macro Alias** command field
+  - Existing macro aliases continue to work normally
+"""
