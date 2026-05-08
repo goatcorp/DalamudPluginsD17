@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ImOv3rburdened/TomstonePhone.git"
+commit = "531406680c7ef0563dfb67fa783ee527381defed"
+owners = ["ImOv3rburdened"]
+project_path = "TomstonePhone"
+changelog = "Initial commit of tomestone phoen plugin"
