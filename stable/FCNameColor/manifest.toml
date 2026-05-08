@@ -7,6 +7,6 @@ changelog = """
 - Rewrite config menu entirely to use tabs instead of various windows
 - Rewrite the way the ignore list works, it now picks from members in every tracked FC, not just your own. You can now search within the list and add and remove multiple players at once as well as the currently targeted player.
 
-Feedback and suggestions on the previous nameplate hightlight feature as well as the new config and ignore feature would be appreciated!
+Feedback and suggestions on the previous nameplate highlight feature as well as the new config and ignore feature would be appreciated!
 Special thanks to MidoriKami for answering my questions when working on this
 """
