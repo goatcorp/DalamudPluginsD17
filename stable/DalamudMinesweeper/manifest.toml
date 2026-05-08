@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/hunter2actual/DalamudMinesweeper.git"
-commit = "0e1bf84475ed45a7f66a5e71f27bad67280c4b93"
+commit = "4b27b6cf6265edfa712b3453dc41b91338ae7425"
 owners = ["hunter2actual"]
 project_path = "DalamudMinesweeper"
-changelog = "Update for api13"
+changelog = "Update for FFXIV 7.5 (Dalamud API 15)"

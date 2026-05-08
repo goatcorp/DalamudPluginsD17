@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
+commit = "88ba81bb14728605dbac34f7064fd1ecbd4255b7"
+owners = ["ArcaneAj"]
+project_path = "WachuMakeyMaking"
+
+changelog = """
+Better handles large numbers of recipes with Universalis, while giving progress updates on requests.
+Fixed bug where switching gearset reset the resource overrides. Changes that don't affect total amounts shouldn't reset them.
+"""

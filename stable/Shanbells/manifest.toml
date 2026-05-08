@@ -1,0 +1,8 @@
+[plugin]  
+repository = "https://github.com/kliff-k/Shanbells.git"  
+commit = "09a69754bb3358e028cd1daa16348d85e778e7d9"  
+owners = ["kliff-k"]  
+project_path = "Shanbells"  
+changelog = """
+- Updated for API15
+"""

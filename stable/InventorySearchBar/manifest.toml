@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "5b10f6a8b4a7c34b42d4865f0831b532dcbea10b"
-owners = ["Tischel"]
+repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
+commit = "1a5d8a66bded6a00c621e01db22525b3d8cee15f"
+owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
-changelog = "- Added support for Patch 7.2 and Dalamud API 12."
+changelog = "- Updated for 7.5"

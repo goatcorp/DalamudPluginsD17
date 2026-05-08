@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/GitHixy/LootView.git"
+commit = "7948f38adfa1cdb051a9740548be0ff356d2c4a5"
+owners = ["GitHixy"]
+project_path = "."
+changelog = """
+# Version 1.3.2
+- Blacklist Bug Fix
+"""

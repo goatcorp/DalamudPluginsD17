@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "c9618f79689bdc4df8fbee715276c89fd54c5705"
+commit = "307a20621f0cadae6ef2feed1ef3442c7dcfc74f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add moonfire faire 2025
+- **Timers**: Jumbo cacpot reset timer fix
 """

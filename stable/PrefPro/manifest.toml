@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/perchbirdd/PrefPro.git"
-commit = "a25b4e51f629321e2e5d2f96aeb3baab7a0ded68"
+commit = "9a129c04fed6d58efa5e791f1906eea71f35d32d"
 owners = [
     "perchbirdd",
 ]

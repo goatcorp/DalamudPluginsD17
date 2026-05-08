@@ -1,0 +1,7 @@
+# testing/live/AetherBomber/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/AetherBomber.git"
+commit = "ba547fd613088857cc2b82a911a95e91905058b9" 
+owners = ["rail2025"]
+ project_path = "AetherBomber" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "v0.0.0.5:random level generator added"

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/smileyhead/conditional-focustarget.git"
+commit = "ca10dda5f87954f7b4f5661269e1a1705eef7169"
+owners = ["smileyhead"]
+project_path = "StickyFocusTarget"
+changelog = """
+- Dalamud version bump
+- Added Japanese localisation – thanks, @Yoshihiko-Ino!"""

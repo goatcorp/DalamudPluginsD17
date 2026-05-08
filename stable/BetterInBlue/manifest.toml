@@ -1,5 +1,10 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BetterInBlue.git"
-commit = "75fdb85fbfb16a67713a600c02a0e6ef375bffd8"
+commit = "ba6489767733583f36cbde5ce6bbbaaf829be3f3"
 owners = ["harbingerftw"]
 project_path = "BetterInBlue"
+changelog = """
+- API 15
+- Adds a search bar to the native blue mage Spellbook with advanced filtering
+- Adds options to prevent restoring hotbars from overwriting actions 
+"""

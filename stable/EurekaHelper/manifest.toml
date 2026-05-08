@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/KangasZ/EurekaHelper.git"
-commit = "1e473f65bbf50d8d65fbfa7bc2449d1bf0ede502"
+commit = "c0c169f8654a1ab45d443d17f90ca40d54557b4c"
 owners = ["snorux", "KangasZ"]
 project_path = "EurekaHelper"
 changelog = """
--  Update for 7.3 and API 13
+- API 15 / 7.5 Update
 """

@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59c6cff7c22f44849a45a22e6a87ffe3f51b35a7"
-changelog = "General: Updated for 7.3"
+commit = "0b4dcc463b89314dfb0921b7123163a4b389ef47"
+changelog = """
+General: Updated for 7.4
+    Loot Session: All non weapon drops are now pre-selected in loot session"""

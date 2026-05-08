@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/autobgm.git"
-commit = "264e1a2e732f9cd841fb4a5de8f7738fbab73dc1"
+commit = "93a1cc2ce04b993956a04711a70056bfa0317567"
 owners = ["meoiswa"]
 project_path = "AutoBGM"
 changelog = """
-Version 1.4.0.0:
- - Updated to API13
+Version 1.5.1.1:
+ - New Icon by SnoodleWolfieB
+ - Updated to API15
 """

@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "5b96212dc465f52e8951e28ba82e850c2db85920"
+commit = "c865873388f0dbf36a406685b01eef3b8bf4e61f"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.25.4"
+version = "1.0.27.2"
 changelog = """
-- Fix missing icons
+- Fix issue loading config containing certain conditions (i.e. Target == Pc)
 """

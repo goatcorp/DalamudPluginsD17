@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Sohtoren/Altoholic.git"
+commit = "ff697c850b7f80816959c4f7405b4602eeebe1a0"
+owners = ["Sohtoren"]
+project_path = "Altoholic"
+changelog = """\
+- **Timers**: Fix fashion report remainder chat reminder
+"""

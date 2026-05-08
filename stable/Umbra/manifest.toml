@@ -1,16 +1,22 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "10a54d4d7cebf129cd96a1fea84e9ad0e6eb6c7f"
-owners = ["haroldiedema"]
+commit = "dca26bebc91c4df5f3de59de6d0c9132b13ec9d4"
+owners = [ "haroldiedema" ]
+maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.1
+# Umbra 3.1.14
 
 ## Fixes & Improvements
 
-- Add support for BC5/BC7 textures. Thanks Wildwolf & Kizer!
-- Add support for right-click & modifier-keys on server info bar buttons.
-- Minor performance optimizations in the drawing library.
+- Fixed missing DoH/DoL Pixel Sprites (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Dynamic Menu: Separator is now a bit bigger and uses the PopupMenuTextHover color in edit mode to ease interaction (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Compass Marker: Early return when the viewport is to small to render the compass (By [wolfcomp](https://github.com/wolfcomp)).
+- Compass Marker: Added one-time logging in case we return early due to small viewport (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added some missing icons to the icon picker and job selections (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added world markers for active Gold Saucer GATEs (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- While attending Air Force One GATEs, the toolbars are being hidden (By [Haselnussbomber](https://github.com/Haselnussbomber)).
+- Also hide world markers while attending Air Force One GATEs (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 

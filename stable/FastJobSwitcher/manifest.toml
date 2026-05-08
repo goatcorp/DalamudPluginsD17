@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/fast-job-switcher.git"
-commit = "ab4b6650b1dd91ae4424497958fbdf209837caa4"
+commit = "fe1311e91027b21ad82a721405eaea464664a403"
 owners = ["meoiswa"]
 project_path = "FastJobSwitcher"
 changelog = """
-Version 3.1.0.0:
- - Added tooltip with info regarding Phantom Jobs
- - Updated to API13
+Version 4.0.1.1:
+ - New Icon by SnoodleWolfieB
+ - Updated to API15
 """

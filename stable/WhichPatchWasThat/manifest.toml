@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "e4a3b446ead7eff2b5bd2a00de9a3352a63270aa"
+commit = "5578bad66709f92811fe43b5c533144593a45d70"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-- Fix missing item patches in tooltips
+- Update to FFXIV 7.5 and Dalamud 15
+- Add patch display to facewear
 """

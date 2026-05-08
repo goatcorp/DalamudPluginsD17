@@ -113,4 +113,5 @@ jobs:
       run: |
         curl --request POST \
         --url https://kamori.goats.dev/Plogon/CommitStagedPlugins \
-        --header 'X-XL-Key: ${{ secrets.XLWEB_KEY }}'
+        --header 'X-XL-Key: ${{ secrets.XLWEB_KEY }}' \
+        --fail-with-body

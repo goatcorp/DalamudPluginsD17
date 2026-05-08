@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Populo/RetainerSales.git"
-commit = "cc2ff697a210d9926a77f1e382006025772a5bd4"
+commit = "a9b62a89a04625262e6265ed982c975fe6b5a7a5"
 owners = ["Populo"]
 project_path = "RetainerSales"
-changelog = "api 13 bump"
+changelog = "dalamud 15"

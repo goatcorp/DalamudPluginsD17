@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/FoodCheck.git"
+commit = "4f19e6cfc2cf54fbfeaf5e4c6c46752acb3a6a00"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "- Updated for 7.5"

@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/Noctrepo/NoPolice.git"
+commit = "8ac16a823d175e1ebce2b17057b0bfe144a65fec"
+owners = ["Noctrepo"]
+project_path = "NoPolice"
+changelog = "Fix unintentional hiding of players in portraits and cutscenes"

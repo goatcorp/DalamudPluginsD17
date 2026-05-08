@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/kaleidocli/BozjaBuddy.git"
-commit = "0fc585e08412ee0d33af9248d823f36fbf0b63aa"
+commit = "8589590296dcf6ebacb1c8fe22e45535f17833ac"
 owners = ["kaleidocli"]
 project_path = "BozjaBuddy"
 changelog = """
-[1.1.6.6] API bump. Modified the build script.
+[1.1.6.8] API bump. Thank you Dukmos (https://github.com/Dukmos) for the changes!
 """

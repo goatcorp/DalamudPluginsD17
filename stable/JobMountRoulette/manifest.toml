@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Beletre/JobMountRoulette.git"
+commit = "f42fadf55ead645677faa4dd636af9a6feaaabf0"
+owners = ["Beletre"]
+project_path = "JobMountRoulette"
+changelog = "API15 Update"

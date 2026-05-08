@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Pythyu/WhereIsMyMouse.git"
-commit = "8dbbfef650b4f9c246db48792e8ac4ad5fe60bf7"
+commit = "f41d674a158237bcf34ecaaae187194f2a10365e"
 owners = [
     "Pythyu",
 ]
 project_path = "WhereIsMyMouse"
 changelog = """Changes :
-  - Update to latest api version
+  - Update to API 15
 """

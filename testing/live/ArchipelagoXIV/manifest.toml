@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "474537f5bb3ab5f41bf6cc0d7bd1f5c1c32ec234"
+commit = "e1f96e902d28a6232ca754343ce6dc97a999f0a7"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "7.3 Support"
+changelog = "Patch 7.5 support."

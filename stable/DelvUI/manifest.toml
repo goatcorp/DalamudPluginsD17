@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/DelvUI/DelvUI.git"
-commit = "1ec791bd45eb33dabb1926895e2b3d38b020231e"
+commit = "edc6ec52620ddf3feaa28115e69329a09b865f4a"
 owners = ["Tischel"]
 project_path = "DelvUI"

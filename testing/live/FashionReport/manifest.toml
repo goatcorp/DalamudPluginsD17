@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/TheRedheadedWitch/FashionReport.git"
+commit = "a3c6511d4d30b17fbbf00fe2f2fb2bdeedd4b41c"
+owners = ["TheRedheadedWitch"]
+project_path = "FashionReport"
+changelog = "Minor bug fixes including the rendering of item data on a new week, sometimes would still display the previous weeks item list instead. Disabled the judging window due to problem detecting the opening of the FashionCheck addon during judging until I can find a work around."

@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/MeiHasCrashed/OhHey.git"
+commit = "ebe7e5c9f1a5b7631c0dccdd301bfbfe96e63bf4"
+owners = ["MeiHasCrashed"]
+project_path = "src/OhHey/"
+changelog = """
+# Oh Hey 0.2.1
+
+- API15 support
+
+Have fun !
+"""

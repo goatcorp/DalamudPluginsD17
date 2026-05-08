@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://git.0x0a.de/0x0ade/DP-CustomResolution.git"
-commit = "b6bf2c9cf7d58e3d0be0e0250299c020a344a4a4"
+commit = "70420406b6f16fc327fab6e141f37c7ec7e48fa6"
 owners = ["0x0ade"]
 project_path = "CustomResolution2782"
 changelog = """
-- Move to stable release track as v1.0.0.0
+- API15 compat
+- Fix compatibility with some Linux environments
+- Fix performance regression, mostly noticeable on Linux
 """

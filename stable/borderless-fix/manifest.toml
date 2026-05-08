@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/sourpuh/ffxiv_borderless_fix.git"
-commit = "86ec9c13ed02d1b04e4a4ec17be75b7b39324e6f"
+commit = "b4e584a98df90136d9c1c55076d6f9b0c5011048"
 owners = [
-    "awgil",
     "sourpuh",
 ]
 project_path = "borderless-fix"
-changelog = "Update for API 13"
+changelog = "Update for API 15"

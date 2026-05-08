@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Brolijah/SimpleTriggers.git"
+commit = "8541a6f99a80626b69fa994a2795ea4806a6bc04"
+owners = ["Brolijah"]
+project_path = "SimpleTriggers"
+changelog = """
+## SimpleTriggers v1.0.2.0
+* Added new TTS option: DECtalk
+* Library loads from latest release on dectalk/dectalk and validates hashes before loading into memory.
+"""

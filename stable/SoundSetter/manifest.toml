@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/SoundSetter.git"
-commit = "276e5e6eccafc1791afc13038ca7ef77753c5608"
+commit = "675dedb600fe235f370a3b73f2f7c9b4f3842183"
 owners = ["karashiiro"]
 changelog = """\
-- Fixed incorrect values in config UI.
+- Fixed incorrect config values in plugin UI before making changes.
 """

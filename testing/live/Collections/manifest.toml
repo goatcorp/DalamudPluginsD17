@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Seventhxiv/Collections.git"
-commit = "e7f8865cbfdc9c2cd3107fa5dd15a1ba235b75a6"
-owners = ["Seventhxiv"]
+commit = "bf870a7df7b1a8296d9f5a758f27a2f0a984c56a"
+owners = ["seventhxiv"]
 project_path = "Collections"
 changelog = """
-Collections v1.0.2.8
-- Updated dalamud API to 13
-- LuminaSupplemental to v3.0.1
+Collections v1.0.3.1
+- Fix localization error
 """

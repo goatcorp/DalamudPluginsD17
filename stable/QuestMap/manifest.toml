@@ -1,5 +1,4 @@
 [plugin]
-repository = 'https://github.com/rreminy/QuestMap.git'
-commit = 'de535888794858c6e51a3f197b68c2b81f8ebcab'
-owners = [ 'anna-is-cute', 'rreminy' ]
-changelog = 'Fix clipper crash'
+repository = 'https://github.com/GemPlugins/QuestMap.git'
+commit = '5f1010511b79ec076c0f572537b245d3e67c87fa'
+owners = ['rreminy']

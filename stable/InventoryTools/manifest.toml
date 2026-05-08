@@ -1,13 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "1af8f4de09a3f225f5cfba111fbc5848588aea30"
-owners = [
-    "Critical-Impact",
-]
+commit = "057c10316395899a5ebdc2d4fd3129fe3f994370"
+owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.13.0.3"
-changelog = """\
-### Fixed
-- Fixed a bug in the equipment recommendation window
-
-"""
+version = "1.15.0.1"
+changelog = "### Fixed\n- Fix an issue that occurs when trying to open the \"Open Map\" menu for certain spearfishing items."

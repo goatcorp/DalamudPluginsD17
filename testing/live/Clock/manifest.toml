@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/seventity7/Clock.git"
+commit = "9eb150eaa225a48d4b7d83ed06138d58ee093e5a"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = "Oficial Release > Update by review feedback"
