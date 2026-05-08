@@ -3,4 +3,4 @@ repository = "https://github.com/mustbetommy/Mannerisms.git"
 commit = "4c1810141e2271dcbbcefe042f0129b789bf0508"
 owners = ["mustbetommy"]
 project_path = "Mannerisms"
-changelog = "Initial release"
+changelog = "Initial release (v1.0.0)"
