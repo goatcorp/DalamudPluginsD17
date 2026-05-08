@@ -1,7 +1,7 @@
 # testing/live/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "0a959379d559150f7086685841ea9fb3631d1ca4" 
+commit = "9b31ee0cfdd2418d370fac91ce7fd8a6da89d5e9" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\nv7.50.2: arty list clickable, calibration and live sync/laser/select tool always available, status load crash fix"
+changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\n7.50.2.1: added main button to plugin installer window, fixed status icon aspect ratio, appearance display bug in selection panel"
