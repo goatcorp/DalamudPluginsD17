@@ -1,22 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "dca26bebc91c4df5f3de59de6d0c9132b13ec9d4"
+commit = "4bce94cfcd90950089beacebb8a3b5542e50b984"
 owners = [ "haroldiedema" ]
 maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.14
+# Umbra 3.1.15
 
 ## Fixes & Improvements
 
-- Fixed missing DoH/DoL Pixel Sprites (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Dynamic Menu: Separator is now a bit bigger and uses the PopupMenuTextHover color in edit mode to ease interaction (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Compass Marker: Early return when the viewport is to small to render the compass (By [wolfcomp](https://github.com/wolfcomp)).
-- Compass Marker: Added one-time logging in case we return early due to small viewport (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Added some missing icons to the icon picker and job selections (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Added world markers for active Gold Saucer GATEs (By [Haselnussbomber](https://github.com/Haselnussbomber)).
-- While attending Air Force One GATEs, the toolbars are being hidden (By [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Also hide world markers while attending Air Force One GATEs (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix potential crash while calculating Compass Marker positions (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 
