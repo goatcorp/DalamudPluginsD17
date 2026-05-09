@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "1c0b2b92cc43d6a4375c47872f672136d6b85017"
+commit = "bd0caa972fa100e3fcdaf5bc805f3d9fd2164f2e"
 owners = ["Glyceri",]
 	changelog = """
-[2.10.0.0]
-Text and colours should now replace a lot more consistantly.
-Colour settings can now be toggled per setting.
-
-- This version bumps the save file, beware that you cannot go back.
+[2.10.0.1]
+Fixes a longstanding issue where the party list members would not allign properly.
 """
 
