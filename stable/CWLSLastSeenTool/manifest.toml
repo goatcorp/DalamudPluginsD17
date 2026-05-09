@@ -1,9 +1,16 @@
 [plugin]
 repository = "https://github.com/radax864/CWLSLastSeenTool.git"
-commit = "f16c7f2fe56a77316a87049392bca32dccdf966f"
+commit = "257acdfce6f412fbea3f80f0626c5960652c20be"
 owners = ["radax864"]
 project_path = "CWLSLastSeenTool"
 changelog = """
+Version 2.0.2.0
+
+- Linkshell and Cross-world Linkshell members that have been cached but have not yet been seen online will now display Never Seen under the Last Seen column and the date they were cached under the Days Since column. Sorting functions the same as before and stored data has not been changed.
+- Remove List and Merge/Update List options under Advanced Options now use their own pick lists for better user experience.
+- General optimisation. Data for display tables is now only regenerated/read from plugin configuration storage and sorted when required instead of every frame.
+
+
 Version 2.0.1.0
 
 - Update to Dalamud SDK 15 for patch 7.50
