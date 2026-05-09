@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "353d51f01befc347e3404f7a4af886e758cd55cf"
+commit = "d44364660cccd95157589e21ccca04878a6d7553"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.2"
+version = "1.15.0.3"
 changelog = "### Added\n- Coffer Loot tooltip, showing you how many items you have from a coffer or if an item is part of a coffer which one and how many items you have from it. The location is configurable.\n- Outfit Glamour tooltip, shows you how many items of a outfit glamour you already have in your armoire/glamour chest.\n- Recipe Unlocked column/filter, shows whether all requirements to craft this item (job level, mastery book, specialization) are met by the current character.\n- Compendium View windows can have their section layout edited, you can reorder/alter the visibility of individual sections.\n- Added a Hand-ins column to the Leve Compendium + View window\n- Added a /compendiumlist command for opening a specific compendium listing screen\n### Changed\n- Plugin now uses async loading though some parts of the plugin still load sync(being worked on)\n- References to \"Glamour Ready\" where renamed to \"Outfit Glamour\" to match the game's naming\n### Fixed\n- Fixed a bug when closing certain windows that would throw an exception\n- When venture is the selected source in a craft list it'll now show how many you need to get along with the venture you need instead of just showing the venture name.\n- Fix the EXP reward shown for craft leves in the leve compendium\n- Fixed the required items shown in the Custom Deliveries NPCs compendium view + split the items into tiers"
