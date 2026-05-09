@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/keifufu/QuestTracker.git"
-commit = "af717d08c27e225c6831c9f787c8207fdfa43db6"
+commit = "c6e2671ec7c17e9a95d3605a749859239dcd0196"
 owners = ["isaiahcat", "keifufu"]
 project_path = "."
 changelog = """
-- Added Quasi-Quests
-- Fixed section names for some sidequest categories
+- Added Levequests
+- Improved category and section sorting
 """
