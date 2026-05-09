@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "b8ae28c0ebd49ed074f4a9f7b1c5cc1a8d910ea4"
+commit = "6276375678edae7208f4717401d3865be8fdad16"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-* tweaks to trigger structure
+## SimpleTriggers v1.0.2.3
+* Minor improvements.
+* Disabled dectalk (was in testing)
 """
