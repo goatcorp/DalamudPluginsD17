@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "07e94b9dc3c2e54d0dab1c6c1b702d4d49a5c18a"
+commit = "424876267f5bca8041ca0f631b8077f08facaf25"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
-- API15
+- Fix two reported crashes and make the surrounding code generally more safe
+- Fix an issue where switching from a newtworked object to a client-side object would skip playing the target switch animation
 """
 
