@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Zeffuro/AetherBags.git"
-commit = "9424fe675d97dabe64e5be5c7f8967148770c516"
+commit = "ac4fb5d33d13208eb9064207da2ad9e5dfd186f6"
 owners = ["Zeffuro"]
 maintainers = ["Seeker1437"]
 project_path = "AetherBags"
