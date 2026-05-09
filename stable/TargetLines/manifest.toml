@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Drahsid/TargetLines.git"
-commit = "424876267f5bca8041ca0f631b8077f08facaf25"
+commit = "d0c81c73bf2ea0efa84658ca5a7bab4d89452e4b"
 owners = ["Drahsid"]
 project_path = "TargetLines"
 changelog = """
 - Fix two reported crashes and make the surrounding code generally more safe
 - Fix an issue where switching from a newtworked object to a client-side object would skip playing the target switch animation
+- Fix an issue where the fallback line could consume a filter setting and cause line appearance to change or become invisible
 """
 
