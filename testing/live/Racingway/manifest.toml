@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "6be8a55c4af74fbb93ce87f2fafa85ee0f75cda2"
+commit = "0b5e8783f1be75ed9714ee083b181a5f035a9248"
 owners = ["Abyeon"]
 project_path = "Racingway"
 changelog = """
-v0.1.1.5 [TESTING]
-+ API 14 update.
+v0.1.1.7 [TESTING]
++ Fix detecting house address not working
 """
 
 

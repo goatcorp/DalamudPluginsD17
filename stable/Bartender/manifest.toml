@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "fcacdda1361e8fede8746f6bd30af67bae4793b9"
+commit = "66e47b3091ded7d5ec2ff6147e72219da3c77d0d"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-- Removed the warning toast for last version.
-- Fixed an issue regarding non-existing backup folder.
-- Fixed an issue with empty profile saving.
+- API 15
 """

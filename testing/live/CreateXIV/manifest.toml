@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/seventity7/CreateXIV.git"
+commit = "d1b294b966f9609a8c6cc52cc19b04543e3e6f56"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = """
+- Added support for shared macros in **Macro Alias** command field
+  - Existing macro aliases continue to work normally
+"""
