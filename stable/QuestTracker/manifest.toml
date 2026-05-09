@@ -1,6 +1,9 @@
 [plugin]
-repository = "https://github.com/isaiahcat/QuestTracker.git"
-commit = "e7bfa7fc0f2125389a70b1761fe2a72c751e501d"
-owners = ["isaiahcat"]
-project_path = "QuestTracker"
-changelog = "Support for Dalamud 11.0.0 and 7.1"
+repository = "https://github.com/keifufu/QuestTracker.git"
+commit = "58ea84393a18693300b623b6d9078cb7bd16d291"
+owners = ["isaiahcat", "keifufu"]
+project_path = "."
+changelog = """
+- Added Levequests
+- Improved category and section sorting
+"""

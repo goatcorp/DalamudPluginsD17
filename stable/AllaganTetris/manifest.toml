@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganTetris.git"
-commit = "30afe4a3f49426e5f5322471251e8cb87d74bd2e"
+commit = "57e2bfdc0d2d61619718ed5ffc3dd9967f0c9989"
 owners = [ "Critical-Impact",]
 project_path = "AllaganTetris"
-version = "1.2.0.1"
-changelog = "### Fixed\n- Fixed issue when closing and reopening game\n- Fixed issue with next piece box not showing correctly"
+version = "1.3.0.0"
+changelog = "### Changed\n- API15 update"

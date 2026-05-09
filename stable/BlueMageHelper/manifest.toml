@@ -1,11 +1,17 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BlueMageHelper.git"
-commit = "dc3595bcb66be561c8eb06ffa03842a770867cd9"
+commit = "772c15ff8e2019d04805d2ead61412bc7234ba63"
 owners = [
     "harbingerftw",
 ]
 project_path = "BlueMageHelper"
 changelog = """
-- API 14
-- Fix for updated dungeons
+## Updated for API 15
+## More tools to find spells:
+ - Added button to open the duty the spell drops from
+ - Can now mark the area the mob is located (in duties as well)
+ - Adds a head marker to mobs that drop spells you still need
+
+	
+Please report any issues and thank you for your feedback.
 """
