@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/nopjmp/DeviceChangeFix.git"
-commit = "a3f97d0afdc000c77c932a2fbccf5ccd91b07ca4"
+commit = "e3e826b9faa97355473b97ef4031faeb94f1e35f"
 owners = ["Jessidhia", "MKhayle", "nopjmp"]
 project_path = "DeviceChangeFix"
 changelog = """\
-# 3.1.1
-- Updated for API15
-- This is now filtering WM_DEVICECHANGE messages to only controller events
+# 3.1.1.1
+- Fix Playstation controller detection.
 """
