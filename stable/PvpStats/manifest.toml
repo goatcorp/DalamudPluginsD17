@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "2c8c3136225dea26851a2cae8482d011611467fb"
+commit = "30ac63fa3785aedd975ef6fdab8da442e149eb4b"
 owners = ["wrath16", "rennalol"]
 project_path = "PvpStats"
 changelog = """
-* Patch 7.5 update.
+* Enables action analytics tracking for Crystalline Conflict.
+* Added disk space saving configuration options.
 """
