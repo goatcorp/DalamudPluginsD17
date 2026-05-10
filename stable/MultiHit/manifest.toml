@@ -3,4 +3,4 @@ repository = "https://github.com/Bluefissure/MultiHit.git"
 commit = "e4a9c6fbd406a0ac1afd968a0f11ab27785a6ec6"
 owners = ["Bluefissure"]
 project_path = "MultiHit"
-changelog = """API14"""
+changelog = """API15"""
