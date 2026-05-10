@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ImOv3rburdened/TomstonePhone.git"
-commit = "6cd6d06cdd94453796c4a02fded4814914445e72"
+commit = "c7bbaa7dfecfe69b566b2b41aaa558626de681ab"
 owners = ["ImOv3rburdened"]
 project_path = "TomestonePhone/TomestonePhone"
-changelog = "Initial commit of tomestone phoen plugin"
+changelog = "Initial commit of tomestone phoen plugin - Added in replacement icons from Zab and merged in the test version with wallpaper support and custom icons/tints support."
