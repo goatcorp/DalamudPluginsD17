@@ -1,10 +1,15 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "d1b294b966f9609a8c6cc52cc19b04543e3e6f56"
+commit = "dcee257b67c2acfcfb8496e376ef565bee9d6dce"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-- Added support for shared macros in **Macro Alias** command field
-  - Existing macro aliases continue to work normally
+- Added command suggestions while creating command aliases
+- Added macro suggestions while creating macro aliases, including shared macros
+  - Suggestions can be clicked to fill the command field automatically
+- Improved validation of command fields
+- Commands now automatically receive `/` when needed
+- Cleaner alias list and no longer shows the `N°` column
+- Saved aliases can now be sorted by clicking on column titles
 """
