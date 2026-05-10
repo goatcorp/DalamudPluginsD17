@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/twelvehouse/ChatAnywhere.git"
+commit = "e9632a764a844001086a0a7539e1de93a4fd1022"
+owners = ["twelvehouse"]
+project_path = "."
+changelog = """
+# v1.0.0.1 Release
+
+Host your chat on a web server so you can talk from anywhere.
+
+- Real-time chat streaming via Server-Sent Events
+- Supports all channel types: FC, LS/CWLS 1-8, Party, Tell, Say, Shout, Yell, Alliance, and more
+- Custom filters with drag-and-drop reordering, unread badges, and default send channels
+- Tell mode with pin support and recent DM history
+- Emote picker with search and recently used, and FFXIV symbol picker
+- Link previews for trusted sites (Lodestone, YouTube, Twitter/X, Twitch, and more)
+- Appearance customisation: Google Fonts, font size, coloured message backgrounds
+- Passcode authentication for browser access
+"""
