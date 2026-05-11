@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "e1fb8502e129194efa288b7a01c08aee87345c0d"
+commit = "6bf71a3cfc84c80d721ae776c5055bc9ce9fa028"
 owners = ["karashiiro"]
 changelog = """\
-- Possible fix for crashes under WINE.
+- Updated for 7.5
 """

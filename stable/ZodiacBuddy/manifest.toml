@@ -2,4 +2,8 @@
 repository = "https://github.com/foophoof/ZodiacBuddy.git"
 owners = [ "foophoof" ]
 project_path = "ZodiacBuddy"
-commit = "a270d2a5a8d8ca8cda3fa00984c0dd168ce6c56c"
+commit = "bdf89eaced8b305f111cc7d927726455b752c3d6"
+changelog = """\
+### Changed
+- API15 support
+"""

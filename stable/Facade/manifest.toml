@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/keifufu/Facade.git"
+commit = "6d381cb8f09787fcc08c11a87b33b1781f347433"
+owners = ["keifufu"]
+project_path = "."

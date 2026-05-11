@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "a43e7a0c515e885231f7850a1833cc6cd31f739d"
+commit = "11c76717a88b38781433297c3c53bf2ced19d344"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **System**: Fixes a crash when processing unclosed XML tags (such as "<3").
+- **General**: Added global volume setting under the General settings
+- **General**: Added `/tttvolume` command to change the global volume setting
+- **General**: Added `/tttpreset <name>` command to change the Chat Channel preset configuration
+- **ElevenLabs**: Fixed missing model selector, which also fixes voice styles
 """

@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
+commit = "e48cec437fe349596ccd764dc3af78d2581bd274"
+owners = ["AEBus"]
+project_path = "FFXIV.Venues.Directory"
+changelog = """
+Updated for the latest Dalamud release.
+
+- Keeps the venue directory working with the current game/plugin environment.
+- Banners now show a simple loading message while images load.
+- Improved reliability when opening, closing, and refreshing the directory.
+- General browsing polish for venue lists, details, filters, and schedules.
+"""

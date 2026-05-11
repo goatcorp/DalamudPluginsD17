@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/VisibilityPlugin.git"
 owners = [ "SheepGoMeh",]
 project_path = "Visibility"
-commit = "5095fd6472920ba4b6852e1d5a3c0889ed3949d5"
-changelog = "- API 14 update"
+commit = "d883fae45a2bda005b0001b34acda2b203c3d98f"
+changelog = "API 15 update"

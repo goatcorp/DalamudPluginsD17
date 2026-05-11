@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "fbb642df4953e0ac2391a96f73a2b2b647961577"
-owners = [
-    "Critical-Impact",
-]
+commit = "5e027a339daa19ea6ac7403f5b5c00821d496a3d"
+owners = [ "Critical-Impact",]
 project_path = "AllaganItemSearch"
-version = "1.2.0.0"
-changelog = """\
-### Fixed
-- Support for 7.4
-"""
+version = "1.3.0.0"
+changelog = "### Changed\n- API15 update including new data for 7.5"

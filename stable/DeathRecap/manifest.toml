@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "d1960a973781b86a0bb4b31c80a9b42ee7f245e0"
+commit = "658ec3a19614f225e354b207ebba87aaf64943c7"
 owners = ["Kouzukii"]
 project_path = ""
 changelog = """
-- Update to FFXIV 7.4 and Dalamud 14
+- Update to FFXIV 7.5 and Dalamud 15
 """

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/Miu-B/PullToOBS.git"
+commit = "9065786f4fb0c43b96285c97eb725a5e2c76177c"
+owners = ["Miu-B"]
+maintainers = ["Miu-B"]
+project_path = "PullToOBS"
+changelog = """
+- Upgrade to Dalamud API 15 (Dalamud.NET.Sdk 15.0.0)
+"""
