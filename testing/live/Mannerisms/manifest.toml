@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mustbetommy/Mannerisms.git"
-commit = "54ae1b6848aef6575fba868f7bf78ce807afa133"
+commit = "6690f3266e7cd1dce91ca2bb60a6e8bd109c6eee"
 owners = ["mustbetommy"]
 project_path = "Mannerisms"
 changelog = "Initial release (v1.0.0)"
