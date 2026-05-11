@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/smileyhead/conditional-focustarget.git"
-commit = "bc48ff790dc797b56c83019ac2825c14ff4b4615"
+commit = "336a3be12612f9325609f96c6ff3f4a55c547151"
 owners = ["smileyhead"]
 project_path = "StickyFocusTarget"
 changelog = """
