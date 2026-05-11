@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/powellad/Toastingway.git"
-commit = "0f663ca110f02ca4058b4c02fc0d9243e49f7f34"
+commit = "7ae2d1c978bb1321832732083a380099e9b4fd5b"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
-version = "1.3.0.2"
+version = "1.3.0.3"
 changelog = """
-Update to Dalamud API 14 and .NET 10.
+Update to Dalamud API 15.
 """
