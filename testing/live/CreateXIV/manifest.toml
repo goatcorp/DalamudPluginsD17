@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/seventity7/CreateXIV.git"
+commit = "dcee257b67c2acfcfb8496e376ef565bee9d6dce"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = """
+- Added command suggestions while creating command aliases
+- Added macro suggestions while creating macro aliases, including shared macros
+  - Suggestions can be clicked to fill the command field automatically
+- Improved validation of command fields
+- Commands now automatically receive `/` when needed
+- Cleaner alias list and no longer shows the `N°` column
+- Saved aliases can now be sorted by clicking on column titles
+"""

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "12d5fb875053a93fc1e0aa7c705a1655d629f98e"
+commit = "b06c3dff523ef886b6bb0b346332d72574ce7197"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Changed display of command help messages to highlight shorter commands.
+- Compatibility with 7.5 and Dalamud 15.
 """

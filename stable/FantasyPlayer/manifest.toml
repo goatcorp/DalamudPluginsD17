@@ -1,12 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "ebbba6ed7c6ea10d76a339dca79cd23498712741"
-owners = [
-    "Critical-Impact",
-]
+commit = "956801bd3f28984bc759e6a77a6ec4af1fcd842d"
+owners = [ "Critical-Impact",]
 project_path = "FantasyPlayer"
-version = "2.5.0.0"
-changelog = """\
-### Fixed
-- Support for 7.4
-"""
+version = "2.6.0.0"
+changelog = "### Changed\n- API15 update"

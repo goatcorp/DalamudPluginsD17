@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "059ba93359d371085d1972e0712e71f8e33510f2"
+commit = "2175e00d3faf49d26f8926e430b31cb055a3e9ee"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Update for 7.4 (Thanks Boxu!)
+- Rewrite config menu entirely to use tabs instead of various windows
+- Rewrite the way the ignore list works, it now picks from members in every tracked FC, not just your own. You can now search within the list and add and remove multiple players at once as well as the currently targeted player.
+- Add color preview when assigning groups to FCs
+
+Feedback and suggestions on the previous nameplate highlight feature as well as the new config and ignore feature would be appreciated!
+Special thanks to MidoriKami for answering my questions when working on this
 """
