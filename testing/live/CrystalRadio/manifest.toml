@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Saevath/CrystalRadio.git"
-commit = "b152403f005eb818c362addbed8eb6f816d4b8dc"
+commit = "3a45720177f9971562060fc9883fb45f5f0ff1fc"
 owners = [ "Saevath" ]
 changelog = """
 - Added support for custom stations
