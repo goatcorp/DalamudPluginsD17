@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/Noctrepo/NoPolice.git"
-commit = "8ac16a823d175e1ebce2b17057b0bfe144a65fec"
+commit = "feeb237ef9626d53f0ab72ad4c8f2d755bd62017"
 owners = ["Noctrepo"]
 project_path = "NoPolice"
-changelog = "Fix unintentional hiding of players in portraits and cutscenes"
+changelog = "Update Dispose, prevent hiding of self"
