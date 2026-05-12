@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "9d72b8641ed9251e5836be3bc6675e80a07b968b"
+commit = "620731282ebf17029afa2cf37733816dafcacb75"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-* Patch 7.4 update.
+* Patch 7.5 update.
 """
