@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Piggy-Guy/DalamudJSPlugin.git"
-commit = "50e47820af925360e0b560c21f7ec39a31dd0777"
+commit = "3f9d9b4612551a4f656edaabf3a09a3a52687f4b"
 owners = ["Piggy-Guy"]
 project_path = "Jumpscare"
-changelog = "dalamud api 15 + push to stable"
+changelog = "Fixed version number between testing and stable releases"
