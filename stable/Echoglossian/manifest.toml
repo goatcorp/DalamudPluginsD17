@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "720e655e213d0bb105154272a04c36098d75bb07"
+commit = "6ee927a0a0ccb14a25f3fb98cf00542372757b94"
 owners = ["lokinmodar"]
-changelog = "v4.2600.1105.x \n fixes:\n - stabilized setup, engine selection, and first-use activation\n - improved action and main menu translation reuse between game versions\n - fixed translator cache concurrency and several native UI read-only rewrite regressions"
+changelog = "v4.2600.1205.x \n fixes:\n - fixed repeated translation requests after changing translation engine or model settings\n - completed the handler unregister follow-up so stale listeners stop surviving runtime refreshes"
