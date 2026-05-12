@@ -1,1 +1,6 @@
-
+[plugin]
+repository = "https://github.com/DukePantarei/Dalamud.FullscreenCutscenes.git"
+commit = "2fc9af4c0c9123644c5c3fc81fdb47bb3fc0d686"
+owners = ["DukePantarei"]
+project_path = "Dalamud.FullscreenCutscenes"
+changelog = "Updated to Dalamud API 15, restoring functionality. Maintained fork of goaaats/Dalamud.FullscreenCutscenes."
