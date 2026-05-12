@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
-commit = "e019fe3ea671a8c9b49a029147a3882187cd96c6"
+commit = "727caf5a6bde939740a9a343fd66e326b87b92ae"
 owners = ["AEBus"]
 project_path = "FFXIV.Venues.Directory"
 changelog = """
 Window resizing update.
 
 - The directory window can now be resized larger while keeping 1280x720 as the minimum supported size.
+- Corrected window sizing values so Dalamud applies UI scaling consistently.
 """
