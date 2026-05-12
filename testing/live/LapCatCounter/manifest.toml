@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
-commit = "45e6e12cc21a5e76dbab5b70283bb57d7027ef0c"
+commit = "1c584bfa3b677c75a2777c4be36572f59d1aa48c"
 owners = ["ImOv3rburdened"]
 project_path = "LapCatCounter"
-changelog = "v1.0.24 - Fixed loops detection pickign the wrongg emotes for lap detection, i.e. usign wringhands and someone sat on you would trigger thinking you were the original sitting lap."
+changelog = "v1.1.0.0. Updated dalamud API level. Removed fallback code for lap detection that was removed in the latest API. Version bump  and new icon"

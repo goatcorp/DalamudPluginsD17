@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = '9ff38f9e404eaec37ce863aa6073a0b4c916ce52'
+commit = '4352901e6b647f265814c4a03e67af105de11f46'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Remove /el command
+- 7.5 and API15 update
 """
 

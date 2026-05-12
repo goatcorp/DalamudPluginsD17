@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/WesselKuipers/FCNameColor.git"
-commit = "8c233c09175c9e524ffa45eef271526d0607c3ba"
+commit = "179af7289022749806aa525156d64ccd439c0028"
 owners = ["WesselKuipers"]
 project_path = "FCNameColor"
 changelog = """
-- Revert changes made to FC matching logic
+- Add nameplate hiding feature
+
+Feedback and suggestions on this feature would be appreciated!
 """

@@ -2,5 +2,5 @@
 repository = "https://github.com/cassandra308/WhereAmIAgain.git"
 owners = ["cassandra308", "reiichi001", "MidoriKami", "nathanctech"]
 project_path = "WhereAmIAgain"
-commit = "7750d34d23c892ed4047940283b133cbd820b565"
-version = "2.1.1.5"
+commit = "4c84583942de617feeaf2e05ca48184afa3a89b5"
+version = "2.1.1.6"

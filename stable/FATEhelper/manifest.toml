@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "095270c14d8dcf11ea177526924a79939768c695"
+commit = "91d4e84d844d75cb1be676ba7cdd17cc121d8750"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "added closest aetheryte shard display for occult crescent, added /fh as secondary command"
+changelog = "API v15, added option for forlorn spawn sound effect"
