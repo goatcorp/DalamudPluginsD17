@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "edbc66598a56f8fae743aab09aceccfd5a4c46b0"
+commit = "3ff33f753910d06043ebb389a57c044d73385a49"
 owners = ["lokinmodar"]
-changelog = "v4.2600.0605.x \n fixes:\n - many loading bugs and translator change weird corruptions"
+changelog = "v4.2601.0512.x \n fixes:\n - fixed repeated translation requests after changing translation engine or model settings\n - completed the handler unregister follow-up so stale listeners stop surviving runtime refreshes"
