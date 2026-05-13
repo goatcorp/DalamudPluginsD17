@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "7a987f0f8df2212d56fb947d3bb98ab03893e7b3"
+commit = "db59aedb0c3f5428477135b4c621fdf2e80c852e"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.4"
-changelog = "### Added\n- Shop NPC highlighting is now on by default when highlighting items. The option to adjust colours, and enable/disable the feature are available in the Shop Highlighting section of Settings -> Highlighting.\n- Added the ability to view/modify the item ingredient overrides for craft lists via a new tab in settings. This can also be edited in the default list and will be inherited in new lists.\n### Changed\n- Shop Highlighting settings were moved to their own sub-section in settings.\n- Reworked the Lists/Craft Lists/Import & Export pages in configuration into a single page with a new reordering system\n- The Ingredient Sourcing was reworked to provide easier reordering and a reset to default button\n### Fixed\n- Some coffers were auto-matched and the auto-matching did not take item level into account, this should reduce the false positives in coffers. \n- Fixed a bug where the context menu additions would not show up when right clicking on a item in the try on window.\n- Allowed for larger list import codes to be pasted into the list import window."
+version = "1.15.0.5"
+changelog = "### Added\n- Outfit Glamour tooltip now has the ability to pick a search scope, defaulting to the Armoire/Glamour Chest for those that would like to track acquisition outside these.\n- Added Character/Retainer - World - Category - Quantity - Quality as a mode to the  tooltip.\n### Fixed\n- If the compendium state fails to load, the potential exception is caught and logged\n- Hopefully fixed the crash on exit by not manipulating nameplates while the game is unloading\n- The Equippable by Gender/Race column filters are now free type instead of being a dropdown allowing for complex filtering\n- Fixed a bug where context menu additions were being placed on menus not related to items."

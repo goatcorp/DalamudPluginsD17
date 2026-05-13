@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "d3cf6b8b7f94eb4873ae5866159866ff9445f38f"
+commit = "bf7c9e307e7ab6b919c708b94a35284e18503f13"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Inventory**: Fix key inventory item legth following change, should display all the items properly now
-- **Timers**: Fix doman enclave not unlocked mark showing when weekly enclave donations wasn't at max
+- **Gear set list**: Fix gear set list not displaying some gear sets when missing ids in between
 """

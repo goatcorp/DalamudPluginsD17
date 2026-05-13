@@ -1,9 +1,5 @@
 [plugin]
 repository = "https://github.com/keifufu/QuestTracker.git"
-commit = "58ea84393a18693300b623b6d9078cb7bd16d291"
+commit = "3c5f3a5b6c91bbdd8cf603b9ea33caa928656207"
 owners = ["isaiahcat", "keifufu"]
 project_path = "."
-changelog = """
-- Added Levequests
-- Improved category and section sorting
-"""
