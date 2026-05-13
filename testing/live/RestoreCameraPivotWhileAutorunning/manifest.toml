@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/ryankhart/RestoreCameraPivotWhileAutorunning.git"
-commit = "2802de85f89dccce78289b744554c38ab61ea9dd"
+commit = "8a533c2f896c4549b47555ce19100e14c2b1e6bc"
 owners = ["ryankhart"]
 changelog = "Initial testing release."
