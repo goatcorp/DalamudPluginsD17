@@ -1,6 +1,12 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "57761cb0c5663517a0419b95b3c17b2380b6f7cc"
+commit = "1d5cd9996fd2b21bd75fcdbaceb04151d14c8e3d"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "- Added a link to the source repository, visible in the Dalamud plugin installer.\n- Preparing for stable release."
+changelog = """
+New Features:
+- Each character can now have their own personal filter settings, separate from the shared filters. Toggle per-character mode by clicking the character name in the sidebar header.
+- The sidebar header now shows your current character's name and home world. Clicking it opens a dialog to switch between shared and personal filter modes.
+- Import filters and folders from another character's saved settings (Filters tab in Settings).
+- When the plugin server is unreachable, the interface shows a pulsing "Connecting..." animation and automatically retries with exponential backoff, instead of silently failing.
+"""
