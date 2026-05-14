@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/elchupi/AnimSwapper.git"
-commit = "8aa495ee70ce23debcbb2fe56573d28a335f5b47"
+commit = "f02e554c34a026874de88b8f082a20a4e92554cc"
 owners = ["elchupi"]
 project_path = "AnimSwapper"
 changelog = "Initial release."
