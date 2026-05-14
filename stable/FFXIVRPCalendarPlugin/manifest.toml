@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/erroch/FFXIVRPEventCalendarPlugin.git"
-commit = "d2b14e3abd14f90763d1e1d69dedca3d97e958e5"
+commit = "ca565254982b75587080bc22d5a9e24ad11bec22"
 owners = ["erroch"]
 project_path = "FFXIVRPEventCalendarPlugin"
 changelog = """
