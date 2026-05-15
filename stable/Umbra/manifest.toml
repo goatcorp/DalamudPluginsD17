@@ -1,15 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "4bce94cfcd90950089beacebb8a3b5542e50b984"
+commit = "34e45e6819cd180ba83ce92b696b3a07d79734d8"
 owners = [ "haroldiedema" ]
 maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.15
+# Umbra 3.1.16
 
 ## Fixes & Improvements
 
-- Fix potential crash while calculating Compass Marker positions (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix Compass Marker being forced to top left (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 
