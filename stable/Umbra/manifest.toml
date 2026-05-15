@@ -1,17 +1,15 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "b131ee3f9225b72773e4def862b19319c89330b3"
+commit = "34e45e6819cd180ba83ce92b696b3a07d79734d8"
 owners = [ "haroldiedema" ]
 maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.12
+# Umbra 3.1.16
 
 ## Fixes & Improvements
 
-- Fixed some translations (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Added markers for Eureka elementals (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
-- Fixed error when calculating bonus for Custom Deliveries (By [wolfcomp](https://github.com/wolfcomp)).
+- Fix Compass Marker being forced to top left (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 

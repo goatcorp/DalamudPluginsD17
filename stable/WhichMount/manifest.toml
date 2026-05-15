@@ -1,16 +1,12 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "84e9f050c7a801db0403dce2d3312f5a7143ce64"
+commit = "4c9518351245164ab69ee6c0e08f5c87e142faea"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.4.1"
+version = "1.4.2"
 changelog = """
-Version 1.4.1:
-  - UI fixes
-Version 1.4.0:
-  - UI/UX improvements
-  - Market Board availability obtion
-  - 7.4 patch mount data update
+Version 1.4.2:
+  - 7.5 patch mount data update
 """

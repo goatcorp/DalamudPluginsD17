@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Miu-B/PullToOBS.git"
-commit = "03dd0d4c02a4e109146ffb7aa5c209c08dc9f140"
+commit = "9065786f4fb0c43b96285c97eb725a5e2c76177c"
 owners = ["Miu-B"]
 maintainers = ["Miu-B"]
 project_path = "PullToOBS"
 changelog = """
-- Add encounter metadata logging: writes a JSON file per encounter with encounter name, job, territory, and file paths for use with the limitcut companion tool (opt-in, disabled by default)
-- Change SaveReplayBuffer/StopRecording to return file paths for metadata output
+- Upgrade to Dalamud API 15 (Dalamud.NET.Sdk 15.0.0)
 """

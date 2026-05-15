@@ -1,0 +1,20 @@
+[plugin]
+repository = "https://github.com/seventity7/Clock.git"
+commit = "8feec46367a0a3304b08c4e356ab6fd8c42b6615"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = """
+Clock is a lightweight and highly configurable in-game clock plugin for FFXIV.
+It adds a dedicated clock display that can be placed directly on your screen, making it easier to keep track of time without leaving the game or relying on external overlays.
+
+Features include but not limited to:
+- A movable in-game clock window
+- Fully customizable with a bunch of options
+- Multiple Timezones supported
+- Fully configurable Alarms supported
+- Maintenance reminders
+- Optional additional display for Local time
+- Quickly change timezones through commands
+and much more..
+"""

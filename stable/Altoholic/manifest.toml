@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "dda6b7d430c54d8675490a0dfd91d82fded0a3bc"
+commit = "0a3785da57135bece447f647408e77bf2d81b98f"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Character**: Add housing last entry tracking, enable in setting, set the number of days and an icon will show on character tab list if last entry was older
-- **Timer**: Add loot tracking for current normal raid tier (Arcadion Heavyweight).
+- **Timers**:
+  - Add 'ban' icon on fashion reports timer column when unlocked but judging period is not active. 
+  - Fix roulette unlocked state for timers reminders
 """
