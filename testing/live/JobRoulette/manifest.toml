@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/sleeds2/jobroulette"
+repository = "https://github.com/sleeds2/jobroulette.git"
 commit = "c988277cd2457eddfb609414e07c3e44ae60dd97"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
