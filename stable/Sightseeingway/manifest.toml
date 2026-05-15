@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/gposingway/Sightseeingway.git"
-commit = "194fd18d0efe287d5fdc8fde4d5c5385ccdcd720"
+commit = "a8865dc22ce46bc23cd0712beba2545d7a05bcd3"
 owners = ["gposingway","LeonAquitaine"]
 project_path = "Sightseeingway"
-changelog = "API 13 update"
+changelog = "API 15 update (Dalamud SDK 15, .NET 10); thread-safe rename cache, Shadingway watcher fix, internal cleanup"

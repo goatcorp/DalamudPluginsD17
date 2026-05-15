@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "251381060984098e12bd7d17eef810ce6f6e4a23"
+commit = "54087e5f883d75a31c6389300cc5a2a5c116cc71"
 owners = ["Glyceri",]
 	changelog = """
-[1.1.0.2]
-Tentative fix for hang on startup.
+[1.2.0.0]
+API15
 """

@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/NadyaNayme/TidyChat.git"
-commit = "c6c9de2251672f8f63208ff32fb1f508b409dfe6"
-owners = [
-    "NadyaNayme",
-]
+commit = "273745d24f1062db4af48c79198e4d5123c10a1c"
+owners = ["Kagekazu"]
+maintainers = ["NadyaNayme"]
 project_path = "TidyChat"
-changelog = "API Bump"
+changelog = "Change owner"
