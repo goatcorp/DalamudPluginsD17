@@ -4,4 +4,7 @@ commit = "80dd6af8cd96279263962fc96b496eaea5c6a150"
 owners = ["Abyeon"]
 maintainers = ["Abyeon, Glorou"]
 project_path = "HousingCullFix"
-changelog = "Initial release"
+changelog = """
+Initial Release:
+This small plugin "fixes" the housing pop-in issues introduced in 7.5 by disabling the new culling system.
+"""
