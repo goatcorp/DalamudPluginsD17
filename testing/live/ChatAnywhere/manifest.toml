@@ -1,6 +1,9 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "57761cb0c5663517a0419b95b3c17b2380b6f7cc"
+commit = "994b27d7f54705e46ac35ea46b0bab08400c06fe"
 owners = ["twelvehouse"]
 project_path = "."
-changelog = "- Added a link to the source repository, visible in the Dalamud plugin installer.\n- Preparing for stable release."
+changelog = """
+Bug Fixes:
+- Fixed a crash when saving a passcode on Linux/Proton (Wine < 11). The OS-level PBKDF2 API missing in older Wine versions is now replaced with a pure managed implementation.
+"""

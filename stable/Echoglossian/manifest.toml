@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "3ff33f753910d06043ebb389a57c044d73385a49"
+commit = "7be033b7c2c0809d664823690e029959a76caf4c"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0512.x \n fixes:\n - fixed repeated translation requests after changing translation engine or model settings\n - completed the handler unregister follow-up so stale listeners stop surviving runtime refreshes"
+changelog = "v4.2601.0516.x \n fixes:\n - fixed the OpenRouter prompt-expansion bug so fully materialized prompts reach the provider\n - hardened prompt substitution so literal placeholder text inside dialogue content is preserved"

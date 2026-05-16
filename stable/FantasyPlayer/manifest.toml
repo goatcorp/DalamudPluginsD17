@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/FantasyPlayer.git"
-commit = "956801bd3f28984bc759e6a77a6ec4af1fcd842d"
+commit = "672628c1ab47701fef81c4ffd7fe98f8ce387fa9"
 owners = [ "Critical-Impact",]
 project_path = "FantasyPlayer"
-version = "2.6.0.0"
-changelog = "### Changed\n- API15 update"
+version = "2.6.0.1"
+changelog = "### Added\n- Added IPC allowing other plugins to control Fantasy Player which in turn controls spotify\n### Changed\n- Bump deps"
