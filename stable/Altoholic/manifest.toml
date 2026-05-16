@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "0a3785da57135bece447f647408e77bf2d81b98f"
+commit = "616cb4c29f5101003a9dc97c9c8464267edd41cb"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**:
-  - Add 'ban' icon on fashion reports timer column when unlocked but judging period is not active. 
-  - Fix roulette unlocked state for timers reminders
+- **Timers**: Add duty completion for weekly raids. Rewards now has an additional chest icon next to the checkmark if something was received
 """
