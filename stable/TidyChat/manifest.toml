@@ -4,9 +4,4 @@ commit = "56200551c5bdb1ae557de2fdbed203d17ae44012"
 owners = ["Kagekazu"]
 maintainers = ["NadyaNayme"]
 project_path = "TidyChat"
-changelog = "Fix DTR bar not updating when u change instance.
-             Fix Battle currency being outdated and not hiding properly.
-             Add option to hide the error from fate syncing.
-             Remove glamour spam settings, since its in base game now.
-             Fix Another player has cast his/her loot showing when it should not.
-             Add better treasure dungeon messages"
+changelog = ""
