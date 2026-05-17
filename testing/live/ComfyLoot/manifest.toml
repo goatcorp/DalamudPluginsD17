@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/j0giwa/ComfyLoot.git"
-commit = "ddc3c9a3da27ee6ee1e49bf0ef91c7c1f0caf919"
+commit = "68b6380ce38d74ef17833e17bd25a9eedb625cbb"
 owners = ["j0giwa"]
 project_path = "."
 changelog = """
