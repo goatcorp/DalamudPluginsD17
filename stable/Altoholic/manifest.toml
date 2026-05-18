@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "616cb4c29f5101003a9dc97c9c8464267edd41cb"
+commit = "6f470ac73647efc860475d1a61304c54bdeeab53"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Add duty completion for weekly raids. Rewards now has an additional chest icon next to the checkmark if something was received
+- **Inventory**: Manage saddle bag premium bag if premium isn't available but items were put in it before deactivation
 """
