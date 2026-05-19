@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/pohky/TeleporterPlugin.git"
-commit = "427d431d8544870721b8b5f8c9be3f4d734cac7a"
+commit = "20a9235830e1415e79ddef0c3e7ccf5a0cd52b79"
 owners = ["pohky"]
 project_path = "TeleporterPlugin"

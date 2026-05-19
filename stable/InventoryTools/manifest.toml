@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "a3d9479b6b9911fa66b397373ecf90c085be9564"
+commit = "db59aedb0c3f5428477135b4c621fdf2e80c852e"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.0"
-changelog = "### Changed\n- API15 update\n- Data update for 7.5\n- Now parses the extra items from the armoire + housing"
+version = "1.15.0.5"
+changelog = "### Added\n- Outfit Glamour tooltip now has the ability to pick a search scope, defaulting to the Armoire/Glamour Chest for those that would like to track acquisition outside these.\n- Added Character/Retainer - World - Category - Quantity - Quality as a mode to the  tooltip.\n### Fixed\n- If the compendium state fails to load, the potential exception is caught and logged\n- Hopefully fixed the crash on exit by not manipulating nameplates while the game is unloading\n- The Equippable by Gender/Race column filters are now free type instead of being a dropdown allowing for complex filtering\n- Fixed a bug where context menu additions were being placed on menus not related to items."

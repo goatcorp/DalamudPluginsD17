@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "66e47b3091ded7d5ec2ff6147e72219da3c77d0d"
+commit = "1c02032c3581c0ef33770594bbfe7ee1c52010c4"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-- API 15
+- Pet condition fixed
 """

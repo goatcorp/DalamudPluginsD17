@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6b418a3d855e7de42d89416f9ec40b666c0d3430"
+commit = "6f470ac73647efc860475d1a61304c54bdeeab53"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Fix some timers remainders chat reminders conditions. Fix timer tab columns number.
+- **Inventory**: Manage saddle bag premium bag if premium isn't available but items were put in it before deactivation
 """

@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/seventity7/CreateXIV.git"
+commit = "2c4f251d01a34a7660e65e4fe198dbf8a61ffd0d"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = """
+### Fix Patch v1.0.6.6
+- **Fixed saved command and macro aliases being lost after restarting the game**
+- Updated command suggestion list
+- Removed the previous limit of 100 commands suggestions
+  - Added mouse wheel scrolling support for long suggestion lists
+"""

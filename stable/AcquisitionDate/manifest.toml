@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "54087e5f883d75a31c6389300cc5a2a5c116cc71"
+commit = "7189a64cee08915f033ef07e4707bcb7f7d714ac"
 owners = ["Glyceri",]
 	changelog = """
-[1.2.0.0]
-API15
+[1.2.1.0]
+AFixes lodestone ID's not being found properly for all usernames. (By: JordanXion)
 """
