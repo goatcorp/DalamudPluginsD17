@@ -1,9 +1,14 @@
 [plugin]
 repository = "https://github.com/Meisterlala/NekoFans.git"
-commit = "d3f569edd15007645eeb7f7e775b48f397d43d1b"
+commit = "0e5d5319f3488acc559886634f45f79d2f21b6f7"
 owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """- Update to API 15
-- Beastmaster support: Catgirls are now valid beasts"""
+changelog = """- Removed shibe.online (domain expired)
+- Removed waifu.pics (domain expired)
+- Added Nekosia
+- Added Nekos API
+- Added Purrbot
+- Updated waifu.im to v7 (PR #14 from @Torphage )
+- Improved Retry logic on 429 Error code"""
