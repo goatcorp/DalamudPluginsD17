@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/OncaLupe/TrainTracker.git"
+commit = "1d6b92546698e095401cce12e1d977468c034a86"
+owners = ["OncaLupe"]
+project_path = "TrainTracker"
+changelog = "Initial Release"
