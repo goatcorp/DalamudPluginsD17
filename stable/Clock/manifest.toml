@@ -1,20 +1,18 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "8feec46367a0a3304b08c4e356ab6fd8c42b6615"
+commit = "faa73350f6ccff89797db55ea674ad954e8c7a2b"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-Clock is a lightweight and highly configurable in-game clock plugin for FFXIV.
-It adds a dedicated clock display that can be placed directly on your screen, making it easier to keep track of time without leaving the game or relying on external overlays.
+## New Chat Timestamp options
 
-Features include but not limited to:
-- A movable in-game clock window
-- Fully customizable with a bunch of options
-- Multiple Timezones supported
-- Fully configurable Alarms supported
-- Maintenance reminders
-- Optional additional display for Local time
-- Quickly change timezones through commands
-and much more..
+New **Chat Timestamp** section in the Clock settings
+- You can now show a custom timestamp directly in chat messages
+- Added options to match the chat channel color or choose a custom color
+- Added a timezone selector for chat timestamps, including a default **Local Time** option
+- Added a **Show AM/PM** option for timestamps
+- Chat timestamps wont show seconds even if the main clock is using a seconds format
+- Moved **Favorite Timezones** into the **Time Display** section
+- Added translations for the new Chat Timestamp settings
 """
