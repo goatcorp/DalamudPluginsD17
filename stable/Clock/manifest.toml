@@ -1,18 +1,22 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "faa73350f6ccff89797db55ea674ad954e8c7a2b"
+commit = "96db6b84eeffc07bb1dd94485208cdcbcdbca19d"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-## New Chat Timestamp options
+### Changed Chat Timestamp System
 
-New **Chat Timestamp** section in the Clock settings
-- You can now show a custom timestamp directly in chat messages
-- Added options to match the chat channel color or choose a custom color
-- Added a timezone selector for chat timestamps, including a default **Local Time** option
-- Added a **Show AM/PM** option for timestamps
-- Chat timestamps wont show seconds even if the main clock is using a seconds format
-- Moved **Favorite Timezones** into the **Time Display** section
-- Added translations for the new Chat Timestamp settings
+The plugin now uses the native timestamp system.
+It still does the same things as before:
+
+- shows custom timestamps in chat;
+- supports 12-hour and 24-hour time;
+- can show or hide `AM/PM`;
+- uses the configured time zone offset;
+- can apply a custom timestamp color;
+
+### Notes
+- `Match Channel Color` option temporarily removed
+Please note that if you want to use this feature from this plugin, you might need to disable similar features from other plugins to avoid having any incompatibility in case if there is still any.
 """
