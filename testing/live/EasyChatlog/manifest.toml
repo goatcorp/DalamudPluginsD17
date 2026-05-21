@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ElyFura/Easy-Chatlog.git"
-commit = "8721aebd30c2dd852c9a4fd684d4505b104950fd"
+commit = "4aeb22a8816b6e62d9f4b6c1aa997a6d84b3efb8"
 owners = ["ElyFura"]
 project_path = "EasyChatlog"
-version = "0.1.9.3"
+version = "0.1.9.5"
