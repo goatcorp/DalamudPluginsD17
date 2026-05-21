@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "96db6b84eeffc07bb1dd94485208cdcbcdbca19d"
+commit = "4969541ea139f6b453171bfdae9aa2169c206693"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
@@ -15,6 +15,12 @@ It still does the same things as before:
 - can show or hide `AM/PM`;
 - uses the configured time zone offset;
 - can apply a custom timestamp color;
+
+### Technicall stuff
+
+- Improved how custom chat timestamps are handled internally
+- Reduced unnecessary processing when the custom timestamp option is disabled
+- Improved further compatibility's
 
 ### Notes
 - `Match Channel Color` option temporarily removed
