@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/BalthierArt/EchoChat.git"
-commit = "15a945b2f046dd95b485b66e9f095ab897b4c7de"
+commit = "8d76b4947a33b4de75fe4241f19c88ff002dacf2"
 owners = ["BalthierArt"]
 project_path = "."
 changelog = "Update."
