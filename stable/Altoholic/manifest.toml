@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "bf7c9e307e7ab6b919c708b94a35284e18503f13"
+commit = "6f470ac73647efc860475d1a61304c54bdeeab53"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Gear set list**: Fix gear set list not displaying some gear sets when missing ids in between
+- **Inventory**: Manage saddle bag premium bag if premium isn't available but items were put in it before deactivation
 """

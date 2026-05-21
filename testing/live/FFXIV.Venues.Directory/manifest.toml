@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/AEBus/FFXIV.Venues.Directory.git"
-commit = "e48cec437fe349596ccd764dc3af78d2581bd274"
+commit = "727caf5a6bde939740a9a343fd66e326b87b92ae"
 owners = ["AEBus"]
 project_path = "FFXIV.Venues.Directory"
 changelog = """
-Updated for the latest Dalamud release.
+Window resizing update.
 
-- Keeps the venue directory working with the current game/plugin environment.
-- Banners now show a simple loading message while images load.
-- Improved reliability when opening, closing, and refreshing the directory.
-- General browsing polish for venue lists, details, filters, and schedules.
+- The directory window can now be resized larger while keeping 1280x720 as the minimum supported size.
+- Corrected window sizing values so Dalamud applies UI scaling consistently.
 """
