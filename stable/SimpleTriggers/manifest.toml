@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "6276375678edae7208f4717401d3865be8fdad16"
+commit = "31575ef24a5b0d11d394b65aed223497cd8c7c8e"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-## SimpleTriggers v1.0.2.3
-* Minor improvements.
-* Disabled dectalk (was in testing)
+## SimpleTriggers v1.0.4.1
+* Replaced DECtalk with DECtalkMini
+* Fixed scaling in various places
+* Added a new option for trigger responses: popup toasts/gimmicks
+* Fixed non-fatal UI error when removing a category
+* Trims new-lines from messages before checking against trigger expressions
 """
