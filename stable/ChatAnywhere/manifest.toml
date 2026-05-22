@@ -1,19 +1,17 @@
 [plugin]
 repository = "https://github.com/twelvehouse/ChatAnywhere.git"
-commit = "e9632a764a844001086a0a7539e1de93a4fd1022"
+commit = "d50c110887b149f5dbda41a8b27a6f98d9ea1a12"
 owners = ["twelvehouse"]
 project_path = "."
 changelog = """
-# v1.0.0.1 Release
+New Features:
+- Added Light, Dark, and System (follows your OS setting) theme options — choose your preferred appearance in the settings panel.
 
-Host your chat on a web server so you can talk from anywhere.
+Changes:
+- The avatar placeholder for anonymous users now adapts to match your selected theme.
+- The channel selector is now disabled in Direct Message view, where switching channels does not apply.
 
-- Real-time chat streaming via Server-Sent Events
-- Supports all channel types: FC, LS/CWLS 1-8, Party, Tell, Say, Shout, Yell, Alliance, and more
-- Custom filters with drag-and-drop reordering, unread badges, and default send channels
-- Tell mode with pin support and recent DM history
-- Emote picker with search and recently used, and FFXIV symbol picker
-- Link previews for trusted sites (Lodestone, YouTube, Twitter/X, Twitch, and more)
-- Appearance customisation: Google Fonts, font size, coloured message backgrounds
-- Passcode authentication for browser access
+Fixes:
+- Text overflow highlighting in the message input now works correctly across all browsers.
+- Tooltip colors are now consistent throughout the UI.
 """
