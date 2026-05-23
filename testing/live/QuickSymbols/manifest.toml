@@ -1,13 +1,13 @@
 [plugin]
 repository = "https://github.com/seventity7/QuickSymbols.git"
-commit = "d8cc0849f25b252c33d27b132f091f7eb67b74d0"
+commit = "ca3a8e7a6125d9f600680de84591e05107bfaea1"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """```
-- Improved keybind setup and detection
-- Fixed hotkeys typing into focused text fields before opening the symbol picker
-- Main UI now opens the symbol picker instead of duplicating the config window
-- Improved focused text input detection
-- Small cleanup for Dalamud review compatibility
+- Fixed symbol grid child window handling for ImGui safety
+- Updated symbol font handling inside the grid draw loop
+- Improved native game UI scaling checks for recruitment and message book inputs
+- Removed an unnecessary Windows runtime check from key press handling
+- Small cleanup for compatibility
 ```"""
