@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6f470ac73647efc860475d1a61304c54bdeeab53"
+commit = "2cf9a214d4d22a2207e24a999617a736bc5972b3"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Inventory**: Manage saddle bag premium bag if premium isn't available but items were put in it before deactivation
+- **Timers**: Fix timer raids completion if not reward was looted
 """
