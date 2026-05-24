@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "2cf9a214d4d22a2207e24a999617a736bc5972b3"
+commit = "deaffb012c7b7f8c1d9da9a93c41413e15b079b7"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Fix timer raids completion if not reward was looted
+- **Progress**: Add Make it rain campaign 2026"
 """
