@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "ea2658d51f8093e3d252088f2c582bdab58ed104"
+commit = "686541a7aa1dfdbaba9f64e80fc47348b91f5cb1"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
 changelog = "Add optional hunt sorting and teleporter pathing to output"
