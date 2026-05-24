@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "d126a7faaec9978afa652411372c389b4bafd524"
+commit = "ea2658d51f8093e3d252088f2c582bdab58ed104"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Add Ultimahunt support"
+changelog = "Add optional hunt sorting and teleporter pathing to output"
