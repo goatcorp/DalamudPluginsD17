@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "307a20621f0cadae6ef2feed1ef3442c7dcfc74f"
+commit = "91ddb68d1ce64dec30d61ac647668649b71c5a51"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Jumbo cacpot reset timer fix
+- **Code**: Moving reward drawing and tooltip to own helper file and refacto. Fix some rewards tooltips having multiple characters and weirds icons
 """
