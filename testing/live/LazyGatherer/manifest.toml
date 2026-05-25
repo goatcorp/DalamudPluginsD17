@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "eda496e6e60ffa3020288c6f00c1c933f67231c3"
+commit = "2074d434a702730d6360b8c90ecf0f40f4194677"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.3.4: 
-Update for API 15
+Version 1.4.0: 
+    - Add GP regeneration alert (Off by default)
+    - Add background on rotation display (On by default, can be turned off on configuration)
 """
