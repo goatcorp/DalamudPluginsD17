@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Miu-B/PullToOBS.git"
+commit = "95b25ed3e798dd6e1c73ea1e39c4914484980613"
+owners = ["Miu-B"]
+maintainers = ["Miu-B"]
+project_path = "PullToOBS"
+changelog = """
+- Add clickable OBS indicator toggle for standby mode outside combat
+- Rework OBS indicator colors: green = ready, orange = replay buffer not ready, cyan = standby
+- Suppress replay buffer polling noise when replay buffer is unavailable
+"""

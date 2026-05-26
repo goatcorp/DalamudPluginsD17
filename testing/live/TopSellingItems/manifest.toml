@@ -1,4 +1,4 @@
-﻿[plugin]
+[plugin]
 repository = "https://github.com/epinephren/TopSellingItems.git"
 commit = "b56d3da8db9031b68ed71dea73c5e78c652e7ad5"
 owners = ["epinephren"]

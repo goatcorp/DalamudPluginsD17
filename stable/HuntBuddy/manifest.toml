@@ -2,5 +2,5 @@
 repository = "https://github.com/SheepGoMeh/HuntBuddy.git"
 owners = [ "SheepGoMeh", "PrincessRTFM",]
 project_path = "HuntBuddy"
-commit = "baf609914c482dbcfd48262377a6f50cc7ad93c3"
-changelog = "- API 14 update"
+commit = "1de61e25b99b6473f4d2c75b4023e588016f0aa4"
+changelog = "API 15 update"

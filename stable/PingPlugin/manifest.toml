@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "e9a7848fd3a803a13d112660acc771c164d50a17"
+commit = "b3d60aa91a691405d10679297e47afe6dc18efba"
 owners = ["karashiiro"]
 changelog = """\
-- Introduces an improved fix for server bar jitter when the number of digits in the ping changes.
+- Fixed Wine detection mechanism.
+- Locked ping tracker to Win32 (`Iphlpapi`) when running under Wine for compatibility.
 """

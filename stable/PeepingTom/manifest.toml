@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/Caraxi/PeepingTom.git'
-commit = 'ac4201d1133ab8de20cffe9a30a0f456790176da'
+commit = '31499024f21b3ecd46555d58dd982c7fb44f7afb'
 owners = [ 'anna-is-cute', 'Caraxi' ]
 project_path = 'Peeping Tom'

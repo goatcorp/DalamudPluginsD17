@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/zw3lf/ffxiv-coord-importer.git"
-commit = "f26d9baabb7e4ec0e63754a13036032912385732"
+commit = "d126a7faaec9978afa652411372c389b4bafd524"
 owners = ["zw3lf", "dit-zy"]
 project_path = "CoordImporter"
-changelog = "Bump for API v13"
+changelog = "Add Ultimahunt support"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/caitlyn-gg/BetterPlaytime.git"
-commit = "563ee0bbf46d75bc6a596c985ec7e096dbe208c8"
+commit = "c4ad098fd1c2a3175e772a9730878e9e2fcf14e7"
 owners = [
     "caitlyn-gg",
 ]
