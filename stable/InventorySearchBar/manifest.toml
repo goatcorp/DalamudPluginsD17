@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
-commit = "1a5d8a66bded6a00c621e01db22525b3d8cee15f"
+commit = "512d035d2bd702f1dbb4886607c914c02e7f9a5b"
 owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
-changelog = "- Updated for 7.5"
+changelog = "- Added tradable filter"
