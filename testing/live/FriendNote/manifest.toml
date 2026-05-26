@@ -1,0 +1,5 @@
+repository = "https://github.com/fj233/FriendNote.git"
+commit = "1e725939ddf5c0b0d63ef2ee3d4374e0d480c2dc"
+owners = ["fj233"]
+project_path = "FriendNote"
+changelog = "Initial release."
