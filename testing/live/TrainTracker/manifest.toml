@@ -1,6 +1,8 @@
 [plugin]
 repository = "https://github.com/OncaLupe/TrainTracker.git"
-commit = "1d6b92546698e095401cce12e1d977468c034a86"
+commit = "fca4281d239be8eb51d44f3e8e2f9cad858340b0"
 owners = ["OncaLupe"]
 project_path = "TrainTracker"
-changelog = "Initial Release"
+changelog = """Initial Testing Release
+Hunt train helper to make it easier to track where it's heading.
+See only the conductor's messages so you don't miss flags, instance messages, or other instructions. Optionally set map flags to come up automatically."""
