@@ -1,6 +1,6 @@
-﻿[plugin]
+[plugin]
 repository = "https://github.com/epinephren/TopSellingItems.git"
-commit = "9c60e7d05cd4e734b3302aabac694941e523f510"
+commit = "b56d3da8db9031b68ed71dea73c5e78c652e7ad5"
 owners = ["epinephren"]
 project_path = "."
-changelog = "TopSellingItems helps identify high-demand market board items using Universalis sales data. The plugin estimates sales velocity, highlights actively traded items, and provides configurable filters for worlds, data centers, prices, sales frequency, and profit potential to help players find items that are actually selling instead of relying only on listing prices."
+changelog = "Adds optional world selection for datacenter scans and improved best-buy scope display showing the exact world."
