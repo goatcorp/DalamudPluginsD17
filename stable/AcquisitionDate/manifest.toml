@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "7189a64cee08915f033ef07e4707bcb7f7d714ac"
+commit = "81e0e3f56a29af6503980765764454095a7dcb62"
 owners = ["Glyceri",]
 	changelog = """
-[1.2.1.0]
-AFixes lodestone ID's not being found properly for all usernames. (By: JordanXion)
+[1.2.1.1]
+Fixes achievements not capturing properly.
 """
