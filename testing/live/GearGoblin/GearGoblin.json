@@ -1,0 +1,29 @@
+{
+  "Author": "LastOnionKnight",
+  "Name": "Tonberry Tactics",
+  "InternalName": "GearGoblin",
+  "AssemblyVersion": "1.0.0.0",
+  "MinimumDalamudVersion": "15.0.0",
+  "Description": "In-game half of Tonberry Tactics. v1.0.0 brings the Track 2 (ember/frost-blue) visual era with the Plan tab repainted. Provides doubled-frame card chrome plus the ember/frost-blue palette. Core and Web at v1.0.0 lockstep.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
+  "Tags": [
+    "gear",
+    "bis",
+    "materia",
+    "etro",
+    "xivgear",
+    "raid",
+    "advisor",
+    "cpr",
+    "character-panel",
+    "tonberry-tactics"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "BiS planner, Materia Advisor, and round-trip optimizer for FFXIV. The in-game half of Tonberry Tactics; coexists with CharacterPanelRefined.",
+  "AcceptsFeedback": true
+}
