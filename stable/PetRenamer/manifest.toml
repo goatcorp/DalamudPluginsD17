@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "11fcdd3617bfb181cca1dbc64d18a5c4c79d5aab"
+commit = "0828565765b14c1a8559e5b3570b7ff8418dfa09"
 owners = ["Glyceri"]
 	changelog = """
-[2.10.0.2] 
-Fixes an issue with the party list not sorting properly.
+[2.10.1.0] 
+Fixes an issue where names wouldn't always show on all client languages.
+Fixes a crash in certain circumstances having to due with the castbar.
+Refactored a lot of code to get rid of duplicate, unnessesary, or in general inoptimal code.
 """
 
 
