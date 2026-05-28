@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "11c76717a88b38781433297c3c53bf2ced19d344"
+commit = "b026e5d34b0208bd5c066af0ad9912184914279e"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Added global volume setting under the General settings
-- **General**: Added `/tttvolume` command to change the global volume setting
-- **General**: Added `/tttpreset <name>` command to change the Chat Channel preset configuration
-- **ElevenLabs**: Fixed missing model selector, which also fixes voice styles
+- **Azure**: Fixed crash when disabling/updating the plugin during speech playback.
 """
