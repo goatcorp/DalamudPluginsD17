@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/amki/AkuTrack.git"
-commit = "65ca403045e4ca400d6a3249974f4c99247516bc"
+commit = "5b9a25f08702129adf248f295773e66c0c9f0ecd"
 owners = ["amki", "Akurosia"]
 project_path = "AkuTrack"
 changelog = """
