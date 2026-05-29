@@ -1,26 +1,20 @@
 [plugin]
 repository = "https://github.com/seventity7/MaidenAlert.git"
-commit = "2527651c96d03848766466de76d3e39d74a654ca"
+commit = "37af1789ec0f1f422282f139c35af640d58430cc"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-Maiden Alert notify you when a Forlorn Maiden appears during FATEs.
-Designed to make Maiden spawns easier to notice, especially when you are focused on combat, moving between FATEs & etc.
+## New Update!
+- Replaced the tracker visuals with a new better one
+- Removed the previous custom-drawn tracker icon, panel-style text box, borders and framing
+  - Switched the tracker to use fixed in-game icon
+  - Added a game-icon based arrow indicator for off-screen tracking
+  - Updated the tracker label to use a floating text style
+  - Added pulse/glow effects to the tracker icon and off-screen arrow
+- Updated tracker positioning behavior for on-screen/off-screen
+- New **Tracker scale** option
+  - Added scale handling to the tracker renderer so icon, arrow and text scale accordingly
 
-## Features
-- Sends an in-game chat notification when a Maiden appears
-- Plays a sound alert so the spawn is harder to miss
-- Shows a on-screen overlay to track the Maiden after it appears
-- Displays useful distance/status information while the Maiden is being tracked
-- Automatically follows the current game client language for plugin messages/detections where supported
-
-## Language support
-Supported languages for translations:
-- English
-- Japanese
-- German
-- French
-
-The plugin can still detect and notify you about Maiden spawns regardless of language.
+`Never been so easyer to spot Maidens`
 """
