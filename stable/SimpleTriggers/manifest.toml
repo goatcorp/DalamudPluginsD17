@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "31575ef24a5b0d11d394b65aed223497cd8c7c8e"
+commit = "9f49d0be4eb2e96e7b8420c606abfa3b5abb00dd"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-## SimpleTriggers v1.0.4.1
-* Replaced DECtalk with DECtalkMini
-* Fixed scaling in various places
-* Added a new option for trigger responses: popup toasts/gimmicks
-* Fixed non-fatal UI error when removing a category
-* Trims new-lines from messages before checking against trigger expressions
+## SimpleTriggers v1.0.4.3
+* Cleaned up preset exporting to remove default values from output string.
+* Fixes to category renaming. If renaming *just* a category will check if the name already exists and will merge.
 """
