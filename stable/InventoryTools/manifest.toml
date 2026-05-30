@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "db59aedb0c3f5428477135b4c621fdf2e80c852e"
+commit = "cb1100c95c630c4657dd93d0f411433a6bc4aa50"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.5"
-changelog = "### Added\n- Outfit Glamour tooltip now has the ability to pick a search scope, defaulting to the Armoire/Glamour Chest for those that would like to track acquisition outside these.\n- Added Character/Retainer - World - Category - Quantity - Quality as a mode to the  tooltip.\n### Fixed\n- If the compendium state fails to load, the potential exception is caught and logged\n- Hopefully fixed the crash on exit by not manipulating nameplates while the game is unloading\n- The Equippable by Gender/Race column filters are now free type instead of being a dropdown allowing for complex filtering\n- Fixed a bug where context menu additions were being placed on menus not related to items."
+version = "1.15.0.6"
+changelog = "### Added\n- New Requirements System for craft lists which tracks:\n  - Level Requirements\n  - Tomes\n  - Specialist Souls\n- Item Level/Equip Level columns added to gearset compendium listing\n- Added \"Copy Name\" context menu feature\n- Added NPC highlighting setting per list\n- Added \"Craftable Only\" checkbox to item add sidebar in craft window\n- Added Job Soul Crystal, Craft Soul Crystal, Folklore Tomes, Mastercraft Recipebooks to the compendium and the related items as uses\n- Added \"Is Stackable?\" Column/Filter\n- Added \"Stack Size\" Column/Filter \n- Added loot to the compendium instance view window\n- Added content type grouping to the compendium instances list.\n### Changed\n- Switched to using font awesome through out the app instead of custom icons + fixed width icon font\n- NPCs will only highlight in craft lists if you actually need to buy something from them\n- Unlocked/Not Unlocked will be shown for compendium view window tags\n- Plugin will no longer output a message when starting"
