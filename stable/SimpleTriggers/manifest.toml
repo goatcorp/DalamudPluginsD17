@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "b8ae28c0ebd49ed074f4a9f7b1c5cc1a8d910ea4"
+commit = "9f49d0be4eb2e96e7b8420c606abfa3b5abb00dd"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-* tweaks to trigger structure
+## SimpleTriggers v1.0.4.3
+* Cleaned up preset exporting to remove default values from output string.
+* Fixes to category renaming. If renaming *just* a category will check if the name already exists and will merge.
 """

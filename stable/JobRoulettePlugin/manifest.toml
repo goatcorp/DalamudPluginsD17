@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/sleeds2/jobroulette.git"
+commit = "d02c34564631f9a07d5c5c16270ab175efb025a3"
+owners = ["sleeds2"]
+maintainers = ["mchudoba"]
+project_path = "JobRoulettePlugin"
+changelog = "Initial upload. Job Roulette is a simple plugin which will randomly choose a job and automatically switch to it."

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "0ee2b24a3059f8697ec994469c7f02e2b6888bba"
+commit = "6e2bbeabd85cb5b3284c67f2ba143ca4f0125796"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- API 14 update
+- API 15 update
 """
