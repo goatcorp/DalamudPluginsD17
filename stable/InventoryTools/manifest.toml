@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "cb1100c95c630c4657dd93d0f411433a6bc4aa50"
+commit = "f908fbc9cb7e863e510f9c9bb6cf1a625a7d3988"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.6"
-changelog = "### Added\n- New Requirements System for craft lists which tracks:\n  - Level Requirements\n  - Tomes\n  - Specialist Souls\n- Item Level/Equip Level columns added to gearset compendium listing\n- Added \"Copy Name\" context menu feature\n- Added NPC highlighting setting per list\n- Added \"Craftable Only\" checkbox to item add sidebar in craft window\n- Added Job Soul Crystal, Craft Soul Crystal, Folklore Tomes, Mastercraft Recipebooks to the compendium and the related items as uses\n- Added \"Is Stackable?\" Column/Filter\n- Added \"Stack Size\" Column/Filter \n- Added loot to the compendium instance view window\n- Added content type grouping to the compendium instances list.\n### Changed\n- Switched to using font awesome through out the app instead of custom icons + fixed width icon font\n- NPCs will only highlight in craft lists if you actually need to buy something from them\n- Unlocked/Not Unlocked will be shown for compendium view window tags\n- Plugin will no longer output a message when starting"
+version = "1.15.0.7"
+changelog = "### Added\n- New Chocobo Colour Window, helps you recolour your chocobo by providing a list of the fruit required, craft list integration and a tracker!\n- Master Recipe book compendium now list the unlock status of each book\n### Changed\n- Switched the default ingredient sourcing list to include orange scrip instead of white.\n### Fixed\n- Folklore tomes should correctly list as locked/unlocked.\n- Stopped the new feature callout from taking focus and switched it to using a modal"
