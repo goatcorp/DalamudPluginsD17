@@ -2,12 +2,19 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "c12e7f8f9ec80a2aede01573adfd984f69e66f22"
+commit = "f66fcb8cb609ee2c13f62edb63d41e2a9c7e20ce"
 changelog = """
-## 1.2.5
+## 1.2.6
+### Added
+- Fashion accessories can now be considered a collectable.
+- Settings to hide the UI in various scenarios.
+- Lifestream support for various locations.
+### Fixed
+- Spelling errors.
 ### Changed
-- Updated for 7.4.
+- Updated for Dalamud API v15.
 - Updated ECommons.
-- Mathemathics, Heliometry & Mnemonics changes.
+### Removed
+- Kofi Banner.
 """
-version = "1.2.5"
+version = "1.2.6"
