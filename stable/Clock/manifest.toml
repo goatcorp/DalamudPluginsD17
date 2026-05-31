@@ -1,28 +1,27 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "aeb223c7ec5bb2a27c3cc56517346585ebb0164e"
+commit = "ddd614a73b75fd9278ac83abd6bc94a47d254a35"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-### Changed Chat Timestamp System
+This update improves how Clock detects and announces upcoming FFXIV maintenance.
 
-The plugin now uses the native timestamp system.
-It still does the same things as before:
+### What's new
+- Maintenance notices are now detected more accurately
+- Maintenance times are now shown more reliably
+  - Fixed an issue where some Lodestone maintenance times could appear one hour ahead of the real announced time
+- The `Check Now` button is now more useful
+  - Manually checking for maintenance now refreshes the saved maintenance information properly
+  - If the latest maintenance is already detected, Clock now shows the currently stored maintenance time in the status message
+- Improved language support for maintenance messages
+  - Maintenance reminder messages are no longer only written in English
 
-- shows custom timestamps in chat;
-- supports 12-hour and 24-hour time;
-- can show or hide `AM/PM`;
-- uses the configured time zone offset;
-- can apply a custom timestamp color;
-
-### Technicall stuff
-
-- Improved how custom chat timestamps are handled internally
-- Reduced unnecessary processing when the custom timestamp option is disabled
-- Improved further compatibility's
+### Fixes
+- Fixed maintenance detection sometimes selecting the wrong Lodestone post
+- Fixed incorrect displayed time for notices using timezone labels such as `PDT`
+- Fixed `Check Now` not updating the visible maintenance text in some cases
 
 ### Notes
-- `Match Channel Color` option temporarily removed
-Please note that if you want to use this feature from this plugin, you might need to disable similar features from other plugins to avoid having any incompatibility in case if there is still any.
+This update does not change how users enable or configure maintenance reminders. Existing reminder settings should continue working normally.
 """
