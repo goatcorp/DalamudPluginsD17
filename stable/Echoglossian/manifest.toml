@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "7be033b7c2c0809d664823690e029959a76caf4c"
+commit = "059d8e7687b4692fa5666e6f8d0a6030015afb32"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0516.x \n fixes:\n - fixed the OpenRouter prompt-expansion bug so fully materialized prompts reach the provider\n - hardened prompt substitution so literal placeholder text inside dialogue content is preserved"
+changelog = "v4.2601.0531.x \n production release:\n - toast family moved to ToastGui runtime path with corrected per-type gating\n - native reflow and alignment fixes for MiniTalk, BattleTalk, and toasts\n - unified native replacement diacritics toggle and cross-surface isolation fixes"
