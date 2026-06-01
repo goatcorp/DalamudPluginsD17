@@ -1,6 +1,5 @@
 [plugin]
-repository = "https://github.com/isaiahcat/QuestTracker.git"
-commit = "e7bfa7fc0f2125389a70b1761fe2a72c751e501d"
-owners = ["isaiahcat"]
-project_path = "QuestTracker"
-changelog = "Support for Dalamud 11.0.0 and 7.1"
+repository = "https://github.com/keifufu/QuestTracker.git"
+commit = "79b1c2c3706037d2c65393ea1c149215c937a683"
+owners = ["isaiahcat", "keifufu"]
+project_path = "."

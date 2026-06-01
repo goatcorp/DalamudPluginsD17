@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "bc3d31d48f448e87a6477fc81c123e74eb612d28"
+commit = "7be033b7c2c0809d664823690e029959a76caf4c"
 owners = ["lokinmodar"]
-changelog = "v3.25.x \n fixes:\n - Bump to API 14\n - It is Sdk not SDK"
+changelog = "v4.2601.0516.x \n fixes:\n - fixed the OpenRouter prompt-expansion bug so fully materialized prompts reach the provider\n - hardened prompt substitution so literal placeholder text inside dialogue content is preserved"

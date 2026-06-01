@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "b7305710f4a6c3857be7902d531e7984d6889dab"
+commit = "eb1da5f93f56cd2ff43316fdb96cc3712abec519"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Fixed for 7.5 (I promise I'll have QoLBar 3.0 ready for testing soon... :copium:)'''
+- Fixed CS change'''

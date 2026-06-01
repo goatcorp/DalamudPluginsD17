@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "2043c0188760b2e050062cd9c6ffb666a16865da"
+commit = "cb1100c95c630c4657dd93d0f411433a6bc4aa50"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.1.3"
-changelog = "### Added\n- Added unlocked/completed to instances compendium listing/view\n- Added Relic Tools, Relic Weapons to the compendium and as uses to the source/use system\n- Added Custom Delivery NPCs to the compendium\n### Changed\n- Lumina Supplemental data update\n### Fixed\n- Fixed how certain names are displayed in languages other than english"
+version = "1.15.0.6"
+changelog = "### Added\n- New Requirements System for craft lists which tracks:\n  - Level Requirements\n  - Tomes\n  - Specialist Souls\n- Item Level/Equip Level columns added to gearset compendium listing\n- Added \"Copy Name\" context menu feature\n- Added NPC highlighting setting per list\n- Added \"Craftable Only\" checkbox to item add sidebar in craft window\n- Added Job Soul Crystal, Craft Soul Crystal, Folklore Tomes, Mastercraft Recipebooks to the compendium and the related items as uses\n- Added \"Is Stackable?\" Column/Filter\n- Added \"Stack Size\" Column/Filter \n- Added loot to the compendium instance view window\n- Added content type grouping to the compendium instances list.\n### Changed\n- Switched to using font awesome through out the app instead of custom icons + fixed width icon font\n- NPCs will only highlight in craft lists if you actually need to buy something from them\n- Unlocked/Not Unlocked will be shown for compendium view window tags\n- Plugin will no longer output a message when starting"

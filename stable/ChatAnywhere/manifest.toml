@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/twelvehouse/ChatAnywhere.git"
+commit = "b82f6b913f7480107f17c642e9432266c1bf7672"
+owners = ["twelvehouse"]
+project_path = "."
+changelog = """
+New Features:
+- Added a send queue: after pressing Send, a brief countdown gives you a moment to cancel an accidental send. (Can be turned on in Settings.)
+
+Changes:
+- Made the light theme a little more kawaii.
+
+Fixes:
+- The settings panel now opens as a full-screen modal on mobile.
+- The emote and symbol picker now expands inline below the input on mobile.
+"""
