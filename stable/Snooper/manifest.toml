@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-snooper.git"
-commit = "8d9981735972ad9efdbb62f682d2d0479ed7a4cb"
+commit = "a931b7e668362c3037fc97b2b5adb985d1927da4"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
 changelog = """
-Update to Dalamud API 14.
+Update to Dalamud API 15 (thanks pallascat).
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "0ee2b24a3059f8697ec994469c7f02e2b6888bba"
+commit = "ed0b6e5b0be3af9a390fe8a06a79c0c38310c5e5"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- API 14 update
+- Dancing Mad support
 """

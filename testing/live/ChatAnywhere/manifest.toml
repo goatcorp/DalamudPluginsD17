@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/twelvehouse/ChatAnywhere.git"
+commit = "57e120dc73e12a910e8987ac572986db6b95f6f0"
+owners = ["twelvehouse"]
+project_path = "."
+changelog = """
+New Features:
+- Long messages now wrap onto multiple lines in the input area instead of scrolling horizontally, so the full message stays visible while you type.
+
+Changes:
+- Pressing Enter (or Ctrl+Enter, depending on your setting) always sends the message. Line breaks can no longer be inserted by Enter or by pasting multi-line text, since FFXIV chat itself cannot send line breaks.
+- The send button and emote/symbol picker icons have been refreshed for a cleaner look.
+- The composer layout has been tightened so the channel selector, text field, and side buttons stay neatly aligned together at any font size.
+"""

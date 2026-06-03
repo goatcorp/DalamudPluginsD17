@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/sleeds2/jobroulette.git"
+commit = "a4e668abcdb03cc87bc4d358a73e7a2bdd35d35f"
+owners = ["sleeds2"]
+maintainers = ["mchudoba"]
+project_path = "JobRoulettePlugin"
+changelog = "Updated logic to only include unlocked jobs in roulette feature and settings menu."

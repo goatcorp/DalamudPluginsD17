@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/nebel/CurrencyWatchdog.git"
-commit = "911652dfe262b874b2e4eb9f2b01e6d710fa46ca"
+commit = "39c38501ae523edce896261c2c8ddece1fc5138c"
 owners = ["nebel"]
 project_path = "CurrencyWatchdog"

@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "bc3d31d48f448e87a6477fc81c123e74eb612d28"
+commit = "059d8e7687b4692fa5666e6f8d0a6030015afb32"
 owners = ["lokinmodar"]
-changelog = "v3.25.x \n fixes:\n - Bump to API 14\n - It is Sdk not SDK"
+changelog = "v4.2601.0531.x \n production release:\n - toast family moved to ToastGui runtime path with corrected per-type gating\n - native reflow and alignment fixes for MiniTalk, BattleTalk, and toasts\n - unified native replacement diacritics toggle and cross-surface isolation fixes"
