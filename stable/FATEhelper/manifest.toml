@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "91d4e84d844d75cb1be676ba7cdd17cc121d8750"
+commit = "d9c40bd646698e118db6d867cda9fb40a52ede6b"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "API v15, added option for forlorn spawn sound effect"
+changelog = "added distance view and sort option, huge thanks to jade-doggerel on github for this <3"
