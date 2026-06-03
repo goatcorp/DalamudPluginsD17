@@ -1,27 +1,25 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "ddd614a73b75fd9278ac83abd6bc94a47d254a35"
+commit = "6e2838f384a6a007e27566bc875be292ea60dcb4"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-This update improves how Clock detects and announces upcoming FFXIV maintenance.
+## What's new
+- Alarms can now repeat instead of being one-time only
+- Added overlay reminders
+  - Clock can now show the next alarm on the main overlay
+  - Clock can now show today's detected maintenance on the main overlay
+- When typing `/clock`, a small suggestion list can now appear with available Clock commands
+  - This can be enabled or disabled from the `General` tab
+- You can now compare two timezones using commands like:
+    - `/clock EST to BRT`
+- Appearance shortcuts were added to make related settings easier to find
 
-### What's new
-- Maintenance notices are now detected more accurately
-- Maintenance times are now shown more reliably
-  - Fixed an issue where some Lodestone maintenance times could appear one hour ahead of the real announced time
-- The `Check Now` button is now more useful
-  - Manually checking for maintenance now refreshes the saved maintenance information properly
-  - If the latest maintenance is already detected, Clock now shows the currently stored maintenance time in the status message
-- Improved language support for maintenance messages
-  - Maintenance reminder messages are no longer only written in English
-
-### Fixes
-- Fixed maintenance detection sometimes selecting the wrong Lodestone post
-- Fixed incorrect displayed time for notices using timezone labels such as `PDT`
-- Fixed `Check Now` not updating the visible maintenance text in some cases
+### Improvements
+- Alarm creation now prevents setting alarms for dates or times that already passed
+- Presets now focus on visual style without changing the user's current layout, size or position
 
 ### Notes
-This update does not change how users enable or configure maintenance reminders. Existing reminder settings should continue working normally.
+New overlay and command suggestion options are disabled by default until enabled by the user.
 """
