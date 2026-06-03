@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "5b3499691aa5dcdb6a48f7e200131bccc1605b7e"
+commit = "6e2838f384a6a007e27566bc875be292ea60dcb4"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
