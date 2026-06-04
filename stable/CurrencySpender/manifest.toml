@@ -2,13 +2,12 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "f08fd02320adce9ca1b1749f34823935976a1c71"
+commit = "69612732fa9cbb139d5fa67de3aff39f6dfa9ed3"
 changelog = """
 ## 1.2.6
 ### Added
 - Fashion accessories can now be considered a collectable.
 - Settings to hide the UI in various scenarios.
-- Lifestream support for various locations.
 ### Fixed
 - Spelling errors.
 ### Changed
