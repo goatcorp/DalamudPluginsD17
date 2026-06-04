@@ -1,10 +1,18 @@
 [plugin]
 repository = "https://github.com/seventity7/QuickSymbols.git"
-commit = "7179a5f0fe04d1c89d210cf20d3ab41f68e34f13"
+commit = "685ed6a0c962891c77de37889e6d1828f849fc5b"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-### Icon update
-- Changed plugin icon
+### What's New
+- Added support for **Chat2** plugin through the Quick Symbols keybind
+- Added a special popup behavior for better compatibility while Chat2 is being used
+- The button `♥` is hidden if Chat2 is active to avoid duplicated buttons
+- Added a new help tooltip next to the keybind setting with recommended keybinds for Chat2 compatibility
+  - Added separate recommended keybind lists for **Windows** and **Linux** users
+
+### Notes
+This is not a colab with `Chat2` plugin and they developers have nothing to do with this. Any feedback/suggestion/issues must be sent through `QuickSymbols` plugin on Dalamud.
+Thanks @infi for support directions/reply.
 """
