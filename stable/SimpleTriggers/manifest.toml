@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "9f49d0be4eb2e96e7b8420c606abfa3b5abb00dd"
+commit = "83d5efe8fcafbe51f692a67947eed2c9a21dda46"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-## SimpleTriggers v1.0.4.3
-* Cleaned up preset exporting to remove default values from output string.
-* Fixes to category renaming. If renaming *just* a category will check if the name already exists and will merge.
+## SimpleTriggers v1.0.5.0
+* Added a few variable substitutions for the response text:
+  * `%sender%` - replaces with whoever sent the message that activated the trigger (player messages only)
+  * `%expression%` - replaces with the expression specified in the trigger
+  * `%message%` - replaces with the entire message that activated the trigger
 """

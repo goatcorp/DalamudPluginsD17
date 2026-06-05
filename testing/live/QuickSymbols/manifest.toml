@@ -1,26 +1,10 @@
 [plugin]
 repository = "https://github.com/seventity7/QuickSymbols.git"
-commit = "eb56fbee63f5f6fd79498fdfd760d968f7262991"
+commit = "7179a5f0fe04d1c89d210cf20d3ab41f68e34f13"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-Adds a fast symbol picker letting you quickly insert any symbols into supported in-game text fields.
-It is designed to make commonly used symbols easier to access without manually copying them from third-parties or typing them every time.
-
-## Features
-- Adds a floating quick-access "♥" button for opening the symbol popup
-  - Allows the "♥" button position to be changed through drag-and-drop repositioning
-  - Provides a symbol popup for quickly selecting and inserting symbols
-  - List shows ALL existing custom symbols for FFXIV
-- Supports opening the symbol popup through a configurable keybind
-- Ensures only one symbol popup is open at a time
-- Allows keybind-opened popups to be temporarily moved by dragging empty space inside the popup
-- Includes a character selector toggle option for symbol selection behavior
-- Adds an optional "Close popup on lost focus" setting to auto-close the popup when clicking outside of it
-- Adds quick popup controls for closing the popup, changing the "♥" button position and opening the config window
-- Includes a help tooltip explaining how to properly use some features
-
-## Notes
-The plugin is intended as a lightweight quality-of-life tool for players who frequently use special symbols in chat, search fields, notes or others
+### Icon update
+- Changed plugin icon
 """
