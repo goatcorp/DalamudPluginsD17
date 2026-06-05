@@ -1,25 +1,27 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "6e2838f384a6a007e27566bc875be292ea60dcb4"
+commit = "6c7da0981d18cb9f7cb89f83ea4e99c5280c8531"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-## What's new
-- Alarms can now repeat instead of being one-time only
-- Added overlay reminders
-  - Clock can now show the next alarm on the main overlay
-  - Clock can now show today's detected maintenance on the main overlay
-- When typing `/clock`, a small suggestion list can now appear with available Clock commands
-  - This can be enabled or disabled from the `General` tab
-- You can now compare two timezones using commands like:
-    - `/clock EST to BRT`
-- Appearance shortcuts were added to make related settings easier to find
+## What's New
+Added an experimental **Chat Time Conversion** feature for the in-game chat messages
+When enabled, the plugin can detect date/times in chat, including single times and time ranges, ex: `8PM EST``7PM-10PM EST`, then show the converted time when hovering over it
 
-### Improvements
-- Alarm creation now prevents setting alarms for dates or times that already passed
-- Presets now focus on visual style without changing the user's current layout, size or position
+### Options/Settings
+- **Enable chat time hover** — turns on/off chat time detection/hover conversion
+- **Primary timezone** — chooses the timezone used for conversions
+- **Create Alarm** — Create a alarm based on the detected date/time from the chat
+- **Show alarm setup option** — turn on/off to show **Create Alarm** option in the conversion tooltip
+- **Tooltip duration** — controls how long the conversion tooltip stays visible
+- **Test** — sends example chat messages to test and see how the feature works
 
 ### Notes
-New overlay and command suggestion options are disabled by default until enabled by the user.
+- The feature is disabled by default and marked as **experimental** with multiple warnings
+- Dates/Times found in the same message will be used when creating alarms from it
+  - For time ranges, **Create Alarm** uses the first Time. _(08PM-12PM BRT, would use 08PM only)_
+  - Date context is used when creating alarms, messages having like `June 12th` pre-fill the alarm with the date
+    - If no date is detected, the alarm uses the current date
+- **The feature only changes how detected chat text is displayed/interacted with; it does not resend/consume the original chat message**
 """
