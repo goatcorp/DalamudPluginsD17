@@ -1,0 +1,27 @@
+[plugin]
+repository = "https://github.com/seventity7/Clock.git"
+commit = "6c7da0981d18cb9f7cb89f83ea4e99c5280c8531"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = """
+## What's New
+Added an experimental **Chat Time Conversion** feature for the in-game chat messages
+When enabled, the plugin can detect date/times in chat, including single times and time ranges, ex: `8PM EST``7PM-10PM EST`, then show the converted time when hovering over it
+
+### Options/Settings
+- **Enable chat time hover** — turns on/off chat time detection/hover conversion
+- **Primary timezone** — chooses the timezone used for conversions
+- **Create Alarm** — Create a alarm based on the detected date/time from the chat
+- **Show alarm setup option** — turn on/off to show **Create Alarm** option in the conversion tooltip
+- **Tooltip duration** — controls how long the conversion tooltip stays visible
+- **Test** — sends example chat messages to test and see how the feature works
+
+### Notes
+- The feature is disabled by default and marked as **experimental** with multiple warnings
+- Dates/Times found in the same message will be used when creating alarms from it
+  - For time ranges, **Create Alarm** uses the first Time. _(08PM-12PM BRT, would use 08PM only)_
+  - Date context is used when creating alarms, messages having like `June 12th` pre-fill the alarm with the date
+    - If no date is detected, the alarm uses the current date
+- **The feature only changes how detected chat text is displayed/interacted with; it does not resend/consume the original chat message**
+"""

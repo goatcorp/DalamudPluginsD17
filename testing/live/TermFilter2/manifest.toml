@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aida-Enna/TermFilter2.git"
+commit = "31ff5adb0d8be278ace72342820271dbf59caea9"
+owners = ["Aida-Enna"]
+project_path = ""
+changelog = "- An expanded and extremely customizable rewrite of the in-game term filter, this allows players to mask/hide/modify messages containing specific words."

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "3d309a4544407aacf6b980c9569e377f1579054b"
+commit = "51c3958486d4ef44029318c21bfd5bc78cec0ffc"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Fixed outgoing tells being spoken with "Skip messages from you" enabled.
+- **System**: Fixed random stops during TTS playback, especially with NaturalVoiceSAPIAdapter
 """

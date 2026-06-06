@@ -1,9 +1,10 @@
 [plugin]
 repository = 'https://github.com/caitlyn-gg/Glamaholic.git'
-commit = '23e4f4802cb49cf53c888287ea7c68d9d7e57a93'
+commit = '7ba1ae37416b30252c89cdcd019a3cf2f5b87e88'
 owners = [ 'caitlyn-gg' ]
 changelog = """
-- Updated for API 15
+- Fixed DyeCount check for HQ items:
+  - Since 7.5, applying plates with dyed HQ items would cause the dye to be temporarily removed from the plate for safety
 
 For troubleshooting, please enable Troubleshooting mode (Settings -> Troubleshooting mode), reproduce the issue, then post any log line from `/xllog` starting with `[Troubleshooting]`. Thanks!
 """

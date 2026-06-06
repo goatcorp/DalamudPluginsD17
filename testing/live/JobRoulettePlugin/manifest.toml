@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/sleeds2/jobroulette.git"
+commit = "0c5c7a3e605277c0b11628e11b68ca3538d358cb"
+owners = ["sleeds2"]
+maintainers = ["mchudoba"]
+project_path = "JobRoulettePlugin"
+changelog = "Added new filters to randomly select jobs by role or group (support or dps)."

@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "eda496e6e60ffa3020288c6f00c1c933f67231c3"
+commit = "d07e1ced7572ab49c83c141dbe99c753ca366882"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.3.4: 
-Update for API 15
+Version 1.4.2: 
+ - Improve GP alert system
+ - Add command for GP alert configuration
 """
