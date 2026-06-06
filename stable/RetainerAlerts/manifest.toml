@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Ibcrootbeer/RetainerAlerts.git"
-commit = "9b84036fe28bd21c458201d54fc59cc57862740b"
+commit = "fa0a8ec962a889dc193a3861c43e31a152ec0436"
 owners = ["Ibcrootbeer"]
 project_path = "RetainerAlerts"
-changelog = "Alert window will not show unless on home world now."
+changelog = "Alert window will not show unless on home world now or if you are in a duty."
