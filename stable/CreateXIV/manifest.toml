@@ -1,23 +1,22 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "c4b81a33baf1cc6082177951f3b02d2410201c87"
+commit = "d3bb63f92d73ed81fe8665a2c20cc914b8bcc88b"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-### CreateXIV
-- **Lets you create custom slash command aliases from an in-game UI**
-- Supports aliases for native FFXIV commands, Dalamud plugin commands, personal macros and shared macros
-- Create short personal commands for longer commands you use often
-  - Example: turn a longer command or macro reference into a simple custom slash command `/mastervolume` > `/mv`
-- Includes suggestions to help find available commands/macros while setting up aliases
-- Include alias organization tools
-  - Categories with custom colors
-  - Favorites/pinned aliases
-  - Search, type filters, category filters and sortable alias list columns
-- Include alias management tools
-  - Edit, delete, duplicate, test, undo delete, overwrite existing aliases and clipboard import/export
-- Validation system for aliases, macros and any type of commands
-  - Invalid macro/command aliases will be prevented from saving
-  - Saved aliases that become invalid later are highlighted with a tooltip explaining the issue
+### What's New?
+- Added live preview when creating/editing aliases, showing what will be executed
+- Added support allowing aliases to be created directly from chat
+  - Example: `/create mv mastervolume` -> Alias: `mv` Command: `/mastervolume`
+- Added per-alias enable/disable and per-alias `Wait` delay controls
+  - Disabled alias will not execute when typed
+- Improved validation for commands, macros and broken aliases
+- Improved the alias table with better filtering, sorting, favorites, type indicators, macro names and delete confirmation
+- Improved import/export feedback
+- Added settings options for chat confirmations and a small command list
+- Refined the main window layout, spacing, tooltips and overall visual
+- Added macro display names in the panel when available
+- Added detection for commands/macros that is already in use
+- Added `Undo` support
 """
