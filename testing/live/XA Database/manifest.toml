@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/xa-io/XA-Database.git"
+commit = "fdacf6336c77a9c2c354477ec70f21e125d78c6c"
+owners = ["xa-io"]
+project_path = "XADatabase"
+changelog = "Pushed to v0.0.0.37."
