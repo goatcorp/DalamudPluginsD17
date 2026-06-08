@@ -1,22 +1,17 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "d3bb63f92d73ed81fe8665a2c20cc914b8bcc88b"
+commit = "4ec06a369a50c5ce5789ddff6ffc37b03594d439"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
 ### What's New?
-- Added live preview when creating/editing aliases, showing what will be executed
-- Added support allowing aliases to be created directly from chat
-  - Example: `/create mv mastervolume` -> Alias: `mv` Command: `/mastervolume`
-- Added per-alias enable/disable and per-alias `Wait` delay controls
-  - Disabled alias will not execute when typed
-- Improved validation for commands, macros and broken aliases
-- Improved the alias table with better filtering, sorting, favorites, type indicators, macro names and delete confirmation
-- Improved import/export feedback
-- Added settings options for chat confirmations and a small command list
-- Refined the main window layout, spacing, tooltips and overall visual
-- Added macro display names in the panel when available
-- Added detection for commands/macros that is already in use
-- Added `Undo` support
+- Added support for disabling alias execution delay
+- Updated the per-alias `Wait` range to `0-5` seconds
+- Added new `/create list` command
+  - Shows all created aliases and their linked commands/macros in chat
+
+### Notes
+- Default `Wait` value for new Aliases is now `0`
+- Updated `Readme` on plugin github page
 """
