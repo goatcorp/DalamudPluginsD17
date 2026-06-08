@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sleepybnuuy/dummy.git"
-commit = "a61d3e425989cec92e70a2d3501b0d9597ea2fc5"
+commit = "41a8c2763ce614a2714333a9ab1a8c0393ab89e2"
 owners = ["sleepybnuuy"]
 project_path = "Dummy"
 changelog = "initial release"
