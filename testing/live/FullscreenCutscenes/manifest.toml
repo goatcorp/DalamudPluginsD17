@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/crweul/fullscreen-cutscenes-dalamud.git"
+commit = "359ba6c271b4cb30dc224b57ee9722892e0dc814"
+owners = ["crweul"]
+project_path = "Dalamud.FullscreenCutscenes"
+changelog = "Updated for API15"
