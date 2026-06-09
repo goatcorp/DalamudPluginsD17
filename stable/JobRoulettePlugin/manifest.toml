@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "0c5c7a3e605277c0b11628e11b68ca3538d358cb"
+commit = "cc30289915614333e9475269632b50aebbf6a3a3"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
-changelog = "Added new filters to randomly select jobs by role or group (support or dps)."
+changelog = """\
+**New Feature**: Ability to specify a roulette name and the plugin will roll a random enabled job for the roulette's Adventurer-In-Need bonus.
+- /jobroulette `leveling`, `trials`, `msq`, `alliance`, `normal`, `mentor`, `expert`, `highlevel`, `levelcap`, `guildhest`
+"""
