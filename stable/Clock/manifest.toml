@@ -1,19 +1,22 @@
 [plugin]
 repository = "https://github.com/seventity7/Clock.git"
-commit = "471d3707f5531c6e49f79a515feb59dd8201f9c5"
+commit = "b7921ff07bd369c2077568671c6b8b67f23e6108"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-### Small Patch Update
-- Added a quick **Feedback/Report** button in the main window.
-**Improved:**
-- Time/date detection including formats like `Jun. 24, 2026 7:59 a.m. (PDT)` and other timezone tags
-- Improved the Alarms tab. It only uses Chat Conversion timezone when an alarm is created from chat
-- Support for more date/time patterns such as weekday-based dates, `tomorrow` and ISO-style
-- Overall chat detection/hover system
+### **Added:**
+- New themes: **Digital**, **Tech**, **Cartoon** **Countdown**
+- New option for changing the clock font style
+- New **Alarm overlay** with keybind support and better visual/functionality
 
-## Notes
-- Removed noisy warning logs from `Xllog`
-- `ChatTimeConversion` option stay as `Experimental`
+**Improved:**
+- UI cleanup, translation improvements and general stability
+- Improved chat time conversion/alarm creation from chat
+
+### Notes
+- The `alarm` section was removed from the main window
+  - **Alarm management is now focused on `/alarms`**
+  - Existing alarm features were reorganized, not removed
+- Maintenance reminders are now under **General**
 """
