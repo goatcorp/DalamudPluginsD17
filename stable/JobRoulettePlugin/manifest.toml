@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "cc30289915614333e9475269632b50aebbf6a3a3"
+commit = "f34cf1aaf2bde1d243a9461cc9931eb314c0db31"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
