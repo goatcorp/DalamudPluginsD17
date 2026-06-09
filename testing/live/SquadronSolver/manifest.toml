@@ -1,0 +1,6 @@
+﻿[plugin]
+repository = "https://github.com/epinephren/SquadronSolver.git"
+commit = "b913452ef3b40bebaace841c1284e6257bc9afb9"
+owners = ["epinephren"]
+project_path = "."
+changelog = "SquadronSolver analyzes Squadron missions and roster data directly from the game and recommends the best available party."
