@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "7e24304159e79b337a55fa67943584fec3ddee07"
+commit = "2529d1ba4c95865666c296ef747d6b07a2a1174d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Put debug logs behind setting checkbox"
+- **Collection**: 7.51 facewear"
+- **Progress**:
+  - Cosmic exploration rewards update
+  - Events reward for 2026 updated when optional reward not given by questline available (ie: those buyable via event currency) 
+- **Timers**: Tribe unlocking check was using custom deliveries check instead of correct one.
 """
