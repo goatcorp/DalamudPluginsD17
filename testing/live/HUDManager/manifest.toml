@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/zacharied/FFXIV-Plugin-HudManager.git"
-commit = "81fde149dc604e8a3f1ef503bebbbbaf0dbec8f6"
+commit = "1cf34a6bf6d6cc14f298c07ab5b1412c847f57cb"
 owners = ["zacharied", "nebel"]
 project_path = "HUDManager"
