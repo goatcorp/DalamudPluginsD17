@@ -2,7 +2,7 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "2b9fb128fa85c814e7d69844569314fc3c98bfaa"
+commit = "18e52baecc5b7aabd0ae991cdc1dbccc9c7ec378"
 changelog = """
 ## 1.2.7
 ### Added
