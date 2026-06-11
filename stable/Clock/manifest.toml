@@ -1,8 +1,8 @@
 [plugin]
-repository = "https://github.com/seventity7/Clock.git"
-commit = "fba0db5cdd50dadbace4566d06a0d79ebb2c6a79"
-owners = ["seventity7"]
-maintainers = ["seventity7"]
+repository = "https://github.com/LatencyBryer/Clock.git"
+commit = "2c9b68db6ef7b6617a07e037d7df52027f193caf"
+owners = ["LatencyBryer"]
+maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
 ### **Added:**
