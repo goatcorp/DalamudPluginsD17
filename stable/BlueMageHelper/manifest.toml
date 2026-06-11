@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BlueMageHelper.git"
-commit = "d87234b4c75460e812755caaa235d79d6c8ed542"
+commit = "27249f36849d3b81bcc2651fcd99fde1125d3940"
 owners = [
     "harbingerftw",
 ]
