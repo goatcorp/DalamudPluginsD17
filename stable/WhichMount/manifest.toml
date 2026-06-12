@@ -1,12 +1,17 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "4c9518351245164ab69ee6c0e08f5c87e142faea"
+commit = "1f4dd3f184171a44df3abfbbad5d419bd3ba679f"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.4.2"
+version = "1.5.0"
 changelog = """
+Version 1.5.0:
+  - New feature: tracking farmable mounts from trials and it's totems count on character
+  - Fixed error on table tabs toggle
+  - 7.51 patch mount data update
+
 Version 1.4.2:
   - 7.5 patch mount data update
 """
