@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "d07e1ced7572ab49c83c141dbe99c753ca366882"
+commit = "9388a9ea0f039ef6e74d95dc7ce28c163a7cbe47"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.4.2: 
- - Improve GP alert system
- - Add command for GP alert configuration
+Version 1.4.3: 
+ - Add option to trigger GP alerts only on gatherer jobs
 """
