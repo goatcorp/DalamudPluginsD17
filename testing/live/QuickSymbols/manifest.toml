@@ -1,10 +1,11 @@
 [plugin]
-repository = "https://github.com/seventity7/QuickSymbols.git"
-commit = "7179a5f0fe04d1c89d210cf20d3ab41f68e34f13"
-owners = ["seventity7"]
-maintainers = ["seventity7"]
+repository = "https://github.com/LatencyBryer/QuickSymbols.git"
+commit = "8fa7288585ded8883778f0ee86503b8e11c9a19a"
+owners = ["LatencyBryer"]
+maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
 ### Icon update
-- Changed plugin icon
+- Changed icon with better resolution
+- Updating new Username
 """
