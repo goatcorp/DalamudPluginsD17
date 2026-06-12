@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/seventity7/LatencyBryer.git"
+repository = "https://github.com/LatencyBryer/QuickSymbols.git"
 commit = "8fa7288585ded8883778f0ee86503b8e11c9a19a"
 owners = ["LatencyBryer"]
 maintainers = ["LatencyBryer"]
