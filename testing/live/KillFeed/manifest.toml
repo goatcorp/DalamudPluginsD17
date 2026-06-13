@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/wolfcomp/KillFeed.git"
+owners = [ "wolfcomp" ]
+maintainers = [ "GayPotatoEmma" ]
+project_path = ""
+commit = "0f596c2d86958e5ac136ac60a63bcd2703a4d154"
+changelog = "## 2.0.0 (2026-12-18)\n\n\n### Features\n\n* Initial Release\n\n**This plugin was created more for the memes of seeing the screen be filled with notifications.**"
+version = "2.0.0"
