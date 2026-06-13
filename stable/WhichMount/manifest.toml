@@ -1,12 +1,20 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "1f4dd3f184171a44df3abfbbad5d419bd3ba679f"
+commit = "3f66d8d0486fa9babfa889840f6d5d9d3e1ea556"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.5.0"
+version = "1.5.5"
 changelog = """
+Version 1.5.5:
+  - New feature: click a mount icon to link it in chat - mounts with a whistle are linked as a native item link
+  - New feature: 'Open in WhichMount' context menu entry on whistle and totem links in chat, opens the database with that mount
+  - New feature: click a totem icon in the tracks tab to link the totem in chat
+  - Mount name in 'Find Mount' chat output is now a clickable link
+  - Improved totem tracking
+  - Expansion filter in the mount database
+
 Version 1.5.0:
   - New feature: tracking farmable mounts from trials and it's totems count on character
   - Fixed error on table tabs toggle
