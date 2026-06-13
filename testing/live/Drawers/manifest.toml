@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/brosesarered/Drawers.git"
+commit = "817a516b722ab296b69bf675f5ec7c8c355dc1f6"
+owners = ["brosesarered"]
+project_path = "Drawers"
+changelog = "Initial release. Replaces the standard weapon draw and sheathe actions with the /draw and /sheathe emotes."
