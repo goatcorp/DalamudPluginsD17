@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "3dcf9ff64d7f12fead210aeca0fdfbf11d0ed447"
+commit = "f465357c311f231a7ba216d0eceae6e1afb0adf0"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
 changelog = "PvPAnnouncer is now NPCAnnouncer! Your favorite character can now comment on EVERY DUTY IN THE GAME!!!! Please report any and all bugs or issues."
