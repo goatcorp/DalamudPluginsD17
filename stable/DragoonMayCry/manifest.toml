@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "ed0b6e5b0be3af9a390fe8a06a79c0c38310c5e5"
+commit = "547c2e7cfdca793bf91788e2382d1eeb556c81e9"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Dancing Mad support
+- Added setting to disable the end of combat detection trigger for the dynamic music
+- Added setting to play the next BGM after a wipe if end of combat detectiom trigger is disabled
 """
