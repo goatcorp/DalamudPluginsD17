@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/behdjtsetlas/felix.git"
+commit = "ed1be243dd33ad656c341cd75f8caaddd96e5bc9"
+owners = [ "behdjtsetlas" ]
+project_path = "Felix"
+changelog = "Initial submission for testing track."
