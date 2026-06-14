@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
-commit = "55ea35005257afb4ffeea27dca45a8b5b4def13f"
+commit = "88b8bf5764a72d8c579c67846724db870237a0a7"
 owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
-changelog = "- Added tradable filter"
+changelog = "- Speculative fix for a rare crash when exiting the game"
