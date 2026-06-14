@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
-commit = "88b8bf5764a72d8c579c67846724db870237a0a7"
+commit = "47487f36ed845fc1c4f7cce22a18459168e57564"
 owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
 changelog = "- Speculative fix for a rare crash when exiting the game"
