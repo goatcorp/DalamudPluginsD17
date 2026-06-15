@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/LatencyBryer/QuickSymbols.git"
-commit = "2566d1a593b05dcc4bb454b1997ffd8aa5ffd76f"
+commit = "d5968b3eac5bbfc9dc51c16f6715291bf6a6429d"
 owners = ["LatencyBryer"]
 maintainers = ["LatencyBryer"]
 project_path = "."
