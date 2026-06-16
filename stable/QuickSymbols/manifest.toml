@@ -1,26 +1,9 @@
 [plugin]
 repository = "https://github.com/LatencyBryer/QuickSymbols.git"
-commit = "57796b302b33ea82518d8f517258460289bb4fbc"
+commit = "d5968b3eac5bbfc9dc51c16f6715291bf6a6429d"
 owners = ["LatencyBryer"]
 maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
-Adds a symbol picker letting you quickly insert any symbols from the game into chat.
-
-### Features
-- Quick-access "♥" button on chat for opening the symbol list
-  - Allows the "♥" button position to be changed through drag-and-drop
-  - List shows ALL existing custom symbols for FFXIV
-  - Favorite's system and Custom entries creation
-- Symbol list can open through a configurable keybind
-- Optional popup behavior options
-
-### What's New in 1.0.0.8?
-- Added 7 new symbol tabs to make browsing easier
-- **Custom** tab now has a cleaner layout and a button when no custom entries are set
-- Updated the tabs design with a smoother, cleaner animated selector
-
-### Notes
-QuickSymbols is designed for the game's native chat and supported in-game text inputs.
-Text inputs created by other plugins, such as ChatTwo, may not support symbol insertion yet.
+- Added IPC support/documentation
 """
