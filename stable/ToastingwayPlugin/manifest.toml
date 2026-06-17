@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/powellad/Toastingway.git"
-commit = "bcbdad29d6a41b1137d37eb3dd8737c287735234"
+commit = "0b7f4788aa00e5db68e374233c784e87ddd48171"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
-version = "1.4.0.0"
+version = "1.4.0.1"
 changelog = """
-Add in Dalamud toast option and robustness and tidy refactor.
+Fix for restoring saved configuration.
 """
