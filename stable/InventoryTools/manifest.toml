@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "f908fbc9cb7e863e510f9c9bb6cf1a625a7d3988"
+commit = "86739bbc08ef729502c83f49c1dab5c5ca79c0a2"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.7"
-changelog = "### Added\n- New Chocobo Colour Window, helps you recolour your chocobo by providing a list of the fruit required, craft list integration and a tracker!\n- Master Recipe book compendium now list the unlock status of each book\n### Changed\n- Switched the default ingredient sourcing list to include orange scrip instead of white.\n### Fixed\n- Folklore tomes should correctly list as locked/unlocked.\n- Stopped the new feature callout from taking focus and switched it to using a modal"
+version = "1.15.0.8"
+changelog = "### Added\n- Added new notification system for Craft Lists\n  - Be notified when you gather/craft/buy items via chat and/or sounds\n  - Added a \"Craft Notifications\" wizard step to configure these notifications for your existing craft lists\n- Added a \"Is Unobtainable? Filter/Column\"\n- Added Auxesia loot as a source\n### Fixed\n- Certain filters were not showing and should now be visible\n### Removed\n- Old craft tracker removed and replaced with acqusition tracker entirely"

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/LatencyBryer/QuickSymbols.git"
+commit = "d5968b3eac5bbfc9dc51c16f6715291bf6a6429d"
+owners = ["LatencyBryer"]
+maintainers = ["LatencyBryer"]
+project_path = "."
+changelog = """
+- Added IPC support/documentation
+"""

@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/meoiswa/Sundried.git"
+commit = "884ba681298d88c57cc48bc1db6ccf433f7ff68d"
+owners = ["meoiswa"]
+project_path = "Sundried"
+changelog = """
+Version 1.0.0.0:
+ - Initial release
+"""
