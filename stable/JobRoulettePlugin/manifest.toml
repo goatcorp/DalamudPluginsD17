@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "f34cf1aaf2bde1d243a9461cc9931eb314c0db31"
+commit = "062d216ec6d5e40fe9047cb0e89fe13aca2276ff"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
 changelog = """\
-**New Feature**: Ability to specify a roulette name and the plugin will roll a random enabled job for the roulette's Adventurer-In-Need bonus.
-- /jobroulette `leveling`, `trials`, `msq`, `alliance`, `normal`, `mentor`, `expert`, `highlevel`, `levelcap`, `guildhest`
+**Update**: Added /jr as an alias for /jobroulette.
 """
