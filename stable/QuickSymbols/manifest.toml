@@ -1,9 +1,16 @@
 [plugin]
 repository = "https://github.com/LatencyBryer/QuickSymbols.git"
-commit = "d5968b3eac5bbfc9dc51c16f6715291bf6a6429d"
+commit = "a7163bfe93a7be3ff11d28b329d9c316c97d68bc"
 owners = ["LatencyBryer"]
 maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
-- Added IPC support/documentation
+### What's New?
+- Added **Button position** options:
+  - **Left of Chat**
+  - **Right of Chat**
+  - **Keybind Only**
+- Option to **Use Dalamud theme** instead of the FFXIV theme
+- Added a popup **Background opacity** option
+  - Can be adjusted from **0%** to **100%** _(Transparent to Opaque)_
 """
