@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "062d216ec6d5e40fe9047cb0e89fe13aca2276ff"
+commit = "8b6eb6addfe17ecbb71c2c38174e0d2174eb57a0"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
 changelog = """\
-**Update**: Added /jr as an alias for /jobroulette.
+**New Feature**: Added an option to choose a random glamour plate when randomly choosing a job.
+- Option added to the settings panel to toggle random glamour plate switching
+- /jobroulette `glam`|`glamour` will toggle the random glamour option
 """
