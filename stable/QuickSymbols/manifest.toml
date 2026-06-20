@@ -1,16 +1,14 @@
 [plugin]
 repository = "https://github.com/LatencyBryer/QuickSymbols.git"
-commit = "a7163bfe93a7be3ff11d28b329d9c316c97d68bc"
+commit = "dd06efc082fe9d2b195a86d23a43b2aee7ee6678"
 owners = ["LatencyBryer"]
 maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
 ### What's New?
-- Added **Button position** options:
-  - **Left of Chat**
-  - **Right of Chat**
-  - **Keybind Only**
-- Option to **Use Dalamud theme** instead of the FFXIV theme
-- Added a popup **Background opacity** option
-  - Can be adjusted from **0%** to **100%** _(Transparent to Opaque)_
+- Fixed "♥" button alignment/centering
+- The "♥" button now appears in more native windows:
+  - User Macros
+  - Strategy Board
+Note: The symbol list can be opened through keybind in any native window, the button is just to make it easier.
 """
