@@ -1,24 +1,18 @@
 [plugin]
 repository = "https://github.com/LatencyBryer/Clock.git"
-commit = "2c9b68db6ef7b6617a07e037d7df52027f193caf"
+commit = "956eb6aa496810f738197c064d8fd3cd2b26f2e5"
 owners = ["LatencyBryer"]
 maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
 ### **Added:**
-- New themes: **Digital**, **Tech**, **Cartoon** **Countdown**
-- New option for changing the clock font style
-- New **Alarm overlay** with keybind support and better visual/functionality
-- New **Seasonal Events** reminder option
-  - Optional notifications + Alarm
+- Maintenance reminders now auto-create alarms
+- Chat time conversion now detect time formats using symbols
 
-**Improved:**
-- UI cleanup, translation improvements and general stability
-- Chat time conversion/alarm creation
+### **Improved:**
+- Maintenance reminders now uses the start time
+- Maintenance checks run automatically every 2 hours
 
 ### **Notes:**
-- The `alarm` section was removed from the main window
-  - **Alarm management is now focused on `/alarms`**
-  - Existing alarm features were reorganized, not removed
-- Reminders are now under **Reminders** tab
+- Old **24 hours** maintenance reminder option was replaced for **5 hours before**
 """
