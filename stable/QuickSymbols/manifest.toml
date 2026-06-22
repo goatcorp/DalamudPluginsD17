@@ -1,18 +1,9 @@
 [plugin]
 repository = "https://github.com/LatencyBryer/QuickSymbols.git"
-commit = "d5f35580462cd7cc0979c72d5d478f88da53014a"
+commit = "c53f089146f9e42b189bfe6df81702e40400e814"
 owners = ["LatencyBryer"]
 maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
-### What's New?
-- Fixed "♥" button alignment/centering
-- The "♥" button now appears in more native windows:
-  - User Macros
-  - Strategy Board
-- New **optional** feature: Automatic Text-To-Symbol
-  - Automaticaly convert known texts to symbols, like <3 -> ♥
-  - Create your own Text-To-Symbol in the config
-Note:
-"Text-To-Symbol" feature is intended for vanilla chat only and will work ONLY with it.
+- Added a "Compatibility Disclaimer" on config window
 """
