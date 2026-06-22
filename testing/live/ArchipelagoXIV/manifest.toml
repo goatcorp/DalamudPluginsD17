@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "5fd469098f4f6edeb4949f0b7fe8881ef93c2b7f"
+commit = "2bef833dd182176042992901565f3d0cb5928b0e"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
 changelog = "Added new goals."
