@@ -1,9 +1,12 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "1024d0e67a6bdaf7fc9096d7d4aca9e7e893f858"
+commit = "18fcdc4f997c1abb2a0bede7aacf40eb0127a36a"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-v2.1.3.13
-fix some scaling issues
+v2.1.4.0:
+add:
+sorting by : current area, current world, fc tag, job
+fix:
+warning on first draw
 """

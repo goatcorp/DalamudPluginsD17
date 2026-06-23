@@ -2,12 +2,14 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "c12e7f8f9ec80a2aede01573adfd984f69e66f22"
+commit = "18e52baecc5b7aabd0ae991cdc1dbccc9c7ec378"
 changelog = """
-## 1.2.5
-### Changed
-- Updated for 7.4.
-- Updated ECommons.
-- Mathemathics, Heliometry & Mnemonics changes.
+## 1.2.7
+### Added
+- New Currencies: Oizys Credits & Auxesia Credits.
+- Highlighting for NPCs and items/menus thanks to electr0sheep.
+- Option to automatically add/remove upgrade items to \\\"Items of Interest\\\".
+### Fixed
+- Select Bait Ball was missing.
 """
-version = "1.2.5"
+version = "1.2.7"

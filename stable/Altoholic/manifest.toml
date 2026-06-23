@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "2cf9a214d4d22a2207e24a999617a736bc5972b3"
+commit = "99d290dab158ff77ae3ebd2e5bd3bcd17569d290"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Fix timer raids completion if not reward was looted
+- **Progress**: Fix beast tribes/societal relations data collect
 """

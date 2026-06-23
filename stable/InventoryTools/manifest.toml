@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "db59aedb0c3f5428477135b4c621fdf2e80c852e"
+commit = "86739bbc08ef729502c83f49c1dab5c5ca79c0a2"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.5"
-changelog = "### Added\n- Outfit Glamour tooltip now has the ability to pick a search scope, defaulting to the Armoire/Glamour Chest for those that would like to track acquisition outside these.\n- Added Character/Retainer - World - Category - Quantity - Quality as a mode to the  tooltip.\n### Fixed\n- If the compendium state fails to load, the potential exception is caught and logged\n- Hopefully fixed the crash on exit by not manipulating nameplates while the game is unloading\n- The Equippable by Gender/Race column filters are now free type instead of being a dropdown allowing for complex filtering\n- Fixed a bug where context menu additions were being placed on menus not related to items."
+version = "1.15.0.8"
+changelog = "### Added\n- Added new notification system for Craft Lists\n  - Be notified when you gather/craft/buy items via chat and/or sounds\n  - Added a \"Craft Notifications\" wizard step to configure these notifications for your existing craft lists\n- Added a \"Is Unobtainable? Filter/Column\"\n- Added Auxesia loot as a source\n### Fixed\n- Certain filters were not showing and should now be visible\n### Removed\n- Old craft tracker removed and replaced with acqusition tracker entirely"

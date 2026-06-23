@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/AllaganItemSearch.git"
-commit = "5e027a339daa19ea6ac7403f5b5c00821d496a3d"
+commit = "ab380ebd7e2c4333e39485d11f3e49fe61c261e9"
 owners = [ "Critical-Impact",]
 project_path = "AllaganItemSearch"
-version = "1.3.0.0"
-changelog = "### Changed\n- API15 update including new data for 7.5"
+version = "1.3.0.1"
+changelog = "### Added\n- Added uses for relic weapons/tools, folklore tomes, mastercraft recipe books and soul crystals"

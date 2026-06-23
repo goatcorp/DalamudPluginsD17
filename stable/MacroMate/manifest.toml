@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/grittyfrog/MacroMate.git"
-commit = "ffb573944d064ddbf3e795cd423a88c970846943"
+commit = "4b41fc0b40c6156fe67b0a3f64d83a4f00e430ae"
 owners = ["grittyfrog"]
 project_path = "MacroMate"
-version = "1.0.27.3"
+version = "1.0.27.4"
 changelog = """
-- Add Gearset link condition
-- Fix "Run Selected" printing C# types instead of selected text
+- Fix constantly writing HOTBAR.dat 
 """

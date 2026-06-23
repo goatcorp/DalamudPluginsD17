@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/Brolijah/SimpleTriggers.git"
-commit = "31575ef24a5b0d11d394b65aed223497cd8c7c8e"
+commit = "83d5efe8fcafbe51f692a67947eed2c9a21dda46"
 owners = ["Brolijah"]
 project_path = "SimpleTriggers"
 changelog = """
-## SimpleTriggers v1.0.4.1
-* Replaced DECtalk with DECtalkMini
-* Fixed scaling in various places
-* Added a new option for trigger responses: popup toasts/gimmicks
-* Fixed non-fatal UI error when removing a category
-* Trims new-lines from messages before checking against trigger expressions
+## SimpleTriggers v1.0.5.0
+* Added a few variable substitutions for the response text:
+  * `%sender%` - replaces with whoever sent the message that activated the trigger (player messages only)
+  * `%expression%` - replaces with the expression specified in the trigger
+  * `%message%` - replaces with the entire message that activated the trigger
 """

@@ -1,23 +1,17 @@
 [plugin]
 repository = "https://github.com/seventity7/CreateXIV.git"
-commit = "c4b81a33baf1cc6082177951f3b02d2410201c87"
+commit = "4ec06a369a50c5ce5789ddff6ffc37b03594d439"
 owners = ["seventity7"]
 maintainers = ["seventity7"]
 project_path = "."
 changelog = """
-### CreateXIV
-- **Lets you create custom slash command aliases from an in-game UI**
-- Supports aliases for native FFXIV commands, Dalamud plugin commands, personal macros and shared macros
-- Create short personal commands for longer commands you use often
-  - Example: turn a longer command or macro reference into a simple custom slash command `/mastervolume` > `/mv`
-- Includes suggestions to help find available commands/macros while setting up aliases
-- Include alias organization tools
-  - Categories with custom colors
-  - Favorites/pinned aliases
-  - Search, type filters, category filters and sortable alias list columns
-- Include alias management tools
-  - Edit, delete, duplicate, test, undo delete, overwrite existing aliases and clipboard import/export
-- Validation system for aliases, macros and any type of commands
-  - Invalid macro/command aliases will be prevented from saving
-  - Saved aliases that become invalid later are highlighted with a tooltip explaining the issue
+### What's New?
+- Added support for disabling alias execution delay
+- Updated the per-alias `Wait` range to `0-5` seconds
+- Added new `/create list` command
+  - Shows all created aliases and their linked commands/macros in chat
+
+### Notes
+- Default `Wait` value for new Aliases is now `0`
+- Updated `Readme` on plugin github page
 """
