@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sleepybnuuy/swatch.git"
-commit = "8828b53ee9e1d36c6374284e4a8a506a49390b6e"
+commit = "f01e6f2cb2c2e543caf63dd78ac922ea64112ed2"
 owners = ["sleepybnuuy"]
 project_path = "Swatch"
-changelog = "DAPI 15"
+changelog = "Fixed 999 rollover bug, added option for 3-place padding (ex. @ 008)"
