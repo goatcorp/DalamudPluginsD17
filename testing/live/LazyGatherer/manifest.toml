@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "04e9ed5af553cc659b03ba44c544522dabbf8b02"
+commit = "9388a9ea0f039ef6e74d95dc7ce28c163a7cbe47"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.4.0: 
- - Add GP regeneration alert (Off by default)
- - Add background on rotation display (On by default, can be turned off on configuration)
-Version 1.4.1: 
- - Add Alarm sound as option for GP regeneration alert
+Version 1.4.3: 
+ - Add option to trigger GP alerts only on gatherer jobs
 """

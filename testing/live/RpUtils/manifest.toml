@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Nerifyra/RpUtils.git"
-commit = "8273fbda60bdbe66f6704638646a82ea46edccac"
+commit = "cb50c16d6f45b7020d2ca0614d277d83658e0f45"
 owners = ["Nerifyra", "erroch"]
 project_path = "RpUtils"

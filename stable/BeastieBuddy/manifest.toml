@@ -1,7 +1,7 @@
 # stable/BeastieBuddy/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/BeastieBuddy.git"
-commit = "4b6a59edbf3e84343dbdb546f5dad0a5c9e8f60a" 
+commit = "add893a05defb62e7f55d9aaf8a613154a49528c" 
 owners = ["rail2025"]
 # project_path = "BeastieBuddy" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.50.1.1: added toggle mainwindow with /bbuddy\nv7.50.1: api bump+"
+changelog = "v7.51.0.0: search list expanded from 10 to 25, clustered results, click to teleport option"

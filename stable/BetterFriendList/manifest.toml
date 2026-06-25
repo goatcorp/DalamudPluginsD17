@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "18fcdc4f997c1abb2a0bede7aacf40eb0127a36a"
+commit = "7c51bfb633ff10762a77758e33ddf75fb4d420cd"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-v2.1.4.0:
-add:
-sorting by : current area, current world, fc tag, job
-fix:
-warning on first draw
+v2.1.4.1:
+- make sorting a little beter
 """

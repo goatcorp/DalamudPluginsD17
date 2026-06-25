@@ -1,7 +1,11 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "d02c34564631f9a07d5c5c16270ab175efb025a3"
+commit = "8b6eb6addfe17ecbb71c2c38174e0d2174eb57a0"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
-changelog = "Initial upload. Job Roulette is a simple plugin which will randomly choose a job and automatically switch to it."
+changelog = """\
+**New Feature**: Added an option to choose a random glamour plate when randomly choosing a job.
+- Option added to the settings panel to toggle random glamour plate switching
+- /jobroulette `glam`|`glamour` will toggle the random glamour option
+"""

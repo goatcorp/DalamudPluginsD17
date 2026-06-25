@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/LatencyBryer/QuickSymbols.git"
+commit = "c53f089146f9e42b189bfe6df81702e40400e814"
+owners = ["LatencyBryer"]
+maintainers = ["LatencyBryer"]
+project_path = "."
+changelog = """
+- Added a "Compatibility Disclaimer" on config window
+"""
