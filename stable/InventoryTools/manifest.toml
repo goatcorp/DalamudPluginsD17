@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "86739bbc08ef729502c83f49c1dab5c5ca79c0a2"
+commit = "5a330094a2cbe4af62016353fc515595b60c4f4d"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.8"
-changelog = "### Added\n- Added new notification system for Craft Lists\n  - Be notified when you gather/craft/buy items via chat and/or sounds\n  - Added a \"Craft Notifications\" wizard step to configure these notifications for your existing craft lists\n- Added a \"Is Unobtainable? Filter/Column\"\n- Added Auxesia loot as a source\n### Fixed\n- Certain filters were not showing and should now be visible\n### Removed\n- Old craft tracker removed and replaced with acqusition tracker entirely"
+version = "1.15.0.9"
+changelog = "### Added\n- Added \"Support Dump\" feature, making it easier for plugin users to provide their logs + config\n- Added a new \"Add From Game\" menu to the Crafts list replacing the \"Add Company Crafts\" button. This currently supports the Company Craft parts menu and the Grand Company Supply/Provision windows.\n### Fixed\n- Fixed a exception being thrown in the crafts window when certain items are added\n### Changed\n- Lumina Supplemental data update"
