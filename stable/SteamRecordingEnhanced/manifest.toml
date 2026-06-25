@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://github.com/RokasKil/SteamRecordingEnhanced.git'
-commit = 'fcbbeb25ee5f29a08a038791ca217fc80d977260'
+commit = 'f4ef14d21cd0b9b6efc62148391415b34704f1d2'
 owners = [ 'RokasKil' ]
 project_path = 'SteamRecordingEnhanced'
 changelog = """
-- 7.5 and API15 update
+- Fixed a Steam crash
 """
