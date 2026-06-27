@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "99d290dab158ff77ae3ebd2e5bd3bcd17569d290"
+commit = "5c8d3ee9902cc5f0b67692107821e83bd7177d7b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix beast tribes/societal relations data collect
+- **General**: Update dependencies
 """
