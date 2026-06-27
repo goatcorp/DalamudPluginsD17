@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "33ff158a45a1809797717c395e481ff4bb5873de"
+commit = "5c8d3ee9902cc5f0b67692107821e83bd7177d7b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Breaking Brick Mountains (2026) and framer kit reward
+- **General**: Update dependencies
 """
