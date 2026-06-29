@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sleeds2/glamourroulette.git"
-commit = "f27ab0ac645df50c8816d2d3663c2d1c9b8d7881"
+commit = "cb6415d057f66eb5d0187f24afc84db86e0db975"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 changelog = """\
