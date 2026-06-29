@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "5c8d3ee9902cc5f0b67692107821e83bd7177d7b"
+commit = "00eeba105c6de0d41904554d492842825dcbb803"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Update dependencies
+- **Progress**: Custom Deliveries tab in All and details on each character
 """
