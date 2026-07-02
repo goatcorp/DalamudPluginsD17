@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/GuiMarcosNogueira/glamour-checker.git"
+commit = "c9ac37a807665e34ccd30ff50aa7892b7d78ea0a"
+owners = ["GuiMarcosNogueira"]
+project_path = "GlamourChecker"
+changelog = """
+🎉 Version 0.4.6 - The Dalamud Compliance Update!
+
+✨ New Features & Improvements:
+
+    Automated In-Game Changelogs: GitHub release notes are now automatically synchronized and injected directly into the Dalamud Plugin Installer! You will see these beautiful notes right inside the game from now on.
+    Brand New Icon: Replaced the default plugin icon with a stunning, high-quality Lalafell image.
+    Global Store Compliance: The plugin manifest (Punchline and Description) has been fully translated to English to meet the rigorous standards of the official DalamudPluginsD17 repository.
+
+📚 Developer & Behind-the-Scenes:
+
+    Consolidated multiple fragmented developer docs into a single, comprehensive CONTRIBUTING.md guide.
+    Established a Git-tracked AI Agent configuration (.agents/AGENTS.md) to strictly enforce code quality, PR templates, and branching rules.
+"""
