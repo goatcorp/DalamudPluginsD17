@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/sourpuh/ffxiv_gaolbreak.git"
+commit = "7c91a0d74b63a1600a16702fbd0dc99c22b98cd6"
+owners = ["sourpuh"]
+project_path = "Gaolbreak"
+changelog = "Initial Main Repo Testing Release"
