@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/barrcodes/xiv-megaphone-plugin.git"
+commit = "74d24ec46f44b621b9fc89373b06713557642590"
+owners = ["barrcodes"]
+project_path = "src/XivMegaphone"
+changelog = "Initial Release"
