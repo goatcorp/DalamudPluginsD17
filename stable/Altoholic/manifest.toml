@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "7c6625bda77ab1caa206239987e496ccfc4197ad"
+commit = "b789ce8bf4d9a40900676b19f6ef3cec1ff14083"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Custom Deliveries tab in All and details on each character
+- **Timers**: Fix chat timer remainder reminder message for custom delivery
 """
