@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://github.com/RokasKil/SteamRecordingEnhanced.git'
-commit = 'f4ef14d21cd0b9b6efc62148391415b34704f1d2'
+commit = '84526d7ab542608aed28f3f2ba2cd6a5b1b9637c'
 owners = [ 'RokasKil' ]
 project_path = 'SteamRecordingEnhanced'
 changelog = """
-- Fixed a Steam crash
+- Fixed Duty wiped and Duty started labels being swapped in the configuration menu
 """
