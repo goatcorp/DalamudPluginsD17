@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Elypha/BilingualTooltips.git"
-commit = "8f0a689492691cb96ab6c4130dbe076555cd6d14"
+commit = "945e0fb71382695d4e597c24a57bb68050f9ca60"
 owners = ["Elypha"]
 project_path = "BilingualTooltips"
 changelog = """
@@ -12,4 +12,9 @@ This is a major update and please check against your current settings after upda
 - Add support for a few more actions/items (DeepDungeon, minions/mounts, Bozjan, etc.).
 - Add lookup history window to show some statistics about your bilingual exploration.
 - Add support for all FFXIV official languages (JEDF plus Chinese and Korean, WIP).
+
+v1.7.2.0 ~ v1.7.3.0
+- Fix NPC dialogue matching issue for alphabetic languages (English, French, German, etc.).
+- Fix long tooltips going beyond the screen.
+- Gaps before/after the divider line between the translated description and the native one are now configurable in pixels.
 """
