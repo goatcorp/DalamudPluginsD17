@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Infiziert90/TrackyTrack.git"
-commit = "92778c1596301f644d715906c36e717edef1b02a"
+commit = "ccae9a44f395415451c9ab082bcb73687d1ba1ff"
 owners = [
     "Infiziert90",
 ]
