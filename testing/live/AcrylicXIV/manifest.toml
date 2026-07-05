@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/MapleRecall/AcrylicXIV.git"
+commit = "48188267c7b66630200502828204fd531d63daa7"
+owners = ["MapleRecall"]
+project_path = ""
+changelog = "Initial testing release."
