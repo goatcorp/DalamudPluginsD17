@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/DiscordBotFFXIV.git"
-commit = "63f4e96c65124c697a588ce64036c94506c62b88"
+commit = "caaa4d7f873189a695101957d9dfc86a655560e7"
 owners = ["devckuw"]
 project_path = "DiscordBotFFXIV"
 changelog = """
-API 15
+v1.1.2.4:
+update help text
 """
