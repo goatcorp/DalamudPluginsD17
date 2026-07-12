@@ -1,7 +1,7 @@
 # stable/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "fc8961cf8b57f3b634b17c328adf826a3123d723" 
+commit = "70ef516720b68c1713d6c98ec625862e68a15bef" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.51.0.1: ui scaling fix\nv7.51.0.0: aoe wip in replays. optional manual json required for loading, files available on githhub\n"
+changelog = "v7.51.2.0: New Feature: auto-replay of death events, log highlights when timeline scrubbing, auto-player selection, resizable left panel. Fixed shape handles and canvas syncing.\nv7.51.0.1: ui scaling fix\nv7.51.0.0: aoe wip in replays. optional manual json required for loading, files available on githhub\n"
