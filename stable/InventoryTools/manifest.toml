@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "f908fbc9cb7e863e510f9c9bb6cf1a625a7d3988"
+commit = "5a330094a2cbe4af62016353fc515595b60c4f4d"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.7"
-changelog = "### Added\n- New Chocobo Colour Window, helps you recolour your chocobo by providing a list of the fruit required, craft list integration and a tracker!\n- Master Recipe book compendium now list the unlock status of each book\n### Changed\n- Switched the default ingredient sourcing list to include orange scrip instead of white.\n### Fixed\n- Folklore tomes should correctly list as locked/unlocked.\n- Stopped the new feature callout from taking focus and switched it to using a modal"
+version = "1.15.0.9"
+changelog = "### Added\n- Added \"Support Dump\" feature, making it easier for plugin users to provide their logs + config\n- Added a new \"Add From Game\" menu to the Crafts list replacing the \"Add Company Crafts\" button. This currently supports the Company Craft parts menu and the Grand Company Supply/Provision windows.\n### Fixed\n- Fixed a exception being thrown in the crafts window when certain items are added\n### Changed\n- Lumina Supplemental data update"

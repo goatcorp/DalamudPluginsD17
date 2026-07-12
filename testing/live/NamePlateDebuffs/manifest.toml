@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/sourpuh/NamePlateDebuffs.git"
-commit = "1b108cb4d64f30d90eb2e1784c697b2d110f8c09"
-owners = [
-    "sourpuh",
-]
-project_path = "NamePlateDebuffs"
-changelog = "Support for M**dles, buffs and special statuses, and tweaks / bug fixes. I also did some minor config changes, so reset to defaults if it looks bad. That's the price of innovation."

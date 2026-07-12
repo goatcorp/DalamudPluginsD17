@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/brosesarered/Drawers.git"
+commit = "ebdc0d950e1151ec0e707db3265def4f0da18bb7"
+owners = ["brosesarered"]
+project_path = "Drawers"
+changelog = "Added auto mode."

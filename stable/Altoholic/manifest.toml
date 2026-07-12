@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "7e24304159e79b337a55fa67943584fec3ddee07"
+commit = "b789ce8bf4d9a40900676b19f6ef3cec1ff14083"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Put debug logs behind setting checkbox"
+- **Timers**: Fix chat timer remainder reminder message for custom delivery
 """

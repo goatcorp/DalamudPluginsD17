@@ -1,7 +1,11 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "a4e668abcdb03cc87bc4d358a73e7a2bdd35d35f"
+commit = "88d74aee534bd1023db06e6c90d22c14fd67c3cc"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
-changelog = "Updated logic to only include unlocked jobs in roulette feature and settings menu."
+changelog = """\
+**New Feature**: Added an option to allow/disallow rolling your current job.
+- Toggle added to the settings panel
+- /jobroulette `current` will toggle the current job option
+"""

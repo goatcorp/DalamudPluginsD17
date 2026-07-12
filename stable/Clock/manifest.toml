@@ -1,25 +1,18 @@
 [plugin]
-repository = "https://github.com/seventity7/Clock.git"
-commit = "6e2838f384a6a007e27566bc875be292ea60dcb4"
-owners = ["seventity7"]
-maintainers = ["seventity7"]
+repository = "https://github.com/LatencyBryer/Clock.git"
+commit = "956eb6aa496810f738197c064d8fd3cd2b26f2e5"
+owners = ["LatencyBryer"]
+maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
-## What's new
-- Alarms can now repeat instead of being one-time only
-- Added overlay reminders
-  - Clock can now show the next alarm on the main overlay
-  - Clock can now show today's detected maintenance on the main overlay
-- When typing `/clock`, a small suggestion list can now appear with available Clock commands
-  - This can be enabled or disabled from the `General` tab
-- You can now compare two timezones using commands like:
-    - `/clock EST to BRT`
-- Appearance shortcuts were added to make related settings easier to find
+### **Added:**
+- Maintenance reminders now auto-create alarms
+- Chat time conversion now detect time formats using symbols
 
-### Improvements
-- Alarm creation now prevents setting alarms for dates or times that already passed
-- Presets now focus on visual style without changing the user's current layout, size or position
+### **Improved:**
+- Maintenance reminders now uses the start time
+- Maintenance checks run automatically every 2 hours
 
-### Notes
-New overlay and command suggestion options are disabled by default until enabled by the user.
+### **Notes:**
+- Old **24 hours** maintenance reminder option was replaced for **5 hours before**
 """

@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/LatencyBryer/QuickSymbols.git"
+commit = "4a2a2d93106da2ea49ba729ac52a5078f22acb4b"
+owners = ["LatencyBryer"]
+maintainers = ["LatencyBryer"]
+project_path = "."
+changelog = """
+Fix:
+- Text-to-symbol feature can now be used while sending tells or any messages through any channel instead of been blocked like commands.
+"""

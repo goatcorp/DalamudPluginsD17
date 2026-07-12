@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
+commit = "e56373c4e7290d51189af83af52a013dc518c29d"
+owners = ["ArcaneAj"]
+project_path = "WachuMakeyMaking"
+
+changelog = """
+WachuMakeyMaking takes what you have in your inventory and calculates the optimal combination of items to make.
+Item prices are fetched from Universalis, or can be manually overridden.
+
+Make the most with what you have!
+"""
