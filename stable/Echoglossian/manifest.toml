@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "a6479a8d3354101639ca3b7cc1bedb34b87393d1"
+commit = "2b3c2518b300812c6014c26bcfe25e8c228c3270"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0710.x \n production release:\n - structured dialogue translation, glossary/context routing, and better LLM provider coverage\n - custom OpenAI-compatible providers, live model refresh, and stronger debugger diagnostics/retranslation tools\n - prompt/history/quota hardening plus expanded target-language and downloadable script-font support"
+changelog = "v4.2601.0712.1140 \n production release:\n - explicit retranslate-and-persist support for TalkSubtitle, CutSceneSelectString, and TextGimmickHint story surfaces\n - visible story-surface provenance and direct View In DB Manager handoff in /eglotranslatordebugger\n - shared read-only DB inspection components reused between the debugger and DB manager, plus follow-up diagnostics hardening"
