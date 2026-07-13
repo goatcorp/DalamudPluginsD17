@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/sourpuh/ffxiv_pseudonamingway.git"
+commit = "bfbf04c4552aabcea842277da5a1bfd1e9d905d0"
+owners = ["sourpuh"]
+project_path = "Pseudonamingway"
+changelog = "Initial Main Repo Testing Release"
