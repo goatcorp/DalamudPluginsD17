@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sourpuh/ffxiv_gaolbreak.git"
-commit = "23fade1efe8b1e0e164cf9b112595533bbd17f96"
+commit = "871d70fc6ede76b6b20994db2f86ca348d0d8e73"
 owners = ["sourpuh"]
 project_path = "Gaolbreak"
 changelog = """\
