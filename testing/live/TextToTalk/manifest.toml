@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "51c3958486d4ef44029318c21bfd5bc78cec0ffc"
+commit = "e5cf5404b388a3223b346853073536e59822dbb7"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **System**: Fixed random stops during TTS playback, especially with NaturalVoiceSAPIAdapter
+- **Megaphone**: Added [Megaphone](<https://github.com/barrcodes/xiv-megaphone>) TTS backend.
+- **General**: Adjusted default (fresh install) settings for quicker new-user onboarding.
+
+Thanks to `@barrcodes` for the improvements in this update!
 """
