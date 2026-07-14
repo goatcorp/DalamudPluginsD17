@@ -1,6 +1,11 @@
 [plugin]
 repository = "https://github.com/sourpuh/ffxiv_gaolbreak.git"
-commit = "ed6417fb5b71b15379071012e86354c697d1862d"
+commit = "871d70fc6ede76b6b20994db2f86ca348d0d8e73"
 owners = ["sourpuh"]
 project_path = "Gaolbreak"
-changelog = "Initial Main Repo Testing Release"
+changelog = """\
+**Initial Main Repo Testing Release**
+- Layer game windows with plugin windows
+- Allow 3D overlay plugins to draw under the game's UI
+- Prevent ReShade or other graphics effects from affecting the UI
+"""
