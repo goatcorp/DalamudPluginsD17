@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/sleeds2/jobroulette.git"
-commit = "88d74aee534bd1023db06e6c90d22c14fd67c3cc"
+commit = "b88eb574bead5c416c01764d9f9d37e2184713bb"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 project_path = "JobRoulettePlugin"
 changelog = """\
-**New Feature**: Added an option to allow/disallow rolling your current job.
-- Toggle added to the settings panel
-- /jobroulette `current` will toggle the current job option
+**Update**: Random Glamour Plate option is now ignored when a Gearset has a linked Glamour Plate
+- Toggle added to the settings panel to enable/disable overriding the linked Glamour Plate
 """
