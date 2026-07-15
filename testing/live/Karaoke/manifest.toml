@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/RajahOmen/Karaoke.git"
+commit = "cfa16d277ca493739c2c9f61f349100f1af44e18"
+owners = ["RajahOmen"]
+project_path = "Karaoke"
+changelog = "Initial testing release"
