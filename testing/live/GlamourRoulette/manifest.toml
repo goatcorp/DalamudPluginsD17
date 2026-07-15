@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/sleeds2/glamourroulette.git"
-commit = "a6ca31d37030053fc692fce2f5449d7825901c6c"
+commit = "91db46705a414b7ca1d1eae76b192c6bfa1dd5e7"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 changelog = """\
 **New Plugin**: Glamour Roulette is a plugin for Final Fantasy XIV that randomly selects one of your saved Glamour Plates and swaps to it.
 - Allows the user to select eligible gearsets to be randomized.
 - Don't know what to wear tonight? Glamour Roulette has you covered!
+
+0.9.9.1 Testing Update - Modified Glamour Plate window and applications to utilize client actions.
 """
