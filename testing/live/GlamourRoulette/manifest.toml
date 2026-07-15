@@ -8,5 +8,5 @@ changelog = """\
 - Allows the user to select eligible gearsets to be randomized.
 - Don't know what to wear tonight? Glamour Roulette has you covered!
 
-0.9.9.1 Testing Update - Modified Glamour Plate window and applications to utilize client actions.
+0.9.9.1 Testing Update - Modified Glamour Plate window and switching to utilize client actions.
 """
