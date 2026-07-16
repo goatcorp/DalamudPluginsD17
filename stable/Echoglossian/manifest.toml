@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "2b3c2518b300812c6014c26bcfe25e8c228c3270"
+commit = "b584115640c5b9b9bda53001652007a710d892b3"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0712.1140 \n production release:\n - explicit retranslate-and-persist support for TalkSubtitle, CutSceneSelectString, and TextGimmickHint story surfaces\n - visible story-surface provenance and direct View In DB Manager handoff in /eglotranslatordebugger\n - shared read-only DB inspection components reused between the debugger and DB manager, plus follow-up diagnostics hardening"
+changelog = "v4.2601.0715.1114 \n production release:\n - texture-backed RTL presentation with bidi shaping, right alignment, adaptive layout, and bounded memory caches\n - source, target, and engine-scoped canonical translation reuse with normalized language aliases and extended client identities\n - stabilized ActionMenu, Character, MainCommand, context-menu, reference-text, and hover flows while eliminating severe frame-rate drops"
