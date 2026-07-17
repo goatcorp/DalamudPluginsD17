@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "b584115640c5b9b9bda53001652007a710d892b3"
+commit = "578bce65cc09deeb23571e0e58ed6306f871d859"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0715.1114 \n production release:\n - texture-backed RTL presentation with bidi shaping, right alignment, adaptive layout, and bounded memory caches\n - source, target, and engine-scoped canonical translation reuse with normalized language aliases and extended client identities\n - stabilized ActionMenu, Character, MainCommand, context-menu, reference-text, and hover flows while eliminating severe frame-rate drops"
+changelog = "v4.2601.0717.0008 \n MiniTalk regression hotfix:\n - restore bubble layout safely after game-owned repaints\n - normalize wrapped source overlay line breaks and control bytes\n - stabilize MiniTalk overlay and native sizing against the visible balloon"
