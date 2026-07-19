@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "578bce65cc09deeb23571e0e58ed6306f871d859"
+commit = "f0b4dec9265b5cf350464974329d4dae4fbc1dd8"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0717.0008 \n MiniTalk regression hotfix:\n - restore bubble layout safely after game-owned repaints\n - normalize wrapped source overlay line breaks and control bytes\n - stabilize MiniTalk overlay and native sizing against the visible balloon"
+changelog = "v4.2601.0718.2006 \n OpenRouter live-model refresh and preview-infrastructure follow-up:\n - fix Fetch Live Models when the configured base URL already includes /v1\n - refresh hosted preview validation infrastructure without shipping vendor-only assets"
