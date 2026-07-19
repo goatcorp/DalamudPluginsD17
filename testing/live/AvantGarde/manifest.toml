@@ -1,12 +1,16 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "b2d7fc445e5336e5a62f9dd01b86ee1b8e37fb06"
+commit = "8f560a9701f249ed29675b85d374fd7f37421d8e"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-Moved to stable:
-- Fix incompatibility with multi-monitor support.
-Available for testing:
-- Added item interaction. Click on an item to open up a submenu.
- - You can Try on, Search, Link and Copy to Clipboard, as well as open the item in your browser for extra info.
+**Available for testing:**
+- Automatic Crowdsourcing
+ - Submissions are uploaded to Xivstats' database. Special thanks to Infi.
+ - Collects items & dyes used, weekly theme information and score.
+ - Private or sensitive data is never collected.
+ - Requires Opt-in (Plugin functionality is unaffected by your choice).
+ - See how many times a particular piece was used among the userbase.
+- Onboarding window that explains everything
+- We're so back
 """
