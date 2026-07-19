@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/kernelcurry/popotovox-plugin.git"
+commit = "1106b17676beab324312648b655b096f9b637868"
+owners = ["kernelcurry", "michaelcurry"]
+project_path = "plugin"
+changelog = "Initial submission."
