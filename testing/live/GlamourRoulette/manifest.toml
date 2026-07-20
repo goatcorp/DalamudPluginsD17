@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sleeds2/glamourroulette.git"
-commit = "91db46705a414b7ca1d1eae76b192c6bfa1dd5e7"
+commit = "cf2b7cb50dbfb30396bf1434bc39caed882bdd1e"
 owners = ["sleeds2"]
 maintainers = ["mchudoba"]
 changelog = """\
@@ -8,5 +8,4 @@ changelog = """\
 - Allows the user to select eligible gearsets to be randomized.
 - Don't know what to wear tonight? Glamour Roulette has you covered!
 
-0.9.9.1 Testing Update - Modified Glamour Plate window and switching to utilize client actions.
 """
