@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b026e5d34b0208bd5c066af0ad9912184914279e"
+commit = "e12e70072ab6f6f42d36838d06dffb1009a0c6ad"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Azure**: Fixed crash when disabling/updating the plugin during speech playback.
+- **General**: Adjusted default (fresh install) settings for quicker new-user onboarding (thanks `@barrcodes`!).
+- **Megaphone**: Added [Megaphone](<https://github.com/barrcodes/xiv-megaphone>) TTS backend (thanks `@barrcodes`!).
+- **WebSocket**: Added voice volume to WebSocket backend messages (thanks `@barrcodes`!).
+- **WebSocket**: Added speaker gender to WebSocket backend messages (thanks `@mrexodia`!).
 """
