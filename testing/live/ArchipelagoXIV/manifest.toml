@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "86cae0bb71d759f82552dddda461746d68e4405a"
+commit = "a5e236691c7545c587f6478ec489e8f147d6e317"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
 changelog = "Migrated to IAsyncDalamudPlugin"
