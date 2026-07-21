@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "6b43e64ac05533048c0583c4db01b9a8f2f93ac0"
+commit = "eb586bae3d60d574cb41097723e7c594071e745d"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-UI bugfixes / assert fixes
+Add basic IPC service, by Zeffuro
 """
