@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RajahOmen/Karaoke.git"
-commit = "3e882e701ac53e22d53d51eb71ea52d54d3223c8"
+commit = "b77cfe40c8fa7fd3d7e15af20da62ffc4d5f957e"
 owners = ["RajahOmen"]
 project_path = "Karaoke"
-changelog = "Initial testing release"
+changelog = "Initial testing release of Karaoke, which displays the lyrics of the song currently playing in game!"
