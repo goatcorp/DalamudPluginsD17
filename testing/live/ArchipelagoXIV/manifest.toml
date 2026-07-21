@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "4ba592e6004c23fa61317a78f16dee70bd47da64"
+commit = "a5e236691c7545c587f6478ec489e8f147d6e317"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Added new checks for attuning aetherytes.\nAdded new option: Huntsanity.  Checks for defeating hunt targets.\nAdded the rest of Bozja.\nAdded Occult Crescent South Horn.\nAdded Connection History to make it easier to jump between multiple slots\nAdded new PvP map\nAdded sorting to job tooltip\nChanged logic for Big Fish to also require the bait for Intuition fish\nUpdated some fish with more reasonable baits\nAssorted bugfixes"
+changelog = "Migrated to IAsyncDalamudPlugin"
