@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Hildaware/PrettyFly.git"
+commit = "83b59c738958e3923ae5191146c4c3cc9a8e0784"
+owners = ["bferrari352"]
+maintainers = ["hildaware"]
+changelog = "Full replacement for the default 'FlyText' messages. Change the font, size, color, and positioning (including target nameplates). Includes built-in filtering to reduce spam."
