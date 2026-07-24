@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "a5e236691c7545c587f6478ec489e8f147d6e317"
+commit = "1fea9c491d132a3fc292bbc083396cbfb2609c40"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Migrated to IAsyncDalamudPlugin"
+changelog = "Fixed bug where the longrunning background thread could get garbage collected"
