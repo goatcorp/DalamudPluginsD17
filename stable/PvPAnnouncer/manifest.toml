@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "5c81445f6d9c7ada487a74e7e9fc62126fcad30e"
+commit = "e4a713a37897ffe316bf7a05cdf42392df444f46"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Voice Lines now have a cooldown that will clear after a time. New Config Settings, some fixes. Event History is now visible."
+changelog = "Translation framework added! Many other fixes for voicelines as well."
