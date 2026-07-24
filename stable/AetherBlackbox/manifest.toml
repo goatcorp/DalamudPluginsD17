@@ -1,7 +1,7 @@
 # stable/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "8976b2f13255afab9b1ca69533e3f26b5f1b155d" 
+commit = "e094c441ca051f626202be67775feb8728797bed" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.51.3.0: New Features: hp percent to target info, buffs wrap, buffs/debuffs show on target panel, faster loading of replays, saved replay panel size adjustment, aoes auto detect and load for m10-12, umad, phantom job icons display in occult crescent and forked tower on party overlay, target selection panel, and new alliance overlay, alliance ui overlay added, colored laser button, aoe mechanic button icon change\nv7.51.2.0: New Feature: auto-replay of death events, log highlights when timeline scrubbing, auto-player selection, resizable left panel. Fixed shape handles and canvas syncing."
+changelog = "v7.51.3.1: Alliance ui tweaks, code refactor\nv7.51.3.0: New Features: hp percent to target info, buffs wrap, buffs/debuffs show on target panel, faster loading of replays, saved replay panel size adjustment, aoes auto detect and load for m10-12, umad, phantom job icons display in occult crescent and forked tower on party overlay, target selection panel, and new alliance overlay, alliance ui overlay added, colored laser button, aoe mechanic button icon change."
