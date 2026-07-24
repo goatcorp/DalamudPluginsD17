@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/GayPotatoEmma/LooturesRewritten.git"
+commit = "c3b5f2136474d6c06da328343a5d6e2b6cb05d81"
+owners = [ "GayPotatoEmma" ]
+project_path = "LooturesRewritten"
