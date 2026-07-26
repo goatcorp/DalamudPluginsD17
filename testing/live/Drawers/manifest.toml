@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/brosesarered/Drawers.git"
-commit = "309617d590497f7b0855b819ca672862d408ce79"
+commit = "7a48e82868c5c29e5babcc4409be0537fc2f5999"
 owners = ["brosesarered"]
 project_path = "Drawers"
 changelog = "Fixed auto mode so it doesn't flash the weapon. Tiny other improvements."
