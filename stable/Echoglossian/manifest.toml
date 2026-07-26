@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "059d8e7687b4692fa5666e6f8d0a6030015afb32"
+commit = "f0b4dec9265b5cf350464974329d4dae4fbc1dd8"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0531.x \n production release:\n - toast family moved to ToastGui runtime path with corrected per-type gating\n - native reflow and alignment fixes for MiniTalk, BattleTalk, and toasts\n - unified native replacement diacritics toggle and cross-surface isolation fixes"
+changelog = "v4.2601.0718.2006 \n OpenRouter live-model refresh and preview-infrastructure follow-up:\n - fix Fetch Live Models when the configured base URL already includes /v1\n - refresh hosted preview validation infrastructure without shipping vendor-only assets"

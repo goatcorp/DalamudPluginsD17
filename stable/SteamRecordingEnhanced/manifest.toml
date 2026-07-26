@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://github.com/RokasKil/SteamRecordingEnhanced.git'
-commit = 'fcbbeb25ee5f29a08a038791ca217fc80d977260'
+commit = '84526d7ab542608aed28f3f2ba2cd6a5b1b9637c'
 owners = [ 'RokasKil' ]
 project_path = 'SteamRecordingEnhanced'
 changelog = """
-- 7.5 and API15 update
+- Fixed Duty wiped and Duty started labels being swapped in the configuration menu
 """

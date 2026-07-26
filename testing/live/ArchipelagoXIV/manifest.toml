@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "64ae639ba1b37ec1070fc6d20e4254f5022ff1a3"
+commit = "5cff406fe215a034c09bdecc81362f5d35631c85"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Added new goals."
+changelog = "Fixed a handful of bugged checks, improved UX in a few places, and fixed an error when you had extra checks for dungeons you'd disabled."

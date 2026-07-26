@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "94c894a31d3bc0401f132dea80d8d82c19b8edcb"
+commit = "a861c2132284430e6b2d4666d6fc708051d9b115"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added support for Patch 7.5 and Dalamud API 15."
+changelog = "- Added an IPC to see if a ring is active."

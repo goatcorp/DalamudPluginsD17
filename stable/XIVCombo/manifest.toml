@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "6222e80ca0b2f7f16c3e1756cb8c6c47f63ca8ff"
+commit = "ca08a970983d8bd85964decfbe164ba08d793285"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -14,7 +14,10 @@ owners = [
 project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\	
--# API 15 update
--# I was supposed to delay this release by a week because of the Dalamud server's users but I do not wish to worsen the state of Party Finder just before the week-end. Enjoy your combo'ing!
+changelog = """
+**Tintable Starter Actions**
+You can now recolor starter actions of combos which share a starter action with another combo in order to visually distinguish them.
+This feature is enabled by default, but you need to set it up for it to have any effect. 
+
+-# Huge thanks to Square Enix for inspiring me this idea through their implementation of this concept with Monk's Forbidden Meditation and Steeled Meditation. Now who's the copycat, huh?!
 		"""

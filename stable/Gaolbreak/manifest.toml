@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/sourpuh/ffxiv_gaolbreak.git"
+commit = "d73a801b0130d1a62e66c82400213deefb858def"
+owners = ["sourpuh"]
+project_path = "Gaolbreak"
+changelog = """\
+**Initial Main Repo Stable Release**
+- Layer game windows with plugin windows
+- Allow 3D overlay plugins to draw under the game's UI
+- Prevent ReShade or other graphics effects from affecting the UI
+**New Since Testing**
+- Drag-and-drop ImGui window reordering in the Gaolbreak config
+- Pin plugin windows above or below the game's UI (drag to intended position first)
+- If you want to pin a window to a specific addon, follow https://github.com/sourpuh/ffxiv_gaolbreak#pins
+- More pin improvements coming soon
+"""

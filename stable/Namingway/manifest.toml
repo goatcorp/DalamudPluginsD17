@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/Namingway.git'
-commit = '4b457401f9d092dd0f79c342c33f3259ce1011d0'
+commit = 'dd8c4303ca943accc3b42e6b430f99a303223398'
 owners = [ 'anna-is-cute', 'MKhayle' ]
-changelog = """-# API 15 update"""
+changelog = """-# Tentative bugfix for the Status Replacement crash some users were facing under specific conditions."""
