@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/brosesarered/Drawers.git"
-commit = "3077d5c3e5bf6fe47c1b59c6d99f9485928f221f"
+commit = "5a2421af89bcb99e4840240f5263c4ef3751a513"
 owners = ["brosesarered"]
 project_path = "Drawers"
-changelog = "Fixed auto mode so it doesn't flash the weapon. Tiny other improvements. Fixed detour."
+changelog = "Fixed being unable to dismount."
