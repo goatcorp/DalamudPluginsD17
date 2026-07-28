@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "d9c40bd646698e118db6d867cda9fb40a52ede6b"
+commit = "fc42309343b4797d302432c6b83f2ec2415e31f4"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "added distance view and sort option, huge thanks to jade-doggerel on github for this <3"
+changelog = "added sound alert for new fate spawns, updated occult aetheryte with north horn"
