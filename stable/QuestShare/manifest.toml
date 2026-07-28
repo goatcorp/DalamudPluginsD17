@@ -2,5 +2,5 @@
 repository = "https://github.com/Era-FFXIV/QuestShare.Plugin.git"
 owners = ["nathanctech"]
 project_path = "QuestShare.Plugin"
-commit = "fe6535e3e1ed09f719a2c53f26e0599bf1e7240f"
-version = "1.1.1.0"
+commit = "cbc24feacabd4841ea5d5c3437d6b4ef79552dee"
+version = "1.2.15.0"

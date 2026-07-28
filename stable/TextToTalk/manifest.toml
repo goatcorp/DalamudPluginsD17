@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "ff2f413dbcf92d1bc28fd44669fbf14993816211"
+commit = "e12e70072ab6f6f42d36838d06dffb1009a0c6ad"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Updated for 7.4 (thanks Ania!).
+- **General**: Adjusted default (fresh install) settings for quicker new-user onboarding (thanks `@barrcodes`!).
+- **Megaphone**: Added [Megaphone](<https://github.com/barrcodes/xiv-megaphone>) TTS backend (thanks `@barrcodes`!).
+- **WebSocket**: Added voice volume to WebSocket backend messages (thanks `@barrcodes`!).
+- **WebSocket**: Added speaker gender to WebSocket backend messages (thanks `@mrexodia`!).
 """

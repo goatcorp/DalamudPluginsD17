@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Haplo064/PixelPerfect.git"
-commit = "ce246d2440133b624bf1129367e342fa19c28a78"
+commit = "162c07cf7bc493bfe4be140e3b3f16920bd7e81c"
 owners = ["Haplo064"]
 
-changelog = "7.4"
+changelog = "7.5ish. Added Nuclear launch codes."

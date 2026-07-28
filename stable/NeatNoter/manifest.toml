@@ -2,19 +2,16 @@
 repository = "https://github.com/shadowkras/NeatNoter.git"
 owners = [ "shadowkras" ]
 project_path = "src/NeatNoter"
-commit = "b30736fb0f336a774d6ff567232f2e9d22caf6fc"
+commit = "5066ef8fba3474284757a378713eeb4aafbb14af"
 changelog = """
-# NeatNoter 2.7.4
-
-## Bugfixes
-
-- Fixed the index window transparency being affected by other plugins by accident.
-- Re-enabled the editor context menu when right clicking the note, instead of being stuck on the word counter.
-- Fixed the "Remove as note overlay" context menu item not showing up on the current active note that was set as note overlay.
+# NeatNoter 2.7.6
 
 ## Features
 
-- Added a setting to change the default transparency on the note index. This should give users more control of the index appearance.
+- Updated to patch 7.5.
+- Updated to Dalamud sdk 15.
+- Added background color and transparency option to the overlay window. Fixed the note edit UI to scale properly with dalamud setting to change UI scaling.
+- Updated the plugin icon.
 
 If any bug if found, please report at: https://github.com/shadowkras/NeatNoter/issues/
 """

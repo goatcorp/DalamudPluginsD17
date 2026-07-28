@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "525a315e143ef9314906ee47e4bb7414ae2e223a"
+commit = "9fe07040a90c005cb448b3ab57f3f406dc0bc971"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Adds support for configuring the audio output device (thanks Flabber Babble!)
+- **WebSocket**: Added speaker gender to WebSocket backend messages (thanks `@mrexodia`!).
 """

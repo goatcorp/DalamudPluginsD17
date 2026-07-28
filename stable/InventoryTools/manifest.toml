@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "9533ae4f2c33ce2ed3767283e8dff3668027ee7d"
+commit = "5a330094a2cbe4af62016353fc515595b60c4f4d"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.0"
-changelog = "### Added\n- Support for 7.4\n- Initial data for 7.4\n- Pilgrims Traverse loot is now available as a source\n### Changed\n- The mob tracker was reworked to use the games object table"
+version = "1.15.0.9"
+changelog = "### Added\n- Added \"Support Dump\" feature, making it easier for plugin users to provide their logs + config\n- Added a new \"Add From Game\" menu to the Crafts list replacing the \"Add Company Crafts\" button. This currently supports the Company Craft parts menu and the Grand Company Supply/Provision windows.\n### Fixed\n- Fixed a exception being thrown in the crafts window when certain items are added\n### Changed\n- Lumina Supplemental data update"

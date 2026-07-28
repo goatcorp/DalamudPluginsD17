@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/iri-impulse/PhotoboothPlugin.git"
+commit = "fc063100b5687dadea9422d4d15e672fc374c428"
+owners = ["iri-impulse"]
+project_path = "Photobooth"
+changelog = """\
+1.0.2:
+- Fix to left-dragging
+
+1.0.1:
+- Update for patch 7.5
+- Fix diagram title flicker when right-dragging
+"""

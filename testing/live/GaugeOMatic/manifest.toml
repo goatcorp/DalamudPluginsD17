@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "36a38778ae3d9db4aea7e29db2d2295504433ba2"
+commit = "f5a1c1bfe5b1b5576843de7543243ace159aeaad"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Added separate tracker options for GNB's cartridges. This allows the new bonus cartridges to be displayed separately from the base 3, and hidden while unavailable.
-- Thread safety band-aids (should not cause crashes on DC anymore)
+- Updated for 7.5 / API 15
+- Corrected Ley Lines status effect duration
+- Made BLU module visibly accessible. It was accidentally accessible before (whoops), but now the button is there. Includes BLU-specific Actions but not Status Effects.
 """

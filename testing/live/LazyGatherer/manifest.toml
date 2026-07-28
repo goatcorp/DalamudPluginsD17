@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "91dbf49e56182781ba818f1a45cd94ab20b356db"
+commit = "69e50a2b8804464a6473e1d6236fb6655fd7a4b0"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.3.2: 
- - API 14
- - Fix text color on dropdowns
+Version 1.4.4: 
+ - Improve stability
 """

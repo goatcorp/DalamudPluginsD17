@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/AcquisitionDate.git"
-commit = "50504d31782dc851f1b35bb9109eeadeb011dfac"
+commit = "81e0e3f56a29af6503980765764454095a7dcb62"
 owners = ["Glyceri",]
 	changelog = """
- [1.1.0.0]
-- Updated for API14
+[1.2.1.1]
+Fixes achievements not capturing properly.
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/UnknownX7/QoLBar.git"
-commit = "bd6f3c052c0f1fdabc9987804141ecfe065f2dc6"
+commit = "eb1da5f93f56cd2ff43316fdb96cc3712abec519"
 owners = [ "UnknownX7" ]
 changelog = '''
-- Moved icons to the correct tabs in the icon browser'''
+- Fixed CS change'''

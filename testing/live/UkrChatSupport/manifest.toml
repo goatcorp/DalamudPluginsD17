@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/richtertarnished/ukr_chat.git"
+commit = "de92d8f88410c7908b23b53714ed17e382282341"
+owners = ["richtertarnished"]
+project_path = "UkrChatSupport"
+changelog = """
+- Added support for Dalamud API 15.
+"""

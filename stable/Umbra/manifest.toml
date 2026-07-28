@@ -1,25 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "52043e45a6fff74945930be83ee2a85c37f6be69"
-owners = [
-    "haroldiedema",
-    "alexpado",
-    "Bloodsoul"
-]
+commit = "4d0527e18b4c24dfa4a7f7b9d386c91e5d31c3fe"
+owners = [ "haroldiedema" ]
+maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.10
+# Umbra 3.1.17
 
 ## Fixes & Improvements
 
-- Tidied up some code & updated drawing library (By [Haselnussbomber](https://github.com/Haselnussbomber)).
-- Updated Umbra for compatibility with Dalamud API 14 (By [wolfcomp](https://github.com/wolfcomp)).
-- Dynamic Menu: Hide 'Move to Top' and 'Move to Bottom' context menu entries for 'Add Item' entry (By [alexpado](https://github.com/alexpado)).
-- Some small fixes for 7.4.
-
-## Known Problems
-
-- Msq Widget: The progress bar currently only counts overall progression. This is due to invalid data being retrieved.
+- Re-add color hex input to the color picker for easy copy and paste (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Custom Deliveries: Add teleport for Tiisol Ja (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Gearset Switcher: Add right click shortcut to open the character window (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Teleport: Add option to show the teleport ticket count on the widget (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Teleport: Add a small padding to condensed menu popup scroll list for a slightly better readability at the last entry (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 

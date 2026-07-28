@@ -1,5 +1,4 @@
 [plugin]
-repository = 'https://github.com/rreminy/QuestMap.git'
-commit = '4c67b202d3126c3de58592df467c3dbff435e2d4'
-owners = [ 'anna-is-cute', 'rreminy' ]
-changelog = 'Dalamud API 14 Update'
+repository = 'https://github.com/GemPlugins/QuestMap.git'
+commit = '5f1010511b79ec076c0f572537b245d3e67c87fa'
+owners = ['rreminy']

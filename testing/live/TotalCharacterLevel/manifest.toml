@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Anqied/ffxiv-level-plugin.git"
+commit = "8938feca1a44997dbb69f88fbc2770ee9129126d"
+owners = ["Anqied"]
+project_path = "TotalCharacterLevel"
+
+changelog = "New plugin"

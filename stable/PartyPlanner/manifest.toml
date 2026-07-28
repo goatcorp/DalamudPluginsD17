@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/ZhyraPlugins/PartyPlanner.git"
-commit = "d261e467397368f9d7e2876d647e0aee56547008"
+commit = "6b15d63bc0dba298958465460ca3dbf36b775bff"
 owners = ["edg-l"]
 project_path = "PartyPlanner"
-changelog = """- Updated to API 13.
+changelog = """
+- Updated for Dalamud API 15
 """

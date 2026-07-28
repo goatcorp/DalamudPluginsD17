@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/powellad/Toastingway.git"
-commit = "5b386ea30a7f8f0efd80987d1c78c309409c677e"
+commit = "0b7f4788aa00e5db68e374233c784e87ddd48171"
 owners = ["powellad"]
 project_path = "ToastingwayPlugin"
-version = "1.2.0.2"
+version = "1.4.0.1"
 changelog = """
-Update to Dalamud API 12 and .NET 9.
+Fix for restoring saved configuration.
 """

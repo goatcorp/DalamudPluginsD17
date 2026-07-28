@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/PingPlugin.git"
-commit = "fa48cf5618c95fd4d2295d7d8a20efa2d5566915"
+commit = "b3d60aa91a691405d10679297e47afe6dc18efba"
 owners = ["karashiiro"]
 changelog = """\
-- Updated for 7.4 (thanks BoxuChan!)
+- Fixed Wine detection mechanism.
+- Locked ping tracker to Win32 (`Iphlpapi`) when running under Wine for compatibility.
 """

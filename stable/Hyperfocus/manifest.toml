@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Exter-N/Hyperfocus.git"
-commit = "358885ec280bdb0d1779c631575ec48171681c0b"
+commit = "8ccc4862c389d4b135a81e8e97ba983bafcec6f4"
 owners = ["Exter-N"]
 project_path = "Hyperfocus"
-changelog = "Update for D14, force-hide when in cutscene or when game UI is hidden"
+changelog = "Update for Dalamud 15"

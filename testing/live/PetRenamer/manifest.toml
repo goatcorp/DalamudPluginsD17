@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "95e78bf9a851d3423478f6884e27142324135b33"
+commit = "bd0caa972fa100e3fcdaf5bc805f3d9fd2164f2e"
 owners = ["Glyceri",]
 	changelog = """
-[2.7.0.0]
-+ Prepares Pet Nicknames for the inevitable addition of Beast Master and other Pet Jobs in the future. 
-
-(Please note that you cannot share your nicknames with people that are NOT on this version ç_ç.)
-(Normally I push these kinds of updates during forced downtimes, but I couldn't manage that this time around. Sorry..)
+[2.10.0.1]
+Fixes a longstanding issue where the party list members would not allign properly.
 """
 

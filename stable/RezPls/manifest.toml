@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Ottermandias/RezPls.git"
-commit = "4f9004b1a724cf0be268e965a0c260643e55edeb"
+commit = "b4efe564b808701968fe8376ba51a78d2dc979b9"
 owners = [
     "Ottermandias",
 ]

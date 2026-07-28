@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/electr0sheep/ItemVendorLocation.git"
-commit = "f87fc997840f8b083e2554756294a2a1e2545fa8"
+commit = "ee5417a7e3645e322d53e6ae84584c2897c607b3"
 owners = [
     "electr0sheep",
     "Nukoooo",
 ]
 project_path = "ItemVendorLocation"
 changelog = """
-- Patch 7.4 update (Dalamud 14)
+- Fix ChatLog context menu
 """
-version = "2.12.0.0"
+version = "2.14.0.1"

@@ -1,6 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "b4713889b4a717464963769fa37348a5111bfb2d"
+commit = "e4a713a37897ffe316bf7a05cdf42392df444f46"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Update to 7.4 - Spoilers disabled by default - Check settings to enable!"
+changelog = "Translation framework added! Many other fixes for voicelines as well."

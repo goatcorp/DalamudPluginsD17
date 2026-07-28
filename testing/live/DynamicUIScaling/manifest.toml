@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/HybridEidolon/eid-ffxiv-plugins.git"
-commit = "ebfada607236854d3a80ba8ed61c9c610d084069"
+commit = "a2fe8b568beefd6e02491416f64755f8278042e7"
 owners = ["HybridEidolon"]
 project_path = "DynamicUIScaling"
 changelog = """\
-Updated to API 14.
+Updated to API 15.
 """

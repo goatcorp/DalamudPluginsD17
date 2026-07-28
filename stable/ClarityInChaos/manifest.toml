@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "e53650d9c658e2c6fee3f0991218d0476cb20588"
+commit = "5d0618b871dfa7f5209c56fd00bd57c6cb1e012a"
 owners = ["meoiswa"]
 project_path = "ClarityInChaos"
 changelog = """
-Version 2.5.0.0:
- - Added support for setting Title visibility in nameplates for Own, Party, Alliance, Others, and Friends. Contrib. by Valiice
- - Updated to API14
+Version 2.5.1.1:
+ - New Icon by SnoodleWolfieB
+ - Updated to API15
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "48f8172dd161fc524079f54bf76836437b151d08"
+commit = "91ddb68d1ce64dec30d61ac647668649b71c5a51"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add missing Hildibrand from 7.35
+- **Code**: Moving reward drawing and tooltip to own helper file and refacto. Fix some rewards tooltips having multiple characters and weirds icons
 """

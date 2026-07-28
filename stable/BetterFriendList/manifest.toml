@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "b3a43fc7f4cddf2d92cd75f11af31cbee7bbe135"
+commit = "7c51bfb633ff10762a77758e33ddf75fb4d420cd"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-1.0.2.5
-API 14
+v2.1.4.1:
+- make sorting a little beter
 """
