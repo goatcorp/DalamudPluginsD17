@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Valiice/JobAutoSwitcher.git"
-commit = "0ce628b135896c133fc5ee30eeeee93381b6972b"
+commit = "ccf73c9db2c4b5c4f694d33624ebbea51880cbfe"
 owners = ["Valiice"]
 project_path = "JobAutoSwitcher"
-changelog = "Switches gearsets to match the queued job when clicking commence.\n Initial Release"
+changelog = "Update for Dalamud API15 / patch 7.5"

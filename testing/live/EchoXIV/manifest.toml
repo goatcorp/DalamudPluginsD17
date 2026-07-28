@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/ssalazar217/EchoXIV.git"
+project_path = "EchoXIV"
+commit = "a9fb7ae00517c3e1414be14a2896e35dfb98ddeb"
+owners = ["ssalazar217"]
+changelog = """
+v1.0.0.0:
+- Initial release of EchoXIV.
+- Bidirectional chat translation using Google Translate and Papago with automatic failover.
+- Translate outgoing messages with `/tl <message>` in any supported chat channel.
+- Automatic incoming message translation displayed in an integrated Dalamud window.
+- Localized UI supporting 10+ languages (en, es, fr, de, ja, it, ko, no, ru, zh-Hans, zh-Hant).
+- No API key required.
+"""

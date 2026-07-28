@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/SamuelSapp/FastWaymarksPlugin.git"
-commit = "b9eb8bc3ee20ec35933edc362f8453ba6365dae5"
+commit = "b0cc37fd1c839df73df43d7f2ccca408a795165c"
 owners = ["SamuelSapp"]
 project_path = "FastWaymarksPlugin"
 changelog = """
-Updated for 7.4 (api14).
-Adjustment to improve waymark placement consistency.
+Updated for 7.5 (api15).
+Enabled use in Field Operations.
 """

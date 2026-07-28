@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-WaveWrangler.git"
-commit = "5d02bbb8004b0c3ee67307a36d9f06d956c90f8c"
+commit = "73c4fe25b447f7fd0d36a2b611f7e87acc7a1588"
 owners = ["mashirochan"]
 project_path = "WaveWrangler"
-changelog = "Allow message after wave"
+changelog = "Update to API 15"

@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/GemPlugins/IHateCapsLock.git"
-commit = "d74bae79a4547eb64562de14b8626e454f5edea3"
+commit = "3e1a0a1e22617612824934dc22078e38979c02c4"
 project_path = "IHateCapsLock"
 owners = ["rreminy"]

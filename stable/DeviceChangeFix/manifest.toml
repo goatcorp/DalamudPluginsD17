@@ -1,6 +1,9 @@
 [plugin]
-repository = "https://github.com/MKhayle/DeviceChangeFix.git"
-commit = "94ce5b8e364435243d184697e8f468081f15e642"
+repository = "https://github.com/nopjmp/DeviceChangeFix.git"
+commit = "e3e826b9faa97355473b97ef4031faeb94f1e35f"
 owners = ["Jessidhia", "MKhayle", "nopjmp"]
 project_path = "DeviceChangeFix"
-changelog = "-# API 14 update"
+changelog = """\
+# 3.1.1.1
+- Fix Playstation controller detection.
+"""

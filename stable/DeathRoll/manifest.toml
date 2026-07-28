@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/caitlyn-gg/DeathRoll.git"
-commit = "8ba9e8cd3901f930d091450a73e71268ae767664"
+commit = "aa722f9324ae2c8c747d7ec1b6a988e55bffa103"
 owners = [
     "caitlyn-gg",
 ]

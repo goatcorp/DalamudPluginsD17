@@ -1,0 +1,7 @@
+# testing/live/AetherBlackbox/manifest.toml
+[plugin]
+repository = "https://github.com/rail2025/AetherBlackbox.git"
+commit = "812aa7be0ebedcef0a1caba2c86aed6ad9c06eb0" 
+owners = ["rail2025"]
+# project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
+changelog = "public release - AetherBlackbox=DeathRecap + AetherDraw. Visual replay before death.\nv7.50.2.5: o8s maps for UMAD, boss hp% display fix"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "b8ca9bf7713df6823b9fa5a0d18b8f8da5b1b58e"
+commit = "5cff406fe215a034c09bdecc81362f5d35631c85"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Added A Merchant's Tale, and fixed a couple of edge-case null-reference bugs."
+changelog = "Fixed a handful of bugged checks, improved UX in a few places, and fixed an error when you had extra checks for dungeons you'd disabled."

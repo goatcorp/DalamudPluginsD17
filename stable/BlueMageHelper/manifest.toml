@@ -1,11 +1,7 @@
 [plugin]
 repository = "https://github.com/harbingerftw/BlueMageHelper.git"
-commit = "dc3595bcb66be561c8eb06ffa03842a770867cd9"
+commit = "27249f36849d3b81bcc2651fcd99fde1125d3940"
 owners = [
     "harbingerftw",
 ]
 project_path = "BlueMageHelper"
-changelog = """
-- API 14
-- Fix for updated dungeons
-"""

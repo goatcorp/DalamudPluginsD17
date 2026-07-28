@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/GemPlugins/RezoPlugin.git"
-commit = "2f8b478bc417e356e4fdb945c1f8c133d024f5e0"
+commit = "4b487f1f08356b03c4c4aaf155c99260c4aa7f5c"
 project_path = "RezoPlugin"
 owners = ["rreminy"]

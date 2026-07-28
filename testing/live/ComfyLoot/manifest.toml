@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/j0giwa/ComfyLoot.git"
-commit = "183d1dacecb6765aada164a01e4676b2c79779b9"
+commit = "68b6380ce38d74ef17833e17bd25a9eedb625cbb"
 owners = ["j0giwa"]
 project_path = "."
 changelog = """
-v1.0.1
-- API14
-- Traded loot is now propperly recognized
+v1.0.3
+- Updated to work with game version 7.5
+- API 15
+- Fixed issue where certain zones are shown as "???" on the filter tab
 """

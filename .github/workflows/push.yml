@@ -102,7 +102,7 @@ jobs:
         git commit -m "Update distribute (${{ github.sha }})"
         
     - name: Push plugin dist
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@4cc74773234f74829a8c21bc4d69dd4be9cfa599 #v1.1.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         directory: output

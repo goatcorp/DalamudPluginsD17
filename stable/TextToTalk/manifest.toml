@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "bb4e697febaf8881c7e072af1a0b02f1bd27ac4c"
+commit = "e12e70072ab6f6f42d36838d06dffb1009a0c6ad"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **ElevenLabs**: Fixed ArgumentOutOfRangeException when no models are available.
+- **General**: Adjusted default (fresh install) settings for quicker new-user onboarding (thanks `@barrcodes`!).
+- **Megaphone**: Added [Megaphone](<https://github.com/barrcodes/xiv-megaphone>) TTS backend (thanks `@barrcodes`!).
+- **WebSocket**: Added voice volume to WebSocket backend messages (thanks `@barrcodes`!).
+- **WebSocket**: Added speaker gender to WebSocket backend messages (thanks `@mrexodia`!).
 """

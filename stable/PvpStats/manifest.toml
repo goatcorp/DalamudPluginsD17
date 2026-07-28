@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "5369a7a4fd7d84c117ee0f1f40b553daf5c8b86d"
-owners = ["wrath16"]
+commit = "30ac63fa3785aedd975ef6fdab8da442e149eb4b"
+owners = ["wrath16", "rennalol"]
 project_path = "PvpStats"
 changelog = """
-* Add 7.4 and 7.5 time filter options.
+* Enables action analytics tracking for Crystalline Conflict.
+* Added disk space saving configuration options.
 """
