@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "e75425af3cdf9d1eaa5290f4b9ad03757af245d3"
+repository = "https://github.com/mashirochan/FFXIV-BatteryBuddy.git"
+commit = "240e32309a0a4833d5366155b6e91e66e9794972"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Update to API 15"
+changelog = "Massive v2.0 overhaul into Battery Buddy! Logitech device support!"
