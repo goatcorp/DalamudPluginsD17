@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "bb10567177ddb0922a01439875a5b24673a1c913"
+commit = "6a9ed1fde2a1ffc858a6d16d39dd507c2549dde9"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
 - **General**: Add some tracking that were only when opening the window to every minutes
 - **Currencies**: Occult crescent currencies
-- **Collection**: Add 7.55 facewears.
+- **Collection**: 
+   - Add 7.55 facewears. 
+   - Add three main tabs to unclutter
 - **Jobs**: Add phantom jobs tracking and displaying
 - **Progress**: Add Yo-Kai event and rewards (minions) 
   - 
