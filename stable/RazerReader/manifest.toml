@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-BatteryBuddy.git"
-commit = "240e32309a0a4833d5366155b6e91e66e9794972"
+commit = "fcfc99fbf87d8d72d3c38f0dabc3fcc2f2f8344c"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Massive v2.0 overhaul into Battery Buddy! Logitech device support!"
+changelog = "Hide main window when no devices are enabled/connected"
