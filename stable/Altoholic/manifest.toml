@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "c8e9b2ae6c77b874213b6487e7b7a6cf702e7457"
+commit = "bb10567177ddb0922a01439875a5b24673a1c913"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix reset window command
-- **Progress**: Fix Dwarven emote reward Lali-ho to Lali-hop
+- **General**: Add some tracking that were only when opening the window to every minutes
+- **Currencies**: Occult crescent currencies
+- **Collection**: Add 7.55 facewears.
+- **Jobs**: Add phantom jobs tracking and displaying
+- **Progress**: Add Yo-Kai event and rewards (minions) 
+  - 
 """
