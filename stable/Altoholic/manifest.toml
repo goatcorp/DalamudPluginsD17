@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "7504737d85ae6e149ffe69624467d0c68b7c649c"
+commit = "c5251340735182db446a2c266b48d76ff40b20bf"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**:
-  - Hildibrant: Add 7.55 quest
-  - Reputation: Add better handling for allied rank and display full ranked not allied status
+- **Classes/Jobs**:
+  - General: Add Beastmaster
+  - All view: Replace full text table with a job icon list table and corresponding characters levels for better reading
+  - Character details: Fix the following classes check : Gladiator, Rogue, Conjurer that wouldn't display their job counterpart when level was above 30
 """
