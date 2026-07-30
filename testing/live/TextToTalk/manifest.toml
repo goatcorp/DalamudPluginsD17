@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "9fe07040a90c005cb448b3ab57f3f406dc0bc971"
+commit = "aeadfa9beed2cf64944d58d69ffce92f67bf2b29"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Added speaker gender to WebSocket backend messages (thanks `@mrexodia`!).
+- **Fish Audio**: Added [Fish Audio](<https://fish.audio>) TTS backend with support for voice styles.
 """
