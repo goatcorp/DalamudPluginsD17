@@ -1,7 +1,7 @@
 # stable/BeastieBuddy/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/BeastieBuddy.git"
-commit = "973b42a079d0081979fc0ab9d11aca71b9b4f952" 
+commit = "65cc92db1d54ee9af5e1eb5a313295b3ffadc767" 
 owners = ["rail2025"]
 # project_path = "BeastieBuddy" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.51.2.1:bestiary v2 layout options, info from eu fanfest/pll \nv7.51.2.0: bestiary layout options, feedback on github for preference. \nv7.51.1.0: beastmaster placeholder bestiary added, will auto update post patch, restart plugin/client to fetch latest version"
+changelog = "v7.55.0.0: Search fixes\nv7.51.2.1:bestiary v2 layout options, info from eu fanfest/pll"
