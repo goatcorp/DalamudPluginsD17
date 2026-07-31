@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/pupwife/DispellerPlugin.git"
+commit = "3f3eb599ac71f81666a735bb3988a1fbc54d97ae"
+owners = ["pupwife"]
+changelog = "API14 and bugfixes"

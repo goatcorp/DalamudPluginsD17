@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/sleeds2/jobroulette.git"
+commit = "8c943ea24c5ee6b3c1e5413f0759edb368f1441d"
+owners = ["sleeds2"]
+maintainers = ["mchudoba"]
+project_path = "JobRoulettePlugin"
+changelog = """\
+**Update**: Added an option to change notification locations to Chat, Toast, or Chat and Toast.
+"""

@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "59c6cff7c22f44849a45a22e6a87ffe3f51b35a7"
-changelog = "General: Updated for 7.3"
+commit = "4f31b113692bf41fefcd8fdddf5709b48f4e7fae"
+changelog = """
+General: Updated for 7.5
+    System: Internal changes to facilitate faster updates in the future"""

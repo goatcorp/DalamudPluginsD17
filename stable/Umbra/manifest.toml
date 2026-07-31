@@ -1,15 +1,19 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "dde60dda6ff8b1dd9ec8563b156672d27503f566"
-owners = ["haroldiedema"]
+commit = "4d0527e18b4c24dfa4a7f7b9d386c91e5d31c3fe"
+owners = [ "haroldiedema" ]
+maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.6
+# Umbra 3.1.17
 
 ## Fixes & Improvements
 
-- Fixed an issue where Umbra might crash if you never used the Toolbar Profiles feature before. (By [alexpado](https://github.com/alexpado)).
-- Fixed an issue where Auxiliary bars would remain visible when they shouldn't be. (By [alexpado](https://github.com/alexpado)).
+- Re-add color hex input to the color picker for easy copy and paste (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Custom Deliveries: Add teleport for Tiisol Ja (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Gearset Switcher: Add right click shortcut to open the character window (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Teleport: Add option to show the teleport ticket count on the widget (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Teleport: Add a small padding to condensed menu popup scroll list for a slightly better readability at the last entry (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 

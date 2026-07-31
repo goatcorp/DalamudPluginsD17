@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://codeberg.org/Linneris/dalamud-snooper.git"
-commit = "08f8c5134187073fa196d0a4d07b77e8a6f304b7"
+commit = "dbd107ebcdb0ba9b67342fbe1788b07751073062"
 owners = ["Maia-Everett"]
 project_path = "Snooper"
-version = "1.4.0.3"
 changelog = """
-Update to Dalamud API 13. Thanks pallascat!
+* Hopefully fixed "System.Collections.Generic.KeyNotFoundException: The given key 'TellOutgoing' was not present in the dictionary.".
+* Slightly enlarged the config window to fit all controls.
 """

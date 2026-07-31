@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RedMage1993/MimicryHelper.git"
-commit = "7adeba127901aa3def928f75a3823430cef66cb0"
+commit = "9bfebe7a13988deefef587cbdbe7757273eff31c"
 owners = ["RedMage1993"]
 project_path = "MimicryHelper"
-changelog = "Rebuilt for patch 7.3"
+changelog = "Rebuilt for patch 7.5"

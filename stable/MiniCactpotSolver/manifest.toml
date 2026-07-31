@@ -1,6 +1,9 @@
 [plugin]
-repository = "https://github.com/MidoriKami/MiniCactpotSolver.git"
-owners = ["daemitus", "MidoriKami", "nathanctech"]
+repository = "https://github.com/Etheirys/EzMiniCactpot.git"
+owners = ["daemitus", "Minmoose", "MidoriKami", "nathanctech"]
 project_path = "MiniCactpotSolver"
-commit = "761b4e227139f9bf98ff38df8bf6a8cd77f0e1c9"
-version = "3.0.0.2"
+commit = "6b9dd8dc48bb766d140df9686b37214f535e5fa4"
+version = "4.0.1.0"
+changelog = """
+- Update to API 15
+"""

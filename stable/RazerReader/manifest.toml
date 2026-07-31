@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "cbc31bcdf20df08bcf25676a4715a8f48c29cb0e"
+repository = "https://github.com/mashirochan/FFXIV-BatteryBuddy.git"
+commit = "fcfc99fbf87d8d72d3c38f0dabc3fcc2f2f8344c"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Remove extra % in battery indicator"
+changelog = "Hide main window when no devices are enabled/connected"

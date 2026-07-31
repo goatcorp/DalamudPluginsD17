@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "1e18c04e2f0aca6ccf8d25ab46eb6a607daf1144"
-owners = ["wrath16"]
+commit = "3ad7cb2060069dc369f2b80327c30947e8799c7e"
+owners = ["wrath16", "rennalol"]
 project_path = "PvpStats"
 changelog = """
-* Fixed plugin failing to unload.
+* Added Crystalline Conflict Season 21 filter option.
 """

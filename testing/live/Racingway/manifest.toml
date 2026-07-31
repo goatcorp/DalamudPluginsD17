@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/Abyeon/Racingway.git"
-commit = "9a274b2722120f6d2c86386cd0dcab2dfbd705f3"
+commit = "0a995c8d5a2c385e154ffa13cf0941862aa7b23b"
 owners = ["Abyeon"]
 project_path = "Racingway"
-changelog = """
-v0.1.1.4 [TESTING]
-- Stop putting player payloads in the chat for the local player.
-"""
+changelog = ""
 
 
 

@@ -1,10 +1,12 @@
 [plugin]
 repository = "https://github.com/sourpuh/WaymarkPresetPlugin.git"
-commit = "d6b92a44a506dbc670cc38fa8e52df7db5dfe232"
+commit = "6219d87cb3ceb425efd90351191978aa9d64b87e"
 owners = [
-    "PunishedPineapple",
-    "abashby",
-    "Infiziert90",
     "sourpuh",
 ]
 project_path = "WaymarkPresetPlugin"
+changelog = """
+* API 15
+* Support for field operations
+* Update the 'Save Current Waymarks' button to be disabled when it shouldn't work
+"""

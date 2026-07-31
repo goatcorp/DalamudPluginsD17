@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/RulHolos/Mount-Binder.git"
+commit = "9a3dd63ee4aadc6bd5c681817db88f9cbe3a8c09"
+owners = ["RulHolos"]
+project_path = "MountBinder"
+changelog = """
+- Initial release
+"""

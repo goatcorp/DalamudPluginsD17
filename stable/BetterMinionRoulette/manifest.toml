@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/CMDRNuffin/BetterMinionRoulette.git"
+commit = "976bf9abfb2155fe6405d5b6618120cfb3fa8e88"
+version = "1.0.1"
+owners = ["CMDRNuffin"]
+project_path = "BetterMinionRoulette"
+changelog = '''
+Update for 7.5'''

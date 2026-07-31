@@ -1,5 +1,5 @@
 [plugin]
 repository = 'https://github.com/MKhayle/Namingway.git'
-commit = '1543a6f3389c4822d9f5341fb394fac1731f7c89'
+commit = 'dd8c4303ca943accc3b42e6b430f99a303223398'
 owners = [ 'anna-is-cute', 'MKhayle' ]
-changelog = """-# Fixed Statuses not being renamed."""
+changelog = """-# Tentative bugfix for the Status Replacement crash some users were facing under specific conditions."""

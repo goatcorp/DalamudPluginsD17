@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f8d6d8582cbd3adcde4af9bbdb4bba40462f3e0e"
+commit = "91ddb68d1ce64dec30d61ac647668649b71c5a51"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add rising 2025
+- **Code**: Moving reward drawing and tooltip to own helper file and refacto. Fix some rewards tooltips having multiple characters and weirds icons
 """

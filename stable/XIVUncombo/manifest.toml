@@ -1,7 +1,8 @@
 [plugin]
 repository = "https://github.com/MKhayle/XIVUnCombo.git"
-commit = "dbc03c578615f6d8e364f52bd108b0bda61e0ae2"
+commit = "3c058fd4ca86d68e92b999e7da93be2109175532"
 owners = ["MKhayle"]
 project_path = "XIVUnCombo"
 changelog = """
--# API 13 update"""
+-# API 15 update
+-# Yes, I will do my best to support the Evolved & Reborn modes with Uncombo. Go learn your BLU spells now!"""

@@ -1,8 +1,7 @@
 [plugin]
 repository = "https://github.com/CMDRNuffin/BetterMountRoulette.git"
-commit = "98d2574d20a873dcc82322156c219af15e447404"
-version = "1.7.3.29"
+commit = "ea8cacd4823653bb8b02e5db5664a836dc0f0e4a"
+version = "1.8.1.32"
 owners = ["CMDRNuffin"]
-changelog = """Update for 7.3
-
-Also adds an option to override mount group size settings for frontline/rival wings."""
+changelog = '''
+Update for 7.5'''

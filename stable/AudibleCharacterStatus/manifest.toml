@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Arrenton/AudibleCharacterStatus.git"
-commit = "d3125f821093ab8defa7f43044ae1901a2e1ce7e"
+commit = "10d463a062998b0d266e9fcbd54258dbee695b20"
 owners = [
     "Arrenton",
 ]
 changelog = """
-Updated to API 12.
+Updated to API 15.
 """

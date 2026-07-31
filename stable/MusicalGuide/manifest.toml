@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/yfthbr/musical-guide.git"
+commit = "d2669ade57918ec604fc93acd44513df88b72d7d"
+owners = ["yfthbr"]
+project_path = "MusicalGuide"

@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/amki/AkuTrack.git"
+commit = "5b9a25f08702129adf248f295773e66c0c9f0ecd"
+owners = ["amki", "Akurosia"]
+project_path = "AkuTrack"
+changelog = """
+- Update to Dalamud API 15
+- Fix loading configuration
+- Optionally center map on player
+- Add optional camera cone
+"""

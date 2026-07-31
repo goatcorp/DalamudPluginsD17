@@ -1,7 +1,6 @@
 ﻿[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "a143a76cb868a513649d65fecc846d6fb00fbc4b"
+commit = "e4a713a37897ffe316bf7a05cdf42392df444f46"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Update to 7.3"
-
+changelog = "Translation framework added! Many other fixes for voicelines as well."

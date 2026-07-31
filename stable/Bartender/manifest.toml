@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/RulHolos/Bartender.git"
-commit = "9bd377569c8e61be111bfba33960c325cea06a28"
+commit = "1c02032c3581c0ef33770594bbfe7ee1c52010c4"
 owners = ["RulHolos"]
 project_path = "Bartender"
 changelog = """
-- Changed "PopulateWhenCreatingProfile" config to true by default.
-- Fixed the profile deletion not targetting the chosen one.
-- Fixed the UI breaking when the profile list is empty.
+- Pet condition fixed
 """

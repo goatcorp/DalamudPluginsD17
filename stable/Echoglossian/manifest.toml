@@ -1,7 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "4fc8d541dbb52cacb5c5bdc6b22aa68ca0481bbc"
-owners = [
-    "lokinmodar",
-]
-changelog = "v3.23.x \n fixes:\n - Fixes a YandexPublicTranslator missing call."
+commit = "f0b4dec9265b5cf350464974329d4dae4fbc1dd8"
+owners = ["lokinmodar"]
+changelog = "v4.2601.0718.2006 \n OpenRouter live-model refresh and preview-infrastructure follow-up:\n - fix Fetch Live Models when the configured base URL already includes /v1\n - refresh hosted preview validation infrastructure without shipping vendor-only assets"

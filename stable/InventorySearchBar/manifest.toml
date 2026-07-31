@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/Tischel/InventorySearchBar.git"
-commit = "1c9fe2df10c680ea12264dc9ba862dc318f5f33d"
-owners = ["Tischel"]
+repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
+commit = "47487f36ed845fc1c4f7cce22a18459168e57564"
+owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
-changelog = "- Added support for Patch 7.3 and Dalamud API 13."
+changelog = "- Speculative fix for a rare crash when exiting the game"

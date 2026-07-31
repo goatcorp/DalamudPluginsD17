@@ -1,12 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "cf0251f4f144102f8a0f9dac176c2b6f33e04791"
+commit = "7c51bfb633ff10762a77758e33ddf75fb4d420cd"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-fix :
-- checking nulls in sorting for colors dict
-add :
-- import colors from simple tweaks chat colors
-- open lodestone page for players
+v2.1.4.1:
+- make sorting a little beter
 """

@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Ennea/VeryImportantItem.git"
+commit = "598ad51958225b980ac98ac3712cb2c2b0b86a0a"
+owners = ["Ennea"]
+project_path = "VeryImportantItem"
+changelog = """
+- Update to API15
+"""

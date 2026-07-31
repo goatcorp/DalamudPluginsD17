@@ -1,0 +1,20 @@
+[plugin]
+repository = "https://github.com/seventity7/MaidenAlert.git"
+commit = "37af1789ec0f1f422282f139c35af640d58430cc"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = """
+## New Update!
+- Replaced the tracker visuals with a new better one
+- Removed the previous custom-drawn tracker icon, panel-style text box, borders and framing
+  - Switched the tracker to use fixed in-game icon
+  - Added a game-icon based arrow indicator for off-screen tracking
+  - Updated the tracker label to use a floating text style
+  - Added pulse/glow effects to the tracker icon and off-screen arrow
+- Updated tracker positioning behavior for on-screen/off-screen
+- New **Tracker scale** option
+  - Added scale handling to the tracker renderer so icon, arrow and text scale accordingly
+
+`Never been so easyer to spot Maidens`
+"""

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Aida-Enna/TeamcraftListMaker.git"
-commit = "13e5b30b116c35cde5c966ea907c5491c49c5467"
+commit = "6e16d3ea4885b01b6a879f54b02732728646fc60"
 owners = ["Aida-Enna"]
 project_path = ""
-changelog = "- Updated for patch 7.3"
+changelog = "- Have it split lists if it exceeds 100 items on export\n- Text bugfix for the above feature"

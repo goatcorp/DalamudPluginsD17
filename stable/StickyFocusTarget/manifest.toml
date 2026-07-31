@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/smileyhead/conditional-focustarget.git"
+commit = "336a3be12612f9325609f96c6ff3f4a55c547151"
+owners = ["smileyhead"]
+project_path = "StickyFocusTarget"
+changelog = """
+Bump Dalamud API to 15.0.0"""

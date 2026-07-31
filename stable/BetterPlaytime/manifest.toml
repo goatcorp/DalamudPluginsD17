@@ -1,7 +1,7 @@
 [plugin]
-repository = "https://github.com/Infiziert90/BetterPlaytime.git"
-commit = "4b0762b99b52247477e1b72e2c3ce5f3f74a213b"
+repository = "https://github.com/caitlyn-gg/BetterPlaytime.git"
+commit = "c4ad098fd1c2a3175e772a9730878e9e2fcf14e7"
 owners = [
-    "Infiziert90",
+    "caitlyn-gg",
 ]
 project_path = "BetterPlaytime"

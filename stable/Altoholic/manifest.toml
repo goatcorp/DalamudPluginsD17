@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Sohtoren/Altoholic.git"
+commit = "c5251340735182db446a2c266b48d76ff40b20bf"
+owners = ["Sohtoren"]
+project_path = "Altoholic"
+changelog = """\
+- **Classes/Jobs**:
+  - General: Add Beastmaster
+  - All view: Replace full text table with a job icon list table and corresponding characters levels for better reading
+  - Character details: Fix the following classes check : Gladiator, Rogue, Conjurer that wouldn't display their job counterpart when level was above 30
+"""

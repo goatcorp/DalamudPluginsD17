@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/RajahOmen/Karaoke.git"
+commit = "35989ca65309e2acd8abe20a83d8957e8c686210"
+owners = ["RajahOmen"]
+project_path = "Karaoke"
+changelog = """\
+**Added**
+ - More lyric fonts
+   - Some should be dyslexic friendly
+ - Import your own font file
+"""

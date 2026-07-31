@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/Saevath/CrystalRadio.git"
+commit = "3a45720177f9971562060fc9883fb45f5f0ff1fc"
+owners = [ "Saevath" ]
+changelog = """
+- Added support for custom stations
+- Fixed plugin volume disabling game volume
+- Added volume gain control and equalizer
+- Bugfixing
+- Updated API Level
+"""
