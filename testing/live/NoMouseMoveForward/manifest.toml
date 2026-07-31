@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/beer-psi/NoMouseMoveForward.git"
-commit = "7238c1ad5a87c3b074f9e8bd2064dcfda6ccbabf"
+commit = "a19f76d03ea4ec5c1751e48f275ce66a546afd3a"
 owners = ["beer-psi"]
 project_path = "NoMouseMoveForward"
