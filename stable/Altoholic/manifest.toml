@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "c5251340735182db446a2c266b48d76ff40b20bf"
+commit = "108b109d9a11878261d231544fa7fe2271b8f776"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Classes/Jobs**:
-  - General: Add Beastmaster
-  - All view: Replace full text table with a job icon list table and corresponding characters levels for better reading
-  - Character details: Fix the following classes check : Gladiator, Rogue, Conjurer that wouldn't display their job counterpart when level was above 30
+- **Inventory**: Add text indicating searched inventories
+- **Progress**:
+  - **All**: Regroup Hildibrant, MSQ and Role Quests under **Quests** tab
+  - New tab: Ishgardian restoration with scrip rewards and 'Fête presents' potential drops
 """
