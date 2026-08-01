@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "108b109d9a11878261d231544fa7fe2271b8f776"
+commit = "6ba03f4fa287cb441e8708e9da1567e0a69a6378"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Inventory**: Add text indicating searched inventories
 - **Progress**:
-  - **All**: Regroup Hildibrant, MSQ and Role Quests under **Quests** tab
-  - New tab: Ishgardian restoration with scrip rewards and 'Fête presents' potential drops
+  - Add Bozja tracking and potential lockboxes drops
+  - Add Eureka elemental level tracking and potential lockboxes drops
+  - **All**: Regroup Cosmic exploration, Bozja, Eureka under **Fields Operation** tab
 """
