@@ -1,19 +1,28 @@
 [plugin]
 repository = "https://github.com/una-xiv/umbra.git"
-commit = "4d0527e18b4c24dfa4a7f7b9d386c91e5d31c3fe"
+commit = "43a2b44fb6249a4a1a0d4994a1e109dd5a1912f7"
 owners = [ "haroldiedema" ]
 maintainers = [ "alexpado", "Bloodsoul" ]
 project_path = "Umbra"
 changelog = """
-# Umbra 3.1.17
+# Umbra 3.1.18
 
 ## Fixes & Improvements
 
-- Re-add color hex input to the color picker for easy copy and paste (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Custom Deliveries: Add teleport for Tiisol Ja (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Gearset Switcher: Add right click shortcut to open the character window (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Teleport: Add option to show the teleport ticket count on the widget (By [Bloodsoul](https://github.com/Bloodsoul)).
-- Teleport: Add a small padding to condensed menu popup scroll list for a slightly better readability at the last entry (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Adds setting "Use windows draw list" to Toolbar Settings. By enabling it, other plugins may draw on top of Umbra Toolbars. This adds support for plugins that manage window layers. e.g. Gaolbreak (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Adds setting to auto-hide Auxiliary Toolbars (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Adds placeholders for Free Company name and tag (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Enables Occult Survey Point Markers for North Horn (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Added support for Fortune Carrot markers in North Horn (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Added support for Pot Coffer markers in North Horn (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Overhauled the Phantom Jobs widget with new display options. Users who prefer the old layout can easily swap back to it in the Widget Settings (By [GayPotatoEmma](https://github.com/GayPotatoEmma)).
+- Fixes Dynamic Menu placeholders not being updated (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixes possible Access Violation while accessing equipments (By [LTS-FFXIV](https://github.com/LTS-FFXIV)).
+- Fixes 24h clock displaying another format depending on operating system settings (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fixes 12h clock displaying leading zero (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Gearset Switcher does now also hide the prefix in the header when configured (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Weather Widget now displays time left for the current weather (By [Bloodsoul](https://github.com/Bloodsoul)).
+- Fix Teleport Widget keeping old housing entries e.g. when world visiting (By [Bloodsoul](https://github.com/Bloodsoul)).
 
 ---
 
