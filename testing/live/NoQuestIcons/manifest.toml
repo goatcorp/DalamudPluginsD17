@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
-commit = "fcb068043af604d12cde3c95dbc79a9abcd87544"
+commit = "9a050da4603417ccd97fabfa8d115170be1d0a69"
 owners = ["GrimmortalDread"]
 changelog = "v1.4.0 - Migrated to Dalamud API 15/.NET 10; replaced reflection-based NamePlate event binding with explicit typed subscriptions, fixing icon flicker"
