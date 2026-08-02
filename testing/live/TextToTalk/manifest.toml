@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "aeadfa9beed2cf64944d58d69ffce92f67bf2b29"
+commit = "e779a41892c4db39936e953619efe51e49fcea6c"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Fish Audio**: Added [Fish Audio](<https://fish.audio>) TTS backend with support for voice styles.
+- **Megaphone**: Internal API changes to support reacting to specific NPC dialogue events.
 """
