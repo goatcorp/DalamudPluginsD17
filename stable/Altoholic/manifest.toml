@@ -1,11 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6ba03f4fa287cb441e8708e9da1567e0a69a6378"
+commit = "bf6aed9096c48512a10e66f7af860b0153cc805d"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**:
-  - Add Bozja tracking and potential lockboxes drops
-  - Add Eureka elemental level tracking and potential lockboxes drops
-  - **All**: Regroup Cosmic exploration, Bozja, Eureka under **Fields Operation** tab
+- **Progress**: Add Yo-Kai weapons to rewards list (tracking from all inventories (character and retainers))
 """
