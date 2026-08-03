@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Haselnussbomber/YokaiCheck.git"
+commit = "f7cbac8ec374d4ed538ad41c4490853e6ccc72db"
+owners = [ "Haselnussbomber" ]
+project_path = "YokaiCheck"
