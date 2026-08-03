@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "d9af708f61324a3d6b631a18a6346c1844774451"
+commit = "1c853343196a741bcc5830205a384f5bd077c274"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
 **Available for testing:**
-- Automatic Crowdsourcing
-  - Now sends a chat message when an upload fails.
-  - Fetches data from an alternative source, with the previous one as a fallback.
+- Minor fixes
 """
