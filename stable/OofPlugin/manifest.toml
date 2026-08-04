@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "33e600c1f850c8ce2cd5a15d290bd7ae4d4ea6a2"
+commit = "d0de073d273c5e000d8dae5d493afca9c8c5074d"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
-- update for api 15
+- The year of the linux desktop is upon us. Linux users of the world unite! You have nothing to lose but your windows-based audio engine. (Oof is now compatible with linux. thank you @DaBultz on github)
 """
