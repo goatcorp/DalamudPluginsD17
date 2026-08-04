@@ -8,4 +8,6 @@ owners = [
 project_path = "OofPlugin"
 changelog = """
 - The year of the linux desktop is upon us. Linux users of the world unite! You have nothing to lose but your windows-based audio engine. (Oof is now compatible with linux. thank you @DaBultz on github)
+- new button to reload audio device when you add/remove an audio device
+- allow for option to have audio overlap each other instead of clipping
 """
