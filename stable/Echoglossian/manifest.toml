@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "f0b4dec9265b5cf350464974329d4dae4fbc1dd8"
+commit = "0aa0b9658f63acfece1e41b7b544fe38cd93c12b"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0718.2006 \n OpenRouter live-model refresh and preview-infrastructure follow-up:\n - fix Fetch Live Models when the configured base URL already includes /v1\n - refresh hosted preview validation infrastructure without shipping vendor-only assets"
+changelog = "v4.2601.0802.2355 \n Native UI translation runtime expansion:\n - restore selection dialogs and add DB-first Tooltip, ContextMenu, and ToDo runtimes\n - expand Journal, ToDoList, ScenarioTree, RecommendList, and AreaMap coverage with safer overlay-only behavior\n - add native nameplates, distance-aware overlays, placement-aware toasts, and focused runtime diagnostics"
