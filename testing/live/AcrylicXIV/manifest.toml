@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MapleRecall/AcrylicXIV.git"
-commit = "bd20d6f7f1de1ff9bf3a9fd754abd80f5fef7f13"
+commit = "df34c9704e3c13507dbfc45fa9b2afc421743c9b"
 owners = ["MapleRecall"]
 project_path = ""
-changelog = "Initial testing release."
+changelog = "Fix a crash when exiting the game."
