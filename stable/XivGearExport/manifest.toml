@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "b06c3dff523ef886b6bb0b346332d72574ce7197"
+commit = "b11566440534e423f0bdaf9f63f8db0112cd5dfd"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Compatibility with 7.5 and Dalamud 15.
+- Added support for Phantom Occultum relic weapons (the ones with selectable stats).
 """
