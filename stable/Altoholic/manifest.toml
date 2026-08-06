@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "bf6aed9096c48512a10e66f7af860b0153cc805d"
+commit = "414ae876d9c1020fb1e49310da3af6faaddf8f22"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Yo-Kai weapons to rewards list (tracking from all inventories (character and retainers))
+- **Progress**: Add Moonfire Faire 2026 with rewards
 """
