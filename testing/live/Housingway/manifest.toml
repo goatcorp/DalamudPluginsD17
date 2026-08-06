@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Abyeon/Housingway.git"
-commit = "7d3d96f10590f1785973e294a7be6347955c862c"
+commit = "528b33369d923ba4665139b95eb82bddd6afc651"
 owners = ["Abyeon"]
 maintainers = ["Abyeon"]
 project_path = "Housingway"
