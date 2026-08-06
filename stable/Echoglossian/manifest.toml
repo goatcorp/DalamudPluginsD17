@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "0aa0b9658f63acfece1e41b7b544fe38cd93c12b"
+commit = "8d776af8223aaff8df1cb250cf983fac70a47536"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0802.2355 \n Native UI translation runtime expansion:\n - restore selection dialogs and add DB-first Tooltip, ContextMenu, and ToDo runtimes\n - expand Journal, ToDoList, ScenarioTree, RecommendList, and AreaMap coverage with safer overlay-only behavior\n - add native nameplates, distance-aware overlays, placement-aware toasts, and focused runtime diagnostics"
+changelog = "v4.2601.0806.0051 \n MiniTalk and detail-overlay stabilization:\n - preserve MiniTalk native bubble sizing in Native and Swap mode\n - make ActionDetail and ItemDetail overlays honor dedicated formatting controls\n - restore friendly localized plugin labels while keeping new detail-overlay strings"
