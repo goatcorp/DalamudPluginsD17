@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Zeffuro/MouseLock.git"
-commit = "64c11925b920e2061132369c086daade24eb6ee4"
+commit = "281806c7ac6d4440b0bb78665ae29d80060fff50"
 owners = ["Zeffuro"]
 project_path = "MouseLock"
