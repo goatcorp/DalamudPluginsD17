@@ -1,11 +1,16 @@
 [plugin]
 repository = "https://github.com/RajahOmen/Karaoke.git"
-commit = "35989ca65309e2acd8abe20a83d8957e8c686210"
+commit = "10cae1806d2098e3cffb79bebec2076a2d3f2912"
 owners = ["RajahOmen"]
 project_path = "Karaoke"
 changelog = """\
+**Fixes**
+- Fixed DTR bar not immediately updating on setting change
+- Fixed some lyrics in the past being displayed when they shouldn't be
+- Fixed some song starts not having a music line inserted
+- Fixed songs with long instrumental sections cause errors with 0-1 ahead lyrics set
 **Added**
- - More lyric fonts
-   - Some should be dyslexic friendly
- - Import your own font file
+- Add an option to have lyrics show up on the DTR bar before they play, with how long in advance being configurable (default 0.75s)
+- Make window not grab focus on appear
+- Slight change to tooltip on DTR entry
 """
