@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "8d776af8223aaff8df1cb250cf983fac70a47536"
+commit = "9a39a2be87c3a376448f2967ccc5225c63b1e69c"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0806.0051 \n MiniTalk and detail-overlay stabilization:\n - preserve MiniTalk native bubble sizing in Native and Swap mode\n - make ActionDetail and ItemDetail overlays honor dedicated formatting controls\n - restore friendly localized plugin labels while keeping new detail-overlay strings"
+changelog = "v4.2601.0807.1730 \n MiniTalk recycled-bubble follow-up:\n - isolate the compact detached height baseline preference to MiniTalk only\n - stop recycled oversized Native and Swap MiniTalk bubbles from stretching later dialogue balloons\n - keep the shared tooltip and toast detached-baseline behavior unchanged"
