@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "5a330094a2cbe4af62016353fc515595b60c4f4d"
+commit = "052739db6b2ff066f1938f3c2e6144ae2e9252dd"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.9"
-changelog = "### Added\n- Added \"Support Dump\" feature, making it easier for plugin users to provide their logs + config\n- Added a new \"Add From Game\" menu to the Crafts list replacing the \"Add Company Crafts\" button. This currently supports the Company Craft parts menu and the Grand Company Supply/Provision windows.\n### Fixed\n- Fixed a exception being thrown in the crafts window when certain items are added\n### Changed\n- Lumina Supplemental data update"
+version = "1.15.0.10"
+changelog = "### Fixed\n- Updated sig for 7.55\n### Changed\n- Lumina Supplemental data update for 7.55"
