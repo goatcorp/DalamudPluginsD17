@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "9a39a2be87c3a376448f2967ccc5225c63b1e69c"
+commit = "07edc833c03ec6019f63b02ca07fc4671dfd6f1a"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0807.1730 \n MiniTalk recycled-bubble follow-up:\n - isolate the compact detached height baseline preference to MiniTalk only\n - stop recycled oversized Native and Swap MiniTalk bubbles from stretching later dialogue balloons\n - keep the shared tooltip and toast detached-baseline behavior unchanged"
+changelog = "v4.2601.0809.0046 \n Plugin UI localization fix:\n - apply the selected plugin culture before resource lookup to prevent silent English fallback\n - preserve locale-specific resources and Catalan/Dutch locale mappings\n - add exact resource lookup regression coverage and localization guardrails"
