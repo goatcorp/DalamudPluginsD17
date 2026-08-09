@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/nnillni/pfexplorer-client.git"
-commit = "c82a857c964ceafd0d68a21f9b888f838fe912bd"
+commit = "43349c7e3f6fcbde7d560d77301e87ea8a6b5404"
 owners = ["nnillni"]
 project_path = ""
-changelog = "v0.3.0: reworked listing clicks to a direct 1-to-1 command, fixed font rendering with a dedicated font handle and global scale, and addressed PR review feedback (including removing user-facing references to specific third-party plugins)."
+changelog = "v0.3.1: fixed stale listings not pruning correctly for Blue Mage-flagged duties, and removed one-click auto-travel — cross-data-center listings now just flag that you need to travel there yourself instead of firing a travel command automatically."
