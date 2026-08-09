@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "ca08a970983d8bd85964decfbe164ba08d793285"
+commit = "8798b9ce060ed4c7ab359d96e61cde2dbeec97ef"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,9 +15,5 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """
-**Tintable Starter Actions**
-You can now recolor starter actions of combos which share a starter action with another combo in order to visually distinguish them.
-This feature is enabled by default, but you need to set it up for it to have any effect. 
-
--# Huge thanks to Square Enix for inspiring me this idea through their implementation of this concept with Monk's Forbidden Meditation and Steeled Meditation. Now who's the copycat, huh?!
+-# Cross Hotbars are now also affected by tintable actions' colors. Sorry, I had literally forgotten controller players existed.
 		"""
