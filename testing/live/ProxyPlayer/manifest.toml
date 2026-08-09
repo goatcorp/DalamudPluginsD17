@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/ProxyPlayer.git"
-commit = "f35174393199dab93e55ccf9d7802b0653d46261"
+commit = "50b9ac40815425bbb7ad39152efff8bf8ba17ce2"
 owners = [
 	"Bronya-Rand"
 ]
