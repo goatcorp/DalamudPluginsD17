@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/in1tiate/Wikilinx-Dalamud.git"
-commit = "7d3c12bf240503feb4bd413d53eabbe7935daca0"
+commit = "d1a357f0c3bfbaad070b72de4f366a8b5b11e80f"
 owners = ["in1tiate"]
 project_path = "WikilinxPlugin"
-changelog = "Updated for Patch 7.5 and Dalamud API v15."
+changelog = "Added option to always open wiki with English item name (by pixelify32, thank you!) and bumped Eorzea DB IDs to 7.55"
 
 
