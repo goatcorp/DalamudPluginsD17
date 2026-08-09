@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Nepharyas/a_realm_reorganized.git"
-commit = "b9a0bf3fff7d724185cbb71a963301928d27ae4d"
+commit = "8df8828e2c4645a8c7c1c8e0cff5505cc0ef3139"
 owners = ["Nepharyas"]
 project_path = "ARealmReorganized"
