@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/nnillni/pfexplorer-client.git"
-commit = "be20d131295b707e74c74d5ece1d02baede6f9cc"
+commit = "c82a857c964ceafd0d68a21f9b888f838fe912bd"
 owners = ["nnillni"]
 project_path = ""
-changelog = "v0.2.0: removed the background Party Finder scanner (capture is now passive-only, driven by your own browsing/clicks), added a Blue Mage Spellbook shortcut when filtering the Blue Mage category, and fixed stale/incorrect listing pruning."
+changelog = "v0.3.0: reworked listing clicks to a direct 1-to-1 command, fixed font rendering with a dedicated font handle and global scale, and addressed PR review feedback (including removing user-facing references to specific third-party plugins)."
