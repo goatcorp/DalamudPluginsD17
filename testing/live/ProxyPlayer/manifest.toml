@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Bronya-Rand/DalamudPluginsD17.git
+commit = "0193f4db850b496c68b20f44b8cb96b3e30cae95
+owners = [
+	"Bronya-Rand"
+]
+project_path="ProxyPlayer"
