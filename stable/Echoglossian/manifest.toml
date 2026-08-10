@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "07edc833c03ec6019f63b02ca07fc4671dfd6f1a"
+commit = "d1ac912d0f065e7d0294ab0fa9d80bd40296d06b"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0809.0046 \n Plugin UI localization fix:\n - apply the selected plugin culture before resource lookup to prevent silent English fallback\n - preserve locale-specific resources and Catalan/Dutch locale mappings\n - add exact resource lookup regression coverage and localization guardrails"
+changelog = "v4.2601.0809.2000 \n BattleTalk and MiniTalk native layout fix:\n - restore clean BattleTalk and MiniTalk baselines after translated reuse\n - keep BattleTalk horizontal geometry game-owned while translated text only grows vertically when needed\n - unify dialogue labels and Translation Display Mode text across locales"
