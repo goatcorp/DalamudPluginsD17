@@ -1,7 +1,7 @@
 # stable/BeastieBuddy/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/BeastieBuddy.git"
-commit = "9c33c10948753499ea19f633d4f3d4eb8404e5d3" 
+commit = "87ea2950b4de567011106b4be7f8c806b076f21f" 
 owners = ["rail2025"]
 # project_path = "BeastieBuddy" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.55.0.2: beacon despawning breaking player animaions/sfx fix, beacon now auto refreshes at 50 seconds, clears when leaving zone\nv7.55.0.1: images resized, optimizations\nv7.55.0.0: Search fixes\nv7.51.2.1:bestiary v2 layout options, info from eu fanfest/pll"
+changelog = "v7.55.0.3:desktop alternative app release info\nv7.55.0.2: beacon despawning breaking player animaions/sfx fix, beacon now auto refreshes at 50 seconds, clears when leaving zone"
