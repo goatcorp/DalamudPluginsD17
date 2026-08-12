@@ -1,9 +1,18 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "e849811662279877608c0b274aa14399217b9692"
+commit = "cb81f621a3662958fc30c42744c03650067874d8"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-Update for Patch 7.5 / API 15
+**Moved to stable:**
+- Automatic Crowdsourcing
+  - Submissions are uploaded to Xivstats' database. Thanks to Infi.
+  - Collects items & dyes used, weekly theme information and score.
+  - Private or sensitive data is never collected.
+  - Requires opt-in (plugin functionality is unaffected by your choice).
+  - See how many times a particular piece was used among the userbase.
+  - Sends a chat message when an upload fails.
+- Onboarding window that explains everything.
+- General refactor.
 """
 
