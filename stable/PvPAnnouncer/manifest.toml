@@ -1,4 +1,4 @@
-﻿[plugin]
+[plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
 commit = "a77c10c3e0e291569dfa9931b4c4ddb68b9cbae5"
 owners = ["spide-r"]
