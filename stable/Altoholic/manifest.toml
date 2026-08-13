@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "414ae876d9c1020fb1e49310da3af6faaddf8f22"
+commit = "4908fc8e98525510003c3e3afb796bcf83c0c238"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Moonfire Faire 2026 with rewards
+- **Progress**: Fix Moonfire Faire quest id
 """
