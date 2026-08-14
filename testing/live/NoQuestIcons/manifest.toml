@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
-commit = "f9d4c0c81127f6f956b3674887c01822f08e087b"
+commit = "6a2ccd837137d00cc33dbd97b07a85d0341bfcb5"
 owners = ["GrimmortalDread"]
 changelog = "v1.5.0 - Added per-category icon filtering (Main Scenario, Side Quest, Guildleve, Class/Job Quest, Allied Society, Triple Triad, FATE, and more), configurable individually from the settings window with alphabetically sorted category lists, and pre-categorized out of the box from in-game testing. Added a peek key to temporarily reveal hidden icons and a separate toggle key to enable/disable the plugin entirely."
