@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
-commit = "6a2ccd837137d00cc33dbd97b07a85d0341bfcb5"
+commit = "a069b401bcd291c2d50e7c0f7aafab1b528ed633"
 owners = ["GrimmortalDread"]
-changelog = "v1.5.0 - Added per-category icon filtering (Main Scenario, Side Quest, Guildleve, Class/Job Quest, Allied Society, Triple Triad, FATE, and more), configurable individually from the settings window with alphabetically sorted category lists, and pre-categorized out of the box from in-game testing. Added a peek key to temporarily reveal hidden icons and a separate toggle key to enable/disable the plugin entirely."
+changelog = "v1.5.1 - Converted every ImGui Begin/End and Push/Pop pair (tabs, tables, combos, child windows, IDs, disabled state, style colors) to ImRaii, per review feedback. Ties cleanup to C#'s using scope instead of a manually-written matching call, so a future early return or exception can't leave ImGui's internal state corrupted. Also synced plugin description text across the installer punchline, detailed description, and in-game About tab."
