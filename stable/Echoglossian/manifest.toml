@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "d1ac912d0f065e7d0294ab0fa9d80bd40296d06b"
+commit = "edc589fbe92a4aa52f4e6fa2a23536287d93b9f0"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0809.2000 \n BattleTalk and MiniTalk native layout fix:\n - restore clean BattleTalk and MiniTalk baselines after translated reuse\n - keep BattleTalk horizontal geometry game-owned while translated text only grows vertically when needed\n - unify dialogue labels and Translation Display Mode text across locales"
+changelog = "v4.2601.0815.1339 \n Dialogue context and LLM follow-up:\n - recover first-line speaker context via quest metadata and live actor fallbacks\n - precompute quest dialogue interlocutor metadata asynchronously off Dalamud callbacks\n - enforce dialogue glossary terms and gate unsupported LLM parameters with shared diagnostics"
