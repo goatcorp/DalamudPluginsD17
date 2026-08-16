@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "edc589fbe92a4aa52f4e6fa2a23536287d93b9f0"
+commit = "2901ef0d8b1d68956c6ac86afe97ff3bc098e7f3"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0815.1339 \n Dialogue context and LLM follow-up:\n - recover first-line speaker context via quest metadata and live actor fallbacks\n - precompute quest dialogue interlocutor metadata asynchronously off Dalamud callbacks\n - enforce dialogue glossary terms and gate unsupported LLM parameters with shared diagnostics"
+changelog = "v4.2601.0816.1235 \n Dialogue LLM follow-up release:\n - finish #252 prompt save and async structured glossary refresh\n - fix #270 so dialogue-only LLM override still respects per-surface toggles\n - cancel live model discovery requests during shutdown and reload"
