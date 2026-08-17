@@ -2,14 +2,21 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "18e52baecc5b7aabd0ae991cdc1dbccc9c7ec378"
+commit = "88ce55f1ed2aeb1a5b32b05d9861d2c2aac717c9"
 changelog = """
-## 1.2.7
+## 1.3.0
 ### Added
-- New Currencies: Oizys Credits & Auxesia Credits.
-- Highlighting for NPCs and items/menus thanks to electr0sheep.
-- Option to automatically add/remove upgrade items to \\\"Items of Interest\\\".
+- Societal currencies are now tracked.
+- New currency: Faux leaves added.
+- New currency: Achievement Cerificates added.
+- Added a tooltip to show when a prerequisite quest is needed.
+- New setting: The possibility to glue the spending windows to the main window.
+### Changed
+- Teleporting now skips the teleport when you are already in the correct zone.
+- The spending window now only opens once shop/item data has finished loading.
+- ConfigWizard reworked to work more resilent and needs less manual config.
+- Refactored some code.
 ### Fixed
-- Select Bait Ball was missing.
+- When no sellable items are found, now shows a proper warning.
 """
-version = "1.2.7"
+version = "1.3.0"
