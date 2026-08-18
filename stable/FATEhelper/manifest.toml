@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "fc42309343b4797d302432c6b83f2ec2415e31f4"
+commit = "36a18e8707204e1fa01e77e99bb6c74678a748de"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "added sound alert for new fate spawns, updated occult aetheryte with north horn"
+changelog = "removed control characters in fate names"
