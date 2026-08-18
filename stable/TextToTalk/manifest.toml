@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "b026e5d34b0208bd5c066af0ad9912184914279e"
+commit = "53c440457dd0a4bd3248dbab3f531e1ba286c7c9"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Azure**: Fixed crash when disabling/updating the plugin during speech playback.
+- **WebSocket**: Adds speaker world to speech messages for external TTS engines to consume (thanks `@barrcodes`!).
+- **Megaphone**: Internal API changes to support reacting to specific NPC dialogue events (thanks `@barrcodes`!).
 """

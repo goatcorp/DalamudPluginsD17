@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/sleepybnuuy/dummy.git"
+commit = "d5ff392c90cc43ad545e6da778ed5dc4179d446a"
+owners = ["sleepybnuuy"]
+project_path = "Dummy"
+changelog = "initial release"

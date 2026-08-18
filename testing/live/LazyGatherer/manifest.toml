@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Hiroa/LazyGatherer.git"
-commit = "d07e1ced7572ab49c83c141dbe99c753ca366882"
+commit = "0bb8ec9a47dc4521411c705221cdeda361015d75"
 owners = ["Hiroa"]
 project_path = "LazyGatherer"
 changelog = """
-Version 1.4.2: 
- - Improve GP alert system
- - Add command for GP alert configuration
+Version 1.4.5: 
+ - Rework estimated yield display
+ - Take boon chance into consideration when calculating min/max
 """

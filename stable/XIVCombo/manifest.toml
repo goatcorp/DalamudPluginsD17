@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "6222e80ca0b2f7f16c3e1756cb8c6c47f63ca8ff"
+commit = "8798b9ce060ed4c7ab359d96e61cde2dbeec97ef"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -14,7 +14,6 @@ owners = [
 project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
-changelog = """\	
--# API 15 update
--# I was supposed to delay this release by a week because of the Dalamud server's users but I do not wish to worsen the state of Party Finder just before the week-end. Enjoy your combo'ing!
+changelog = """
+-# Cross Hotbars are now also affected by tintable actions' colors. Sorry, I had literally forgotten controller players existed.
 		"""

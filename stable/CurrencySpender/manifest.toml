@@ -2,18 +2,21 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "69612732fa9cbb139d5fa67de3aff39f6dfa9ed3"
+commit = "88ce55f1ed2aeb1a5b32b05d9861d2c2aac717c9"
 changelog = """
-## 1.2.6
+## 1.3.0
 ### Added
-- Fashion accessories can now be considered a collectable.
-- Settings to hide the UI in various scenarios.
-### Fixed
-- Spelling errors.
+- Societal currencies are now tracked.
+- New currency: Faux leaves added.
+- New currency: Achievement Cerificates added.
+- Added a tooltip to show when a prerequisite quest is needed.
+- New setting: The possibility to glue the spending windows to the main window.
 ### Changed
-- Updated for Dalamud API v15.
-- Updated ECommons.
-### Removed
-- Kofi Banner.
+- Teleporting now skips the teleport when you are already in the correct zone.
+- The spending window now only opens once shop/item data has finished loading.
+- ConfigWizard reworked to work more resilent and needs less manual config.
+- Refactored some code.
+### Fixed
+- When no sellable items are found, now shows a proper warning.
 """
-version = "1.2.6"
+version = "1.3.0"

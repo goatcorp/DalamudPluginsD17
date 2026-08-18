@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "51c3958486d4ef44029318c21bfd5bc78cec0ffc"
+commit = "1d634c195dc31911d98bf36f2016bef8732bb0ef"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **System**: Fixed random stops during TTS playback, especially with NaturalVoiceSAPIAdapter
+- **Megaphone**: Internal API changes to support reacting to specific NPC messages.
 """
