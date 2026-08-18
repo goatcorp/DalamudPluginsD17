@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/Dalamud.RichPresence.git"
-commit = "173370383f7d066a4276050ee8ffabe2ff38dd9c"
+commit = "b2f31fc7e00480ec54bdb557c8a1efadbfb8320e"
 owners = [
     "Bronya-Rand"
 ]
