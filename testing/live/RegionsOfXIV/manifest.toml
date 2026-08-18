@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Yesanith/RegionsOfXIV.git"
-commit = "605d5f942a60878d1ad6e6fb926c255c7cbac282"
+commit = "a621495e2fd64be8ea6723a615364cc5fb3635a1"
 owners = ["Yesanith"]
 project_path = "src/RegionsOfXIV"
 changelog = "First release."
