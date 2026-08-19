@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/brosesarered/Drawers.git"
+commit = "4dd1012efa66b177fa4303ff08e1fc6a6ac47555"
+owners = ["brosesarered"]
+project_path = "Drawers"
+changelog = "Fixed being unable to dismount."

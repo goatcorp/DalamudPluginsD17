@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "30ac63fa3785aedd975ef6fdab8da442e149eb4b"
+commit = "3ad7cb2060069dc369f2b80327c30947e8799c7e"
 owners = ["wrath16", "rennalol"]
 project_path = "PvpStats"
 changelog = """
-* Enables action analytics tracking for Crystalline Conflict.
-* Added disk space saving configuration options.
+* Added Crystalline Conflict Season 21 filter option.
 """

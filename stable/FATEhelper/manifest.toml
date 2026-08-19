@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "91d4e84d844d75cb1be676ba7cdd17cc121d8750"
+commit = "36a18e8707204e1fa01e77e99bb6c74678a748de"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "API v15, added option for forlorn spawn sound effect"
+changelog = "removed control characters in fate names"

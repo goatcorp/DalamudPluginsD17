@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
-commit = "1a5d8a66bded6a00c621e01db22525b3d8cee15f"
+commit = "44129b277bc91d7a82ab7829f57ce3923e27bff7"
 owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
-changelog = "- Updated for 7.5"
+changelog = "- Bumped dependencies for patch 7.55"

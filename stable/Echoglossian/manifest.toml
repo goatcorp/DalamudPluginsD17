@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "7be033b7c2c0809d664823690e029959a76caf4c"
+commit = "2901ef0d8b1d68956c6ac86afe97ff3bc098e7f3"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0516.x \n fixes:\n - fixed the OpenRouter prompt-expansion bug so fully materialized prompts reach the provider\n - hardened prompt substitution so literal placeholder text inside dialogue content is preserved"
+changelog = "v4.2601.0816.1235 \n Dialogue LLM follow-up release:\n - finish #252 prompt save and async structured glossary refresh\n - fix #270 so dialogue-only LLM override still respects per-surface toggles\n - cancel live model discovery requests during shutdown and reload"

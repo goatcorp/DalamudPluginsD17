@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/RajahOmen/Karaoke.git"
+commit = "ea911649d358c0c89b7081ac35a5c11a9592cd3c"
+owners = ["RajahOmen"]
+project_path = "Karaoke"
+changelog = """\
+**Added**
+- Made lyric window opacity slider also change the window border (if present)
+- Made window resizing direction depend on the side of the screen
+"""

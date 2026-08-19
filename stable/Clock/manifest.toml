@@ -1,28 +1,18 @@
 [plugin]
-repository = "https://github.com/seventity7/Clock.git"
-commit = "aeb223c7ec5bb2a27c3cc56517346585ebb0164e"
-owners = ["seventity7"]
-maintainers = ["seventity7"]
+repository = "https://github.com/LatencyBryer/Clock.git"
+commit = "956eb6aa496810f738197c064d8fd3cd2b26f2e5"
+owners = ["LatencyBryer"]
+maintainers = ["LatencyBryer"]
 project_path = "."
 changelog = """
-### Changed Chat Timestamp System
+### **Added:**
+- Maintenance reminders now auto-create alarms
+- Chat time conversion now detect time formats using symbols
 
-The plugin now uses the native timestamp system.
-It still does the same things as before:
+### **Improved:**
+- Maintenance reminders now uses the start time
+- Maintenance checks run automatically every 2 hours
 
-- shows custom timestamps in chat;
-- supports 12-hour and 24-hour time;
-- can show or hide `AM/PM`;
-- uses the configured time zone offset;
-- can apply a custom timestamp color;
-
-### Technicall stuff
-
-- Improved how custom chat timestamps are handled internally
-- Reduced unnecessary processing when the custom timestamp option is disabled
-- Improved further compatibility's
-
-### Notes
-- `Match Channel Color` option temporarily removed
-Please note that if you want to use this feature from this plugin, you might need to disable similar features from other plugins to avoid having any incompatibility in case if there is still any.
+### **Notes:**
+- Old **24 hours** maintenance reminder option was replaced for **5 hours before**
 """

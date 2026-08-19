@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/salanth357/NoTypeSay.git"
-commit = "9e8653eec2ab8026ab16225cf7fe4a91e1ac54e1"
+commit = "42c3f9c31afb843ab4a30e61ff62a15f73c4cfbf"
 owners = ["salanth357"]
 project_path = "NoTypeSay"
 changelog = """
+1.0.3.0:
+- Update to avoid doing an /eatchicken in some circumstances
 1.0.2.2:
 - Update for 7.5
 """

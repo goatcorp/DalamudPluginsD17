@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/epinephren/TopSellingItems.git"
+commit = "b56d3da8db9031b68ed71dea73c5e78c652e7ad5"
+owners = ["epinephren"]
+project_path = "."
+changelog = "Adds optional world selection for datacenter scans and improved best-buy scope display showing the exact world."

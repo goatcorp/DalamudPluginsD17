@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/sleeds2/jobroulette.git"
+commit = "acb5ba12b575fa1c994948f461a2cfbbd84d5eab"
+owners = ["sleeds2"]
+maintainers = ["mchudoba"]
+project_path = "JobRoulettePlugin"
+changelog = """\
+**Update**: Added class support.
+"""

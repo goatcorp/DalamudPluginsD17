@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "6e2bbeabd85cb5b3284c67f2ba143ca4f0125796"
+commit = "5c58b6457f64f8f2c093f9fbf06a258d1ee98128"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- API 15 update
+- Added setting to disable the end of combat detection trigger for the dynamic music
+- Added setting to play the next BGM after a wipe if end of combat detectiom trigger is disabled
+- Fixed a bug where the random BGM list would overwritten when starting the plugin
 """

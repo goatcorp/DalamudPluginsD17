@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Glyceri/XivFatalFrame.git"
-commit = "6e0b2e635dad2d784c4834dc3fd40e3e0bedf6e3"
+commit = "200c9353034e05304a25c7b3a88b40829786363b"
 owners = ["Glyceri",]
 	changelog = """
-[1.3.0.0]
-API15
+[1.3.0.1]
+Fixes achievements not capturing properly.
 """

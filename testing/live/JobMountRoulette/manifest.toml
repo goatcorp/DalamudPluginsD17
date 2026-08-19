@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Beletre/JobMountRoulette.git"
-commit = "dd755e100d6c6cd7ed501a1fd358f838671e4f9d"
-owners = ["Beletre"]
-project_path = "JobMountRoulette"
-changelog = "Added the ability to scroll through mount table pages using the mouse wheel."
