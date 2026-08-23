@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Haselnussbomber/XivReflex.git"
+commit = "7365f3d5c101a7e85eba10d9928fb4bf006e973d"
+owners = [ "Haselnussbomber" ]
+project_path = "XivReflex"
