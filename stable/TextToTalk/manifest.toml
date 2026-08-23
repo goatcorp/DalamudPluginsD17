@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "53c440457dd0a4bd3248dbab3f531e1ba286c7c9"
+commit = "40f0dd1ef61786eef55160acb32af2e470014ce3"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Adds speaker world to speech messages for external TTS engines to consume (thanks `@barrcodes`!).
-- **Megaphone**: Internal API changes to support reacting to specific NPC dialogue events (thanks `@barrcodes`!).
+- **WebSocket**: Adds raw message payloads for external TTS engines to consume (thanks `@barrcodes`!).
 """
