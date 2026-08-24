@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MapleRecall/AcrylicXIV.git"
-commit = "df34c9704e3c13507dbfc45fa9b2afc421743c9b"
+commit = "62d38ff8df810d52b8ee441c376a149172914238"
 owners = ["MapleRecall"]
 project_path = ""
-changelog = "Fix a crash when exiting the game."
+changelog = "### Added\n- Add an option to exclude the current target's nameplate, HP bar, and cursor from the effect.\n- Add an option to disable the effect during native UI fades, with an adjustable smooth recovery."
