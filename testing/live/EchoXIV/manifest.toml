@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
-commit = "4fb52d2b4f04c5eb5e0c736a3ff973e8d7a6c6a2"
+commit = "ec9fcbf1a2cfa7934ed24832959c73f7f86359e7"
 owners = ["ssalazar217"]
 project_path = "EchoXIV"
 changelog = """
