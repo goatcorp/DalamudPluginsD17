@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "db8ef119fe9fe164bdfd60cf14b71ab9bb406d06"
+commit = "83346fe4469e606518c032fe392b5b462894c679"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
