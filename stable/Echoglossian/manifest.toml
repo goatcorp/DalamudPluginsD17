@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "d1ac912d0f065e7d0294ab0fa9d80bd40296d06b"
+commit = "2901ef0d8b1d68956c6ac86afe97ff3bc098e7f3"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0809.2000 \n BattleTalk and MiniTalk native layout fix:\n - restore clean BattleTalk and MiniTalk baselines after translated reuse\n - keep BattleTalk horizontal geometry game-owned while translated text only grows vertically when needed\n - unify dialogue labels and Translation Display Mode text across locales"
+changelog = "v4.2601.0816.1235 \n Dialogue LLM follow-up release:\n - finish #252 prompt save and async structured glossary refresh\n - fix #270 so dialogue-only LLM override still respects per-surface toggles\n - cancel live model discovery requests during shutdown and reload"

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "e779a41892c4db39936e953619efe51e49fcea6c"
+commit = "1d634c195dc31911d98bf36f2016bef8732bb0ef"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **Megaphone**: Internal API changes to support reacting to specific NPC dialogue events.
+- **Megaphone**: Internal API changes to support reacting to specific NPC messages.
 """

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "ec4030f67ce96f2715d3e403685d0b2e63d0198c"
+commit = "017d051f838c55d93d508b0e927151af64b7a0b4"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Assorted bugfixes.  Gold Saucer Aetheryte has been fixed.  Fete checks have been fixed, FATE checks are more reliable, plugin should work with non-english languages now, Duty Finder Overlay should work again.  Also, support for new fish."
+changelog = "More bugfixes.  Better support for non-english clients (Still not perfect, but progress)."
