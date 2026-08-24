@@ -1,5 +1,17 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
-commit = "4a6361e534312c1fd3b0204827a929d164623d15"
+commit = "ec9fcbf1a2cfa7934ed24832959c73f7f86359e7"
 owners = ["ssalazar217"]
 project_path = "EchoXIV"
+changelog = """
+v1.0.2.0:
+- Added EchoXIV Translate (LibreTranslate) as a dedicated unlimited translation engine and added Yandex support.
+- Expanded local AI support for OpenAI-compatible servers such as LM Studio and Ollama, including model configuration, connection checks, timeout control, disabled thinking mode, and response token limits.
+- Added configurable translation-engine fallback with automatic recovery checks for the primary engine.
+- Prevented repeated failover loops when local AI returns an empty response or is unavailable.
+- Added destination-language context to translation requests and logs so the requested output language is explicit.
+- Added single-request AI romanization, returning translated text and romanized text together as structured JSON.
+- Updated the translated-chat window to display romanized output while preserving translated and source text according to message direction.
+- Applied configuration changes immediately, including language, engine, fallback, and romanization settings.
+- Fixed Papago using its current web endpoint and improved translation error handling.
+"""
