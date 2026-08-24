@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "017d051f838c55d93d508b0e927151af64b7a0b4"
+commit = "fb6838075baa7a339ca6829b36fb4c0bbff81679"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "More bugfixes.  Better support for non-english clients (Still not perfect, but progress)."
+changelog = "Still more bugfixes.  Generic fate checks now work correctly for non-english clients."
