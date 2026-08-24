@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/JustPixelll/ShouldISell.git"
+commit = "03d65b62dee180d9a950d8d9b03fede9d3207176"
+owners = ["JustPixelll"]
+project_path = "ShouldISell"
+changelog = "Initial testing release of Should I?: Sell, Buy, Craft, Gather, Opportunities, Tycoon, native item tooltip insights and inventory lookups. Vendor opportunities now use practical profit-adjusted sell-through sizing."
