@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/Haselnussbomber/ShopItemIcons.git"
+commit = "1cacbd12a3c19c31f190427f18757367c8a3dc86"
+owners = [ "Haselnussbomber" ]
+project_path = "ShopItemIcons"
