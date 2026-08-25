@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Aireil/InputFlow.git"
+commit = "0e3597994f6b8eefe1c78b66e2d4951e642e96ed"
+owners = [
+    "Aireil",
+]
+project_path = "InputFlow"
