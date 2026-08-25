@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/MarcusBullock22/HotPotatoPlugin.git"
+commit = "e87b0fe5981109e8898eb6587e1be28083f0b4dd"
+owners = ["MarcusBullock22"]
+project_path = "HotPotatoPlugin"
+changelog = "Initial testing release of Hot Potato Game Manager."
