@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/RokasKil/MountTilt.git"
+commit = "e243447185fca4f3d52d2cecb2f6ea98d7cf0f87"
+owners = [
+    "RokasKil",
+]
+project_path = "MountTilt"
+changelog = """
+Initial plugin release!
+Mount tilt is a plugin that allows you to apply a multiplier to your mount tilt angle and speed when in motion so you can restore the pre nerf tilt and go even further beyond!
+"""
