@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/JustPixelll/ShouldISell.git"
-commit = "5d10d6e9e94575f7f672ee8c2977be5fd3368249"
+commit = "89b1fd9959ac7de7ebefc4f7226cfe7b39e9fc15"
 owners = ["JustPixelll"]
 project_path = "ShouldISell"
-changelog = "Initial testing release of Should I?: Sell, Buy, Craft, Gather, Opportunities, Tycoon, native item tooltip insights and inventory lookups. Vendor opportunities use practical profit-adjusted sell-through sizing; Universalis history requests now use the documented parameter names/units and cache freshness is tracked separately from upstream upload age."
+changelog = "Initial testing release of Should I?: Sell, Buy, Craft, Gather, Should I Do?, Tycoon, native item tooltip insights and inventory lookups. Reviewer follow-up fixes opening-inventory FIFO, purchase correlation, oversized-lot handling, render-loop caching, sortable/open-ended tables, and production/market logic."
