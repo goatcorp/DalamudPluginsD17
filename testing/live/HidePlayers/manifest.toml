@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/tyim702/HidePlayers.git"
+commit = "c9cffdea0b242d944b955f4c82342063906113ee"
+owners = ["tyim702"]
+project_path = "HidePlayers"
+changelog = "Initial release of HidePlayers"
