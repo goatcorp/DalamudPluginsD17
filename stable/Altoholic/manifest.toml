@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "4908fc8e98525510003c3e3afb796bcf83c0c238"
+commit = "d20c88ec30fa3a244ec68240f1cd0646e17d2b9b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix Moonfire Faire quest id
+- **Inventories**: Add saddlebag inventory to global search
+- **Progress**: Add The Rising 2026
 """
