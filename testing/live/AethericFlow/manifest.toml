@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/OOFGamesss/AethericFlow.git"
-commit = "0e95b3c0dd9d246a66139c88ff6599dc539e8f00"
+commit = "6762439914696607e066a125d46044bb4d6d1611"
 owners = ["OOFGamesss"]
 project_path = "AethericFlow"
-changelog = "- Added a quicker on foot check for the player to see if it's worth teleporting or not.\n- Added the ability for the map link to be marked on the map upon teleporting via the link.\n- Added different colour options for the link text.\n- Icon update."
+changelog = "- Two new appearance toggles has been added.\n- Show teleport icon only will remove the teleport text and add just the aetheryte crystal as a clickable teleport link.\n- Show clock icon only will remove the walk hint text if enabledand add just the clock icon when walking would be quicker without showing the text."
