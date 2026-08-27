@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "83346fe4469e606518c032fe392b5b462894c679"
+commit = "8f658020d4bf93551cd4e729ac6e577fb84f0d1a"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.3.3
-- Updated to Dalamud API Level 15
-- Added option to disable the Need/Greed roll tracking window
+# Version 1.3.4
+- Recognized more measure words in loot messages (roll of, bunch of, basket of, sheet of, glass of, pouch of, sack of, crate of)
+- Preserved genuine item names that look like measure words, fixing "Set of Liquor Bottles", "Pot of Cream Stew" and "Basket of Flowers"
+- Fixed fishing catches of more than one fish being recorded as a single item
 """
