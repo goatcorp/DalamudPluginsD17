@@ -1,17 +1,21 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
-commit = "ec9fcbf1a2cfa7934ed24832959c73f7f86359e7"
+commit = "3916be122ef050dd60ff4b1d1a9d8ba854edaa14"
 owners = ["ssalazar217"]
 project_path = "EchoXIV"
 changelog = """
-v1.0.2.0:
-- Added EchoXIV Translate (LibreTranslate) as a dedicated unlimited translation engine and added Yandex support.
-- Expanded local AI support for OpenAI-compatible servers such as LM Studio and Ollama, including model configuration, connection checks, timeout control, disabled thinking mode, and response token limits.
-- Added configurable translation-engine fallback with automatic recovery checks for the primary engine.
-- Prevented repeated failover loops when local AI returns an empty response or is unavailable.
-- Added destination-language context to translation requests and logs so the requested output language is explicit.
-- Added single-request AI romanization, returning translated text and romanized text together as structured JSON.
-- Updated the translated-chat window to display romanized output while preserving translated and source text according to message direction.
-- Applied configuration changes immediately, including language, engine, fallback, and romanization settings.
-- Fixed Papago using its current web endpoint and improved translation error handling.
+v1.0.2.1:
+- Added Gemini, Claude, ChatGPT, DeepSeek, OpenRouter, LibreTranslate, and Yandex translation engines.
+- Added configurable translation instances with primary engine selection, ordered fallback, and recovery probing.
+- Added per-instance model, API key, temperature, and response token limit settings.
+- Added single-request AI romanization with native and Latin-script output in structured JSON.
+- Improved romanization support for Japanese, Korean, Chinese, Russian, and Ukrainian.
+- Improved translated-chat display for native text, Latin-script text, original messages, and tooltips.
+- Unified translation logs with the selected engine, target language, elapsed time, and romanization.
+- Added local language detection to skip translation when messages already match the configured target language.
+- Added configurable language-detection confidence from 70% to 100%, with an 85% default.
+- Added independent translated-window message limits and size-based persistent chat history.
+- Added history search and filtering, and made Clear remove only messages currently displayed.
+- Added direct settings access from the translated-chat window and an option to control /tl chat status messages.
+- Centralized engine, instance, priority, and failover management in the Engines tab.
 """
