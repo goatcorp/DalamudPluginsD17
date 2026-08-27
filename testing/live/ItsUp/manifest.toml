@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/juan-medina/ItsUp.git"
+commit = "fa22c4c151e3217de135ce1e330c3ac4438801fb"
+owners = ["juan-medina"]
+project_path = "ItsUp"
+changelog = "Initial submission."

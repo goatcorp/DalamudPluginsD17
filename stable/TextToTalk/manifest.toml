@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "40f0dd1ef61786eef55160acb32af2e470014ce3"
+commit = "d4da9bdd7cf061e220d2426b97d50b0c88c26045"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **WebSocket**: Adds raw message payloads for external TTS engines to consume (thanks `@barrcodes`!).
+- **Megaphone**: Keep dialogue session events reliable and prevent sessions from ending (thanks `@barrcodes`!).
 """

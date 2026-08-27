@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/OOFGamesss/AethericFlow.git"
+commit = "0e95b3c0dd9d246a66139c88ff6599dc539e8f00"
+owners = ["OOFGamesss"]
+project_path = "AethericFlow"
+changelog = "- Added a quicker on foot check for the player to see if it's worth teleporting or not.\n- Added the ability for the map link to be marked on the map upon teleporting via the link.\n- Added different colour options for the link text.\n- Icon update."
