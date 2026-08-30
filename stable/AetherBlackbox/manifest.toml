@@ -1,7 +1,7 @@
 # stable/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "546196bfa94bc4e30e672ca9894a878d29693822" 
+commit = "7208d13d90bd1670421cc5bbce5a85d838b39939" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.55.0.0: North Horn phantom job support\nv7.51.3.1: Alliance ui tweaks, code refactor"
+changelog = "v7.56.0.0: Survival calculator added. See if you would have lived."
