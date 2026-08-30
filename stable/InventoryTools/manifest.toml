@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "052739db6b2ff066f1938f3c2e6144ae2e9252dd"
+commit = "d17337a6ee2531421697c2d83748f57d5ffda520"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.10"
-changelog = "### Fixed\n- Updated sig for 7.55\n### Changed\n- Lumina Supplemental data update for 7.55"
+version = "1.15.0.11"
+changelog = "### Changed\n- Added configuration window setting search\n- Reworked configuration/wizard settings pages\n- Wizard now has an introduction explaining key plugin concepts\n- Changed the defaults for certain settings"
