@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Haselnussbomber/ScrollableTabs.git"
-commit = "d423fb09657c3fd11287dd8fa5bf8749e33626a9"
+commit = "49ec2e4caa4041ebf36ff971970529d35633f960"
 owners = [ "Haselnussbomber" ]
 project_path = "ScrollableTabs"
