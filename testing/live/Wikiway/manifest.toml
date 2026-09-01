@@ -1,4 +1,4 @@
-﻿[plugin]
+[plugin]
 repository = "https://github.com/azam997/Wikiway.git"
 commit = "4ae1b0f41c8db76ebdaa08bd9fc53f0b4ab89868"
 owners = ["azam997"]
