@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/wompscode/NowPlaying.git"
-commit = "038eef626bccaa54fb1915f3c6ff978f957380bf"
+commit = "c2ebe6014b95015cedf9b0956ac663f077ee9abf"
 owners = ["wompscode"]
 project_path = "NowPlaying"
-changelog = "api15 + default config changes"
+changelog = "now with Linux support: thanks beerpsi."
