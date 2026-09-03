@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/OOFGamesss/AethericFlow.git"
-commit = "6e63f595276bc4fda89320ef2c0e550568dfd823"
+commit = "3cf4ccacf0c728979599ee97b48fa941ee7f1af1"
 owners = ["OOFGamesss"]
 project_path = "AethericFlow"
-changelog = "Introducing Aetheric Flow! 1.0 Release!\n\nAdds a teleport link to the nearest aetheryte on every map link in chat.\n\nKey Features:\n- Adds a clickable teleport link after map coordinates in chat.\n- Picks the nearest aetheryte you have attuned in that zone.\n- /aftp teleports to the most recent map link for controller players.\n- Choose which chat channels are scanned.\n- Plenty of customisation options for the links appearance.\n- English, Japanese, German and French are all supported."
+changelog = "- Map links from the Dravanian Hinterlands are now served by the neighbouring zones aetherytes."
