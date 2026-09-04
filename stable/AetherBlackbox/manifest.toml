@@ -1,7 +1,7 @@
 # stable/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "7208d13d90bd1670421cc5bbce5a85d838b39939" 
+commit = "64c4f8a7ec01d0d682209a5838329415f9ce7645" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.56.0.0: Survival calculator added. See if you would have lived."
+changelog = "v7.56.0.1:live sync cache fix\nv7.56.0.0: Survival calculator added. See if you would have lived."
