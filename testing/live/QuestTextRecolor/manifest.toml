@@ -2,7 +2,7 @@
 repository = "https://github.com/ScareCrowLegion/QuestTextRecolor.git"
 commit = "97e8fc6facb1afe45516c65b2b127dc224361de2"
 owners = ["ScareCrowLegion"]
-project_path = "."
+project_path = "Quest Text Recolor.csproj"
 changelog = '''
 Initial official Dalamud testing release.
 
