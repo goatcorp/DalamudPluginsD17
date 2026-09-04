@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "b11566440534e423f0bdaf9f63f8db0112cd5dfd"
+commit = "1a4a4ebf7f9d10911bf1b7975024fd4672ba5622"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Added support for Phantom Occultum relic weapons (the ones with selectable stats).
+- Updated exported URLs to use the new, slash-based XivGear paths.
 """
