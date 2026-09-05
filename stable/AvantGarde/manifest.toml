@@ -1,15 +1,9 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "04910addd14272cdb6e161ea719dd9dd16a3f75e"
+commit = "96b47c03570fe04e72e0f453a0e771959c228eb4"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-- Now featuring dye statistics!
-  - Find (or, well, try to) the correct dye for each slot.
-  - Uses a weighting system to determine which dyes are correct.
-  - View the confidence rating for each dye. Automically sorted by accuracy in descending order.
-  - Actually not all that accurate currently, so take it with a big grain of salt and refer to more reliable sources.
-- Changed the UI layout to accommodate the new dye windows.
-- More refactoring.
+- Prevent duplicate submissions if Tracky is also installed.
 """
 
