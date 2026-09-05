@@ -1,0 +1,17 @@
+[plugin]
+repository = "https://github.com/Lharz/PlogDock.git"
+commit = "85db57cf44dfc08da2420f3100d5b603a5a5005c"
+owners = ["Lharz"]
+project_path = "PlogDock"
+changelog = """
+- Initial release.
+- A single button on the interface that unfolds into a grid of plugin icons.
+- Left click opens a plugin, right click opens its settings.
+- Plugins are reached through Dalamud's own open handler, falling back to the
+  slash command they registered when they expose no window of their own.
+- The panel unfolds in any of eight directions, chosen from a grid in the
+  settings.
+- Shortcuts are enabled, disabled and reordered from a settings window, by drag
+  and drop or one notch at a time.
+- Real plugin icons are downloaded once and cached, falling back to a coloured
+  tile carrying the plugin's initials."""
