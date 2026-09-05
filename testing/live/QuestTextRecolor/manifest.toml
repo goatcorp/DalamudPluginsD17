@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/ScareCrowLegion/QuestTextRecolor.git"
+commit = "97e8fc6facb1afe45516c65b2b127dc224361de2"
+owners = ["ScareCrowLegion"]
+project_path = "."
+changelog = '''
+Initial official Dalamud testing release.
+
+Features:
+- Customize center-screen quest objective text color
+- Customize quest objective edge color
+- Adjust quest objective font size
+- Built-in appearance presets
+- In-game preview popup
+- Reset appearance to plugin defaults
+'''
