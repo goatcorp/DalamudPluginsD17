@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f4395eeec07738157d4b6805e7a8735180359b9a"
+commit = "6bb5b5f3246da409e6cd11a7a7601b1433ac2c2c"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add The Rising 2026 vendor rewards
+- **Progress**: Add Moogle hunt of astronomy part 1 event rewards minus missing new map id
+- **PVP**: Add 'all' in pvp with current serie reward for quick overlook.
 """
