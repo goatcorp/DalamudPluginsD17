@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/MikeZTM/XIVJitterFix.git"
-commit = "b2c05c7d87b4a12382c57acde5490b4f2addc521"
+commit = "b269427b9deb8281fafbc6ca06268c2c11c56c80"
 owners = [
     "MikeZTM"
 ]
