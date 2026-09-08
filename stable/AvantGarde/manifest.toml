@@ -1,9 +1,11 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "96b47c03570fe04e72e0f453a0e771959c228eb4"
+commit = "2d22af5c9d17e76a67b7e8409f75757c51b893f3"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-- Prevent duplicate submissions if Tracky is also installed.
+- Added basic IPC for Allagan Tools and Item Vendor Location
+  - Users of these plugins can view more information on selected items by clicking on "Open in [plugin name]".
+  - These extra options are only visible if the plugins are enabled.
 """
 
