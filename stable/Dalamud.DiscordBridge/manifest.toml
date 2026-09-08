@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "d21ac96b128ba281ee749f849504731bdf1cc028"
+commit = "c7469afa360645f45c082a8932c3ebc4c1d9dd86"
 owners = [
     "reiichi001",
 	"goaaats",
@@ -11,7 +11,7 @@ maintainers = [
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Stop and clear the message queue from on logout events. Start it back up on login events.
+Try to fix the last new feauture that stops and clears the message queue on logout events. Threading is finicky. If this isn't reliable, I will revert the plugin back to before any of this was attempted.
 
 This plugin is looking for a new owner/maintainer. Please reach out to Franz if you want to adopt it.
 """
