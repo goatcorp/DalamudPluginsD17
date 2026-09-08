@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "f4395eeec07738157d4b6805e7a8735180359b9a"
+commit = "eca47d137789458c268407b4dac53ca4f114b773"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add The Rising 2026 vendor rewards
+- **General**: 7.56 stuff
 """
