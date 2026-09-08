@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Tischel/TPie.git"
-commit = "a861c2132284430e6b2d4666d6fc708051d9b115"
+commit = "572e3dbf7d4fb21430e78c24683e3b4d89b77e6f"
 owners = ["Tischel"]
 project_path = "TPie"
-changelog = "- Added an IPC to see if a ring is active."
+changelog = "- Fixing plugin errors with Beastmaster."
