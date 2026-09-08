@@ -1,7 +1,7 @@
 # stable/AetherBlackbox/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherBlackbox.git"
-commit = "64c4f8a7ec01d0d682209a5838329415f9ce7645" 
+commit = "a14c17e9b7fc182308a0c076e0083493c0c51e89" 
 owners = ["rail2025"]
 # project_path = "AetherBlackbox" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.56.0.1:live sync cache fix\nv7.56.0.0: Survival calculator added. See if you would have lived."
+changelog = "v7.56.1.0: overlays bounce back on window resize, map calibration scaling propagates live sync too\nv7.56.0.1:live sync cache fix\nv7.56.0.0: Survival calculator added. See if you would have lived."
