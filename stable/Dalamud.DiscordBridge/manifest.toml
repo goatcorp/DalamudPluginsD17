@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "19667c04334dd7abfa34f918fac512117129d2f0"
+commit = "d21ac96b128ba281ee749f849504731bdf1cc028"
 owners = [
     "reiichi001",
 	"goaaats",
@@ -11,7 +11,7 @@ maintainers = [
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Preliminary update for API 15. There are underlying changes in chat handling. Please report if a given chat type stop working.
+Stop and clear the message queue from on logout events. Start it back up on login events.
 
 This plugin is looking for a new owner/maintainer. Please reach out to Franz if you want to adopt it.
 """
