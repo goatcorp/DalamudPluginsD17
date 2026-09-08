@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "7c51bfb633ff10762a77758e33ddf75fb4d420cd"
+commit = "4d8c9eae150a89192632090b16e3cf042d7eeecc"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-v2.1.4.1:
-- make sorting a little beter
+v2.1.4.2:
+- add beastmaster icon
 """
