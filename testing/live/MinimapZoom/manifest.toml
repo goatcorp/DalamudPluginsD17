@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aleqsd/minimap-zoom.git"
+commit = "921264966a7f0936172826fd1a17633f9b18f94d"
+owners = ["Aleqsd"]
+project_path = "src"
+changelog = "First testing version. Adjust native minimap zoom, shape, frame and markers, with profiles and an optional hold-to-zoom-out shortcut. Open /minizoom, or use /minizoom off to restore it."
