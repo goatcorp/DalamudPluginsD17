@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/tenyu27/PartySortPlus.git"
-commit = "283c958e9e4e16a6f9f415340fb5ac8e4ebb7404"
+commit = "83e8b002bc37f15361341601dba66efc6046aa9b"
 owners = ["Rietty", "tenyu27"]
 project_path = "PartySortPlus"
-changelog = "Updated for Dalamud API 15. Fixed rule evaluation, negative-only conditions, preset persistence, duplicate-job sorting, and rule reordering."
+changelog = "Updated for Dalamud API 15. Fixed rule evaluation, negative-only conditions, preset persistence, duplicate-job sorting, rule reordering, and Linux CI restore compatibility."
