@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Aleqsd/codex-monitor.git"
+commit = "1ae42019dabf84dd3ad33ab0179f893cb26685a4"
+owners = ["Aleqsd"]
+project_path = "src"
+changelog = "First testing version. Follow local Codex tasks, unread replies and questions with a small HUD and optional notifications. Includes a local relay; Node.js and Codex are required. Open /codex to get started."
