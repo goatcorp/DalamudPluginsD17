@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/juan-medina/Gubal.git"
+commit = "f2520e1852ad5bebb682348f6834dc0a49af0110"
+owners = ["juan-medina"]
+project_path = "Gubal"
+changelog = "First release"
