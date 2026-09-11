@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/XozaShadow/StatusShift.git"
+commit = "c9b1c22088da7a1bc943428531f52dd6354d99d8"
+owners = ["XozaShadow"]
+project_path = "StatusShift"
+changelog = "1.0.0.0 — first public testing submission. Rules change online status, optional search comment, and optional slash commands from zone, activity, job, housing, and schedule."
