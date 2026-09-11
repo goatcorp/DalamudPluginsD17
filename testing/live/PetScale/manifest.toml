@@ -1,8 +1,12 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "cc6e9e4ca782059263f3d7e8266d4105de60cb5b"
+commit = "1ba2de3c7be5f4cef35eb7a151546a8ffac0ff9a"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- Quarterly API Bump
+- Added provisional Beastmaster support
+Warning: 
+- There's a very real chance that I ommited something, or broke some of the existing scaling, so this is a true testing release.
+  
+  Data should be unaffected by this change, but I can't make any guarantees.
 """
