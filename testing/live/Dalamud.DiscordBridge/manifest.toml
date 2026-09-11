@@ -1,0 +1,17 @@
+[plugin]
+repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
+commit = "0ea45d0cc6c495737e827b34d92c43ab33410c1f"
+owners = [
+    "reiichi001",
+	"goaaats",
+]
+maintainers = [
+    "reiichi001",
+	"goaaats",
+]
+project_path = "Dalamud.DiscordBridge"
+changelog = """
+Disables the most recent changes to clear message queue on login/logout.
+
+This plugin is looking for a new owner/maintainer. Please reach out to Franz if you want to adopt it.
+"""
