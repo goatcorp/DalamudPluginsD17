@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "302cf19606e7374f0c45fa4e5a0356028ab23be3"
+commit = "6f372c354644f3b72c946992d1537d4217fab5a3"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Added string localization (thanks `@barrcodes`!).
+- **General**: Fixed UI error on channel selection tab.
+- **System**: Fixed TTS delays.
 """
