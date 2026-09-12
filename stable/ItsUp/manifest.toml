@@ -1,11 +1,13 @@
 [plugin]
 repository = "https://github.com/juan-medina/ItsUp.git"
-commit = "6541bf222d6e42721344b182cdeaefa94bac8e15"
+commit = "d6222f09ea78ccdd2b3314668c5bfe89138cfa44"
 owners = ["juan-medina"]
 project_path = "ItsUp"
 changelog = """
-- Added support for combo and proc actions.
-- Added a Preview mode.
-- Smoothed the cooldown swipe.
-- Cleaned up settings window.
+- Show hotbar keybinds on ability icons.
+- Role abilities are now tracked per job.
+- Added an option to only show while inside duties.
+- Added an option to toggle the marching ants border animation.
+- Improve config window.
+- Added /itsup preview and /itsup reset slash commands.
 """
