@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "611582cfde06d26fbbe95de4a1373c5d4247eb22"
+commit = "b9156b2c2c3ae635384810fad565cfdc9a8d69cb"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Presumably Special Timeworn Map to moogle event
+- **Progress**: Fix mount reward id for Hallowed Kamuy
 """
