@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/nesforia/tether.git"
+commit = "47fcc23b44182376718cb1f0065b32618450a631"
+owners = ["nesforia"]
+changelog = ''''''
