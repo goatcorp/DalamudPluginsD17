@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/GodRayine/HUD-Workshop.git"
-commit = "b10560f47b3427e5cc6e529e1b18acaffe132571"
+commit = "2da8f40ffab26494b7d2aebf2181cf457efd0bf0"
 owners = ["GodRayine"]
 project_path = "plugin"
 changelog = "Initial testing release: in-game HUD editing with snapping, group operations, element properties and layout-code sharing."
