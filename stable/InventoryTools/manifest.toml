@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "d97f5a97b92894e00cea9d4f669ecdf558af3e79"
+commit = "70a9f410d9a8ab97bef6bcf795415ea2d7c75097"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.12"
+version = "1.15.0.13"
 changelog = "### Added\n- Added a tooltip that lists which of your curated lists contain the hovered item\n- Added IPC  which counts an item across a character and its retainers in a single call, scoped by inventory category with the option to include/exclude shared storage(free companies/housing)\n- Added IPC  which returns the same count broken down per character, retainer, free company and house\n### Fixed\n- Certain items that can be collectable were not showing up in the retrieval list in craft lists\n- IPC  and  were throwing an exception when given a character with no loaded inventory, now return an empty array"
