@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "b9156b2c2c3ae635384810fad565cfdc9a8d69cb"
+commit = "a47d82335b848bfc65454a35d28a61f1d170aa42"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix mount reward id for Hallowed Kamuy
+- **General**: Fix potential ImGui assertion errors due to columns headers
+- **Progress**: Fix Old moogle reward not showing after 1.12.15 rework
 """
