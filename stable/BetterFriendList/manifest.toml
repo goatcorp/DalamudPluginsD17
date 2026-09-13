@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "4d8c9eae150a89192632090b16e3cf042d7eeecc"
+commit = "d6ba207b6864a4e7f9ba7b9ba9ad03b57ef59098"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-v2.1.4.2:
-- add beastmaster icon
+v2.1.4.3:
+change imgui ids to to prevent wrong behavior when refreshing friendlist and editing color/comment..
 """
