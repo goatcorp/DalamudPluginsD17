@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "1ba2de3c7be5f4cef35eb7a151546a8ffac0ff9a"
+commit = "1b61f09eb2847f138c1b4cdffd842e5011c50f62"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- Added provisional Beastmaster support
+- Fixed some self-inflicted exceptions.
+- Separated the saved entries view for beastmaster and summoner
 Warning: 
 - There's a very real chance that I ommited something, or broke some of the existing scaling, so this is a true testing release.
   
