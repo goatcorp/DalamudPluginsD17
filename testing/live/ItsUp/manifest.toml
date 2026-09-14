@@ -1,13 +1,8 @@
 [plugin]
 repository = "https://github.com/juan-medina/ItsUp.git"
-commit = "d6222f09ea78ccdd2b3314668c5bfe89138cfa44"
+commit = "263e6e6e71f65bea0682ac002e0203052b3467de"
 owners = ["juan-medina"]
 project_path = "ItsUp"
 changelog = """
-- Show hotbar keybinds on ability icons.
-- Role abilities are now tracked per job.
-- Added an option to only show while inside duties.
-- Added an option to toggle the marching ants border animation.
-- Improve config window.
-- Added /itsup preview and /itsup reset slash commands.
+- Fix error loading plugin on game restart
 """
