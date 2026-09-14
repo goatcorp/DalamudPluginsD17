@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "cec77b6fab6affd8c5db7e49b5d710c5219e3b5a"
+commit = "646dbb284be77e2f2763573e83a9f43414adc285"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- Clear beast name filter upon selection
-- Prevent AllPets applying to beasts and vice-versa
-- Actually scale the beastmaster pets
-- Figured out the normal / variant skins thanks to Glyceri
+- Beasts are scaled irrelevant of their alt skin
 Warning: 
 - There's a very real chance that I ommited something, or broke some of the existing scaling, so this is a true testing release.
   
