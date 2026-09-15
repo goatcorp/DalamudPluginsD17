@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Shuro/dalamud-plugins.git"
+commit = "7748092c6c2c2fddb2498be2532f128fb0950198"
+owners = ["Shuro"]
+project_path = "GobchatEx"
+changelog = "Initial release."
