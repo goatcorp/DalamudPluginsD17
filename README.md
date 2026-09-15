@@ -56,6 +56,7 @@ These criteria are intended to prevent issues for users. We are happy to work wi
 There are a few technical requirements that must be met before submitting your plugin. They will make your plugin nicer to use.
 
 - Your plugin **must have** an `icon.png` that is no larger than 512x512 and no smaller than 64x64, located in `images/`.
+- Any additional images in this folder to display on the installer must be no larger than 730x380 and must also be `.png` format.
 - For regular windows, such as settings and utility windows, you should use the [Dalamud Windowing API](https://dalamud.dev/api/Dalamud.Interface.Windowing/). It enhances windows with features like integration into the native UI closing order, pinning, and opacity controls. If it looks like a window, it should use the Windowing API. We will not reject updates to existing plugins for this, but we encourage everyone to upgrade.
 - Your plugin's version and assembly version **must not** be based on a timestamp or a continually increasing build number. Every time your plugin is built from a specific commit, regardless of the time or date, should produce the same version.
 
