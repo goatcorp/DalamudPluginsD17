@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/mashirochan/FFXIV-BatteryBuddy.git"
-commit = "fcfc99fbf87d8d72d3c38f0dabc3fcc2f2f8344c"
+commit = "fb67812d53792ac62c1f7e0b696884feed8b1b37"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Hide main window when no devices are enabled/connected"
+changelog = "Fix low battery notification timer"
