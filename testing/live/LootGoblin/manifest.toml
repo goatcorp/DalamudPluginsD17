@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Stinguim/Loot-Goblin-FF14.git"
+commit = "88d25479488f73d832c0f7c9684f5ce55289c6d1"
+owners = ["Stinguim"]
+project_path = "LootGoblin"
+changelog = "First public version. Tracks Need/Greed/Pass rolls per chest, shows who won each item, and groups everything by dungeon."
