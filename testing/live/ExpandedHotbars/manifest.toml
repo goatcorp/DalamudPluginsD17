@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/MidoriKami/ExpandedHotbars.git"
-commit = "b86ec762be9de69e3f322e79f5f91aa5981181e0"
+commit = "e088d92222b7b3fb8d609d224b45fd69829f42c5"
 owners = ["MidoriKami" ]
 project_path = "ExpandedHotbars"
