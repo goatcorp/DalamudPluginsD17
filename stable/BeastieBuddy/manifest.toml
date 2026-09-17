@@ -1,7 +1,7 @@
 # stable/BeastieBuddy/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/BeastieBuddy.git"
-commit = "35c54031acc9289747c3301e90dad5c041a46921" 
+commit = "6a39010c534e05525909ab77d5a575709f7aafbf" 
 owners = ["rail2025"]
 # project_path = "BeastieBuddy" # Only uncomment and use if your .csproj is NOT at the root of your repo
-changelog = "v7.56.0.0: updated beast icons, location search filtering\nv7.55.0.3:desktop alternative app release info"
+changelog = "v7.56.1.0: Bestiary updated with stats per beast, new dps ranking tab added\nv7.56.0.0: updated beast icons, location search filtering\nv7.55.0.3:desktop alternative app release info"
