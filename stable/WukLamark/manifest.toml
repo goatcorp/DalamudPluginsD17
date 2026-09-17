@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/WukLamark.git"
-commit = "181827d38f60badb5e60d15231ee19886cf73f1b"
+commit = "5d67b8e54811d2d896f9aa2d5fc49aa89a572fd6"
 owners = [
 	"Bronya-Rand"
 ]
