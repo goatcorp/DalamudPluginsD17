@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "a47d82335b848bfc65454a35d28a61f1d170aa42"
+commit = "d4bafb2c2134c0faf3d67cb801efddfd7b663ae9"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Fix potential ImGui assertion errors due to columns headers
-- **Progress**: Fix Old moogle reward not showing after 1.12.15 rework
+- **Progress**: Add FF15 collab event and rewards
 """
