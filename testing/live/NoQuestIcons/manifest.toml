@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
+commit = "a069b401bcd291c2d50e7c0f7aafab1b528ed633"
+owners = ["GrimmortalDread"]
+changelog = "v1.5.1 - Converted every ImGui Begin/End and Push/Pop pair (tabs, tables, combos, child windows, IDs, disabled state, style colors) to ImRaii, per review feedback. Ties cleanup to C#'s using scope instead of a manually-written matching call, so a future early return or exception can't leave ImGui's internal state corrupted. Also synced plugin description text across the installer punchline, detailed description, and in-game About tab."
