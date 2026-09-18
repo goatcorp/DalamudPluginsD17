@@ -1,11 +1,15 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "2d22af5c9d17e76a67b7e8409f75757c51b893f3"
+commit = "27d022b89592f61769b636ae739e877c7945a00c"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-- Added basic IPC for Allagan Tools and Item Vendor Location
-  - Users of these plugins can view more information on selected items by clicking on "Open in [plugin name]".
-  - These extra options are only visible if the plugins are enabled.
+- Added a config window with a few things to toy with.
+  - You'll find the button to open the menu to the top right of the window, where the checkbox used to be. (I hope.)
+  - Added a setting to sort items by their internal ID and by popularity (i.e. how many times they were used) in ascending and descending order.
+  - For Allagan Tools users: the ability to highlight items you own (or rather, dim those you don't) and to display them above other items.
+- The checkbox to opt in and out of crowdsourcing has been moved into the config window.
+- Slightly rephrased the onboarding window to accompany these changes.
+- You guessed it - more refactoring.
 """
 
