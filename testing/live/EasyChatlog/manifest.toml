@@ -1,6 +1,10 @@
 [plugin]
 repository = "https://github.com/ElyFura/Easy-Chatlog.git"
-commit = "396d7f2c6b1a4dd9b34bb6eec5c657f7faef0c31"
+commit = "ea53ba82b55016408f2e24f505679404d4b9265d"
 owners = ["ElyFura"]
 project_path = "EasyChatlog"
-version = "0.1.9.6"
+version = "0.1.9.7"
+changelog = """
+- Update Dependencies
+- Added suppport for German and English UI.
+"""
