@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/JustPixelll/ShouldISell.git"
+commit = "89b1fd9959ac7de7ebefc4f7226cfe7b39e9fc15"
+owners = ["JustPixelll"]
+project_path = "ShouldISell"
+changelog = "Initial testing release of Should I?: Sell, Buy, Craft, Gather, Should I Do?, Tycoon, native item tooltip insights and inventory lookups. Reviewer follow-up fixes opening-inventory FIFO, purchase correlation, oversized-lot handling, render-loop caching, sortable/open-ended tables, and production/market logic."
