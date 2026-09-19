@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Bronya-Rand/KeybindsPlus.git"
+commit = "e91b33499dbe8393abe910dfb8dcff5fc7f65648"
+owners = [
+	"Bronya-Rand"
+]
+project_path="KeybindsPlus"
