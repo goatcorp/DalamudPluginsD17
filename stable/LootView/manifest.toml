@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "7e70f263adefc5c9c9887643fb01363be915ee2c"
+commit = "4938224f98d8b8b941de6c8ba1d56887bb6f7076"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
@@ -11,7 +11,7 @@ A complete visual overhaul, plus market value estimates.
 - Every window redesigned around one theme: dark glass panels, brass rules and crystal-blue highlights.
 - Removed the Compact and Neon layouts. Classic is now the only view and received all of the design work.
 - Settings moved from stacked collapsing headers to a sectioned window with a navigation rail.
-- New: estimated market value of your loot, priced for your home world via Universalis. Can be turned off in the settings.
+- New: estimated market value of everything you loot, priced for your home world via Universalis. The running total is independent of how many items the list keeps and has its own reset button. Can be turned off in the settings.
 - Statistics charts are now properly drawn, with hover tooltips, in place of the old text bars.
 - Statistics are computed off the draw thread; large histories no longer freeze the game when the window opens.
 - Fixed an O(n^2) pass over the whole history that stalled the game for seconds on large collections.
