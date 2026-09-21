@@ -1,11 +1,24 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "8f658020d4bf93551cd4e729ac6e577fb84f0d1a"
+commit = "7e70f263adefc5c9c9887643fb01363be915ee2c"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.3.4
-- Recognized more measure words in loot messages (roll of, bunch of, basket of, sheet of, glass of, pouch of, sack of, crate of)
-- Preserved genuine item names that look like measure words, fixing "Set of Liquor Bottles", "Pot of Cream Stew" and "Basket of Flowers"
-- Fixed fishing catches of more than one fish being recorded as a single item
+# Version 1.4.0
+
+A complete visual overhaul, plus market value estimates.
+
+- Every window redesigned around one theme: dark glass panels, brass rules and crystal-blue highlights.
+- Removed the Compact and Neon layouts. Classic is now the only view and received all of the design work.
+- Settings moved from stacked collapsing headers to a sectioned window with a navigation rail.
+- New: estimated market value of your loot, priced for your home world via Universalis. Can be turned off in the settings.
+- Statistics charts are now properly drawn, with hover tooltips, in place of the old text bars.
+- Statistics are computed off the draw thread; large histories no longer freeze the game when the window opens.
+- Fixed an O(n^2) pass over the whole history that stalled the game for seconds on large collections.
+- The loot list highlights new drops, marks rarity on every row and sizes its columns to the content.
+- The roll window is now a set of rarity-tinted cards with a countdown ring and a crown on the winner.
+- New: release notes appear once after each update, and from Settings - About.
+- The overlay now waits until your character has finished logging in before it appears.
+- Loot parsing recognises "sprig of".
+- Fixed a drawing error being able to leave ImGui's window stack unbalanced.
 """
