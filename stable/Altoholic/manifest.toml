@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "03f0ad8ed831966ebdc9e1d3b8827d71bbd0474d"
+commit = "914dd99bc0c92e6fcfd1d2fb84ba72a6095a726b"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix Moogle event Dhalmel to correct one (not interstellar)
+- **Timers**: Set potential negative values for minicactpot and fashion report allowances to 0
 """
