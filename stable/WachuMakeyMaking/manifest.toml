@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "e56373c4e7290d51189af83af52a013dc518c29d"
+commit = "450f683bd56051958edfbeb2b71b59c8db752af1"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
-
 changelog = """
-WachuMakeyMaking takes what you have in your inventory and calculates the optimal combination of items to make.
-Item prices are fetched from Universalis, or can be manually overridden.
-
-Make the most with what you have!
+ - Added the option to add all the resources needed to craft an item in one go (only direct ingredients, not recursive)
+ - Added resource addition filters that let you filter the dropdowns by the type of recipes they appear in. Each box ticked will add more options.
+   - e.g. selecting "11-15", "51-55", and "Tabletop" will combine all things that can be crafted from those 3 groups and find the ingredients referenced by all of them.
+   - The 4 "Other" divisions that start with "Only" are mutually exclusive pairs that restrict, rather than add, from the combined list you selected above.
 """
