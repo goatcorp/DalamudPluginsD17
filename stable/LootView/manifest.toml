@@ -1,24 +1,19 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "4938224f98d8b8b941de6c8ba1d56887bb6f7076"
+commit = "e7f754d692b86ea2d36d870752d21482f1580fb7"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.4.0
+# Version 1.5.0
 
-A complete visual overhaul, plus market value estimates.
+Roll timers, passes and a way to report problems.
 
-- Every window redesigned around one theme: dark glass panels, brass rules and crystal-blue highlights.
-- Removed the Compact and Neon layouts. Classic is now the only view and received all of the design work.
-- Settings moved from stacked collapsing headers to a sectioned window with a navigation rail.
-- New: estimated market value of everything you loot, priced for your home world via Universalis. The running total is independent of how many items the list keeps and has its own reset button. Can be turned off in the settings.
-- Statistics charts are now properly drawn, with hover tooltips, in place of the old text bars.
-- Statistics are computed off the draw thread; large histories no longer freeze the game when the window opens.
-- Fixed an O(n^2) pass over the whole history that stalled the game for seconds on large collections.
-- The loot list highlights new drops, marks rarity on every row and sizes its columns to the content.
-- The roll window is now a set of rarity-tinted cards with a countdown ring and a crown on the winner.
-- New: release notes appear once after each update, and from Settings - About.
-- The overlay now waits until your character has finished logging in before it appears.
-- Loot parsing recognises "sprig of".
-- Fixed a drawing error being able to leave ImGui's window stack unbalanced.
+- New: every item in the roll window shows how long is left to roll on it, with a bar that turns amber and then red.
+- New: passes now appear in the results, along with items you aren't allowed to roll on and party members who never chose.
+- New: while an item is open, the roll window lists who in your party still has to decide.
+- New: when an item is awarded, its card plays a short light sweep and spark burst. Follows your particle effect settings.
+- Every loot session now reaches an end: items everyone passed on, items that timed out and rolls you left the duty on all close properly.
+- Each resolved item leaves the roll window on its own after 20 seconds, with a countdown on the card. Adjustable in Settings - Tracking.
+- New: Settings - Diagnostics shows LootView's live log, filterable by level and text, and copies a ready-to-paste report.
+- New: Report a bug and Suggest a feature buttons open a pre-filled GitHub issue.
 """
