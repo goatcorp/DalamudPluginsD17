@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "914dd99bc0c92e6fcfd1d2fb84ba72a6095a726b"
+commit = "97e455bf39ebf4b07e2508a65cf394fc42bdac0c"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Set potential negative values for minicactpot and fashion report allowances to 0
+- **Timers**: Another fix concerning minicactpot's allowances
 """
