@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "833f81e67019ac28fa669805fbaa3c31b40dc3ba"
+commit = "ca9a9603d63fd5fbbeace426d089c8caffa10c97"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
 changelog = """
- - Added the ability to toggle seen inventories on and off
+ - Fixed bug in filter resource candidates using the incorrect ids
 """
