@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0828565765b14c1a8559e5b3570b7ff8418dfa09"
+commit = "d1da6a0c437bcc3d5653e2e0442ad6ae7d891f10"
 owners = ["Glyceri"]
 	changelog = """
-[2.10.1.0] 
-Fixes an issue where names wouldn't always show on all client languages.
-Fixes a crash in certain circumstances having to due with the castbar.
-Refactored a lot of code to get rid of duplicate, unnessesary, or in general inoptimal code.
+[3.0.0.1] 
+- Push from testing to stable.
+- (Added an emote tracker that I will later use for that replacing).
 """
 
 
