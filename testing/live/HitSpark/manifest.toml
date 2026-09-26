@@ -1,0 +1,19 @@
+[plugin]
+repository = "https://github.com/GitHixy/HitSpark.git"
+commit = "715246853fadfb755206bba3f6b5392ca1ad7116"
+owners = ["GitHixy"]
+project_path = "."
+changelog = """
+# Version 0.1.0
+
+First release of HitSpark, a complete replacement for the game's combat text.
+
+- Redraws every kind of combat text: damage dealt and taken, healing, misses and evades, status effects, experience, crafting and loot.
+- Eight built-in presets: Classic+, Heroic, Tally, Onslaught, Elemental, Grim, Minimal and Retro.
+- Motion and impact: arcs, fountains, rising and falling paths, scrolling columns; punch, shake, flash, sparks and trails on crits.
+- Multi-hits and damage over time can roll up into one number; DoT ticks have their own colour and are credited to whoever applied them.
+- Other players' numbers can be shown smaller or hidden, separately for party and others.
+- Style editor for every category with a live preview; presets can be shared as a short code.
+- Test mode plays sample numbers on you and your target, in or out of combat.
+- Follows the game's flying text and pop-up text options, hides in cutscenes and GPose, and falls back to the game's own text if anything fails.
+"""
