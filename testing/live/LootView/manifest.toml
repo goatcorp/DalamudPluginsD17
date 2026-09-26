@@ -1,19 +1,10 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "e7f754d692b86ea2d36d870752d21482f1580fb7"
+commit = "debc1cd9b04c3c61b6d3b502fc8abfecb086075d"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.5.0
+# Version 1.5.1
 
-Roll timers, passes and a way to report problems.
-
-- New: every item in the roll window shows how long is left to roll on it, with a bar that turns amber and then red.
-- New: passes now appear in the results, along with items you aren't allowed to roll on and party members who never chose.
-- New: while an item is open, the roll window lists who in your party still has to decide.
-- New: when an item is awarded, its card plays a short light sweep and spark burst. Follows your particle effect settings.
-- Every loot session now reaches an end: items everyone passed on, items that timed out and rolls you left the duty on all close properly.
-- Each resolved item leaves the roll window on its own after 20 seconds, with a countdown on the card. Adjustable in Settings - Tracking.
-- New: Settings - Diagnostics shows LootView's live log, filterable by level and text, and copies a ready-to-paste report.
-- New: Report a bug and Suggest a feature buttons open a pre-filled GitHub issue.
+- The support buttons in the loot window, Settings and What's New now open LootView's Patreon page instead of Ko-fi. Everything stays free, as always.
 """
