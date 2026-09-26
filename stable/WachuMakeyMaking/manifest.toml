@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "833f81e67019ac28fa669805fbaa3c31b40dc3ba"
+commit = "9af09d3c6f49c27c2bd1ef2340eb4c6074b93bb7"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
 changelog = """
- - Added the ability to toggle seen inventories on and off
+ - Fixed bug in filter resource candidates using the incorrect ids
+ - Fixed issue where the "Other" tag was overly inclusive of any items that had at least one division that didn't match, rather than all divisions not matching which is intended.
+ - Renamed and regrouped headers for clarity
 """
