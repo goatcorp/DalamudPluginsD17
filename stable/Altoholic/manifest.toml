@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "97e455bf39ebf4b07e2508a65cf394fc42bdac0c"
+commit = "6df6d708388d7a87ce83bcacc11a39f8318e5cbf"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Another fix concerning minicactpot's allowances
+- **Timers**: Yet another minicactpot allowances potential fix
 """
