@@ -1,15 +1,10 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "27d022b89592f61769b636ae739e877c7945a00c"
+commit = "81b7cd1f72a355036ce5844f650ff415d8f85897"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-- Added a config window with a few things to toy with.
-  - You'll find the button to open the menu to the top right of the window, where the checkbox used to be. (I hope.)
-  - Added a setting to sort items by their internal ID and by popularity (i.e. how many times they were used) in ascending and descending order.
-  - For Allagan Tools users: the ability to highlight items you own (or rather, dim those you don't) and to display them above other items.
-- The checkbox to opt in and out of crowdsourcing has been moved into the config window.
-- Slightly rephrased the onboarding window to accompany these changes.
-- You guessed it - more refactoring.
+- Plugin now checks for new data on an hourly basis.
+- Minor hotfix.
 """
 
