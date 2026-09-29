@@ -1,11 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "d1da6a0c437bcc3d5653e2e0442ad6ae7d891f10"
+commit = "8f0b9c2c2656c6b74c959f5984a4a54f26b9baeb"
 owners = ["Glyceri"]
 	changelog = """
-[3.0.0.1] 
-- Push from testing to stable.
-- (Added an emote tracker that I will later use for that replacing).
+[3.0.0.2] 
+- Fixes an issue where switching alt's wouldn't push an update over IPC.
 """
 
 
