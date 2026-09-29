@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/ibigsnet/shout-calendar.git"
+commit = "43899e15ae99ecc22e1842ec3c393408c9c32d7a"
+owners = ["ibigsnet"]
+project_path = "src/ShoutCalendar"
+changelog = "Initial testing submission: local chat-invite calendar, appearance presets, recurring events and optional Sync integration."
+
+# Draft: add encrypted public_relay_host after the official Plogon recipient key is renewed.
+# Unconfigured source builds support the local calendar and custom relays only.
