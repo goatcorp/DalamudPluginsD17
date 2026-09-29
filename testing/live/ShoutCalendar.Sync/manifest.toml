@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/ibigsnet/shout-calendar-sync.git"
+commit = "2c5f03fc5d9a03836e3cec2e8d0ce03ddf54bded"
+owners = ["ibigsnet"]
+project_path = "src/ShoutCalendar.Sync"
+changelog = "Initial testing submission: optional public Shout/Yell sharing companion; requires Shout Calendar 0.1.32 or newer."
+
+# Draft: add encrypted public_relay_host after the official Plogon recipient key is renewed.
+# Unconfigured source builds support custom relays only.
