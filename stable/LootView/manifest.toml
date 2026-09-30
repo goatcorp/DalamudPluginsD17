@@ -1,10 +1,17 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "debc1cd9b04c3c61b6d3b502fc8abfecb086075d"
+commit = "b04fbed30ca4b6d20ee4a246a34f9472be620d47"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.5.1
+# Version 1.6.0
 
-- The support buttons in the loot window, Settings and What's New now open LootView's Patreon page instead of Ko-fi. Everything stays free, as always.
+- LootView now works with every game language: Japanese, German and French clients see their drops and rolls just like English ones.
+- Need, Greed and Pass buttons on every open item in the roll window. Only the choices the game allows you are offered.
+- The game's own Need/Greed window now stays hidden, so every roll happens in LootView. A button in the roll panel brings it back, and you can turn this off in Settings → Tracking.
+- Items still waiting for your choice are listed first, newest on top.
+- Hovering an item shows its full details: item level, jobs, stats, bonuses, materia slots, description and market price.
+- Right-click an item to try it on, open it on Garland Tools or Universalis, or copy its name.
+- Minions, mounts, orchestrion rolls, Triple Triad cards, emotes, hairstyles and portrait frames show whether you already have them.
+- LootView now has a Discord server: https://discord.gg/9kjUjWDBkJ
 """
