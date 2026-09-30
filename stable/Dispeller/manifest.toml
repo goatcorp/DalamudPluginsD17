@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Lovasz-Akos/DispellerPlugin.git"
-commit = "a0506935fe08782230b34ef279aa1589f0caf89a"
+commit = "4ab18e68ce04c1d1dd95848b6ab456d876423152"
 owners = ["pupwife"]
 maintainers = ["Lovasz-Akos"]
 changelog = """
