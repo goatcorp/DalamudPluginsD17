@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/KeybindsPlus.git"
-commit = "e91b33499dbe8393abe910dfb8dcff5fc7f65648"
+commit = "3dffe969b0d5c7bdb00089c52b698bb4daa7b85e"
 owners = [
 	"Bronya-Rand"
 ]
