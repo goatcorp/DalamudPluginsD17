@@ -10,5 +10,5 @@ changelog = """
 - Fixed HQ and NQ items not being compared
 - Added a config window
 - Added color variance filtering
-- Added name copy button for quick serach
+- Added name copy button for quick search
 """
