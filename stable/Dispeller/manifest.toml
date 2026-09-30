@@ -2,7 +2,7 @@
 repository = "https://github.com/Lovasz-Akos/DispellerPlugin.git"
 commit = "a0506935fe08782230b34ef279aa1589f0caf89a"
 owners = ["pupwife"]
-maintainers = ["naara"]
+maintainers = ["Lovasz-Akos"]
 changelog = """
 - Updated to API 15
 - Fixed model detection skipping too many things to list
