@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6df6d708388d7a87ce83bcacc11a39f8318e5cbf"
+commit = "6701e877832cbe51890f8798bca8bf87cd5b1c59"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Yet another minicactpot allowances potential fix
+- **Progress**:
+    - Event: Add Blunderville 2026
+	- Blunderville: Add outfit and furnitures to rewards in Blunderville tab
 """
