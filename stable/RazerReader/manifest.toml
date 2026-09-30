@@ -1,6 +1,6 @@
 [plugin]
-repository = "https://github.com/mashirochan/FFXIV-RazerReader.git"
-commit = "e75425af3cdf9d1eaa5290f4b9ad03757af245d3"
+repository = "https://github.com/mashirochan/FFXIV-BatteryBuddy.git"
+commit = "6d5f2cbbdfe3a82703a208ce119834d17e0ae722"
 owners = ["mashirochan"]
 project_path = "RazerReader"
-changelog = "Update to API 15"
+changelog = "Fix low battery notification timer"

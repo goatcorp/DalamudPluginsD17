@@ -1,12 +1,10 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0828565765b14c1a8559e5b3570b7ff8418dfa09"
+commit = "8f0b9c2c2656c6b74c959f5984a4a54f26b9baeb"
 owners = ["Glyceri"]
 	changelog = """
-[2.10.1.0] 
-Fixes an issue where names wouldn't always show on all client languages.
-Fixes a crash in certain circumstances having to due with the castbar.
-Refactored a lot of code to get rid of duplicate, unnessesary, or in general inoptimal code.
+[3.0.0.2] 
+- Fixes an issue where switching alt's wouldn't push an update over IPC.
 """
 
 

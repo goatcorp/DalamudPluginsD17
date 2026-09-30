@@ -1,7 +1,8 @@
 # stable/live/AetherDraw/manifest.toml
 [plugin]
 repository = "https://github.com/rail2025/AetherDraw.git"
-commit = "72037842083219eef2b7a2677e675d888105e8e9" 
+commit = "72037842083219eef2b7a2677e675d888105e8e9"
 owners = ["rail2025"]
+maintainers = ["nebel"]
 # project_path = "AetherDraw" # Only uncomment and use if your .csproj is NOT at the root of your AetherDraw repo
 changelog = "v7.5.0.1: added o8s maps for pre-ultimate planning"

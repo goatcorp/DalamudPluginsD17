@@ -2,14 +2,17 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "18e52baecc5b7aabd0ae991cdc1dbccc9c7ec378"
+commit = "7455d5d84c694c8218ed5edfee30a46886168fd3"
 changelog = """
-## 1.2.7
+## 1.3.1
 ### Added
-- New Currencies: Oizys Credits & Auxesia Credits.
-- Highlighting for NPCs and items/menus thanks to electr0sheep.
-- Option to automatically add/remove upgrade items to \\\"Items of Interest\\\".
+- Option to hide items, that are not obtainable.
+- Currencies that require to be in a specific location will now be hidden, if not in that area.
+### Changed
+- Major refactoring of some code.
+- The icon for the required quest or achievement will now be colored/changed depending on the unlock status.
 ### Fixed
-- Select Bait Ball was missing.
+- Faux Leaves now correctly cap at 1000.
+- Fixed bug that will prevent the correct display of the window when sorting.
 """
-version = "1.2.7"
+version = "1.3.1"

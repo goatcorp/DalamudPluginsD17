@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/VioletStardustXIV/XivGearExport.git"
-commit = "b06c3dff523ef886b6bb0b346332d72574ce7197"
+commit = "1a4a4ebf7f9d10911bf1b7975024fd4672ba5622"
 owners = ["VioletStardustXIV"]
 project_path = "XivGearExport"
 changelog = """
-- Compatibility with 7.5 and Dalamud 15.
+- Updated exported URLs to use the new, slash-based XivGear paths.
 """

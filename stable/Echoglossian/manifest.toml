@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "2b3c2518b300812c6014c26bcfe25e8c228c3270"
+commit = "fcda77e8c294a9a821c18b23db12cc9828138d38"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0712.1140 \n production release:\n - explicit retranslate-and-persist support for TalkSubtitle, CutSceneSelectString, and TextGimmickHint story surfaces\n - visible story-surface provenance and direct View In DB Manager handoff in /eglotranslatordebugger\n - shared read-only DB inspection components reused between the debugger and DB manager, plus follow-up diagnostics hardening"
+changelog = "v4.2601.0829.2219 \n Arabic RTL overlay fix release:\n - fix #274 so overlay target language stays synchronized with Config.Lang during startup and config refresh\n - make Google Translate honor the per-call target language to avoid stale global RTL routing\n - add deterministic Arabic Previewer and Mock validation coverage for the overlay fix"

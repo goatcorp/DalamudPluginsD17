@@ -1,14 +1,21 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
-project_path = "EchoXIV"
-commit = "a9fb7ae00517c3e1414be14a2896e35dfb98ddeb"
+commit = "3916be122ef050dd60ff4b1d1a9d8ba854edaa14"
 owners = ["ssalazar217"]
+project_path = "EchoXIV"
 changelog = """
-v1.0.0.0:
-- Initial release of EchoXIV.
-- Bidirectional chat translation using Google Translate and Papago with automatic failover.
-- Translate outgoing messages with `/tl <message>` in any supported chat channel.
-- Automatic incoming message translation displayed in an integrated Dalamud window.
-- Localized UI supporting 10+ languages (en, es, fr, de, ja, it, ko, no, ru, zh-Hans, zh-Hant).
-- No API key required.
+v1.0.2.1:
+- Added Gemini, Claude, ChatGPT, DeepSeek, OpenRouter, LibreTranslate, and Yandex translation engines.
+- Added configurable translation instances with primary engine selection, ordered fallback, and recovery probing.
+- Added per-instance model, API key, temperature, and response token limit settings.
+- Added single-request AI romanization with native and Latin-script output in structured JSON.
+- Improved romanization support for Japanese, Korean, Chinese, Russian, and Ukrainian.
+- Improved translated-chat display for native text, Latin-script text, original messages, and tooltips.
+- Unified translation logs with the selected engine, target language, elapsed time, and romanization.
+- Added local language detection to skip translation when messages already match the configured target language.
+- Added configurable language-detection confidence from 70% to 100%, with an 85% default.
+- Added independent translated-window message limits and size-based persistent chat history.
+- Added history search and filtering, and made Clear remove only messages currently displayed.
+- Added direct settings access from the translated-chat window and an option to control /tl chat status messages.
+- Centralized engine, instance, priority, and failover management in the Engines tab.
 """

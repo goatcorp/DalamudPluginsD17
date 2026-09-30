@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "b789ce8bf4d9a40900676b19f6ef3cec1ff14083"
+commit = "6df6d708388d7a87ce83bcacc11a39f8318e5cbf"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Timers**: Fix chat timer remainder reminder message for custom delivery
+- **Timers**: Yet another minicactpot allowances potential fix
 """

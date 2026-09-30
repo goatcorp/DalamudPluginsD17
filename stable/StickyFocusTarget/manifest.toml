@@ -1,7 +1,12 @@
 [plugin]
 repository = "https://github.com/smileyhead/conditional-focustarget.git"
-commit = "336a3be12612f9325609f96c6ff3f4a55c547151"
+commit = "61a60a150e5a78f7c9000d9a493acc49ed46a6aa"
 owners = ["smileyhead"]
 project_path = "StickyFocusTarget"
 changelog = """
-Bump Dalamud API to 15.0.0"""
+- Added filtering options to focus-targeting. By default, /sft will now only target players and combat NPCs, but this can be customised.
+- Added a credits page with GitHub attributions. Future contributors will be added here as needed.
+- Added tabs to house these new pages without cluttering the UI.
+- The command description now only shows up on the About page.
+- Fixed the window size so that it doesn't keep resizing all over the place when changing tabs or languages.
+"""
