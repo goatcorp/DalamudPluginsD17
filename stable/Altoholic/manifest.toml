@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "6701e877832cbe51890f8798bca8bf87cd5b1c59"
+commit = "49785d66cf511ae9ed809a9bb630fa6aeda6c613"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**:
-    - Event: Add Blunderville 2026
-	- Blunderville: Add outfit and furnitures to rewards in Blunderville tab
+- **General**: Indicate 'N/A' for non available hairstyles on races (example: ffxv's for hrothgar) in all rewards lists
 """
