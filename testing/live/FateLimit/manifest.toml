@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/GitHixy/FateLimit.git"
+commit = "7a62c45efaa634786e71b07a6d7e3a24e583d3a9"
+owners = ["GitHixy"]
+project_path = "."
+changelog = """
+# Version 0.1.0
+
+First release of FateLimit, which draws the border of FATE areas in the world and warns you before you step out.
+
+- Five border styles: Aether ring, Barrier wall, Marching dashes, Crystal runes and FATE ember, each with its own colour, thickness, height, spacing, glow and animation.
+- Show borders all the time, or only when you get close to the edge of the FATE you're in.
+- Optionally warn only about the FATE you're level-synced to, or also when walking up to a FATE from outside.
+- Near the edge the border turns to a warning colour, a banner shows the distance left and a marker hovers over the closest point.
+- Borders follow the terrain over hills and slopes.
+- /fatelimit test places a practice FATE around you; the settings have a live preview of every style.
+- Hides in cutscenes, GPose and with the game UI hidden.
+"""
