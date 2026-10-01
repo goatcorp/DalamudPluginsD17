@@ -1,17 +1,14 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "dfaede23490e4ff4d24cf79f565b8276dc3c1964"
+commit = "90a4803002ce688b42c06e6ffd4be8694657fb9b"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.6.0
+# Version 1.6.1
 
-- LootView now works with every game language: Japanese, German and French clients see their drops and rolls just like English ones.
-- Need, Greed and Pass buttons on every open item in the roll window. Only the choices the game allows you are offered.
-- The game's own Need/Greed window now stays hidden, so every roll happens in LootView. A button in the roll panel brings it back, and you can turn this off in Settings → Tracking.
-- Items still waiting for your choice are listed first, newest on top.
-- Hovering an item shows its full details: item level, jobs, stats, bonuses, materia slots, description and market price.
-- Right-click an item to try it on, open it on Garland Tools or Universalis, or copy its name.
-- Minions, mounts, orchestrion rolls, Triple Triad cards, emotes, hairstyles and portrait frames show whether you already have them.
-- LootView now has a Discord server: https://discord.gg/9kjUjWDBkJ
+- New currency drawer beside the loot window with every currency you hold (gil, tomestones, scrips, seals, MGP, PvP marks, tribal currencies and more), each cap and the weekly tomestone limit. Gains flash as they come in. Open it with the coin button; choose left or right in Settings → General.
+- A large banner at the top of the screen when someone commends you. Several commendations are counted on one banner, and it waits for the loading screen to finish. Resize, preview or turn it off in Settings → Effects.
+- Loot window scale from 60% to 140% in Settings → Appearance; the window can now be made much smaller.
+- Need, Greed and Pass buttons now sit right under the item name, so incoming rolls no longer push them away.
+- Locking the window from Settings → Appearance now takes effect straight away.
 """
