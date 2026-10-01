@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "90a4803002ce688b42c06e6ffd4be8694657fb9b"
+commit = "b967dfb4a2bf34d6b7b634925403dc235579abaf"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
@@ -11,4 +11,5 @@ changelog = """
 - Loot window scale from 60% to 140% in Settings → Appearance; the window can now be made much smaller.
 - Need, Greed and Pass buttons now sit right under the item name, so incoming rolls no longer push them away.
 - Locking the window from Settings → Appearance now takes effect straight away.
+- With "Hide the game's Need/Greed window" on, closing LootView's roll window now brings the game's window back, so you can always still roll.
 """
