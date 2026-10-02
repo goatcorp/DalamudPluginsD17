@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "8f0b9c2c2656c6b74c959f5984a4a54f26b9baeb"
+commit = "707c9808b6a024ae565b07c39ab352d9362091df"
 owners = ["Glyceri"]
 	changelog = """
-[3.0.0.2] 
-- Fixes an issue where switching alt's wouldn't push an update over IPC.
+[3.0.1.0] 
+- Tentative fix for lag issue in content.
+- Other potential performance improvements.
+- Removed Ephemiral Chat
+- Fixes an issue where the plugin would hang on startup if the game data should be repaired (within reason).
 """
 
 
