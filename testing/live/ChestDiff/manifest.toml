@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/YuuNoce/ChestDiff.git"
+commit = "7de234e16511131b868f2b6e7b5dc10f2e6ea1e9"
+owners = ["YuuNoce"]
+project_path = "ChestDiff"
+changelog = "Initial testing release."
