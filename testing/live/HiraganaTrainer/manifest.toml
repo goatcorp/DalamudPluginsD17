@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/pedroserodio1/hiragana-trainer.git"
+commit = "df531009d7d8faeef32e7a22ab2db7adbb28440a"
+owners = ["pedroserodio1"]
+project_path = "HiraganaTrainer"
+changelog = "Initial submission."
