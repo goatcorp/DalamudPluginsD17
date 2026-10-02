@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/GrimmortalDread/NoQuestIcons.git"
+commit = "a069b401bcd291c2d50e7c0f7aafab1b528ed633"
+owners = ["GrimmortalDread"]
+changelog = "Now available on stable! Hides quest, FATE, leve and other NPC marker icons, with per-category settings, a master toggle keybind and a peek keybind."
