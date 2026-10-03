@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "8f8bcceb3307f5eb5d30c6f6392842d058b49246"
+commit = "12daccfb040bd91425f30f2981286951d9a5b55b"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- Maybe fixed a bug preventing the plugin from loading sometimes
+- Reduced audio latency
 """
