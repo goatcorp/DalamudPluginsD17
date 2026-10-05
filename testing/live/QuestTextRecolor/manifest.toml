@@ -1,16 +1,18 @@
 [plugin]
 repository = "https://github.com/ScareCrowLegion/QuestTextRecolor.git"
-commit = "97e8fc6facb1afe45516c65b2b127dc224361de2"
+commit = "97a79f0a7e2d4b11880b88b3e31896ee1ed3cb4b"
 owners = ["ScareCrowLegion"]
 project_path = "."
 changelog = '''
-Initial official Dalamud testing release.
+Quest Text Recolor v1.3.1
 
-Features:
-- Customize center-screen quest objective text color
-- Customize quest objective edge color
-- Adjust quest objective font size
-- Built-in appearance presets
-- In-game preview popup
-- Reset appearance to plugin defaults
+Changes:
+- Added popup position and scale customization
+- Added optional Penumbra-based quest popup textures
+- Added texture previews in the configuration window
+- Added configuration value validation and clamping
+- Centralized plugin default values and reset behavior
+- About page version now updates dynamically
+- Improved configuration UI consistency
+- Fixed popup texture seam regression
 '''
