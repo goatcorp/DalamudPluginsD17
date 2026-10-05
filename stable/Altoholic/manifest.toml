@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "49785d66cf511ae9ed809a9bb630fa6aeda6c613"
+commit = "ad99fcb391a55ee6726231a91b1d9bcb7dae10bd"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Indicate 'N/A' for non available hairstyles on races (example: ffxv's for hrothgar) in all rewards lists
+- **General**: Fix hairstyle race/tribe availability check
 """
