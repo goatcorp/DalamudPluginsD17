@@ -2,21 +2,17 @@
 repository = "https://github.com/Blackcatz1911/CurrencySpender.git"
 owners = ["Blackcatz1911"]
 project_path = "CurrencySpender"
-commit = "88ce55f1ed2aeb1a5b32b05d9861d2c2aac717c9"
+commit = "7455d5d84c694c8218ed5edfee30a46886168fd3"
 changelog = """
-## 1.3.0
+## 1.3.1
 ### Added
-- Societal currencies are now tracked.
-- New currency: Faux leaves added.
-- New currency: Achievement Cerificates added.
-- Added a tooltip to show when a prerequisite quest is needed.
-- New setting: The possibility to glue the spending windows to the main window.
+- Option to hide items, that are not obtainable.
+- Currencies that require to be in a specific location will now be hidden, if not in that area.
 ### Changed
-- Teleporting now skips the teleport when you are already in the correct zone.
-- The spending window now only opens once shop/item data has finished loading.
-- ConfigWizard reworked to work more resilent and needs less manual config.
-- Refactored some code.
+- Major refactoring of some code.
+- The icon for the required quest or achievement will now be colored/changed depending on the unlock status.
 ### Fixed
-- When no sellable items are found, now shows a proper warning.
+- Faux Leaves now correctly cap at 1000.
+- Fixed bug that will prevent the correct display of the window when sorting.
 """
-version = "1.3.0"
+version = "1.3.1"

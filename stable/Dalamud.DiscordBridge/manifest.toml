@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "19667c04334dd7abfa34f918fac512117129d2f0"
+commit = "ab36b22c2e56484f612a99c818a2d15f2ab29341"
 owners = [
     "reiichi001",
 	"goaaats",
@@ -11,7 +11,7 @@ maintainers = [
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Preliminary update for API 15. There are underlying changes in chat handling. Please report if a given chat type stop working.
+Promoting testing release to stable. Attempts to fix crashes in solo duties by moving from object table to player state based caches. (And only caching the specific strings we need over a whole game object, which is bad.)
 
 This plugin is looking for a new owner/maintainer. Please reach out to Franz if you want to adopt it.
 """

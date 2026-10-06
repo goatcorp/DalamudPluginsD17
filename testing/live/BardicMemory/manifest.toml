@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/OOFGamesss/BardicMemory.git"
+commit = "68c30ca36bc7c9e7fd527d5bf5c00146b7c781fa"
+owners = ["OOFGamesss"]
+project_path = "BardicMemory"
+changelog = "- Plays half a second of a random orchestrion track for you to name, worth six points.\n- Stretch the clip through 1, 2, 4, 8 and 15 seconds, dropping a point each time.\n- Filter the pool by orchestrion category or leave out tracks you have already solved.\n- Keeps a history of every round with totals, streaks and solve rate."

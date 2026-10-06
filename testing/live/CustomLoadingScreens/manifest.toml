@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Abyeon/CustomLoadingScreens.git"
+commit = "9cb15a220dacf59aa4bec594507bedd6fe5470ea"
+owners = ["Abyeon"]
+project_path = "CustomLoadingScreens"
+changelog = "Initial Release"

@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "a77c10c3e0e291569dfa9931b4c4ddb68b9cbae5"
+commit = "313533cdae9f104634dfe59c1416bd27a0728fb4"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "New Config Toggle for Field Operations."
+changelog = "Big UI Changes, bugfixes, etc."

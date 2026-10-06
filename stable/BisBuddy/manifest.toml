@@ -1,8 +1,13 @@
 [plugin]
 repository = "https://github.com/RajahOmen/BisBuddy.git"
-commit = "eb586bae3d60d574cb41097723e7c594071e745d"
+commit = "d2f43d447a3996c364f13ee3b6552ef9e522dd3b"
 owners = ["RajahOmen"]
 project_path = "BisBuddy"
 changelog = """\
-Add basic IPC service, by Zeffuro
+**Added**
+- Support for new XIVGear link format, legacy-style links no longer required
+**Fixes**
+- Fix BST sets causing extreme lag. This is a large change to prerequisites on the backend, so:
+    - Any locked prerequisites / disabled sources may have reset on update, sorry!
+    - There may be bugs with prerequisite generation or assignment. Please report them!
 """

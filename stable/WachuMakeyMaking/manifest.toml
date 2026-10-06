@@ -1,12 +1,14 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "e56373c4e7290d51189af83af52a013dc518c29d"
+commit = "0c12fe8138ed255fe8d1b48d5d1686a1bce824ed"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
-
 changelog = """
-WachuMakeyMaking takes what you have in your inventory and calculates the optimal combination of items to make.
-Item prices are fetched from Universalis, or can be manually overridden.
-
-Make the most with what you have!
+The not-at-all awaited V2.0 is here! :D
+ - Huge "engine" refactor to get rid of all the spaghetti and improve performance
+ - Fixed a lot of bugs around properly reflecting inventory changes when they're added/removed/change inventory
+ - Recipes now reflect what you can make via intermediate steps, e.g. if you don't have iron ingots but you do have ore you can still make it
+ - Results now show how many of what you're needing to use to make them on click
+ - Results recipe open is now shift + click and won't close the recipe if it's already open
+ - A lot more I've probably forgotten by now
 """

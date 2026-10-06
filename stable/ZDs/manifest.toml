@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Zeffuro/ZDs.git"
-commit = "447c1097750a6eb7e91ed6813902da44c5c6d4f3"
+commit = "b43131e2380e1ff78e85309504510729d65f5bd8"
 owners = ["Zeffuro"]
 project_path = "ZDs"

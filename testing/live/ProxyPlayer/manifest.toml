@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Bronya-Rand/ProxyPlayer.git"
+commit = "35963047f5b4d30c81e536a0216ebbf517c9e3bb"
+owners = [
+	"Bronya-Rand"
+]
+project_path="ProxyPlayer"

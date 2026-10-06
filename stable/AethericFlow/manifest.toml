@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/OOFGamesss/AethericFlow.git"
+commit = "3cf4ccacf0c728979599ee97b48fa941ee7f1af1"
+owners = ["OOFGamesss"]
+project_path = "AethericFlow"
+changelog = "- Map links from the Dravanian Hinterlands are now served by the neighbouring zones aetherytes."

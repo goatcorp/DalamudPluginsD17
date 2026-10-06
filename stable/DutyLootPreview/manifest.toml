@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/grittyfrog/DutyLootPreview.git"
+commit = "1ea0e9fd49b4b843d513a29eae0336de7a05228e"
+owners = ["grittyfrog"]
+project_path = "DutyLootPreview"
+version = "0.0.0.1"
+changelog = """
+DutyLootPreview is now a standalone plugin instead of a VanillaPlus module (at MidoriKami's request).
+
+- All functionality is the same.
+- Use `/dlp import` to import your existing DLP settings
+
+The VanillaPlus version of DutyLootPreview will be removed in the near future.
+"""

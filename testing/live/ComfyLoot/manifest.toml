@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/j0giwa/ComfyLoot.git"
-commit = "31f29fb26aa05e1a0b438e6cb7e1b9450db109f5"
+commit = "9ab2ecbcca20726e4ee4858cf51febb2740895bd"
 owners = ["j0giwa"]
 project_path = "."
 changelog = """
-V1.0.4.0
+v1.0.5.0
+- Added Unignore-gate to IPC
+
+v1.0.4.0
 - Fixed some issues with the main UI
 - Added IPC to interact with other plugins
 

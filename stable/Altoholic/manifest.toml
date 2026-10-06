@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "4908fc8e98525510003c3e3afb796bcf83c0c238"
+commit = "b5da2e5af58a411f9c87eb6e8a4eae9d47cc95f2"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Fix Moonfire Faire quest id
+- **General**: Various changes on 'All' lists for high numbers of characters. Allow resizing of modal/popup.
+- **Currencies**: Rework of the way currencies are handled for better usage and maintenance. Nothing changed visually.
 """
