@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/PinkKittyCatte/LapCatCounter.git"
-commit = "3d499d775783c19b83c0d7b6e9eda3caa47471eb"
+commit = "0efa38a3278fb7b2a1f0154df33ac3a68dde64d6"
 owners = ["PinkKittyCatte"]
 project_path = "LapCatCounter"
 changelog = "v1.1.1.1. Added 10 more achievements"
