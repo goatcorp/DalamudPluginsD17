@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
-commit = "8ee4cb0d434730db165222f3e9a6f3904d9e9558"
-owners = ["ImOv3rburdened"]
+commit = "3d499d775783c19b83c0d7b6e9eda3caa47471eb"
+owners = ["PinkKittyCatte"]
 project_path = "LapCatCounter"
-changelog = "v1.1.1.0. Added achievements, 50 of em!, for you lapcats and laps for lapcats"
+changelog = "v1.1.1.1. Added 10 more achievements"
