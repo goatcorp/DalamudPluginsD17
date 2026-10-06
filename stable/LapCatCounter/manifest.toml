@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/ImOv3rburdened/LapCatCounter.git"
+repository = "https://github.com/PinkKittyCatte/LapCatCounter.git"
 commit = "3d499d775783c19b83c0d7b6e9eda3caa47471eb"
 owners = ["PinkKittyCatte"]
 project_path = "LapCatCounter"
