@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AntPerez69367/ffxiv_tipsy.git"
-commit = "82c4cede179ae1c210cf1e79e003ce06cc22d4c5"
+commit = "9869456a87bb2fad537ea8b39234bfabca99494e"
 owners = ["AntPerez69367"]
 project_path = "Tipsy"
 changelog = """
