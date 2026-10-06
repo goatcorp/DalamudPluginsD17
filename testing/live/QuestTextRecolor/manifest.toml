@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/ScareCrowLegion/QuestTextRecolor.git"
+commit = "97a79f0a7e2d4b11880b88b3e31896ee1ed3cb4b"
+owners = ["ScareCrowLegion"]
+project_path = "."
+changelog = '''
+Quest Text Recolor v1.3.1
+
+Changes:
+- Added popup position and scale customization
+- Added optional Penumbra-based quest popup textures
+- Added texture previews in the configuration window
+- Added configuration value validation and clamping
+- Centralized plugin default values and reset behavior
+- About page version now updates dynamically
+- Improved configuration UI consistency
+- Fixed popup texture seam regression
+'''

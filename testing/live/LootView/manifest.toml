@@ -1,9 +1,15 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "7948f38adfa1cdb051a9740548be0ff356d2c4a5"
+commit = "b967dfb4a2bf34d6b7b634925403dc235579abaf"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.3.2
-- Blacklist Bug Fix
+# Version 1.6.1
+
+- New currency drawer beside the loot window with every currency you hold (gil, tomestones, scrips, seals, MGP, PvP marks, tribal currencies and more), each cap and the weekly tomestone limit. Gains flash as they come in. Open it with the coin button; choose left or right in Settings → General.
+- A large banner at the top of the screen when someone commends you. Several commendations are counted on one banner, and it waits for the loading screen to finish. Resize, preview or turn it off in Settings → Effects.
+- Loot window scale from 60% to 140% in Settings → Appearance; the window can now be made much smaller.
+- Need, Greed and Pass buttons now sit right under the item name, so incoming rolls no longer push them away.
+- Locking the window from Settings → Appearance now takes effect straight away.
+- With "Hide the game's Need/Greed window" on, closing LootView's roll window now brings the game's window back, so you can always still roll.
 """

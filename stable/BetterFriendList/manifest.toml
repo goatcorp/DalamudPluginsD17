@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "7c51bfb633ff10762a77758e33ddf75fb4d420cd"
+commit = "d6ba207b6864a4e7f9ba7b9ba9ad03b57ef59098"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-v2.1.4.1:
-- make sorting a little beter
+v2.1.4.3:
+change imgui ids to to prevent wrong behavior when refreshing friendlist and editing color/comment..
 """

@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/XIVComboPlugin.git"
 
 # The commit to check out and build from the repository.
-commit = "8798b9ce060ed4c7ab359d96e61cde2dbeec97ef"
+commit = "a8797120a65354f44433d9d91287c4bc06dab28f"
 
 # The people authorised to update this manifest (e.g. who can deploy updates). These are GitHub usernames.
 owners = [
@@ -15,5 +15,5 @@ project_path = "XIVComboPlugin"
 
 # The changelog for this version. Will be shown in-game, as well on the Goat Place Discord.
 changelog = """
--# Cross Hotbars are now also affected by tintable actions' colors. Sorry, I had literally forgotten controller players existed.
+- Added Beastmaster with 1 (one) single combo. Thanks to @Rakibei for this update!
 		"""

@@ -1,12 +1,13 @@
 [plugin]
 repository = "https://github.com/Glyceri/FFXIVPetRenamer.git"
-commit = "0828565765b14c1a8559e5b3570b7ff8418dfa09"
+commit = "707c9808b6a024ae565b07c39ab352d9362091df"
 owners = ["Glyceri"]
 	changelog = """
-[2.10.1.0] 
-Fixes an issue where names wouldn't always show on all client languages.
-Fixes a crash in certain circumstances having to due with the castbar.
-Refactored a lot of code to get rid of duplicate, unnessesary, or in general inoptimal code.
+[3.0.1.0] 
+- Tentative fix for lag issue in content.
+- Other potential performance improvements.
+- Removed Ephemiral Chat
+- Fixes an issue where the plugin would hang on startup if the game data should be repaired (within reason).
 """
 
 

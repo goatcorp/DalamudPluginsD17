@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/juan-medina/ItsUp.git"
+commit = "263e6e6e71f65bea0682ac002e0203052b3467de"
+owners = ["juan-medina"]
+project_path = "ItsUp"
+changelog = """
+- Fix error loading plugin on game restart
+"""

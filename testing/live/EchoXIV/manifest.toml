@@ -1,5 +1,21 @@
 [plugin]
 repository = "https://github.com/ssalazar217/EchoXIV.git"
-commit = "4a6361e534312c1fd3b0204827a929d164623d15"
+commit = "3916be122ef050dd60ff4b1d1a9d8ba854edaa14"
 owners = ["ssalazar217"]
 project_path = "EchoXIV"
+changelog = """
+v1.0.2.1:
+- Added Gemini, Claude, ChatGPT, DeepSeek, OpenRouter, LibreTranslate, and Yandex translation engines.
+- Added configurable translation instances with primary engine selection, ordered fallback, and recovery probing.
+- Added per-instance model, API key, temperature, and response token limit settings.
+- Added single-request AI romanization with native and Latin-script output in structured JSON.
+- Improved romanization support for Japanese, Korean, Chinese, Russian, and Ukrainian.
+- Improved translated-chat display for native text, Latin-script text, original messages, and tooltips.
+- Unified translation logs with the selected engine, target language, elapsed time, and romanization.
+- Added local language detection to skip translation when messages already match the configured target language.
+- Added configurable language-detection confidence from 70% to 100%, with an 85% default.
+- Added independent translated-window message limits and size-based persistent chat history.
+- Added history search and filtering, and made Clear remove only messages currently displayed.
+- Added direct settings access from the translated-chat window and an option to control /tl chat status messages.
+- Centralized engine, instance, priority, and failover management in the Engines tab.
+"""

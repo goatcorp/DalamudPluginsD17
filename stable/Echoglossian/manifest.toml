@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "2901ef0d8b1d68956c6ac86afe97ff3bc098e7f3"
+commit = "fcda77e8c294a9a821c18b23db12cc9828138d38"
 owners = ["lokinmodar"]
-changelog = "v4.2601.0816.1235 \n Dialogue LLM follow-up release:\n - finish #252 prompt save and async structured glossary refresh\n - fix #270 so dialogue-only LLM override still respects per-surface toggles\n - cancel live model discovery requests during shutdown and reload"
+changelog = "v4.2601.0829.2219 \n Arabic RTL overlay fix release:\n - fix #274 so overlay target language stays synchronized with Config.Lang during startup and config refresh\n - make Google Translate honor the per-call target language to avoid stale global RTL routing\n - add deterministic Arabic Previewer and Mock validation coverage for the overlay fix"
