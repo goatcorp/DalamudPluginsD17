@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "eb6a08df34bb33007941083643bc054c6ce8add3"
+commit = "f7d86a9c73f45467436fbd93fbb5c2fe857ed011"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
 changelog = """
-Added user agent so universalis knows who's making the requests
+ - Added user agent so universalis knows who's making the requests
+ - Fixed bug where universalis retries resulted in missing items and therefore uncaught exceptions.
+ - Other small bookkeeping and perf improvements.
 """
