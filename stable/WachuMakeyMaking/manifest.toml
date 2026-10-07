@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "78ec253afaeddd914698eb4e719af1c0a5f3e4e1"
+commit = "02af818fad491edfe905781cf529b5b38ce98600"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
 changelog = """
-Fixed issues where universalis gets overwhelmed if you have other plugins that check prices and change your inventory rapidly.
+Added user agent so universalis knows who's making the requests
 """
