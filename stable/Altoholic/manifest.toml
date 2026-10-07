@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "b5da2e5af58a411f9c87eb6e8a4eae9d47cc95f2"
+commit = "ba682abcd4f227b07aa5cbba9c3acfd463019b7c8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Various changes on 'All' lists for high numbers of characters. Allow resizing of modal/popup.
-- **Currencies**: Rework of the way currencies are handled for better usage and maintenance. Nothing changed visually.
+- **Currencies**: Fix search following currencies rework
 """
