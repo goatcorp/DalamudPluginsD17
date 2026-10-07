@@ -1,0 +1,6 @@
+   [plugin]
+   repository = "https://github.com/Mistakingly/TargetDebuffs.git"
+   commit = "49524b523bb11ce8ca90272a13f8d515b79e74a7"
+   owners = [ "Mistakingly" ]
+   changelog = '''
+   - Initial release'''
