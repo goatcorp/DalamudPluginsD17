@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/Zeffuro/LiteShade.git"
-commit = "11e1059ec73266db6f3715e412a4eb192605a7b3"
+commit = "c6a0ea90bb265944fea6215eb27094b9cb288a3b"
 owners = ["Zeffuro"]
 project_path = "LiteShade"
