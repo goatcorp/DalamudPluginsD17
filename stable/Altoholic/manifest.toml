@@ -4,5 +4,5 @@ commit = "a682abcd4f227b07aa5cbba9c3acfd463019b7c8"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Currencies**: Fix search following currencies rework
+- **Progress**: Add All Saint's Wake 2026 event
 """
