@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
-commit = "f7d86a9c73f45467436fbd93fbb5c2fe857ed011"
+commit = "0eb3c4d557eee4fb5efeecf89ea4d92e7c47f636"
 owners = ["ArcaneAj"]
 project_path = "WachuMakeyMaking"
 changelog = """
- - Added user agent so universalis knows who's making the requests
- - Fixed bug where universalis retries resulted in missing items and therefore uncaught exceptions.
- - Other small bookkeeping and perf improvements.
+ - Fixed checkbox bug that was overriding division selection with the value for the parent category
 """
