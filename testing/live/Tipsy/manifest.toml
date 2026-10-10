@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/AntPerez69367/ffxiv_tipsy.git"
+commit = "9869456a87bb2fad537ea8b39234bfabca99494e"
+owners = ["AntPerez69367"]
+project_path = "Tipsy"
+changelog = """
+First release.
+- Replaces the game's item, action and text tooltips with one themeable window.
+- Pin it to a corner, drag it to a spot of your own, or have it follow the cursor.
+- Eight built-in themes, with every colour, opacity and corner rounding adjustable.
+- Keeps the lines other plugins add to tooltips.
+- Hold Alt (configurable) to hide the tooltip.
+"""
