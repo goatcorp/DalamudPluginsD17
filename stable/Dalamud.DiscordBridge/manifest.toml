@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "ab36b22c2e56484f612a99c818a2d15f2ab29341"
+commit = "0c7fe0cea244d0c695121c5efbf23e740f30fdf0"
 owners = [
     "reiichi001",
 	"goaaats",
@@ -11,7 +11,7 @@ maintainers = [
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Promoting testing release to stable. Attempts to fix crashes in solo duties by moving from object table to player state based caches. (And only caching the specific strings we need over a whole game object, which is bad.)
+Fixes a bug where the local player wasn't cached if the plugin was enabled after login (and without a relog or zone change). It's now cached on install/load if the player is logged in. Otherwise, it's cached on login.
 
 This plugin is looking for a new owner/maintainer. Please reach out to Franz if you want to adopt it.
 """
