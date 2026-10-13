@@ -1,8 +1,4 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "be1a0843bd27c279279f6d8d0d3997df544ddb5f"
+commit = "7a091458eb2d4bd27ce938cbd2dad0eba838dcde"
 owners = ["keifufu"]
-project_path = "."
-changelog = """
-- Support for Beastmaster
-"""
