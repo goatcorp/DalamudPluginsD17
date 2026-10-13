@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/keifufu/QuestTracker.git"
-commit = "d23e3b97f30a15e548bfbb93cc56aff5d269c260"
+commit = "ab72d928589aaba1dc9635cead3d741fa42da4ab"
 owners = ["isaiahcat", "keifufu"]
 changelog = """
 - Improved window performance
