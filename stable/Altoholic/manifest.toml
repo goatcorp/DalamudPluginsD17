@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "661588b1a8722a2c1ae580a2d0fcd2ab81529081"
+commit = "c7a1aa55440436116a45c40efd3f3993bc23fd69"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**:
-    - Add All Saint's Wake 2026
-    - Add Uolon mont to moogle trove rewards list
+- **Retainers**: Fix retainer inventory columns number to avoid assertion error
 """
