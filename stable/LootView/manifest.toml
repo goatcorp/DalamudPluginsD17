@@ -1,15 +1,12 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "b967dfb4a2bf34d6b7b634925403dc235579abaf"
+commit = "483f485dbb52aa783adee00597f7c42d76bbcd24"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.6.1
+# Version 1.6.2
 
-- New currency drawer beside the loot window with every currency you hold (gil, tomestones, scrips, seals, MGP, PvP marks, tribal currencies and more), each cap and the weekly tomestone limit. Gains flash as they come in. Open it with the coin button; choose left or right in Settings → General.
-- A large banner at the top of the screen when someone commends you. Several commendations are counted on one banner, and it waits for the loading screen to finish. Resize, preview or turn it off in Settings → Effects.
-- Loot window scale from 60% to 140% in Settings → Appearance; the window can now be made much smaller.
-- Need, Greed and Pass buttons now sit right under the item name, so incoming rolls no longer push them away.
-- Locking the window from Settings → Appearance now takes effect straight away.
-- With "Hide the game's Need/Greed window" on, closing LootView's roll window now brings the game's window back, so you can always still roll.
+- In duties with a weekly loot limit, the items that count toward it are tagged in the roll panel. The first one you win, on Need or Greed alike, is your only one until the reset.
+- If you've already rolled on another weekly item, a warning above the buttons tells you which. Whichever you win first is the one you keep.
+- In alliance raids the roll panel shows a counter (e.g. 7/24 decided) instead of a row for every player. Resolved items list only the Need and Greed rolls, with everyone else summed up in one line.
 """
