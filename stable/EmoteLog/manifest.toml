@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = '4352901e6b647f265814c4a03e67af105de11f46'
+commit = 'a8433f01dce3e80fd5877a9b20c2f7743324003a'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- 7.5 and API15 update
+ - Added my cat's ko-fi link
 """
 

@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "7bf92cfefbcd608ee1eba3b76d472e7c0fbb1d49"
+commit = "373081687a2ae4b9db0292ba54ca3bf80e17bb99"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Fix the game hanging on load (hopefully)
-- Improved BGM sheet loading logic
+ - Maintenance update
+ - Added my cat's ko-fi link
 """
