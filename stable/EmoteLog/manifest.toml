@@ -1,6 +1,6 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = 'a8433f01dce3e80fd5877a9b20c2f7743324003a'
+commit = 'c2478659892b20fe33e647233c242d61cb05c8f2'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """

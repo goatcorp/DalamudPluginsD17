@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/RokasKil/MountTilt.git"
-commit = "7587701475c9432c187b50ae1ad7e149c07f761f"
+commit = "d24d79264011cd67d112ccc00c231c808fb0d499"
 owners = [
     "RokasKil",
 ]
