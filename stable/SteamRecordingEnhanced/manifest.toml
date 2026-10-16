@@ -1,8 +1,8 @@
 [plugin]
 repository = 'https://github.com/RokasKil/SteamRecordingEnhanced.git'
-commit = '25a6ef2b2116a0578c9e38a6c30db998c09f057a'
+commit = '051d26aec7959380ac64f5f228a124eb081f921e'
 owners = [ 'RokasKil' ]
 project_path = 'SteamRecordingEnhanced'
 changelog = """
-- Update for 7.55
+ - Added my cat's ko-fi link
 """
