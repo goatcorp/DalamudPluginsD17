@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/azam997/Wikiway.git"
-commit = "4ae1b0f41c8db76ebdaa08bd9fc53f0b4ab89868"
+commit = "38cb9b8ca4e2412ea2bfd2248ce83084aac63f12"
 owners = ["azam997"]
 project_path = "src/Wikiway.Plugin"
 changelog = "Initial submission: in-game lookup for NPCs, quests, items, mounts, minions and achievements - local game data first, wiki fallback."
