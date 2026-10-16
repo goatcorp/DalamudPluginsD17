@@ -1,0 +1,16 @@
+[plugin]
+repository = "https://github.com/GitHixy/HitSpark.git"
+commit = "715246853fadfb755206bba3f6b5392ca1ad7116"
+owners = ["GitHixy"]
+project_path = "."
+changelog = """
+# Version 0.1.0
+
+- Redraws every combat text
+- 8 Presets
+- Editor Feature and Preset Import/Export
+- Hide Party numbers and manage size
+- Live Test Mode
+- Follows the game flying text and pop-up options, hidden in Cutscenes, GPose
+- Error handling to reproduce Native Mode if something fails
+"""
