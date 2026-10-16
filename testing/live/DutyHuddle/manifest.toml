@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/FortyFive00/DutyHuddle.git"
+commit = "8a9b01001fda5ed4541fd906002ad2479c2b66a8"
+owners = ["FortyFive00"]
+project_path = "src/DutyHuddle"
+changelog = "Initial release"
