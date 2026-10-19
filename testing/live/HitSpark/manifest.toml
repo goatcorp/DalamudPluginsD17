@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/GitHixy/HitSpark.git"
-commit = "715246853fadfb755206bba3f6b5392ca1ad7116"
+commit = "145caadaf07170c359ce139023542e3744f0825f"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
