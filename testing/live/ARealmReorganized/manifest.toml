@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/Nepharyas/a_realm_reorganized.git"
-commit = "43b56398872c985b6c51e35f4db9b3527af4004f"
+commit = "95d3940423713dd9cd283fc0a3c3977fe32b32c7"
 owners = ["Nepharyas"]
 project_path = "ARealmReorganized"
+changelog = "Highlights are now drawn as a square outline around the slot instead of tinting the icon, and the bag highlight is magenta instead of blue."
