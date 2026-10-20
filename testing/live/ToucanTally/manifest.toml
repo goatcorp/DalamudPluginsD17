@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/astraeaffxiv/ToucanTally.git"
-commit = "98910245a15133aa21ff3ffefd87d374b9220152"
+commit = "c95ae45b3db15f5f9cc27c8112cfdc1a0fff5930"
 owners = ["astraeaffxiv"]
 project_path = "ToucanTally"
 changelog = "Initial release."
