@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ScareCrowLegion/ChatterShade.git"
+commit = "48e7dc01239378fdaa8a266f6977d8afdfc67cf1"
+owners = ["ScareCrowLegion"]
+project_path = "ChatterShade"
+changelog = "Initial testing release. Includes dialogue text and background customization, individual NPC name colors, and speaker profile management."
