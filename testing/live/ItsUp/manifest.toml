@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/juan-medina/ItsUp.git"
-commit = "263e6e6e71f65bea0682ac002e0203052b3467de"
+commit = "259c743b9fe8cd3fc3aa33d913b080e2a1d6baf0"
 owners = ["juan-medina"]
 project_path = "ItsUp"
 changelog = """
-- Fix error loading plugin on game restart
+- Display upgraded action names and icons based on character level.
+- Fix handling of follow-up abilities versus upgraded actions.
+- Improve hotbar keybind detection for upgraded abilities.
 """
