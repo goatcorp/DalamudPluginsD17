@@ -1,13 +1,12 @@
 [plugin]
 repository = "https://github.com/smileyhead/conditional-focustarget.git"
-commit = "23ec793b2bc16e3088bcedad36ea0eeb1b5c5734"
+commit = "61a60a150e5a78f7c9000d9a493acc49ed46a6aa"
 owners = ["smileyhead"]
 project_path = "StickyFocusTarget"
 changelog = """
-Additions in 1.1.0
-- Updated plugin for Dotnet 10 and Dalamud 14
-- Added Japanese localisation – thanks @Yoshihiko-Ino!
-
-Fixes in 1.1.1
-- Fixed Japanese not appearing in the language list
-- Fixed outdated version number in the manifest"""
+- Added filtering options to focus-targeting. By default, /sft will now only target players and combat NPCs, but this can be customised.
+- Added a credits page with GitHub attributions. Future contributors will be added here as needed.
+- Added tabs to house these new pages without cluttering the UI.
+- The command description now only shows up on the About page.
+- Fixed the window size so that it doesn't keep resizing all over the place when changing tabs or languages.
+"""

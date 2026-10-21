@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/NeNeppie/AvantGarde.git"
-commit = "be3c6bdffc9c3c1cd4860eadc61eb41c9125788d"
+commit = "81b7cd1f72a355036ce5844f650ff415d8f85897"
 owners = ["NeNeppie"]
 project_path = "AvantGarde"
 changelog = """
-Update for Patch 7.4 / API 14
+- Plugin now checks for new data on an hourly basis.
+- Minor hotfix.
 """
 

@@ -1,10 +1,9 @@
 [plugin]
 repository = "https://github.com/QuackieMackie/QuestJournal.git"
-commit = "bfee5f7dcd80c1334afc721b20455d644ea897b6"
+commit = "d22d6e140eb9001af6371f105c5c72ce9fda9162"
 owners = ["QuackieMackie"]
 project_path = "QuestJournal"
 changelog = """
-- Bumped version to 1.4.0.0 and updated Dalamud SDK
-- Added: Chronicles of Light, Hildibrand, Records of Unusual Endeavors, Weapon Enhancement quests and more.
-- Added: Role and delivery quests.
+- Bumped version to 1.4.0.1 and updated Dalamud SDK
+- Updated quest data
 """

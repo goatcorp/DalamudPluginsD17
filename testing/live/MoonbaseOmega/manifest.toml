@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/NotNite/MoonbaseOmega.git"
-commit = "f214d09dd9f6ed4107ad8b3c29e657fdf74aea39"
+commit = "b955224096b4be39ffc6f6c21e0589bef6df0a5a"
 owners = ["NotNite"]
+maintainers = ["GayPotatoEmma"]
 project_path = "MoonbaseOmega"

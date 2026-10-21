@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Bronya-Rand/ThingsToDoInEorzea.git"
+commit = "5aa8cff1a89771e09fdad26322b4a1100b46e8cb"
+owners = [
+    "Bronya-Rand"
+]
+maintainers = [
+    "Bronya-Rand"
+]
+project_path = "ThingsToDoInEorzea"

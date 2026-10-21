@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/caitlyn-gg/InventorySearchBar.git"
-commit = "d87cf89a9b54792b9035ba8c01704137b39a2728"
+commit = "44129b277bc91d7a82ab7829f57ce3923e27bff7"
 owners = ["caitlyn-gg"]
 project_path = "InventorySearchBar"
-changelog = "- Updated dependencies (fixes Retainer search again)"
+changelog = "- Bumped dependencies for patch 7.55"

@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/chirpxiv/SelfCare.git"
-commit = "bcc149866c678920c29d1b91e9f5735f4ef3a2c1"
+commit = "3a157368dea6162c318789e867a4c97a270c10dd"
 owners = ["chirpxiv", "MKhayle"]
 project_path = "SelfCare"
 changelog = """
--# API 14 update
+-# API 15 update
+-# No longer steals focus from other plugin windows when triggered (thanks Valiice!)
 """

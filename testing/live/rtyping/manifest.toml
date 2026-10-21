@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/rtyping.git"
-commit = "684ed7adf6335d14479c1074f72c9174552f8b34"
+commit = "2cf0ae5957b3da07c489625ca3d266b36e832c43"
 owners = ["apetih"]
 project_path = "client/rtyping"
 changelog = """
-- API 14
+- Added ChatTwo typing state integration via IPC (thanks ZeroTheScyther)
 """

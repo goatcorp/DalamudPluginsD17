@@ -1,12 +1,12 @@
 [plugin]
 repository = "https://github.com/NotNite/OfDungeonsDeep.git"
-commit = "7d6543265ef85f97506d1a65cee8b371fa3f1cde"
+commit = "6be9f0ad84b5a4c94c37c9b7beffa4e52143e53e"
 owners = ["NotNite", "MidoriKami"]
 maintainers = ["MKhayle"]
 project_path = "OfDungeonsDeep"
 changelog = """
-### Pilgrim's Traverse Data update
-- Please report any error you'd find with that new set of data
-- I went into PT myself to test it several times to ensure as much as I could that crashs don't happen
--# - API 14 update
+###
+-# - API 15 update
+-# - Text can now wrap in ability descriptions (thanks iago-ca)
+-# - Updated compendium data, thanks to the compendium contributors :pray: 
 """

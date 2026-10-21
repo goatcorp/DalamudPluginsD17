@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "ebe574ceb676438e66596db6a7fe49d2e19dcdaf"
+commit = "5b22360071ef078dc1c9a051fd32a326123d08cb"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
-- Maintenace update
-- Added Plo
+ - Maintenance update
+ - Added my cat's ko-fi link
 """

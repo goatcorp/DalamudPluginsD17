@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/ItsBexy/CrossUp.git"
-commit = "99a7e8efdcc10be0aa7bf420c7455b84a556631f"
+commit = "9cf775b587b6c185c03a9edbbf1f063fd5b32cc1"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Updated for 7.4 / api 14
+- Fixed HUD features that apparently broke at some point whoops
 """
 
 

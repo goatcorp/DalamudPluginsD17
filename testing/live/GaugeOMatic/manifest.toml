@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/itsbexy/gaugeomatic.git"
-commit = "f34061a9d58d761fbfafa3fe0877ac51dfdf87ec"
+commit = "f5a1c1bfe5b1b5576843de7543243ace159aeaad"
 owners = [
     "ItsBexy",
 ]
 changelog = """
-- Fixed an issue with triggering certain gauge tweaks (such as RDM's Magicked Swordplay cue)
-- Added separate tracker options for MNK's Chakras (1-5 and 6-10)
+- Updated for 7.5 / API 15
+- Corrected Ley Lines status effect duration
+- Made BLU module visibly accessible. It was accidentally accessible before (whoops), but now the button is there. Includes BLU-specific Actions but not Status Effects.
 """

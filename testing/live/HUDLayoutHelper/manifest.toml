@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Mary-Usagi/FFXIV-HUDLayoutHelper.git"
-commit = "87f8d6413ff29fc18c71405d7740209968ec6d18"
+commit = "5abfc1a745559b8b6c76891607b5176a4a8cf78a"
 owners = ["Mary-Usagi"]
 project_path = "HUDLayoutHelper"
-changelog = "Update to API 14"
+changelog = "Update to API 15"

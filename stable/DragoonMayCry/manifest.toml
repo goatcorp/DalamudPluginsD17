@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Felscream/DragoonMayCry.git"
-commit = "0ee2b24a3059f8697ec994469c7f02e2b6888bba"
+commit = "12daccfb040bd91425f30f2981286951d9a5b55b"
 owners = ["Felscream"]
 project_path = "DragoonMayCry"
 changelog = """
-- API 14 update
+- Reduced audio latency
 """

@@ -1,8 +1,10 @@
 [plugin]
-repository = 'https://git.anna.lgbt/anna/OrangeGuidanceTomestone.git'
-commit = 'ae9dcc8b0a91504746159494434872bf6eb61db2'
+repository = 'https://git.sharlayan.cloud/anna/OrangeGuidanceTomestone.git'
+commit = '2b71fe660b16e05fdc0f8a8ff0222390652fae93'
 owners = [ 'anna-is-cute' ]
 project_path = 'client'
 changelog = """\
-- API 15
+- Update to new backend API
+- Fix issue when writing new sign
+- Handle viera ear toggle
 """

@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/lokinmodar/Echoglossian.git"
+commit = "49bf066bcbbb5e4dc331ca7d2952ed850509e547"
+owners = ["lokinmodar"]
+changelog = "testing v4.2601.0516.1300 \n changes:\n - LLM rework: dialogue-family override, translator debugger, and context-aware dialogue routing\n - custom OpenAI-compatible provider support, dynamic live model lists, and structured dialogue groundwork"

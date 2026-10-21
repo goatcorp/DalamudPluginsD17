@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/SoundEffectMuter.git"
 owners = [ "spide-r"]
-commit = "9dc1ba64d3cf7c7768eb619b96215f423d5da146"
+commit = "521acac31d7c22b46e2365de5e652a39ccc82c48"
 project_path = "SoundEffectMuter"
-changelog = "Toggle Command has been added! /ptogglesem"
+changelog = "Add Rival Wings Support"

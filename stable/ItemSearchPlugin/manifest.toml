@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/Caraxi/ItemSearchPlugin.git"
-commit = "0c01d6db8726567825bffb56cbac46a759f181f6"
+commit = "6c1a96cbe391518b4d205039b41ba40dd5114e47"
 owners = [
     "Caraxi", "MKhayle",
 ]
 project_path = "ItemSearchPlugin"
 changelog = """
--# API 14 update
--# 7.4 data update
+-# 7.55 item data update
+-# Fixture preview fix (thanks Caraxi!)
 """

@@ -1,9 +1,10 @@
 [plugin]
 repository = "https://github.com/meoiswa/ClarityInChaos.git"
-commit = "0b66ff8098ed5f80b13296ed8294e8cab6a07693"
+commit = "5d0618b871dfa7f5209c56fd00bd57c6cb1e012a"
 owners = ["meoiswa"]
 project_path = "ClarityInChaos"
 changelog = """
-Version 2.5.1.0:
+Version 2.5.1.1:
+ - New Icon by SnoodleWolfieB
  - Updated to API15
 """

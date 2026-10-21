@@ -1,8 +1,4 @@
 [plugin]
 repository = "https://github.com/keifufu/Facade.git"
-commit = "88aad4af03b7d30a588b9a13ea882daa8b8facc2"
+commit = "07291dd607d29cdebfcfba3ee84bccc48fe9fed2"
 owners = ["keifufu"]
-project_path = "."
-changelog = """
-- Updated for 7.5/API15
-"""

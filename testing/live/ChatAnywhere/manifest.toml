@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/twelvehouse/ChatAnywhere.git"
+commit = "7d0a05ce0471846df4fa72b46696c7ef2a8d4525"
+owners = ["twelvehouse"]
+project_path = "."
+changelog = """
+New Features:
+- Added a marker at the top of the message list to indicate where scrollback history begins.
+- Added a pull-to-reconnect gesture on mobile: swipe down from the top of the message list to refresh the connection and reload history.
+"""

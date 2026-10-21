@@ -1,9 +1,9 @@
 [plugin]
 repository = 'https://github.com/RokasKil/EmoteLog.git'
-commit = '9ff38f9e404eaec37ce863aa6073a0b4c916ce52'
+commit = 'c2478659892b20fe33e647233c242d61cb05c8f2'
 owners = [ 'RokasKil' ]
 project_path = 'EmoteLog'
 changelog = """
-- Remove /el command
+ - Added my cat's ko-fi link
 """
 

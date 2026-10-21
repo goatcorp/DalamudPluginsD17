@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/RajahOmen/Karaoke.git"
+commit = "089d4d10d6ff12d2bf316981ed201b1ace68f8ad"
+owners = ["RajahOmen"]
+project_path = "Karaoke"
+changelog = """\
+**Fixes**
+- Fixed issue with parsing songs in regions that use other number formats than the US
+"""

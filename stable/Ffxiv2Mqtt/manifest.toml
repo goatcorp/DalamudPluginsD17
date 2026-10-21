@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/Xpahtalo/Ffxiv2Mqtt.git"
-commit = "650529b8730c2b375b3fbaca7028a2e1d894c20b"
+commit = "43edbd4d22939fb7b4a0bd3d7b8dceb5bc214cdd"
 owners = [
     "Xpahtalo",
 ]
 project_path = "ffxiv2Mqtt"
-changelog = """7.4/API14 support."""
+changelog = """7.5/API15 support.
+Added support ready checks.
+Party topic now handles cross-world parties.
+BREAKING CHANGE: Player names are no longer in the party topic. If you actually use this, let me know and I'll try to get it back in."""

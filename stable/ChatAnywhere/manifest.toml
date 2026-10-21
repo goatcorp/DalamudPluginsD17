@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/twelvehouse/ChatAnywhere.git"
+commit = "636a47918d2cec4dcceb509909cee97b15e51d8b"
+owners = ["twelvehouse"]
+project_path = "."
+changelog = """
+Fixes:
+- Fixed symbols not showing up after a failed font download.
+"""

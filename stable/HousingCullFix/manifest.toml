@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/Abyeon/HousingCullFix.git"
+commit = "ad9fd26ad2d0497be3facf5904ef441fd39f09c4"
+owners = ["Abyeon"]
+maintainers = ["Abyeon, Glorou"]
+project_path = "HousingCullFix"
+changelog = """
+Initial Release:
+This small plugin "fixes" the housing pop-in issues introduced in 7.5 by disabling the new culling system.
+"""

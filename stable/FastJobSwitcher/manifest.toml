@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/meoiswa/fast-job-switcher.git"
-commit = "dcb8a6538bc4c1dd15c5abd570102cf3d82ac86d"
+commit = "6fd2a05169431ae2e16c0254d0443227e08182e2"
 owners = ["meoiswa"]
 project_path = "FastJobSwitcher"
 changelog = """
-Version 4.0.1.0:
- - Updated to API15
+Version 4.1.0.0:
+ - Added a help/usage tooltip to the "Classes and Jobs" option
 """

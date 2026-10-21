@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/AlexCSDev/XIVWindowResizer.git"
-commit = "766496c3f30a1793db0997feb6fd009bfb108353"
+commit = "194992e5800866ffac7988ca6da9bba9a8c6aeec"
 owners = ["AlexCSDev"]
 project_path = "XIVWindowResizer"
-changelog = "Updated for 7.4"
+changelog = "Added small UI window with 1-2x game window scale selection (in 0.25 increments) which can automatically open in gpose."

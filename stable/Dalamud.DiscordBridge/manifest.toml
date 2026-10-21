@@ -1,11 +1,17 @@
 [plugin]
 repository = "https://github.com/reiichi001/Dalamud.DiscordBridge.git"
-commit = "26994b997190ff956bc1a4eeb5d9299ec9f8fbeb"
+commit = "0c7fe0cea244d0c695121c5efbf23e740f30fdf0"
 owners = [
+    "reiichi001",
+	"goaaats",
+]
+maintainers = [
     "reiichi001",
 	"goaaats",
 ]
 project_path = "Dalamud.DiscordBridge"
 changelog = """
-Updated for API 14. There are some underlying changes to reduce build warnings. If a previously working feature (ex: avatars) stopped working, please report this.
+Fixes a bug where the local player wasn't cached if the plugin was enabled after login (and without a relog or zone change). It's now cached on install/load if the player is logged in. Otherwise, it's cached on login.
+
+This plugin is looking for a new owner/maintainer. Please reach out to Franz if you want to adopt it.
 """

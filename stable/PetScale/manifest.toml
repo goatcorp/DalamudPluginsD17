@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/Kurochi51/PetScale.git"
-commit = "61938c0b981d90f7ea5396b03a7040f7e3ce395a"
+commit = "646dbb284be77e2f2763573e83a9f43414adc285"
 owners = ["Kurochi51"]
 project_path = "PetScale"
 changelog = """
-- API 13 update
+- Beastmaster support
+This is being released early for... reasons.
 """

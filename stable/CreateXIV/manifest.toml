@@ -1,0 +1,17 @@
+[plugin]
+repository = "https://github.com/seventity7/CreateXIV.git"
+commit = "4ec06a369a50c5ce5789ddff6ffc37b03594d439"
+owners = ["seventity7"]
+maintainers = ["seventity7"]
+project_path = "."
+changelog = """
+### What's New?
+- Added support for disabling alias execution delay
+- Updated the per-alias `Wait` range to `0-5` seconds
+- Added new `/create list` command
+  - Shows all created aliases and their linked commands/macros in chat
+
+### Notes
+- Default `Wait` value for new Aliases is now `0`
+- Updated `Readme` on plugin github page
+"""

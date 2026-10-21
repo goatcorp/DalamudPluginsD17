@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "5369a7a4fd7d84c117ee0f1f40b553daf5c8b86d"
+commit = "ba41904e9cdd2d3c4cb77800945a1a30c8f88715"
 owners = ["wrath16"]
+maintainers = ["rennalol"]
 project_path = "PvpStats"
 changelog = """
-* Add 7.4 and 7.5 time filter options.
+* Added IPC service.
 """

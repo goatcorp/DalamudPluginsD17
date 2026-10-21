@@ -1,5 +1,14 @@
 [plugin]
-repository = "https://github.com/pupwife/DispellerPlugin.git"
-commit = "6f2d0997a049f6dd536f6781d9231696fc4497bd"
+repository = "https://github.com/Lovasz-Akos/DispellerPlugin.git"
+commit = "4ab18e68ce04c1d1dd95848b6ab456d876423152"
 owners = ["pupwife"]
-changelog = "Initial release!! Time to clean up that Glamour Dresser :3c"
+maintainers = ["Lovasz-Akos"]
+changelog = """
+- Updated to API 15
+- Fixed model detection skipping too many things to list
+- Fixed Armoire detection
+- Fixed HQ and NQ items not being compared
+- Added a config window
+- Added color variance filtering
+- Added name copy button for quick search
+"""

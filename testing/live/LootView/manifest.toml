@@ -1,9 +1,13 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "7948f38adfa1cdb051a9740548be0ff356d2c4a5"
+commit = "11032cb108f433406ac0f8ed704f77b530024e19"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.3.2
-- Blacklist Bug Fix
+# Version 1.6.3
+
+- With Dalamud's UI scale above 100%, the roll panel no longer stacks its text on top of itself. The decided and winner tags, the Need/Greed/Pass buttons and the player rows each keep their own space, and long names are shortened instead of running under the tags.
+- Settings, statistics, the loot table, the loot window and the currency drawer now grow with Dalamud's UI scale too.
+- A Preview roll window button in Settings > Tracking shows the roll panel with sample items, to check how it looks without a duty. Nothing in the preview is sent to the game.
+- Routine messages such as item lookups and every single roll are now logged at Debug level. The Diagnostics report still includes them.
 """

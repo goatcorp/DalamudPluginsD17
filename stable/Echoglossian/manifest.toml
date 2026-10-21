@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/lokinmodar/Echoglossian.git"
-commit = "bc3d31d48f448e87a6477fc81c123e74eb612d28"
+commit = "fcda77e8c294a9a821c18b23db12cc9828138d38"
 owners = ["lokinmodar"]
-changelog = "v3.25.x \n fixes:\n - Bump to API 14\n - It is Sdk not SDK"
+changelog = "v4.2601.0829.2219 \n Arabic RTL overlay fix release:\n - fix #274 so overlay target language stays synchronized with Config.Lang during startup and config refresh\n - make Google Translate honor the per-call target language to avoid stale global RTL routing\n - add deterministic Arabic Previewer and Mock validation coverage for the overlay fix"

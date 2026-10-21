@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Piggy-Guy/DalamudJSPlugin.git"
+commit = "3f9d9b4612551a4f656edaabf3a09a3a52687f4b"
+owners = ["Piggy-Guy"]
+project_path = "Jumpscare"
+changelog = "Fixed version number between testing and stable releases"

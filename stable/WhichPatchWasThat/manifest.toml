@@ -1,10 +1,11 @@
 [plugin]
 repository = "https://github.com/Kouzukii/ffxiv-whichpatchwasthat.git"
-commit = "740dafae721420766730a4642bbeb665d37f98a3"
+commit = "5578bad66709f92811fe43b5c533144593a45d70"
 owners = [
     "Kouzukii",
 ]
 project_path = "WhichPatchWasThat"
 changelog = """
-- Update to FFXIV 7.4 and Dalamud 14
+- Update to FFXIV 7.5 and Dalamud 15
+- Add patch display to facewear
 """

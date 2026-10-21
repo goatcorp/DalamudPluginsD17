@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/apetih/LogogramHelper.git"
-commit = "885913de61b1a01b101f6606b61c6382fa28c41f"
+commit = "022035a066ca11539f6fdfde1f5d6b9e88bd5962"
 owners = ["apetih"]
 project_path = "LogogramHelper"
 changelog = """
-- API 14
+- API 15
 """

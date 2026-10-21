@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/iv230/chat-proximity.git"
-commit = "cf20a994dda4bf3fca5db1a7cbcff2efcefa6c55"
+commit = "971296b114edd53aaa7fdb7d7d4d5b5b025eef79"
 owners = [
     "iv230"
 ]
 project_path = ""
 changelog = """
-### 1.4.2
-- Updated to game v7.4 and SDK v14.0.1
+### 1.5.0
+- Add configurable color curves for chat recoloring
 """

@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/img02/IslandWorkshopSearch.git"
-commit = "36f8fc13058e5591c065310df51fa15a649db28e"
+commit = "a498d2e5a3233f164fddab3da4f152686f015b18"
 owners = ["img02"]
 project_path = "IslandWorkshopSearch"

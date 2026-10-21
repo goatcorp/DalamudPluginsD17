@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/RokasKil/MountTilt.git"
+commit = "d24d79264011cd67d112ccc00c231c808fb0d499"
+owners = [
+    "RokasKil",
+]
+project_path = "MountTilt"
+changelog = """
+ - Added my cat's ko-fi link
+"""

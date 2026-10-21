@@ -1,8 +1,4 @@
 [plugin]
 repository = "https://github.com/keifufu/JobTitles.git"
-commit = "4f4dc3b1c723218957bb52b35e6cf809ae27b14c"
+commit = "1e5213494b273b409e3682ee3428663aba2f5ef8"
 owners = ["keifufu"]
-project_path = "."
-changelog = """
-- Update for breaking CS change
-"""

@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/fitzchivalrik/compass.git"
-commit = "ce1899bae801175666b452d215710f172dba21fc"
+commit = "75a78aecdc39fab2c79c2855894d6e9a5225fadb"
 owners = ["fitzchivalrik"]
 project_path = "Compass"
 changelog = """
-- chore: Update to API14 (thanks @ashen-dawn)
-
-NOTE: Since 7.0, Compass seems to work funky in some cases.
-I am sorry, but I cannot promise that I will manage to work on plugins for the foreseeable future.
-I can, however, promise to have a look at any potential PR in a timely manner.
+- feat: extend quest filters with new icons
 """

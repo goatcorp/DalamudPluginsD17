@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/DiscordBotFFXIV.git"
-commit = "3449b664cbfb54e65dd4d400e29e6e0a062cd604"
+commit = "caaa4d7f873189a695101957d9dfc86a655560e7"
 owners = ["devckuw"]
 project_path = "DiscordBotFFXIV"
 changelog = """
-Discord / FFXIV bot to send msg from discord to the game
+v1.1.2.4:
+update help text
 """

@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/karashiiro/TextToTalk.git"
-commit = "253d0a1ae5cc7820f10a6f97dc031474c0fb74ac"
+commit = "2892783c3470a825176fcaab6ecda273f1f82fa7"
 project_path = "src/TextToTalk"
 owners = ["karashiiro"]
 changelog = """\
-- **General**: Updated for 7.5 (Thanks aniachan!)
+- **General**: Fixed random pauses in multiline dialogue (thanks `@barrcodes`!).
 """

@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/fj233/FriendNote.git"
+commit = "006779583f5c39eeaa093bfd4a569dfba6f52ad5"
+owners = ["fj233"]
+project_path = "FriendNote"
+changelog = "Add personal notes to friends from the friend list context menu. Right-click a friend's name to set a note, which will then be shown in the friend list."

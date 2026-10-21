@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Miu-B/PullToOBS.git"
-commit = "03dd0d4c02a4e109146ffb7aa5c209c08dc9f140"
+commit = "0106367b9bcba31e547cef83f5f29b3089767d03"
 owners = ["Miu-B"]
 maintainers = ["Miu-B"]
 project_path = "PullToOBS"
 changelog = """
-- Add encounter metadata logging: writes a JSON file per encounter with encounter name, job, territory, and file paths for use with the limitcut companion tool (opt-in, disabled by default)
-- Change SaveReplayBuffer/StopRecording to return file paths for metadata output
+- Add InstaPost quick-save workflow with configurable in-game hotkey for on-demand replay buffer saves
+- Write timestamped instapost JSON descriptors for the companion tool limitcut (https://github.com/Miu-B/limitcut), including replay buffer, territory, player, and combat metadata for Discord posting workflows
 """

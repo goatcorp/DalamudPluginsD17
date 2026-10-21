@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WhatDidYouSay.git"
-commit = "4dc02d47a97af4d4ee2bf216198801136c8e5175"
+commit = "17272701de93be62ebf2564add7f60e947b8d1d8"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "WhatDidYouSay"
 changelog = '''
-- Updated for Dalamud API 14.
+- Updated for Dalamud API 15.
 '''

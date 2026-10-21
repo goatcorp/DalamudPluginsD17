@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/ArcaneAj/WachuMakeyMaking.git"
+commit = "0eb3c4d557eee4fb5efeecf89ea4d92e7c47f636"
+owners = ["ArcaneAj"]
+project_path = "WachuMakeyMaking"
+changelog = """
+ - Fixed checkbox bug that was overriding division selection with the value for the parent category
+"""
