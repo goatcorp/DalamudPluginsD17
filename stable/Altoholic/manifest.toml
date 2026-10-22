@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "88674d613b97824e749c9c6b632f156995cae624"
+commit = "c8e9027c354753ba15ab66feab02e0f2062ed9d2"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add Moogle Treasure Trove: The Second Hunt for Astronomy rewards
+- **Progress**: 
+  - Add Moogle Treasure Trove: The Second Hunt for Astronomy rewards
+  - Add Keybound brawler event and rewards
 """
