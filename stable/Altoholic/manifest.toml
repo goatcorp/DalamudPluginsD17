@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "074f69afad632a1e2973dfef946074a612976b0e"
+commit = "b8bdd591f88bd501acba5679bb70d2629484aa79"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add forgotten 100 needed Uolon tomestone to the total needed tomestone
+- **Progress**: 
+  - Add Moogle Treasure Trove: The Second Hunt for Astronomy rewards
+  - Add Keybound brawler event and rewards
 """
