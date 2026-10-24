@@ -1,11 +1,11 @@
 [plugin]
 repository = "https://github.com/RokasKil/TitleEdit.git"
-commit = "5b22360071ef078dc1c9a051fd32a326123d08cb"
+commit = "2cf9063c80626223918b89c45e3201c1b1b35f54"
 owners = [
     "RokasKil",
 ]
 project_path = "TitleEdit"
 changelog = """
- - Maintenance update
- - Added my cat's ko-fi link
+ - Fixed most dynamic furniture objects like aquariums and partitions not showing up correctly
+ - There are still some known edge cases with interactable objects like mannequins and chocobo stables
 """
