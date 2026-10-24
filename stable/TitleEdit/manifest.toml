@@ -6,5 +6,6 @@ owners = [
 ]
 project_path = "TitleEdit"
 changelog = """
- - Fix most dynamic furniture items like aquariums, partitions not showing up correctly
+ - Fix most dynamic furniture objects like aquariums and partitions not showing up correctly
+ - There are still some known edge cases with interactable object like mannequins and chocobo stables
 """
