@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/silasary/apxiv.git"
-commit = "fb6838075baa7a339ca6829b36fb4c0bbff81679"
+commit = "f3832265992ebe466e9d7119795de22ae1ae9fa5"
 owners = ["silasary"]
 project_path = "ArchipelagoXIV"
-changelog = "Still more bugfixes.  Generic fate checks now work correctly for non-english clients."
+changelog = "Added support for North Horn. Dungeon extra checks now send as you progress through a dungeon, rather than all at the end. Fish now tell you their preferred bait in the tracker. Fixed CLL/Dalriada checks not sending.  Optimised fishsanity and aetheryte code."
