@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Bronya-Rand/ThingsToDoInEorzea.git"
-commit = "5aa8cff1a89771e09fdad26322b4a1100b46e8cb"
+commit = "5056fd0b3297d4020c9f36106146a9c412595c5e"
 owners = [
     "Bronya-Rand"
 ]
