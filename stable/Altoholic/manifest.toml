@@ -1,8 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "5558cdcee2b194b82519ca4747de4db2c2ec7309"
+commit = "95ce766941ba00000ad6bd4ce62e6e060652b464"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Add total MGC required per reward tabs
+- **Progress**: 
+  - Add total MGC required per reward tabs
+  - Fix framerkit's keybound brawler reward check
 """
