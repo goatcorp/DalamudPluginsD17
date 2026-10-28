@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "b8bdd591f88bd501acba5679bb70d2629484aa79"
+commit = "95ce766941ba00000ad6bd4ce62e6e060652b464"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
 - **Progress**: 
-  - Add Moogle Treasure Trove: The Second Hunt for Astronomy rewards
-  - Add Keybound brawler event and rewards
+  - Add total MGC required per reward tabs
+  - Fix framerkit's keybound brawler reward check
 """
