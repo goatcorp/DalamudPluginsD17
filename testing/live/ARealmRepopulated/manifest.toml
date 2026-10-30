@@ -1,5 +1,5 @@
 [plugin]
 repository = "https://github.com/NetStyx/ARealmRepopulated.git"
-commit = "292625776055528c51f11b40b9e40dbfb8d5ca9e"
+commit = "830af528c460d3f1dc0de1df0bbf9b629fcce11b"
 project_path = "ARealmRepopulated"
 owners = [ "NetStyx" ]
