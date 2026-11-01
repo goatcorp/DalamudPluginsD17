@@ -1,0 +1,15 @@
+[plugin]
+repository = "https://github.com/t3sco/Gratis.git"
+commit = "5ae7b865a15cd0edde98fbaa872639374e490852"
+owners = ["t3sco"]
+project_path = "Gratis"
+changelog = '''
+Gratis 0.1.0.7
+
+First submission to the testing channel.
+
+- A flat, minimal replacement for the in-game map: search, lenses, filters, quest log and window presets.
+- Click a quest marker to open that quest in the Quest Log.
+- Instance quests point at the entry NPC or door.
+- A separate map size and position inside duties.
+'''
