@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/Nepharyas/a_realm_reorganized.git"
-commit = "95d3940423713dd9cd283fc0a3c3977fe32b32c7"
+commit = "ea1eab8864a1a221d213481d2fa0329388378520"
 owners = ["Nepharyas"]
 project_path = "ARealmReorganized"
-changelog = "Highlights are now drawn as a square outline around the slot instead of tinting the icon, and the bag highlight is magenta instead of blue."
+changelog = "Pieces stored inside outfits in the dresser are now taken into account: they show up as movable to the armoire, as duplicates and in sets, with the outfit they belong to named next to them."
