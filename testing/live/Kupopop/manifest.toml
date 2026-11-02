@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/cloudesh/kupopop.git"
+commit = "f3edb13225079e9f9496c7e66685aede9a6e25db"
+owners = ["cloudesh"]
+project_path = "plugin/Kupopop"
