@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "d35dbeb4601da3a3190b8035d1f7eab6730e0285"
+commit = "5f19a911fee24e3a627675f3481b6531934f042a"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Lyse is here! 190+ new voicelines across all announcers. New duty support Settings"
+changelog = "Lyse is here! 190+ new voicelines across all announcers. New duty support Settings. Lots of fixes."
