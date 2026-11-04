@@ -1,0 +1,13 @@
+[plugin]
+repository = "https://github.com/GitHixy/FateLimit.git"
+commit = "7a62c45efaa634786e71b07a6d7e3a24e583d3a9"
+owners = ["GitHixy"]
+project_path = "."
+changelog = """
+# Version 0.1.0
+
+- Five Border styles
+- show borders all the time or only when getting closer to the limit
+- Option to only show the border in the fate that you're currently in
+- borders follow terrain
+"""
