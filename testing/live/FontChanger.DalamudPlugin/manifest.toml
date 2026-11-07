@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/Soreepeong/FFXIV-FontChanger.git"
+commit = "d1261597e691f52d4556c6efc1b805e880c4bee7"
+owners = ["Soreepeong"]
+maintainers = []
+project_path = "FontChanger.DalamudPlugin"
+changelog = "Testing release"
