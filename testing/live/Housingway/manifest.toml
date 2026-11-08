@@ -1,7 +1,10 @@
 [plugin]
 repository = "https://github.com/Abyeon/Housingway.git"
-commit = "8261b9f5a567c5d532af58469cefbb43dee63b3b"
+commit = "94bcd6720f20590667d4af7a2c49f3f6700dede5"
 owners = ["Abyeon"]
 maintainers = ["Abyeon"]
 project_path = "Housingway"
-changelog = "Initial Release"
+changelog = """
++ Fix crashes caused by not sanity checking pointers.
++ Slight refactor of furniture tracking.
+"""
