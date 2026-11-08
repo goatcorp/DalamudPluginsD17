@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "70a9f410d9a8ab97bef6bcf795415ea2d7c75097"
+commit = "e3c3fc6635e62d59b4290cbda34d162f0b3562e9"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.0.13"
-changelog = "### Added\n- Added a tooltip that lists which of your curated lists contain the hovered item\n- Added IPC  which counts an item across a character and its retainers in a single call, scoped by inventory category with the option to include/exclude shared storage(free companies/housing)\n- Added IPC  which returns the same count broken down per character, retainer, free company and house\n### Fixed\n- Certain items that can be collectable were not showing up in the retrieval list in craft lists\n- IPC  and  were throwing an exception when given a character with no loaded inventory, now return an empty array"
+version = "1.15.1.0"
+changelog = "### Added\n- Added a Mobs compendium that replaces the old mobs window\n- Added a Coffers compendium that shows what each coffer, card pack and similar container can give\n- Added a Familiars compendium for beastmaster familiars, with the family, location, skills, unlock item and where to get the unlock item\n- Added Beastmaster Familiar's as a use\n- Occult Crescent coffer and pot sources are now split into South Horn and North Horn\n- Added a delete button to the Characters and Retainers page, with a confirmation popup\n- The Items window now shows a warning icon when Universalis requests fail or when you send too many requests\n### Changed\n- Luminasupplemental data update\n### Fixed\n- The hunt rank shown for mobs was often wrong or missing\n- Oizys and Auxesia loot were not shown as item sources\n- Many mobs were missing spawn locations"
