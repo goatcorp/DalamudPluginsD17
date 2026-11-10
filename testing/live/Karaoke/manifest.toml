@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/RajahOmen/Karaoke.git"
-commit = "a66b9a32985690bd2b0fe41758b5a58f0e17bd86"
+commit = "8ea1efacf8bdfce4d3d9f44cca0b43d9ccc753ac"
 owners = ["RajahOmen"]
 project_path = "Karaoke"
 changelog = """\
 **Added**
-- Color customization for the lyric window
-**Fixes**
-- Fixed color of server info bar being wrong/always using dark theme colors
-- Fixed lyric window jumping around when different songs played
+- Button to easily create new song lyric requests for songs without lyrics for evercold
+  - Create by clicking the button on the main karaoke window when a song is playing with no lyrics, or in the "other" section of the config window
+  - Does some rudimentary checks for duplicate issues, but please double check existing issues regardless!
 """
