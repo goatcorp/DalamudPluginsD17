@@ -1,14 +1,12 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "ca691cf373efa6c88955bacf45148dded0dca631"
+commit = "d2fbbb99134932a98961b53a9473d5a55c0cbaf2"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.6.4
+# Version 1.6.5
 
-- Dice reveal: when an item is resolved, everyone's roll counts up from zero together and stops at its number. The lowest settle first, the last one still climbing takes the crown, then the rows slide into rank order.
-- A soft chime when an item goes to someone else. The game only sounds your own wins, so lost rolls were easy to miss. It follows the game's master and system volume and has its own volume in Settings > Tracking.
-- The roll window now lists what still needs your choice first, then results, then items you've already chosen on. Results fold into a single line once revealed, and nothing moves while your mouse is over the window.
-- Ticker: minimise the loot window and new drops slide in on a slim strip you can drag anywhere, then fade out. Repeat drops add up on one row, and it can also run beside the open window.
-- Loot jar: an optional loot window view where your drops fall into a glass jar. Repeat drops merge, and currencies and crystals settle as labelled sand.
+- Jar on its own: the loot jar can now stay on screen by itself, just the glass with no frame. Move it, resize it from its edges and lock it in place from Settings > General. It fades back while nothing is happening and comes forward when something drops in.
+- The loot jar now holds exactly what the loot list shows: clearing the list pours it out, and drops that leave the list leave the jar too.
+- Ticker: Ctrl+click a drop, or pick Dismiss from its right-click menu, to clear it early. A broom button next to the ticker's controls clears every drop at once.
 """
