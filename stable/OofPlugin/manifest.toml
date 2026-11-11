@@ -1,13 +1,11 @@
 [plugin]
 repository = "https://github.com/Frogworks-Interactive/OOF.git"
-commit = "d412dace211d77205bfc88697a2cb05e7aa9de16"
+commit = "2d90f4b6a983cd0b92e348bb71f022bcfe6c35b9"
 owners = [
     "Frogworks Interactive",
     "codelastnight"
 ]
 project_path = "OofPlugin"
 changelog = """
-- The year of the linux desktop is upon us. Linux users of the world unite! You have nothing to lose but your windows-based audio engine. (Oof is now compatible with linux. thank you @DaBultz on github)
-- new button to reload audio device when you add/remove an audio device
-- allow for option to have audio overlap each other instead of clipping
+- auto-switch audio output when a change in device is detected.
 """
