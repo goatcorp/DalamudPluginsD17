@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/t3sco/Gratis.git"
-commit = "cd579a5ae95d27ab60c292efca0384be21a0ab08"
+commit = "d5880cde39167ad52ded1020eb085a3c61a04c01"
 owners = ["t3sco"]
 project_path = "Gratis"
 changelog = '''
