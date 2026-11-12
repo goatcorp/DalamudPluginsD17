@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "e3c3fc6635e62d59b4290cbda34d162f0b3562e9"
+commit = "ad1ff01fede1848dfcd05b76a9ae13b0760d1222"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.15.1.0"
-changelog = "### Added\n- Added a Mobs compendium that replaces the old mobs window\n- Added a Coffers compendium that shows what each coffer, card pack and similar container can give\n- Added a Familiars compendium for beastmaster familiars, with the family, location, skills, unlock item and where to get the unlock item\n- Added Beastmaster Familiar's as a use\n- Occult Crescent coffer and pot sources are now split into South Horn and North Horn\n- Added a delete button to the Characters and Retainers page, with a confirmation popup\n- The Items window now shows a warning icon when Universalis requests fail or when you send too many requests\n### Changed\n- Luminasupplemental data update\n### Fixed\n- The hunt rank shown for mobs was often wrong or missing\n- Oizys and Auxesia loot were not shown as item sources\n- Many mobs were missing spawn locations"
+version = "1.15.1.1"
+changelog = "### Added\n- Added a Locations column to the Mobs compendium, click a flag to link the spawn location in chat or right click it to teleport\n- Added a \"Hunt Mark?\" column to the Mobs compendium\n- When the Mobs compendium is grouped by zone, a Current Zone menu can open the tab for the zone you are in, or follow you as you change zones\n### Fixed\n- Map links printed to chat from the compendium were showing the wrong name"
