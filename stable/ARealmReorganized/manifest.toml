@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Nepharyas/a_realm_reorganized.git"
+commit = "ea1eab8864a1a221d213481d2fa0329388378520"
+owners = ["Nepharyas"]
+project_path = "ARealmReorganized"
+changelog = "First stable release. Scans the Glamour Dresser for pieces that can move to the 7.5 Armoire, outfits included, highlights them in-game and flags duplicates and partial sets."
