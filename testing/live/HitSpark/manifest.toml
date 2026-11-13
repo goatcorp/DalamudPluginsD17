@@ -1,8 +1,11 @@
 [plugin]
 repository = "https://github.com/GitHixy/HitSpark.git"
-commit = "bd17c9b7447dea7e1e05df37256b82f4448799c2"
+commit = "57931dd50665f0fafffa655960ef607510b616d3"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-We added support for MultiHit since it was requested as a feature.
+- Positionals: on Monk, Dragoon, Ninja, Samurai, Reaper and Viper, a small "Rear" or "Flank" now shows above your damage when you land a positional, and "Rear missed" or "Flank missed" when you don't. They have their own styles in every preset, so you can restyle or hide them.
+- New "Below game UI" option: numbers slide under your hotbars, party list, chat and the other game windows instead of covering them, while your target's bars and your own HP/MP stay on top. Off by default.
+- New "Max distance" option: numbers from other people more than 50 yalms away, like a FATE across the map, are no longer shown. You can change the distance or turn the limit off.
+- Fixed numbers (DoT ticks above all) showing during cutscenes in the middle of a duty.
 """
