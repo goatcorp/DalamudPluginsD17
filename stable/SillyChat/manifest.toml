@@ -2,7 +2,7 @@
 repository = "https://github.com/MKhayle/SillyChat.git"
 owners = [ "kalilistic", "MKhayle" ]
 project_path = "src/SillyChat"
-commit = "a984b941fa132259a4efdb4abb3b849fc378728f"
+commit = "6c85dd1f26c56bc9076cda623b7a82051200901c"
 changelog = """
--# API 15 update, kweh!
+Add Al Bhed translation (as per sirbastian's request)
 """
