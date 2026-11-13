@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/devckuw/BetterFriendList.git"
-commit = "d6ba207b6864a4e7f9ba7b9ba9ad03b57ef59098"
+commit = "c9528d29b6036850f0459cabce230e4746c37c28"
 owners = ["devckuw"]
 project_path = "BetterFriendList"
 changelog = """
-v2.1.4.3:
-change imgui ids to to prevent wrong behavior when refreshing friendlist and editing color/comment..
+v2.1.4.4:
+set name to (Unable to Retrieve) if no name found
 """
