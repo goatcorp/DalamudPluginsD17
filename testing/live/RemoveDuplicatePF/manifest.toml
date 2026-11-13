@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/pearstopher/FFXIV-Remove-PF-Duplicates.git"
+commit = "39f16f3d2fd15aa1e57a80d36f07758606aa33ed"
+owners = ["pearstopher"]
+project_path = "RemoveDuplicatePF"
+changelog = "First official release. Each repeated Party Finder ad is shown once with a [N] count of its copies, and the window title shows how many were hidden."
