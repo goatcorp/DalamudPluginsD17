@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "80fb263ff010c597654be21789ef368961d2fa5f"
+commit = "d8e1fd0256178d21a4dbd1e2a16206d44216bad3"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Progress**: Adding The Path Infernal (FFXVI event) 2026 and rewards 
+- **Progress**: Add forgotten 7.56 MSQ quest 
 """
