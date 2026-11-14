@@ -1,15 +1,14 @@
 [plugin]
 repository = "https://github.com/t3sco/Gratis.git"
-commit = "d5880cde39167ad52ded1020eb085a3c61a04c01"
+commit = "843eb961ef1826620298fe140261b6eaf4b9cfe9"
 owners = ["t3sco"]
 project_path = "Gratis"
 changelog = '''
-Gratis 0.1.0.7
+Gratis 0.1.2.1
 
-First submission to the testing channel.
-
-- A flat, minimal replacement for the in-game map: search, lenses, filters, quest log and window presets.
-- Click a quest marker to open that quest in the Quest Log.
-- Instance quests point at the entry NPC or door.
-- A separate map size and position inside duties.
+- New FATE button beside the Quest Log: lists the FATEs on your map with level, progress, time left and distance. FATEs with the EXP bonus show a gold + on the map.
+- New Shared FATE button: your Shared FATE progress in the Gratis style.
+- Your pet, party pets and striking dummies now appear on the map.
+- Grab any edge of the map to move it and any corner to resize it. Shift-drag also moves the window (on by default, can be switched off).
+- Map labels no longer flip between positions while your character runs.
 '''
