@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ScareCrowLegion/QuestTextRecolor.git"
-commit = "c59c1121ce9ed9e9020b075fd6a2181721408acc"
+commit = "c724816bee3c84c81fd031eb0cad2fe7504a91f4"
 owners = ["ScareCrowLegion"]
 project_path = "."
 changelog = '''
