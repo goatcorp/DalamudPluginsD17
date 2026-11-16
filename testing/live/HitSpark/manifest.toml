@@ -1,11 +1,14 @@
 [plugin]
 repository = "https://github.com/GitHixy/HitSpark.git"
-commit = "57931dd50665f0fafffa655960ef607510b616d3"
+commit = "68fb759f36ebbce43c3fb75d6955c8fdeaead9cf"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-- Positionals: on Monk, Dragoon, Ninja, Samurai, Reaper and Viper, a small "Rear" or "Flank" now shows above your damage when you land a positional, and "Rear missed" or "Flank missed" when you don't. They have their own styles in every preset, so you can restyle or hide them.
-- New "Below game UI" option: numbers slide under your hotbars, party list, chat and the other game windows instead of covering them, while your target's bars and your own HP/MP stay on top. Off by default.
-- New "Max distance" option: numbers from other people more than 50 yalms away, like a FATE across the map, are no longer shown. You can change the distance or turn the limit off.
-- Fixed numbers (DoT ticks above all) showing during cutscenes in the middle of a duty.
+- New "Colour vision" option (Settings → General): adjusts the colours of every preset, your own included, for protan, deutan or tritan colour blindness, so heals, crits and damage taken stay easy to tell apart. A before/after preview shows the difference.
+- New "Game Default" preset: the game's fonts and plain colours with no extra effects, as close to the native fly text as HitSpark gets. A good base for a style of your own.
+- Each category now has its own opacity, fading the text together with its outline, shadow, caption and icon.
+- Letter case option: text as the game writes it, UPPER CASE, lower case or Capitalised Words.
+- The action name or label can now sit below, above, left or right of the number.
+- Fixed buff and debuff icons being stretched sideways.
+- Multi-hit: fixed the group and action switches glitching when one was turned off, and Shift + click on the trash icon not removing a group.
 """
