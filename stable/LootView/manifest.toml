@@ -1,12 +1,11 @@
 [plugin]
 repository = "https://github.com/GitHixy/LootView.git"
-commit = "d2fbbb99134932a98961b53a9473d5a55c0cbaf2"
+commit = "52aa064f02ebbbeab3c66069d15e65fa49adc735"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 1.6.5
+# Version 1.6.6
 
-- Jar on its own: the loot jar can now stay on screen by itself, just the glass with no frame. Move it, resize it from its edges and lock it in place from Settings > General. It fades back while nothing is happening and comes forward when something drops in.
-- The loot jar now holds exactly what the loot list shows: clearing the list pours it out, and drops that leave the list leave the jar too.
-- Ticker: Ctrl+click a drop, or pick Dismiss from its right-click menu, to clear it early. A broom button next to the ticker's controls clears every drop at once.
+- Currencies on their own: the currencies can now have a small window of their own, a currency HUD that stays on screen even with the loot window closed. Move it, resize it from its edges, lock it in place and choose how see-through its background is, from Settings > General. Show or hide it with the coin button or /lv currencies.
+- Put your currencies in your own order: drag one up or down, or right-click it to move it. Right-click also hides a currency; hidden ones come back from the same menu or from Settings, and Reset order goes back to the game's order. Works in the drawer as well.
 """
