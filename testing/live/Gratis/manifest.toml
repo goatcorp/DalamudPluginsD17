@@ -1,14 +1,18 @@
 [plugin]
 repository = "https://github.com/t3sco/Gratis.git"
-commit = "843eb961ef1826620298fe140261b6eaf4b9cfe9"
+commit = "7f5a123f008fa51ccecd49dbd127efa2b47816a5"
 owners = ["t3sco"]
 project_path = "Gratis"
 changelog = '''
-Gratis 0.1.2.1
+Gratis 0.1.2.2
 
-- New FATE button beside the Quest Log: lists the FATEs on your map with level, progress, time left and distance. FATEs with the EXP bonus show a gold + on the map.
-- New Shared FATE button: your Shared FATE progress in the Gratis style.
-- Your pet, party pets and striking dummies now appear on the map.
-- Grab any edge of the map to move it and any corner to resize it. Shift-drag also moves the window (on by default, can be switched off).
-- Map labels no longer flip between positions while your character runs.
+- Centre on open now works every time you open the map, not only the first.
+- Quick Setup asks whether the arrow and view cone follow your character or your camera (Settings > Map > Markers > Arrow and cone follow).
+- Quest circles have their own colours, blue by default (Settings > Map > Markers > Quest area fill, with Show advanced settings on).
+- Pins on the map have their own icon, distinct from a real flag.
+- The quest log pin moved into the journal header.
+- New option: location text inside the toolbar (Settings > Controls > Cards & motion > Location text position).
+- The Classic toolbar now lines up flush with the top of the map.
+- Fixed segmented buttons sometimes not lighting up when clicked, and quest markers from another floor showing on the wrong map.
+- Feedback can carry an optional Discord handle.
 '''
