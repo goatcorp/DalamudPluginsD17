@@ -1,11 +1,20 @@
 [plugin]
 repository = "https://github.com/ScareCrowLegion/QuestTextRecolor.git"
-commit = "d3d7279ef003c7c4cdfe370f6cc7a5a82da63d31"
+commit = "c724816bee3c84c81fd031eb0cad2fe7504a91f4"
 owners = ["ScareCrowLegion"]
 project_path = "."
 changelog = '''
-Quest Text Recolor v1.4.1
+Quest Text Recolor v1.4.2
 
-Changes:
-- Updated the plugin icon
+Improvements:
+- Improved configuration validation and migration safety.
+- Improved Penumbra compatibility checks and error diagnostics.
+- Improved recovery when Penumbra becomes temporarily unavailable.
+- Expanded popup positioning limits to ±500 px.
+- Improved diagnostic logging for quest popup components.
+
+Stability:
+- Added configuration safety and migration tests.
+- Improved protection of existing user settings.
+- Verified configuration persistence across plugin reloads, updates, and game restarts.
 '''
