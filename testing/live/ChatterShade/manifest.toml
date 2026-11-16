@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/ScareCrowLegion/ChatterShade.git"
+commit = "6f982f032b598422a1be2d2dd5f69964a4919c0e"
+owners = ["ScareCrowLegion"]
+project_path = "ChatterShade"
+changelog = "Updated dialogue styling UI and configuration experience. Improved compatibility with Simple Tweaks Talk Adjustments and native Talk styles. Removed forced Dalamud styling so the configuration windows respect the user's Dalamud theme."
