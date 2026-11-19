@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/SheepGoMeh/CrowdFix.git"
+owners = [ "SheepGoMeh",]
+project_path = ""
+commit = "7491556e5ff88687e4f5005c20b66d3ea3179c8b"
+changelog = "Initial release"
