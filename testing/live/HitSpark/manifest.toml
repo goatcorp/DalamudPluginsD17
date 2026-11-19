@@ -1,14 +1,10 @@
 [plugin]
 repository = "https://github.com/GitHixy/HitSpark.git"
-commit = "68fb759f36ebbce43c3fb75d6955c8fdeaead9cf"
+commit = "5a4c592e97c66461487d014dc40d255ce234fd70"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-- New "Colour vision" option (Settings → General): adjusts the colours of every preset, your own included, for protan, deutan or tritan colour blindness, so heals, crits and damage taken stay easy to tell apart. A before/after preview shows the difference.
-- New "Game Default" preset: the game's fonts and plain colours with no extra effects, as close to the native fly text as HitSpark gets. A good base for a style of your own.
-- Each category now has its own opacity, fading the text together with its outline, shadow, caption and icon.
-- Letter case option: text as the game writes it, UPPER CASE, lower case or Capitalised Words.
-- The action name or label can now sit below, above, left or right of the number.
-- Fixed buff and debuff icons being stretched sideways.
-- Multi-hit: fixed the group and action switches glitching when one was turned off, and Shift + click on the trash icon not removing a group.
+- Critical, direct and critical direct auto-attacks now have their own styles, separate from your abilities. They start out looking exactly like before, your presets included, until you change them. Pet attacks count as auto-attacks.
+- New "Caption font" option: the action name or label can use a different font from the number. It stays the same as the number unless you pick one.
+- Game Default now shows action names in the interface font under its serif numbers, like the game does.
 """
