@@ -3,7 +3,7 @@
 # Only `commit` needs filling in after the first push to main: use the full 40-character SHA.
 [plugin]
 repository = "https://github.com/ViewtifulSlayer/FFXIV-TalkTypewriter"
-commit = "926ad36eb896a78853c64b27695dc97c39726a03"
+commit = "e2700e3cffdc6d0040746760de79c3c70971efed"
 owners = ["ViewtifulSlayer"]
 project_path = "TalkTypewriter"
 
