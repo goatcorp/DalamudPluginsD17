@@ -1,0 +1,11 @@
+# DalamudPluginsD17 submission draft (testing channel).
+# Copy this folder to testing/live/TalkTypewriter in your fork of goatcorp/DalamudPluginsD17.
+# Only `commit` needs filling in after the first push to main: use the full 40-character SHA.
+[plugin]
+repository = "https://github.com/ViewtifulSlayer/FFXIV-TalkTypewriter"
+commit = "4bd6618c3f891eb6e3b8ff648e2aead8b85c7a81"
+owners = ["ViewtifulSlayer"]
+project_path = "TalkTypewriter"
+
+# Optional, and must be written by you rather than generated: shown in the installer.
+# changelog = "Initial release."
