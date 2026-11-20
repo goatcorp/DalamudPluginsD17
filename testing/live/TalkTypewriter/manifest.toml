@@ -2,7 +2,7 @@
 # Copy this folder to testing/live/TalkTypewriter in your fork of goatcorp/DalamudPluginsD17.
 # Only `commit` needs filling in after the first push to main: use the full 40-character SHA.
 [plugin]
-repository = "https://github.com/ViewtifulSlayer/FFXIV-TalkTypewriter"
+repository = "https://github.com/ViewtifulSlayer/FFXIV-TalkTypewriter.git"
 commit = "e2700e3cffdc6d0040746760de79c3c70971efed"
 owners = ["ViewtifulSlayer"]
 project_path = "TalkTypewriter"
