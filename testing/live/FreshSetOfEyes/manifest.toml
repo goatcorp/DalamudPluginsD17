@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/astrodoobs/FreshEyes.git"
+commit = "8eb4ea2f4f3845768f5dfd3961c544f270f211d2"
+owners = ["astrodoobs"]
+project_path = "StopTheClip"
+changelog = "Initial submission: true first person camera, formerly StopTheClip."
