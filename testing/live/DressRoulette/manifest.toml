@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Lenile/DressRoulette.git"
+commit = "8d913bbc2148311ff82888658293f298025fc59f"
+owners = ["Lenile"]
+project_path = "DressRoulette"
+changelog = "First release: a daily glamour theme shared by every player, a free wheel with your own themes, and a sharing streak with jokers."
