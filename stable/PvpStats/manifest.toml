@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "ba41904e9cdd2d3c4cb77800945a1a30c8f88715"
+commit = "fae03f5a95837edfd7e0b63d559e827f7497b973"
 owners = ["wrath16"]
 maintainers = ["rennalol"]
 project_path = "PvpStats"
 changelog = """
-* Added IPC service.
+* Updated time filter options.
 """
