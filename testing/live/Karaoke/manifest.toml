@@ -1,11 +1,12 @@
 [plugin]
 repository = "https://github.com/RajahOmen/Karaoke.git"
-commit = "8ea1efacf8bdfce4d3d9f44cca0b43d9ccc753ac"
+commit = "519c7b8661892c1481bd2d55477dc7ffc7868223"
 owners = ["RajahOmen"]
 project_path = "Karaoke"
 changelog = """\
+**Fixed**
+- Issue where plugin window would adjust itself offscreen on start
+
 **Added**
-- Button to easily create new song lyric requests for songs without lyrics for evercold
-  - Create by clicking the button on the main karaoke window when a song is playing with no lyrics, or in the "other" section of the config window
-  - Does some rudimentary checks for duplicate issues, but please double check existing issues regardless!
+- Config option to explicitly set the lyric window grow direction
 """
