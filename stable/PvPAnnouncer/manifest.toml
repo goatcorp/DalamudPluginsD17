@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/spide-r/PvPAnnouncer.git"
-commit = "1f081d0293fff1eeb5ceb2eb45ec136724192a0d"
+commit = "26e88b731311bf52161d4f842aded980544dd360"
 owners = ["spide-r"]
 project_path = "PvPAnnouncer"
-changelog = "Minor fixes. New Urianger line."
+changelog = "Fixes and tweaks."
