@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/Charlie1361/xivibration.git"
+commit = "ef5b9976b610e633437e394f662e4ea8c364b521"
+owners = ["Charlie1361"]
+project_path = "XIVibration"
+changelog = "First release."
