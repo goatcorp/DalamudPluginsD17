@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/GitHixy/HitSpark.git"
-commit = "5a4c592e97c66461487d014dc40d255ce234fd70"
+commit = "d1f1c975be30433ae75ade6a1c4ed693ac5cf088"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-- Critical, direct and critical direct auto-attacks now have their own styles, separate from your abilities. They start out looking exactly like before, your presets included, until you change them. Pet attacks count as auto-attacks.
-- New "Caption font" option: the action name or label can use a different font from the number. It stays the same as the number unless you pick one.
-- Game Default now shows action names in the interface font under its serif numbers, like the game does.
+- New "Custom" font: pick "Custom (your choice)" as the font of a number or caption, then "Choose…" to open Dalamud's font chooser with the game's, Dalamud's and your installed Windows fonts. To use a font of your own, install it in Windows first. The choice is kept in your settings, so it applies to every preset that uses Custom.
 """
