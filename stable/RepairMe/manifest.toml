@@ -1,5 +1,6 @@
 [plugin]
 repository = "https://github.com/chalkos/RepairMe.git"
-commit = "0ceffc13316367df79b796ecddd35909a81e4072"
+commit = "e95fa5649754fcfd4de48c6df6fe4f3693b3a4c3"
 owners = [ "SamuraiKal", "chalkos" ]
 project_path = "RepairMe"
+changelog = "v2.0.0: new tabbed settings window; new alerts for repairable gear and empty equipment slots; server info bar (DTR) entries; alert/label scaling and per-alert sounds; spiritbond minimum item level filter; /repairme subcommands; percentages now round down. Existing configurations are migrated."
