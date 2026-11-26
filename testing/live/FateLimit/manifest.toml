@@ -1,13 +1,10 @@
 [plugin]
 repository = "https://github.com/GitHixy/FateLimit.git"
-commit = "7a62c45efaa634786e71b07a6d7e3a24e583d3a9"
+commit = "bd76c0910e086f2f07c0120221c4e67093d92d52"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 0.1.0
+# Version 0.2.0
 
-- Five Border styles
-- show borders all the time or only when getting closer to the limit
-- Option to only show the border in the fate that you're currently in
-- borders follow terrain
+- Parts of a border hidden from the camera by hills, walls or rocks now fade out instead of showing through them (Settings → General → Hide behind terrain). Suggested by players on the FateLimit Discord.
 """
