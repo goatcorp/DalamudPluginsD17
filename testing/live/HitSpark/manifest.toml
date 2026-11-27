@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/GitHixy/HitSpark.git"
-commit = "d1f1c975be30433ae75ade6a1c4ed693ac5cf088"
+commit = "4e78a9d273532374df275f0248c1672803125f7c"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-- New "Custom" font: pick "Custom (your choice)" as the font of a number or caption, then "Choose…" to open Dalamud's font chooser with the game's, Dalamud's and your installed Windows fonts. To use a font of your own, install it in Windows first. The choice is kept in your settings, so it applies to every preset that uses Custom.
+- Fixed: experience showed a small, wrong number (like "29 EXP") instead of the EXP you actually gained.
 """
