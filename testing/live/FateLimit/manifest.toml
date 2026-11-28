@@ -1,10 +1,13 @@
 [plugin]
 repository = "https://github.com/GitHixy/FateLimit.git"
-commit = "bd76c0910e086f2f07c0120221c4e67093d92d52"
+commit = "0406d04243c20382323f979734a5907a2e273ea8"
 owners = ["GitHixy"]
 project_path = "."
 changelog = """
-# Version 0.2.0
+# Version 0.3.0
 
-- Parts of a border hidden from the camera by hills, walls or rocks now fade out instead of showing through them (Settings → General → Hide behind terrain). Suggested by players on the FateLimit Discord.
+- Borders no longer draw over the game's windows: hotbars, chat, the party list and the rest now sit on top of them (Settings → General → Hide behind game UI).
+- Parts of a border running behind your character are now hidden, following your silhouette, instead of being drawn over you (Settings → General → Hide behind your character).
+- New Diagnostics option to outline which windows and which part of your character the borders are kept out of.
+- Suggested by players on the FateLimit Discord.
 """
