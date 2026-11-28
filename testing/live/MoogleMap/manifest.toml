@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/GitHixy/MoogleMap.git"
+commit = "dd3e7faecd89b97b5a98a8eb140e77bdd7133548"
+owners = ["GitHixy"]
+project_path = "."
