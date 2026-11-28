@@ -1,12 +1,20 @@
 [plugin]
 repository = "https://github.com/megurte/WhichMount.git"
-commit = "3f66d8d0486fa9babfa889840f6d5d9d3e1ea556"
+commit = "27d5dfa4a989c3d2591f717757b800c6666e1c5f"
 owners = [
     "megurte"
 ]
 project_path = "WhichMount"
-version = "1.5.5"
+version = "1.5.6"
 changelog = """
+Version 1.5.6:
+  - New feature: approximate Online Store price in non-store currencies (Brazilian real, Ukrainian hryvnia and more). Option added in mount database window
+  - New feature: mount database filters - unlocked, obtainable, market board, Mog Station and acquisition category
+  - New feature: 'Search in sources' option to search by how a mount is obtained
+  - 7.55 and 7.56 patch mount data update, missing sources filled for older mounts
+  - Window and table widths follow the Dalamud UI scale
+  - Fixed unbalanced window drawing when the mount list is collapsed
+
 Version 1.5.5:
   - New feature: click a mount icon to link it in chat - mounts with a whistle are linked as a native item link
   - New feature: 'Open in WhichMount' context menu entry on whistle and totem links in chat, opens the database with that mount
@@ -15,11 +23,4 @@ Version 1.5.5:
   - Improved totem tracking
   - Expansion filter in the mount database
 
-Version 1.5.0:
-  - New feature: tracking farmable mounts from trials and it's totems count on character
-  - Fixed error on table tabs toggle
-  - 7.51 patch mount data update
-
-Version 1.4.2:
-  - 7.5 patch mount data update
 """
