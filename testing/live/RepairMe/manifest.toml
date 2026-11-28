@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/chalkos/RepairMe.git"
+commit = "397d4169e702c37b78efbf123f8dba5f8a82a383"
+owners = [ "SamuraiKal", "chalkos" ]
+project_path = "RepairMe"
+changelog = "v2.0.1: new tabbed settings window; new alerts for repairable gear and empty equipment slots; server info bar (DTR) entries; alert/label scaling and per-alert sounds; spiritbond minimum item level filter; /repairme subcommands; percentages now round down; bar overlays no longer draw when their window is hidden, and ImGui windows, tabs and tables are always closed even if drawing fails. Existing configurations are migrated."
